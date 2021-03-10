@@ -1,5 +1,9 @@
 # Job-Posting-Big-Data
 
+## Introduction
+
+This project utilized the web interface to quickly check what's in there. Afterward, we downloaded results via cdx_toolkit either from the command line or from Python codes in which we fetched indices of results with HTTP requests for customized usecases. There are other tools as well such as the CDX Index Client for both command line use and comcrawl from python, but they seem less flexible than the primary option in use for this project.
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -96,7 +100,9 @@ Windows:
 
 ### Apache Spark
 
-### 
+### Common Crawl Capture Index
+
+* 
 
 ## Using <project_name>
 
