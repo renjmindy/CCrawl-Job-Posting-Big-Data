@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project utilized the [web interface](https://index.commoncrawl.org/) to quickly check what's in there. Afterward, we downloaded results via [cdx_toolkit](https://github.com/cocrawler/cdx_toolkit/) either from the command line or from Python codes in which we fetched indices of results with [HTTP requests](https://pypi.org/project/requests/) for customized usecases. There are other tools as well such as the [CDX Index Client](https://github.com/ikreymer/cdx-index-client/) for both command line use and [comcrawl](https://pypi.org/project/comcrawl/) from python, but they seem less flexible than the primary option in use for this project.
+This project utilized the [web interface](https://index.commoncrawl.org/) to quickly check what's in there. Afterward, we downloaded indices of results via [cdx_toolkit](https://github.com/cocrawler/cdx_toolkit/) and/or [HTTP requests](https://pypi.org/project/requests/) either from the command line or from Python codes in which we fetched content of results along with [beautiful soup](https://pypi.org/project/beautifulsoup4/) for customized usecases. There are other tools as well such as the [CDX Index Client](https://github.com/ikreymer/cdx-index-client/) for both command line use and [comcrawl](https://pypi.org/project/comcrawl/) from python, but they seem less flexible than the primary option in use for this project.
 
 ## Prerequisites
 
