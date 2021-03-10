@@ -79,7 +79,7 @@ When developing a Web application, the request/response cycle is a useful guide 
 
 ## Installing Softwares
 
-Prior to running `Job-Posting-Big-Data`, follow these steps to install necessary softwares:
+Prior to running `Job-Posting-Big-Data`, please go through a recommendation list of following softwares for the further installation as demanded :
 
 ### Anaconda 3
 
