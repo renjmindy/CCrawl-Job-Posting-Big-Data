@@ -95,13 +95,81 @@ Windows: [follow me](https://docs.anaconda.com/anaconda/install/windows/)
 
 #### Using the Web Interface
 
-* 
+* common crawl index server [here](https://index.commoncrawl.org/)
+* Jan 2021 index info page [here](https://index.commoncrawl.org/CC-MAIN-2021-04)
 
 #### CDX Toolkit
 
+* common crawl index search toolkit [here](https://github.com/cocrawler/cdx_toolkit/)
+
+```
+python -m pip install cdx_toolkit.
+```
+
+  - CDX Toolkit in the Command Line
+
+    + Web Archive content [here](https://github.com/webrecorder/warcio)
+
+    ```
+    pip install warcio
+    ```
+
+  - CDX Toolkit in Python
+
 #### Using the index directly
 
+* CDX index API client [here](https://github.com/ikreymer/cdx-index-client/)
+* CDX server API [here](https://github.com/webrecorder/pywb/wiki/CDX-Server-API)
+* pywb [here](https://github.com/webrecorder/pywb)
+
+  - Getting the available collections
+  - Simple CDX Query
+  - Adding filters and options
+  - Handling zero results
+  - Dealing with Pagination
+  - Retrieving Content
+
+#### Searching HTML with BeautifulSoup
+
+* beautiful soup [here](https://www.crummy.com/software/BeautifulSoup/)
+* html5 parser [here](https://html5-parser.readthedocs.io/en/latest/)
+* html2text [here](https://pypi.org/project/html2text/)
+
+```
+python -m pip install html2text
+```
+
+* mistletoe[here](https://github.com/miyuchina/mistletoe)
+
+```
+python -m pip install mistletoe
+```
+
 #### Searching and fetching with Python and comcrawl (Optional)
+
+* comcrawl [here](https://github.com/michaelharms/comcrawl)
+
+```
+python -m pip install commcrawl
+```
+
+### Machine Learning Models
+
+* Word2Vec [white paper](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) [gensim](https://radimrehurek.com/gensim/index.html#install)
+
+```
+pip install -U gensim
+```
+
+* TensorFlow-keras [keras-API](https://keras.io/api/)
+
+```
+pip install tensorflow
+```
+
+```
+pip install keras
+```
 
 ## Using <project_name>
 
