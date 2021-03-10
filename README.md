@@ -139,7 +139,7 @@ python -m pip install cdx_toolkit.
 python -m pip install html2text
 ```
 
-* mistletoe[here](https://github.com/miyuchina/mistletoe)
+* mistletoe [here](https://github.com/miyuchina/mistletoe)
 
 ```
 python -m pip install mistletoe
@@ -155,7 +155,7 @@ python -m pip install commcrawl
 
 ### Machine Learning Models
 
-* Word2Vec [white paper](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) [gensim](https://radimrehurek.com/gensim/index.html#install)
+* Word2Vec [white-paper](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) / [gensim](https://radimrehurek.com/gensim/index.html#install)
 
 ```
 pip install -U gensim
