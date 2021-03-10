@@ -4,7 +4,7 @@
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of [cdx-toolkit](https://github.com/cocrawler/cdx_toolkit)
+* You have installed the latest version of [anaconda3](https://www.anaconda.com/products/individual)
 * You have a `<Windows/Linux/Mac>` machine. 
 * You have read a list of links about how to download and manipuate common crawl data as follows:
 
@@ -73,19 +73,31 @@ In the example image above, we can see the above-mentioned setup in action. A br
 
 When developing a Web application, the request/response cycle is a useful guide to see how all the components of the app fit together. The request/response cycle traces how a user's request flows through the app. Understanding the request/response cycle is helpful to figure out which files to edit when developing an app (and where to look when things aren't working).
 
-## Installing <project_name>
+## Installing Softwares
 
-To install <project_name>, follow these steps:
+Prior to running `Job-Posting-Big-Data`, follow these steps to install necessary softwares:
 
-Linux and macOS:
+### Anaconda 3
+
+Linux:
 ```
-<install_command>
+[follow me](https://docs.anaconda.com/anaconda/install/linux/)
+```
+
+macOS:
+```
+[follow me](https://docs.anaconda.com/anaconda/install/mac-os/)
 ```
 
 Windows:
 ```
-<install_command>
+[follow me](https://docs.anaconda.com/anaconda/install/windows/)
 ```
+
+### Apache Spark
+
+### 
+
 ## Using <project_name>
 
 To use <project_name>, follow these steps:
