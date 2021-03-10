@@ -4,6 +4,11 @@
 
 This project utilized the [web interface](https://index.commoncrawl.org/) to quickly check what's in there. Afterward, we downloaded `indices` of results via [cdx_toolkit](https://github.com/cocrawler/cdx_toolkit/) and/or [HTTP requests](https://pypi.org/project/requests/) from either the command line or Python codes, in which we fetched `contents` of results via iterating over a series of cdx-associated objects ([warcio](https://pypi.org/project/warcio/https://pypi.org/project/warcio/)) along with [beautiful soup](https://pypi.org/project/beautifulsoup4/), [html2text](https://pypi.org/project/html2text/), [markdown](https://pypi.org/project/Markdown/) and [mistletoe](https://github.com/miyuchina/mistletoe) for customized usecases. There are other tools as well such as the [CDX Index Client](https://github.com/ikreymer/cdx-index-client/) for both command line use and [comcrawl](https://pypi.org/project/comcrawl/) in Python. They, however, seem less flexible than the primary option as mentioned previously to be in use for this project.
 
+## Questions:
+
+### 7/ Qualifications and Certifications
+Q: What are the top three qualifications or certifications requested by employers?
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -192,11 +197,6 @@ To contribute to <project_name>, follow these steps:
 5. Create the pull request.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## Questions:
-
-### 7/ Qualifications and Certifications
-Q: What are the top three qualifications or certifications requested by employers?
 
 ## Contributors
 
