@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project utilized the web interface to quickly check what's in there. Afterward, we downloaded results via cdx_toolkit either from the command line or from Python codes in which we fetched indices of results with HTTP requests for customized usecases. There are other tools as well such as the CDX Index Client for both command line use and comcrawl from python, but they seem less flexible than the primary option in use for this project.
+This project utilized the [web interface](https://index.commoncrawl.org/) to quickly check what's in there. Afterward, we downloaded results via [cdx_toolkit](https://github.com/cocrawler/cdx_toolkit/) either from the command line or from Python codes in which we fetched indices of results with [HTTP requests](https://pypi.org/project/requests/) for customized usecases. There are other tools as well such as the [CDX Index Client](https://github.com/ikreymer/cdx-index-client/) for both command line use and [comcrawl](https://pypi.org/project/comcrawl/) from python, but they seem less flexible than the primary option in use for this project.
 
 ## Prerequisites
 
@@ -83,22 +83,13 @@ Prior to running `Job-Posting-Big-Data`, follow these steps to install necessary
 
 ### Anaconda 3
 
-Linux:
-```
-[follow me](https://docs.anaconda.com/anaconda/install/linux/)
-```
+Linux: [follow me](https://docs.anaconda.com/anaconda/install/linux/)
 
-macOS:
-```
-[follow me](https://docs.anaconda.com/anaconda/install/mac-os/)
-```
+macOS: [follow me](https://docs.anaconda.com/anaconda/install/mac-os/)
 
-Windows:
-```
-[follow me](https://docs.anaconda.com/anaconda/install/windows/)
-```
+Windows: [follow me](https://docs.anaconda.com/anaconda/install/windows/)
 
-### Apache Spark
+### Apache Spark (PySpark)
 
 ### Common Crawl Capture Index
 
