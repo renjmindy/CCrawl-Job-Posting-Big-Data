@@ -94,8 +94,6 @@ macOS: [follow me](https://docs.anaconda.com/anaconda/install/mac-os/)
 
 Windows: [follow me](https://docs.anaconda.com/anaconda/install/windows/)
 
-### Apache Spark (PySpark + Docker Hub)
-
 ### Common Crawl Capture Index
 
 #### Using the Web Interface
