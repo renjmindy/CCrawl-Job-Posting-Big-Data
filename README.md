@@ -54,7 +54,7 @@ data                       | computing                 | programming            
 ![](./fig/fig13.png)       |  ![](./fig/fig14.png)     |  ![](./fig/fig15.png)     |  ![](./fig/fig16.png)
 
 
-qualifications             | collaboration             | machine                   | designer
+qualifications             | collaboration             | machine                   | developer
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](./fig/fig17.png)       |  ![](./fig/fig18.png)     |  ![](./fig/fig19.png)     |  ![](./fig/fig22.png)
 
