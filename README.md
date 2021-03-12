@@ -47,15 +47,15 @@ qualification              | certification             | experience             
 ![](./fig/fig5.png)        |  ![](./fig/fig6.png)      |  ![](./fig/fig7.png)      |  ![](./fig/fig8.png)
 
 
-| qualification | certification
-| :---------------: | :---------------: |
-| btech (Bachelor of Technology) | cpp (Certified Payroll Professional) |
-| mca (Master of Computer Application) | bls (Basic Life Support) |
-| gnm (General Nursing Midwifery) | az (Azure) |
-| mba (Master of Business Administration) | |
-| bca (Bachelor of Computer Application) | |
-| mcom (Master of Commerce) | |
-| msc (Master of Science) | |
+| qualification | certification | experience | skills | 
+| :---------------: | :---------------: | :---------------: | :---------------: |
+| btech (Bachelor of Technology) | cpp (Certified Payroll Professional) | five | |
+| mca (Master of Computer Application) | bls (Basic Life Support) | supervisory | |
+| gnm (General Nursing Midwifery) | az (Azure) | discipline | |
+| mba (Master of Business Administration) | gauging | prior | |
+| bca (Bachelor of Computer Application) | awareness | musthave | |
+| mcom (Master of Commerce) | ergonomic | ideally | |
+| msc (Master of Science) | datacenter | years | |
 
 technologies               | abilities                 | industrial                | degree
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
