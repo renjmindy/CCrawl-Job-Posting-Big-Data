@@ -49,13 +49,13 @@ qualification              | certification             | experience             
 
 | qualification | certification | experience | skills | 
 | :---------------: | :---------------: | :---------------: | :---------------: |
-| btech (Bachelor of Technology) | cpp (Certified Payroll Professional) | five | |
-| mca (Master of Computer Application) | bls (Basic Life Support) | supervisory | |
-| gnm (General Nursing Midwifery) | az (Azure) | discipline | |
-| mba (Master of Business Administration) | gauging | prior | |
-| bca (Bachelor of Computer Application) | awareness | musthave | |
-| mcom (Master of Commerce) | ergonomic | ideally | |
-| msc (Master of Science) | datacenter | years | |
+| btech (Bachelor of Technology) | cpp (Certified Payroll Professional) | five | interpersonal |
+| mca (Master of Computer Application) | bls (Basic Life Support) | supervisory | excellent |
+| gnm (General Nursing Midwifery) | az (Azure) | discipline | verbal |
+| mba (Master of Business Administration) | gauging | prior | organizational |
+| bca (Bachelor of Computer Application) | awareness | musthave | communication |
+| mcom (Master of Commerce) | ergonomic | ideally | analytical |
+| msc (Master of Science) | datacenter | years | multitasking |
 
 technologies               | abilities                 | industrial                | degree
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
