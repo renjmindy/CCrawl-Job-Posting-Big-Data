@@ -47,15 +47,15 @@ qualification              | certification             | experience             
 ![](./fig/fig5.png)        |  ![](./fig/fig6.png)      |  ![](./fig/fig7.png)      |  ![](./fig/fig8.png)
 
 
-| Keywords | Top-ranked |
+| qualification | certification
 | :---------------: | :---------------: |
-| qualification | btech (Bachelor of Technology) | 
-|  | mca (Master of Computer Application) | 
-|  | gnm (General Nursing Midwifery) |
-|  | mba (Master of Business Administration) |
-|  | bca () |
-|  | mcom |
-|  | msc |
+| btech (Bachelor of Technology) | cpp (Certified Payroll Professional) |
+| mca (Master of Computer Application) | bls (Basic Life Support) |
+| gnm (General Nursing Midwifery) | az (Azure) |
+| mba (Master of Business Administration) | |
+| bca (Bachelor of Computer Application) | |
+| mcom (Master of Commerce) | |
+| msc (Master of Science) | |
 
 technologies               | abilities                 | industrial                | degree
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -81,6 +81,7 @@ In the following, I'll utilize transfer learning, loading in the weights from an
 | Support Vector Machine | 78.4% | 
 | Logistic Regression | 78.7% |
 | Gradient Boosting | 84.2% |
+| Multi-layer Percepton | (86-87)% |
 
 
 loss             | accuracy
