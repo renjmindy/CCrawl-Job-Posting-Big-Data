@@ -57,9 +57,21 @@ qualification              | certification             | experience             
 | mcom (Master of Commerce) | ergonomic | ideally | analytical |
 | msc (Master of Science) | datacenter | years | multitasking |
 
+
 technologies               | abilities                 | industrial                | degree
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](./fig/fig9.png)        |  ![](./fig/fig10.png)     |  ![](./fig/fig11.png)     |  ![](./fig/fig12.png)
+
+
+| technologies | abilities | industrial | degree | 
+| :---------------: | :---------------: | :---------------: | :---------------: |
+| database | cpp (Certified Payroll Professional) | five | interpersonal |
+| hadoop | bls (Basic Life Support) | supervisory | excellent |
+| gnm (General Nursing Midwifery) | az (Azure) | discipline | verbal |
+| mba (Master of Business Administration) | gauging | prior | organizational |
+| bca (Bachelor of Computer Application) | awareness | musthave | communication |
+| mcom (Master of Commerce) | ergonomic | ideally | analytical |
+| msc (Master of Science) | datacenter | years | multitasking |
 
 
 data                       | computing                 | programming               | languages
