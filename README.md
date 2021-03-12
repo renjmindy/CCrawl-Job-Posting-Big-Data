@@ -15,7 +15,7 @@ In this analysis, we worked with almost 100k different documents, each containin
 
 3D t-SNE             | 2D t-SNE
 :-------------------------:|:-------------------------:
-![](./fig/fig1.png)  |  ![](./fig/fig2.png) 
+![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig1.png)  |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig2.png) 
 
 #### Normalized Word Frequency 
 
