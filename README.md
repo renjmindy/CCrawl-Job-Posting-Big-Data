@@ -15,19 +15,22 @@ In this analysis, we worked with almost 100k different documents, each containin
 
 3D t-SNE             | 2D t-SNE
 :-------------------------:|:-------------------------:
-![fig1](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig1.png)  |  ![fig2](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig2.png) 
+![](./fig/fig1.png)  |  ![](./fig/fig2.png) 
+
 
 #### Normalized Word Frequency 
 
 Machine Learning algorithms don't understand strings. However, they do understand math, which means they understand vectors and matrices. By Vectorizing the text, we just convert the entire text into a vector, where each element in the vector represents a different word. Let's create one frequency distribution by means of tokenizing every single text file. Then, we tried to answer what is the size of the total vocabulary used in every single job ad plain text file. Afterward, we inspected the top 1k most common words. Knowing the frequency with which each word is used is somewhat informative, but without the context of how many words are used in total, it doesn't tell us much. One way we can adjust for this is to use Normalized Word Frequency, which we can compute by dividing each word frequency by the total number of words. 
 
-![fig3](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig3.png)
+
+![](./fig/fig3.png)
+
 
 #### Bi-grams
 
 Knowing individual word frequencies is somewhat informative, but in practice, some of these tokens are actually parts of larger phrases that should be treated as a single unit. So now let's create some bigrams, and see which combinations of words are most telling.
 
-![fig4](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig4.png)
+![](./fig/fig4.png)
 
 #### Word2Vec Model Training
 
@@ -41,12 +44,12 @@ Now that I have a trained Word2Vec model, go ahead and explore the relationships
 
 qualification              | certification             | experience                | skills
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig5.png)        |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig6.png)      |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig7.png)      |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig8.png)
+![](./fig/fig5.png)        |  ![](./fig/fig6.png)      |  ![](./fig/fig7.png)      |  ![](./fig/fig8.png)
 
 
 technologies               | abilities                 | industrial                | degree
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig9.png)        |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig10.png)     |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig11.png)     |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig12.png)
+![](./fig/fig9.png)        |  ![](./fig/fig10.png)     |  ![](./fig/fig11.png)     |  ![](./fig/fig12.png)
 
 
 data                       | computing                 | programming               | languages
@@ -61,6 +64,13 @@ qualifications             | collaboration             | machine                
 #### Machine / Deep Learning NLP Models
 
 In the following, I'll utilize transfer learning, loading in the weights from an open-sourced model that has already been trained for a very long time on a massive amount of data. Specifically, I'll work with the GloVe model from the Stanford NLP Group. There's not really any benefit from training the model ourselves, unless my text uses different, specialized vocabulary that isn't likely to be well represented inside an open-source model.
+
+| Machine Learning Models | Accuracy |
+| :---------------: | :---------------: |
+| Random Forest | 86.5% | 
+| Support Vector Machine | 78.4% | 
+| Logistic Regression | 78.7% |
+| Gradient Boosting | 84.2% |
 
 
 loss             | accuracy
