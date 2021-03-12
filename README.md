@@ -38,7 +38,8 @@ We created our own word embeddings by making use of the Word2Vec model. Then, we
 
 Now that I have a trained Word2Vec model, go ahead and explore the relationships between some of the words in the corpus! One cool thing I can use Word2Vec for is to get the most similar words to a given word. Here, I tried getting the most similar word to 'qualification'.
 
-3D t-SNE                   | 2D t-SNE                  |                           |
+
+3D t-SNE                   | 2D t-SNE                  | 3D t-SNE                  | 3D t-SNE
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](./fig/fig5.png)        |  ![](./fig/fig6.png)      |  ![](./fig/fig7.png)      |  ![](./fig/fig8.png)
 
