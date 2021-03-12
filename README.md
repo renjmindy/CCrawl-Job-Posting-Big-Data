@@ -38,6 +38,10 @@ We created our own word embeddings by making use of the Word2Vec model. Then, we
 
 Now that I have a trained Word2Vec model, go ahead and explore the relationships between some of the words in the corpus! One cool thing I can use Word2Vec for is to get the most similar words to a given word. Here, I tried getting the most similar word to 'qualification'.
 
+3D t-SNE                   | 2D t-SNE                  |                           |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](./fig/fig5.png)        |  ![](./fig/fig6.png)      |  ![](./fig/fig7.png)      |  ![](./fig/fig8.png)
+
 #### Machine / Deep Learning NLP Models
 
 In the following, I'll utilize transfer learning, loading in the weights from an open-sourced model that has already been trained for a very long time on a massive amount of data. Specifically, I'll work with the GloVe model from the Stanford NLP Group. There's not really any benefit from training the model ourselves, unless my text uses different, specialized vocabulary that isn't likely to be well represented inside an open-source model.
