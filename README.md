@@ -15,19 +15,19 @@ In this analysis, we worked with almost 100k different documents, each containin
 
 3D t-SNE             | 2D t-SNE
 :-------------------------:|:-------------------------:
-![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig1.png)  |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig2.png) 
+![fig1](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig1.png)  |  ![fig2](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig2.png) 
 
 #### Normalized Word Frequency 
 
 Machine Learning algorithms don't understand strings. However, they do understand math, which means they understand vectors and matrices. By Vectorizing the text, we just convert the entire text into a vector, where each element in the vector represents a different word. Let's create one frequency distribution by means of tokenizing every single text file. Then, we tried to answer what is the size of the total vocabulary used in every single job ad plain text file. Afterward, we inspected the top 1k most common words. Knowing the frequency with which each word is used is somewhat informative, but without the context of how many words are used in total, it doesn't tell us much. One way we can adjust for this is to use Normalized Word Frequency, which we can compute by dividing each word frequency by the total number of words. 
 
-![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig3.png)
+![fig3](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig3.png)
 
 #### Bi-grams
 
 Knowing individual word frequencies is somewhat informative, but in practice, some of these tokens are actually parts of larger phrases that should be treated as a single unit. So now let's create some bigrams, and see which combinations of words are most telling.
 
-![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig4.png)
+![fig4](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig4.png)
 
 #### Word2Vec Model Training
 
@@ -46,7 +46,7 @@ qualification              | certification             | experience             
 
 technologies               | abilities                 | industrial                | degree
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](./fig/fig9.png)        |  ![](./fig/fig10.png)     |  ![](./fig/fig11.png)     |  ![](./fig/fig12.png)
+![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig9.png)        |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig10.png)     |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig11.png)     |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig12.png)
 
 
 data                       | computing                 | programming               | languages
