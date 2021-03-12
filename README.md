@@ -62,13 +62,6 @@ qualifications             | collaboration             | machine                
 
 In the following, I'll utilize transfer learning, loading in the weights from an open-sourced model that has already been trained for a very long time on a massive amount of data. Specifically, I'll work with the GloVe model from the Stanford NLP Group. There's not really any benefit from training the model ourselves, unless my text uses different, specialized vocabulary that isn't likely to be well represented inside an open-source model.
 
-| Machine Learning Models | Accuracy |
-| :---------------: | :---------------: |
-| Random Forest | 86.5% | 
-| Support Vector Machine | 78.4% | 
-| Logistic Regression | 78.7% |
-| Gradient Boosting | 84.2% |
-
 
 loss             | accuracy
 :-------------------------:|:-------------------------:
