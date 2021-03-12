@@ -48,6 +48,16 @@ technologies               | abilities                 | industrial             
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](./fig/fig9.png)        |  ![](./fig/fig10.png)     |  ![](./fig/fig11.png)     |  ![](./fig/fig12.png)
 
+
+data                       | computing                 | programming               | languages
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](./fig/fig13.png)       |  ![](./fig/fig14.png)     |  ![](./fig/fig15.png)     |  ![](./fig/fig16.png)
+
+
+qualifications             | collaboration             | machine                   | designer
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](./fig/fig17.png)       |  ![](./fig/fig18.png)     |  ![](./fig/fig19.png)     |  ![](./fig/fig22.png)
+
 #### Machine / Deep Learning NLP Models
 
 In the following, I'll utilize transfer learning, loading in the weights from an open-sourced model that has already been trained for a very long time on a massive amount of data. Specifically, I'll work with the GloVe model from the Stanford NLP Group. There's not really any benefit from training the model ourselves, unless my text uses different, specialized vocabulary that isn't likely to be well represented inside an open-source model.
