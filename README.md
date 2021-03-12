@@ -13,9 +13,9 @@ Q: What are the top three qualifications or certifications requested by employer
 
 In this analysis, we worked with almost 100k different documents, each containing one single job AD. Prior to analyzing every single file, we needed to begin by pre-processing and cleaning our text data. Every Natural Language Processing (NLP) task requires the data be tokenized along with the use of regular expression. TF-IDF stands for Term Frequency, Inverse Document Frequency. TF-IDF weighs each term in a document by how unique it is to the given document, which allows us to summarize the contents of a document using a few key words. To visualize TF-IDF vectorization, we make use of a technique called t-SNE (short for t-Stochastic Neighbour Embedding). Both graphs show a basic trend among red and blue dots. In these two graphs, we see a separation between blue/red groups in which one contains selected key words but the other doesn't. This means that the elements of each group vector with the highest values will be the ones that have words that are unique, i.e. selected keywords here, to that specific document, or at least are rarely used in others.
 
-3D t-SNE             | 2D t-SNE
+3D t-SNE                   | 2D t-SNE
 :-------------------------:|:-------------------------:
-![](./fig/fig1.png)  |  ![](./fig/fig2.png) 
+![](./fig/fig1.png)        |  ![](./fig/fig2.png) 
 
 
 #### Normalized Word Frequency 
@@ -46,6 +46,16 @@ qualification              | certification             | experience             
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](./fig/fig5.png)        |  ![](./fig/fig6.png)      |  ![](./fig/fig7.png)      |  ![](./fig/fig8.png)
 
+
+| Keywords | Top-ranked |
+| :---------------: | :---------------: |
+| qualification | btech (Bachelor of Technology) | 
+|  | mca (Master of Computer Application) | 
+|  | gnm (General Nursing Midwifery) |
+|  | mba (Master of Business Administration) |
+|  | bca () |
+|  | mcom |
+|  | msc |
 
 technologies               | abilities                 | industrial                | degree
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
