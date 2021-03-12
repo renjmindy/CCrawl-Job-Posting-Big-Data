@@ -9,6 +9,29 @@ This project utilized the [web interface](https://index.commoncrawl.org/) to qui
 ### 7/ Qualifications and Certifications
 Q: What are the top three qualifications or certifications requested by employers?
 
+#### TF-IDF & t-SNE
+
+In this analysis, we worked with almost 100k different documents, each containing one single job AD. Prior to analyzing every single file, we needed to begin by pre-processing and cleaning our text data. Every Natural Language Processing (NLP) task requires the data be tokenized along with the use of regular expression. TF-IDF stands for Term Frequency, Inverse Document Frequency. TF-IDF weighs each term in a document by how unique it is to the given document, which allows us to summarize the contents of a document using a few key words. To visualize TF-IDF vectorization, we make use of a technique called t-SNE (short for t-Stochastic Neighbour Embedding). Both graphs show a basic trend among red and blue dots. In these two graphs, we see a separation between blue/red groups in which one contains selected key words but the other doesn't. This means that the elements of each group vector with the highest values will be the ones that have words that are unique, i.e. selected keywords here, to that specific document, or at least are rarely used in others.
+
+#### Normalized Word Frequency 
+
+Machine Learning algorithms don't understand strings. However, they do understand math, which means they understand vectors and matrices. By Vectorizing the text, we just convert the entire text into a vector, where each element in the vector represents a different word. Let's create one frequency distribution by means of tokenizing every single text file. Then, we tried to answer what is the size of the total vocabulary used in every single job ad plain text file. Afterward, we inspected the top 1k most common words. Knowing the frequency with which each word is used is somewhat informative, but without the context of how many words are used in total, it doesn't tell us much. One way we can adjust for this is to use Normalized Word Frequency, which we can compute by dividing each word frequency by the total number of words. 
+
+#### Bi-grams
+
+Knowing individual word frequencies is somewhat informative, but in practice, some of these tokens are actually parts of larger phrases that should be treated as a single unit. So now let's create some bigrams, and see which combinations of words are most telling.
+
+#### Word2Vec Model Training
+
+We created our own word embeddings by making use of the Word2Vec model. Then, we'll move onto building neural networks that make use of Embedding Layers.
+
+* Train a Word2Vec model and transform words into vectors
+* Obtain most similar words by using methods associated with word vectors
+
+Now that I have a trained Word2Vec model, go ahead and explore the relationships between some of the words in the corpus! One cool thing I can use Word2Vec for is to get the most similar words to a given word. Here, I tried getting the most similar word to 'qualification'.
+
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
