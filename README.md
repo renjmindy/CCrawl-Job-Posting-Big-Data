@@ -21,13 +21,13 @@ In this analysis, we worked with almost 100k different documents, each containin
 
 Machine Learning algorithms don't understand strings. However, they do understand math, which means they understand vectors and matrices. By Vectorizing the text, we just convert the entire text into a vector, where each element in the vector represents a different word. Let's create one frequency distribution by means of tokenizing every single text file. Then, we tried to answer what is the size of the total vocabulary used in every single job ad plain text file. Afterward, we inspected the top 1k most common words. Knowing the frequency with which each word is used is somewhat informative, but without the context of how many words are used in total, it doesn't tell us much. One way we can adjust for this is to use Normalized Word Frequency, which we can compute by dividing each word frequency by the total number of words. 
 
-![](./fig/fig3.png)
+![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig3.png)
 
 #### Bi-grams
 
 Knowing individual word frequencies is somewhat informative, but in practice, some of these tokens are actually parts of larger phrases that should be treated as a single unit. So now let's create some bigrams, and see which combinations of words are most telling.
 
-![](./fig/fig4.png)
+![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig4.png)
 
 #### Word2Vec Model Training
 
@@ -41,7 +41,7 @@ Now that I have a trained Word2Vec model, go ahead and explore the relationships
 
 qualification              | certification             | experience                | skills
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](./fig/fig5.png)        |  ![](./fig/fig6.png)      |  ![](./fig/fig7.png)      |  ![](./fig/fig8.png)
+![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig5.png)        |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig6.png)      |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig7.png)      |  ![](https://github.com/renjmindy/Job-Posting-Big-Data/blob/main/fig/fig8.png)
 
 
 technologies               | abilities                 | industrial                | degree
