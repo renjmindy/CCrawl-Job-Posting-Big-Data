@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project utilized the [web interface](https://index.commoncrawl.org/) to quickly check what's in there. Afterward, we downloaded `indices` of results via [cdx_toolkit](https://github.com/cocrawler/cdx_toolkit/) and/or [HTTP requests](https://pypi.org/project/requests/) from either the command line or Python codes, in which we fetched `contents` of results via iterating over a series of cdx-associated objects ([warcio](https://pypi.org/project/warcio/https://pypi.org/project/warcio/)) along with [beautiful soup](https://pypi.org/project/beautifulsoup4/), [html2text](https://pypi.org/project/html2text/), [markdown](https://pypi.org/project/Markdown/) and [mistletoe](https://github.com/miyuchina/mistletoe) for customized usecases. There are other tools as well such as the [CDX Index Client](https://github.com/ikreymer/cdx-index-client/) for both command line use and [comcrawl](https://pypi.org/project/comcrawl/) in Python. They, however, seem less flexible than the primary option as mentioned previously to be in use for this project.
+This project utilized the [web interface](https://index.commoncrawl.org/) to quickly check what's in there. Afterward, we downloaded common crawl `indices` via [cdx_toolkit](https://github.com/cocrawler/cdx_toolkit/) and/or [HTTP requests](https://pypi.org/project/requests/) from either the command line or Python codes, in which we fetched common crawl cURL `contents` via iterating over a series of cdx-associated objects ([warcio](https://pypi.org/project/warcio/https://pypi.org/project/warcio/)) along with [beautiful soup](https://pypi.org/project/beautifulsoup4/), [html2text](https://pypi.org/project/html2text/), [markdown](https://pypi.org/project/Markdown/) and [mistletoe](https://github.com/miyuchina/mistletoe) for customized usecases. There are other tools as well such as the [CDX Index Client](https://github.com/ikreymer/cdx-index-client/) for both command line use and [comcrawl](https://pypi.org/project/comcrawl/) in Python. They, however, seem less flexible than the primary option as mentioned previously to be in use for this project.
 
 ## Questions:
 
@@ -13,7 +13,9 @@ Q: What are the top three qualifications or certifications requested by employer
 
 In this analysis, we worked with almost 100k different documents, each containing one single job AD. Prior to analyzing every single file, we needed to begin by pre-processing and cleaning our text data. Every Natural Language Processing (NLP) task requires the data be tokenized along with the use of regular expression. TF-IDF stands for Term Frequency, Inverse Document Frequency. TF-IDF weighs each term in a document by how unique it is to the given document, which allows us to summarize the contents of a document using a few key words. To visualize TF-IDF vectorization, we make use of a technique called t-SNE (short for t-Stochastic Neighbour Embedding). Both graphs show a basic trend among red and blue dots. In these two graphs, we see a separation between blue/red groups in which one contains selected key words but the other doesn't. This means that the elements of each group vector with the highest values will be the ones that have words that are unique, i.e. selected keywords here, to that specific document, or at least are rarely used in others.
 
-![Fig1](./fig/fig1.png)
+3D              | 2D
+:-------------------------:|:-------------------------:
+![](./fig/fig1.png)  |  ![](./fig/fig2.png) 
 
 #### Normalized Word Frequency 
 
