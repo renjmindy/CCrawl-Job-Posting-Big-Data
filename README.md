@@ -67,15 +67,6 @@ loss             | accuracy
 ![](./fig/fig20.png)  |  ![](./fig/fig21.png) 
 
 
-
-| Machine Learning Models | Accuracy |
-| --------------- | --------------- |
-| Random Forest | 86.5% | 
-| Support Vector Machine | 78.4% | 
-| Logistic Regression | 78.7% |
-| Gradient Boosting | 84.2% |
-
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
