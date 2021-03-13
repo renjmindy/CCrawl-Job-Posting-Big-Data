@@ -79,7 +79,15 @@ data                       | computing                 | programming            
 ![](./fig/fig13.png)       |  ![](./fig/fig14.png)     |  ![](./fig/fig15.png)     |  ![](./fig/fig16.png)
 
 
-
+| data | computing | programming | languages | 
+| :---------------: | :---------------: | :---------------: | :---------------: |
+| structures | components |  | masters |
+| analytics | distributed |  | bachelor |
+| analysis | linux |  | science |
+| minitab | algorithms |  | postsecondary |
+| fpga (Field Programmable Gate Array) | architectures |  | phd |
+| sas | erp (Enterprise) |  | postgraduate |
+| pipelines | fpga (Field Programmable Gate Array) |  | bsc (Bachelor of Science) |
 
 
 qualifications             | collaboration             | machine                   | developer
