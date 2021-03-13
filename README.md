@@ -81,13 +81,13 @@ data                       | computing                 | programming            
 
 | data | computing | programming | languages | 
 | :---------------: | :---------------: | :---------------: | :---------------: |
-| structures | components |  | masters |
-| analytics | distributed |  | bachelor |
-| analysis | linux |  | science |
-| minitab | algorithms |  | postsecondary |
-| fpga (Field Programmable Gate Array) | architectures |  | phd |
-| sas | erp (Enterprise) |  | postgraduate |
-| pipelines | fpga (Field Programmable Gate Array) |  | bsc (Bachelor of Science) |
+| structures | components | python | python |
+| analytics | distributed | java | java |
+| analysis | linux | javascript | matlab |
+| minitab | algorithms | react | c |
+| fpga (Field Programmable Gate Array) | architectures | django | scala |
+| sas | erp (Enterprise) | git | r |
+| pipelines | fpga (Field Programmable Gate Array) | nodejs | framework |
 
 
 qualifications             | collaboration             | machine                   | developer
