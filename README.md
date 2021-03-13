@@ -94,6 +94,18 @@ qualifications             | collaboration             | machine                
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](./fig/fig17.png)       |  ![](./fig/fig18.png)     |  ![](./fig/fig19.png)     |  ![](./fig/fig22.png)
 
+
+| qualifications | collaboration | machine | developer | 
+| :---------------: | :---------------: | :---------------: | :---------------: |
+| minimum | competing | prescriptive | web |
+| representative | priorities | learning | wordpress |
+| counting | peers | neural | designer |
+| required | teamwork | algorithms | android |
+| age | diplomacy | computing | cooperating |
+| older | relationships | predictive | php |
+| preferred | effective | deep | mobile |
+
+
 #### Machine / Deep Learning NLP Models
 
 In the following, I'll utilize transfer learning, loading in the weights from an open-sourced model that has already been trained for a very long time on a massive amount of data. Specifically, I'll work with the GloVe model from the Stanford NLP Group. There's not really any benefit from training the model ourselves, unless my text uses different, specialized vocabulary that isn't likely to be well represented inside an open-source model.
@@ -289,26 +301,16 @@ Add run commands and examples you think users will find useful. Provide an optio
 
 ## Contributing to <project_name>
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
+To contribute to Job-Posting-Big-Data, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
+4. Push to the original branch: `git push origin Job-Posting-Big-Data/<location>`
 5. Create the pull request.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors
-
-Thanks to the following people who have contributed to this project:
-
-* [@scottydocs](https://github.com/scottydocs) 📖
-* [@cainwatson](https://github.com/cainwatson) 🐛
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
-
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
-
 ## Contact
 
-If you want to contact me you can reach me at <your_email@address.com>.
+If you want to contact me you can reach me at <jencmhep@gmail.com>.
