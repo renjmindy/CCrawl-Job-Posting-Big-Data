@@ -70,8 +70,8 @@ technologies               | abilities                 | industrial             
 | cloud | timemanagement | structural | science |
 | server | presentation | engineering | postsecondary |
 | paas (platform as a service) | thinking | mining | phd |
-| architectures | math | lawn | postgraduate |
-| iaas (infrastructure as a service) | efficiency | discipline | bsc (Bachelor of Science) |
+| architectures | math | discipline | postgraduate |
+| iaas (infrastructure as a service) | efficiency | production | bsc (Bachelor of Science) |
 
 
 data                       | computing                 | programming               | languages
