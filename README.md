@@ -65,18 +65,21 @@ technologies               | abilities                 | industrial             
 
 | technologies | abilities | industrial | degree | 
 | :---------------: | :---------------: | :---------------: | :---------------: |
-| database | cpp (Certified Payroll Professional) | five | interpersonal |
-| hadoop | bls (Basic Life Support) | supervisory | excellent |
-| gnm (General Nursing Midwifery) | az (Azure) | discipline | verbal |
-| mba (Master of Business Administration) | gauging | prior | organizational |
-| bca (Bachelor of Computer Application) | awareness | musthave | communication |
-| mcom (Master of Commerce) | ergonomic | ideally | analytical |
-| msc (Master of Science) | datacenter | years | multitasking |
+| database | competencies | mechanical | masters |
+| hadoop | interpersonal | electrical | bachelor |
+| cloud | timemanagement | structural | science |
+| server | presentation | engineering | postsecondary |
+| paas (platform as a service) | thinking | mining | phd |
+| architectures | math | lawn | postgraduate |
+| iaas (infrastructure as a service) | efficiency | discipline | bsc (Bachelor of Science) |
 
 
 data                       | computing                 | programming               | languages
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](./fig/fig13.png)       |  ![](./fig/fig14.png)     |  ![](./fig/fig15.png)     |  ![](./fig/fig16.png)
+
+
+
 
 
 qualifications             | collaboration             | machine                   | developer
