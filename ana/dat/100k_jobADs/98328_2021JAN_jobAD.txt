@@ -1,0 +1,76 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Here (S20) 
+ Personal, Shareable, Flexible Video Rooms 
+ Senior Video Engineer 
+ $100k - $150k • 0.25% - 0.75% 
+ Location 
+ New York and Remote / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Here 
+ Here is a new way for teams and friends to connect in personal, shareable and flexible video rooms. Our mission is to create a sense of closeness even if you’re worlds away. We do this by allowing people to create real-time, shared spaces where you meet to video chat, draw, write, upload pics and gifs, decorate and move around--all available in a web browser. Here is expressive, creative and fun. 
+ Our team has deep expertise building social, consumer, collaboration and messaging products at companies like Facebook, Groupon and Instagram. We founded and sold multiple venture-backed startups, and we recently raised a healthy seed round from top-tier investors to help us build out the Here team. 
+ About the role 
+ Who You Are 
+ 
+ You are a well-rounded engineer who has led the full life cycle of major projects. 
+ You have had success designing and implementing WebRTC infrastructure. You understand it well enough to execute building the full stack of a video app. You know how to measure and optimize a WebRTC SFU to give users the best possible experience under varying client conditions. 
+ You care deeply about the user. You want to blow their mind. 
+ You’re a decisive builder, a shipper, and a craftsperson. 
+ You move fast and work hard. 
+ You’re comfortable working in a problem space with a lot of uncharted territory. 
+ You do the right thing. 
+ You are opinionated but open, you want the best idea to win. 
+ 
+ What You’ll Do 
+ 
+ You’ll be primarily responsible for improving and scaling Here’s video infrastructure. We use Janus as our SFU to allow groups of users to communicate in real-time. As we grow, you’ll help us measure and improve the quality of these calls, support new client platforms, and expand the reliable number of concurrent users in a room. You’ll work both on the back-end configuration and infrastructure, as well as client-side implementation. 
+ You have the opportunity (requirement) to continually learn, teach, and step outside your comfort zone. 
+ You will work closely with an experienced founding team and get exposed to the early days and decisions that will make a startup successful. 
+ You will be responsible for the end-to-end execution of projects - from conception, through implementation, and measurement - that change the trajectory of Here. 
+ As Here grows, your role will grow. We expect the early team to be exceptional, and to grow as exceptional leaders. 
+ 
+ Our team is small--you’ll be one of our first few hires--which means you’ll have a lot of responsibility from the start. Here is an entirely new approach to video and personalization. At our most basic level, we’re building the way people want to interact with one another on video via the internet. We run lots of experiments, we take risks, we ship some really weird stuff. 
+ To Apply 
+ Feel free to use the WaaS message system or drop us a note at  [email protected]  about this role. Please include your LinkedIn, Github, and/or other relevant information that helps us understand who you are as a person and as a builder. Additionally, please check out  https://here.fm  and tell us what you think the product most needs. 
+ Technology 
+ Frontend:  JavaScript &nbsp 
+ Backend:  Node and Firebase &nbsp 
+ Video:  WebRTC and our own SFU 
+ Other jobs at Here 
+ Senior Full Stack Engineer 
+ fulltime 
+ New York / Remote / Remote 
+ Full Stack 
+ $100k - $150k 
+ 0.25% - 1.00% 
+ 6+ years 
+ Senior Product Designer 
+ fulltime 
+ New York / Remote 
+ UI / UX 
+ 3+ years 
+ Senior Video Engineer 
+ fulltime 
+ New York and Remote / Remote 
+ Full Stack 
+ $100k - $150k 
+ 0.25% - 0.75% 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

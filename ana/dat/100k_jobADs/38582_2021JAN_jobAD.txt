@@ -1,0 +1,87 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Senior Full-Stack Dev (remote OK) REMOTECONTRACT 
+ Job Description 
+ Looking for senior Full-Stack Dev (5+ years experience) for websites development in CraftCMS. 
+ We require knowledge of the following languages/technologies: 
+ 
+ Docker 
+ PHP 
+ CraftCMS 
+ MySQL 
+ Twig 
+ JS ES6 
+ Webpack (and some of its plugins like PostCSS, babel, and more) 
+ GIT + GIT Flow 
+ CI/CD basic understanding 
+ 
+ Required abilities: 
+ 
+ Ability to work in a dynamic (remote) team 
+ Ability to translate Designs into "self contained craft components/compositions" 
+ Ability to integrate 3rd party softwares with CraftCMS 
+ Self-sufficiency 
+ Problem solving skills (understand problems ---> create issues ---> find good solutions) 
+ Fluent English 
+ 
+ We'd love it, if you knew had any of these points: 
+ 
+ Extensive Experience with multipage PHP websites development 
+ Some experience with JS Frameworks (vue, angular, react, svelte, etc.) 
+ Experience with finding solutions to clients requests 
+ German (or any other) language 
+ Plugins development with CraftCMS 
+ 
+ How to Apply 
+ 
+ Send the CV to  [email protected] 
+ Show us motivation and why we should pick you 
+ Show us some relevant code (CraftCMS / PHP websites you've worked on) 
+ 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Welance 
+ 
+ __ 
+ 
+ Location:  Berlin, DE 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://welance.com 
+ __  Posted October 1, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

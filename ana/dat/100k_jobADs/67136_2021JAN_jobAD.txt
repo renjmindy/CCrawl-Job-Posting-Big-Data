@@ -1,0 +1,78 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Spellbrush (W18) 
+ AI-powered artist for games, animation, and film. 
+ Game Sound Designer 
+ 
+ Location 
+ San Francisco / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Spellbrush 
+ We're a small, tight-knit team of MIT-trained researchers applying the latest advancements in deep learning for anime and video games. 
+ Our AI artist assistant helps illustrators and animators finish pieces up to 10x faster by automating away much of the manual labor involved in shading, rendering, and coloring. 
+ 
+ None of the above three images were drawn by human artists. All three were drawn entirely by artificial intelligence! No human post processing involved. 
+ 
+ We can also get the AI to animate our generated characters too if we ask nicely enough! 
+ About the role 
+ We're looking for a talented  Sound Designer  to join our small team of world-class artist and engineers in building the  world's first ML-powered game . 
+ We're making the world's first ML-illustrated video game, and we're looking for someone to mix some sick SFX, ambiances, and tunes for our game. We're also producing a short anime video set in the same universe that you'll get to score + foley too! 
+ You: 
+ 
+ Experience in designing audio for games 
+ 
+ Primarily SFX, ambiances, and some music composition 
+ Experience doing very basic sound design for short video clips 
+ Experience with any audio middleware (we use FMOD studio!) 
+ Adaptive music composition a plus 
+ 
+ 
+ Strong aesthetics in anime-style electronic music and/or future core/bass. (We're working with a Japanese VTuber to have a fully voiced soundtrack!) 
+ Excited about the possibilities of AI — no AI/ML/Coding experience needed; we're more than happy to teach you the tech skills and intuitions needed. 
+ 
+ Us: 
+ As the 6th member of our team, you'll be intimately involved in all aspects of the product, from design, production, and marketing. 
+ 
+ We're a fast-paced startup with funding from some of the world's leading VCs. 
+ Our office based in downtown San Francisco, CA directly next to all major transportation. 
+ Market salary + above-market equity compensation. 
+ You'll work alongside our world-class AI researchers to develop the next software revolution in art. 
+ We have top-of-the-line health insurance, dental Insurance, and all that other good stuff. 
+ 
+ Give us a ping if you want to be on the cutting edge of the next revolution in games! 
+ To apply: 
+ 
+ Please include a link to your portfolio  containing a current sound design and/or composition demo reel. 
+ Bonus points for letting us know the name of best waifu/husbando in your application. 
+ 
+ 
+ Technology 
+ At Spellbrush, we're pushing the boundaries of generative networks through our  state-of-the-art GAN research . 
+ 
+ Research  : We use a lot of Tensorflow and the supporting ecosystem. We run large-scale ML experiments on a daily cadence on a mixture of GCE, AWS, as well as our on-premise GPU clusters. Our researchers spend each day developing and testing novel and experimental architectures. 
+ Infrastructure  : We've built our own mini in-house supercomputer with lots of GPUs and a high-performance parallel file system over 100GbE fabric. As part of our Infra/Devops team, you'd help mange our entire stack, from deploying data-center-grade switches, to improving our hybrid-cloud job submission system. 
+ Engineering  : Functional coders rejoice -- our backends are primarily in Elixir, with a bit and Python scattered here-and-there. We also have a lot of simulation and game logic code written in C# via Unity! 
+ 
+ Other jobs at Spellbrush 
+ Game Sound Designer 
+ fulltime 
+ San Francisco / Remote 
+ UI / UX 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,377 @@
+Skip to main content 
+ Javascript is disabled on your browser. In order to display this website properly, please enable javascript. 
+  Workiva Workiva.com  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Partners 
+ Connectors 
+ Security 
+ 
+ 
+ Solutions 
+ 
+ Capital Market Transactions 
+ Internal Audit Management 
+ Management Reporting 
+ SEC Reporting 
+ SOX Compliance 
+ Statutory Reporting 
+ + 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ Industries 
+ 
+ Banking 
+ Energy and Utilities 
+ Government 
+ Higher Education 
+ Insurance 
+ Investments 
+ + 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Customers 
+ The nicest thing about the Workiva platform is just feeling in control. 
+ ](/customers) 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Education 
+ 
+ Community 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Off the Books Podcast 
+ Surfing the uncharted waters of accounting, finance, and wherever else the waves take us. 
+ ](/off-the-books-podcast) 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Request Demo 
+ 
+ 
+ Sign In 
+ 
+ 
+ Menu 
+ Workiva Life Blog 
+ Make an impact, every day 
+ Your browser doesn't support HTML5 canvas 
+ 
+ 
+ Workiva Culture 
+ 
+ 
+ Internships 
+ 
+ 
+ Teams and Locations 
+ 
+ 
+ Hiring Process 
+ 
+ 
+ Benefits and Perks 
+ 
+ 
+ Workiva Life Blog 
+ 
+ 
+   
+ Technical empathy 
+ Proficient developers don’t just know how the code works, they can also effectively articulate the business value to others. 
+ August 31, 2016 
+ Colby Natale 
+   
+ Non-Existent Python Mock Convenience Methods: A step toward sanity 
+ Read about one of many potential solutions to the unintentional use of non-existent mock convenience methods. 
+ July 20, 2016 
+ Colleen Hardie 
+   
+ A survey of concurrent programming 
+ Learn how to design for concurrency with this survey of concurrent programming patterns and techniques. 
+ June 8, 2016 
+ Kevin Sookocheff 
+   
+ We are ruthless on code reviews 
+ An open letter apology to the new recruit who is feeling discouraged. 
+ April 27, 2016 
+ MacLeod Broad 
+   
+ 5 ways to find focus in the workplace  
+ Finding focus throughout the workday isn’t easy. Here are 5 ways one of our visual designers gets to an optimal state of productivity. Read her blog post now. 
+ April 13, 2016 
+ Rachel McClung 
+   
+ Don’t build in the dark: monitoring your microservices 
+ Faced with complex code, we knew we had to change our approach. Read on to shed light on complex microservices using monitoring-driven design. 
+ March 16, 2016 
+ MacLeod Broad 
+   
+ Code refactoring: helping your team help you 
+ To maintain modularity, readability, and testability, we must accept code refactoring as a fact of life. Find out four keys for code refactoring success. 
+ February 24, 2016 
+ Colleen Hardie 
+   
+ Code reviews are cultural 
+ Get insights from one Workiva developer on the importance of code reviews to the Workiva software engineering culture. 
+ February 10, 2016 
+ Dustin Lessard 
+   
+ Software testing methodologies 101 
+ Testing is crucial to building a good product. Read the blog to find out what various software testing methodologies are available. 
+ January 27, 2016 
+ Matthew Balvanz 
+   
+ Gressing: a new strategy for motivating developers  
+ Gress comes from the Latin root meaning to step. Read on to find out why the act of gressing is important for motivating developers. 
+ January 13, 2016 
+ Most Popular 
+ Takeaways from Five Dysfunctions of a Team Training 
+ Workiva One of Fortune Magazine’s 100 Best Companies to Work For 
+ DSM Hack 2018 - My Experience 
+ Popular Categories 
+ Giving Back 
+ Culture 
+ Communication 
+ Leadership 
+ Pagination 
+ 
+ 
+  First page « First  
+ 
+ 
+  Previous page ‹ Previous  
+ 
+ 
+  Page 1 
+ 
+ 
+  Page 2 
+ 
+ 
+  Page 3 
+ 
+ 
+  Current page 4 
+ 
+ 
+  Page 5 
+ 
+ 
+  Page 6 
+ 
+ 
+  Next page Next ›  
+ 
+ 
+  Last page Last »  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Connectors 
+ Partners 
+ Security 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Support 
+ 
+ Community 
+ Customer Support 
+ Developers 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Locations 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Twitter 
+ 
+ 
+ YouTube 
+ 
+ 
+ Select Region 
+ 
+ 
+ 
+ 
+ Legal 
+ Privacy Policy 
+ Sitemap 
+ 
+ (C)2021 Workiva 
+ 2900 University Blvd 
+Ames, IA 50010 
+  AICPA  
+ 
+ __ 
+ In the meantime, visit the resources below. 
+ [ 
+ Handbook: Surviving the New Normal 
+ ](/new-normal) 
+ [ 
+ How Sysco and Blackbaud kept business as usual 
+ ](/resources/how-sysco-and-blackbaud-kept-business-usual) 
+ [ 
+ Connected Reporting and Compliance Brochure 
+ ](/resources/connected-reporting-and-compliance-brochure) 
+ Select Region 
+ 
+ Australia 
+ France 
+ Germany 
+ Netherlands 
+ Singapore 
+ United Kingdom 
+ United States 
+ 
+ Online registration is currently unavailable. 
+ Please email  events@workiva  to register for this event. 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Thank you 
+ A Workiva team member will follow up with you shortly. 
+ Thank you for registering 
+ You'll receive a confirmation email shortly. 
+ Thank you 
+ You are now subscribed to receive blog updates. 
+ Thank you 
+ Your preferences have been updated. 

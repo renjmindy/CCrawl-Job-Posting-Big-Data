@@ -1,0 +1,350 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ WordPress 
+ 
+ WordPress Freelance Jobs From Colombia 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelance  WordPress Developers  from  Colombia 
+ ](https://www.workana.com/freelancers/colombia/wordpress) 
+ Almost an hour ago 
+ Website (Easy) 
+ Published: Almost an hour ago  Bids: 4 
+ Hi! I want to quickly set up a website for a real estate consultant company. I want something VERY simple (see example1).  This project shouldn't take longer than 6 hours (the example website my old guy did within 4 hours). 
+ Pictures can be taken for google and the different tabs I want is only the following ones: 
+- Home 
+- Consultant service: For example(Sales & Marketing, Strategy, Customer Experience) 
+- About Us 
+- Case study 
+- Partners 
+- Contact 
+ 
+ Inspirational website 
+ 
+ 
+ http://www.realestateconsultancy.co.uk/ 
+ https://www.stratosphere-ltd.com/ 
+ 
+ I mainly want the website to be good enough for a quick over view. I need the website to be done within Wednesday/Thursday. 
+ Example1:  https://www.stratosphere-ltd.com/ 
+Example2:  https://www.bain.com/industry-expertise/infrastructure-construction-building-products/real-estate/ 
+ For more information text me. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  M. E. D. Colombia Payment method:  __Verified 
+ USD 100 - 250 
+ 2 weeks ago 
+ Trafficbots 100 -1000 users on stripchat and chaturbate.com they ca... 
+ Published: 2 weeks ago  Bids: 1 
+ Descripción: 
+Im looking for person who will build bot or app or know how to generate people/viewers to room on  chaturbate.com  and  stripchat.com  I need about 100-1000 people. They can be fake. 
+ Software can be delivered as service or program. 
+ What is should be able to do : 
+Creating users on the site. 
+Saving the accounts for reuse. 
+Rotating names of bots 
+Entering a room as Registered and not registered user 
+Able to add own usernames in a list/database. 
+ Able to handle multiple rooms. 
+Able to be scheduled. 
+Able to use a different proxy for every user in viewing and creation. 
+ Entering a room throttled. (Like 500 user enters in 30 minutes in random pauses) 
+To keep bandwith low switch of the video. (If it will be a program). 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  G. R. Last reply: 2 weeks ago  Colombia 
+ USD 100 - 250 
+ Last month 
+ Need to redact article in spanish 
+ Published: Last month  Project duration: 1 - 4 weeks Bids: 16 
+ Hello, I need to redact article in spanish for my wordpress website. 
+I need freelancer with Perfect spanish. 
+Work is write 5 per day articles about 500 words - + ilustration pictures + Seo ready 
+Regard 
+ Category  : Writing & Translation 
+ Subcategory  : Writing for websites 
+ Is this a project or a position?  : Project 
+ Required availability  : Part time 
+ Published by:  O. Colombia Payment method:  __Verified 
+ Less than USD 10 / hour 
+ Last month 
+ Software Developer for fast growing start-up 
+ Published: Last month  Bids: 7 
+ At Torre ( http://torre.co) , we're building the platform and network to power the future of recruitment and we believe making full use of advanced AI is the best way to do so. It's an ambitious effort (view our deck  https://torre.docsend.com/view/c6pecie).  We've made significant progress and we're gaining solid traction (you're experiencing it right now!). 
+To get there, we need to build an amazing product. To both accelerate and deal with our growth, we're looking for former tech entrepreneurs for the Senior Software Engineer role. 
+ Compensation depends on the candidate's technical and entrepreneurial experience (therefore, the wide range we offer). All roles get stock options. 
+ We hire entrepreneurs because they have an innate inclination to do whatever it takes to succeed. Entrepreneurs have a passion for taking calculated risks. In fact, most senior members of our team are former entrepreneurs. 
+ If you recently left the company you founded, but you still like being entrepreneurial, working alongside some of the best practitioners in their field, rising to meet significant challenges, paying great attention to detail, and leading others to their full potential, this opportunity is for you. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  L. M. Colombia 
+ Over USD 3,000 
+ Last month 
+ Creation of virtual store 
+ Published: Last month  Bids: 11 
+ I'm looking for designer who create a virtual store with sign ups, profiles creations, wishlists, coupons and more. With american or foreign pay buttons. Creation of products catalog. 
+ I will tell you more as you tell me about your experience with foreign virtual stores. 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Create a new store 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Designer, Developer 
+ Published by:  K. Colombia 
+ Over USD 3,000 
+ 2 months ago 
+ Word Press and Elementor Help 
+ Published: 2 months ago  Bids: 6 
+ I am looking for someone with web development experience to help with some issues my website is having with wordpress and elementor. For now there are a certain number of specific tasks but if the candidate shows a demonstrated ability to improve the website we would consider hiring on a recurring basis. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer, Designer 
+ Published by:  S. Last reply: 5 days ago  Colombia Payment method:  __Verified 
+ USD 50 - 100 
+ 2 months ago 
+ Debuging and optimization of Wordpress + Jupiter Theme 
+ Published: 2 months ago  Bids: 11 
+ We have a website created with the Jupite Theme, but after some working on it now has some errors, and bugs, that need to be fixed. 
+ Those include, 
+Critial error to get into the wp-admin 
+not updating of the theme 
+price not showing on the product page 
+Transalation of the whole page need to be set up. 
+Some minor display adjustments of the theme.- 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Setup software bundle 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  D. E. Last reply: 2 months ago  Colombia 
+ USD 50 - 100 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

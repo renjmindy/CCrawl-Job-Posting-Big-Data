@@ -1,0 +1,194 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Python Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ PythonWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Type Theorist & Formal Verification Engineer 
+ [ 
+ Metastate 
+ ](/companies/metastate) 
+ 
+ Remote 
+ 16 November, 2020 
+ Apply 
+ More jobs from Metastate About Metastate 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Agda 
+ Dependent Types 
+ Formal Methods 
+ Haskell 
+ Idris 
+ Open Source 
+ formal verification 
+ COQ 
+ agda2 
+ formal language theory 
+ type theory 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 
+ Smart contracts are not secure enough for finance, law, or systems engineering. 
+ Role overview 
+ Role overview 
+ Smart contracts are security-critical, performance-sensitive, and bug-prone.  Metastate  is working on a dependently-typed smart contract language,  Juvix , which utilises recent advancements in type theory to allow developers to write code in a high-level functional language, compile it to gas-efficient output VM instructions, and formally verify the safety of their contracts prior to deployment & execution. 
+ PLT at Metastate focuses on applying the latest research in type theory and programming language design to concrete problems in the distributed ledger space. We are looking for a type theorist and formal verification engineer to work on various parts of the Juvix stack, all the way from formalisation of an operational semantics for the language in Agda to writing formally verified smart contracts in the Juvix language itself. 
+ This role offers the chance to work closely with a small team on compelling cross-disciplinary problems in computer science, PLT, cryptography, and economics, and enjoy a high degree of independence in working conditions and prioritisation. 
+ Responsibilities 
+ 
+ Produce formal specifications and implementation plans for new language features in collaboration with team members (and optionally submit to academic venues) 
+ Evaluate correctness, suitability, and ease-of-implementation of published type theory and PLT research for the Juvix architecture & project aims 
+ Implement both in-house and published research in Haskell in the Juvix codebase in collaboration with team members 
+ Conduct code reviews and help maintain a high standard of correctness and quality 
+ Write production-ready formally verified smart contracts in the Juvix language itself for various purposes 
+ Comprehensively document both design and implementation choices in the codebase, and assist in writing user-facing documentation for the Juvix language 
+ 
+ Example subprojects & features 
+ 
+ Michelson backend - paper currently in publication process,  code 
+ Extensible-data -  paper  (prior research),  code 
+ First-class usages -  discussion ,  partial formalisation 
+ Algebraic effects for proof construction -  paper ,  code 
+ 
+ Qualifications 
+ 
+ Prior experience in functional programming in Haskell, Idris, Agda, or Coq 
+ Prior experience in formal verification or formalisation of a language 
+ Self-motivated & self-organised 
+ Interested in open-source technology and research applied to DLT 
+ 
+ Bonus Qualifications 
+ 
+ Prior academic work in type theory, PLT, or compiler design 
+ Prior academic work in cryptography, economics, or game theory 
+ 
+ Misc . 
+ Competitive compensation in a negotiable mix of salary and equity. 
+ Remote or local (Zürich/Zug, Berlin). When remote, preferred if mostly located within (+/- 7 hours) Central European time zones. Ideally someone who enjoys nature and hiking. 
+ 
+ [ 
+ Metastate 
+ ](/companies/metastate) 
+ 
+ 10-49 
+ 
+ Metastate is a research and engineering team focused on implementing cutting-edge research from numerous disciplines (distributed systems, PLT, zero-knowledge cryptography) and deploying them to solve hard problems in the blockchain space, such as scalability, secure smart contract languages, secure randomness or privacy. Metastate is a remote-first team, currently composed of 15 cross-disciplinary researchers and engineers located around the world. Our work culture is characterized by open-allocation, where team members have a high degree of freedom and autonomy in choosing when to work, what to work on, and whom to work with. Metastate was founded in early 2019 by @adrian_brink, @awasunyin and @cwgoes, with extensive experience in the blockchain space and who previously co-founded Cryptium Labs, a security-oriented proof-of-stake validator from the Swiss Alps. 
+ Haskell OCaml Rust Remote Working Flexible Working Blockchain Early Stage Venture Idris 
+ View 7 jobs 
+ Engineers who find a new job through Python Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Metastate About Metastate 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Agda 
+ Dependent Types 
+ Formal Methods 
+ Haskell 
+ Idris 
+ Open Source 
+ formal verification 
+ COQ 
+ agda2 
+ formal language theory 
+ type theory 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Functional Compiler EngineerCompetitiveMetastateSwitzerland 
+ Smart contracts are not secure enough for finance, law, or systems engineering. 
+ Remote 
+ agda compiler compiler design compilers functional programming haskell idris open source coq agda2 compiler engineering 
+ More Info Apply 
+ Zero-Knowledge Cryptographer & Protocol DeveloperCompetitiveMetastateSwitzerland 
+ Apply the latest zero-knowledge cryptographic protocols to concrete problems in the blockchain space. 
+ Remote 
+ agda cryptography haskell idris mathematics ocaml rust coq applied cryptography discrete mathematics zero-knowledge proofs 
+ More Info Apply 
+ Experienced Haskell Developer CompetitiveStack BuildersUnited States of America 
+ (Remote - Full Time) 
+ Remote 
+ haskell 
+ More Info Apply 
+ Type Theorist & Formal Verification Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Python jobs Django jobs Ansible jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Python articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

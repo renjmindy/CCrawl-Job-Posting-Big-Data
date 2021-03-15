@@ -1,0 +1,67 @@
+
+ Login 
+ 
+ Job Search 
+ Job Seekers
+ 
+ Job Seeker Info 
+ Register 
+ Employers 
+ 
+ 
+ Employers
+ 
+ Employer Info 
+ Register 
+ 
+ 
+ Blog 
+ Login 
+ 
+ Business Analyst, Risk Mining 
+  Amazon   |  San Diego, CA 
+ Posted Date 11/25/2020 
+ Description 
+ Have you ever thought about what it takes to detect and prevent fraudulent activity among hundreds of millions of eCommerce transactions across the globe? What would you do to increase trust in an online marketplace where millions of buyers and sellers transact? How would you build systems that evolve over time to proactively identify and neutralize new and emerging fraud threats? 
+ Our mission in Buyer Risk Prevention (BRP) is to make Amazon.com the safest place to transact online. BRP safeguards every financial transaction across all Amazon sites, while striving to ensure that these efforts are transparent to our legitimate customers. As such, BRP designs and builds the software systems, risk models and operational processes that minimize risk and maximize trust in Amazon.com. 
+ As a Business Analyst in BRP, you will be responsible for analyzing terabytes of data to identify specific instances of risk, broader risk trends and points of customer friction, developing scalable solutions for prevention. In addition you will be responsible for building a robust set of operational and business metrics and will utilize metrics to determine improvement opportunities. 
+ Responsibilities: 
+o Understand the various operations across BRP 
+o Understand the requirements of stakeholders and map them with the data sources/data warehouse 
+o Design and develop highly available dashboards and metrics using Tableau, Excel and SQL. 
+o Provide wing-to-wing project lifecycle execution (project planning, execution, risk assessment and system availability) 
+o Execute high priority (i.e. cross functional, high impact) projects to improve operations performance with the help of Operations Analytics managers 
+o Perform business analysis and data queries using scripting languages like R, Python etc. 
+o Execute analytical projects and understanding of analytical methods (like ANOVA, Distribution theory, regression, forecasting, Machine Learning Techniques, etc.) 
+o Identify new pattern of abuse and make recommendations for new controls and improved monitoring 
+o Develop and oversee the initiation of strategy recommendations 
+ BASIC QUALIFICATIONS 
+ o Bachelor’s Degree in any quantitative discipline such as Statistics, Mathematics, Quantitative Finance or Operational Research 
+o 2+ years of experience working in Analytics / Business Intelligence environment 
+o Proven experience in working with large scale databases and SQL in a business environment 
+o Demonstrated use of analytical packages and query languages such as SAS or SQL 
+o Proven experience in design and execution of analytical projects 
+o Demonstrated experience using scripting languages like R or Python 
+ PREFERRED QUALIFICATIONS 
+ o Experience in e-commerce / on-line companies in fraud / risk control functions 
+o Exposure to software development process 
+o Analytical mindset and ability to see the big picture and influence others 
+o Detail-oriented and must have an aptitude for solving unstructured problems. The role will require the ability to extract data from various sources and to design/construct/execute complex analyses to finally come up with data/reports that help solve the business problem 
+o Strong oral, written and presentation skills combined with the ability to lead group discussions and explaining complex solutions 
+o Ability to apply analytical, computer, statistical and quantitative problem solving skills is required 
+o Ability to work effectively in a multi-task, high volume environment 
+o Ability to be adaptable and flexible in responding to deadlines and workflow fluctuations 
+o Meets/exceeds Amazon’s leadership principles requirements for this role 
+o Meets/exceeds Amazon’s functional/technical depth and complexity for this role 
+ Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age. 
+ 
+ Share this job 
+ [](https://twitter.com/share?url=https://www.workforcesandiego.com/job/wc26ze/business-analyst-risk-mining/san-diego/ca&text=Business+Analyst%2c+Risk+Mining at Amazon "Share on Twitter")[](https://www.linkedin.com/shareArticle?mini=true&url=https://www.workforcesandiego.com/job/wc26ze/business-analyst-risk-mining/san-diego/ca&title=Business+Analyst%2c+Risk+Mining at Amazon "Share on LinkedIn") 
+ Find us on social media: 
+     
+ (C)2020 Workforce San Diego 
+ Search Jobs 
+ Contact Us 
+ About Us 
+ Privacy Information 
+ Terms & Conditions 

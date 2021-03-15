@@ -1,0 +1,6 @@
+ Qualifications: 
+ Enrolled in undergraduate degree like Computer Science, Engineering, Data Science and Statistics 
+ Programming experience in SQL and Python, R, or any other programming language 
+ Ability to convert data to insight, insight to recommendations and recommendations into an action plan 
+ Knowledge of AI and data science concepts (Machine learning, prescriptive analytics, neural networks, etc.) 
+ Familiarity with Git, Unix command line and bash scripting is an asset 

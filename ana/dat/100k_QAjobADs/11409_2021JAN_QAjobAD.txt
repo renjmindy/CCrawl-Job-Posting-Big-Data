@@ -1,0 +1,18 @@
+ Basic Qualifications 
+ A strong grounding in security concepts, including core cryptography, secure coding practices and principles of authentication and secrets management 
+ A good understanding of PKI, X.509, key exchange protocols, and authentication protocols, including token-based authentication 
+ The ability to reason about performance, security, and process interactions in complex distributed systems 
+ Proficiency in designing, developing and testing cross-platform software in one or more of Java, C++, C# or golang; open to using multiple languages 
+ Experience developing, deploying and supporting software across the full Continuous Delivery life-cycle 
+ Preferred Qualifications 
+ Experience using and/or supporting Hashicorp Vault and/or Consul in production 
+ Experience with containerisation - Kubernetes/Docker 
+ Experience with open source, web authentication solutions 
+ Experience monitoring, measuring, auditing and supporting software 
+ Scripting skills using Python, PowerShell or Bash 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 

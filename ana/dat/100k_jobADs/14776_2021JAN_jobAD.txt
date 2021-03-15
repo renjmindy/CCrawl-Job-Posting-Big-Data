@@ -1,0 +1,64 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ ArchForm (W18) 
+ Replacing orthodontic braces with our clear aligner and software 
+ Full Stack Developer - ArchForm (W18) Building well designed web app for orthodontists 
+ $65k - $120k • 0.10% - 0.20% 
+ Location 
+ Bay Area / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About ArchForm 
+ About the role 
+ Skills:  JavaScript, Node.js, React, Amazon Web Services (AWS) 
+ ArchForm (YC W18) is a Series A stage startup that is replacing orthodontic braces with a new kind of 3D printed device and CAD software. 
+ We are looking for someone to help with the development of the Archform web dashboard, which is built with React and AWS. Dentists use Archform to turn imported 3D scan data into patient treatment plans. You will work with our Lead Developers to improve Archform's UI and cloud capabilities. This is a unique opportunity to participate in the development of a new kind of 3D CAD tool being built on open-source technologies, in the context of a company pushing the boundaries of what is possible with 3D Printing and distributed manufacturing. 
+ In this position, you will be involved in all aspects of the development of the Archform web dashboard, with a particular focus on: 
+ 
+ Improving the existing UI styling/layout and simplifying user workflows 
+ Extending the current AWS integration and improving patient management 
+ E-commerce, 3D viewing, and other future web products 
+ 
+ It would be great if you had some of the following skills. However, we also believe that if you are a motivated learner you will be able to pick up most of what you need to know on the job: 
+ 
+ Amazon AWS (DynamoDB, Cognito, Lambda) 
+ React 
+ 
+ Archform's web dashboard is a core component of the go-to-market strategy of Archform the company, and the developer who fills this position will play a central role in the company as we grow. 
+ Technology 
+ 
+ Unity 
+ Amazon AWS .NET SDK 
+ Amazon Cognito and DynamoDB 
+ 
+ Other jobs at ArchForm 
+ 3D Graphics/Unity C# Expert - 3D Mesh CAD for Dental 
+ fulltime 
+ Bay Area / Remote 
+ Full Stack 
+ $75k - $150k 
+ 0.00% - 0.00% 
+ 3+ years 
+ Full Stack Developer - ArchForm (W18) Building well designed web app for orthodontists 
+ fulltime 
+ Bay Area / Remote 
+ Full Stack 
+ $65k - $120k 
+ 0.10% - 0.20% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

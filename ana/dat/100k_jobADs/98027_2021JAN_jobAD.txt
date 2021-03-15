@@ -1,0 +1,54 @@
+  
+ Group 65Go to Workiz 
+ All Collections 
+ FAQ 
+ How to create recurring jobs in Workiz 
+ How to create recurring jobs in Workiz 
+ When should you use recurring jobs, and how do you set up recurring jobs in Workiz? 
+ Written by  Topaz Eitan 
+Updated over a week ago 
+ Recurring jobs are great for field service professionals who perform ongoing work (daily, weekly, monthly, yearly, etc.) for customers. This is especially helpful for professionals working in industries such as cleaning companies, pool service companies, lawn care companies, carpet cleaning, etc. 
+Now, instead of having to remember to manually schedule these jobs, you can set up and schedule all of your recurring jobs at once and in advance. 
+ Here’s how to set up recurring jobs in Workiz: 
+ 1. From the side navigation bar, click  +Add new… 
+ 
+ 2. From the pop-up window, select 'Add New…' -->  'Job' . 
+ 
+ (  Note:  It is only possible to set up recurring jobs for a new job, not an existing job) 
+ 3. The Job Details screen opens. Fill out the required details for the job such as the contact Information, client Information, etc. 
+ 4. Find the Schedule section. This section allows you to set and control the details of your recurring job 
+such as: 
+a.  Job Starts:  Select the date and time that the first job in the series begins. 
+b.  Job Ends:  Select the day and time the first job will be completed. 
+ Then click on  "Set recurring schedule" 
+ 
+ 5. A window will pop up on the right side - 
+ 
+ 
+ Select the recurring job duration. You can either choose the preconfigured intervals or select “Custom.” 
+ 
+ 
+ 
+ Job Stops -  Select whether the job stops after a certain number of appointments or on a certain date. 
+ 
+ 
+ 
+ Create Jobs:  Decide how many days in advance you would like this job to be created. 
+ 
+ 
+ 6. Fill out any remaining information on the Job Details Screen. 
+ 7. Click  Submit Job  , at the bottom of the screen. 
+ Need more help? See related articles below: 
+ How to Schedule and Manage Jobs? 
+ How Do I Close a Job? 
+ How to Label Jobs with Tags? 
+ Setting Up Custom Fields by Job Type 
+ Customizing Your Invoice and Estimates 
+ Did this answer your question? 
+   
+ 
+   
+   
+   
+ 
+ We run on Intercom 

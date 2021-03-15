@@ -1,0 +1,723 @@
+Skip to content 
+ 
+ Welcome to Ray Kim's 'blog 
+ Thoughts about professional development, technical communication, technology, and living life 
+ Primary Menu 
+ 
+ Home 
+ About 
+ My presentations 
+ The Write Stuff 
+ Troy -- A Major-League City 
+ 
+ When Troy Was A Major League City -- Acknowledgements and Bibliography 
+ 
+ 
+ Contact 
+ 
+   
+ Category: Decision making 
+ Whaddaya got to lose? #JobHunt 
+   
+ This morning, one of my LinkedIn contacts (a recruiter for a consulting firm) contacted me about a potential job opportunity. She sent me the description. The position in question is for a senior programmer analyst for a local firm. They're seeking someone knowledgeable about .NET, XML, and SQL. I gave her a call, and we had a very good conversation about the opportunity. She asked me to tailor my resume to more closely match what the client sought, and that she would do whatever she could to get me in to speak with the client. I also told her to let the client know that if this position was not a good fit, I would also consider other opportunities with the client, if any were available. 
+ These skills do appear on my resume, and I do have experience with these technologies. At the same time, however, I also make no secret that my career seems to be moving away from hardcore technical development and more toward soft-skill professional development that involves communication, writing, and visual design. It's been at least a couple of years since I did much in the way of serious application development work, so any technical skills that I've accumulated over the years are likely to be rusty. 
+ I did mention this as a concern to my recruiter associate, and she told me that she appreciated my honesty and openness. I wanted to make clear that while I do have that experience and background, the client, if by some chance they do hire me, will not be getting a technical guru or expert, and they shouldn't expect one. What they  would  get is someone who has the diverse technical skill set who, while not necessarily being an expert in them, knows enough to mostly get by and at be able to sound like he knows what he's talking about, not to mention someone who'd do his best to make sure things got done. 
+ I mention this because in my current job search, this is the type of position to which I likely would not have applied, had my associate not contacted me. I've been applying primarily for technical writer and business analyst positions. That said, I am also open to programmer analyst positions should the right opportunity come along. 
+ I did mention to my contact that I had nothing to lose by applying to this position. If the client decides to talk to me, it's another potential opportunity to pursue. If not, at least I gave it a shot. 
+ The moral of the story: even if a position doesn't appear to be what you're pursuing, if you believe you're capable of doing it, go ahead and apply for it. You never know. Nothing ventured, nothing gained. 
+ Posted on  July 6, 2020  by  pianorayk Posted in  Career ,  Change ,  Dealing with change ,  Decision making ,  Job search ,  Living life ,  Networking ,  Professional Development ,  Recruiters ,  Resumes 2 Comments 
+ Communication lessons from air disasters 
+   
+ I've always had a morbid fascination for air disasters. (Don't ask me why; I have no idea.) I'm fascinated by shows such as  Air Disasters ,  Why Planes Crash , and  Mayday: Air Disasters . Whenever I hear about a plane going down, I'll start thinking about what happened, clues, what might have caused it, and so on. There are times when I think I should have gotten a job with the  NTSB . 
+ Greg Moore  has some publications in which he talks about lessons learned from aircraft accidents;  his book  partially discusses these lessons.  He also has an excellent  SQL Saturday  presentation titled " Who's Flying The Plane? " which talks about lessons learned from air disasters and how they can apply to IT.  Go check it out if you have a chance; Greg gives a great presentation! 
+ For the purposes of this article, however, I want to concentrate on a particular topic: how communication -- or, the lack of -- either contributed to or was the root cause of a disaster. 
+ Last night, I watched an episode of  Air Disasters  that talked about  the plane crash that took the life of professional golfer Payne Stewart . The plane went down after the cabin depressurized (the cause of which was never determined), the crew became incapacitated, and the plane ran out of fuel. What made it interesting to me was that bad documentation might have been one of the contributing factors to the accident. After the cabin lost pressure, the crew likely consulted a checklist, as is standard procedure for nearly any cockpit activity or incident. The checklist was poorly written and unclear. What  should  have been the very first instruction was, "put on your oxygen mask." It was not. By the time the crew got to that instruction, it was too late; they were overcome by hypoxia. 
+ It reminded me of a tenet that I preach in  my documentation presentation : if, in a step-by-step instruction, an instruction cannot be understood within a few seconds, it has failed. 
+ I also remember another  Air Disasters  episode that focused on  Avianca Flight 52 . In January of 1990, the plane, a Boeing 707 carrying 158 people, crashed on approach to Kennedy Airport in New York after running out of fuel, killing 73 people. There were numerous communication issues during the flight. Had any one of them been addressed, chances are the disaster never would have occurred. 
+ How often have you been involved in some kind of activity where things were miscommunicated?  How well did those activities go?  I'm guessing that they didn't go well.  How often have they happened when deadlines were approaching?  What was the mood of your organization?  I'll guess that it was likely one of high stress and low morale.  And during that time, how smoothly did things go?  Probably not very.  I'll bet that plenty of mistakes were made. 
+ I'm painting this picture within a business environment.  Imagine what these conditions are like when people's lives are at stake. 
+ The number of disasters that have occurred from poor communication are countless; entire studies have been dedicated to the subject. Indeed, numerous solutions and subcategories related to miscommunication have been devised. The airline industry developed the process of  crew resource management . Extensive research has been done on the phenomenon known as  groupthink .  Even simple measures such as checklists  have been studied and implemented. 
+ The moral of the story: good communication, including documentation, is critical. The consequences of it can have adverse effects. At best, bad communication can disrupt your business. At worst, it can cost lives. 
+ Posted on  May 20, 2020  by  pianorayk Posted in  Being better ,  Decision making ,  Design ,  Disaster Recovery ,  Documentation ,  Mistakes ,  Professional Development ,  Teamwork ,  Technical Communication ,  Technical Writing ,  The Checklist Manifesto Tagged  Disasters ,  Technical Communication .  1 Comment 
+ What goes into organizing a #SQLSaturday? From the words of #SQLFamily 
+   
+ As my friends and regular 'blog readers are likely aware, I am a frequent speaker at  SQL Saturday . SQL Saturday has shaped my professional life in ways I couldn't have imagined. I've traveled to many events, learned about data topics and professional development, gained public speaking experience, become more prolific with my writing (this very 'blog you're reading came about because of SQL Saturday!), and met lots of great people, many of whom have become my friends.  #SQLFamily  is a real thing! 
+ SQL Saturday is put together by a lot of people, and it starts with an organizer. For this article, I asked some of my friends who have organized SQL Saturday events if they could share their experiences. This article is in an "interview" Q&A format. I came up with a list of fifteen questions, and they were gracious enough to answer! Their responses are below. 
+ Let me introduce my friends who responded. Thank you all for taking part! 
+ 
+ Thomas Grohser :  organizer for  SQL Saturday NYC 
+ Ed Pollack :  organizer for  SQL Saturday Albany  -- additionally, he has written an article about  what SQL Saturday is all about 
+ Steve Jones :  probably considered one of the "fathers of SQL Saturday" and one of the editors of  SQLServerCentral.com  -- he has also previously organized  SQL Saturday Denver BI Edition 
+ Andy Levy :  organizer for  SQL Saturday Rochester  -- he also answered some questions in  a podcast episode for SQL Data Partners 
+ 
+ 1. Everyone has a "first-time" experience with SQL Saturday.  Where and when was your first? 
+ Thomas Grohser:  I am originally from Austria in Europe and I did a lot of other  PASS  formats (mostly SQL Rally and  Summit ) before my first SQL Saturday in 2013 in New Haven, CT. 
+ Back then I was “just” a speaker, but in 2020 I am one of the co-organizers of this event. I am guessing all is coming full circle. 
+ I don’t know if I ever been at a SQL Saturday before that as an attendee. 
+ Ed Pollack:  My first SQL Saturday was Rochester in 2011.  I went to every session I could and had a blast meeting so many new people. 
+ Steve Jones:  I may be a bit of an outsider, but my first exposure was talking about the concept and then helping  Andy Warren  plan SQL Saturday #1 remotely. We talked through the things that he needed to do and then had a retrospective afterward. 
+ Most speakers were local back then, and the first event I attended was SQL Saturday #8 in Orlando as a speaker. I was amazed so many people showed up to listen to us talk about SQL Server on a Saturday. 
+ Andy Levy:  My first SQL Saturday was as an attendee at the Rochester event in 2012. It was the second SQL Saturday Rochester had hosted and I had just been clued into the PASS community in the previous couple months. Walking into it, I had no idea what to expect. I just sort of absorbed everything I could in the sessions I attended, not realizing at the time that the real value was in meeting and talking to people. 
+ 2. How did you become a SQL Saturday organizer (if it isn't already answered under Q1)?  When did you realize that you wanted to be involved? 
+ Thomas Grohser:  I started out as a speaker, and over time began to help on the actual day of the events before and after my sessions(s). Then I got one of the NYC SQL Server user groups thrown into my lap and the second group kind of stopped doing things so I kind of got stuck with organizing one (and I also kind of liked the challenge). 
+ Ed Pollack:  As I traveled to more and more SQL Saturdays, the 3+ hour drive to each began to wear on me.  I wanted a local event that offered tech training and none like this existed anywhere near Albany.  My hope was that proximity to other cities would help draw in both speakers and a crowd. 
+ Steve Jones:  I first decided to organize a SQL Saturday as a concept. After talking with many organizers and the PASS staff, I was a bit disconcerted with the one-upsmanship that was taking place and the struggles of many events to raise thousands of dollars. Instead, Carlos Bossy and I decided to run a minimal event. We worked to  keep our event under $650 , with a cap of about 80 people. It was a success, and I’d like to do it again. 
+ Andy Levy:  I didn't really plan on it. Starting with my second Rochester SQL Saturday (2013), I started getting more and more involved with volunteering. After a few years, I was asked if I wanted to take point on the event, I accepted, and here we are. 
+ 3. What is your job title or role, and does your position influence how SQL Saturday is organized?  If so, how? 
+ Thomas Grohser:  Infrastructure Architect. 
+ I consult mostly for large corporations on SQL Server infrastructure, security, availability, and deployment automation. 
+ I am lucky that both my employer and my clients see the benefit of the SQL Server community and support my activity. But my day-to-day skills are not a lot of help in organizing a SQL Saturday. 
+ Ed Pollack:  I'm a senior DBA, but that has little bearing on organizing a SQL Saturday. Coordinating a SQL Saturday is about collecting expertise from all other the place and getting them on board with and attending your event. 
+ Steve Jones:  Advocate for Redgate Software. I talk to customers and potential customers about the software we build. In terms of a SQL Saturday, I have some flexibility since my company exhibits at some events. In my case, this event wasn’t related to my company, and I met with others and ran the event on my own time. 
+ Andy Levy:  My title is Database Administrator, but I don't think what I do day to day at work significantly influences how the event is organized. I just want to bring quality content for data professionals to Rochester. 
+ 4. As those of us familiar with SQL Saturday know, schedules are usually organized along tracks (analytics, DB development, BI, professional development, etc.).  How are those determined when you plan an event? 
+ Thomas Grohser:  I first made a list of what I was interested in (I know, selfish, but hey, I might get something out of it) and then looked at about a dozen other recent SQL Saturdays and what categories they selected. The final list was a combination of the both. 
+ Ed Pollack:  The tracks are loosely defined based on what attendees ask for and how sessions logically organize themselves. 
+ Steve Jones:  In our case, we had a limitation of 3 rooms. We decided to simplify things and we planned out two tracks before we picked speakers. Our goals were a beginner to intermediate growth track and then a more general track, all in the BI area as our event was a BI version of SQL Saturday. We did this partially to support University students and partially to provide a more structured approach to BI for some attendees that might be new to the field. 
+ Andy Levy:  The one constant in our track planning the past few years has been Professional Development. The others are more fluid, but we always aim for having a Professional Development available in every schedule block. (  Ed. note:  as someone who presents mainly professional development topics -- woo-hoo!) 
+ 5. How do you select speakers?  What do you take into account when deciding who will present? 
+ Thomas Grohser:  I selected mostly sessions, not speakers (every speaker got at least one session). 
+ I did three rounds of grading. 
+ Round one: I just looked at the title (no speaker name, no abstract) and graded it  -- / - / 0 / + / ++  which translates to NOOO / No / Maybe / Yes / YESSS 
+ Round two: I just looked at the abstract (no speaker, no title) and did the same grading. 
+ Elimination: I removed all sessions that had 3 or more from the list. 
+ Round three: I took all sessions with 4 (+) and put them on the schedule. 
+ From the remaining sessions, I took the highest graded session from each speaker that did not have at least one talk yet. 
+ From the remaining sessions I filled all remaining slots with the sessions having the most (+) and fewest (-). 
+ I keep filling with sessions from that order every time a speaker canceled. 
+ (  Ed. note:  Thomas told me that this grading system was how I ended up with  three sessions  at  SQL Saturday #912 ! 🙂 ) 
+ Ed Pollack:  We select what we believe to be the best sessions, but also need to juggle topics to ensure that there is a wide variety and that there are not five sessions on the same topic.  This is a challenging decision-making process and we often are forced to turn away speakers and sessions because of the need to build a well-balanced schedule. 
+ Steve Jones:  We picked topics first and then choose speakers that we thought would do a good job. Our goal was to use mostly local speakers, and we did,  usually choosing those we had seen present. We took a chance on a few speakers, gambling they would do a good job based on some internet research.  Jonathan Stewart  was one that we didn’t know anything about, but we’d heard good things and liked his topic. He did a fantastic job. 
+ Andy Levy:  Selecting sessions is more difficult than selecting speakers. We want to make sure we're bringing fresh content to our attendees each year, with a good variety. If we can find several sessions with a common thread, a natural progression where each session builds upon the one before it, we'll often look at those as a single "block" and schedule accordingly. 
+ 6. Pre-con sessions -- same question as Q5: how are they determined?  What is taken into account? 
+ Thomas Grohser:  I was not involved in that part. 
+ Ed Pollack:  This is a far more in-depth process as the stakes are much higher.  Precon speakers cannot cancel and there is no wiggle-room on quality.  We accept precon speakers that we know will show up, do an amazing precon, and draw in attendees to SQL Saturday.  Similar to SQL Saturday, we often get multiple precons for the same topic and will be forced to choose one over the other as we cannot run multiple precons that appeal to the same audience. 
+ Steve Jones:  None. We decided not to deal with this as it increases complexity and budget. 
+ 7. Venues are a major part of planning.  Among other things, location, size, costs, lodging, and availability are factors.  How do you choose your venue, and what do you take into account? 
+ Thomas Grohser:  I was in New York. I have only one choice: the  MTC  (Microsoft Technology Center) in Time Square. Everything else is too expensive. We asked for the first available date after May 1st  and got October 6th.  🙂 
+ Ed Pollack:  We chose a big venue.  It costs money, which is a downside, but it provides unlimited space for sessions, sponsors, and event logistics.  Lodging is nearby and it's very easy to get to  UAlbany . 
+ Steve Jones:  We wanted to find a free space to keep the cost down. We reached out to contacts at local universities, and ended up partnering with  Denver University , in the continuing education department. We started this over six months before our event, having a quarterly meeting over lunch (we provided one, they the other) and discussing how we could work together to better educate people. I know Andy Warren in Orlando does this with his local university, usually meeting with them 2-3 times a year as a social event to maintain a connection. 
+ Andy Levy:  We've always hosted SQL Saturday Rochester at the  Rochester Institute of Technology  (RIT). How we landed there in the early years, I honestly don't know (I wasn't involved with planning the first two years). But they've been a terrific partner and sponsor for the event and without them, I think we'd have a very hard time running the event every year. Being a technology-focused institution of higher learning, and the particular building we're hosted in being the home of Golisano College of Computing and Information Sciences, it's a great setup for SQL Saturday. We use regular classrooms with good projectors, every modern A/V connection you can think of, and excellent internet connectivity. 
+ With Rochester some very large businesses and research facilities in the area in addition to several colleges and universities, every major hotel chain is represented nearby. 
+ 8. Organizing a SQL Saturday undoubtedly takes up a lot of time!  How do you balance that with all your other commitments -- work, family, extracurriculars, etc.? 
+ Thomas Grohser:  You need to do it as a group. We started as four, and three of us made it to the finish line. Each one does the assigned tasks and then you coordinate once a week. 
+ We split it this way: 
+ 
+ Sponsors / Attendees and PASS 
+ Speakers / Schedule / Signs / Rooms 
+ Precon / Food 
+ 
+ We all did some “marketing”. This setup gave each one of us a reasonable amount of work (< ½ h per day) leading up to the event and full day of action the day before and the actual day. 
+ Ed Pollack:  I have recruited a group of amazing volunteers to help with sponsors, marketing, event logistics, and more!  Without them, this would be impossible to plan while maintaining my sanity! 
+ Steve Jones:  The smaller the event, the less time and effort. Removing items like the pre-con, shirts, etc. reduced all this effort. We had 4-5 long lunch meetings for planning where we worked out the schedule, discussed details and then kept notes. Across a few weeks, we communicated at night to ensure we were organized, sent emails to speakers and volunteers, and kept working on the event slowly. It helped that we had a minimal event and we were organized people. With two of us running things, that lowers the overhead of effort and communication as well. This wasn’t too hard to fit in around family/hobby/etc. time, but it was an effort. Since then, we haven’t been able to do this again as our schedules have been too busy at different times. I think we would need to be sure that we could dedicate spare time every week for 3 months to run this again. Finding that time has been difficult. 
+ Andy Levy:  If I'm being completely honest, I balance them pretty poorly in the final weeks before the event. Obsessing over weather impacting travel plans and attendance, ensuring sponsor packages have arrived, the registration counts, getting resources reserved at the venue, etc. I've been known to sit off in a corner at a Cub Scout/Boy Scout meeting working through SQL Saturday administrative stuff. 
+ 9. SQL Saturday doesn't happen without vendor or sponsor support.  How do you go about getting that support?  How do you keep them engaged? 
+ Thomas Grohser:  Honestly, all we did is used the  PASS -provided website to send out a communication to previous sponsors and they contacted us. The main work was adjusting the sponsorship levels to the needs (some wanted a sponsored session, some not, some wanted to provide material, some not…). 
+ Ed Pollack:  Local sponsors are key.  We maintain a set of local sponsors that know us and who have been supporting us for a long time.  These are local companies that see SQL Saturday as a great way to advertise, market, and recruit.  Without them, we would not be able to put on SQL Saturday! 
+ Steve Jones:  We avoided this with the PASS Global sponsorship. We received $500 from PASS/Microsoft and then accidentally got $150 because we didn’t close down the sponsorship pages when the event went live. As a result, we didn’t have to worry about vendors. 
+ Finding vendor support is hard, and it can be a time sink for many larger vendors with 100 SQL Saturdays a year. PASS and other organizers can help you with larger vendors, but I always encourage people to work with local companies when they can. Talk to recruiting and consulting companies. Take some time to have lunch or short meetings with them. Reach out to colleges, especially those serving adults, and work with them for sponsorship. This is a personal part of the event and it takes time across time to keep them engaged. We did continue to meet with the college a few times before the event and once afterwards to talk about how things went. Ultimately, they have continued to support the larger Denver SQL Saturday each year. 
+ Andy Levy:  Sponsorship is the perennial challenge for smaller SQL Saturdays. We rarely get sponsorship from local companies. We just have not managed to solve the puzzle of how to reach them. So, we're more dependent upon national-level sponsors, often ones that we have pre-existing relationships with through other channels. When we hear suggestions from sponsors for things that they'd like to see, we give them strong consideration. 
+ 10. Let's talk about volunteers, who are also a big part of SQL Saturday (and often don't get the credit they deserve).  Where do they come from, and what kinds of things do they do? 
+ Thomas Grohser:  I “volunteered” a few of my co-workers and they paid it forward by “volunteering” some of their family members (BTW a great way to teach your teenage kids what work is). 
+ Again the PASS website's opt-in as volunteer after a single call for help during the user group meeting before the event added more volunteers than we needed. 
+ Ed Pollack:  Volunteers come from all over!  Some are members of  our local user group , others are students at a local university.  Others are attendees that check off the box to volunteer.  Some are speakers, sponsors, or members of PASS.  The diversity of the group is its greatest asset! They handle much of the on-the-ground work at SQL Saturday, from setting up food to staffing the registration table, and cleanup.  Their contributions are huge and I do everything I possibly can to thank them for their invaluable help! 
+ Steve Jones:  These are usually friends or acquaintances from the UG or other sources. In our case, we have a strong community in Denver and 4-5 friends that signed up to come and were happy to handle tasks on the day of the event (signs, carrying supplies, etc.). 
+ I think the key is reaching out to people, giving them something specific you’d like them to do, thanking them, and ensuring that you aren’t overburdening any one person. 
+ Andy Levy:  We put out a call for volunteers both to our registered attendees and our user group. For day-of assistance (registration, room monitors, generally helping speakers and attendees), our volunteer wrangler Kim works with folks who have offered to help and always finds a few more. 
+ 11. Of course, attendees usually expect to be fed!  Most (if not all) SQL Saturdays I've attended charge a nominal fee for lunch.  How are food and beverage arrangements usually handled at your event? 
+ Thomas Grohser:  Since we are locked in with the MTC in Time Square, we are also locked in with the choice of one of the three “approved” catering companies. This, and an SUV full of soda cans and snacks from Costco kept all people well-fed, and the leftovers went to a nearby shelter. 
+ Ed Pollack:  We order our own breakfast (donuts/bagels) and lunch (subs & snacks).  Breakfast we pick up and manage ourselves whereas lunch is delivered to SQL Saturday.  All of the supplies we need are purchased ahead of time in bulk and transported to the event by volunteers, such as cups, napkins, drinks, and so on.  We also purchased large coffee urns for the user group to brew our own coffee.  This is far cheaper and easier than making runs to coffee shops and paying hefty prices for that much coffee on the day of SQL Saturday.  We always have a highly caffeinated volunteer that is happy to keep the coffee supply operational 🙂 
+ Steve Jones:  In our case, we decided to forego food. The venue was a block from the edge of campus with numerous restaurants, so we allowed 90 minutes for lunch and encouraged people to go in small groups. I tried this years ago at the PASS Summit, bundling people into groups of 4 and sending them to restaurants and it worked well. Here the cost and overhead of lunch was removed with this effort. We did purchase some breakfast food, snacks, and coffee for the morning and water for throughout the day. 
+ I could actually encourage some smaller events to try this as well. 
+ Andy Levy:  Matt takes care of this piece of our event. He has a caterer he knows and they take care of lunch, the big coffee pots that fuel every event. He also makes sure that our speakers have food and drink in the ready room. 
+ 12. Each locale offers its unique culture or environment, and one of the things I love about SQL Saturday is that it often reflects that culture.  What are some of the things that make your event unique? 
+ Thomas Grohser:  I do not believe the NYC SQL Saturday was special. (  Ed. note:   I beg to differ ! 🙂 ) 
+ Ed Pollack:  Our venue is 100% unique and special to us.  UAlbany provides an amazing location in the summer, with lots of space and access to the fountain right outside of the conference area.  We also have the best volunteer team out there and they make our event both special and a joy to run! 
+ Steve Jones:  In our case we were on a college campus and aimed for a BI focused crowd. We had a variety of attendees, many of whom didn’t come to the local user group meeting and I hadn’t met before. Overall, the small size made this a more intimate setting. 
+ Andy Levy:  The looming spectre of a blizzard. 🙂 
+ 13. I, personally, work in an Oracle environment (yes, it's true), and most of my coworkers think SQL Saturday doesn't apply to them (believe me, I've tried).  As an organizer, what would you say to people (especially data professionals) who don't think SQL Saturday is for them? 
+ Thomas Grohser:  From a community perspective: 
+ It’s an event for the SQL Server community. The content should help newbies get started and old timers to deepen their knowledge. All the good SQL Saturdays also have professional development tracks and sessions just touching concepts and ideas. So even an Oracle DBA should be able to have a great day. If they don’t want to, it’s not my job to force them. 
+ From an organizer perspective: 
+ Instead of bringing your reluctant Oracle DBA, bring your manager, CIO, CTO.  The sponsors will love to talk to them. 
+ Ed Pollack:  While SQL Saturday is billed as a SQL Server/Microsoft event, most sessions are not technology-specific.  Many topics such as analytics, data science, database design, professional development, and hardware architecture are platform agnostic and can apply to anyone.  Since SQL Saturday is free, it's an easy sell to anyone on the fence about attending: Free breakfast, lunch, training, and prizes…what more can you ask for? 
+ Steve Jones:  The world is expanding and there are always generic sessions on data topics. I would encourage people to look at the schedule and decide for themselves. I’d actually like to see more non-SQL specific topics presented and spread throughout the day. 
+ Andy Levy:  I encourage anyone who works in any tech-adjacent role, data or otherwise, to attend a SQL Saturday. The professional development sessions aren't technology-specific at all. The networking opportunities are great. If you drop in on a random session, you just might learn something new. Better yet, it may spark an idea or some interest, something you never even knew existed previously. 
+ 14. Like any large-scale event, SQL Saturday almost never goes off without a hitch.  Are there any memorable mishaps that occurred, and how were they handled? 
+ Thomas Grohser:  Unfortunately there is a size limit on emails so I have to shorten the list: 
+ Projector not working → No problem we have a spare room for exactly that case → Nobody can find the key → All attendees gathered around a 24” monitor till someone found the key 
+ The venue was supposed to let us in at 7:30 am, The first session was scheduled for 8:30 am, they opened the doors at 8:45 
+ Ed Pollack:  We had lunch show up a half hour late one year.  The delivery person got lost and didn't call for help.  After rushing to find us, they forgot the vegetarian food!  We had a few dozen angry attendees that were looking for veggie food and didn't have it (yet).  We sent a few volunteers to the restaurant to pick up the remaining food and return with it as quickly as they could.  The end result was some attendees that were unhappy, but we did our best to talk to them and let them know the problem would be solved shortly.  Some good customer service goes a long way towards softening the blow of mistakes or mishaps at what is always a busy day. 
+ Steve Jones:  Nothing for us. 
+ Andy Levy:  In my experience, the best way to handle mishaps is to not talk about them to a wide audience unless you have to. Remain flexible and be prepared to improvise; if you can adjust to accommodate a mishap, people don't have to know there was one in the first place. 
+ Be accountable for what happens, admit your faults where applicable, don't throw people under the bus, and do your best to make amends when necessary. 
+ 15. Finally, any other thoughts, ideas, issues, or comments that you think should be mentioned that I didn't think to ask? 
+ Thomas Grohser:  The toughest part is at the very beginning: You need to find a date, a venue and get the date approved from PASS. This is not easy, with all the rules around when and where another SQL Saturday can be at the same time. 
+ Ed Pollack:  Attend SQL Saturday.  Consider speaking and volunteering.  It's a great way to learn new things, problem-solve, meet new people, advance your career, and have fun! 
+ Steve Jones:  I think the idea of large events is nice, but they come with a large amount of overhead and effort. They take a toll on organizers and can be hard to maintain over time. I’d much prefer to get smaller events, and have more of them. I think a 100-150 person event is more sustainable and likely to be much easier and cheaper to run. I hope that more communities will think about focusing on easier/smaller events, fewer tracks, and try to do 2 a year rather than one large one. Focus each in a data related area, keep things simple, and remember most people are looking for some learning and inspiration, not necessarily a big party. 
+ 
+ I thoroughly enjoyed putting this article together! Thanks, Thomas, Ed, Steve, and Andy for taking part! 
+ For those of you reading this, I encourage you to check out their 'blog or article links (at the top of this article). 
+ Thanks again! 
+ Posted on  April 6, 2020April 6, 2020  by  pianorayk Posted in  Career ,  Decision making ,  Feedback ,  Mentoring ,  Networking ,  Professional Development ,  Public Speaking ,  Roles ,  SQL Saturday ,  Teamwork ,  Technical Communication ,  User Groups 1 Comment 
+ Leaping before you look 
+ (Image courtesy of  The Telegraph ) 
+ Not long ago (I don't remember how long -- I'll say a couple of weeks), I stumbled across a 'blog post that someone had written. Apparently, this person was a new  SQL Saturday  speaker. I don't remember his name, and from what you're about to read, it's probably just as well. 
+ I don't remember exactly what was said, so I'll paraphrase: "I just applied to speak, and was accepted at, a SQL Saturday in (some city that's not local to me). Now I have to figure out how to pay for my trip! Can you all help me? Here's a  GoFundMe  page to help me out!" 
+ I resisted the urge to write him back to say, "you're a f**king moron. You're not getting a single dime from me. Poor planning on your part does  not  constitute an emergency (or charity) from mine!!!" 
+ SQL Saturday is an all-volunteer event, and organizers go through a great deal of time and effort to plan it and ensure that the speakers are lined up to the schedule. Committing to speak at SQL Saturday and not keeping that commitment disrespects the organizers, and it does not reflect well on you. If you renege on your commitment to speak at SQL Saturday, try seeing if you're ever invited again. 
+ It's not just about travel planning, either. If I was interviewing this person for a job (note: I'm in no such position), I would highly question his ability to make smart decisions. Unless he could demonstrate to me that he learned from this mistake, I would not ask him back for a second interview. 
+ Clearly, this person leapt before he looked, and in my mind, he has no common sense whatsoever. Whenever I apply to speak at a SQL Saturday, the  first  thing I do is check to make sure that I can do the trip. Among other things, I make sure the date is clear on my calendar, and I make sure that I can actually  get  there (there's a reason why the large majority of SQL Saturdays where I present are ones to which I can drive). 
+ On March 21 (a few weeks from today), I will be speaking at  SQL Saturday Chicago .  I Googled the driving time from Albany to Chicago , and it told me it would take 12 hours, which is much longer than I am willing to drive for a short weekend trip. I put together a hypothetical itinerary using  Amtrak  (I love traveling by train -- I prefer it over flying whenever possible) and Chicago-area  public transportation ,  Lyft  (which I tend to prefer over  Uber ), and hotels. (I also looked into renting a car, but there were very few rental agencies near  Union Station  that were open for the hours that I needed it; besides, I didn't want to deal with traffic in a strange city, and it was also more expensive than the other options.) I came up with a game plan that was workable and would not break the bank. When I realized that the trip was do-able, I went ahead and applied to speak (and was accepted) at SQL Saturday #945 in Chicago! 
+ I wrote a previous article about choosing which SQL Saturday to submit.  You can read the article here . 
+ So before you commit to anything, make sure you can honor that commitment. It does not reflect well on you if you cannot keep your word. Don't leap before you look. 
+ Posted on  March 3, 2020December 18, 2020  by  pianorayk Posted in  Being better ,  Career ,  Decision making ,  Job search ,  Mistakes ,  Professional Development ,  SQL Saturday ,  SQL Travels ,  Travel Leave a comment 
+ What do you do for an encore? 
+   
+ 
+ " The reward for work well done is the opportunity to do more." 
+ Jonas Salk 
+ 
+ As a  Syracuse  alumnus and sports fan, I'm looking forward to this upcoming football season. Orange fans are excited for this season after last season's 10-3 breakthrough, the first time that Syracuse has won ten football games in a season since 2001. Season ticket sales are up this year (and I'm happy to say that I am one of those season ticket holders). I'm looking forward to attending games this season! 
+ In a recent interview , Syracuse football coach Dino Babers said that getting the team to break through with a great season (after years of mediocre ones) was the "easy" part. The harder part, he said, is maintaining it. As he often puts it, he wants to be "consistently good, not occasionally great." Breaking through is a great thing, but after you've done so, how do you maintain that success? 
+ I thought about this recently in regard to  SQL Saturday  presentations. One of my friends and fellow speakers gives a great presentation, but I do have one concern about it: it's only one presentation. I'm not sure how long he'll be speaking at SQL Saturday if he keeps submitting the same presentation again and again. I'd like to see him do more presentations, and I hope to see him at more events. Yes, he has a good presentation, but what does he do for an encore? 
+ It's for that reason why I look for more presentation ideas. As of this article, I have  a brand new presentation idea  that, right now, only exists in the back of my head. I listed it so that I'd remember to work on it. If I come up with what might potentially be a good presentation idea, I'll set the idea aside so I can work on it. I want to make sure that I have fresh ideas. I love speaking at SQL Saturday, and I've been doing it for four years. I want to keep doing so. To do that, I want to make sure I have new material. While I do occasionally recycle my presentations (it's unavoidable), I try not to resubmit the same presentations over and over to events. 
+ For those of you who are looking to get your career off the ground, the same holds true for career endeavors. A great job that you did on a single project will often be enough to get you in the door. But once you're in the door, how do you  stay  there? Breaking through on a project is the easy part; the harder part is sustaining that success. Once you've achieved something, can you do it again? And again? 
+ If you are able to sustain success, you develop a reputation as someone who can deliver. That's how you build a career. Achievements are great, but once you attain them, what do you do for an encore? 
+ Posted on  August 28, 2019August 28, 2019  by  pianorayk Posted in  Being better ,  Career ,  Decision making ,  Maintenance ,  Networking ,  Professional Development ,  Public Speaking ,  SQL Saturday ,  Support systems ,  Technical Communication Tagged  Presentation Skills ,  Presentations .  1 Comment 
+ The evolution of statistics 
+   
+ During my lunch break, I was perusing the  ESPN website  and stumbled across  this article . It contemplates whether or not a .300 hitter (in baseball, for those of you who are sports-challenged) is meaningful anymore. As a baseball fan, the article caught my attention. I didn't read through the entire article (it ended up being a much longer read than I expected -- too long for me to read while on a lunch break at work), but from what little I did glean from it, a couple of things struck me. 
+ First, they talk about  Mickey Mantle 's batting average and how important hitting .300 was to him. That struck me a little funny, because (as far as I know -- as I said, I didn't get through the entire article) there was no mention of the fact that he actually finished with a batting average under .300. His career batting average was .298. 
+ The second thing that struck me was (Yankees' first baseman)  Luke Voit  saying how he felt that "feel like batting average isn't a thing now." Indeed, baseball is a much different game than it was, say ten, twenty, or thirty years ago. Analytics are a big part of statistics these days. A lot of stats that are prevalent now -- WAR (wins above replacement), exit velocity, OPS (on-base plus slugging), etc. -- didn't even exist when I was a kid growing up, closely following my  Yankees . Back when I was eating and sleeping baseball, hitting was about the triple-crown statistics -- batting average, home runs, and runs batted in (RBIs). But now, we have "slash lines," on-base percentage, slugging percentage, and so on. Even as big of a baseball fan as I am, I haven't a clue about many of these "new age" stats. I still have no idea what WAR represents, I'm not completely sure as to what the numbers in a slash-line are, and I don't know what constitutes a respectable OPS. 
+ That got me thinking about how statistics have changed over the years, and whether or not that applies to statistics outside of baseball (or sports, for that matter). Maybe people who study data analytics for a living might know this better than I do, but what business statistics have a different meaning now than they did ten, twenty years ago? Are there any numbers from way back when that I should now take with a grain of salt? 
+ I'm sure there are many examples of this outside of sports, but I struggled to come up with any. Off the top of my head, I remember how a company where I once worked made a big deal out of perfect attendance -- to the point that they gave out perfect attendance awards at the end of the year. However, that had to contend with situations such as coming to work when you were sick, and so on. Do you really want someone who's sick coming into work? These days, workplaces do not want sick people in the office, and with the advent of work-at-home provisions, perfect attendance isn't so meaningful, anymore. (By the way, my understanding is that company no longer recognizes or rewards "perfect" attendance.) 
+ So I suppose the takeaway is, how well do statistics age? Can they be compared with the same statistics now? What needs to be considered when analyzing statistics from years ago? It's true that numbers often tell a story, but in order to get the full picture, you also need to understand the full context. 
+ Posted on  May 16, 2019  by  pianorayk Posted in  Baseball ,  Business Intelligence ,  Data processing ,  Database ,  Dealing with change ,  Decision making ,  Reference ,  Sports Leave a comment 
+ Election day 
+ 
+ " Can I tell you something; got to tell you one thing if you expect the freedom that you say is yours; prove that you deserve it; help us to preserve it, or being free will just be words and nothing more…" 
+-- Kansas, "Can I Tell You" 
+ 
+ I don't think I can say it any better than the song lyric I quoted above. 
+ Last night, I overheard a coworker say, "I don't vote. It doesn't make any difference." And he continued to spew about his views on the world. 
+ I kept silent, but I am not ashamed to say that I wanted to tear him a new a**hole. 
+ People  died  so I can vote. That is something I do not take lightly. For someone to brush it off and disrespect that right like that absolutely incenses me. I vote  every  year. I make sure I vote every year. And so should you. 
+ The fact is, your vote  does  matter. In 2016, the vast majority of the country did  not  vote -- because "it wouldn't make a difference." Had at least half of these people gone to the polls, chances are that the current state of the union would be much different. 
+ Yes, our system is far from perfect. Yes, our system has flaws. But the fact is, your vote matters. 
+ Want to change the system? Vote. 
+ Posted on  November 6, 2018  by  pianorayk Posted in  Change ,  Decision making ,  Living life ,  Politics Tagged  Election Day .  Leave a comment 
+ It's okay to say "I don't know" 
+   
+ If you ever have a chance, I recommend sitting in on Thomas Grohser's presentation called " Why candidates fail the job interview in the first minute ." (Tom is a great speaker, and I suggest you go hear him talk, anyway!) In his presentation, he discusses a number of reasons why job candidates often blow the job interview. The first time I sat in on his presentation, I asked him what I thought were some good questions -- so good, in fact, that the next time I attended a  SQL Saturday  where he gave that presentation, he asked me to sit in just so I could ask those same questions and make some comments as a talking point for the audience. (He even joked about utilizing me as a prop for his presentation!) 
+ One of the points that he makes in his presentation is that a candidate is not expected to know everything. We are human, and we are not perfect. Nobody is all-knowing, and as well-versed as we try to be on a subject, we won't know everything about it. Even experts in a subject field won't know every little thing about their subject 
+ Tom mentions that when he interviews a job candidate, he will ask at least one question that either does not have a correct answer, may have multiple correct answers, or is ambiguous. (For those of you who are not DBAs, data professionals often joke that the standard answer is, "it depends.") He is not looking for a singular correct answer; rather, he is looking for  how  the candidate answers. 
+ This brought to mind a memory of a class I took in grad school. I missed a class because I was out sick, and it turned out that the material covered that day ended up as a question on the mid-term exam. I don't remember exactly how I answered that question, but I remember starting it something like this: "I don't remember going over this subject, but based on the nature of this question, this is what I  think  it means…" Not only did I end up answering the question correctly, I ended up getting a 97 (out of 100) on the exam. 
+ So if you don't know the answer, how would you go about getting it? These days, technology makes it easy to look things up online. "Google it" has become a part of our lexicon. Trying to find answers is our basis for research; if we don't have the answer, we try to figure out what it is. That is how we learn. I'll go as far to say that not knowing an answer is better than trying to fake your way through providing an answer. Would you rather give an answer you don't know and end up giving a wrong answer, or would you rather take the time to do your homework and give a better answer? 
+ Too many of us stress ourselves out because we try to be perfect. Any time we are tested -- whether it's on an exam, a job interview, or any instance where we are expected to give testimony -- we expect ourselves to be perfect. We expect to have the answer to every question. The reality is that this is impossible. We won't have every answer, and we shouldn't expect to. "I don't know" is a perfectly acceptable answer, and too many people don't realize that. Just say that you don't know, and explain how you'd go about finding out. And the next time you're asked the question, you'll have a better answer. 
+ Posted on  October 23, 2018  by  pianorayk Posted in  Being better ,  Career ,  Decision making ,  Mistakes ,  Professional Development 4 Comments 
+ A few words can make a difference 
+   
+ A couple of weeks ago, the  Rensselaer Polytechnic  (the RPI student newspaper) published a couple of op-eds in regard to  the situation at RPI . (My friend, Greg Moore,  wrote a piece a while back related to this issue .) In response to the op-eds, I decided to respond with  my own letter to the editor . 
+ This morning, a friend posted to my Facebook that my letter, to my surprise, was  garnering some attention . I won't say that it's gone viral, but apparently, it's caught a number of eyes. 
+ I should note that my donations haven't been much. I was only a graduate student at  Rensselaer , not an undergrad, so the social impact on my life wasn't quite the same, and other financial obligations have kept me from donating more of my money. That said, I've donated in other ways; I've been a  hockey  season ticket holder for many years (going back to my days as a student), I've attended various events (sports, cultural, etc.) on campus, and I've donated some of my time to the Institute. 
+ Although my donations have been relatively meager, more importantly, I wanted to spread the word that I was no longer supporting RPI, and exactly why I was discontinuing my support. How much I was contributing isn't the issue; the issue is that I am  stopping  contributing. For the first time in years, I have no intention of setting foot in the Field House for a hockey game during a season. I wanted to make clear exactly why. A large number of alumni have announced that they were withholding donations. I wanted to add to that chorus. It wasn't so much how much I was donating; rather, I wanted to add my voice, and hopefully encourage other students and alumni to take action against an administration that I deem to be oppressive. 
+ One of RPI's marketing catchphrases is, "why not change the world?" It looks like I'm doing exactly that with my letter. Don't underestimate the power of words. Indeed, with just a few words, you can change the world. 
+ Posted on  September 19, 2018  by  pianorayk Posted in  Being better ,  Change ,  Cultures ,  Decision making ,  Email ,  Feedback ,  School spirit Tagged  Cultures ,  Feedback ,  Free Speech ,  Oppression ,  Politics ,  Rensselaer Polytechnic Institute ,  RPI .  Leave a comment 
+ Instant decisions 
+ (Source: New York Times ) 
+ A  NY Times recap of a ballgame  got me thinking about instant decisions. 
+ I watched this game on a TV at a restaurant where I was having dinner with my wife. I remember watching Brett Gardner getting thrown out as he was caught in a rundown between third and home. I remember thinking, "now the man on third is erased. What were you thinking, Brett?" 
+ As the Times article points out, it ended up being a fateful decision by (Orioles pitcher) Dylan Bundy. Had he thrown the ball to the shortstop instead of his catcher, he potentially could have turned a double play to get his team out of the inning. Instead, the Yankees, with an extra life, rallied in the inning to go up by a score of 5-0 (highlighted by a Tyler Wade grand slam). The Yankees ended up winning, 9-0 (making me, a Yankee fan, happy). 
+ But this article isn't about the game. It's about the instant decision. In this case, a quick decision ended up affecting the outcome of a ballgame. 
+ Think about all the times in your life when you've had to make an instant decision on your feet. We've all had them. How did they turn out? Good? Bad? Did they end up changing the course of your life, or were they just blips on your lifetime radar screen? 
+ I'm sure there's some kind of psychology as to how your background -- upbringing, education, etc. -- might play a role regarding the kinds of split-second decisions you make, but this is a subject about which I know nothing. Rather, it got me thinking about the idea that quick decisions can have consequences. In the scheme of things, many of them might not have any effect. But depending on the time, place, and circumstances, such decision-making could have disastrous consequences -- or result in the opportunity of a lifetime. 
+ Posted on  July 12, 2018  by  pianorayk Posted in  Baseball ,  Being better ,  Decision making ,  Living life ,  Mistakes ,  Sports Tagged  Baseball ,  Decision making ,  Sports .  Leave a comment 
+ Posts navigation 
+ Older posts 
+ Search for: 
+ Just an average guy and my opinions . . . 
+ Follow me on Twitter 
+ My Tweets 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 453 other followers 
+ Email Address: 
+ Follow 
+ Follow Welcome to Ray Kim's 'blog on WordPress.com 
+ 
+ 
+ View PianoRayK's profile on LinkedIn 
+ 
+ 
+ Home 
+ 
+ 
+ About 
+ 
+ 
+ My presentations 
+ 
+ 
+ The Write Stuff 
+ 
+ 
+ Troy -- A Major-League City 
+ 
+ When Troy Was A Major League City -- Acknowledgements and Bibliography 
+ 
+ 
+ 
+ Contact 
+ 
+ 
+ Recent Posts 
+ 
+ Setting up my #Sessionize profile, and speaking opportunities -- #DataSaturday  January 25, 2021 
+ #DataSaturday  January 23, 2021 
+ Archiving my talks, part 3: PASS Summit -- #PASS  January 7, 2021 
+ Goals for 2021  January 1, 2021 
+ January CASSUG Monthly Meeting  December 29, 2020 
+ 
+ 
+ 
+ 
+ January 2021 S 
+ M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 
+ 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 
+ 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 
+ 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ « Dec 
+ Archives 
+ 
+ January 2021  (4) 
+ December 2020  (10) 
+ November 2020  (9) 
+ October 2020  (8) 
+ September 2020  (11) 
+ August 2020  (7) 
+ July 2020  (13) 
+ June 2020  (8) 
+ May 2020  (16) 
+ April 2020  (18) 
+ March 2020  (9) 
+ February 2020  (10) 
+ January 2020  (12) 
+ December 2019  (9) 
+ November 2019  (9) 
+ October 2019  (15) 
+ September 2019  (15) 
+ August 2019  (21) 
+ July 2019  (19) 
+ June 2019  (12) 
+ May 2019  (14) 
+ April 2019  (15) 
+ March 2019  (8) 
+ February 2019  (12) 
+ January 2019  (9) 
+ December 2018  (10) 
+ November 2018  (6) 
+ October 2018  (4) 
+ September 2018  (5) 
+ August 2018  (11) 
+ July 2018  (9) 
+ June 2018  (8) 
+ May 2018  (7) 
+ April 2018  (8) 
+ March 2018  (10) 
+ February 2018  (5) 
+ January 2018  (5) 
+ December 2017  (5) 
+ November 2017  (2) 
+ October 2017  (2) 
+ September 2017  (2) 
+ August 2017  (1) 
+ July 2017  (3) 
+ June 2017  (4) 
+ May 2017  (7) 
+ April 2017  (1) 
+ March 2017  (6) 
+ February 2017  (1) 
+ January 2017  (1) 
+ October 2016  (1) 
+ September 2016  (2) 
+ August 2016  (4) 
+ July 2016  (8) 
+ June 2016  (7) 
+ May 2016  (8) 
+ 
+ Categories 
+ 
+ 9/11  (4) 
+ Being better  (142)
+ 
+ Mistakes  (8) 
+ 
+ 
+ Books  (8)
+ 
+ Albom, Mitch  (1)
+ 
+ Tuesdays with Morrie  (1) 
+ 
+ 
+ Brooks, Terry  (1)
+ 
+ The Sword of Shannara  (1) 
+ 
+ 
+ Carnegie, Dale  (2)
+ 
+ How To Stop Worrying and Start Living  (1) 
+ How to Win Friends and Influence People  (1) 
+ 
+ 
+ Gawande, Atul  (3)
+ 
+ The Checklist Manifesto  (3) 
+ 
+ 
+ Norman, Don  (1)
+ 
+ The Design of Everyday Things  (1) 
+ 
+ 
+ 
+ 
+ Branding  (23) 
+ Business Intelligence  (14)
+ 
+ #BI101  (5) 
+ Data warehousing  (2) 
+ 
+ 
+ Career  (376)
+ 
+ #SQLCareer  (1) 
+ Job search  (77)
+ 
+ Job Interview  (15) 
+ Recruiters  (14) 
+ Recruiting Spam  (8) 
+ Resumes  (12) 
+ 
+ 
+ Networking  (202) 
+ Professional Development  (363)
+ 
+ Code Camp  (2) 
+ Data Saturday  (2) 
+ Decision making  (11) 
+ Disaster Recovery  (13) 
+ Feedback  (19) 
+ Mentoring  (3) 
+ PASS Summit  (42)
+ 
+ #PASSSummit2020  (6) 
+ 
+ 
+ Public Speaking  (141) 
+ Roles  (8) 
+ SQL Saturday  (131) 
+ Teamwork  (9) 
+ Technical Communication  (163)
+ 
+ Design  (24)
+ 
+ UX/UI  (15) 
+ 
+ 
+ Documentation  (102) 
+ Technical Writing  (79) 
+ 
+ 
+ User Groups  (61) 
+ 
+ 
+ Self-employment  (14) 
+ Work  (4) 
+ 
+ 
+ Change  (88)
+ 
+ Dealing with change  (73) 
+ 
+ 
+ Computers  (3)
+ 
+ Hardware  (2)
+ 
+ Storage  (1) 
+ 
+ 
+ Software  (2) 
+ 
+ 
+ Cultures  (47) 
+ Data processing  (25) 
+ Data security  (19) 
+ Database  (78)
+ 
+ #SQL101  (8) 
+ Oracle  (1) 
+ SQL Server  (72)
+ 
+ SSIS  (2) 
+ 
+ 
+ 
+ 
+ Living life  (167)
+ 
+ Extracurricular activities  (22)
+ 
+ Hobbies  (3) 
+ 
+ 
+ Food  (4) 
+ Holidays  (11)
+ 
+ Christmas  (1) 
+ Memorial Day  (3) 
+ New Year's Day  (1) 
+ 
+ 
+ Music  (17)
+ 
+ MIDI Sequencing  (2) 
+ Recording  (3) 
+ 
+ 
+ Relationships  (50) 
+ Travel  (27)
+ 
+ SQL Travels  (11) 
+ 
+ 
+ Wellness  (54)
+ 
+ Health  (53)
+ 
+ Coronavirus  (31)
+ 
+ #CoronavirusChronicles  (23) 
+ COVID-19  (30) 
+ 
+ 
+ Exercise  (14)
+ 
+ CrossFit  (10) 
+ Fitness  (11) 
+ Working Out  (9) 
+ 
+ 
+ Stress  (7) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maintenance  (39) 
+ Microsoft  (38)
+ 
+ Power BI  (3) 
+ PowerShell  (4) 
+ Windows  (1) 
+ 
+ 
+ Open Source  (2)
+ 
+ Docker  (2) 
+ 
+ 
+ Programming  (8)
+ 
+ REST  (1)
+ 
+ #REST101  (1) 
+ 
+ 
+ Script programming  (2) 
+ 
+ 
+ Reference  (6) 
+ Religion  (1) 
+ Social Media  (54)
+ 
+ Blog  (33)
+ 
+ Blog ground rules  (1) 
+ First blog post  (5) 
+ 
+ 
+ Facebook  (8) 
+ LinkedIn  (16) 
+ Podcast  (2) 
+ Twitter  (4) 
+ 
+ 
+ Sports  (24)
+ 
+ Baseball  (11) 
+ Basketball  (3)
+ 
+ College basketball  (3) 
+ 
+ 
+ Football  (3)
+ 
+ College football  (2) 
+ Fantasy football  (1) 
+ 
+ 
+ Hockey  (1)
+ 
+ College hockey  (1) 
+ 
+ 
+ Running  (3) 
+ 
+ 
+ Stuff  (67)
+ 
+ Email  (9)
+ 
+ Spam  (5) 
+ 
+ 
+ Getting started  (26) 
+ Ideas  (13) 
+ Just for fun  (13)
+ 
+ #TheBestOf  (3) 
+ 
+ 
+ Memorization  (2) 
+ Ownership  (1) 
+ Politics  (7) 
+ School spirit  (5) 
+ Video games  (1) 
+ Welcome  (1) 
+ 
+ 
+ Support systems  (25) 
+ Uncategorized  (6) 
+ Web Development  (9) 
+ 
+ Blogs I Follow 
+ 
+ HRTact 
+ creativegoddess.wordpress.com/ 
+ The Write Stuff Technical Documentation Services, LLC 
+ Deb the DBA 
+ FLX SQL with Andy Levy 
+ A Shot of SQLEspresso 
+ SQLKohai - always a student 
+ George Walters 
+ The Rest is Just Code 
+ Voice of the DBA 
+ Daniel Bowlin SQL Server BI Blog 
+ greenmountainsoftware 
+ James Serra's Blog 
+ Discover 
+ The Daily Post 
+ The WordPress.com Blog 
+ 
+ Blog at WordPress.com. 
+ HRTact 
+ Cultivate Your Workforce with Effective Human Strategies 
+ creativegoddess.wordpress.com/ 
+ The Write Stuff Technical Documentation Services, LLC 
+ "My job is to make other people's jobs easier" 
+ Deb the DBA 
+ Just me and the databases... 
+ FLX SQL with Andy Levy 
+ Hand-Crafted SQL and PowerShell from New York's Finger Lakes 
+ A Shot of SQLEspresso 
+ SQL Blogs by Monica Rathbun 
+ SQLKohai - always a student 
+ George Walters 
+ Microsoft Azure, Data Platform, SQL, Speaking, Community 
+ The Rest is Just Code 
+ Ideas are the hard part...the rest is just code 
+ Voice of the DBA 
+ Writings from Steve Jones, the Voice of the DBA 
+ Daniel Bowlin SQL Server BI Blog 
+ greenmountainsoftware 
+ Thoughts on SQL, Disasters and thinking 
+ James Serra's Blog 
+ Big Data and Data Warehousing 
+ Discover 
+ A daily selection of the best content published on WordPress, collected for you by humans who love to read. 
+ The Daily Post 
+ The Art and Craft of Blogging 
+ The WordPress.com Blog 
+ The latest news on WordPress.com and the WordPress community. 
+  Welcome to Ray Kim's 'blog  
+ Create a free website or blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

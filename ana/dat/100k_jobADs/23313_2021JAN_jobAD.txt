@@ -1,0 +1,204 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Clojure Developer 
+ [ 
+ Gooten 
+ ](/companies/gooten) 
+ 
+ Remote 
+ 13 September, 2020 
+ Apply 
+ More jobs from Gooten About Gooten 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Angular 
+ Algorithms 
+ C# 
+ Clojure 
+ Multi-threading 
+ React 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health insurance 
+ Generous pto 
+ Gym passes 
+ Company outings 
+ Parental leave 
+ Flexible schedules 
+ Learning budget 
+ Team retreats 
+ Equity 
+ Citi bike subsidy 
+ Equal opportunity employer 
+ Paid time off 
+ Self-development allowance 
+ Team building 
+ Home office allowance 
+ 
+ Can be remote from the US, Canada, or South America! 
+ Role overview 
+ Your role: 
+ As a Gooten developer, you’ll join a close-knit team of other engineers to build the future of our order management platform destined to serve hundreds of thousands of orders a day. This individual would work on our backend services supporting our physical product vendor operations team and improve our dynamic routing capabilities. 
+ The Gooten platform handles thousands of complex print-on-demand orders each day leveraged by our in-depth product creation, order management services, integrations, and dynamic routing. Our store owner partners enjoy our platform for its consolidation of their many e-commerce shops and our speed to deliver through our globally distributed vendor network. 
+ We’re looking for an experienced Full Stack Software engineer who is passionate about delivering highly critical technical projects end-to-end. You should be motivated, extremely knowledgeable about systems engineering and shipping software with high quality on time.  This is a fully remote role supporting the Americas team. 
+ How you'll power eCommerce: 
+ 
+ Implement new feature requests, producing testable and repeatable results 
+ Work with product team to understand business requirements 
+ Heavily participate and support others in code reviews 
+ Build, own, and operate reliable software experiences, systems, and services 
+ Establish and maintain technical specifications 
+ Handle and support operational issues 
+ 
+ You should have: 
+ 
+ Proven experience with Clojure or C# development (micro services, multi-threading, concurrency, collections, algorithms, micro services) 
+ Proven experience with ReactJS, Redux or AngularJS (sagas, selectors, reducers, data patterns and data marshalling) 
+ Database experience (knowledge of Microsoft SQL Server) 
+ Cloud technology experience (Azure) 
+ Ability to design, code, document, and test reusable components, frameworks and systems 
+ Experience with SDLC process and agile development practices (JIRA, Jenkins, Confluence, git) 
+ Ability to break down complex technical problems into small, release-able, user valued features 
+ 
+ The really important stuff: 
+ We nurture a culture of open communication. Because our team is a collection of people from diverse backgrounds and cultures, we have seen a great level of cross-team cooperation. We are a globally distributed team, with individuals located in Europe, North America and South America. Gooten offers a suite of benefits including educational development budgets, insurance coverage and 30 days PTO to allow you to take the time to rest and recharge. Our goal as a company is to have our employees develop new skills and socialize with our extraordinary team members. 
+ 
+ [ 
+ Gooten 
+ ](/companies/gooten) 
+ 
+ 50-249 
+ 
+ Gooten is a workflow automation platform for eCommerce businesses to create products, market their businesses, and provide first mile logistics services on a global basis. Gooten's platform allows thousands of eCommerce companies to access on-demand production capacity, with an integrated product creation tool set that provides customization and personalization out of the box. Companies using Gooten increase efficiency, increase revenues through design optimization, and increase brand value through omni-channel distribution. Businesses powered by Gooten can source new products, identify new trends, run promotions, and track analytics on purchasers/repeat purchasers, while focusing business efforts on what drives revenues - creating developing and marketing brands and products. 
+ C# Technology Series A .NET Lisp microsoft azure Generous PTO Gym Passes 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Gooten About Gooten 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Angular 
+ Algorithms 
+ C# 
+ Clojure 
+ Multi-threading 
+ React 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health insurance 
+ Generous pto 
+ Gym passes 
+ Company outings 
+ Parental leave 
+ Flexible schedules 
+ Learning budget 
+ Team retreats 
+ Equity 
+ Citi bike subsidy 
+ Equal opportunity employer 
+ Paid time off 
+ Self-development allowance 
+ Team building 
+ Home office allowance 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Lead Developer£50K - 60KDeesonUnited Kingdom 
+ Lead a team creating transformational digital platforms using open source technology ✨ 
+ Remote 
+ angular javascript node.js python react 
+ More Info Apply 
+ Senior Software EngineerCompetitiveEthycaUnited States of America 
+ Developer tools to make data privacy easy. Solving CCPA & GDPR for teams big & small 
+ Remote 
+ angular java javascript react scala 
+ More Info Apply 
+ Clojure(Script) Developer£35K - 60KElcomUnited Kingdom 
+ Help us develop our innovative range of next generation spend management solutions 
+ Remote 
+ css clojure clojurescript html react reagent 
+ More Info Apply 
+ Clojure Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

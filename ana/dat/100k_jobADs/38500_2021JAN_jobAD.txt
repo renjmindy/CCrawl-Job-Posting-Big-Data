@@ -1,0 +1,67 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Rume (S20) 
+ Video chat that doesn't feel like work 
+ Founding Enginneer 
+ $100k - $150k • 0.20% - 3.00% 
+ Location 
+ San Francisco / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Rume 
+ About the role 
+ Skills:  JavaScript, Node.js, Google Cloud 
+ About Rume (YC S20) 
+ People are feeling more alone than ever before but the tools we use to communicate make socializing feel like work. Rume  (rumevideo.com)  is a social video chat platform that recreates the dynamics of a party, not a meeting. We're building a social network focused on spending time together, not just sharing content. 
+ We just raised a seed round and we're growing the team. This role will work directly with the founding team as our first hire — we're looking for a partner that will help shape the direction of the product and the company. 
+ Rume works by helping people express the nuance and emotion of social interactions. We're innovating in the ways people talk, see, and interact on video chat. To achieve this, first and foremost our foundation must be rock solid — Rume fades into the background so that you can focus on what really matters, people! 
+ The job 
+ Rume wasn’t built in a day. Brick by brick you’ll build a resilient infrastructure to deliver a high quality video experience. Your job is to make sure Rume works, always. This means: 
+ 
+ Building best in class video chat reliability to rival Zoom. Regardless of how slow your connection is, Rume should work. The state of the art isn't good enough — you should be clever with your solutions and understand what matters to our users. 
+ Scaling Rume to the world. Socializing is a global need, we intend Rume to be used by everyone. 
+ Building tools to help us understand the health of our platform. When someone has a problem, we should know. 
+ Thinking long term — defining our infrastructure roadmap, growing a team, and building a culture of engineering excellence. 
+ 
+ A real world example 
+ Problem:  Rume works well for up to 15 people but after that, high CPU and bandwidth load start to degrade the experience client side. We're working on compositing multiple video streams server side to lessen the burden. However, this comes with whole different set of challenges from increased latency to server side CPU tradeoffs. Your job would be to build a custom MCU that manages these tradeoffs tuned to our specific use case. 
+ We're looking for 
+ Someone who is excited about building a world class video infrastructure and growing a team to help do it. 
+ Experience that is pretty much required 
+ 
+ Experience working on scaling video infrastructure 
+ 
+ Experiences that would be helpful (but are fine if you don't have) 
+ 
+ Experience maintaining a VPC on AWS or GCP 
+ Microservice design patterns and communication 
+ Experience with Firebase, PostgreSQL, and Redis 
+ Configuration management 
+ Experience with websockets (Socketio) 
+ CI/CD (we use gitlab) 
+ 
+ Technology 
+ Other jobs at Rume 
+ Founding Enginneer 
+ fulltime 
+ San Francisco / Remote 
+ Backend 
+ $100k - $150k 
+ 0.20% - 3.00% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

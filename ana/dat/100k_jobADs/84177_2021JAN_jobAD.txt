@@ -1,0 +1,333 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Help with Craft CMS upload permissions REMOTECONTRACT 
+ Job Description 
+ Hi guys 
+My friend has a website built using Craft CMS that I have committed to help with (unfortunately I know a little about WordPress and nothing about Craft CMS). 
+ The website has 3 sections for "Clients", "Staff" and "News". Articles can be created and images uploaded, and it's working ok for him except one particular function where uploading images to the "Clients" section - the screen just hangs, and the following is displayed in the error log (see below). 
+ I assume this will be easy to troubleshoot for someone who has worked with Craft CMS, and is simply a minor config or folder permissions issue (or similar!) 
+ Please let me know if you can help, and an estimate for the time and cost (I'll provide you with the access details to the CMS and FTP access to the web server where the site is hosted. 
+ 
+ 2018/09/06 21:04:35 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('xmlrpc.php', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/xmlrpc.php 
+--- 
+ 
+ 2018/09/06 21:15:44 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('wp-login.php', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/wp-login.php 
+--- 
+ 
+ 2018/09/06 21:36:20 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('authors/3/Andre...', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/authors/3/Andrew-Dineen 
+--- 
+ 
+ 2018/09/06 21:59:24 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('assets/photo/Po...', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/assets/photo/Pool-3-Bed-8.jpg 
+--- 
+ 
+ 2018/09/06 22:05:32 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('assets/download...', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/assets/downloads/The-Lakes-Cairns-Bedroom.jpg 
+--- 
+ 
+ 2018/09/06 23:12:52 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('articles/37/1/P...', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/articles/37/1/Page1.html 
+--- 
+ 
+ 2018/09/06 23:15:17 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('AutoDiscover/au...', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/AutoDiscover/autodiscover.xml 
+--- 
+ 
+ 2018/09/07 01:02:58 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('categories/PTC-...', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/categories/PTC-Brochure-Downloads/ 
+--- 
+ 
+ 2018/09/07 01:41:25 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('plus/download.p...', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/plus/download.php?open=1&arrs1[]=99&arrs1[]=102&arrs1[]=103&arrs1[]=95&arrs1[]=100&arrs1[]=98&arrs1[]=112&arrs1[]=114&arrs1[]=101&arrs1[]=102&arrs1[]=105&arrs1[]=120&arrs2[]=109&arrs2[]=121&arrs2[]=97&arrs2[]=100&arrs2[]=96&arrs2[]=32&arrs2[]=83&arrs2[]=69&arrs2[]=84&arrs2[]=32&arrs2[]=96&arrs2[]=110&arrs2[]=111&arrs2[]=114&arrs2[]=109&arrs2[]=98&arrs2[]=111&arrs2[]=100&arrs2[]=121&arrs2[]=96&arrs2[]=32&arrs2[]=61&arrs2[]=32&arrs2[]=39&arrs2[]=60&arrs2[]=63&arrs2[]=112&arrs2[]=104&arrs2[]=112&arrs2[]=32&arrs2[]=102&arrs2[]=105&arrs2[]=108&arrs2[]=101&arrs2[]=95&arrs2[]=112&arrs2[]=117&arrs2[]=116&arrs2[]=95&arrs2[]=99&arrs2[]=111&arrs2[]=110&arrs2[]=116&arrs2[]=101&arrs2[]=110&arrs2[]=116&arrs2[]=115&arrs2[]=40&arrs2[]=39&arrs2[]=39&arrs2[]=109&arrs2[]=111&arrs2[]=111&arrs2[]=110&arrs2[]=46&arrs2[]=112&arrs2[]=104&arrs2[]=112&arrs2[]=39&arrs2[]=39&arrs2[]=44&arrs2[]=39&arrs2[]=39&arrs2[]=60&arrs2[]=63&arrs2[]=112&arrs2[]=104&arrs2[]=112&arrs2[]=32&arrs2[]=101&arrs2[]=118&arrs2[]=97&arrs2[]=108&arrs2[]=40&arrs2[]=36&arrs2[]=95&arrs2[]=80&arrs2[]=79&arrs2[]=83&arrs2[]=84&arrs2[]=91&arrs2[]=120&arrs2[]=93&arrs2[]=41&arrs2[]=59&arrs2[]=101&arrs2[]=99&arrs2[]=104&arrs2[]=111&arrs2[]=32&arrs2[]=109&arrs2[]=79&arrs2[]=111&arrs2[]=110&arrs2[]=59&arrs2[]=63&arrs2[]=62&arrs2[]=39&arrs2[]=39&arrs2[]=41&arrs2[]=59&arrs2[]=63&arrs2[]=62&arrs2[]=39&arrs2[]=32&arrs2[]=87&arrs2[]=72&arrs2[]=69&arrs2[]=82&arrs2[]=69&arrs2[]=32&arrs2[]=96&arrs2[]=97&arrs2[]=105&arrs2[]=100&arrs2[]=96&arrs2[]=32&arrs2[]=61&arrs2[]=49&arrs2[]=57&arrs2[]=32&arrs2[]=35 
+HTTP_REFERER=http://www.wine-world.com/ 
+--- 
+ 
+ 2018/09/07 01:41:26 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('plus/ad_js.php', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/plus/ad_js.php?aid=19 
+HTTP_REFERER=http://www.wine-world.com/ 
+--- 
+ 
+ 2018/09/07 01:41:28 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('plus/moon.php', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/plus/moon.php 
+HTTP_REFERER=http://www.wine-world.com/ 
+--- 
+ 
+ 2018/09/07 01:46:20 [error] [exception.Craft\HttpException.404] Craft\HttpException in /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/TemplatesController.php:59 
+Stack trace: 
+#0 [internal function]: Craft\TemplatesController->actionRender('AutoDiscover/au...', Array) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(Craft\TemplatesController), Array) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(Craft\TemplatesController), Object(ReflectionMethod), Array) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('render') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/rende...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(288): CWebApplication->processRequest() 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#11 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#12 {main} 
+REQUEST_URI=/AutoDiscover/autodiscover.xml 
+--- 
+ 
+ 2018/09/07 02:32:38 [warning] [application] editor tried to log in unsuccessfully. 
+ 
+ 2018/09/07 04:07:49 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/8a76b09f4b6a8c6f57ce3dfa052c5d4c.bin, but that path does not exist. 
+ 
+ 2018/09/07 04:09:33 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/8a76b09f4b6a8c6f57ce3dfa052c5d4c.bin, but that path does not exist. 
+ 
+ 2018/09/07 04:14:02 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/8a76b09f4b6a8c6f57ce3dfa052c5d4c.bin, but that path does not exist. 
+2018/09/07 04:14:02 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/eb01d93432a9c2bcb79e3502f7847f5d.bin, but that path does not exist. 
+ 
+ 2018/09/07 04:14:07 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/a9aad79039f9d636a035ada0bcef787d.bin, but that path does not exist. 
+ 
+ 2018/09/07 04:15:09 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/8a76b09f4b6a8c6f57ce3dfa052c5d4c.bin, but that path does not exist. 
+ 
+ 2018/09/07 04:15:33 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/a9aad79039f9d636a035ada0bcef787d.bin, but that path does not exist. 
+ 
+ 2018/09/07 04:17:11 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/8a76b09f4b6a8c6f57ce3dfa052c5d4c.bin, but that path does not exist. 
+2018/09/07 04:17:11 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/eb01d93432a9c2bcb79e3502f7847f5d.bin, but that path does not exist. 
+ 
+ 2018/09/07 04:17:23 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/a9aad79039f9d636a035ada0bcef787d.bin, but that path does not exist. 
+ 
+ 2018/09/07 04:17:25 [error] [application] Tried to change the permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/8a76b09f4b6a8c6f57ce3dfa052c5d4c.bin, but could not. 
+ 
+ 2018/09/07 04:23:38 [error] [exception.Error] Error: Class 'lsolesen\pel\PelEntryTime' not found in /home/mywebserver/public_html/mywebsite.com/craft/app/vendor/lsolesen/pel/src/PelIfd.php:346 
+Stack trace: 
+#0 /home/mywebserver/public_html/mywebsite.com/craft/app/vendor/lsolesen/pel/src/PelIfd.php(246): lsolesen\pel\PelIfd->newEntryFromData(306, 2, 20, Object(lsolesen\pel\PelDataWindow)) 
+#1 /home/mywebserver/public_html/mywebsite.com/craft/app/vendor/lsolesen/pel/src/PelTiff.php(159): lsolesen\pel\PelIfd->load(Object(lsolesen\pel\PelDataWindow), 10) 
+#2 /home/mywebserver/public_html/mywebsite.com/craft/app/vendor/lsolesen/pel/src/PelExif.php(108): lsolesen\pel\PelTiff->load(Object(lsolesen\pel\PelDataWindow)) 
+#3 /home/mywebserver/public_html/mywebsite.com/craft/app/vendor/lsolesen/pel/src/PelJpeg.php(222): lsolesen\pel\PelExif->load(Object(lsolesen\pel\PelDataWindow)) 
+#4 /home/mywebserver/public_html/mywebsite.com/craft/app/services/ImagesService.php(296): lsolesen\pel\PelJpeg->load(Object(lsolesen\pel\PelDataWindow)) 
+#5 /home/mywebserver/public_html/mywebsite.com/craft/app/services/ImagesService.php(183): Craft\ImagesService->stripOrientationFromExifData('/home/mywebserver/...') 
+#6 /home/mywebserver/public_html/mywebsite.com/craft/app/assetsourcetypes/BaseAssetSourceType.php(213): Craft\ImagesService->cleanImage('/home/mywebserver/...') 
+#7 /home/mywebserver/public_html/mywebsite.com/craft/app/assetsourcetypes/BaseAssetSourceType.php(172): Craft\BaseAssetSourceType->insertFileByPath('/home/mywebserver/...', Object(Craft\AssetFolderModel), '20160612_114358...') 
+#8 /home/mywebserver/public_html/mywebsite.com/craft/app/services/AssetsService.php(709): Craft\BaseAssetSourceType->uploadFile(Object(Craft\AssetFolderModel)) 
+#9 /home/mywebserver/public_html/mywebsite.com/craft/app/controllers/AssetsController.php(52): Craft\AssetsService->uploadFile('5', NULL, 0, NULL) 
+#10 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/actions/CInlineAction.php(49): Craft\AssetsController->actionUploadFile() 
+#11 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(308): CInlineAction->runWithParams(Array) 
+#12 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(286): CController->runAction(Object(CInlineAction)) 
+#13 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array) 
+#14 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/web/CWebApplication.php(282): CController->run('uploadFile') 
+#15 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(815): CWebApplication->runController('assets/uploadFi...') 
+#16 /home/mywebserver/public_html/mywebsite.com/craft/app/etc/web/WebApp.php(285): Craft\WebApp->_processActionRequest() 
+#17 /home/mywebserver/public_html/mywebsite.com/craft/app/framework/base/CApplication.php(185): Craft\WebApp->processRequest() 
+#18 /home/mywebserver/public_html/mywebsite.com/craft/app/index.php(62): CApplication->run() 
+#19 /home/mywebserver/public_html/mywebsite.com/index.php(19): require_once('/home/mywebserver/...') 
+#20 {main} 
+REQUEST_URI=/index.php/admin/actions/assets/uploadFile 
+HTTP_REFERER=http://www.mywebsite.com/admin/entries/sitePages/106-australia 
+--- 
+ 
+ 2018/09/07 04:23:41 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/8a76b09f4b6a8c6f57ce3dfa052c5d4c.bin, but that path does not exist. 
+2018/09/07 04:23:41 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/5067185160952aed92247cbb8b0c3458.bin, but that path does not exist. 
+ 
+ 2018/09/07 04:26:01 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/eb01d93432a9c2bcb79e3502f7847f5d.bin, but that path does not exist. 
+ 
+ 2018/09/07 04:26:43 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/eb01d93432a9c2bcb79e3502f7847f5d.bin, but that path does not exist. 
+ 
+ 2018/09/07 04:27:11 [error] [application] Tried to change permissions of /home/mywebserver/public_html/mywebsite.com/craft/storage/runtime/cache/eb01d93432a9c2bcb79e3502f7847f5d.bin, but that path does not exist. 
+ 
+ How to Apply 
+ Please contact me via this site by email with confirmation you are experienced with Craft CMS, can do this job, understand the scope of what is needed from the above description, and your estimated cost to complete the task. 
+Many thanks! 
+ Contact Info 
+ 
+ __ 
+ 
+ Location:  Anywhere 
+ 
+ __ 
+ 
+ Phone Number:   99999999 
+ 
+ __ 
+ 
+ Email Address: 
+ __  Posted September 11, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

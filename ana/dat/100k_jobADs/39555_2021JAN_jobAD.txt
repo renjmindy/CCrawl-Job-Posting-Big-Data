@@ -1,0 +1,197 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Platforms Engineer for a Cryptocurrency startup 
+ [ 
+ Chorus One 
+ ](/companies/chorus-one) 
+ 
+ Remote 
+ 24 November, 2020 
+ Apply More jobs from Chorus One About Chorus One 
+ Salary 
+ $75K - 110K + Equity 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Ansible 
+ Golang 
+ KUBERNETES 
+ Rust 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Unlimited vacation policy 
+ Stock options 
+ Company outings 
+ Equal pay policy 
+ Flexible schedules 
+ Team retreats 
+ Flexible pto/unlimited sick days 
+ Laptop 
+ Macbook air/pro 
+ Equal opportunity employer 
+ Join the blockchain revolution 
+ Contribution to open-source projects 
+ Flexible holiday entitlement 
+ 
+ Build infrastructure for the Internet of Blockchains 
+ Role overview 
+ Job description 
+ Chorus One runs validators on cutting edge Proof of Stake networks such as Cosmos, Solana, Celo, Polkadot and Oasis. We also provide user analytics and a wallet for users at: https://anthem.chorus.one/ 
+ We are seeking a Platforms Engineer to maintain and scale our staking infrastructure; our network secures millions of dollars of cryptocurrency assets, and security and reliability are key to everything we do. This position is a unique opportunity to work with an experienced team on cutting-edge blockchain networks and financial services around cryptocurrency. 
+ Responsibilities 
+ 
+ Maintain, scale and monitor existing infrastructure, including cloud machines, bare metal servers and a Kubernetes cluster, to allow Chorus One to provide secure and reliable industry-leading Proof-of-Stake validation services. 
+ Reason about and improve the security properties of infrastructure. Secure key management, server hardening and intrusion detection are important themes. 
+ Institute monitoring and alerting systems for infrastructure. Enable other team members to attend to and troubleshoot problems as they arise. 
+ Develop software related to blockchain data extraction or interchain communication, on an as-needed basis. 
+ 
+ The ideal candidate: 
+ 
+ Is able to work independently. Has prior work experience in a medium sized company or as a Platforms / DevOps lead in a startup. 
+ Has prior experience with a range of diverse DevOps tools. We use Kubernetes, Ansible and Packer. 
+ Possesses good knowledge of security as it relates to cloud-based infrastructure. 
+ Is able to develop tooling, and monitoring solutions where none exist, and can debug unreliable software - many of the projects we run are of alpha quality. Good knowledge of Golang and/or Rust would be a significant advantage. 
+ Bachelors or advanced degree in Computer Science or related subject is a plus, but not strictly needed. 
+ 
+ We offer: 
+ 
+ Competitive salary + equity. 
+ Quarterly retreats at exotic destinations. Past retreats took place in Cairo, Serbia, Kenya and Korea. 
+ Unlimited leave. 
+ Full-time position. 
+ Remote work. 
+ Work on cool technology and interesting problems at the intersection of finance, cryptocurrency, information security and blockchain networks. 
+ 
+ 
+ [ 
+ Chorus One 
+ ](/companies/chorus-one) 
+ 
+ 10-49 
+ 
+ ﻿About Chorus One Chorus One is a community of ambitious, self-reflective people building high reliability infrastructure for decentralized networks. We believe that cryptoeconomics and decentralized networks will enable collaboration on a global scale and propel the next stage in human evolution. Chorus One is building validator nodes and inter-chain communication for decentralized networks, allowing our users to earn more tokens and shape the emerging open financial system. Our work lies at the rich intersection of financial services, cryptocurrency, DevOps and information security. 
+ Blockchain Private flexible working early stage Go Ansible KUBERNETES Solidity Unlimited Vacation Policy Stock Options 
+ View 2 jobs 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from Chorus One About Chorus One 
+ Salary 
+ $75K - 110K + Equity 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Ansible 
+ Golang 
+ KUBERNETES 
+ Rust 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Unlimited vacation policy 
+ Stock options 
+ Company outings 
+ Equal pay policy 
+ Flexible schedules 
+ Team retreats 
+ Flexible pto/unlimited sick days 
+ Laptop 
+ Macbook air/pro 
+ Equal opportunity employer 
+ Join the blockchain revolution 
+ Contribution to open-source projects 
+ Flexible holiday entitlement 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Backend Engineer (Remote)€50K - 85K + EquityQontoFrance 
+ Software Engineering position for one of the most exciting banks for SME businesses 
+ RemoteSponsorship 
+ aws golang kubernetes kafka ruby 
+ More Info Apply 
+ Software EngineerCompetitiveWeaveworksUnited States of America 
+ Work with us to help enterprises build better software and operate it reliably, at scale using Gitops workflow 
+ Remote 
+ aws azure golang google cloud kubernetes 
+ More Info Apply 
+ System's EngineerCompetitiveAndalusUnited Arab Emirates 
+ Design, build, and maintain the core data computation infrastructure used by data scientists 
+ Remote 
+ aws ansible docker kubernetes spark 
+ More Info Apply 
+ Platforms Engineer for a Cryptocurrency startup 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

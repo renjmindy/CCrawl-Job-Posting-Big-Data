@@ -1,0 +1,158 @@
+
+ 
+ Blog 
+ Calendar of Events 
+ Question of the Month 
+ Video Spotlight 
+ 
+     
+ 
+ About Us 
+ What's New 
+ Locations 
+ Resources 
+ 
+ Find A Firm  |  Find A Lawyer 
+ Blog 
+ View All Blog Posts 
+ Tweets  
+ 
+ Jan 22 
+ President Biden Directs OSHA to Step Up COVID-19 Safety Measures by February 4  https://t.co/jHDEJmMZYP 
+ 
+ 
+ Jan 21 
+ New  @shrm  Court Report: Certain Specialists Are Administratively Exempt  https://t.co/JikyMA8Wkz 
+ 
+ 
+ Jan 21 
+ More Guidance from the CDC on Workplace Vaccination Programs  https://t.co/WVEJ8KcU8E 
+ 
+ Thanksgiving Leftovers Quiz: The ADA, Post-Offer Medical Exams, And Rescinding Job Offers 
+ By Michael G. McClory - Bullard Law 
+ November 28, 2017 
+ Thanksgiving 2017 has come and gone.  Hopefully you were able to gather with family and friends, in person or by Facetime, enjoy a little turkey or other traditional meal, watch some football or movie, shop if Black Friday is your thing, and take time to appreciate what we have in this great nation.  As we start a new week, many of us still have leftovers in the fridge that we need to eat before they get too old. 
+ The Bullard Edge  has leftovers, too.  Last week we read a story that had it all: the ADA, a post-offer medical examination, adverse action, litigation, and summary judgment.  The story has been on the shelf for a week and we want to present it before it becomes old news.  For fun, we are going to present it in the form of a three-part quiz: the set-up scenario, questions, and answers.  Here we go. 
+ The Set-Up  : 
+Toxic Toys is a controversial toy manufacturer located just outside of Mid-Town.  Many may be familiar with its popular "Toxic Toads" board game in which players navigate their game pieces (glow in the dark "toxic" toads) through an imaginary Superfund site.  Players who get through the bubblin' swamp, must then traverse the burnin' desert and the poison poppy field in order to reach the Mirage Health Salvation Center. 
+ For realism, each game piece contains a miniscule amount of actual toxic material (the HOX toxin).  The company assures game players that the potency of the toxic material is neutered in the manufacturing process (much like alcohol is popularly thought to evaporate from a reduction sauce).  In other words, according to Toxic Toys the game playing public is safe when playing Toxic Toads.  (Maybe, but I am not gifting this game to anyone during the holiday season.) 
+ Even if the game is safe for the public, the manufacturing of the game necessarily involves some level of contact with toxic material for some employees.  This is especially true of those who work on the receiving dock, in the die-casting area, and in game assembly.  Knowing this, Toxic Toys requires a post-offer, pre-employment medical examination that addresses several questions. 
+ The Quiz Questions  : 
+The post-offer, pre-employment medical examination is targeted to address several of the company's specific concerns. 
+ First, Toxic Toys is concerned about employees who unload toxic material on the receiving dock and employees in the die-casting area who melt the material into the game pieces.  The issue is that the HOX toxin is deadly to individuals who also have certain otherwise benign and asymptomatic skin conditions.  Therefore, each person offered a receiving dock or die-cast area position must undergo a post-offer, pre-employment medical examination to determine whether he or she has one of these skin conditions. 
+ Question 1  : Is this test permitted under the ADA? 
+ Second, Toxic Toys also is concerned about employees who work in game assembly.  The issue is not the potency of the HOX toxin, which has been neutered in the manufacturing process.  Rather, the issue relates to the repetitive tasks required of employees in the game assembly process.  Therefore, each person offered an assembly position must undergo a post-offer, pre-employment medical examination to determine whether he or she is likely to develop carpal tunnel syndrome. 
+ Question 2  : Is this test permitted under the ADA? 
+ A Non-Toxic Classic Board Game  : 
+While you are thinking about the answers to the questions posed above, you may enjoy re-familiarizing yourselves with Hasbro's classic game, Candy Land.  In this game, players move along a rainbow path to get to King Kandy's Castle, passing along the way the Peppermint Forest, Lollipop Palace, and Licorice Lagoon, among other fun locations. 
+ Answers  : 
+In the tradition of lawyers asking "yes" or "no" questions, there is not a purely "yes" or "no" answer to these questions.  Instead, there is a process for analysis that walks you to the correct answer.  Here we go. 
+ First  , Toxic Toys seems to be aware that the ADA and comparable state laws regulate when an employer may seek medical information.  While the fact pattern does not fully discuss it, we can deduce from the company's use of a post-offer, pre-employment medical examination that the company is aware of the three "stages" established by the ADA.  There are separate sets of rules regarding medical inquiries and examinations at each of these stages. 
+ -  Pre-Offer  : Prior to extending a job offer, an employer may not require an applicant to submit to a medical examination or to respond to medical inquiries. 
+ -  Post-Offer/Pre-Employment  : After making a conditional job offer but prior to the beginning of employment, an employer generally may require an offeree to submit to a medical examination or to respond to medical inquiries.  However, the employer must require the same exam or responses of all entering employees for that job classification. 
+ Post-Employment  : After employment begins, an employer may only require an employee to submit to a medical examination or respond to medical inquiries if the examination or inquiry is job-related and consistent with business necessity. 
+ In the case of Toxic Toys, the company is not requiring medical examinations of anyone who is not an offeree.  Further, the medical examinations seem to be tailored to the employment positions.  The skin condition test is given to offerees who would work on the receiving dock or in the die-casting area; the carpal tunnel propensity test is given to offerees who would work in the game assembly area.  This sounds lawful, so far. 
+ Second  , the implication of the fact pattern is that Toxic Toys rescinds job offers where there is a positive test for one of the skin conditions or for carpal tunnel propensity.  We will analyze the company's process with that assumption in mind. 
+ Under the ADA and comparable state law an employer may only rescind an offer based on the results of the examination if (a) the person would be unable to perform the essential job functions with or without reasonable accommodation or (b) that there would be a direct safety threat.  We will apply this to each of our employee categories. 
+ The skin condition test  is required of offerees who would work on the receiving dock or in the die-casting area.  We are told that the HOX toxin is deadly for a person who has one of these skin conditions.  The implication is that Toxic Toys would be rescinding a job offer to such a person because working in one of those positions would present a direct safety threat.  That may be the case. 
+ - However, before it actually rescinds an offer of employment based on such a tentative direct safety threat conclusion, the company should engage in the interactive process with the offeree. 
+ - It should meet with that person, tell him or her what the pre-employment medical examination revealed, explain the medical concern (specifically, death if the person contacts the HOX toxin), and see whether the person has any additional information that might be relevant to the company's tentative conclusion of a direct safety threat (for example, the person may believe that the test result is a false positive). 
+ - A job offer should not be rescinded before considering all available current relevant medical information; the only way to be sure that it has all such information is for an employer to have this discussion with the offeree. 
+ The carpal tunnel propensity test  is required of offerees who would work in the game assembly area.  We are told that the work in this area involves repetitive motion that over time may lead to the development of carpal tunnel syndrome.  The implication is that Toxic Toys would be rescinding a job offer to such a person because working in an assembly position would present a safety threat.  The problem is that the threat is of a speculative future harm that may never come to pass. 
+ - Under the law a "direct threat of harm" is a significant current risk of substantial specific harm (not a speculative or remote risk). 
+ - The risk of such harm should be supported by facts, including objective current medical evidence and knowledge. 
+ - The determination of direct threat should involve consideration of the probability, severity, imminence and duration of the harm. 
+ From the fact pattern it seems clear that Toxic Toys is concerned about a potential future harm.  That is not a basis for rescinding the job offer. 
+ Nevertheless, it would be appropriate for the company to meet with the offeree to share the results of the test.  (We note that there is nothing unlawful about requiring a non-genetic carpal tunnel propensity test, even if having such a propensity would not disqualify an offeree from employment.  The restriction post-offer, pre-employment is in the use of the information learned from the test.) 
+ Of note here is a November 16, 2017 summary judgment decision obtained by EEOC in Illinois federal court in  EEOC v. Amsted Rail Co., Inc .  According to  EEOC's press release , the employer required applicants to undergo nerve conduction testing to determine whether the person had a propensity to develop carpal tunnel syndrome; those found to have a propensity were disqualified from employment.  EEOC sued the employer alleging that this practice violates the ADA.  EEOC stated that in granting summary judgment "the court found that Amsted's practice screened out job applicants based on a small statistical risk that they might develop carpal tunnel syndrome" in violation of the ADA. 
+ The closest  The Bullard Edge  can come to a simple answer to the questions posed above regarding post-offer, pre-employment medical examinations is as follows.  It  is lawful  for an employer to require such examinations, but employers need to  be careful about their use of the information acquired  and need to fully engage in the interactive process before rescinding a job offer.  The appropriate use of information learned post offer is going to vary from case to case depending on the job in question, the content of the information, and any other relevant facts. 
+ Hopefully you all did well on the quiz.  Now, who's ready for a leftover sandwich? 
+ Best regards, 
+ The Bullard Edge 
+ 
+ Accommodations 
+ ADA 
+ Applications 
+ Arbitration Agreements 
+ Benefits 
+ COBRA 
+ Commissioned Employees 
+ Contracts 
+ Contractors 
+ CORI 
+ DACA 
+ Disability 
+ Discrimination 
+ EEOC 
+ Employment Documentation 
+ ERISA 
+ Equal Pay 
+ Executive Orders 
+ FLSA 
+ FMLA 
+ H-1B 
+ Harassment 
+ Health Care 
+ Health Reimbursement Arrangements 
+ I-9 
+ Immigration 
+ Marijuana 
+ Minimum Wage 
+ NLRA 
+ NLRB 
+ Noncompete 
+ OSHA 
+ Overtime 
+ Paid Family Leave 
+ Persuader Rule 
+ Policies 
+ Pregnant Workers 
+ Rest Requirements 
+ Retirement Plans 
+ Salaries 
+ Sick Leave 
+ Supreme Court 
+ Termination 
+ Title VII 
+ Unions 
+ Updates 
+ Visas 
+ Weingarten Rights 
+ Worker's Compensation 
+ Workplace Accommodations 
+ Workplace Conduct 
+ Workplace Trends 
+ 
+ Tweets  
+ 
+ Jan 22 
+ President Biden Directs OSHA to Step Up COVID-19 Safety Measures by February 4  https://t.co/jHDEJmMZYP 
+ 
+ 
+ Jan 21 
+ New  @shrm  Court Report: Certain Specialists Are Administratively Exempt  https://t.co/JikyMA8Wkz 
+ 
+ 
+ Jan 21 
+ More Guidance from the CDC on Workplace Vaccination Programs  https://t.co/WVEJ8KcU8E 
+ 
+ 
+ Find a Firm | Find a Lawyer 
+ About Us 
+ What's New 
+ Locations 
+ Resources 
+ Blog 
+ Coronavirus in the Workplace 
+ Calendar of Events 
+ Question of the Month 
+ Video Spotlight 
+ 
+     
+ 
+ Contact Us 
+ Disclaimer 
+ Site Map 
+ 
+ Designed by Herrmann Advertising | Branding | Technology 
+ LabnetSM, Inc. is now doing business as Worklaw® Network. Worklaw Network was formed as LABNET, Inc. in 1989. Membership is by invitation only. Worklaw® is a registered trademark of Labnet, Inc. (registration number 3,359,573). 

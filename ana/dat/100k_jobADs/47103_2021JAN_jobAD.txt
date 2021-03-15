@@ -1,0 +1,44 @@
+  
+ Group 65Go to Workiz 
+ All Collections 
+ FAQ 
+ How to Delete a Job? 
+ How to Delete a Job? 
+ This article will tell you how to delete a job in your Workiz platform. 
+ Written by  Dan 
+Updated over a week ago 
+ You can easily delete a job in Workiz, but it is  not recommended. 
+ If you delete a job, it will remove all the job history and related information, and this is a step that  cannot be reversed. 
+ Instead, we recommend that you switch this job to a  canceled status. 
+This will remove the job from your schedule and reports, but you will still have access to the information should you need it. 
+ If you still want to delete a job - this is how you do it: 
+ 
+ From the left-hand navigation bar, select  'Jobs'. 
+ 
+ 
+ 2. Click ton the job that you wish to delete. 
+ 
+ 3.In the bottom left corner click on the  'Delete'  icon button. 
+ 
+ 
+ **** Click '  Yes, delete it  ' once the warning prompt appears. 
+ 
+ 
+ Note:  If you cannot see the delete button, then your user is probably restricted from this option and you will need to ask your account admin/ owner for this permission. 
+ How to cancel a job? 
+ From the relevant job page, change the status of the job to  'Canceled' . 
+ 
+ Need more help? See related articles below: 
+ How to Schedule and Manage Jobs? 
+ How Do I Close a Job? 
+ How to Label Jobs with Tags? 
+ Setting Up Custom Fields by Job Type 
+ Customizing Your Invoice and Estimates 
+ Did this answer your question? 
+   
+ 
+   
+   
+   
+ 
+ We run on Intercom 

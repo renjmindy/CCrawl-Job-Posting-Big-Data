@@ -1,0 +1,75 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Reverie Labs (W18) 
+ Building a pharma company from scratch, using machine learning. 
+ Software Engineering Intern, Summer 2021 
+ 
+ Location 
+ Cambridge, MA 
+ Job Type 
+ Internship 
+ Experience 
+ About Reverie Labs 
+ Reverie Labs (YC W18) is building a pharmaceutical company from the ground up using computation—we’re a drug company that looks and feels like a tech company. We’re a team of engineers and machine learning researchers using cutting-edge tools to design new medicines. 
+ About the role 
+ At Reverie Labs, we’re building a pharmaceutical company from the ground up using computation—we’re a biotech company that looks and feels like a tech company. 
+ We’re looking for interns to help us build the environment that powers the next era of life-saving treatments for patients. Our software engineers work side-by-side with our machine learning engineers, computational chemists, and medicinal chemists to achieve drug discovery objectives, spanning our entire tech stack. We are looking for mission-driven individuals that are capable of rapidly bringing ideas from 0 to 1 and eager to apply software engineering skills to life-saving cures. 
+ If you enjoy challenges like the ones below, we’d love to hear from you! 
+ 
+ Developing data structures and algorithms to support performant software for billion-scale molecular analyses alongside machine learning engineers. 
+ Contributing to an internal application development ecosystem that supports multiple drug development programs. 
+ Owning code deployments, testing, and maintenance. 
+ Designing and implementing front-end interfaces that enable our in-house chemistry team to interface with software. 
+ Connecting Docker-based microservices and serverless scripts to enable automated dataset ingestion pipelines that speed up the pace of model development and serving. 
+ Designing data APIs to power machine learning models, visualization tools, and chemistry software. 
+ 
+ Finally, we base our employment decisions entirely on business needs, job requirements, and qualifications—we do not discriminate based on race, gender, religion, health, parental status, personal beliefs, veteran status, age, or any other status. We have zero tolerance for any kind of discrimination, and we are looking for candidates who share those values. Applications from women and members of underrepresented minority groups are particularly welcomed. 
+ Technology 
+ Here’s a small sample of some of the hard tasks we solve to accomplish our goal of developing life-saving treatments for patients: 
+ 
+ Developing new machine learning algorithms and architectures to model complex biological systems. 
+ Translating state-of-the-art machine learning techniques designed to work on images, text, or audio into the domain of molecules. 
+ Creating a large-scale distributed training and hyperparameter optimization system. 
+ Using data mining and processing techniques to uncover new sources of data and clean our existing datasets. 
+ Using predictive modeling to make critical decisions about which tests to run in the lab. 
+ 
+ Other jobs at Reverie Labs 
+ Senior Software Engineer, Full Stack 
+ fulltime 
+ Cambridge, MA, USA 
+ Full Stack 
+ 3+ years 
+ Senior Data Scientist 
+ fulltime 
+ Cambridge, MA, USA 
+ Data Science 
+ 3+ years 
+ Molecular Data Scientist 
+ fulltime 
+ Cambridge, MA, USA 
+ Data Science 
+ 3+ years 
+ Senior Software Engineer, Front-End 
+ fulltime 
+ Cambridge, MA, USA 
+ Frontend 
+ 3+ years 
+ Software Engineering Intern, Summer 2021 
+ intern 
+ Cambridge, MA 
+ Backend 
+ Junior and above 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

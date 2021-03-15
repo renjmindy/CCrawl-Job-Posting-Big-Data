@@ -1,0 +1,76 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Cortex (W20) 
+ Understand and improve your services 
+ Founding Engineer 
+ 
+ Location 
+ SF / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Cortex 
+ What is Cortex? 
+ Cortex helps engineering teams understand and improve their services. By aggregating data from tools like Datadog and Okta, we help teams understand their architecture at a glance – everything from ownership to runbooks. Using this data, we enable engineers to build report cards that score services against initiatives and service quality standards, helping teams build high quality software and instill a culture of quality. 
+ Why join us? 
+ The tools teams use today (excel sheets and confluence) are cumbersome and rudimentary - we’re on a mission to create a new category of engineering tooling, to solve the organizational complexity of microservices. 
+ We're a fast growing, Sequoia+YC backed startup. You'll have real ownership over our product and direction – there's no doubt you'll be making an outsized impact on our trajectory. As market creators, we have several interesting engineering and product challenges to solve, and your input will directly influence the direction of the company. 
+ About the role 
+ Skills:  Java, Kotlin, React 
+ _  What is Cortex? _ 
+ Cortex ( https://www.getcortexapp.com/ ) is a tool that lets engineering teams understand and improve their service oriented architecture. We aggregate data from tools like Datadog, Pagerduty, and Okta, and let teams build rules on top of that data to define and track progress against service quality standards. 
+ Why join us? 
+ Microservices have introduced a whole set of organizational challenges within teams and the current range of solutions to solve those challenges are really bad (excel sheets or confluence tables). You'd be given a ton of ownership and opportunities to really make an outsized impact on our team. We have several interesting engineering and product challenges to solve, and your input will directly influence the direction of our product. 
+ What is the role?  We're an early stage (YC and Sequoia backed) company, so you'll be working on a little bit of everything. 
+ 
+ Building integrations with third party data sources (e.g. SonarQube, Datadog, Confluence) 
+ Building out a live graph of services and their dependencies 
+ Adding new functionality to our app (React + Typescript) 
+ Exposing third party data in our REST API (Kotlin) 
+ Adding functionality to our rules engine (ANTLR grammar for language, kotlin evaluator) 
+ 
+ What's our stack? 
+ 
+ Kotlin + Spring Boot 
+ Postgres 
+ Typescript + React + Bootstrap 
+ Kubernetes (GKE) 
+ 
+ Technology 
+ We're an early stage (YC and Sequoia backed) team, so you'll be working on a little bit of everything - from product decisions to tough engineering problems. 
+ 
+ Help us decide what to build next! We're creating a brand new market category and the area is ripe for innovation. 
+ Build integrations with third party data sources (e.g. SonarQube, Datadog, Confluence) 
+ Building out a live graph of services and their dependencies 
+ Spec, design, and build functionality in our web app (React + Typescript) 
+ Adding functionality to our custom rules engine (ANTLR grammar for language, kotlin evaluator) 
+ 
+ What's our stack? 
+ 
+ Kotlin + Spring Boot 
+ Postgres 
+ Typescript + React + Bootstrap 
+ Kubernetes (GKE) 
+ ANTLR 
+ 
+ Other jobs at Cortex 
+ Founding Engineer 
+ fulltime 
+ SF / Remote 
+ Full Stack 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

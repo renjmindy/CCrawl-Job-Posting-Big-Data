@@ -1,0 +1,370 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ AngularJS 
+ 
+ AngularJS Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance AngularJS Developer ? 
+ ](https://www.workana.com/hire/angularjs) 
+ 2 weeks ago 
+ Development of a Website in Ruby on Rails 
+ Published: 2 weeks ago  Bids: 14 
+ Hi everyone! 
+ We are looking for a skilled Ruby on Rails Developer to join our remote international team. We are looking for a full-stack developer who has the required experience with RoR on the backend, and additional experience with one Javascript-based framework. This is a full-time, home-based position. 
+ Required Skills: 
+ 3+ years professional experience in software development;  
+Strong experience in Ruby on Rails;  
+Experience in SQL;  
+Experience in JavaScript;  
+Ability to work with JavaScript client side frameworks (e.g. Angular, Ember, React, etc.);  
+Linux system administration experience;  
+Experience with database design, is a plus;  
+Strong English reading, writing, and speaking skills;  
+Ability to work directly with a client;  
+Bachelor’s degree or higher;  
+Stable internet connection and home computer;  
+Dedication and discipline to work remotely from home.  
+ 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  S. R. T. Last reply: 2 weeks ago  United States 
+ USD 1,000 - 3,000 
+ Last month 
+ Transport and travel management System 
+ Published: Last month  Deadline: 85 Bids: 16 
+ I need a corporate travel and transport management system that will fit on my company needs. This project is a custom built for my travel and tours and transport services. 
+ Requirements: 
+1. Web Site for my company with booking system 
+2. Custom made travel tour packages and joiners 
+3. 
+Transport service for dispatching system 
+4. Corporate client account booking system. 
+5. Payment System for subcontractors. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone, Other, iPad 
+ I need to  : Create an app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  R. C. Philippines 
+ USD 1,000 - 3,000 
+ Last month 
+ Excel file import to Mongodb using node.js and Angular Frontend 
+ Published: Last month  Deadline: 6 Bids: 5 
+ I have a large xls spreadsheet that I need to track some changes on over time. I'd like to make a web app that will allow: 
+1. Uploading of the xls using  node.js 
+2. 
+Parsing and putting the data into a mongodb database that will allow for fast queries 
+3. Angular Front end for displaying the data 
+4. Ability to search/sort terms/fields/values in the data (with exclusion -terms/filters as well) 
+ PS: Excel file has 1000000 records. 
+This is big excel file. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  K. I. S. Philippines 
+ USD 100 - 250 
+ 2 months ago 
+ Looking for a Mern stack 
+ Published: 2 months ago  Bids: 23 
+ Hi, everyone. 
+I am looking for a taented Web dev who has rich experiences in MERN. 
+You can work 50+ hours per work with my timezone. 
+ The work is building website from scretch. 
+Fell free to bid me if you are interested. 
+Cheers! 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.), Payment Processor (Paypal, Stripe, etc.), Cloud Storage (Dropbox, Google Drive, etc.), Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  J. United States 
+ Over USD 3,000 
+ 2 months ago 
+ Web Developer - Angularjs Expert 
+ Published: 2 months ago  Deadline: 9 Bids: 2 
+ Our company needs a Web Designer who can help us out. 
+•    Requirements: 
+o    Ability to build and deploy client side web applications as well as refactoring and understanding existing code. 
+O    Debug html css js using google chrome development tools. 
+ O    Deep understanding of client side web applications and how they work and communicate with backend and other services. 
+O    Deep understanding of html and css. 
+O    Organize code in a component based application. 
+ •    Technologies 
+o    Must have: 
+    Typescript. 
+    Angular 8 and up + Angular universal + Angular CLI. 
+    Nodejs + NPM. 
+     Webpack. 
+    css 
+    html 
+    git 
+    familiarity with hosting, deployment and cdn tools such as aws s3 / cloudfront / cloudflare / netlify / firebase hosting. 
+O    Extra: 
+    Familiarity with ReactJs or Vuejs. 
+     Basic knowledge of backend NodeJs servers and frameworks such as express and NestJs. 
+    Familiarity with WebGL frameworks such as Phaser / ThreeJs / BabylonJs. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  A. R. Philippines 
+ USD 250 - 500 
+ 4 months ago 
+ Continue, Update, Upgrade and Ongoing Website Development 
+ Published: 4 months ago  Deadline: 80 Bids: 50 
+ I recently stopped a web development project with my previous developer because they weren't able to deliver according to our agreement. I would like to find someone capable to continue the project. Qualified and adept in PHP Laravel, both front and back end development. 
+ This is a long term project with over 3 phases of development incorporating multiple website features each phase. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.), Payment Processor (Paypal, Stripe, etc.), Other (Other APIs) 
+ Roles needed  : Designer, Developer 
+ Published by:  G. S. Last reply: 4 months ago  Philippines 
+ Over USD 3,000 
+ 4 months ago 
+ Angular Js and Angular 8 dev 
+ Published: 4 months ago  Bids: 8 
+ Continue the developement of an Application for Hotels already started 4 years ago, based on an existinf back-end. Need to developp the C# middleware and the front end splited into 2 app : one in Angular JS progressively replaced by Anglur 8 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  M. Z. Last reply: 4 months ago  Israel 
+ USD 250 - 500 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

@@ -1,0 +1,71 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Zentail (S12) 
+ Make commerce simple. Manage all of your sales channels, product information, inventory and orders in one central system. 
+ Account Executive 
+ 
+ Location 
+ Columbia, MD, USA 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Zentail 
+ Zentail's mission is to make e-commerce simple. We are the fastest growing e-commerce management platform company based in Columbia, MD. Our software is the central operating system for leading retailers and brands, making it easy to sell on major shopping sites including Amazon, Google, Facebook, eBay, Walmart.com and Jet.com. 
+ About the role 
+ Zentail is an ecommerce operations platform with one mission: make ecommerce simple. We help retailers in the following core areas: 
+ 
+ Marketplace optimization 
+ Inventory, pricing, and order flow management 
+ Supply chain management 
+ Product information management 
+ Ecommerce business reporting 
+ 
+ We accomplish this by centralizing data and automating workflows built with the user experience in mind. 
+ Our mission is to make ecommerce simple. To do that, we have to get the proper tools into the hands of retailers who have a desire to thrive in the new age of commerce. Our mission on the sales team is to identify these retailers and convert them into Zentailians. 
+ As an Account Executive, your job will be to uncover the processes, goals, and businesses challenges of each retailer. By understanding their specific challenges, you can best educate them on how Zentail can create value for their business. Adding revenue allows Zentail to impact and help a larger market of retailers succeed. You'll know you are successful by the amount of revenue growth and the number of retailers added. 
+ To be considered for this role you must have at least 3 years of quota carrying SaaS, ecommerce or CPG industry sales experience with a demonstrated track record of consistently exceeding quota. 
+ Technology 
+ Stack: 
+ 
+ PHP 
+ Go 
+ JavaScript 
+ React 
+ PostgreSQL 
+ 
+ Problems we're solving: 
+ 
+ inventory planning & distribution 
+ order routing with many warehouse set ups 
+ user defined automation rules 
+ automated translation of raw product data into channel specific product data 
+ automated pricing for competitive products 
+ a platform w/ appstore & API 
+ 
+ Other jobs at Zentail 
+ Product Developer 
+ fulltime 
+ Columbia, MD, USA 
+ Full Stack 
+ $85k - $150k 
+ 0.10% - 0.40% 
+ Any (new grads ok) 
+ Account Executive 
+ fulltime 
+ Columbia, MD, USA 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

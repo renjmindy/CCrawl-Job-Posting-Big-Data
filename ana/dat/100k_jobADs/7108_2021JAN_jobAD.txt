@@ -1,0 +1,321 @@
+Skip to content 
+ Remote work, technology, and engagement are hot topics in the New World of Work.  Read our in-depth report 
+   
+ 
+ 
+ * #### Search form
+ 
+ 
+ About Workable
+ 
+ Home page 
+ Product tour 
+ Pricing 
+ About us 
+ 
+ 
+ HR Toolkit
+ 
+ 
+   *         * #### HR toolkit overview
+ 
+ 
+ 
+ 
+ 
+ [ 
+ HR toolkit overview 
+ Ready-to-go resources to support you through every stage of the HR lifecycle, from recruiting to retention. 
+ ](//resources.workable.com/hr-toolkit) 
+ *       *         * #### HR templates
+ 
+ [ 
+ HR templates 
+ Banish the blank page for good with our 1000+ HR templates. Add a few personal touches and you’re good to go. 
+ ](//resources.workable.com/hr-templates) 
+   *         * #### Tutorials
+ 
+ [ 
+ Tutorials 
+ Struggling with a task or project? Get clear, concise, up-to-date advice with our practical, step-by-step guides. 
+ ](//resources.workable.com/tutorial) 
+   *         * #### HR Terms
+ 
+ [ 
+ HR terms 
+ Don’t let jargon stand between you and your to-do list. Get clear explanations of the most common HR terms. 
+ ](//resources.workable.com/hr-terms) 
+ *       *         * #### Search form
+ 
+ 
+ Inside HR
+ 
+ 
+   *         * #### Inside HR overview
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Inside HR overview 
+ Industry insights, new tech and tools, step outside the day-to-day demands of HR and keep pace with a changing world. 
+ ](//resources.workable.com/inside-hr) 
+ *       *         * #### Stories & insights
+ 
+ [ 
+ Stories & insights 
+ Read the minds of our team of HR writers. What’s in, what’s out, and what’s around the corner—they’ve got the HR world covered. 
+ ](//resources.workable.com/stories-and-insights) 
+   *         * #### Hiring with Workable
+ 
+ [ 
+ Hiring with Workable 
+ For every hiring challenge, Workable has a solution. Learn more about the features available and how they make each recruiting task easier. 
+ ](//resources.workable.com/hiring-with-workable) 
+   *         * #### Webinars & events
+ 
+ [ 
+ Webinars & events 
+ Connect with our team of Workable experts and other industry professionals. Ask questions, find answers, get tips, and dig deeper into our product. 
+ ](//resources.workable.com/webinars-and-events) 
+ *       *         * #### Search form
+ 
+ 
+ Backstage at Workable 
+ Get a demo 
+ Try for free 
+ 
+ Inside HR  |  Hiring with Workable  | 
+ Designing a branded company careers page with Workable 
+ Christina Pavlou 
+ Content Writer 
+ 
+ Careers pages  are powerful recruiting tools. According to research, sixty-four percent of job seekers consider careers pages valuable resources during their  job search . Once they’re on your careers site, potential candidates look for: 
+ 
+ Current job openings 
+ Your company’s values 
+ Employee testimonials 
+ Reasons why employees work there 
+ Reasons why employees choose to stay 
+ 
+ So, create an informative, engaging and up-to-date careers page to increase the chances of  attracting people who want to work with you . An effective careers page: 
+ 
+ Informs jobs seekers about open roles and necessary qualifications 
+ Conveys company culture, vision and values 
+ Converts page visitors into job applicants 
+ 
+ Showcase your brand 
+ With Workable’s Advanced Careers Pages you can create a customized careers page in a few steps and attract top talent. 
+ Learn how 
+ How to create a careers page with Workable 
+ If you don’t have a careers page or if you want to create a new one 
+ 1. Basic Careers Pages   (All plans)  : Designing a careers page from scratch can be challenging. It requires a budget to build and maintain the website, software development skills, either from your IT team or an external agency and time, in order to keep the content up-to-date. 
+ If you’re using Workable as your recruiting software, you can create a branded careers page, hosted for free on Workable. It will advertise your open roles and showcase your company culture. This page can include: 
+ 
+ Your company logo 
+ A description of your company (e.g. your mission, values and  employee benefits ) 
+ Images of your employees and offices (this is optional) 
+ A list of your current job openings, with links to the full job descriptions and application forms 
+ 
+ You can also choose your brand color; this will be used to highlight actions and information (e.g. links and buttons). 
+ Workable has more than  700 job description templates! Explore them here . 
+ Here’s an example of how your branded careers page will look: 
+ 2. Advanced Careers Page   (Advanced Annual Plans)  : If you wish to go one step further and design a beautifully customized careers page from scratch, this feature is the best fit for you. Why? It includes an enhanced careers page builder with templated sections that will help you highlight your brand with interactive content. No need for design or IT expertise to set it up – you can do it all by yourself with a few clicks and slides. 
+ It doesn’t stop there; Advanced Careers Pages connect with Google Analytics and Pixels tracking, making it easy for you to track performance and make adjustments as needed. Plus, it offers two options: you can get up and running quickly on a Workable-hosted page or work with our team to create a custom URL. 
+ In this page you can feature: 
+ 
+ Your company logo and brand color 
+ Employee testimonials and quotes 
+ Visual components of benefits and perks 
+ Photos and videos that showcase your culture 
+ Social media widgets 
+ Blog posts and other publications 
+ Your current team 
+ 
+ Want to get a sneak peek of how your careers page might look using Workable Advanced Careers Pages? Here are some examples: 
+ Both Workable careers pages features, Basic and Advanced: 
+ 
+ Are easy to set up within minutes, without needing complicated IT or design assistance 
+ Automatically update your open roles as you publish and unpublish job ads in Workable 
+ Allow candidates to quickly filter jobs and find an open role that fits their profile, while they learn a few things about your company 
+ 
+ If you already have a careers page 
+ 1. Workable Widget   (All plans)  : You can add the list of open roles to your existing site using Workable Widget. This is a simple piece of code, which can be styled using CSS. 
+ The Workable Widget: 
+ 
+ Creates a job listing that matches your brand’s style 
+ Automatically updates the list of open roles every time you create or edit a position in Workable 
+ Allows you to customize the display of your job posts (e.g. by department or location) to help candidates quickly find the jobs that interest them 
+ 
+ 2. API   (Advanced Annual Plans)  : If you want to go even further,  Workable also has an API . 
+ Here’s an example from  Bevi , the smart beverage machine company. In their careers page, they list all current job openings by department, while also describing their company culture and core values and introducing their team members: 
+ 
+ Benefits of creating careers pages with Workable 
+ Save time with automated job listings updates 
+ Updating your careers page every time you start looking for a new employee can be time-consuming, particularly if you’re hiring for multiple positions. When you have no in-house IT skills, keeping up-to-date becomes even more challenging. In addition, if you forget to deactivate a job ad once you close a hire, you’ll continue to receive applications. This can only disappoint applicants, and potentially discourage them from applying for positions in the future. 
+ Workable removes the hassle of manual updates. Our intuitive online editor provides the tools you need to create a flexible design that’s always up-to-date with a list of your latest positions. Every time you publish, update or close positions in Workable, the list of open roles on your careers page will update automatically. 
+ Improve candidate experience with a three-click application process 
+ Sleek careers pages are nice, but alone they may not be enough to entice candidates to fill out an application. Workable careers pages prioritize candidate experience. Interested candidates can view and apply to your job openings through a simple three-click process: 
+ 1. Candidates visit your career page and view all openings in one place: 
+ 2. Then, they click on the position that interests them to read the full job description: 
+ 3. Finally, they click on the ‘Apply for this’ button or move to the ‘Application’ to complete their job application. 
+ Workable also offers candidates the option to upload their resume from their computer, Dropbox or Google Drive and then auto-fills the application form with their personal information. This speeds up the process and improves applicant conversion as candidates don’t have to enter their data manually. You can also include any additional questions that are relevant to the role. 
+ Reach more candidates with mobile-friendly Workable careers pages 
+ Many job seekers use mobile devices to search for new opportunities and thirty-nine percent of them are likely to visit a company’s career page on their phone. So, creating a mobile-friendly careers page is essential. 
+With prominent buttons, easy navigation and user-friendly design, Workable careers pages are optimized both for desktop and mobile. They: 
+ 
+ Use a responsive design that adjusts your page to each device’s screen size and orientation (including cell phones, tablets and computers.) 
+ Simplify navigation and eliminate unnecessary links and pop-ups. 
+ Enable you to format text into lists and powerful headlines, instead of unmanageable chunks of text. 
+ 
+ In addition, as Workable integrates with the most  popular job boards , candidates can apply via their mobile using: 
+ 
+ One-click apply with LinkedIn 
+ LinkedIn Mobile Apply 
+ Indeed Apply 
+ 
+ This immediately reduces the time and effort of completing the application, by auto-filling certain application fields with stored data. 
+ Now that you’ve created a candidate-friendly careers page, get the most out of it by hosting good content that builds your  employer brand  and write  compelling job descriptions  that attract qualified candidates. For a deeper dive into the finer points of careers pages, check out our  careers page FAQ . 
+ Related reading: 
+ 
+ How to attract candidates by improving your careers page 
+ How to improve your careers page design 
+ How to create a Workable-hosted careers page 
+ How to use the Workable Widget 
+ How to use the Workable API 
+ 
+ Related topics 
+ 
+ Inside HR  |  Stories & Insights  | 
+ [ 
+ Looking to improve your D&I data strategy? Learn from Multiverse’s ex... 
+ ](https://resources.workable.com/stories-and-insights/di-data-strategy-learn-from-multiverses-example) 
+ 
+ Inside HR  |  Stories & Insights  | 
+ [ 
+ COVID-19 vaccine policy in the workplace: Best practices 
+ ](https://resources.workable.com/stories-and-insights/covid-19-vaccine-policy-in-the-workplace) 
+ 
+ HR Toolkit  |  Tutorials  | 
+ [ 
+ The Ultimate Guide To Job Posting 
+ ](https://resources.workable.com/tutorial/job-posting-guide) 
+ 
+ Backstage at Workable  |  News and Updates  | 
+ [ 
+ Tell your brand story using Workable Advanced Career Pages 
+ ](https://resources.workable.com/backstage/tell-your-brand-story-using-workable-advanced-career-pages) 
+ [ 
+ What’s coming up after COVID-19? 
+ Remote work, digital transformation, and engagement are hot topics according to our new survey on the New World of Work. But that’s not all – there’s much, much more. 
+ Gain full access to our in-depth report ](https://get.workable.com/new-world-of-work-registration?&llsd=new-world-of-work-2020&llc=organic&llm=footer&llo=registration) 
+ Popular topics 
+ 
+ COVID-19 
+ CCPA 
+ Brexit 
+ Coronavirus 
+ Compliance 
+ Recruiter 
+ Employer branding 
+ Future of work 
+ Candidate experience 
+ 
+ × 
+ Stay in the loop! 
+ Sign up for jargon-free hiring resources. 
+ Let's grow together 
+ Start hiring now with a 15-day free trial. Or talk to us about your hiring plans and 
+discover how Workable can help you find and hire great people. 
+ 
+ Try for free 
+ Get a demo 
+ 
+ Stay in the loop! 
+ Sign up for jargon-free hiring resources. 
+ 
+ 
+ Product 
+ 
+ Find 
+ Evaluate 
+ Automate 
+ Language options 
+ Careers pages 
+ Video Interviews 
+ Referrals 
+ Hiring Plan 
+ Texting 
+ All features 
+ 
+ 
+ 
+ Platform 
+ 
+ Why Workable 
+ Support & Security 
+ Customers 
+ Partners & Integrations 
+ Pricing 
+ Developer API 
+ Get a demo 
+ 
+ 
+ 
+ Resources 
+ 
+ Recruiting Resources 
+ Stories & Insights 
+ HR Tutorials 
+ Job Descriptions 
+ Interview Questions 
+ Hiring with Workable 
+ Help Center 
+ 
+ 
+ 
+ Company 
+ 
+ Contact 
+ News 
+ Backstage 
+ Careers 
+ Press 
+ About 
+ 
+ 
+ 
+   
+ Log in 
+ Americas: +1 857 990 9675 
+Europe & Rest of World: +44 203 826 8149  Americas:   +1 857 990 9675 
+Europe & Rest of World: [+44 203 826 8149](tel:0044 203 826 8149) 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ © Workable Technology Limited 2012-2021 
+ 
+ Terms & Conditions 
+ Privacy Policy 
+ Accessibility 
+ Do not sell my personal information 
+ Workable Status 
+ 

@@ -1,0 +1,123 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Daily (W16) 
+ The world's best API for real-time video: add video calls to your app or website with 2 lines of code. 
+ Sales Development Representative (SDR) 
+ $90k - $190k • 0.21% - 0.75% 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Daily 
+ Daily is the developer platform for real-time video. With just a couple lines of code, you can add 1-click video calls to any site or app — in minutes, with features across use cases, on a global infrastructure. Developers can create custom UI/UX with our front-end libraries and REST APIs. 
+ About the role 
+ 
+ Join as the first Sales Development Representative who finds and connects with leads, to move them through the pipline. We hire remote 🌐 
+ 
+ At Daily we build video APIs that let a developer add video chat to any site or app — in minutes, on a global infrastructure, with features for every use case. Live video has leapt into mainstream use, and this is just its first phase of growth. 
+ Our APIs are designed for this key shift, where video is part of how we live and work, and where developers build with services and rely on platforms — like Shopify, Stripe, and Daily — to launch, monetize and scale. With 10x growth this year, we serve teams like startups, high-growth YC teams and public companies in verticals such as healthcare, automotive and real estate. 
+ We're hiring our first Sales Development Representative. This is an opportunity to join an early-stage team that's backed by stellar investors, going after a big market. (Our last publicly announced round was a $4.6mm seed.) We care deeply about what we build, and believe diversity and kindness are part of excellence. 
+ If you share these values, and thrive on delivering results and growth, please read on! 
+ SDR at Daily 
+ Your goal, as Sales Development Representative, is to drive our demand engine. In our rapid growth we've identified key trends in customer interest. You'll get excited understanding our customer profile, engaging leads, and moving them through the funnel. 
+ Our team culture is anchored in product, so we're looking for someone who's fired up about sales and also appreciates a thoughtful culture. Finally, early stage DNA is key. You're the first sales hire. You have to figure things out and come up with processes that make sense to our stage and trajectory. We are not a fit if you need things set up for you or, on the other hand, if you dislike a collaborative culture. 
+ You will: 
+ 
+ Figure out what you and we need to do to deliver leads, document it clearly, and deliver 
+ Understand our account target profile, and further develop this insight 
+ Research potential customers and accounts 
+ Design cold outreach strategies 
+ Contact potential customers through cold-calling 
+ Design, implement and manage touchpoints (cold-calls, emails, social, etc) in the demand gen lifecycle 
+ Move all leads through the funnel, and figure out what that funnel looks like for an early-stage team like ours 
+ Develop relationships with prospect to understand their needs, qualify them, and hand-off 
+ Understand a lead's needs, and convey product information and value to them 
+ Follow-up with leads who didn't convert despite interest, learn why, and share that information 
+ Work with cofounders to establish lead and list SLAs and report on them weekly 
+ Maintain a CRM 
+ Provide feedback to marketing on messaging 
+ 
+ What we look for: 
+ Excellence requires diversity. We strongly encourage candidates from underrepresented backgrounds in technology to apply. 
+ 
+ Kind people who excel 
+ Track record of SDR results (3+ years) 
+ Doers who are coachable 
+ Early stage DNA. Bonus points if you were an SDR at a seed- or Series A company. 
+ Enthusiasm for technology. We especially are keen on familiarity or experience with developer platforms and their audiences. 
+ Clear writing 
+ Self starter who embraces a collaborative environment 
+ Excitement for hyper growth 
+ 
+ More 
+ 
+ We don’t care if you went to college. We do care that you know how to think and write, and will ask for writing samples. 
+ You can be anywhere in the US/Canada. If you have a track record of working remote, we are willing to consider other time zones. 
+ 
+ Compensation 
+ 
+ We have firm salary bands plus equity, which are transparent and based on years of experience. $90,000 - $190,000, with $190k being our top band for 10+ years with significant lead experience. We evaluate experience relative to the experience of the other members of our team. (For example, our senior engineers have 10+ years experience.) 
+ Compensation is independent of location, and we offer competitive benefits, including 4 weeks vacation, 4 months parental leave, healthcare reimbursement, IT budget, more. 
+ 
+ More about us 
+ 
+ We're remote! 
+ Applying and interviewing is tough — thanks for considering us.  Read how we approach hiring. 
+ Please learn about us,  https://daily.co/jobs . As it says, we care deeply about what we build and seek kindness and diversity. Take care of yourself and your family's time. 
+ Our last public fundraising was a $4.6mm round led by Freestyle Ventures, with investors like Slack, Moxxie, SV Angel, and great angels like Aston Motes, April Underwood, Elizabeth & Kevin Weil, Scott Belsky, and more. 
+ 
+ Apply now 
+ If you're interested in joining us,  please send email to  [email protected] . 
+ Please make sure your application includes each of the below. We  do not review  applications without a writing sample or a cover email or letter. If you're applying via a jobs site, your application will not be reviewed if the platform simply forwards your resume. 
+ 
+ Tell us a little bit about why you're interested in what we're doing and any relevant experience you have, in a cover email or letter. 
+ Please include links to sample writing and work. 
+ Attached your resume or LinkedIn. 
+ 
+ Thank you! 
+ Technology 
+ Video is a really interesting problem domain. We make extensive use of the WebRTC standard, maintain clusters of signaling and media servers in data centers around the world, and are constantly improving our code to offer the most reliable, high-quality video streams possible on every device, platform, and network. We also do lots of innovative front-end work on both developer tools and end-user UX for video calls. 
+ Other jobs at Daily 
+ Sales Development Representative (SDR) 
+ fulltime 
+ Remote 
+ $90k - $190k 
+ 0.21% - 0.75% 
+ 3+ years 
+ Mobile Frameworks Engineer (Android) 
+ fulltime 
+ Remote 
+ Android 
+ $150k - $190k 
+ 0.45% - 0.75% 
+ 6+ years 
+ Full Stack Engineer 
+ fulltime 
+ Remote 
+ Full Stack 
+ $150k - $190k 
+ 0.45% - 0.95% 
+ 6+ years 
+ Engineer Who Writes 
+ fulltime 
+ / Remote 
+ Full Stack 
+ $120k - $190k 
+ 0.30% - 0.75% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

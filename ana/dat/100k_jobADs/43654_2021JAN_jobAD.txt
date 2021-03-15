@@ -1,0 +1,380 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Visual Basic Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Visual Basic Developer ? 
+ ](https://www.workana.com/en/hire/visual-basic) 
+ 2 weeks ago 
+ Victorian Tamil Software 
+ Published: 2 weeks ago  Deadline: 14 Bids: 1 
+ I need services on the below area: 
+ 
+ 
+ Create Victorian Tamil Software (VTK) which can sit and work as a Third Party Application in... 
+a.    MS Office 
+b.    Adobe 
+c.    Open Office 
+d. 
+Other popular application groups 
+I already have the .xml (OR .txt) files for 43 different types of Tamil fonts and you only need to develop the software which can invoke Tamil letters associated with the Roman character combination. 
+ 
+ 
+ An independent software & converter that can work in Windows, Linux, Unix, Apple, RedHead, Android etc. The converter 
+ 
+ 
+ As a portable application that can be carried in a thump-drive. 
+ 
+ 
+ The software which will behave like a Ribbon in MS Office will also check and convert the Tamil fonts from one group to another. For example, from TAM to Unicode. One of the menu in VICTORIAN ribbon will be ‘click-typing’ where the user can choose the Tamil letters same like choosing Symbols in Insert menu. 
+ 
+ 
+ An interactive web page that can be administrated by myself in the future. It should take orders of the physical keyboards which I will order from overseas, sales transactions, record complaints, and testimonies. 
+ 
+ 
+ Tamil Unicode, tam & lt-tm fonts of 600. The names for these fonts will be given later. 
+ 
+ 
+ Android and IPhone interactive game where the player need to type given Tamil technical terms related to ICT. The motive is to introduce Victorian Tamil Keyboard as well as Tamil technical terms. Just think of various mode of Chess game such as 1-1 player, time rushing, group game etc. 
+The list of Tamil vocabs will be given later to the successful bidder. 
+ 
+ 
+ You can download Victorian Software and compare it with another type of similar applications to have the idea for this project. The link is:  http://demo.acetouch.com.my/ 
+ Thank you. 
+ Johnson Victor. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone, iPad, Other 
+ I need to  : Create an app 
+ App type  : Utility - Utility application (flash, calculator, etc.) 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  J. V. Last reply: 6 days ago  Malaysia Payment method:  __Verified 
+ USD 500 - 1,000 
+ 2 weeks ago 
+ 2 Different Whatsapp & Telegram for Windows Pc 
+ Published: 2 weeks ago  Deadline: 10 Bids: 2 
+ Whatsapp & Telegram will be 2 different system for Windows PC 
+- Using Whatsapp & Telegram API 
+- need to login to enter the system 
+- two different login (admin & worker), with own password 
+ Whatsapp 
+- Add Whatsapp button 
+- Scan QR code to enter 
+- Can add up to 4 different whatsapp in one screen 
+- Able to scan the whatsapp QR to open chat screen (up to 4 screen) 
+ Telegram 
+- Add Telegram button 
+- Login to enter 
+- Can add up to 4 different telegram in one screen 
+- Able to sign in with telegram to open chat screen (up to 4 screen) 
+ User will be as below: 
+Worker: 
+- Can only see alias. The client number will be hidden. Exp: Alias 1, Alias 2, and so on 
+- Can only reply to the alias. 
+ Admin: 
+- Can filter the contact by how long Alias (contact) not in contact with company. 
+- It will show out in a list if equal or more than 2 weeks not in contact with company 
+- Download button to download the list of contact in csv. 
+- Only admin can see the contact number. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Required platforms  : Other 
+ I need to  : Create an app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  G. C. Last reply: 6 days ago  Singapore 
+ USD 250 - 500 
+ 22 days ago 
+ Emv software 
+ Published: 22 days ago  Bids: 2 
+ I need to make emv software 
+Read and write jcob card and generate arqc . Another details i will give later                    vv 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Required platforms  : Windows 
+ Published by:  N. K. Last reply: 22 days ago  Malaysia 
+ USD 1,000 - 3,000 
+ 2 months ago 
+ Develop a Visual Basic Application 
+ Published: 2 months ago  Bids: 2 
+ We need a Visual Basic (5, 6, or 2008) app to manually and automatically create 1-90 Bingo Cards and store them on an Access Database. The goal is to replicate how cards are created here:  https://myfreebingocards.com/numbers/1-90/edit  Can you do it? 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Windows 
+ Published by:  S. Last reply: 2 months ago  United States 
+ USD 100 - 250 
+ 4 months ago 
+ Desktop App - Stock Trading Journal 
+ Published: 4 months ago  Bids: 1 
+ Complete trading journal analyzing the performance of stock/forex/commodities. 
+Users will have the option to input 1 trade at a time or import data from different brokers. 
+The users will be presented with their YTD, monthly, weekly, date range performance. 
+The users will be able to see their hit rate and average win/loss percentages. 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Windows, Mac OS 
+ Published by:  S. J. O. Last reply: 4 months ago  Philippines 
+ USD 50 - 100 
+ 6 months ago 
+ C# Developer (with Vb 6.0) 
+ Published: 6 months ago  Bids: 8 
+ You will work at an aircraft construction project. You will develop the ultrasound scanning system for scanning large aircraft parts. You will be responsible for developing a new application and adding features to the existing application, while assisting our customers. 
+ Responsibilities: 
+Design, develop and deploy activities using problem solving principles and past experience; 
+Refactor and improve the application using modern standards and tests; 
+Port the system from VP to С#; 
+Develops a new generation of the product 
+Ensure the best possible performance, quality, and responsiveness of applications. 
+ Requirements: 
+Experience with Visual Basic 6 and COM Interface; 
+C# development experience; 
+Strong conceptual and analytical skills; 
+Familiarity with various design and architectural patterns. 
+ Will be a plus: 
+Good spoken and written English; 
+Experience at projects related to network/ hardware management systems 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  D. K. Ukraine 
+ USD 1,000 - 3,000 
+ 10 months ago 
+ Code migration and optimization from Vb6 to Java 
+ Published: 10 months ago  Bids: 0 
+ We need to migrate fully functional code from VB6 to Java for an Online Game. 
+I will provide both Server and Client Source Code in VB6. Further details and scope in the proyect context. 
+We want also android/IOs apps to be developed so game can be accessible through the desktop client and through mobile devices. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  F. Last reply: 10 months ago  Argentina 
+ USD 50 - 100 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

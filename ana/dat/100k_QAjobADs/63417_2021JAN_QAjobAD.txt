@@ -1,0 +1,12 @@
+ You Need These Qualifications 
++ Strong understanding of Web Development 
++ Strong understanding of HTML, CSS, and Javascript 
++ Experience working with Vue or similar framework 
+ These Qualifications Are A Plus 
++ Prior experience working with Craft CMS 
+ These Qualifications Are A Plus 
++ Prior experience working with Craft CMS 
++ Experience with PHP and PHP Frameworks 
++ Experience with Yarn 
++ Comfortable writing tests 
++ Any ecommerce platform experience 

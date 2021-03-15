@@ -1,0 +1,70 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Fair Square Medicare (W20) 
+ The health insurance agent you wish your parents had. 
+ First Engineer @ Fair Square Medicare 
+ 
+ Location 
+ / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Fair Square Medicare 
+ Your parents are subject to a health insurance shopping experience straight out of a Kafka novel. 
+ And we're fixing it. We routinely save people from spending thousands in unnecessary premium, choosing plans that don't cover their doctors and prescriptions, and from going without insurance for a year. We're growing quickly in a $20B market, we've raised over $2M, and our revenue recurs for 15 years. 
+ About the role 
+ What you’ll do 
+ You’ll lead development for  www.fairsquaremedicare.com , which takes a senior from knowing nothing about Medicare to feeling confident they have the best health insurance their budget allows. You’ll work on our: 
+ 
+ Intake flow to make it dead simple for a user to give us the info we need to recommend a set of insurance plans. 
+ Decision making support tools that explain when someone should enroll in Medicare and under what circumstances they shouldn’t. 
+ Plan ingestion backend to collect plan details from multiple sources 
+ Recommendation experience, so that when we show our three recommendations out of the 50 plans available to the average senior, they understand why we chose them. 
+ Recommendation engine, which uses insurance plan information, provider quality information, and prescription drug pricing to make personalized recommendations. 
+ 
+ Who you are 
+ You're a product-minded engineer. You've built dazzling consumer web experiences and maybe even conceived of them yourself. You're not a designer but if you weren't working with one, you could put together a nice UX/UI on your own using Bootstrap. You want to talk to customers. You have side projects. And you're good with React and Rails. 
+ Who you'll work with 
+ Dan 
+ Dan founded Fair Square Medicare after watching his parents struggle through the Medicare shopping process. He previously was the technical co-founder at Trim (post Series A; valued @ > $30M), Octane Lending (Growth stage, valued @ > $300M) and has held product and growth roles at Redfin, the Climate Corp, and AppDynamics. He studied Physics at Yale. 
+ Chris 
+ Chris is the health insurance agent Dan's parent's found after a long and painful search. They love him. He's helped thousands of seniors across the U.S. navigate the minefield of Medicare. His core value: "treat clients as if they're your family". 
+ Our Culture 
+ Treat our users like family 
+ We are building for our own parents. 
+ Be kind 
+ We believe that your character as a person is shown by how you treat others. Especially when everything isn't hunky dory. 
+ "The megalomaniac pleasure of creation produces a type of elation which cannot be compared with that experienced by other mortals." 
+ You deeply love building dazzling web products. To the point that when our team grows and you become a manager (if you want to), you'll have days where you seriously consider going back to being an IC. 
+ Think clearly so that we can disagree productively. 
+ Your mind is a function that returns a point of view given a set of data and assumptions. Understand this function's body and explain it to the team so that they can review it and help you make sure it works. 
+ Tech is a means to a great customer experience 
+ We love to geek out about how Graphql >>> REST. And we use it because a strongly opinionated API layer helps us iterate faster toward a product our users love. 
+ Technology 
+ 
+ Ruby on Rails 
+ Apollo/GraphQL 
+ React 
+ Postgres 
+ 
+ Other jobs at Fair Square Medicare 
+ First Engineer @ Fair Square Medicare 
+ fulltime 
+ / Remote 
+ Full Stack 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

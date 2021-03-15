@@ -1,0 +1,12 @@
+ You Need These Qualifications 
++ Strong understanding of Web Development 
++ Strong understanding of PHP and SQL 
++ Experience working in any MVC (e.g. Laravel, Yii2, Slim) 
++ Comfortable writing tests and architecting testable code 
+ These Qualifications Are A Plus 
+ These Qualifications Are A Plus 
++ Prior experience working with Craft CMS 
++ Experience with Docker and Kubernetes 
++ Experience with Vue.js, Nuxt, and/or Yarn 
++ Any ecommerce platform experience 
++ Experience working with a SPA 

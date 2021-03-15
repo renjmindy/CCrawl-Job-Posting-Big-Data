@@ -1,0 +1,6 @@
+ Training & Certification 
+ Contact us 
+ # Job debug tracing 
+ Integration projects by its very nature are moderate to very complex involving multiple business systems. Connecting to and updating of records in cloud applications like Salesforce, Workday, Netsuite, Marketo is easy to do with an integration platform like Workato. With varied use cases like employee onboarding (HR) or quote to cash (sales ops), many business systems and cloud applications like Workday, Netsuite, ServiceNow, Salesforce and others will typically be part of the automation. This poses a challenge to developers and analysts who are building recipes but run in to errors like HTTP  404 Not Found . Having no further information makes it difficult to debug and troubleshoot. 
+ # Overview 
+ The job debug tracing makes it easy to see detailed HTTP requests and responses for each action line. With details like HTTP URL, request and response headers, request payload and the response, there's a lot of detailed information for the developer and analyst to uncover the root cause of the problem. 

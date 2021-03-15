@@ -1,0 +1,173 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Engineer - TS Trading Infrastructure 
+ Bloomberg 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Engineer - TS Trading Infrastructure 
+ Bloomberg 
+ [](mailto:?subject=Senior%20Software%20Engineer%20%2D%20TS%20Trading%20Infrastructure&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14260627/senior-software-engineer-ts-trading-infrastructure/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Enterprise Trading Platform (ETP) develops next-generation trading systems to support the growing needs of Bloomberg's enterprise OMS clients. ETP is on a mission to provide a scalable cross-asset transaction data platform, delivering greater transparency of trading events and enhanced analytical capability to positions, P&L;, and trade life cycles. 
+ The Trading Infrastructure team is responsible for real-time systems that capture more than 4 million trade events daily from our global clients, driving the majority of downstream Bloomberg OMS (Order Management Systems) applications. These systems are the most critical components of our OMS products as other financial data such as positions and P&L; are derived from trade events. We are currently re-architecting these systems and infrastructure to ensure our products remain competitive and achieve higher throughput, reliability, and traceability. Our work includes building asynchronous messaging pipelines, designing microservices to apply business logic, and working with other engineering teams to integrate the systems with their applications. 
+ As a member of the team, you will work on designs, implements, and support of our trading infrastructure to host ever-growing and sophisticated financial data. Your key focus will be delivering highly reliable and scalable applications in a fast-paced environment. You will be working in close contact with experienced engineers in the team and across the Bloomberg organization. The team operates in an agile manner where everyone is expected to contribute ideas in an open discussion to achieve the team's time-to-market objectives. Our culture puts an emphasis on applying industry standard practices and tools to bear on the challenges we face, and we embrace open source technologies wherever appropriate. 
+ YOU 'LL NEED TO HAVE: 
+ 
+ 3+ years of experience in C/C++ or any other object-oriented programming language 
+ Excellent problem-solving abilities, object-oriented design, data structures, and algorithms 
+ A solid understanding of LINUX/UNIX operating systems 
+ Excellent communication and collaboration skills, both written and verbal 
+ Working knowledge of Python 
+ A self-starter approach with a strong sense of ownership 
+ 
+ WE 'D LOVE TO SEE: 
+ 
+ Prior experience developing Order or Execution Management Systems 
+ Experience with open-source middleware like RabbitMQ or Apache Kafka 
+ Experience with Agile development 
+ 
+ Bloomberg is an equal opportunities employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+ 
+ Internal Number: 8831143 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Bloomberg 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ VP Java & JavaScript Software Engineer - Asset Management Derivatives Tech 
+ __  London, United Kingdom 
+ 
+ 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ Sr. Full-Stack Developer 
+ __  New York, New York 
+ 
+ 
+ BNY Mellon 
+ __Today 
+ 
+ 
+ Contract Senior Cash Equities Software Engineer and Business Analyst - Banking Operations - Singapore 
+ __  Singapore, Singapore 
+ 
+ 
+ SOCIETE GENERALE 
+ __2 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

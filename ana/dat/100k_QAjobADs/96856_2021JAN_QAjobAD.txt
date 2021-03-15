@@ -1,0 +1,6 @@
+ Qualifications 
+ 7+ years of experience in game development or related programming experience 
+ Proficiency in C++ is required 
+ Proficiency with Unreal Engine is required 
+ Excellent problem solving, troubleshooting and debugging skills 
+ Real-time networking proficiency and experience is a plus 

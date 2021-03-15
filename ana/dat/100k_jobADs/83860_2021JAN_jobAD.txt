@@ -1,0 +1,318 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ 
+ Freelance Jobs from Chile 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelancers from  Chile 
+ ](https://www.workana.com/freelancers/chile) 
+ 3 days ago 
+ I need You ! Bikini Ecommerce Shopify 
+ Published: 3 days ago  Bids: 7 
+ Hello ! 
+I am just starting my first ecommerce. I did a loot by myself in shopify. But I need someone to help me with the design. 
+Please send me some options. 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Roles needed  : Developer, Designer 
+ Published by:  M. I. S. Chile Payment method:  __Verified 
+ USD 100 - 250 
+ 6 days ago 
+ Convert Matlab code to Javascript code 
+ Published: 6 days ago  Bids: 2 
+ I'm running psychological experiments using Matlab (PsychToolbox). I need to move to on-line experiments so I need someone that convert these experiments to JavaScript (jspsych). You should be regular user of PsychToolbox. 
+ The script to be converted is in  https://github.com/joseluisblues/Transl/tree/main/FischerTask 
+In this folder there several m files. The main scripts are arranged alphabetically (aa, bb ...), There are also some functions and material related to the task. 
+The converted script should be fully functional to be run at  https://www.cognition.run/ 
+ Contact me if you are interested and let me know how long it will take you to create the javascript code. 
+ Category  : IT & Programming 
+ Subcategory  : Data Science 
+ Project size  : Large 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  J. L. U. Last reply: 6 days ago  Chile 
+ USD 250 - 500 
+ 2 weeks ago 
+ Build a Database for Prospection 
+ Published: 2 weeks ago  Project duration: 1 - 2 months Bids: 2 
+ I need a database of founders and managers from startups and sme's of chile. Every technological company, not a marketing agencies. 
+ Category  : Sales & Marketing 
+ Subcategory  : E-mail marketing 
+ Is this a project or a position?  : Project 
+ Required availability  : Part time 
+ Published by:  J. J. F. Last reply: 2 weeks ago  Chile 
+ USD 20 - 30 / hour 
+ 2 weeks ago 
+ E-Commerce Customer Service Specialist (Fluid English) 
+ Published: 2 weeks ago  Project duration: 1 - 2 months Bids: 12 
+ We're looking for new specialists to join our growing online team with 3 emerging E-Commerce Brands in Consumer Goods: 
+ - Flexible, Dedicated problem solver, Team Player (we want to hear about your experiences! :) ) 
+- People-orientated person who enjoys helping customers + colleagues 
+- Proactive about learning new software + product characteristics 
+- Not afraid to step in to stop an error in progress or help upsell a customer that's shopping, independently 
+- Comfortable with communication online with remote teams vias platforms such as: Shared Docs, Chats, Videocalls, Microsoft 365/Google Suite, Asana, Confluence, etc 
+- Is versatile and open to adapting with the company's day-to-day challenges and growth: somedays we're on the phone working with partners and others we need to help build content for marketing campaigns; we adapt as priorities are re-defined week to week, change is welcome. 
+- Position is time-zone flexible and family friendly, our focus is on meeting weekly priorities and fluid communication 
+- If possible, Looking for weekend + off-peak support as much of the team operates M-F 10am-6pm EST. 
+(Hablamos español y somos bilingües también :) ) 
+ Category  : Admin Support 
+ Subcategory  : Customer Support 
+ Is this a project or a position?  : Project 
+ Required availability  : Part time 
+ Published by:  Sarah C. Last reply: 2 weeks ago  Chile Payment method:  __Verified 
+ Less than USD 10 / hour 
+ 3 weeks ago 
+ Scrappy & luminatti fix 
+ Published: 3 weeks ago  Bids: 3 
+ We have a Bug with one of our webscrappers that combines Scrappy and Luminatti proxy.  We are using this technology to connect to several entities and we have a Bug that needs quick fix 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  E. Last reply: 3 weeks ago  Chile 
+ USD 50 - 100 
+ Last month 
+ Translate from old german to spanish 
+ Published: Last month  Bids: 1 
+ I have an old letter hand written that is in old german ans i need to understand it in english or spanish. We give the pictures of the letter (two pages) and we need the translation back. 
+ Category  : Writing & Translation 
+ Subcategory  : Translation 
+ How many words?  : Less than 1,000 words 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  S. S. Last reply: Last month  Chile 
+ Less than USD 50 
+ Last month 
+ Certificates 
+ Published: Last month  Deadline: 109 Bids: 1 
+ Connect to server for recording, issuance, or deleting of certificates. 
+Server connects with REST client. Certificates is registered in format from con to base64. 
+ Certificate are issued on format pdf. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ I need to  : Create an app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Similar apps  : Other 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  J. S. Chile 
+ USD 100 - 250 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

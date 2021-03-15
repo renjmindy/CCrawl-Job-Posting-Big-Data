@@ -1,0 +1,229 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Software Engineer 
+ [ 
+ Point Digital Finance 
+ ](/companies/point-digital-finance) 
+ Palo Alto, CA, US 
+ 27 May, 2020 
+ Apply More jobs from Point Digital Finance About Point Digital Finance 
+ Salary 
+ $140K - 180K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Ruby 
+ Ruby On Rails 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Health insurance 
+ Unlimited vacation policy 
+ Team lunches 
+ Dental insurance 
+ Vision insurance 
+ Gym passes 
+ 401(k) 
+ Stock options 
+ Coffee machine 
+ Casual dress 
+ Company outings 
+ Diverse management team 
+ Snacks 
+ Committed to a diverse team 
+ Lunch & learn 
+ Commuter flex spending 
+ Happy hours 
+ Happy hour events 
+ Equal opportunity employer 
+ Competitive salary 
+ Full visa assitance 
+ Training budget 
+ 
+ Fast growing startup! Doubling our engineering team this year! 
+ Role overview 
+ ABOUT US 
+ Please note: We are not currently hiring remote engineers 
+ Our Product 
+ “Point provides the opportunity to stabilize your financial situation without adding costly monthly payments.” - Homeowner in Burlingame, CA 
+ Here at Point, we’re helping homeowners unlock the equity in their homes without taking on further debt. With an investment from Point, homeowners can de-leverage and diversify their wealth, freeing them up to invest in their business, renovate and maintain their home, eliminate debt, and tackle all of life’s expenses from college tuition to medical bills. Our equity investment product is an advantageous alternative for homeowners and investors alike. When partnering with Point, investors now have access to a brand new asset class - homeowner-occupied residential real estate. Point is the first fintech product that is truly aligned with consumers’ interests - when the homeowner does well, Point and its investors do well. 
+ Our Team 
+ People first 
+ As a consumer fintech company, we embed integrity, transparency, and trust into everything we do at Point, including how we work. Whether you’re a homeowner, investor, employee, or candidate, it’s people who power our business. We keep the human experience top of mind. 
+ Experts at work 
+ We’re on a mission to help the 23 million equity-rich, but cash-constrained Americans tap into their home’s wealth. To do so, we have experience and expertise in all areas of the business, especially at the helm. Point’s leadership have previously founded TrialPay (acquired by Visa), Yub (acquired by Coupons.com), Metails (acquired by Buy.com), SiteAdvisor (acquired by McAfee), Affirm, SendGrid (acquired by Twilio), and TXN (acquired by Envestnet). 
+ Championed by the best 
+ In 2019, Point closed a $22M Series B led by Prudential Financial, DAG Ventures, and Andreessen Horowitz. We’ve received funding from Ribbit Capital, Greylock, SV Angel and Bloomberg Beta as well. 
+ ROLE OVERVIEW 
+ You will be an integral part of a tight-knit engineering team working to design and implement new features, improve our architecture and take the lead to launch new products. 
+ Our tech stack is anchored by Ruby on Rails, React, PostgreSQL and Heroku. 
+ RESPONSIBILITIES 
+ 
+ Design and engineer the marketplace tech to make shared equity financing a great option for homeowners and investors 
+ Collaborate with the design team and product managers to create an engaging and transparent customer experience 
+ Build analytics tools to capture and use data to drive risk and pricing algorithms and inform marketing spend 
+ Automate data collection from multiple vendors and data sources and organize and index that data 
+ Streamline the underwriting process to improve efficiency and accuracy while delivering cash to homeowners faster 
+ 
+ YOU ARE 
+ 
+ Quality driven -- You are able to work fast and deliver fast, check your work and take pride in shipping quality. 
+ Innovative -- You take the initiative to find new ways to solve problems. You help the team understand your point of view and advocate for great solutions. 
+ Expert -- You know a couple of languages cold and learning new technologies is standard fare. Specialization at one level of the stack (front-end, back-end, etc.) is great, but expect to work on everything from front-end to the database to the deployment as the need arises. 
+ Experienced -- We don’t count years, but you should have some solid work experience under your belt. Expect to hit the ground running. 
+ 
+ If you love engineering and are passionate about creating software that makes a meaningful difference to our customers’ financial health, you belong at Point. 
+ PERKS AT POINT 
+ Health Insurance 
+ Point provides platinum-rated plans for medical (Anthem Blue Cross or Kaiser Permanente), dental and vision (The Standard). We cover 99% of employee premiums and 75% of dependent premiums. 
+ Transportation 
+ Point participates in the Caltrain GoPass program which provides an unlimited train pass for work and personal travel. Alternatively, team members commuting by car will receive a free parking permit. 
+ Generous vacation 
+ Take time for yourself and your family when you want - Point has an unlimited vacation policy. 
+ Work from home & Flexibility 
+ Many team members work from home once a week. We care about productivity and accountability, not face time. 
+ Continued Learning 
+ We encourage all team members to attend events hosted by our investors, external workshops and conferences. We believe in continuous improvement and want to support employees on their professional journeys. 
+ Family Friendly 
+ Point will top off California PFL earnings to full salary for up to six weeks, as well as two weeks of fully paid leave to be available after exhaustion of CA PFL. An employee can take reasonable vacation time in addition to the California PFL leave. 
+ Bright office with amenities 
+ We have an open floor plan for easy collaboration and plenty of free drinks and snacks to keep you nourished throughout the day. Additionally, Point provides catered lunch every Monday and Wednesday. 
+ Staying fit 
+ Point provides a monthly stipend to cover a 45 credit ClassPass membership - see you at Barry’s Bootcamp! 
+ 
+ [ 
+ Point Digital Finance 
+ ](/companies/point-digital-finance) 
+ 
+ 50-249 
+ 
+ As a consumer FinTech startup helping homeowners tap into their home equity, Point keeps the human experience top of mind. The company’s employees build integrity, transparency, and trust in everything they do, and colleagues readily support each other as they strive to have a positive impact on homeowners' lives. Point is in hyper-growth mode and is building a team that is motivated, self-driven, and eager to revolutionize the FinTech industry. The company’s culture supports innovation, autonomy, and personal growth, and is a place where employees aren’t afraid to roll up their sleeves or wear multiple hats to get the job done. Point is the first FinTech platform where homeowners can sell equity in their homes, giving investors access to a new asset class – owner-occupied residential real estate. Historically, the only way a homeowner could unlock the wealth in their home was to take on further debt. Now with Point, they can de-leverage and diversify their wealth so they can invest in their small businesses, make home repairs, pay off debt, or go back to school. Point is the first consumer finance product that is truly aligned with the customer. When the homeowner does well, Point and its investors do well. We are a well-financed, fast-growing startup backed by top investors like Andreessen Horowitz, located in downtown Palo Alto just minutes from Caltrain. Point's founders have previously co-founded TrialPay (acquired by Visa), Yub (acquired by Coupons.com), Metails (acquired by Buy.com), SiteAdvisor (acquired by McAfee), Affirm, SendGrid (acquired by Twilio), and TXN (aquired by Envestnet). 
+ Ruby React Real Estate Early Stage Venture Ruby On Rails Unlimited Vacation Policy Team Lunches 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from Point Digital Finance About Point Digital Finance 
+ Salary 
+ $140K - 180K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Ruby 
+ Ruby On Rails 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Health insurance 
+ Unlimited vacation policy 
+ Team lunches 
+ Dental insurance 
+ Vision insurance 
+ Gym passes 
+ 401(k) 
+ Stock options 
+ Coffee machine 
+ Casual dress 
+ Company outings 
+ Diverse management team 
+ Snacks 
+ Committed to a diverse team 
+ Lunch & learn 
+ Commuter flex spending 
+ Happy hours 
+ Happy hour events 
+ Equal opportunity employer 
+ Competitive salary 
+ Full visa assitance 
+ Training budget 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Principal EngineerCompetitiveShiftUnited States of America 
+ Opportunity to join a fantastic team at a hi-tech fast-paced company which is transforming an entire industry! 
+ Remote 
+ golang python ruby 
+ More Info Apply 
+ Senior Platform Engineer$130K - 175KThe RealRealSan Francisco, CA, US 
+ As a Senior Software Engineer, you’ll design and build software for automating critical operation processes. 
+ elixir erlang ruby 
+ More Info Apply 
+ Senior Software Development EngineerCompetitiveCredSimpleNew York, NY, US 
+ We're looking for a strong senior engineer to join our team! 
+ golang javascript python ruby ruby on rails 
+ More Info Apply 
+ Senior Software Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

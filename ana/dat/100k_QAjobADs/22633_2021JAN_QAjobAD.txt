@@ -1,0 +1,6 @@
+ Qualifications 
+ In addition to the following technical skills, we are looking for  PROBLEM SOLVERS  with an entrepreneurial mindset. 
+ Interested and/or experience in logistics and/or supply chain 
+ 3+ years of python engineering experience, developing and deploying software in a short cycle using Agile methodologies 
+ Experienced in data sourcing technologies (external APIs, web-scraping, EDI files, etc.) and building data management platforms 
+ Interested in building systems based on complex data extraction and creating a user friendly experience out of it 

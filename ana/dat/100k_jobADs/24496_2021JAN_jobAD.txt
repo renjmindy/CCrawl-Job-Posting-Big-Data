@@ -1,0 +1,289 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Consultant, Corporate and Public Sector, Data Risk Analytics, London or Regions 
+ Deloitte 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Consultant, Corporate and Public Sector, Data Risk Analytics, London or Regions 
+ Deloitte 
+ [](mailto:?subject=Senior%20Consultant%2C%20Corporate%20and%20Public%20Sector%2C%20Data%20Risk%20Analytics%2C%20London%20or%20Regions&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14304344/senior-consultant-corporate-and-public-sector-data-risk-analytics-london-or-regions/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 13, 2021 
+ Location: 
+ London, United Kingdom 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ **Your opportunity 
+Our mission is to deliver meaningful work for priority clients and society. **As part of the largest Data Risk Analytics practice in the UK, our practitioners understand exactly how data underpins a business and how improving the management, use and insight from this data improves performance and reduces risk. 
+ To deliver meaningful work for priority clients and society. Helping clients and society turn risk to advantage through responsible use of data. 
+ We combine our people's skills and experience, with Deloitte tools and solutions, across four focus capability areas: 
+ 
+ Data & software engineering  - we design and deliver the data architectures, pipelines and solutions which underpin our business. 
+ Information management  - we design and implement strategy, governance, operating models and compliance around enterprise data to build a secure and trusted foundation for our clients. 
+ Data science  - we conduct data-driven problem solving and analysis through modelling and visualisation to shed light on root-cause issues and identify the optimum solutions and options. 
+ AI & automation  - we harness machine learning and cognitive capabilities to derive new insight from a myriad of unstructured and structured data sources, and removing manual effort. 
+ 
+ These capability areas help our clients and society across the following industries: 
+ 
+ Consumer & Industrial Products; 
+ Telecoms, Media and Technology; 
+ Government and Public Sector; 
+ Healthcare and Life Sciences; and 
+ Energy and Resources. 
+ 
+ Furthermore, Data Risk Analytics is an integral part of Deloitte's advisory capabilities, and our OneDeloitte strategy enables individuals to work with our specialists in different areas across the business. 
+ We encourage consideration of flexible ways of working, both formal and informal arrangements that allow for the best outcomes for our people and our clients. If this opportunity is of interest to you with some flexibility, please do discuss with us. 
+ Your role 
+As a Senior Consultant in our Data Risk Analytics team, you will: 
+ 
+ Provide our clients with the information and insight they need to take the best decisions, improve their performance and minimise risk in projects ranging from advisory missions to technical assignments. 
+ Engage with clients to get a detailed understanding of their specific needs and ensure that data and information meets our client's business requirements. 
+ Solve the puzzle of integrating disparate sources of enterprise data and information to model and visualise our clients' businesses. 
+ Develop solutions and processes to implement governance and compliance around enterprise data as a secure and trusted foundation. 
+ Design and develop solutions that span Data Science techniques through to AI and automation capability. 
+ Work effectively in diverse teams within an inclusive team culture where people are recognised for their contribution. 
+ 
+ Your work, your choice 
+At Deloitte we believe the best impact is the value we add, not the hours we sit at our desk. We carefully consider agile ways of working, both formal and informal, that allow for the best impact for our people and our clients. Please speak to your recruiter about the working pattern that works best for you. 
+ Location: 
+This role can be based in London or regional offices, however, majority of your time will be spent at client site. Some domestic or international travel may be required 
+ Work pattern: 
+This is a permanent contract opportunity. 
+ Your professional experience 
+ 
+ We are looking for experienced professionals to align to one or more of our four focus capability areas. We can assist with this alignment during the recruitment process and there will be opportunities to work across all four areas during your career at Deloitte 
+ 
+ Data and Software Engineering  : Experience designing and delivering data architectures, pipelines and solutions, with experience including: 
+ 
+ Building /optimising logical data model and data pipelines while delivering high data quality solutions that are testable and adhere to SLAs; 
+ Design, creation and management of large datasets/data models; 
+ Coding in platform-related Big Data languages; 
+ Utilising Big Data technologies; 
+ Cloud-based architecture and deployment; 
+ DevOps, Continuous Integration and Continuous Development (CI/CD); and 
+ Full Stack Development (Frontend & Backend). 
+ 
+ 
+ Information Management:  Experience delivering services related to one or more core Information Management domains including: 
+ 
+ 
+ Data Strategy; 
+ Data Governance; 
+ Data Discovery; 
+ Data Quality; 
+ Data Architecture; or 
+ Master Data Management. 
+ 
+ 
+ Data Science, AI and Automation:  Experience delivering services related to one or more core Data Science or AI domains: 
+ 
+ 
+ Visualisation; 
+ Advanced analytical modelling; 
+ Machine learning; 
+ Computer vision; 
+ Natural language processing; and 
+ Artificial intelligence and automation. 
+ 
+ 
+ Working with or knowledge on a range of tools such as: 
+ 
+ 
+ Visualisation, dashboard and reporting tools e.g. Qlikview, Tableau, Power BI, R Shiny; 
+ Open source visualisation solutions e.g. Plotly, D3.js; 
+ Data Science / Big Data languages e.g. R, Python, Java, Scala; 
+ Data Science tools e.g. Alteryx, SAS, SPSS; 
+ Data management e.g. SQL, ETL; 
+ Big Data technologies e.g. Hadoop, Kafka, Spark; 
+ Cloud technologies e.g. AWS, Azure, Google Cloud Platform; 
+ DevOps & CI/CD tools e.g. Terraform, Jenkins, CloudFormation; 
+ Full Stack Development e.g. Node.js, Angular, React and Django; 
+ Automation tools e.g. Automation Anywhere, Blue Prism, UIPath, other automation or workflow toolsets. 
+ 
+ 
+ Experience applicable to all capability areas: 
+ 
+ 
+ Delivering projects or substantive components applicable to the domains listed above. 
+ Understanding of, and experience with, the development of solutions beyond the proof of concept stage into industrial-strength products or processes. 
+ Strong delivery skills and the ability to work on your own initiative and in many different and challenging environments. 
+ Strong planning, organisation and management skills. 
+ Exceptional communication, presentation, business writing and professional skills, including being able to liaise with both technical and business contacts at our clients. 
+ 
+ Additional Desirable Experience 
+ 
+ Experience working in one or more of our Risk Analytics CPS focus industries. 
+ Postgraduate degree in a scientific subject (Mathematics, Natural Sciences, Computer Science, Artificial Intelligence, Robotics, Data Science, Engineering, etc.) or equivalent and/or relevant professional qualification and/or significant relevant consulting/industry expertise. 
+ A relevant professional qualification and/or relevant consulting expertise. 
+ Experience managing key client relationships and/or managing multiple engagements. 
+ 
+ Your service line: Risk Advisory 
+In Risk Advisory, our thinking and actions give clients, our people and society the confidence to succeed responsibly in a rapidly changing world. We don't just work with our clients to manage risk, we help them understand and grab the opportunities it presents too, helping them gain a competitive advantage. Our expertise and industry knowledge run deep here. At Deloitte, you'll find yourself working with some of the most inspiring and experienced colleagues and with clients who trust you to lead the way to smart choices, better control frameworks, and new systems, including bespoke solutions that have a direct impact on their bottom line. 
+ Personal Independence 
+Regulation and controls are standard practice in our industry and Deloitte is no exception. These controls provide important legal protection for both you and the firm. We are subject to a number of audit regulations, one of which requires that certain colleagues abide by specific personal independence constraints. This can mean that you and your "Immediate Family Members" are not permitted to hold certain financial interests (shares, funds, bonds etc.) with audit clients of the firm. The recruitment team will provide further detail as you progress through the recruitment process. ** 
+About Deloitte** 
+** 
+Our Purpose & Strategy** 
+To make an impact that matters for our clients, our people and society - defines who we are and what we stand for. Our purpose provides the foundation for our strategy and our aspiration to be the undisputed leader in professional services: this is not about size, it's about being the first choice. The first choice for the largest and most influential clients, and the first choice for the best talent. 
+** 
+What do we do?** 
+Deloitte offers global integrated professional services that include Audit & Assurance, Consulting, Financial Advisory, Legal, Risk Advisory and Tax Consulting. Our approach combines intellectual leadership, industrial expertise, insight, consulting & problem solving capabilities whatever the role, technology revolutions and innovation from multiple disciplines to help our clients excel anywhere in the world. 
+** 
+Beyond the UK: Deloitte North and South Europe** 
+The UK is part of Deloitte North and South Europe (NSE), the second largest member firm in the Deloitte network. Deloitte NSE combines operations in Belgium, Greece, Ireland, Italy, Malta, the Netherlands, the Nordics (Denmark, Finland, Iceland, Norway and Sweden), Switzerland and the UK. Deloitte NSE brings together 2,500 partners and over 40,000 people, combining our unmatched breadth and depth of capabilities in audit and assurance, consulting, financial advisory, risk advisory, and tax and legal across the region. Being part of Deloitte NSE supports our aspiration to be the undisputed leader in professional services and will create more opportunity and growth for our people. 
+ What do we value? 
+What brings us all together at Deloitte? It's how we approach the thousands of decisions we make every day. How we behave, our beliefs and our attitudes. In other words: our values. Whatever we do, wherever we are in the world, we lead the way, serve with integrity, take care of each other, foster inclusion, and collaborate for maximum impact. These five shared values lead every decision we make and action we take, guiding us to deliver impact how and where it matters most. 
+ Being a Leader at Deloitte 
+Cultural fit and purpose-led leadership is crucial for Deloitte. Our leaders always set the example and inspire their colleagues. They make quality time for people and take an interest in them. They know what matters to people - both inside and outside work - and value them as individuals; always finding opportunities to develop them while showing respect and appreciation. 
+ We expect colleagues at all levels to embrace and live our purpose and our leadership culture by challenging themselves to identify issues that are most important for our clients, our people, and for society and make an impact that matters. We know leadership comes in all shapes and sizes, but our Leadership Charter helps all of our people understand what we're looking for: 
+ 
+ We live our purpose:  we act as a role model, embracing and living our purpose and values, and recognising others for the impact they make 
+ We develop talent:  we develop high-performing people and teams through challenging and meaningful opportunities 
+ We drive performance:  we deliver exceptional client service; maximise results and drive high performance from people while fostering collaboration across businesses and borders 
+ We believe positive influence can make an impact that matters:  we influence clients, teams, and individuals positively, leading by example and establishing confident relationships with increasingly senior people 
+ We move, together, towards a strategic direction:  we understand key objectives for clients and Deloitte, aligning people to objectives and setting priorities and direction. 
+ 
+ SLRSKA BADAAN 
+ Deloitte LLP is a limited liability partnership registered in England and Wales with registered number OC303675 and its registered office at 1 New Street Square, London EC4A 3HQ, United Kingdom. 
+Deloitte LLP is the United Kingdom affiliate of Deloitte NSE LLP, a member firm of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee ("DTTL"). DTTL and each of its member firms are legally separate and independent entities. DTTL and Deloitte NSE LLP do not provide services to clients. Please see www.deloitte.com/about to learn more about our global network of member firms. 
+ © 2020 Deloitte LLP. All rights reserved. 
+ Requisition code: 180007 
+ 
+ 
+ Internal Number: 9773732 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Deloitte 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Principal Software Engineer 
+ __  Jersey City, New Jersey 
+ 
+ 
+ 
+ 
+ BNY Mellon 
+ __Today 
+ 
+ 
+ Java Software Engineer - Big Data - Data Analytics - Vice President 
+ __  London, United Kingdom 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ Senior Manager/Manager, Information Management, Risk Analytics, London or Regions 
+ __  London, United Kingdom 
+ 
+ 
+ Deloitte 
+ __1 Week Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

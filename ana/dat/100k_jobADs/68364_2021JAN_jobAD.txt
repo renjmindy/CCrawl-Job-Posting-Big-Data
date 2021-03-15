@@ -1,0 +1,180 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Lead Software Developer 
+ at fu3e. 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤70000 - ₤80000 per year 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤70000 - ₤80000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ We are a dynamic digital business based in Central London with all the benefits of an agile and fast-growing start-up with internal funding to provide stability. 
+ We are now looking for a Lead Software Developer to join our team to help us with the rapid growth we are experiencing.  Leading our team of software developers, currently 4 full time, 4 outsourced. Plans are in place for expanding this team. This role reports directly into our CTO. 
+ fu3e. is made up of all sorts of people - from data scientists and real estate business consultants, to rugby players, cyclists, climbers, software engineers, designers and many more. 
+ If you are looking for a new challenge, we'd love to hear from you. 
+ Key responsibilities. 
+ Your daily tasks will include ensuring that yourself and the team carry out: 
+ 
+ Creation of new system functionality 
+ Amendments to existing features and bug fixes, utilizing the accompanying notes or design documents 
+ Research and development of proof of concepts 
+ Structure code in a modern fashion, utilising OO concepts and structured documentation 
+ Writing thorough automated tests for your code 
+ Develop and maintain the code base of our project management system, fu3e 
+ Maintain the architecture & security of fu3e 
+ Peer-review and testing codebase from other software developers 
+ Produce database exports for special reports 
+ Provide estimations for new features and bug fixes 
+ Assist in the recruitment and on-boarding of software developers and QA personnel 
+ 
+ Expertise. 
+ 
+ 5+ years of experience in leading software development teams 
+ Modern development and deployment techniques for continuous integration and delivery 
+ Working on complex web applications 
+ Delivery experience within an agile environment using Scrum methodologies 
+ 
+ Required skills. 
+ 
+ PHP 7+ 
+ Laravel (preferred) or Symfony Experience 
+ JavaScript & Modern versions of ES 
+ JS 
+ HTML 
+ CSS (SASS/LESS) 
+ TDD 
+ Git 
+ MySQL 
+ 
+ Desired skills. 
+ 
+ Typescript 
+ API-First Application Design Experience 
+ Experience with AWS 
+ Experience with Docker 
+ Understanding of the UNIX command line 
+ Experience working within AGILE framework 
+ Experience with Laravel Vapor 
+ 
+ Standards. 
+ 
+ Focused on continual improvement 
+ Effective communicator 
+ Effective leadership skills with a strong work ethic 
+ Strong analytical skills and mind-set 
+ Valid UK work visa required 
+ 
+ Compensation. 
+ 
+ Up to £80k dependent upon experience 
+ Flexible working 
+ 
+ Published at 15 Dec 2020 - Expires on 15 Feb 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  fu3e. 
+ fulltime  Senior Product Manager  at fu3e. in London 
+ __07-12-2020 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

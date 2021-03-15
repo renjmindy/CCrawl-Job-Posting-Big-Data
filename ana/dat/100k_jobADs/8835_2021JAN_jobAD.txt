@@ -1,0 +1,274 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Software Engineer/ Developer - Energetics Research Group 
+ Johns Hopkins University 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Software Engineer/ Developer - Energetics Research Group 
+ Johns Hopkins University 
+ [](mailto:?subject=Software%20Engineer%2F%20Developer%20%2D%20Energetics%20Research%20Group&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/13734899/software-engineer-developer-energetics-research-group/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ July 17, 2020 
+ Location: 
+ Columbia, Maryland 
+ __ Show Map 
+ Salary: 
+ Open 
+ General Summary 
+ This position provides information technology services for the Energetic Research Group, a Center operated by the Whiting School of Engineering. 
+ Essential Job Functions 
+ 
+ Analysis and Requirements Gathering
+ 
+ Define complex business/clinical/education problems by meeting with clients to observe and understand current processes and the issues related to those processes. Provide written documentation of findings to share with the client and other IT colleagues. 
+ Gather complex system requirements by meeting with clients and researching existing technology to understand the business requirements and possible solutions for new applications. 
+ 
+ 
+ Design and Development
+ 
+ Develop detailed tasks and project plans by analyzing project scope and milestones for complex projects in order to ensure product is delivered in a timely fashion according to software lifecycle standards. 
+ Write functional/technical specifications from the complex system requirements, putting them into functional and technical descriptions for use by programmers and business analysts to develop technical solutions. 
+ Develop/change data input, files/database structures, data transformation, algorithms, and data output by using appropriate computer language/tools to provide technical solutions for complex application development tasks. 
+ Document code and associated processes by adhering to development methodologies, adding code comments and appropriate documentation to various knowledgebase system(s) to simplify code maintenance and to improve support. 
+ Provide monitoring and guidance in application design and development to more junior staff. 
+ Provide thought leadership in designing and developing innovative integrated solutions. 
+ 
+ 
+ Project lead for multiple simultaneous application development projects for ERG and ERG’s government agency customers. Establish context, requirements, and then implement solutions, determining platform, coding, and security standards for the projects. 
+ Develop new functionality for existing in-house software applications and websites: Document Library Search Engine, Drupal/WordPress modules like: Small Teams portal application, Subscription Management portal, Customer Management portal. 
+ Testing and Documentation
+ 
+ Create and document complex test scenarios using the appropriate testing tools to validate and verify application functionality. 
+ Test all changes by using the appropriate complex test scenarios to ensure all delivered solutions work as expected and errors are handling in a meaningful way. 
+ Author and maintain documentation by writing audience-appropriate materials to serve as technical and/or end-user references. 
+ 
+ 
+ Implementation and Maintenance
+ 
+ Implement changes by adhering to the change management policies and procedures for any given project to communicate to all parties the nature, significance, and risk factors of the solution. 
+ Monitor changes and resolve complex problems by responding as they occur, by reviewing all processing and output of the newly implemented solution, and by proactively ensuring the solution works successfully in order to satisfy the customer requirements and to provide a smooth transition to the new solution. 
+ Provide support by investigating and resolving issues, including complex issues to ensure prompt, effective service. 
+ 
+ 
+ Evaluate and recommend products/services for maintaining and improving computer systems and network infrastructure. 
+ Develop and implement security standards for the network, servers and workstations. 
+ Administer enterprise databases (MySQL, MS SQL, MS Access), web application (Drupal, WordPress, IIS and Apache), and other application servers. 
+ Team member for configuration and maintenance of Cisco ASA firewall. 
+ Provide mentoring to LAN Administrator and assist LAN Administrator when they are not available or when there is an overflow of requests. 
+ Maintain office file and application servers (physical and virtual), Hyper-V, Active Directory, Exchange, MS SQL, and Windows HPC cluster. 
+ 
+ Minimum Qualifications: 
+ 
+ Bachelor’s degree required. Additional experience may be substituted for education. 
+ Five years of related work experience with computer systems and applications. Additional education may substitute for experience. 
+ 
+ Preferred Qualifications: 
+ 
+ BS in Computer Science or Information Systems. 
+ 6+ years of experience preferred. 
+ Experience in server support and familiarity with diverse Operating Systems. 
+ Experience with commonly used productivity software products (MS Office, Adobe Creative Suite). 
+ Experience with MS Visual Studio and other development suites. 
+ Experience mentoring junior IT staff. 
+ 
+ Certifications 
+ Industry certifications from Cisco, Microsoft and other vendors are desirable. 
+ Special Knowledge, Skills, or Abilities 
+ 
+ Ability to work independently in a complex environment with minimal supervision; 
+ Excellent communication skills. 
+ Prior work experience with Linux servers, Cisco routers, MS Windows Server, MS SQL, MySQL, Apache, Drupal, programming languages (PHP, VB, Java, C#, JQuery, Javascript, Symfony), programming tools (MS Visual Studio). 
+ Familiarity with project management and systems analysis & design. 
+ Ability to work with minimum supervision. 
+ Must demonstrate strong critical thinking and analytical reasoning skills. 
+ Ability to work on multiple priorities effectively. 
+ Ability to prioritize conflicting demands. 
+ Ability to execute assigned project tasks within established schedule. 
+ Ability to work collaboratively in a team environment. 
+ Ability to communicate effectively in the service of users and colleagues. 
+ Writes and communicates clearly and concisely. 
+ Possesses sound documentation skills. 
+ Ability to maintain confidentiality. 
+ Must demonstrate exemplary customer service skills 
+ Familiar with DoD, NASA, and University computer policies and procedures. 
+ 
+ Physical Requirements: 
+ 
+ Standing: Short periods of time. 
+ Walking: Often; navigation and egress around office suite areas and in narrow areas for setting computer equipment. 
+ Sitting: On average about ¾ each work day 
+ Keyboarding: Write support documentation, memos, email, researching on the Internet. 
+ Lifting: Some heavy lifting (up to 40 pounds) of computer equipment. 
+ Reaching: Retrieve or move computer and other equipment. Requires safe and proper use of elevation devices (step ladders and stools). 
+ 
+ Permanent employment is contingent upon obtaining a U.S. Government personal security clearance consistent with ERG contractual and industrial security requirements. 
+ Some travel required. 
+ Position’s roles & interactions: 
+ This position will interact heavily with Internal staff in Admin, IT, Mgmt., and Research areas. Also, this position will occasionally interact with Gov’t and Industry customers of the Center. Our customers include: NASA, DoD, and Industry working in various Energetics fields. We are a small office; this position will have lead responsibility for all aspects of assigned projects. Supervision assistance will include reviewing defined project scope, goals, user requirements, testing and user training procedures/documentation. This position will require someone who can work without daily supervision. Status of each project will be reviewed with the supervisor once each week. 
+ Specific systems, applications, projects for which the position is responsible: 
+ This position will be developing application modules which will be deployed on Drupal and WordPress portal websites. The applications vary. Examples include: 
+ 
+ Customer Verification Process; an application process for potential customers to request user accounts on the portal websites. Each customer must meet specific criteria before receiving an account because some data stored on the portal is restricted (i.e. Not Publicly Releasable). Center Admin staff must be able to view status of each request and manage the request as needed to work it through the verification process. 
+ Subscription Management portal application; used by Admin staff to administrate subscriptions to online content that customers will access in the Portal. Will also have an ecommerce component to allow customers to purchase renewable subscriptions (annually). 
+ Customer Management portal application; used by Admin staff to administrate customer portal accounts. 
+ 
+ Classified Title: Software Engineer 
+Working Title: Software Engineer/ Developer - Energetics Research Group ​​​​​ 
+Role/Level/Range: ATP/04/PE 
+Starting Salary Range: Commensurate with Experience 
+Employee group: Full Time 
+Schedule: M-F, 8:30am - 5pm 
+Exempt Status: Exempt 
+Location: 11-MD:JH at CPIA Century Plaza 
+Department name: 10001507-Energetics Research Group 
+Personnel area: Whiting School of Engineering 
+ The successful candidate(s) for this position will be subject to a pre-employment background check. 
+ If you are interested in applying for employment with The Johns Hopkins University and require special assistance or accommodation during any part of the pre-employment process, please contact the HR Business Services Office at  jhurecruitment@jhu.edu . For TTY users, call via Maryland Relay or dial 711. 
+ The following additional provisions may apply depending on which campus you will work. Your recruiter will advise accordingly. 
+ During the Influenza ("the flu") season, as a condition of employment, The Johns Hopkins Institutions require all employees who provide ongoing services to patients or work in patient care or clinical care areas to have an annual influenza vaccination or possess an approved medical or religious exception. Failure to meet this requirement may result in termination of employment. 
+ The pre-employment physical for positions in clinical areas, laboratories, working with research subjects, or involving community contact requires documentation of immune status against Rubella (German measles), Rubeola (Measles), Mumps, Varicella (chickenpox), Hepatitis B and documentation of having received the Tdap (Tetanus, diphtheria, pertussis) vaccination. This may include documentation of having two (2) MMR vaccines; two (2) Varicella vaccines; or antibody status to these diseases from laboratory testing. Blood tests for immunities to these diseases are ordinarily included in the pre-employment physical exam except for those employees who provide results of blood tests or immunization documentation from their own health care providers. Any vaccinations required for these diseases will be given at no cost in our Occupational Health office. 
+ Equal Opportunity Employer 
+Note: Job Postings are updated daily and remain online until filled. 
+ EEO is the Law 
+Learn more: 
+ https://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf 
+ 
+ 
+ Internal Number: 35041-en_US 
+  __  Create a Job Alert for Similar Jobs  
+ About Johns Hopkins University 
+ Johns Hopkins University remains committed to its founding principle, that education for all students should be grounded in exploration and discovery. Hopkins students are challenged not just to learn but also to advance learning itself. Critical thinking, problem solving, creativity, and entrepreneurship are all encouraged and nourished in this unique educational environment. After more than 130 years, Johns Hopkins remains a world leader in both teaching and research. Faculty members and their research colleagues at the university's Applied Physics Laboratory have each year since 1979 won Johns Hopkins more federal research and development funding than any other university. The university has nine academic divisions and campuses throughout the Baltimore-Washington area. The Krieger School of Arts and Sciences, the Whiting School of Engineering, the School of Education and the Carey Business School are based at the Homewood campus in northern Baltimore. The schools of Medicine, Public Health, and Nursing share a campus in east Baltimore with The Johns Hopkins Hospital. The Peabody Institute, a leading professional school of music, is located on Mount Vernon Place in downtown Bal...timore. The Paul H. Nitze School of Advanced International Studies is located in Washington's Dupont Circle area. 
+ Show more 
+ Show less 
+ Connections working at Johns Hopkins University 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Optical Systems Scientist 
+ __  Santa Barbara, California 
+ 
+ 
+ 
+ 
+ Thorlabs, Inc. 
+ __3 Days Ago 
+ 
+ 
+ Transmission Engineer III or Senior 
+ __  Moore, Oklahoma 
+ 
+ 
+ WFEC 
+ __6 Days Ago 
+ 
+ 
+ Front End Developer - Digital UI Platform - VP 
+ __  London, United Kingdom 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

@@ -1,0 +1,208 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ C++ Software Engineer 
+ [ 
+ CloudNC 
+ ](/companies/cloudnc) 
+ 
+ Remote 
+ 05 October, 2020 
+ Apply 
+ More jobs from CloudNC About CloudNC 
+ Salary 
+ £70K - 125K + Equity 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Remote working 
+ Technologies & frameworks 
+ 
+ C++ 
+ cuda 
+ opengl 
+ boost 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Paid sick days 
+ Stock options 
+ Stocked kitchen 
+ Conference tickets 
+ Promote from within 
+ Diversity dedicated staff 
+ Diverse management team 
+ Paid leave 
+ Private healthcare 
+ Private pension scheme 
+ Professional development 
+ Maternity & paternity leave 
+ Excellent coffee, leading snack & fresh fruit structure 
+ 28 days paid vacation 
+ Diverse company 
+ Pro 
+ 
+ Helping to build super performant software to automate the manufacturing process 
+ Role overview 
+ Who are CloudNC? 
+ More than £100Bn worth of components are produced using CNC Machines every year, but today the process is slow, costly and heavily reliant on human input. We are developing technology that fully automates CNC manufacturing, hugely reducing the cost of parts while boosting quality and speed of delivery. 
+ By developing autonomous, flexible factories with this technology at their core, CloudNC is working to make the dream of fully automatic manufacture a reality. 
+ What to expect... 
+ Having achieved getting our world-first through software-enabled automation of our factory machines into production, we’re now focused on expanding our part reach and capability for autonomous machining and the challenge of automating the entire factory. 
+ At the heart of this challenge is the mastery and development of our autonomous machining technology and it’s integration with our factory operating system, which is responsible for the scheduling and distribution of every factory application, process and task, that codifies the factory blueprint and its operating model. 
+ The engine team 
+ In the Engine team we develop the core technology that generates machining instructions from the part geometry, the corresponding technical drawing and parameters of the target machine. 
+ Our software, written using modern, high-performance C++, analyses the part geometry using a toolbox of robust geometrical data structures and algorithms, before generating an optimal machining strategy using physics-based optimisation heuristics and complex algorithms to incorporate real-world machining constraints. 
+ Unlike other state-of-the-art technologies, our software guarantees the generation of optimised, collision-free toolpaths with minimal user interaction. 
+ The architecture of our software has been designed to separate the mathematical and machining domain specific complexities from more general problems like work distribution, persistence of the state, reproducibility and consistency. 
+ Our software is a cloud-based server-side application, accessible from the Front End through gRPC message passing API. We maintain an extensive set of tests including fine grained unit tests and high-level end-to-end tests. 
+ Tech stack 
+ 
+ C++ 17, Boost, CUDA, OpenGL 
+ Java 11, Python, Guice, AWS, Docker, Kubernetes, Terraform 
+ Angular 10, Typescript, WebGL, Ngrx 
+ 
+ What you'll be doing... 
+ You will be working with cross-functional teams that value getting great features in front of users. We measure our success in this way, and by producing working features in a production environment. We believe all our software should be responsive, scalable, and resilient to failure. Our pursuit of these qualities means that we employ modern software tools and practices and constantly look for ways to improve our process and our products. As a result: we are pragmatic and always try to "use the right tool for the job"; we practice shared code ownership through collaboration and reviews; we pair program on difficult problems and test just about everything; we adapt our software and our structure to cope with new problems but still make sure we give ideas a chance to mature; we want everyone to feel comfortable offering suggestions at any level and we trust and empower our people to deliver. 
+ What you'll receive... 
+ We are nothing but our employees, and as such so you’ll be supported with excellent salary, stock options, hardware including high-performance computers, top of the range private healthcare, company expense card, Bose headphones plus 28 days holiday (& bank holidays). We also have hack days every month with lunch provided and team socials. 
+ We care about learning and development offering relevant training, self development time and conference tickets. We offer opportunity to be involved in shaping the company through our engagement platform 'Peakon', company wide All Hands, company OKR (goal) setting sessions, 'Ask Me Anything' time and our diversity and inclusion network. 
+ We're a match if... 
+ You're an experienced C++ Software Engineer (at least version 11) with a track record of working on computational problems (we're regularly solving NP hard problems). You will have great knowledge of computer architecture and a passion for improving the quality of code. You'll be familiar with Git and have experience in CI/CD environments. 
+ Working in this environment will require you to have demonstrable experience in a heavy compute environment and come from any discipline requiring either mathematical, physics, geometric or computational skills that enables you to explore, analyse and develop practical solutions to our wide spectrum of computational challenges. 
+ You will develop novel algorithms and features to solve real problems in machining and heavy-engineering. You’ll be excited at the prospect of being immersed in both the old-school and the cutting-edge of the manufacturing world. 
+ You will be a key member of our engineering team, comfortable working cross-functionally with other software engineers, data scientists, business analysts, product managers and crucially factory-based SMEs. You will work in our AMT team (autonomous machining technology. This team is part of the wider Engine team) and collaborate with our factory operating systems team (FOS) developing against roadmap plans as part of the technology strategy. As a software engineer at CloudNC you will have proven experience within C++ and interested in wider technology. 
+ Equal opportunities statement 
+ We are proud to be an equal opportunity employer, valuing individuality and embracing all people. The success of CloudNC is a result of diversity of thought. We recognise this comes from people truly belonging. We encourage different perspectives and skills to collaborate towards our mission – disrupting the manufacturing industry. We celebrate diversity and continually improve our inclusivity efforts. 
+ 
+ [ 
+ CloudNC 
+ ](/companies/cloudnc) 
+ 
+ 50-249 
+ 
+ CNC machines are responsible for producing more than $120BN worth of metal components every year, serving every manufacturing vertical from motorsport parts in Formula 1 to satellites in space. Despite this, the software used to control these CNC machines are stuck in the dark ages. It can require hours (sometimes days) of manual instruction by a skilled programmer before a component can be produced. Enter CloudNC! Located in London & Chelmsford, we're pioneers in revolutionising the manufacturing industry. Combining technology and manufacturing; we’re building the world’s most intelligent factory, powered by groundbreaking technology. We're not stopping there. Not only are we disrupting the manufacturing industry, our culture is as progressive as our technology. We know when people feel empowered, they perform better. So, we've created an inclusive environment where continuous improvement is at the centre of everything we do. Last year we were featured on Rocket List as one of the 'Best Fast-Growing Companies' in the UK. 
+ Manufacturing Series A TYPESCRIPT WEBGL cuda opengl Paid Sick Days Stock Options 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from CloudNC About CloudNC 
+ Salary 
+ £70K - 125K + Equity 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Remote working 
+ Technologies & frameworks 
+ 
+ C++ 
+ cuda 
+ opengl 
+ boost 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Paid sick days 
+ Stock options 
+ Stocked kitchen 
+ Conference tickets 
+ Promote from within 
+ Diversity dedicated staff 
+ Diverse management team 
+ Paid leave 
+ Private healthcare 
+ Private pension scheme 
+ Professional development 
+ Maternity & paternity leave 
+ Excellent coffee, leading snack & fresh fruit structure 
+ 28 days paid vacation 
+ Diverse company 
+ Pro 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Backend Engineer $100K - 170KGauntletUnited States of America 
+ Work with us here at Gauntlet to drive adoption in the financial systems of the future. 
+ Remote 
+ go c++ python rust 
+ More Info Apply 
+ Smart Contract Engineer$100K - 170KGauntletUnited States of America 
+ Work with us here at Gauntlet to drive adoption in the financial systems of the future. 
+ Remote 
+ go c++ ethereum python 
+ More Info Apply 
+ Principal Security Engineer CompetitiveGeminiNew York, NY, US 
+ Gemini is a next generation cryptocurrency exchange that allows customers to buy, sell, and store crypto. 
+ c++ python security scala smart contracts 
+ More Info Apply 
+ C++ Software Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

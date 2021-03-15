@@ -1,0 +1,282 @@
+  
+ Menu Bar 
+ 
+ __ 
+ 
+ Go 
+ 
+ 
+ Home 
+ 
+ 
+ Blog 
+ 
+ 
+ Job Search 
+ 
+ Job Search Tips 
+ Between Jobs 
+ Job Applications 
+ Job Market Stakeholders 
+ Job Search Ideas & Perspectives 
+ New Graduates 
+ Job Sites & Resources 
+ Working from Home 
+ FAQ About Job Searching 
+ 
+ 
+ 
+ Networking 
+ 
+ Networking Tips 
+ Networking Etiquette 
+ Networking Events 
+ Social Media & Online Networking 
+ Elevator Speech 
+ Informational Interviews 
+ Networking Mistakes 
+ FAQ About Networking 
+ 
+ 
+ 
+ Cover Letter 
+ 
+ Cover Letter Tips 
+ Cover Letter Format 
+ Cover Letter Samples 
+ Cover Letter Mistakes 
+ FAQ About Cover Letter Writing 
+ 
+ 
+ 
+ Resume 
+ 
+ Resume Tips 
+ Resume Format 
+ Resume Template 
+ Resume Samples 
+ Customizing Your Resume 
+ Resume Formatting 
+ Ideas & Alternatives 
+ Resume Mistakes 
+ Resume Writers 
+ FAQ About Resume Writing 
+ 
+ 
+ 
+ Interview 
+ 
+ Interview Tips 
+ Interview Types 
+ Interview Process 
+ Interview Preparation 
+ Interview Questions 
+ Interview Skills 
+ Interview Psychology 
+ Interview Mistakes 
+ Follow Up Interview Email 
+ FAQ About Interviewing 
+ 
+ 
+ 
+ Career 
+ 
+ Career Advancement 
+ Compensation and Benefits 
+ Continuing Education 
+ Productivity 
+ Work Relationships 
+ Work Environment 
+ Work Life Balance 
+ 
+ 
+ 
+ __ 
+ 
+ 
+ Go 
+ 
+  Home   
+  Resume   
+  Resume Tips   
+ Tips for Tech Sector Jobs – Resume, Cover Letter and Social Networking 
+ 
+ Tips for Tech Sector Jobs – Resume, Cover Letter and Social Networking 
+ by Sharon Elber 
+ The  job search  for technology professionals is similar to other industries in many ways. For example, having a well establish professional network, writing a concise and compelling resume, and finding the jobs that are a strong match for your specific skills still apply. 
+ However, the tech sector also has its unique challenges when it comes to writing a strong resume, cover letter, and even social networking. This guide will offer a comprehensive look at best practices to help techies land that dream job. 
+ Before we dive into the details, here are a few general things to keep in mind throughout the process of  applying for your next job opportunity  in technology: 
+ 1) Emphasize Fit 
+ It is absolutely imperative to customize your application materials,  including your resume  and cover letter, to showcase the most relevant skills, programming languages, tools, and other technical qualifications for each and every technology job you apply for. 
+ Although this is true for all jobs, it is particularly critical in technical fields where your list of expansive technical proficiencies can make you look less qualified for the job if they are not clearly focused on the work you will be expected to do in your new role. 
+ Spend time with the job advertisement. If you hold the required or preferred qualifications listed in the job ad itself, make sure they make the top of any list you include on your resume. In many cases, the first pass on your resume will include a quick scan to look for these specific skills. Make sure the hiring manager has no problem finding them! 
+ 2) Know What to Cut 
+ Sure, it can be hard to edit that impressive list of the 37 programming languages you are proficient in down to 8, but your ego isn’t what is important here. The ability of the hiring manager to quickly find those languages that are most relevant to the job itself is much more important when it comes to showcasing your qualifications for the job. 
+ For example, even if you do happen to have a deep and undying love for APL from your undergraduate days as an aspiring mathematician, it just isn’t relevant to that job making sure the data management system for a health provider’s customer portal is HIPAA compliant. Cut it! The same goes for APIs, platforms, hardware, debugging tools, and so forth. 
+ 3) Be Results Oriented 
+ Wherever possible in your cover letter, resume, and even social media profiles, try to bring a focus on your impressive results,  quantified when possible . Statistics, figures, and even the occasional graph or table can help to make your accomplishments seem more “real” and “bottom line.” 
+ Employers are looking for technical professionals that can increase efficiency, analyze customer data to improve sales, or streamline logistics to cut labor costs or lower workplace accident rates. Show a potential employer that you are able to meet and exceed targets as defined by the company you work for by demonstrating past successes in terms that will resonate with your future boss. 
+ 4) Find a Balance Between Jargon and Plain Language 
+ It can be a mistake to assume that the person who is making final hiring decisions is another tech guru such as yourself. Although you will need to use some industry jargon to be concise and demonstrate your expertise, try to find a healthy balance so that less technical people on the hiring team will still take something away from your application materials. 
+ Researching the company culture prior to finalizing your application materials can also help you decide what type of language to use on your resume, and indeed how much room there is for personality in these important documents. For example, a high tech start-up which emphasizes a creative working environment is likely to be more welcoming of witty industry slang than a government job in the IT security sector. 
+ Tech Sector Resumes 
+ Want to make sure your tech sector resume  stands out from the crowd ? Here are some tips: 
+ 1) Resume Formats for the Tech Sector 
+ Although there is no hard and fast rule, generally the  combination resume format  works best for professionals in the technology sector. This allows you to place emphasis on valuable work history, without losing the ability to list key skillsets in easy to read bullet lists that can be quickly skimmed by busy hiring managers. 
+ Length should be between 1-3 pages, using the space you need to cover your most relevant skills and work experiences in clear and concise language. In most cases, 2 pages is typical, but more experienced technical professionals applying for advanced jobs will often require more space to adequately convey their credentials and relevant job responsibilities held in previous roles. 
+ 
+ If you have been working in technology for more than a decade, chances are the tools you used in previous jobs from more than 10 years ago are no longer relevant. Instead of providing detailed lists of outdated technology, keep these work histories brief (sometimes just the company, title, and years worked) and devote more space to detailing responsibilities from more recent positions. 
+ 
+ 2) Resume Sections for the Tech Sector 
+ The key to choosing which sections are right for your tech sector resume comes down to those that will best highlight your fit for the job you are applying for. Although there is certainly some wiggle room, these sections are the most commonly used on technical resumes: 
+ 
+ Name 
+ Contact Information 
+ Links 
+ Professional Summary 
+ Education and Certifications 
+ Technical Skills 
+ Soft Skills 
+ Work History 
+ Honors and Awards 
+ Links 
+ 
+ If you have an  online presence  that is relevant to your professional life, then it may be wise to include these links near your contact information. For example, if you have a digital portfolio showcasing some of your most impressive projects or are an active contributing member of a reputable technical support forum in your field, then it may be beneficial to include links in this section of your resume. 
+ Before including links, be sure the content will contribute to the strength of your candidacy for the job you are applying for; otherwise, just skip it. If you want to share links of public sites you have developed while working on a previous project, include that in your work history section. 
+ i) Professional Summary 
+ While not required, this section is highly recommended for technical professionals because it provides an opportunity to emphasize the most important aspects of your fit for the exact job you are applying for. As such, it provides the reader with a clear picture of why they should take the time to read through your impressive list of technical credentials. Without this, the fact that you are the perfect fit for that new job may be missed altogether. 
+ This section cannot be generic. It must clearly include a few sentences or a short bullet list that conveys the most relevant qualifications, past roles, and achievements to let the recruiter know you are just right for the position they are trying to fill. Consider it the  elevator pitch  of your resume. 
+ ii) Technical Skills 
+ It is important that your technical skills are easy to find and presented in a clear way. In addition, make sure that you prioritize the required skills for the job first so they will be easily recognized by someone who is skimming your resume. 
+ If you have different types of technical skills relevant to the work you will be doing, it can be very helpful to regroup them. For example, if you regularly use database management tools, debugging tools, specific programming languages, or analysis software to perform your essential duties, consider grouping them together to make it easier for the hiring manager to find what they are looking for. 
+ iii) Soft Skills 
+ Although technology professionals spend a great deal of time investing in their technical proficiencies, most will work as members of a diverse team of professionals in a problem solving capacity. Being able to listen and communicate during the project design phase is usually a critical skillset that most of the best tech sector employers are looking for. 
+ For more direction on which soft skills to target, read the job ad carefully and imagine yourself working in the role. For example, you may want to highlight your ability to collaborate, respond to the needs of people from other departments, develop a sense of customer priorities, and/or to learn and grow from your mistakes. Try to be specific with your soft skills while keeping the language concise and brief. 
+ 3) Resume Design for the Tech Sector 
+ The  level of design  that is appropriate for your tech sector resume often depends on the type of work you will be doing. 
+ For example, if you are a front end web designer, a key part of your job will be using your aesthetic savvy and sense of user friendly functionality to build helpful customer portals that represent the values of the company you will be working for. As such, showcasing your design skills can be an important way to stand out against other candidates in a crowded field. 
+ On the other hand, data analysts may want to use a more traditional resume design with a focus on information. However, if presenting your findings in a way that will be actionable is going to be a key aspect of your job,  using infographics  to present some of your most important accomplishments is one way to demonstrate your skills on the resume itself. 
+ Any design elements that you choose to use should add simplicity to your resume rather than clutter. Sections should clearly pop, and the most relevant information should be easy to find. Design should be consistent throughout the document, providing a finished and professional look. Balance text with white space to make the document easier to skim read. 
+ 
+ See  resume samples in technology . 
+ 
+ Tech Sector Cover Letters 
+ Unless the job you are applying for specifically instructs applicants not to include a  cover letter , it is generally a good idea to include one. Although cover letters do take some time and effort to create, consider them your opportunity to showcase your personality and fit for the job. Here are a few tips on how to make the most of your techie cover letter: 
+ 1) Insert Personality Here 
+ Hiring managers are looking for people to fill roles that will often require working with other people in dynamic environments. While you don’t need to go overboard with personal stories, the cover letter is an important opportunity to showcase some of the human qualities that make you a strong fit for the position you are applying for. 
+ Start by researching the company culture to look for clues about which of your personal traits might be most valued. For example, if you sense that the company is looking for creative thinkers, it might be a good idea to mention that you build sculptures from reclaimed motorcycle parts in your spare time and are looking forward to working with other imaginative minds. 
+ 2) Highlight Outstanding Results 
+ Understand that any potential employer has a bucket list of what they are looking for in the position they are hiring for. Imagine yourself in the role and try to get a sense for the kinds of results they are likely to perceive as the metrics of success in that position. If you can allude to some past projects where you have produced outstanding results that would be relevant, the cover letter is a good place to mention them. When possible, quantify your accomplishments to give them more weight to the reader. 
+ 3) Demonstrate Your Commitment to Growing Your Skills 
+ Many, if not most, tech jobs require ongoing learning to stay current with the latest tools, hardware, programs, and tech trends. Thus, it is a good idea to showcase how you have gone out of your way to keep up. 
+ For example, you may participate in relevant forums or maintain membership in a professional organization relevant to your specialty. Or, you may do side projects on your own time that involve tinkering with new technologies. Mentioning these in your cover letter can boost the perception that you will be able to grow with the company and help them stay on the cutting edge. 
+ 
+ See  cover letter samples in technology . 
+ 
+ Social Networking in the Tech Sector 
+ Social networking has become an imperative for business professionals across all industries. It is no longer considered “optional,” but rather has become an expectation to stay current and make important professional contacts. This is especially true for professionals in the technology sector who need to show that they are staying on top of the latest tech trends and cutting-edge knowledge in their area of expertise. 
+ 1) Professional Networking Platforms for the Tech Sector 
+ i) LinkedIn 
+ LinkedIn  remains the most popular site devoted to professional networking across most employment sectors. This is likely because it excels at offering participants an opportunity to display and market their professional skillsets, connect with leaders and recruiters in their industry, and produce or repost key content to attract engagement with others in their field. 
+ Of particular importance to techies are the groups that you can join, allowing you to quickly become active and engaged with communities most relevant to your specialty, keep up with your dream employers, and follow the latest trends in your field. Examples of great groups to join include IT Jobs, Network Engineers, or Java Programming Forums, just to name a few. 
+ ii) Niche Specific Community Forums 
+ Regardless of what your tech specialties are, chances are there’s an online community forum for that. Many such forums also function as hybrid social media sites that allow users to develop in depth profiles, connect with others in their field, produce content such as blogs, and showcase their level of active participation through user rating systems. 
+ Some are organized around a branded family of products and tools, such as Microsoft Tech Community, some around specific tools such as Oracle Java Forum, and yet others are devoted to specific subsets of the techie community such as StackOverFlow for developers. 
+ Being a regular contributor with a well developed profile on these types of community forums can demonstrate to potential employers that you are up to date in your specialty and that you are going the extra mile to make sure you stay sharp in your area of expertise. In addition, you may well learn of new opportunities or make a professional contact that could help you land your dream job. 
+ 2) Using Social Media: Tips for Tech Sector Professionals 
+ i) Online Portfolio 
+ Many technology professionals these days keep an updated online portfolio of the projects they are most proud of. While some choose to build their own website to share screenshots, links, or snippets of code (make sure you have the rights to publish any content), others choose to maintain content rich profiles on platforms devoted to portfolio development. 
+ An advantage of developing and maintaining an online portfolio of your best projects is that you can link to it on your tech sector resume, giving potential employers a chance to see your best work. This can give you a valuable edge, particularly if you do front end work such as website design. 
+ ii) Follow Industry Leaders and High Tech Company Feeds 
+ It is critical for technology professionals to stay current with trends in their field, particularly in their specific areas of expertise. Following industry leaders on social media sites allows you to have the latest industry news delivered effortlessly. Plus, it gives you a chance to engage on trending posts with comments, potentially allowing you to grow your social network with others who are active in your field. 
+ iii) Consider Producing Content of Your Own 
+ One of the best ways to market yourself to potential employers is to produce meaningful content that provides helpful information to others working in your field. Do you have a special expertise that you would like to share with your colleagues? Do you have a passion for an underutilized tool? Blogging and vlogging offer great opportunities to showcase your knowledge while also enhancing your online presence, reputation in your field, and marketability to top tier employers in your industry. 
+ Resume Center 
+ 
+ Resume Tips 
+ Resume Format 
+ Resume Template 
+ Resume Samples (300+) 
+ Resume Customization 
+ Resume Formatting 
+ Resume Ideas 
+ Resume Mistakes 
+ FAQ About Resume Writing 
+ Resume Writers 
+ Action Verbs | A - Z 
+ Action Verbs | Skills 
+ 
+ Recommended Articles 
+ 
+ How Your Brand Image Affects Your Earning Potential  
+ Top Questions to Ask When Writing Your Resume  
+ How to Avoid the Black Hole: Understand How Applicant Tracking Systems Work  
+ Five Pragmatic Things You Can Do to Make Sure Your Resume Gets Seen by Hiring Managers  
+ My Resume's Not Getting Me Interviews. What Am I Doing Wrong?  
+ Five Ways to Make Your Resume Jump Off the Page  
+ Tidy Up Your Resume: Tips for Streamlining Your Career Progression  
+ 
+ FAQ 
+ 
+ How to Write a Resume? 
+ How to Avoid Having an Outdated Resume? 
+ How Creative Should You Be When Writing Your Resume? 
+ How to Create a Resume That Gets Results? 
+ When to Include an Objective Statement? 
+ How to Turn Around a Failing Resume? 
+ How Long Should Your Resume Be? 
+ How to Write a Good "Work Experience" Section? 
+ 
+ Resume Center 
+ 
+ Resume Tips 
+ Resume Format 
+ Resume Template 
+ Resume Samples (300+) 
+ Resume Customization 
+ Resume Formatting 
+ Resume Ideas 
+ Resume Mistakes 
+ FAQ About Resume Writing 
+ Resume Writers 
+ Action Verbs | A - Z 
+ Action Verbs | Skills 
+ 
+ Become a Contributor 
+ We are always on the lookout for good writers. If you are a resume writer, career coach or human resources professional and would like to contribute, please  get in touch  and earn your badge! 
+ Resume/Cover Letter Templates Download 
+ × 
+ EMAIL * 
+ Send Close 
+ Success Popup 
+ × 
+ Thank you for downloading the template! 
+ Close 
+ 
+ WorkBloom's goal is to help you find work and reach your highest aspirations, one step at a time. 
+ Featured Resources 
+ 
+ Resume Writing 101  __ 
+ Over 300 Resume Samples  __ 
+ Cover Letter Writing 101  __ 
+ Over 200 Cover Letter Samples  __ 
+ The Holland Codes / RIASEC  __ 
+ 
+ Main Sections 
+ 
+ Job Search Center  __ 
+ Networking Center  __ 
+ Cover Letter Center  __ 
+ Resume Center  __ 
+ Interview Center  __ 
+ 
+ Main Sections 
+ 
+ Career Center  __ 
+ Students & New Graduates Center  __ 
+ Contributors  __ 
+ Contact Us  __ 
+ 
+ Copyright © 2006-2020 | All Rights Reserved |  Privacy Policy 
+ × 
+ Send 

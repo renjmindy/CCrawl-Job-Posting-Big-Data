@@ -1,0 +1,178 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Frontend Engineer 
+ [ 
+ Influitive 
+ ](/companies/influitive) 
+ Toronto, Canada 
+ 05 November, 2020 
+ Apply 
+ More jobs from Influitive About Influitive 
+ Salary 
+ C$75K - 105K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ CSS 
+ Docker 
+ GraphQL 
+ JavaScript 
+ Rails 
+ REACT JS 
+ css-in-js 
+ Backbone 
+ 
+ Benefits & perks 
+ 
+ Paid sick days 
+ 
+ If you love learning, tackling tough problems and working with great people, this could be for you. 
+ Role overview 
+ How you’ll make a huge impact here - and for your career: 
+ You’ll be able to work on a product, AdvocateHub, that 8 of the top 10 software companies in the world use today to build communities that deliver efficient revenue growth, activating users and mobilizing advocates to power their growth. In short, we’re a passionate team working hard to build the best customer marketing and advocacy product in the world. 
+ Software and tech debt go hand in hand, that’s why we have a third of our teams investing in our platform to make life easier for developers. You’ll also have two days a month to invest in problems you think are worth solving. So if you love learning, tackling tough problems and working with great people, this could be for you. 
+ Our Technology: 
+ Our core product is written in Ruby on Rails, we’ve created dozens of other services to support our scale as well as speed up our delivery schedule. While we use ruby on rails to serve our apis and store our data, our frontend application is a rich web app built with modern reactjs with a focus on functional and declarative programming. We’re currently in a big push to embrace graphql and expand our usage of typed data. If you’ve ever wanted to get away from the imperative style so often found in javascript codebases, you may find our tech stack particularly interesting. We use the ramdajs functional library everywhere, Gulio Canti’s tcomb for typing, and we’re exploring typescript and algebraic data types for future projects. 
+ We make extensive use of AWS, Docker, Postgres, Mongo, ElasticSearch, Drools, Memcached and Redis within our infrastructure. We use tools like GitLab CI to streamline our deployments and tools like Datadog to see what’s going on under the hood. In addition, we are a big fan of Terraform and in the process of automating all the things! 
+ What an incredible candidate looks like: 
+ React experience 
+ 
+ At least 2 years experience creating dynamic applications using ReactJS 
+ Up to date knowledge of the React ecosystem, including suspense, hooks etc. 
+ Familiarity with graphql and apollo 
+ Experience building/using component libraries 
+ Experience with css-in-js, EmotionCss in particular 
+ Bonus points for integrating react with legacy codebases (backbone/rails) 
+ 
+ General Javascript experience: 
+ 
+ Knowledge of modern build tools, processors, bundles 
+ Familiarity writing and maintaining internal nodejs tooling/scripting 
+ Fully comfortable with npm, Babel, webpack. 
+ 
+ General 
+ 
+ Very comfortable in bash/zsh/fish/your shell of choice 
+ Familiarity with Docker 
+ Resourceful and collaborative, able to act as a mentor to other developers, and want to help those around you succeed. At times, acting as a lead for other developers to complete larger projects 
+ You don’t shy away from detective work and problem solving (even when the answer isn’t obvious); finding a solution to a problem excites you. 
+ Comfortable and willing to spread your knowledge throughout the team 
+ Last but not least, you’ve got a documentation mindset 
+ 
+ What you’ll get from us: 
+ At Influitive, you’ll find an empowering environment where people are inspired to do great work, learning and developing quickly as professionals as they fundamentally change the way modern businesses operate. (Check out our Glassdoor page to see what this looks like in action in the words of our advocates – our employees.) We offer competitive compensation and stock options in the company. Hungry and want to truly feel your impact while working with an amazing team of people? This is the place for you. 
+ At Influitive, we believe that diverse and open teams perform the best. 
+ Fostering an inclusive environment where we can learn and grow from each others’ perspectives is an important element of our growing family. Influitive welcomes and encourages people from all backgrounds, abilities, experiences and perspectives to apply to join our team. We are committed to being an equal opportunity employer, and are happy to provide accommodations upon request at all stages of the interview process. 
+ 
+ [ 
+ Influitive 
+ ](/companies/influitive) 
+ 
+ 50-249 
+ 
+ Influitive is your strategic partner in customer marketing. Our SaaS product and professional services help companies discover, nurture, and mobilize their advocates to accelerate sales and increase customer lifetime value. We believe the companies that put their customer advocates at the heart of their business are the ones that will win. Learn more at influitive.com! 
+ Advertising Series C AWS Functional JavaScript PostgreSQL REDUX Paid Sick Days 
+ View 1 job 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Influitive About Influitive 
+ Salary 
+ C$75K - 105K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ CSS 
+ Docker 
+ GraphQL 
+ JavaScript 
+ Rails 
+ REACT JS 
+ css-in-js 
+ Backbone 
+ 
+ Benefits & perks 
+ 
+ Paid sick days 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Software ArchitectCompetitiveMcKinsey & CompanyLondon, United Kingdom 
+ Digital McKinsey brings together the best of McKinsey’s digital capabilities to help our clients 
+ angular aws css docker html javascript kubernetes node.js react 
+ More Info Apply 
+ Engineering LeadCompetitiveMcKinsey & CompanyLondon, United Kingdom 
+ You’ll be working in London as part of our McKinsey Digital team. 
+ angular aws css docker html javascript kubernetes mongodb node.js react 
+ More Info Apply 
+ Lead Frontend Engineer - Marketing CompetitiveGeminiNew York, NY, US 
+ Help us build the future of money 
+ css html javascript react seo 
+ More Info Apply 
+ Senior Frontend Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

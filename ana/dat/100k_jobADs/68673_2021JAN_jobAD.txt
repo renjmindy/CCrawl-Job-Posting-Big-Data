@@ -1,0 +1,192 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Clojure Engineer 
+ [ 
+ Swirrl 
+ ](/companies/swirrl) 
+ 
+ Remote 
+ 16 October, 2020 
+ Apply 
+ More jobs from Swirrl About Swirrl 
+ Salary 
+ £45K - 75K 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ Clojure 
+ ClojureScript 
+ GCP 
+ GraphQL 
+ JavaScript 
+ React 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Laptop 
+ 30 days annual leave + bank holidays 
+ Equipment budget 
+ 
+ Improving data insights using Clojure in the Public Sector! 📈 
+ Role overview 
+ We’re looking for smart, motivated, thoughtful people to help develop our cloud-based data-publishing/analytics product ☁️. 
+ **  Working at Swirrl ** 
+ We’re a small company of 17 people, and while we’re considered by many to be experts in our field, we know we don’t have all the answers. So we’re looking for intelligent, thoughtful, effective people who are keen to learn from us and our customers and to bring their own ideas and experience to improve the way we work, how our product works, and ultimately how government data works to help society. 
+ We have an informal open collaborative company culture, where everyone contributes. We love what we do. 💛 
+ Until spring 2020 we had a small office in Manchester where about half of the team would work (the rest being remote) 🌍, but since lockdown we've 100% embraced remote and flexible working. We'll continue to monitor the Coronavirus situation but we hope to reintroduce social and work-oriented meetups for the team in 2021. 
+ **  Technology ** 
+ We use various technologies including those listed below. You probably already know some of them, but others you’ll be keen to learn. 
+ 
+ Clojure(Script) 
+ Git 
+ Continuous Integration and Delivery (Travis, CircleCI) 
+ Cloud computing (Amazon Web Services and Google Cloud) and monitoring (Datadog, Pingdom, Pagerduty) 
+ Linux (including Containers) 
+ RDF, Linked Data and Graph Databases such as Stardog 
+ SPARQL and GraphQL 
+ Ruby (we’re phasing out our Ruby components, but we still have some legacy) 
+ Javascript (including React and D3) 
+ Modern and accessible HTML and CSS 
+ R and RStudio 
+ 
+ **  Challenges ** 
+ Some challenges we’ve solved and some we’re still working on that you might find interesting are: 
+ 
+ How to present complex data so more people can interpret them, without adding your own bias 
+ How to make agile development really work in public sector projects 
+ How to serve gigabytes of graph data from a cache instead of the database whilst ensuring it’s correct and doesn’t significantly increase latency on the initial request 
+ How to plan and orchestrate a complex phased site migration with minimal disruption of service 
+ How to combine structured queries and text search to help people find exactly the right piece of data 
+ How to make complicated data selection tasks seem easy (whether you’re on a laptop or a phone, for people with widely varying skills, regardless of any disability) 
+ How to build isomorphic Clojure(script) applications 
+ 
+ **  Benefits ** 
+ 😊  Flexible working  - everyone should have a good work life balance 
+ 🏖  38 days holiday including bank holidays  - take the bank holidays whenever suits you 
+ 💻  High spec laptop  - normally MacBook Pros 
+ 🖥  Working environment budget  - to allow you to work effectively from home 
+ 🌍  Diversity dedicated staff -  culture add is key 
+ 
+ [ 
+ Swirrl 
+ ](/companies/swirrl) 
+ 
+ 10-49 
+ 
+ We believe that making the best possible use of the web is the way to turn useful data into valuable insights 🚀. Swirrl's PublishMyData software platform helps government organisations to make their data more accessible and re-usable, enabling better informed decisions. 🔎 Transforming how government finds data PublishMyData wraps your data in world-class search, browse and discovery technology. Users can explore by topic, map and natural language search. Specialists can also use details of vocabularies and classification schemes to filter data or use the full featured query language for the most precise or complex search requirements. 🧠 Transforming how government understands data PublishMyData helps you annotate, cross-reference and document your data, making it self-describing. All your users can rely on common clear, precise and consistent definitions of every term in your domain, allowing them to apply data with confidence. Datasets can be illuminated and enriched with explanatory notes and details of methodology. 🔌 Transforming how government connects data PublishMyData weaves your data into a graph, breaking it out of silos and joining it to other data from inside and outside your organisation to enable new connections and new comparisons. 📈 Transforming how government uses data PublishMyData makes your data ready to use anywhere: combine data sources to create custom spreadsheets on the desktop; syndicate the data into offline systems; power online apps and visualisations. 🎛 Transforming how government manages data PublishMyData puts you in control of your data. Edit, transform, load, validate and publish your data in teams, or automate and integrate the process into code workflows. Be confident that your publishing is timely, trustworthy and reliable. 
+ React Technology Private AWS GCP GraphQL Laptop 30 days annual leave + bank holidays 
+ View 2 jobs 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Swirrl About Swirrl 
+ Salary 
+ £45K - 75K 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ Clojure 
+ ClojureScript 
+ GCP 
+ GraphQL 
+ JavaScript 
+ React 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Laptop 
+ 30 days annual leave + bank holidays 
+ Equipment budget 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Clojure Engineer£45K - 75KSwirrlUnited Kingdom 
+ Improving data insights using Clojure in the Public Sector! 📈 
+ Remote 
+ aws clojure clojurescript gcp graphql javascript react 
+ More Info Apply 
+ Clojure Developer£50K - 75KOnTheMarketUnited Kingdom 
+ The simple way to search for property is built with Clojure and ClojureScript. 
+ Remote 
+ aws clojure clojurescript elasticsearch 
+ More Info Apply 
+ Senior/Principal Software EngineerCompetitiveBarracudaUnited States of America 
+ Solve interesting problems facing a data retention and search SaaS product operating at a large scale. 
+ Remote 
+ aws clojure docker elasticsearch javascript kubernetes kafka react 
+ More Info Apply 
+ Clojure Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

@@ -1,0 +1,127 @@
+WORK WITH INDIES beta 
+ Newsletter 
+ Browse Jobs 
+ Art & Animation 
+ Audio 
+ Business & Operations 
+ Design 
+ Marketing & Community 
+ Production 
+ Programming 
+ QA & CS 
+ Writing 
+ Post a Job 
+ Back to all jobs See allProgrammingjobs 
+ Senior Gameplay Programmer 
+ Failbetter Games Apply for this Job 
+ Posted 
+ December 8, 2020 
+ Full Time 
+ Anywhere 
+ Remote 
+ We’re Failbetter Games, makers of  Sunless Skies ,  Sunless Sea ,  Mask of the Rose  and  Fallen London . We’re looking for a  senior gameplay programmer  to work with us on an unannounced project. 
+ ‍ 
+ This position is full-time, permanent, and remote. 
+ In this role, your tasks and responsibilities will include: 
+ 
+ Contributing to new Unity games. 
+ Writing robust, readable code. 
+ Tackling a wide variety of programming tasks, including but not limited to AI and pathfinding, user interfaces, narrative systems, audio playback, and 2D physics (we’re a small studio!). 
+ Working with designers, artists and writers to create gameplay features that meet the formal requirements and also, more ineffably, feel good. 
+ Taking part in decisions about system architecture. 
+ Debugging, profiling and optimising code. 
+ Finding creative solutions to sometimes unusual problems (because we make unusual games). 
+ 
+ ‍ 
+ About Us 
+ We’re an award-winning indie studio, and we make atmospheric video games with choice-rich, imaginative stories at their heart. Our most recent game is  Sunless Skies  , a critically acclaimed literary RPG in which Queen Victoria has dragged London into the heavens, and your captain must struggle to survive in an Empire that unfolds across the skies. 
+ ‍ 
+ What We Can Offer 
+ Failbetter is committed to offering employees a safe, respectful environment, a healthy work-life balance, and transparent decision-making. We make our games without crunch and enthusiastically eliminate systemic sources of overtime. We don’t talk over one another in meetings, and we don’t expect all our employees to share the same hobbies and cultural referents. We’ve won a GamesIndustry.biz Best Places to Work award three times now, in  2017 ,  2019  and  2020 . 
+ Further benefits of working here include: 
+ 
+ Flexi-time. 
+ A 35-hour working week. 
+ Twenty-five days of annual leave, in addition to UK public holidays. 
+ Unusually strong provisions for maternity, paternity and adoption leave. 
+ Free games from our friends in the industry. 
+ Optional multiplayer gaming and hangouts. 
+ 
+ ‍ 
+ Remote Work 
+ As a result of the pandemic, we gave up our London office. Remote work has gone well for us, and we no longer plan to re-open an office, although we might meet more occasionally in London, to the extent practical (we already have two team members based outside the UK). 
+ You don’t need to be based in the UK for this role, although your times of work will need to overlap significantly with our core hours: at least five hours of overlap between 10:00 and 17:00 UK time. 
+ We pay London salaries; whether that works in your favour will depend on your location. 
+ ‍ 
+ Requirements (and Non-Essential Extras) 
+ You don’t need a particular degree, or an arbitrary number of years’ experience or shipped titles to work for us. As long as you’re able to do the job well and can demonstrate that in your application, we’d love to hear from you. 
+ For this role, that will mean a good level of familiarity with Unity. 
+ Familiarity with any of the following would be helpful, but this is very much secondary and not required for you to apply: 
+ 
+ Creating shaders and other graphical effects, especially with Unity’s built-in render pipeline or URP. 
+ AI behaviours such as NPC schedules or basic combat. 
+ Ink/Unity integration. 
+ Cross-platform development for PC and consoles. 
+ Anything else you think might be helpful – let us know in your application! 
+ 
+ If you have a life experience or perspective that is not typically represented in video games, please feel free to tell us about that in your application as well. 
+ ‍ 
+ How to apply 
+ Contact us at  jobs@failbettergames.com  by 9AM on 4th January 2021, including all of the following: 
+ 
+ A CV. 
+ The role you’re applying for, in the subject line of your email. 
+ A cover letter in the body of your email. Please use this to let us know what makes you a good fit for the position and why it interests you. 
+ 
+ Also, if you’re unsure whether to apply, we’ll be happy to answer questions – please email us at the above address. 
+ ‍ 
+ About our Games 
+ Mask of the Rose  is a romantic visual novel and prequel to all our other games set in the Fallen London universe and one of two new projects currently in production. 
+ ‍  Mask of the Rose  takes place in 1862, mere months after London was stolen by bats. Londoners are still adjusting to life underground. The old street signs are being erased. New ministries and new festivals are being established. The mysterious Masters of the Bazaar seem to be in charge. 
+ If you’re a fan of the Fallen London universe,  Mask of the Rose  offers a glimpse of events we’ve never shown before, as part of a more personal story. You will get to explore the origins of beloved characters and institutions, as well as encounter brand new mysteries.  Mask of the Rose  is also an excellent introduction for players just getting started with the Fallen London universe. Read more about  Mask of the Rose   here . 
+ ‍ 
+ ‍ 
+ SAIL THE STARS. BETRAY YOUR QUEEN. MURDER A SUN.  Sunless Skies  is a gothic horror roleplay game with a focus on exploration and exquisite storytelling for PC, Mac and Linux. Sunless Skies is our most recent release, following 2015’s  Sunless Sea  and the cult browser game  Fallen London  , which launched in 2009 and is still free to play at  www.fallenlondon.com . 
+ ‍ 
+ Apply for this Job 
+ related jobs 
+ Spry Fox is hiring a Engineering Leadto join their team into work fromAnywhereEngineering LeadSpry Fox | AnywhereLearn More 
+ Jackbox Games is hiring a Senior Gameplay Engineerto join their team into work fromChicago, ILSenior Gameplay EngineerJackbox Games | Chicago, ILLearn More 
+ Jackbox Games is hiring a Fullstack Web Engineerto join their team into work fromChicago, ILFullstack Web EngineerJackbox Games | Chicago, ILLearn More 
+ Herobeat Studios is hiring a Programmerto join their team into work fromAnywhereProgrammerHerobeat Studios | AnywhereLearn More 
+ sunset visitor is hiring a Unity Developerto join their team into work fromCanadaUnity Developersunset visitor | CanadaLearn More 
+ BlitWorks is hiring a Junior Unity Engineerto join their team into work fromBarcelona, ESJunior Unity EngineerBlitWorks | Barcelona, ESLearn More 
+ Indie games are wonderful. So are the people that make them. 
+ Make wonderful games. Be wonderful people. Work With Indies. 
+ Thank you for joining the Work With Indies newsletter! The next issue will arrive on Sunday. 
+ Oops! Something went wrong. Please try again. 
+ *Sign up to receive a weekly digest of new indie career opportunities. 
+ WORK WITH INDIES 
+ We’ve been lucky to have some incredible jobs working at and partnering with some of the biggest brands in video games. 
+ But we’ve never had more fun and been more fulfilled than when we were working with indie game developers. 
+ Everyone in games should have that much fun. 
+ Our hope is that Work With Indies will connect job seekers with the most rewarding, most inspirational, and most fun jobs they've ever had. 
+ NAVIGATION 
+ 
+ Post a Job 
+ Terms 
+ Privacy 
+ RSS 
+ Communities 
+ Nick's Cat 
+ 
+ CONTACT US 
+ 
+ 
+ nathan@workwithindies.com 
+ twitter.com/workwithindies 
+ facebook.com/workwithindies 
+ 
+ ^ 
+ Made by 
+ @natethenate 
+ and 
+ @nsuttner 
+ for people who 
+ indie games. 
+ © 2021  A Lot of Happy LLC 

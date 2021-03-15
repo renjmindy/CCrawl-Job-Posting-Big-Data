@@ -1,0 +1,6 @@
+ Minimum Qualifications 
+ BA/B.Sc. in Computer Science / Engineering or equivalent professional experience. 
+ Strong coding skills & ability to perform in a dynamic, agile & entrepreneurial environment 
+ 6+ years building complex Android applications using Kotlin or Java 
+ Consumer facing, enterprise or big brand app development experience and ideally one or two personal projects or significant open source contributions 
+ Deep knowledge and understanding of client-side architecture and experience building large scale applications 

@@ -1,0 +1,123 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Web Developer II REMOTEPERMANENT 
+ Job Description 
+ Mid-Level Web Developer 
+ Pennebaker, a leading Houston-based strategic branding agency, seeks a Mid-Level Web Developer with strong problem solving skills, and a desire to grow into a senior role within the development team. 
+ You will work alongside our web design and development teams, focusing on frontend development and existing site changes for a major client. You will be responsible for the majority of development of new features, frontend changes, and assisting their internal technical staff with hosting and launch processes. 
+ Duties 
+ 
+ 
+ Front-end web development 
+ 
+ 
+ Craft CMS configuration & building 
+ 
+ 
+ Content migration 
+ 
+ 
+ API integrations 
+ 
+ 
+ Provide estimates for features 
+ 
+ 
+ Automated cross-browser testing 
+ 
+ 
+ Work with client IT department to manage Linux environment 
+ 
+ 
+ Ideal Candidate 
+ The ideal candidate has all of this, but we understand web development is a diverse field. The role is around a 65/35 frontend/backend split, using Craft CMS and a modern frontend stack. If you’ve got what it takes, we want to see your résumé and GitHub profile. 
+ Core Qualifications 
+ 
+ 
+ 5+ years professional development experience 
+ 
+ 
+ HTML5/CSS3 (SCSS) 
+ 
+ 
+ Mobile-first frontend development 
+ 
+ 
+ Javascript/ES6 
+ 
+ 
+ Vue.js/React/Node.js 
+ 
+ 
+ PHP 7.x 
+ 
+ 
+ MySQL/PostgreSQL 
+ 
+ 
+ Git version control 
+ 
+ 
+ Experience With 
+ 
+ 
+ Craft CMS 
+ 
+ 
+ Custom module development 
+ 
+ 
+ Ubuntu/Debian server devops 
+ 
+ 
+ Content management systems (excluding WP) 
+ 
+ 
+ CI/CD pipeline management 
+ 
+ 
+ How to Apply 
+ Email  [email protected]  with a copy of your resume, GitHub profile, and any other relevant information to your skills. 
+ Contact Info 
+ 
+ __ 
+ 
+ Location:  Houston, TX 
+ 
+ __ 
+ 
+ Phone Number:   2106438594 
+ 
+ __ 
+ 
+ Email Address: 
+ __  Posted July 31, 2020 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

@@ -1,0 +1,6 @@
+ Qualifications: 
+Working towards or completion of a Degree in Computer Science, Engineering, Mathematics, Business Analytics or equivalent 
+Advanced level skills with Excel and PowerPoint 
+Basic understanding of technical tools such as Python, R, SQL and Tableau 
+MS or Google or AWS etc. ML application experience 
+Machine Learning algorithms 

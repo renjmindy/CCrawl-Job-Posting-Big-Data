@@ -1,0 +1,328 @@
+__ 
+ 
+ 
+ Go to Work 365 Apps Site 
+ 
+ 
+ Home 
+ 
+ 
+ Documentation 
+ 
+ 
+ Knowledge Base 
+ 
+ 
+ Go to Work 365 Apps Site 
+ 
+ 
+ Home 
+ 
+ 
+ Documentation 
+ 
+ 
+ Knowledge Base 
+ 
+ 
+ Work 365 
+ home / Documentation / Work 365 
+ __ 
+ All Site  Knowledge Base Documentation 
+ Popular Search: Billing ,  Customer Service ,  Reporting 
+ Expand All Collapse All 
+ 
+  Billing & Subscription Management  
+ 
+ Data Model 
+ On-boarding 
+ Prerequisites to Installing and Upgrading Work 365 
+ Creating the Work 365 Service Account 
+ Installing Work 365 
+ Upgrade Work 365 
+ Work 365 Configuration Settings 
+ Work 365 Security Roles 
+ Configuring Manufacturers 
+ Work 365 Providers 
+ 
+ Configuring Providers 
+ Configuring Microsoft PartnerCenter Provider 
+ Setting up the Synnex Provider 
+ Configuring Microsoft PartnerCenter Provider 
+ Setting up the TechData Provider 
+ Work 365 Provider Accounts 
+ 
+ 
+ New Client Setup in Work 365 
+ 
+ Customer Onboarding Workflow 
+ Provisioning a New Account with TechData 
+ Provisioning a New Account with Synnex 
+ 
+ 
+ Sales Order Provisioning 
+ Work 365 Agreements 
+ Work 365 Account Credit Hold 
+ Quickstart Billing and Subscription Management 
+ Product Catalog 
+ 
+ Work 365 Product Service 
+ Product Service Configuration 
+ Configuring the Product Price Lists 
+ Configuring Product Catalog 
+ Non-Recurring Products 
+ Creating Product Bundles 
+ 
+ 
+ Billing Contracts 
+ 
+ Deactivating a Billing Contract 
+ Non-Recurring Billing Contracts 
+ Non-Recurring Items 
+ 
+ 
+ Price Indexation with Work 365 
+ Subscriptions 
+ 
+ Creating Subscriptions 
+ Deactivating and Activating a Subscription 
+ License Subscription 
+ Service Subscription 
+ Usage Subscription 
+ Azure Plan 
+ License Change Logs 
+ 
+ Scheduled License Change Logs 
+ 
+ 
+ 
+ 
+ Invoicing 
+ 
+ Invoicing Overview 
+ Invoicing Run Report 
+ Managing Refunds 
+ How to Manually Generate an Invoice 
+ Billing Schedules 
+ Sending the Work 365 Invoice 
+ Work 365 Provider Invoices 
+ Reconciliation Process in Work 365 
+ 
+ 
+ Billing Time 
+ 
+ Work 365 Roles 
+ Work 365 Resources 
+ Work 365 Tasks 
+ Work 365 Time Logs 
+ Work 365 Services 
+ 
+ 
+ Managing Payments 
+ 
+ Setting up a Payment Processor 
+ 
+ Setting Up Authorize.Net 
+ GoCardless Payment Integration 
+ Stripe Payment Integration 
+ 
+ 
+ Managing Customer Payments: Creating a Payment Profile 
+ Managing Customer Payments: Charging a Customer Invoice 
+ Customers Paying Invoices using PayNow 
+ 
+ 
+ System Management 
+ 
+ Work 365 Jobs 
+ Email Templates 
+ Email Template Enhancements 
+ Add the PayNow link to an Email Template 
+ Provider Invoice Notification Emails 
+ Internationalization 
+ 
+ 
+ Work 365 Taxes 
+ 
+ Setting up taxes in Work 365 
+ Work 365 Tax Services and Categories 
+ Tax Rate Groups 
+ Tax Countries 
+ QuickBooks Online 
+ 
+ 
+ Dashboards 
+ 
+ Work 365 Manager Dashboard 
+ Billing Administrator Dashboard 
+ Work 365 Payments Dashboard 
+ 
+ 
+ Work 365 - Accounting Integrations 
+ 
+ Configuring QuickBooks Online Integration with Work 365 
+ Upgrading the QBD Connector 
+ QuickBooks Online Product Catalog Mapping 
+ Link and Unlink Accounts and Invoices to Accounting Systems 
+ 
+ 
+ Sales Commissions Management 
+ 
+ Configuring Work 365 Incentive Templates 
+ Incentive Plans, Earnings, Payouts 
+ 
+ 
+ 
+ 
+  Work 365 Product Licensing  
+ 
+ Registering the Add-on 
+ Activating the Trial License 
+ Activating the Paid License 
+ Refreshing License 
+ Manual Activation 
+ Updating Registration Details 
+ Activate the Paid License 
+ Cancellation and Refund 
+ 
+ 
+  CRM Productivity  
+ 
+ Report Scheduler 
+ 
+ Report Scheduler - Introduction 
+ Product Version & System Requirements 
+ Activating the License 
+ Uninstallation Process 
+ Assigning Security Roles 
+ Setting Up the Report Scheduler 
+ Scheduling the CRM Data & Email Subscription 
+ Viewing related Emails and related Event Logs 
+ Sending Test Email 
+ Multi-User Scheduling of Single Report 
+ Customizing the Email Template 
+ Maintenance 
+ Upgrading to a Higher Version of the Add-on 
+ Known Issues 
+ 
+ 
+ Record Clone 
+ 
+ Record Clone - Introduction 
+ Product Version & System Requirements 
+ Installation Process 
+ Activating the License 
+ Assigning Security Role 
+ Initial Setup 
+ Error Diagnostics 
+ Uninstallation Process 
+ Release Notes 
+ 
+ 
+ Attachment Manager 
+ 
+ Attachment Manager - Intro 
+ Product Version & System Requirements 
+ Installation Process 
+ Setting Up Azure Blob Storage 
+ Removing “url” from Blocked File Extension for Attachments 
+ Setting Up Attachment Manager 
+ Extracting Attachments from Notes : Automatically 
+ Extracting Attachments from Notes : Manually using onDemand Workflow 
+ RollBack – Moving Attachments Back from Azure Blob to CRM 
+ Extracting Attachments from Emails : Automatically 
+ Extracting Attachments from Emails : Manually using onDemand Workflow 
+ RollBack – Moving Attachments Back from Azure Blob to Emails in CRM 
+ Viewing Attachments in the Entity Form 
+ Error Logging 
+ 
+ 
+ 1 Click PDF 
+ 
+ 1 Click PDF - Introduction 
+ Product Version & System Requirements 
+ Installation Process 
+ Activating the License 
+ Assigning Security Role 
+ Using 1-Click PDF Functionality 
+ Configuring the Entities that need 1-Click PDF 
+ Adding Custom 1-Click Buttons within the Form 
+ Steps to Follow When Getting an Error 
+ Uninstallation Process 
+ Known Issues 
+ 
+ 
+ 
+ 
+  Customer Service  
+ 
+ Self Service 
+ 
+ Self Service Portal Setup 
+ Update Company Logo/Header Text on CRM Portal 
+ Upgrading the Self-Service Portal 
+ Creating the Portal Invitation Template 
+ Self Service Portal Security Roles 
+ Inviting Customers to the Self Service Portal 
+ Configure Products and Subscriptions for the Self Service Portal 
+ Work 365 Agreements on the Self Service Portal 
+ 
+ 
+ Email to Case Automation 
+ 
+ Email To Case - Introduction 
+ Product Version & System Requirements 
+ Installation Process 
+ Activating the License 
+ Setting Up Email to Case Functionality 
+ New Emails received regarding Existing Case 
+ Email to Case Maintenance: Creating Bulk Delete Jobs 
+ Uninstallation Process 
+ Upgrading to a Higher Version of the add-on 
+ Error Diagnostics 
+ 
+ 
+ 
+ 
+  Troubleshooting and Error Analysis - Work 365 Addons  
+ 
+ Troubleshooting and Error Analysis 
+ 
+ 
+ 
+ Email to Case Maintenance: Creating Bulk Delete Jobs 
+ __ 132 views  __ August 16, 2018 __ March 2, 2020 __ 0 
+ Maintenance involves deleting  event log  records created by Email to Case Automation add-on on a regular basis. This can be done by creating  Bulk Delete  jobs from the  Settings ➤ Data Management section of CRM . 
+ Bulk Deleting Emails 
+ Sample Example: Creating Bulk Deletion job which runs every 7-day and deletes the event log records created by Email to Case Automation add-on: 
+ Go-to Settings ➤ Data Management  and click “  New  ”: 
+ Step 1  : Start Bulk Deletion Wizard, click ‘Next’ 
+ Step2  : Define Search Criteria, click ‘Next’ 
+ Step 3  : Select Bulk Deletion Options: 
+ Step 4  : Submit the Bulk deletion job 
+ __ __ __ __ __ 
+ Was this helpful? 
+ __ Yes __ No 
+ 
+ 
+ __ 
+ 
+ 
+ __ 
+ 
+ 
+ __ 
+ 
+ 
+ __ 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms and Conditions 
+ 
+ 
+ © 2018  work365apps.com . All Rights Reserved. 
+ 
+ 

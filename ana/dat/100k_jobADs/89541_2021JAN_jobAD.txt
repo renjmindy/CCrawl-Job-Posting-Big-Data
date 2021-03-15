@@ -1,0 +1,312 @@
+Andrew Leigh's Archived Blog 2004-2010 
+ An archive of blog entries written as an ANU economist 
+ Skip to content 
+ 
+ Home 
+ 
+ <- A Tale of Two Elections 
+ Measuring Teacher Effectiveness -> 
+ Job Training Program, Meet Randomised Trial 
+ Posted on  May 19, 2007  by  andrewleigh 
+ There's a reason policymakers do so few randomised evaluations of job training programs: they tend to show that the programs don't work very well. 
+ 
+ The Labor Market Impacts of Youth Training in the DominicanÂ Republic: Evidence from a Randomized Evaluation 
+ David Card, Pablo Ibarraran, Ferdinando Regalia, David Rosas & Yuri Soares 
+This paper summarizes the findings from the first randomized evaluation of a job training program in Latin America. Between 2001 and 2005 the government of the Dominican Republic operated a subsidized training program for low-income youth in urban areas. The program featured several weeks of classroom instruction followed by an internship at a private sector firm. A random sample of eligible applicants was selected to undergo training, and information was gathered 10-14 months after graduation on both trainees and control group members. Although previous non-experimental evaluations of similar programs in Latin America have suggested a positive impact on employment, we find no evidence of such an effect. There is a marginally significant impact on hourly wages, and on the probability of health insurance coverage, conditional on employment. Finally, we develop an operational definition of the impact of training on "employability" in the context of a dynamic model with state dependence and unobserved heterogeneity. Consistent with our main results, we find no significant impact of the training program on the subsequent employability of trainees. 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Low Wage Work . Bookmark the  permalink . 
+ <- A Tale of Two Elections 
+ Measuring Teacher Effectiveness -> 
+ 10 Responses to  Job Training Program, Meet Randomised  Trial 
+ 
+ Kevin Cox says: 
+ 
+  May 19, 2007 at 7:34 am 
+ I am puzzled by this sort of economic analysis and the conclusions seemingly drawn from them. The implication of the report and the reporting of the report is that Job Training programs are not a good idea on the basis that people who went through them did not get jobs or if they got jobs then they were paid less. 
+ Of course they will not get jobs if there are no jobs to be had. 
+ Surely the thing to look at is - given there are jobs do the people who have job training do better at the jobs than those who don't have them. That is do job training programs make for better workers. 
+ Also measuring how well someone does a job by the amount they get paid is suspect. Is a skilled plumber in India worse than a skilled plumber in Australia because he gets paid less? Are Australian Vice Chancellors better today than they were 20 years ago because their salaries are relatively much higher. 
+ Note I am not arguing for doing job training no matter what. I am arguing that evaluating job training programs on the basis of whether people get jobs and how much they get paid is not evaluating job training but evaluating the total system. The seeming failure of the job training programs is not necessarily the fault of the job training program as it may be very good and produce very good workers who may get paid a lot and all have jobs given a different environment. 
+ Statements like Andrew's "they tend to show that the programs don't work very well" will tend to influence policy makers to dismiss training programs as not worth considering. Economists have to be careful how they frame their conclusions. 
+ 
+ Damien Eldridge says: 
+ 
+  May 19, 2007 at 11:57 am 
+ Perhaps it is more to do with the type of training that is provided. For example, if you viewed general education as job training, would you find a similar result? Does primary and secondary education improve your prospects of getting a job? Does more education tend to improve your salary, at least up to a point? Of course, the purpose of general education is not specifically related to job training. But it probably helps in that rehard, nonetheless. 
+ 
+ derrida derider says: 
+ 
+  May 19, 2007 at 1:35 pm 
+ Kevin is missing the point. The evaluations aren't aimed at finding out whether the trainees got jobs and how much they are paid, but whether they got more jobs or got paid more  than they otherwise would have  - that is, what difference did the programs make. 
+ This turns out to be far from obvious to work out, because you have to accurately infer what would have happened in the absence of the program (the "counterfactual"). Plus you also have to account for any adverse spillover effects on non-participants (something, BTW Andrew, that randomised trials do not address); for example, if conditions make the number of jobs more or less fixed (which is never true in the sufficiently long run but can often be true in the short run) then any extra jobs the participants find will be at the expense of non-participants. 
+ But these difficulties are why the benefits of training programs tend to be substantially  over-  , not under-, estimated. And that a given billion dollars or so on training programs has some benefit is not an argument for them because money doesn't grow on trees - there is such a thing as opportunity cost. That billion dollars could have been spent on things that boost human welfare more - ie are cost-effective. 
+ 
+ Don Arthur says: 
+ 
+  May 19, 2007 at 4:53 pm 
+ "Thereâ€™s a reason policymakers do so few randomised evaluations of job training programs: they tend to show that the programs donâ€™t work very well." 
+ While it's true that the results of experiments have been disapointing, I'd be cautious about over generalising. 
+ For example, if you look at evaluations of America's Job Training Partnership Act (JTPA) programs the results vary depending on the age and gender of the participants. The length of follow up also makes a difference. 
+ Participants aren't a homogenous group, the treatment category of 'training' is extremely broad, and labour market conditions vary. 
+ Concluding that training doesn't have much impact on employment is a bit like concluding that drugs don't have much impact on illness. What kind of illness? Which kinds of drugs? What dose? 
+ If training fails why does it fail? Are some groups of participants unable to benefit from training? Did they actually attend? Is the training of such short duration or low quality that it has no impact on knowledge and skills? Is there a demand for the knowledge and skills the training imparts? Is there some reason employers woudn't employ participants regardless of skills? 
+ It seems to me that it's wrong to treat 'training,' 'participants' and 'labour markets' as if they were they were homogenous and the same in all times and places. Even the best RCTs aren't all that sophisticated. 
+ 
+ Fred Argy says: 
+ 
+  May 20, 2007 at 9:48 am 
+ Andrew, I first became aware of your skepticism on training in Imagining Australia (2004), where you argued that â€˜job retraining for unemployed persons has very little impact on their ability to get a job or to increase their earningsâ€ (p.189). You then went on to advocate earned income tax credits (EMTRâ€™s) â€œto make work more attractiveâ€ as well as wage flexibility. This is still your broad theme. 
+ Your work is always very well researched Andrew but I agree with the comments of others that you may be in danger of over-generalizing about training. My reading of the overall literature (including umpteen OECD papers and Mike Keatingâ€™s recent study) is that the evidence (from randomized evaluations, cross-country studies and time series studies) is inconclusive: some studies look positive and some donâ€™t. They are more positive when the training programs are well designed and targeted (not everyone can be retrained) and part of a broader policy package. 
+ In my view, the broader package should have liberal and interventionist elements. The liberal elements should include some downward wage flexibility and reasonably hard welfare to work programs. They should also be backed by EMTRâ€™s. But a full package should also include interventionist programs - to correct early childhood disadvantages, help older school children and youth who are under-performing and at risk of dropping out early from high school, improve access to key employment-enhancing public services like health, education, training and public transport in low-income areas and development, make workplaces more family-friendly, create jobs in the community and public sector, facilitate mobility and reduce the geographical mismatch between job vacancies and job seekers. 
+ Such a broad mix of liberal and interventionist policies has advantages over one which relies predominantly on liberal policies plus EMTRâ€™s. 
+ First, our low workplace participation problem does not just stem from wage rigidities and a â€˜welfare cultureâ€™ (caused by or insufficient financial incentive to work or lack of work ethic). It also stems from a mismatch (occupational and spatial) between job vacancies and job seekers which needs to be addressed directly. 
+ Secondly, a liberal-EMTR approach attacks joblessness after it has occurred - at the factory gate so to speak â€“ whereas a broader program seeks to act pre-emptively to prevent joblessness from becoming stubborn and sustained by acting earlier in the life cycle. 
+ Thirdly, reducing the cost of labour to employers through the price mechanism is fine as far as it goes. But attacking the participation problem through a broader package which lifts employability should produce more durable and satisfying economic outcomes for the nation. 
+ Fourthly, there are social benefits to consider. The fact that intervention programs do not pay for themselves from a narrow government â€˜financingâ€™ viewpoint does not make them duds if the employment and related social benefits (reduced crime and juvenile delinquency, a happier and more productive workforce, better health outcomes, a perception that the playing field is level etc.) are large enough. 
+ I know, Andrew, that in your writings you take a broad perspective on workforce participation but this is not obvious to readers of your last post when they read your critique of training. 
+ 
+ Kevin Cox  says: 
+ 
+  May 20, 2007 at 6:40 pm 
+ derrida derider perhaps I did not explain myself properly. I understand that these sorts of studies try to find out whether training increased the probability of someone getting more etc. if they do training or do not do training. 
+ What I am objecting to - as with so many reports that I see from economists - is that the way they are presented appears to make assertions such as - "Training Programs are not worthwhile". It is a small step from this to assertions and policies that say education is worthless. 
+ Training programs are useless for obtaining jobs if there are not jobs to be had at the end of the training. We could train people to be nuclear engineers and then say that the training was useless because they did not get a job because there was a ban on nuclear development!!!. It is NOT the training that is useless it is the training for non existent jobs or the unnecessary training that did not add value that is useless. 
+ I am complaining about the impression that we blame the training not the total system. Perhaps economists don't mean this. Perhaps they really mean it is no good training people for non existent jobs or for doing training that is not adding value. I object to the implication that the training is at fault. 
+ What I am objecting to is the headlines that could well follow Andrew's report. 
+ "Training found to be useless" 
+ Economists have to be very very careful in the way they present their findings because ordinary people - like myself - will read their findings and think "training is not a good idea because it does not help people get jobs" whereas it is not the training that is at fault but the fact that there are no jobs or that the training was inappropriate that is at fault. Perhaps the headlines could say 
+ "Superb Training wasted as society has failed to provide the opportunities to use the training" or 
+ "Inappropriate training programs introduced - what was needed was training based on work skills not theory" or… 
+ In other words the fact that people did not get jobs does not mean that training is not a good idea. I am objecting to the emphasis on the training program as being at fault rather than the total system in which the training program was established as being the problem. 
+ 
+ backroom girl says: 
+ 
+  May 21, 2007 at 11:13 am 
+ "It is a small step from this to assertions and policies that say education is worthless." 
+ Funnily enough, my understanding of the literature is that while training programs are often found not to be particularly worthwhile, this is not true for general education, where getting more is generally associated with positive outcomes, at least over time. 
+ My problem with this whole area is that I don't really get how it's appropriate to apply training to a group of people as a 'treatment'. The purpose of training in the end is to equip people with skills that they can then use to get a job and hopefully even a career. But it seems obvious to me that people need to have an interest both in acquiring the skills in question and in applying them in the workplace. To the extent that you are training people who don't have an interest in being trained or in the particular training on offer, of course you wouldn't expect to get a good outcome and the whole process might be completely counter-productive for those people. 
+ So I've always been sceptical about the value of training as a 'one size fits all' solution. I am in favour of lots of training being made available to people who want and need it, but I can't for the life of me see the value on trying to make people do it because someone else has decided that it is what is best for them. Waste of time and money all around, I would have thought. 
+ 
+ Don Arthur says: 
+ 
+  May 21, 2007 at 8:57 pm 
+ "To the extent that you are training people who donâ€™t have an interest in being trained or in the particular training on offer, of course you wouldnâ€™t expect to get a good outcome and the whole process might be completely counter-productive for those people." 
+ This sounds plausible to me. 
+ Mandatory training programs for income support (or UI) recipients might increase employment outcomes in at least three ways: 
+ 1. By improving vocational skills. 
+2. By signaling skills to potential employers (through references or accreditation) 
+3. By increasing job search intensity (claimants who don't want to do the training find jobs instead) 
+ Since there are cheaper and more effective ways to achieve 3 (eg job clubs) BG's point matters. As she says, training isn't something that's done to people -- it's something they have to actively participate in. 
+ One suggestion is that vocational training should be removed from welfare to work systems altogether. If recipients want to do training then they should do it through the mainstream system (eg TAFE). Training should be an option only for those who choose it. 
+ Part of theory behind this is that welfare-recipient-only programs risk stigmatising participants by signaling their 'disadvantaged' status to employers. 
+ 
+ derrida derider says: 
+ 
+  May 22, 2007 at 1:32 pm 
+ Don's spot on. But you should know that amongst administrators (as distinct from economists) "increasing job search intensity" can be code for "making sure the bugger's not working while claiming he's not". And given the incentives we give people to cheat (ie by penalising them financially if they're honest) this is a considerable advantage that "training" which needs frequent attendance (such as Work for the Dole) has that Job Clubs don't have. 
+ 
+ backroom girl says: 
+ 
+  May 22, 2007 at 3:53 pm 
+ DD - I agree with you that Work for the dole may be a good way to "shake the tree" as people in DEWR are fond of saying (though I don't think I would personally want to be trying to run a WfD program, it that is its primary purpose). My comments about training were aimed more at formal training of various kinds, which thankfully we don't usually force people to do in Australia (not any more anyway) - you will be aware that the Government has always said explicitly that the only 'training' that WfD offers is how to get up in the morning. 
+ So in the end I don't have too much of a problem with making people do  something  if they are on unemployment benefits. But I think it is better all around if they are doing something that they themselves believe will help them get a job. If they have no idea about that (or their ideas are really too unrealistic), by all means send them along to Work for the Dole, but don't waste precious public resources giving them vocational training they won't actually use. 
+ The other thing about Job Clubs is that they don't need to be a light option -I think that the original Job Club model (overseas, not in Oz) had people turning up every day until they actually found a job. Clearly they would have to meet some criterion of job-readiness before they were "inserted" into such a regime, but I reckon it might be just as effective a way to sort out the cheats as WfD. 
+ Comments are closed. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ The purpose of this blog 
+ Turning Points 
+ France Wins Clark Medal Again 
+ Of Becker and Mills, Picasso and Friedman 
+ Did the Tampa Stop Beazley Becoming PM? 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ PJD on  Turning Points 
+ 
+ 
+ 
+ 
+ 
+ PJD on  Turning Points 
+ 
+ 
+ 
+ Clinton McMurray on  Turning Points 
+ 
+ 
+ 
+ ChrisPer on  Turning Points 
+ 
+ 
+ 
+ 
+ Daniel Waldenström  on  Turning Points 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+ February 2005 
+ January 2005 
+ December 2004 
+ November 2004 
+ October 2004 
+ September 2004 
+ August 2004 
+ July 2004 
+ 
+ 
+ 
+ Categories 
+ 
+ Australian issues 
+ Australian Politics 
+ Behavioural Economics 
+ Blogging 
+ Book launch stuff 
+ Books 
+ Coming Events 
+ Current Affairs 
+ Development Economics 
+ Eclectic Observations 
+ Econometrics 
+ Economics & Public Policy Course 
+ Economics for Government Course 
+ Economics Generally 
+ Economics of Education 
+ Economics of Elections 
+ Economics of National Security 
+ Economics of the Family 
+ Election 
+ Environmental Economics 
+ Film 
+ Finance 
+ Food and Drink 
+ From the Frontiers 
+ Games 
+ Global issues 
+ Health economics 
+ Indigenous Policy 
+ Inequality 
+ Interesting stuff 
+ Iraq 
+ Jobs 
+ Labour Economics 
+ Law 
+ Low Wage Work 
+ Macroeconomics 
+ Media 
+ Prediction Markets 
+ Randomisation 
+ Religion 
+ Social Capital 
+ Sport 
+ Sports 
+ Tax 
+ Television 
+ Thinktanks 
+ Trade & Development 
+ Travel 
+ Uncategorized 
+ Universities 
+ Urban Economics 
+ US Politics 
+ Web/Tech 
+ Weblogs 
+ What I'm Reading 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  Andrew Leigh's Archived Blog 2004-2010  
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

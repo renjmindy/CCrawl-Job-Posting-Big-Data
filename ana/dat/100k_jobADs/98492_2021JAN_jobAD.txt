@@ -1,0 +1,351 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Android 
+ 
+ Android Freelance Jobs From Brazil 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelance  Android Developers  from  Brazil 
+ ](https://www.workana.com/freelancers/brazil/android) 
+ 3 weeks ago 
+ Product Manager to update and keep custom Wordpress content website 
+ Published: 3 weeks ago  Project duration: 1 - 4 weeks Bids: 18 
+ Maintain website up to date and working well. Execute minor changes, such as ui/ux updates, ab testing, navigate website numbers. 
+ www.frateri.com 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Part time 
+ API Integrations  : Other (Other APIs) 
+ Published by:  R. T. Last reply: 6 days ago  Brazil Payment method:  __Verified 
+ Over USD 40 / hour 
+ Last month 
+ Bot for Instacart 
+ Published: Last month  Bids: 3 
+ This is for a Shopper in Instacart. 
+I need a bot or scrip for get more fast orders. I need select distance. 
+ The system should allow configuring of options / rules such as distance, minimum value to accept the order, number of items.  These options must be configurable within the App for the Buyer.  You must also have a validity of use system, some type of keygen for activation and expiration. 
+ Probably you’ll need create a API for this. 
+iOS and/or Android 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ I need to  : Create an app 
+ Published by:  L. P. Last reply: Last month  Brazil 
+ USD 100 - 250 
+ Last month 
+ Webapp com React / Webapp using React 
+ Published: Last month  Project duration: 1 - 4 weeks Bids: 11 
+ Preciso criar um WebApp com react. Tenho o design. Obrigado. 
+/  I need to create a WebApp with react. I have the design. Thanks. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : Part time 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Promotion - Application to promote your business/company 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  L. M. Last reply: Last month  Brazil 
+ Less than USD 10 / hour 
+ 2 months ago 
+ Instalacao do codigo no android e ios 
+ Published: 2 months ago  Project duration: 1 - 4 weeks Bids: 0 
+ Comprado no  https://codecanyon.net/ 
+Nearby Stores Android - Offers, Events, Multi-Purpose, Restaurant, Market - Subscription & WEB Panel 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : Part time 
+ Roles needed  : Developer 
+ I need to  : Modify an existing app 
+ Published by:  R. R. Last reply: 2 months ago  Brazil 
+ Less than USD 10 / hour 
+ 2 months ago 
+ App Android and Ios 
+ Published: 2 months ago  Bids: 2 
+ I have the screens. I need the application for mobile devices. 
+We will use a tool to be a forum for posting events and actions that will be made available in these applications. 
+ I want information about tool for forum, I test one from IBM. 
+The application can be in lavel or  nodje.js 
+I want the code and documentation. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  C. J. Last reply: 3 days ago  Brazil 
+ USD 250 - 500 
+ 2 months ago 
+ Website and App - Search keyword at internet sites/ Pdf/Word/Txt - ... 
+ Published: 2 months ago  Deadline: 19 Bids: 6 
+ Need a website and an app that will be used to search a keyword in multiple sites and text files 
+ -1) search a keyword or key phrase: 
+1.1) in multiple sites, to be selected by customer: 
+1.1.1) Use Google only 
+1.1.2) User defined sites (user could define using the site/app) and 
+1.2) in PDF, Word and TXT files that user can upload to website 
+ -2) Results are to be presented to user in the website /app 
+2.1) with complete information of where it was found (it also must show the document and page where it was found - for all results) 
+2.2) User can select which results he will use (checkbox) 
+2.3) User can define whether to export to Word file 
+ -3) Must use Object Oriented 
+-4) Must use Python 3 
+-5) Need the source and a quick manual to read the file 
+-6) Need files (duly #commented!) to present to professor 
+ -7) On your anwser please inform the price to develop the Site and the App (Android and iOS) separately, AND the price to develop for both (ie site and app) 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Utility - Utility application (flash, calculator, etc.) 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  R. A. Last reply: 2 months ago  Brazil 
+ USD 1,000 - 3,000 
+ 2 months ago 
+ App function 
+ Published: 2 months ago  Deadline: 8 Bids: 3 
+ We have a marketplace app, Android and iOS, and the business is services appointment. Wellness professionals create peril and post their services with an agenda. 
+We have a special functionality where the professional can share their services with their WhatsApp contacts, Facebook, Instagram and email. 
+ Job for you: 
+1 add Facebook and Google login options. 
+2 Create a functionality where the professional can share their services created in the app. The idea is to give then an opportunity to show the services. 
+The function takes the service code created, after this, the app uploads the photo, price and description of this service and after this, the professional can inform a discount on the page and the price change. After this, the function informs a link that can be shared for the professional. 
+ That are all we need for now 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  L. G. Brazil 
+ USD 1,000 - 3,000 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

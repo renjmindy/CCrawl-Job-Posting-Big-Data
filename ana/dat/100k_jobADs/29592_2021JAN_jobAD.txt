@@ -1,0 +1,102 @@
+WORK WITH INDIES beta 
+ Newsletter 
+ Browse Jobs 
+ Art & Animation 
+ Audio 
+ Business & Operations 
+ Design 
+ Marketing & Community 
+ Production 
+ Programming 
+ QA & CS 
+ Writing 
+ Post a Job 
+ Back to all jobs See allArt & Animationjobs 
+ 3D Animator/Rigger 
+ Lazy River Apply for this Job 
+ Posted 
+ January 12, 2021 
+ Part Time 
+ Anywhere 
+ Remote 
+ Lazy River is a prototype phase First Person Shooter built in Unity. Project lead is Mike Boxleiter ( @fucrate ) and Art lead is Mackenzie Schubert ( @macschubert ). Our previous projects include  Secret Hitler ,  Solipskier ,  Guildlings  and various others.  ‍ 
+ ‍ 
+ Lazy River is a Roguelike-style first person shooter set in a post-catastrophe river valley where giant insects have emerged from the ground and are terrorizing the area. Players will progress down the river through multiple biomes on their custom steamship, managing fuel and power requirements of the ship while defending it from attacks from various over-sized insects and potentially other survivors. Players will also need to scout the shoreline for resources and upgrades to keep their ship running and gather powerful weapons and items to face the increasing challenges of the river. 
+ The game can be played solo or through online or split-screen multiplayer, and death is permanent. Playthroughs are somewhat randomized so players will never know exactly what is waiting around each river bend.  ‍ 
+ ‍ 
+ Job Description 
+ We are looking for an  experienced  animator and rigger who can take models created by Mackenzie, fully rig and animate in Blender, and then create game ready assets for Unity. We are looking mostly for insect/spider/grub and humanoid type behaviors. The workload will be light at the start as we are still in prototype/pre-production phase, but will likely ramp up in the coming months.  ‍  We are currently a self-funded team of two, but we can pay very competitive rates for a candidate with good remote communication skills, strong self-motivation and who can bring a great sense of humor to their work. 
+ ‍ 
+ Qualifications  ‍ 
+ 
+ Blender 2.8 animation/rigging 
+ Implementation of animations in unity  ‍ 
+ 
+ ‍ 
+ Additional Skills 
+ 
+ Discord 
+ 
+ ‍ 
+ Additional Bonus Skills  ‍ 
+ 
+ Writing unity shaders 
+ 
+ ‍ 
+ How to Apply 
+ If you're interested, please email  lazyRiverRecruit@gmail.com  and include the job title that you're applying for in the subject line. Also include: 
+ 
+ Resume 
+ Work Examples / Animation Reel 
+ Your earliest start date 
+ 
+ Example Character 
+ ‍ 
+ Humanoid Insects 
+ ‍ 
+ Large Scale Enemies 
+ ‍ 
+ Mechanical components of run down/makeshift steamwheeler 
+ ‍ 
+ Apply for this Job 
+ related jobs 
+ Impossible  is hiring a Environment Artistto join their team into work fromCanadaEnvironment ArtistImpossible  | CanadaLearn More 
+ Lazy River is hiring a 3D Animator/Riggerto join their team into work fromAnywhere3D Animator/RiggerLazy River | AnywhereLearn More 
+ uvula is hiring a 3D Environment Artistto join their team into work fromAnywhere3D Environment Artistuvula | AnywhereLearn More 
+ inkle is hiring a Hand Drawn Animatorto join their team into work fromAnywhereHand Drawn Animatorinkle | AnywhereLearn More 
+ KO_OP is hiring a 2D Background Artistto join their team into work fromCanada2D Background ArtistKO_OP | CanadaLearn More 
+ Roboto Games is hiring a UI Artist/Generalistto join their team into work fromAnywhereUI Artist/GeneralistRoboto Games | AnywhereLearn More 
+ Indie games are wonderful. So are the people that make them. 
+ Make wonderful games. Be wonderful people. Work With Indies. 
+ Thank you for joining the Work With Indies newsletter! The next issue will arrive on Sunday. 
+ Oops! Something went wrong. Please try again. 
+ *Sign up to receive a weekly digest of new indie career opportunities. 
+ WORK WITH INDIES 
+ We’ve been lucky to have some incredible jobs working at and partnering with some of the biggest brands in video games. 
+ But we’ve never had more fun and been more fulfilled than when we were working with indie game developers. 
+ Everyone in games should have that much fun. 
+ Our hope is that Work With Indies will connect job seekers with the most rewarding, most inspirational, and most fun jobs they've ever had. 
+ NAVIGATION 
+ 
+ Post a Job 
+ Terms 
+ Privacy 
+ RSS 
+ Communities 
+ Nick's Cat 
+ 
+ CONTACT US 
+ 
+ 
+ nathan@workwithindies.com 
+ twitter.com/workwithindies 
+ facebook.com/workwithindies 
+ 
+ ^ 
+ Made by 
+ @natethenate 
+ and 
+ @nsuttner 
+ for people who 
+ indie games. 
+ © 2021  A Lot of Happy LLC 

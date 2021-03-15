@@ -1,0 +1,190 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Scientific Researcher - Data Acquisition Systems 
+ Brookhaven National Laboratory 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Scientific Researcher - Data Acquisition Systems 
+ Brookhaven National Laboratory 
+ [](mailto:?subject=Scientific%20Researcher%20%2D%20Data%20Acquisition%20Systems&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/13731805/scientific-researcher-data-acquisition-systems/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ July 16, 2020 
+ Location: 
+ Upton, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full-time 
+ Why Work at BNL? 
+Brookhaven National Laboratory (www.bnl.gov) delivers discovery science and transformative technology to power and secure the nation's future. Brookhaven Lab is a multidisciplinary laboratory with seven Nobel Prize-winning discoveries, 37 R&D; 100 Awards, and more than 70 years of pioneering research. The Lab is primarily supported by the U.S. Department;of Energy's (DOE) Office of Science. Brookhaven Science Associates (BSA) operates and manages the Laboratory for DOE. BSA is a partnership between Battelle and The Research Foundation for the State University of New York on behalf of Stony Brook University. 
+ Organizational Overview 
+ The mission of the Instrumentation Division is to develop state-of-the-art instrumentation required for experimental research programs at Brookhaven Lab and to maintain the expertise and facilities in specialized high technology areas essential for this work. Development of facilities is motivated by present Brookhaven research programs and anticipated future directions of research. Our work has a significant impact on programs throughout the world that rely on state-of-the-art radiation detectors and readout electronics. 
+ Position Description 
+ Data acquisitions systems are key components of the systems being developed in Brookhaven National Lab's Instrumentation Division. Modern detectors produce increasingly higher data rates and require complex data handling and management. This is achieved by a careful consideration of information density and power trade-offs and it is implemented through a combination of dedicated front-end circuitry, Field-Programmable Gate Arrays (FPGAs), Data Acquisition (DAQ), commodity computing and storage system. The variety and complexity associated with this development require diverse teams working in close contact with the experimenters. 
+ We are seeking a Scientific Associate with a keen interest and some experience in FPGAs and/or Data Acquisition Systems. You will join our growing DAQ team and work in close collaboration with other departments across the Laboratory. The ideal candidate will possess basic knowledge and skills in coding, synthesis, timing analysis, simulation, verification and lab test and debug. 
+ The selected candidate will be placed at the appropriate professional level dependent upon depth and breadth of relevant knowledge and skills, as well as years of relevant experience. 
+** 
+Essential Duties and **  Responsibilities:  ** 
+ ** Working on our team, you will: 
+ 
+ Conduct and support the research, design and development of data acquisition systems 
+ Participate as part of a collaborative team with other departments across the laboratory 
+ Perform and participate in testing and measurements at the laboratory and at experiment sites 
+ 
+ Position Requirements 
+ ** Required Knowledge, Skills, and Abilities:  ** 
+ 
+ Bachelor's degree in Electrical Engineering, Physics or equivalent discipline 
+ Three years' related work experience 
+ Understanding of FPGA design using the latest generation Xilinx/Altera, HDL coding using VHDL and/or Verilog and high-speed transceiver design (GTP/GTX/GTH) 
+ Programming experience using C/C++ or Python in Windows or Linux 
+ Familiarity with standard communication protocols (PCIe, 1/10 Gigabit Ethernet, USB, DDR, AXI) 
+ Good problem-solving skills 
+ Solid verbal and written communication skills. Ability to articulate and present ideas 
+ Ability to work independently, with a team, and in large collaborations 
+ 
+ Preferred Knowledge, Skills, and Abilities: 
+ 
+ Master's degree in related discipline 
+ Printed Circuit Board schematic capture and layout experience 
+ Experience with hardware circuit design including ADCs, DACs, microprocessors, memories, linear/switching voltage regulators 
+ Experience supporting scientific research programs 
+ 
+ At Brookhaven National Laboratory we believe that a comprehensive employee benefits program is an important and meaningful part of the compensation employees receive. Our benefits program includes, but is not limited to: 
+ 
+ Medical Plans 
+ Dental Plans 
+ Vacation 
+ Holidays 
+ Life Insurance 
+ 401(k) Plan 
+ Retirement Plan 
+ Paid Parental Leave 
+ Swimming Pool, Weight Room, Tennis Courts, and many other employee perks and benefits 
+ 
+ Brookhaven National Laboratory (BNL) is an equal opportunity employer that values inclusion and diversity at our Lab. We are committed to ensuring that all qualified applicants receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a veteran, disability or any other federal, state or local protected class. 
+ BNL takes affirmative action in support of its policy and to advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities. We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation. 
+ *VEVRAA Federal Contractor 
+ 
+ 
+ Internal Number: 2258 
+  __  Create a Job Alert for Similar Jobs  
+ About Brookhaven National Laboratory 
+ Brookhaven National Laboratory is a multipurpose research institution funded primarily by the U.S. Department of Energy’s Office of Science. Located on the center of Long Island, New York, Brookhaven Lab brings world-class facilities and expertise to the most exciting and important questions in basic and applied science—from the birth of our universe to the sustainable energy technology of tomorrow. We operate cutting-edge large-scale facilities for studies in physics, chemistry, biology, medicine, applied science, and a wide range of advanced technologies. The Laboratory's almost 3,000 scientists, engineers, and support staff are joined each year by more than 4,000 visiting researchers from around the world. Our award-winning history, including seven Nobel Prizes, stretches back to 1947, and we continue to unravel mysteries from the nanoscale to the cosmic scale, and everything in between. Brookhaven is operated and managed by Brookhaven Science Associates, which was founded by the Research Foundation for the State University of New York on behalf of Stony Brook University, and Battelle, a nonprofit applied science and technology organization. 
+ Connections working at Brookhaven National Laboratory 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Project Scientist 
+ __  Berkeley, 
+ 
+ 
+ 
+ 
+ Lawrence Berkeley National Laboratory 
+ __2 Months Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

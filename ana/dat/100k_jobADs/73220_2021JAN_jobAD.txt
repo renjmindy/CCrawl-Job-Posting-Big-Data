@@ -1,0 +1,860 @@
+[ 
+ ÇøŋfuzëÐ SøurcëÇødë 
+ This is The ÇøŋfuzëÐ SøurcëÇødë, the Software Engineer. That hyper-active, over enthusiastic, radical developer you may have heard about! This is just a simple attempt to put the source code confusion of my life into words! (^_^) 
+ ](https://theconfuzedsourcecode.wordpress.com/ "ÇøŋfuzëÐ SøurcëÇødë") 
+ Menu Skip to content 
+ 
+ Home 
+ About 
+ Github 
+ LinkedIn 
+ Youtube 
+ Flickr 
+ 
+ Search for: 
+ Tag Archives: Career 
+ Let's draw basic 2D Shapes with SkiaSharp… 
+ August 27, 2017 App Development ,  Awesome ,  Mobile App Development ,  Programming ,  Uncategorized ,  Xamarin ,  Xamarin Forms 2D Graphics ,  Animations ,  Arc ,  Basic Shapes ,  Beginners ,  Career ,  Circle ,  Ellipse ,  Line ,  Microsoft ,  Oval ,  Shape drawing ,  Singapore ,  SkiaSharp ,  SkiaSharp basics ,  Square ,  Tech Talk ,  Triangle ,  Udara Alwis ,  Xamarin ,  Xamarin Forms ,  Xamarin Presentation ÇøŋfuzëÐ SøurcëÇødë 
+ So on my last post I shared a recap of my tech talk on SkiaSharp with Xamarin.Forms, check it out if you missed it:  So I gave a Tech Talk on SkiaSharp with Xamarin.Forms… 
+ There I talked about some of the most important parts of the whole 1 hour plus presentation-hands-on-labs session, in which I didn't share all the details of the whole session. I did a pretty comprehensive demo session there, specially about the 2D drawing basics of SkiaSharp, which I didn't highlight in that post. 
+ Basic 2D Shapes with SkiaSharp… 
+ So today I thought of sharing the demos I did there, about basic 2D shapes drawing with SkiaSharp more extensively… 🙂 Since there seem to be a lack of tutorials explaining this topic of, "draw basic Shapes with SkiaSharp", which I think should be more important for beginners! 
+ So buckle up fellas, let's see how we could draw some of the most commonly used 2D shapes with SkiaSharp with ease… 😉 
+ There's many out of the box support for drawing basic 2D Shapes from SkiaSharp, such as DrawCircle(), DrawRectangle(), DrawLine(), DrawOval() and so on many more. You could stright away use those methods or you could even go around it and use Paths and Lines drawing methods of SkiaSharp in order to draw them, which is completely up to you. 
+ But SkiaSharp doesn't have methods for drawing for every single kind of Geometrical shape there is out there. So if you want to draw some kind of complex shape, then you could basically use a combination of Paths and Lines drawing methods in SkiaSharp, which has many kinds of methods you could come up with. 😉 that's the beauty of SkiaSharp! Anyways the choice of drawing methods are totally up to you! 
+ Now if you want to get ahead of yourself, you may grab the live hands on  demo code  I did at the presentation which includes all of the below code, right from my github repo:  https://github.com/UdaraAlwis/XFSkiaSharpDemo 
+ Just on a note, here I will not be discussing basics of SkiaSharp or the setting up of SkiaSharp library or the Canvas properties and behaviours, I'll directly get into the programming of the shapes drawing, but if you want to get a head start, head off to Xamarin SkiaSharp Documentation or my previous post,  So I gave a Tech Talk on SkiaSharp with Xamarin.Forms… 
+ 1. Simple Stroke Line… 
+ private void SkCanvasView_OnPaintSurface
+		(object sender, SKPaintSurfaceEventArgs e)
+{
+	...
+	
+	// Drawing Stroke
+	using (SKPaint skPaint = new SKPaint())
+	{
+		skPaint.Style = SKPaintStyle.Stroke;
+		skPaint.IsAntialias = true;
+		skPaint.Color = SKColors.Red;
+		skPaint.StrokeWidth = 10;
+		skPaint.StrokeCap = SKStrokeCap.Round;
+
+		skCanvas.DrawLine(-50, -50, 50, 50, skPaint);
+	}
+}
+ 
+ We use the  DrawLine  () and pass in the Line's starting point's XY position and and ending point's XY position, while passing in the paint configuration, SKPaint as we wish. 
+   
+ Since SkiaSharp support pure Xamarin.Forms you can straight away run all your native projects without any hassle of handling native code. 
+ 2. Drawing a Circle (Filled) 
+ // Drawing a Circle
+using (SKPaint skPaint = new SKPaint())
+{
+	skPaint.Style = SKPaintStyle.Fill;
+	skPaint.IsAntialias = true;
+	skPaint.Color = SKColors.Blue;
+	skPaint.StrokeWidth = 10;
+
+	skCanvas.DrawCircle(0, 0, 70, skPaint);
+}
+ 
+ We shall be using the  DrawCircle()  whilst passing in the Circle's center XY position and desired  radius  for it. To define whether its a Filled or Non-Filled circle we'll be using Style property in our SKPaint configuration. 
+   
+ Next let's draw a Circle with just the stroke (with filling the inner of the circle). 
+ 3. Drawing a Circle (Un-filled) 
+ We do this by setting the  Style  property to  Stroke ! and everything else is the same 🙂 
+ // Drawing a Circle Stroke
+using (SKPaint skPaint = new SKPaint())
+{
+	skPaint.Style = SKPaintStyle.Stroke;
+	skPaint.IsAntialias = true;
+	skPaint.Color = SKColors.Red;
+	skPaint.StrokeWidth = 10;
+
+	skCanvas.DrawCircle(0, 0, 70, skPaint);
+}
+ 
+   
+ Look how simple eh 😉 
+ 4. A Square Rectangle! 
+ How about a standard Rectangle? We shall use the SKRect object to configure our Rectangle as we wish and draw it up! 
+ // Draw Rectangle
+SKPaint skPaint = new SKPaint()
+{
+	Style = SKPaintStyle.Stroke,
+	Color = SKColors.DeepPink,
+	StrokeWidth = 10,
+	IsAntialias = true,
+};
+
+SKRect skRectangle = new SKRect();
+skRectangle.Size = new SKSize(100, 100);
+skRectangle.Location = new SKPoint(-100f / 2, -100f / 2);
+
+skCanvas.DrawRect(skRectangle, skPaint);
+ 
+ See it in action? 😉 
+   
+ The  square root  of 69 is  8 something  , right? - Drake 😉 lol 
+ 5. Let's draw an Ellipse… 
+ There's many ways to draw an Eclipse, but most common way is to use  DrawOval()  , as well as other kinds of complex drawings. 
+ // Draw Ellipse
+SKPaint skPaint = new SKPaint()
+{
+	Style = SKPaintStyle.Stroke,
+	Color = SKColors.OrangeRed,
+	StrokeWidth = 10,
+	IsAntialias = true,
+};
+
+SKRect skRectangle = new SKRect();
+skRectangle.Size = new SKSize(150, 100);
+skRectangle.Location = new SKPoint(-100f / 2, -100f / 2);
+
+skCanvas.DrawOval(skRectangle, skPaint);
+ 
+   
+ So here we're configuring a Rectangle with  SKRect  , which an Ellipse could be mathematically consist of. 
+ 6. How about an Arc shape? 
+ Well it's basically the same concept as of an Ellipse, but since we need an "Arc", we're going to use some basic mathematical angles to configure the starting angle,  startAngle  and sweep angle,  sweepAngle  of the Arc we're going to draw with a Path object. 
+ // Draw Arc
+SKPaint skPaint = new SKPaint()
+{
+	Style = SKPaintStyle.Stroke,
+	Color = SKColors.BlueViolet,
+	StrokeWidth = 10,
+	IsAntialias = true,
+};
+
+SKRect skRectangle = new SKRect();
+skRectangle.Size = new SKSize(150, 150);
+skRectangle.Location = new SKPoint(-150f / 2, -150f / 2);
+
+float startAngle = -90;
+float sweepAngle = 230; // (75 / 100) * 360
+
+SKPath skPath = new SKPath();
+skPath.AddArc(skRectangle, startAngle, sweepAngle);
+
+skCanvas.DrawPath(skPath, skPaint);
+ 
+ So there we're configuring our Path object to start off from -90 degrees and ends up at 230 degrees from the start point, drawing the Arc shape. Notice the comment I've added there, showcasing how you could also calculate the Arc's drawing angle as a percentage value. 😀 
+   
+ Pretty cool eh! 😉 
+ 7. Did we forget Text? 
+ Did you know you could even draw text on a SkiaSharp canvas right away by using DrawText() method. 
+ // Drawing Text
+using (SKPaint skPaint = new SKPaint())
+{
+	skPaint.Style = SKPaintStyle.Fill;
+	skPaint.IsAntialias = true;
+	skPaint.Color = SKColors.DarkSlateBlue;
+	skPaint.TextAlign = SKTextAlign.Center;
+	skPaint.TextSize = 20;
+
+	skCanvas.DrawText("Hello World!", 0, 0, skPaint);
+}
+ 
+ SkPaint object holds several properties for drawing Text on the canvas, such as TextAlright, TextSize and many more you could play around with.. 
+   
+ Hello World, indeed! 😉 
+ 8. Let' draw a simple Triangle? 
+ Well SkiaSharp doesn't have a out of the box method call for drawing a Triangle, this is where simple Drawing path and points comes into play. 
+ So basically what we do is, we'll draw three lines that's interconnects at the ending points, using DrawPoints() method and pass in the list of Points that'll draw the Lines… 
+ // Draw Rectangle
+SKPaint skPaint = new SKPaint()
+{
+	Style = SKPaintStyle.Stroke,
+	Color = SKColors.DeepSkyBlue,
+	StrokeWidth = 10,
+	IsAntialias = true,
+	StrokeCap = SKStrokeCap.Round
+};
+
+SKPoint[] skPointsList = new SKPoint[]
+{
+	// Path 1
+	new SKPoint(+50,0),
+	new SKPoint(0,-70),
+
+	// path 2
+	new SKPoint(0,-70),
+	new SKPoint(-50,0),
+
+	// path 3
+	new SKPoint(-50,0),
+	new SKPoint(+50,0),
+};
+
+skCanvas.DrawPoints(SKPointMode.Lines, skPointsList, skPaint);
+ 
+ See it first may be? 
+   
+ So now if you think about it, you could actually draw any kind of a Shape with interconnecting Points and Paths using the above method. 😀 
+ 9. Draw any Shape? 
+ It's true earlier step, in Triangle drawing I said you could use the  DrawPoints()  and a  bunch of Points  to draw any kind of shape in SkiaSharp. This is actually a painful, but there's actually a better way… 😉 yaay! 
+ So basically if you needed to draw any kind of shape,  all you need is a Path and a bunch of Points that interconnects . A much easier way to do this is by using a  SKPath  configuration object, using this you could pass define the Starting Point of the drawing path, move around the drawing path with interconnecting Points by using  MoveTo  () and  LineTo  () calls. For this you use the mighty  DrawPath  () method, which you could use to draw anything on the canvas. 😀 
+ // Draw any kind of Shape
+SKPaint strokePaint = new SKPaint
+{
+	Style = SKPaintStyle.Stroke,
+	Color = SKColors.Black,
+	StrokeWidth = 10,
+	IsAntialias = true,
+};
+
+// Create the path
+SKPath path = new SKPath();
+
+// Define the drawing path points
+path.MoveTo(+50, 0); // start point
+path.LineTo(+50, -50); // first move to this point
+path.LineTo(-30, -80); // move to this point
+path.LineTo(-70, 0); // then move to this point
+path.LineTo(-10, +90); // then move to this point
+path.LineTo(+50, 0); // end point
+
+path.Close(); // make sure path is closed
+// draw the path with paint object
+skCanvas.DrawPath(path, strokePaint);
+ 
+ There you go… 
+   
+ So with the use of SKPath, you could draw any kind of 2D shape as you wish… 😀 
+ 10. Final shape? 
+ Oh sorry! there ain't none! 😛 just put up a 10th point for the fun of it! 😉 
+ Well you could grab all of the above code up in my Github repo:  https://github.com/UdaraAlwis/XFSkiaSharpDemo  That right there is actually the live hands on  demo code  I did at my original presentation… 
+ So now get out of here and start drawing 2D with SkiaSharp! 😀 
+ or may be check out my talk on SkiaSharp… 
+ 
+ Shape the love fellas! 😀 
+ -Udara Alwis. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Tumblr 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Leave a comment 
+ So I gave a Tech Talk on SkiaSharp with Xamarin.Forms… 
+ August 20, 2017 Achievements ,  App Development ,  Career ,  Community ,  Programming ,  Success ,  Tech Talk ,  Uncategorized ,  Xamarin ,  Xamarin Forms 2D Graphics ,  Animations ,  Career ,  Microsoft ,  Singapore ,  SkiaSharp ,  Tech Talk ,  Udara Alwis ,  Xamarin ,  Xamarin Forms ,  Xamarin Presentation ÇøŋfuzëÐ SøurcëÇødë 
+ A little back story… 
+ Few months back our company was asked to do a graphics application, so we decided to take a look into graphics rendering libraries available for Xamarin.Forms, given the limited time, we thought of going for SkiaSharp over other alternatives, which we had very little knowledge of how to work with. 
+ But to our surprise we managed to build an incredible app with beautiful interactive graphics and animations completely using SkiaSharp with Xamarin.Forms. So I thought of sharing my experience with the fellow dev community. 😀 
+ Opportunity… 
+ So few weeks back (18th June, 2017), I had the opportunity to give a tech talk-hands on demos, at  Singapore Mobile .Net Developers   meetup, under the topic “2D Graphics Rendering in Xamarin.Forms with SkiaSharp”! 
+ So I'm about to share some of the stuff I presented at this meetup, although I will not be diving into every single detail I talked about there, only be focusing on the key points (mostly on the hands on demo bits). If you're interested in learning SkiaSharp for Xamarin.Forms, go ahead to the the incredible documentation provided by Xamarin:  https://developer.xamarin.com/skiasharp/ 
+ Here's the short recap of the presentation I did over there! 😉 
+ 2D Graphics Rendering in Xamarin.Forms with SkiaSharp! 
+ So let's get started off with the Slideshow Presentation… 
+ And you may grab the live hands on  demo code  I did at the presentation from my github repo:   https://github.com/UdaraAlwis/XFSkiaSharpDemo 
+ Now let's recap… 
+ Behold the incredible 2D Rendering Engine for Xamarin and Xamarin.Forms, SkiaSharp! 
+ An open source project originally developed by  Google  (Thank you <3), from C++ language, by the name  Skia . It is used across a huge variety of Google's products, including web graphics rendering and so on. This is a Immediate mode 2D vector graphics rendering system, this framework allows you to do 2D graphics, handling and manipulating image resources and text and a lot of cool stuff. 😀 
+ So SkiaSharp is the C# and DotNet wrapper of Skia framework allowing us to use it right on top of Xamarin, a mono based open source project, where you could add your own contribution to it via:  github.com/mono/SkiaSharp ! 
+ SkiaSharp for Xamarin.Forms  comes with the  SKCanvasView  that inherits from Xamarin.Forms.View which allows you to use it as just another View in your PCL code, and you don't have to handle any native implementation, everything is accomplished right in your PCL code. 😉 
+ SkiaSharp basics Demo.. 
+ For setting up SkiaSharp, open your nuget manager and install "SkiaSharp.Views.Forms" across your Xamarin.Forms solution, including PCL and platform specific projects. 
+ Add the SKCanvasView to your page as you wish. 
+ <ContentPage
+    x:Class="XFSkiaSharpDemo.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:forms="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+    xmlns:local="clr-namespace:XFSkiaSharpDemo">
+
+    <forms:SKCanvasView x:Name="SkCanvasView" PaintSurface="SkCanvasView_OnPaintSurface" />
+
+</ContentPage>
+ 
+ Notice the  PaintSurface  event, the most important execution point you need to handle in order to render your graphics on the SKCanvas. Every time you need to do any kind of a drawing or rendering of 2D graphics on your Canvas, you need to do it in this event, this method is first invoked when the Page appears on the screen, and then if the orientation changes or you could even manually invoke it by calling   InvalidateSurface()  of your   SkCanvasView . 
+ Let's do that… 
+ public partial class
+	MainPage : ContentPage
+{
+	...
+
+	private void SkCanvasView_OnPaintSurface
+		(object sender, SKPaintSurfaceEventArgs e)
+	{
+		// Init skcanvas
+		SKImageInfo skImageInfo = e.Info;
+		SKSurface skSurface = e.Surface;
+		SKCanvas skCanvas = skSurface.Canvas;
+
+		// clear the canvas surface
+		skCanvas.Clear(SKColors.SkyBlue);
+
+		// retrieve the canvas info
+		var skCanvasWidth = skImageInfo.Width;
+		var skCanvasheight = skImageInfo.Height;
+	}
+}
+ 
+ This event provides you with all the required properties and values to execute your 2D rendering, such as the  SKCanvas  instance, which is the actual canvas you're going to do the 2D drawing on,  SKImageInfo  instance which provides you with details such as actual Width and Height by pixels and so on. 
+ The  Clear()  method call, clears up the canvas surface and prepare it for rendering new content, by passing it a SKColor object, you can paint it with that color. 
+ 2D Graphics with SkiaSharp.. 
+ The  SKCanvasView  is actually a placeholder for the   SKCanvas  which you can access in the  PainSurface()  event. 
+ There's many ways to draw or render stuff on our Canvas, but SkiaSharp also provides us predefined methods that allows us to draw simple types of shapes such as Circles, Lines and Texts, etc. 
+ So usually when you are to do some complex drawings you would be using a combination of all those drawing methods at a given rendering cycle. 
+ Transform Operations… 
+ SkiaSharp allows you to do all kinds of  Translations, Scaling, Rotating and even Skewing  on the Canvas. 
+ Usually on the  Canvas, the X,Y coordinate system  starts from the top left most corner and Y axis increments vertically and X axis increments horizontally. 
+ So lets see how we could manipulate this in our favor and do some basic Translation and Scaling on the Canvas. 
+ private void SkCanvasView_OnPaintSurface
+	(object sender, SKPaintSurfaceEventArgs e)
+{
+	...
+	
+	// move canvas's X,Y to center of screen
+	skCanvas.Translate((float)skCanvasWidth / 2,
+				(float)skCanvasheight / 2);
+
+	// set the pixel scale of the canvas
+	skCanvas.Scale(skCanvasWidth / 200f);
+}
+ 
+ There we are Translating the Canvas's X,Y coordinate system to be started off of the center of the screen, and then Scaling the Canvas to the ratio of 200 pixels according to the actual canvas Width. 
+ SKPaint object.. 
+ SKPaint  object is one of the most important element in SkiaSharp, it holds the configuration for any given type of 2D rendering, so you'll be storing your drawing configuration in that object, such as Color, Style, Stroke Width/Height, Anti Alias and so on. 
+ SKPaint skPaint = new SKPaint()
+{
+	Style = SKPaintStyle.Fill,
+	IsAntialias = true,
+	Color = SKColors.Blue,
+};
+ 
+ There's how you instantiate a SKPaint object which you'll using to render your 2D graphics, it's got all kinds of drawing properties and configurations you can play around with. 🙂 
+ Draw a simple Circle (Filled and Non-Filled) 
+ Let's get our hands dirty with some actual 2D drawing eh! 😉 
+ // Drawing a Circle
+using (SKPaint skPaint = new SKPaint())
+{
+	skPaint.Style = SKPaintStyle.Fill;
+	skPaint.IsAntialias = true;
+	skPaint.Color = SKColors.Blue;
+	skPaint.StrokeWidth = 10;
+
+	skCanvas.DrawCircle(0, 0, 50, skPaint);
+}
+
+...
+
+// Drawing a Circle Stroke
+using (SKPaint skPaint = new SKPaint())
+{
+	skPaint.Style = SKPaintStyle.Stroke;
+	skPaint.IsAntialias = true;
+	skPaint.Color = SKColors.Red;
+	skPaint.StrokeWidth = 10;
+
+	skCanvas.DrawCircle(0, 0, 70, skPaint);
+}	
+ 
+ We shall be using the  DrawCircle()  whilst passing in the Circle's center XY position and desired radius for it. To define whether its a Filled or Non-Filled circle we'll be using Style property in our SKPaint configuration. 
+   
+ Look how simple and beautiful eh 😉 
+ Since SkiaSharp support pure Xamarin.Forms you can straight away run all your native projects without any hassle of handling native code. 
+ To learn more about drawing on the Canvas you can check out the official Documentation:  https://developer.xamarin.com/guides/cross-platform/drawing/ 
+ Handling User Interactions… 
+ When it comes to most Xamarin.Forms components, they do not have touch handlers, however the SKCanvasView comes default with a Touch event handler, **Touch  **and a boolean property to enable or disable Touch Events,  EnableTouchEvents . 
+ You can straightaway use that even and property to handle touch events on the SKCanvas. 
+ <forms:SKCanvasView x:Name="SkCanvasView" 
+		EnableTouchEvents="True" 
+		Touch="SkCanvasView_Touch"
+		PaintSurface="SkCanvasView_OnPaintSurface" />
+ 
+ You can subscribe to it and look for the type of touch event and handle it. 
+ private void SkCanvasView_Touch(
+object sender, SKTouchEventArgs e)
+{
+	if (e.ActionType == 
+		SkiaSharp.Views.Forms.SKTouchAction.Pressed)
+	{
+		_lastTouchPoint = e.Location;
+		e.Handled = true;
+	}
+
+	_lastTouchPoint = e.Location;
+
+	// update the Canvas as you wish
+	SkCanvasView.InvalidateSurface();
+}
+ 
+ As you can see it gives you the Touch point location. You can get a hold of the event and the touch point and you want to do some drawing on the SKCanvasView, then you could call the  InvalidateSurface(). 
+ private SKPoint _lastTouchPoint = new SKPoint();
+private void SkCanvasView_OnPaintSurface
+(object sender, SKPaintSurfaceEventArgs e)
+{
+	...
+	
+	using (SKPaint paintTouchPoint = new SKPaint())
+	{
+		paintTouchPoint.Style = SKPaintStyle.Fill;
+		paintTouchPoint.Color = SKColors.Red;
+		skCanvas.DrawCircle(
+			_lastTouchPoint.X,
+			_lastTouchPoint.Y,
+			50, paintTouchPoint); // 45
+	}
+}
+ 
+ Here it is in action… pretty simple eh! 😉 
+     
+ But this touch handler is very primitive, as in if you want to handle multiple concurrent touch points, or special gesture touches, pan, or zoom and so on, then you need to implement a more advanced low level touch handler, something described as here: 
+ https://developer.xamarin.com/guides/xamarin-forms/application-fundamentals/effects/touch-tracking/ 
+ That way you could simply attach the above **TouchEffect  **just as a normal effect and see the complex touch events in action. 
+ <Grid>
+	<skia:SKCanvasView x:Name="SkCanvasView"
+		PaintSurface="SkCanvasView_OnPaintSurface" />
+		
+	<Grid.Effects>
+		<tt:TouchEffect Capture="True"
+			TouchAction="OnTouchEffectAction" />
+	</Grid.Effects>
+</Grid>
+ 
+ There you go! 😀 
+ Bitmap Image Handling…. 
+ Images are pretty crucial when it comes to  2D Graphics, it gives more of added advantage over your design idea. 
+ As of Xamarin.Forms, the conventional the conventional way of loading an image is, either as an Embedded Resource or Platform Specific Resource. 
+ So in SkiaSharp for Xamarin.Forms, provides you SKBitmap or SKImage for handling your image resources. You have few options to load an image, from a data stream, file path and so on. 
+ The most common way in the sense of Xamarin.Forms architecture, you have the option of loading your Images directly from PCL as Embedded Resources, and then convert it to a SKBitmap or SKImage. 
+ string resourceID = "XFSkiaSharpDemo.Resources.xamarinmonkey.png";
+Assembly assembly = GetType().GetTypeInfo().Assembly;
+
+SKBitmap skBitmap;
+
+using (Stream stream 
+		= assembly.GetManifestResourceStream(resourceID))
+using (SKManagedStream skStream
+		= new SKManagedStream(stream))
+{
+	skBitmap = SKBitmap.Decode(skStream);
+}
+
+skCanvas.DrawBitmap(skBitmap, 
+	SKRect.Create(-50, -50, 100, 100), null);
+ 
+ There you have it, we are using the DrawBitmap() method for drawing the image on canvas. 
+   
+ But if you have a Xamarin.Forms ImageSource at hand and you need to use in SKCanvas, then you have convert it a Stream object and convert it to SKBitmap, which you could use to manipulate or draw using SkiaSharp on the Canvas. 😉 
+ Image Filters.. 
+ Thanks to SkiaSharp you don't have to manually implement image filters at all, since it packs a pretty cool set of Image Filters out of the box. 😀 
+ Here's a small sample of a blur image filter implementation… 
+ // built-it blur image Filter
+var filter = SKImageFilter.CreateBlur(5, 5);
+var skPaint = new SKPaint();
+skPaint.ImageFilter = filter;
+
+skCanvas.DrawBitmap(skBitmap, 
+	SKRect.Create(-50, -50, 100, 100), null);
+ 
+ SKImageFilters  is the class that provides the built in filters. 🙂 You attach that object to a SKPaint configuration and draw the Bitmap with it! 
+   
+ Keep in mind, there's a lot more default Image Filters you could play around with! 😉 
+ drum beat ! 😀 
+ Rendering Animations… 
+ Although Xamarin.Forms packs some pretty decent set of Animations out of the box, we don't much control over the animation for customization. 
+ But using something like a 2D Rendering Engine, we could create whatever the animation or customization as we wish. SkiaSharp of course is a great option, but that being said, there's no direct Animation handling available. Because it's simply a 2D vector rendering engine. 
+ So this means if you want to render some continuous animation with SkiaSharp, you need to handle every single frame of it manually from your code. 
+ So by actual implementation there's few ways to do this, but the actual underlying idea is to repeatedly render a given set of values on the Canvas, preferably triggered by a continuous timer of sorts. 
+ Stopwatch stopwatch = new Stopwatch();
+bool pageIsActive;
+float t;
+const double cycleTime = 1000; // in milliseconds
+
+private void InitAnimation()
+{
+	pageIsActive = true;
+	stopwatch.Start();
+
+	Device.StartTimer(TimeSpan.FromMilliseconds(33), () =>
+	{
+		// calculate t for current 
+		// tick with regards to cycletime
+		t = (float)(stopwatch.Elapsed.TotalMilliseconds
+					% cycleTime / cycleTime);
+		// invoke redraw on canvas
+		SkCanvasView.InvalidateSurface();
+
+		if (!pageIsActive)
+		{
+			stopwatch.Stop();
+		}
+		return pageIsActive;
+	});
+}
+ 
+ The above shows you you could create a simple continuous pulse generator relative to milliseconds and execute a continuous animation. In simple terms the Timer is running each 33 milliseconds,  calculates a value (t) based on the total elapsed milliseconds on the stopwatch, relative to the cycle time (controls the speed of animation) and repeats . Then calls the SKCanvas redraw. Make sure to call this method on  PageAppearing  () to start the timer and set the pageIsActive = false on  PageDisappearing  () to the timer stops. 
+ private void SkCanvasView_OnPaintSurface
+	(object sender, SKPaintSurfaceEventArgs e)
+{
+	... 
+	
+	// calculate circle radius for this cycle
+	float radius = 70 * t;
+
+	// Drawing a Circle Stroke
+	using (SKPaint skPaint = new SKPaint())
+	{
+		skPaint.Style = SKPaintStyle.Stroke;
+		skPaint.IsAntialias = true;
+		skPaint.Color = SKColors.Red;
+		skPaint.StrokeWidth = 10;
+
+		skCanvas.DrawCircle(0, 0, radius, skPaint);
+	}
+}
+ 
+ There as you can see we are drawing the Circle at the given rendering cycle with relative to the generate "t" value at the Timer. So the Circle's radius will keep on varying from 0 - 70, thus creating the animation effect. 
+   
+ Now keep in mind there's nothing to worry about the rendering performance, since SkaiSharp is a rendering engine. 🙂 You can configure the animation even more faster as you wish, it wouldn't make much effect on app's performance! 😉 
+ More Awesome Stuff… 
+ If you want to learn more, check out Xamarin official documentation:  https://developer.xamarin.com/guides/skiasharp/ 
+ If you need to check out sample code and demos :  https://developer.xamarin.com/SkiaSharpFormsDemos/ 
+ This presentation's demo on github… 
+ That's right, you can get the full demo code I've showcased in the presentation up in my github:   https://github.com/UdaraAlwis/XFSkiaSharpDemo 
+ I haven't shared all the demo code I've presented in this blog post, but you call find all of the demo code from my git repo above! 🙂 
+ Conclusion… 
+ Yep that's pretty much it, just get out of here and build something awesome with SkiaSharp! 😉 
+ Share the love! 😀 
+ Cheers! 
+ 
+ Udara Alwis 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Tumblr 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ View all 3 comments 
+ So I gave a Tech Talk at Dot Net Developers Meetup, Singapore hosted by Microsoft… 
+ April 28, 2016 Achievements ,  App Development ,  Career ,  Community ,  Programming ,  Success ,  Tech Talk ,  Uncategorized ,  Xamarin Career ,  Custom Renderers ,  For Rescue ,  Microsoft ,  Singapore ,  Tech Talk ,  Udara Alwis ,  Xamarin ,  Xamarin Custom Renderers ,  Xamarin Forms ,  Xamarin Presentation ÇøŋfuzëÐ SøurcëÇødë 
+ Yeei! 😀 I got an awesome opportunity present a tech talk at Dot Net Developers Meetup in Singapore which was hosted by Microsoft. This happened to be my first ever Presentation on Xamarin, and yeah it was totally awesome. A great enthusiastic crowd and everything went pretty well.. 🙂 
+ Thank you so much for the Organizers and Microsoft for this incredible opportunity, and I'm truly humbled by it. 
+ There I spoke about Xamarin and Xamarin Forms, Xamarin UI Rendering process, Overriding this process through Custom Renderers, and important facts to keep in mind when implementing Custom Renderers in Xamarin Forms. 
+ So I thought of putting out a small article on the Summary of this tech talk on my blog. 😀 
+ Xamarin Forms Custom Renderers for the Rescue… 
+ Here's the slideshow I used during this talk… 
+ Xamarin is… 
+ Xamarin is truly a great platform. It let's you create mobile applications using C# dot net having full  Native Performance as well as Looks and Feels  of each Native Platform. 
+ As you can see in the diagram, thanks to Xamarin now  we can maintain the same code base across all three mobile platforms  , having the individual native UI implementation, which allows us to maintain up to about 70% percent shared codebase. So yeah its all Great. 
+ Xamarin Forms is… 
+ Xamarin Forms, in one single word, is awesome! Its more like the cross platform extension of Xamarin this is the component which brings to life of the concept,  Write once, Run Everywhere, and not Suck  allowing us to share the UI code layer among three platforms. So you no longer need to implement the UI separately for each platform. 
+ Xamarin and Xamarin Forms ? 
+ Some people are confused about these differentiation between Xamarin and Xamarin Forms, let me put it this way… 
+ 
+ Xamarin Forms  is more like the  true cross platform extention of Xamarin . Where as Xamarin Forms provides us a  unified UI Layer  which has all the common UI controls (Layouts, Labels, TextBoxes, Buttons, etc…) of all three mobile platforms, with almost every single common property of those controls. 
+ Still Confused ? Let me explain… 
+ In your left hand side you can see the Native Xamarin architecture where you share the back-end code base, but you have to implement the UI separately for each platoform, allowing us to share upto 70-80% of code base. 
+ Where as in Xamarin Forms you can share almost upto 100% of the code base across all three platforms with the Shared UI Layer. 
+ A little Story about a fresh Xamarin Forms developer… 
+ There's this developer who started developing an application with Xamarin forms, where he's given all the UI sketches and so on. 
+ So he start off with default nice and simple controls in Xamarin Forms and manages to implement the basic UI design of the app. Then he slowly gets into complex UI designs implementations… 
+ So he starts going through all the available properties in these Xamarin Forms Controls, and begins to wonder where are all the properties that he needs to be using in order to customize the app accordingly to the complex design. 
+ So he looks up and down, here and there, wondering where did all the properties go? 
+ Oh boy, he's in trouble, isn't he… He realise **  Xamarin Forms UI controls has limited set of properties for customization**, and its very hard to do complex customization in these controls. 
+ Any Solutions ? 
+ Any solutions ? Well he could always go back to native development, but its late for it now, and it'll put him through a lot of trouble for sure, having to implement in three platforms. 
+ Now that's where Xamarin Forms Custom Renderers comes in for the rescue, let me explain. 
+ Xamarin Forms UI Rendering process… 
+ Each and every UI Control in Xamarin Forms has it's own Native Renderer which renders and maps its Properties and Behaviours to the Native Control level. 
+ So yeah behold the Magic of Xamarin Forms, this happens accordingly to the Native Platforms. This is why we get the Native look and feel and performance with Xamarin Forms. 
+ Take a look at the Diagram here it shows how the default texbox UI Control of Xamarin Forms, which is called  " Entry" control gets rendered down to the Native level through the Renderers . Now focus down through the iOS rendering, where the Entry control gets rendered down to the native  UITextField  control. And on Android and Windows Phone, EditText and UserControl respectively. 
+ Overriding this Rendering Process ? 
+ Xamarin has allowed us to access this Rendering process, which in return allows us to Override this default process and use it for our own requirements. 
+ So by accessing this process we can customize all kinds of properties and behaviours of the Xamarin Forms controls, in each platform according to our needs. 
+ Xamarin Forms Custom Renderers… 
+ So in order  to access this rendering process  we need to create Custom Renderers of our own  by sub classing the base Renderers  Xamarin provides. Thereby it allows us to access and modify the native level properties and behaviours of the Xamarin Forms Controls. 
+ Take a look at the Diagram above, that's how Custom Renderers gets involved in the Rendering process, where as the Xamarin Forms Entry control goes through the Custom Renderer and down to the base renderer, where we control and modify its properties and behaviours in our Custom Renderer as we need. 
+ How to create Xamarin Forms Custom Renderers ? 
+ Just 3 simple steps… 
+ 
+ First you create a Custom Control by   subclassing the default Xamarin Forms  Control  that you need to create a Custom Renderer for. 
+ Second you  consume that subclassed Custom Control  in your Xamarin Forms application. 
+ Thirdly and finally, you  implement the Custom Renderer in the Native levels  project. 
+ 
+ Yeah how hard could it be, just three simple steps! 😉 
+ Here's a Simple Custom Renderer Demo on the house… 
+ 
+ Check out the live demo Custom Renderer I implemented during this presentation on my Github from below,   https://github.com/UdaraAlwis/XFCircleCornersButtonControlDemo 
+ 
+ Important facts to consider WHEN implementing Custom Renderers… 
+ So here are some important facts to keep in mind when you implement Custom Renderers in Xamarin Forms, so that you get a good understanding about how to implement a custom renderer and what to keep in mind… 
+ 1. Always Export your Custom Renderers… 
+ Whenever you create a custom renderer you need to Export it and register it, otherwise Xamarin would not recognise your Custom Renderer and it will go ahead with the default base class Renderer for your Custom Control. 
+ 2. Overriding the OnElementChanged Method… 
+ Whenever a Custom Renderer is being execute, the first method it fires is the  OnElementChanged()  method. 
+ This method gets called when the Rendering process starts for the custom control, which allows us the  opportunity to to tap into the native properties and behaviours  and modify them as we wish by overriding this method. 
+ Also something to keep in mind this method consumes an important parameter,  ElementChangedEventArgs  which contains two important Properties. 
+ 
+ The  OldElement  property represents the Xamarin Forms level Control this renderer was attached to (previously attached to) and 
+ The  NewElement  property represents the Xamarin Forms level Control this renderer is currently attached to, its more of a reference. 
+ 
+ So if you are using any   Event Handlers  in your Custom Renderer, you have to keep an eye out for these two properties in order to  Subscribe and Unsubscribe accordingly  to prevent memory leaks. 
+ 3. Control vs Element Property… 
+ If you think about it,  Custom Renderer is more like a middle guy, in between Xamarin Forms level Control and the Native level Control  , where as it's got hooks for both levels. 
+ So those hooks are represented by these two important properties, Control and Element. 
+ Element property  , it holds a reference to the Xamarin.Forms control that's being rendered, so you could use this property to access anything on the Xamarin Forms level of the custom control, such as Text, WidthRequest, HeightRequest and so on. 
+ Control property  holds a reference to the Native Control being used of the Custom Control. So using this property you can straight away add your native customisations and behaviours to the Rendering Control. 
+ 3. Overriding the whole Native Control ? 
+ What if you want to get rid of the default Native Control associated with your Custom Renderer ?  Create your own Native Control and use it for your Custom Control ? 
+ As an example You need to  have a TextBox with an underneath shadow  , in iOS you can't do this with the default native UITextView, so one way to do it is by adding another UIView along with the UITextView, where as you merge two native views together to form one View. 
+ So for instances like that, you could use the  SetNativeControl() method  , and pass in your custom native view, which will  get rid of the default native view and override it with your custom native view. 
+ But you have to keep in mind something very important, hence you are flushing away the default native control,  you have to handle all the Behaviours (Events)  of your own Native Control manually by yourself and map it back and forth with the Xamarin Forms level. 
+ 4. Creating your own Base Renderer… 
+ For every Xamarin Forms Control, there is a Base Renderer, that maps it to the Native Level and we use those Base Renderers all the time such as Button Renderer, Label Renderer and so on. 
+ Now what if you wanted to create your own Base Renderer ? Let's say you are creating a total complex Custom Control by yourself, and you need to have your own Renderer for it? 
+ YES! it is possible, you just simply have to  derive your Base  Renderer from the generic ViewRenderer,?>  where as you have to pass in your Custom Renderer type name and the associating Native Control type name for the renderer. 
+ Well actually Xamarin doesn't really recommend this, there some instance that you need to move towards this approach. 
+ Let me Share some Wisdom… 
+ 
+ Here's something interesting I really want share with your all is that, Xamarin doesn't really require in depth Mobile Development knowledge but it is very beneficial to have some, specially in scenarios like these Custom Renderer implementation. The more you are aware of the Native development, the more advantages for you. 
+ 
+ So if you are planning to move towards Xamarin mobile development, I would suggest you take a little look at native development as well… Which will prepare you better for your Xamarin Mobile Development journey. 
+ Important facts to consider BEFORE implementing Custom Renderers… 
+ Earlier I mentioned about the facts that you need to keep in mind when you implement Custom Renderers, now let's see what are the facts you need to focus BEFORE you decide to implement Custom Renderers in your application. 
+ 1. Think twice… 
+ You need to think twice before you move on towards Custom Renderer implementation for your Application. Once you get familiar with Custom Renderer implementation, you get very tempted to go for custom renderers all the time even for the simplest requirement, but trust me it is not a good practice at all. 
+ Why I say this is because, and untold truth about Custom Renderers is that, they are a little process intensive. 
+ Therefore it's wise to first of all explore all the possible solutions you could come up with from Xamarin Forms level it self to solve your requirement. So do not over-use Custom Renderers just because of the ease of development. 
+ You could also try out other alternatives such as, 
+ 
+ Xamarin Forms  Controls sub-classing  and forming Custom Control (by merging multiple Controls to create a new Control). 
+ Xamarin Forms  Effects  (which is almost like Custom Renderers but simplified). 
+ 
+ 2. Re-usability… 
+ Whenever you decide to implement a Custom Renderer You need to pay attention to the reusability of it. Make sure to implement it in a way its reusable as much as possible. 
+ When ever you implement Custom Renderers, don't only focus on the current implementation, think ahead and implement all the possible needs in one go, without implementing custom renderers for every single need from one type of control. 
+ Since Custom renderers are process intensive it very important to focus on reusability. 
+ 3. Mapping of Xamarin Forms -> Native Level… 
+ Last but not least before you implement your Custom Renderer always make sure to take a  look down through your Rendering Hierarchy … 
+ Look at the available Properties and Behaviours down to the Native control and see whether it actually fulfils your requirements, in all three platforms (Android, iOS, Windows Phone). That way you will have a better idea on how to implement the Custom renderer more efficiently. 
+ Conclusion… 
+ Custom Renderers plays an extremely important role in Xamarin Forms development. In my opinion it's more like the Magic behind the whole Xamarin Forms Awesomeness. 
+ Don't be scared of Custom Renderer's because they are here for your rescue. 
+ Also finally make sure to keep in mind all the important tid bits I discussed today, so it will help you implement custom renderers more efficiently and effectively. 🙂 
+ AAAANND THAT BROUGHT US TO THE END OF THE PRESENTATION! Hope this was helpful for anyone missed this session and keep in touch everyone! 😀 
+ Once again Thanks for the Organisers for organising this event and Microsoft for hosting. As well as the enthusiastic crowd. 🙂 
+ - Udara Alwis 
+ CODENAME: [ÇøŋfuzëÐ SøurcëÇødë] 
+ https://www.linkedin.com/in/udaraalwis 
+ https://www.facebook.com/confuzed.sourcecode 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Tumblr 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ One comment so far 
+ Nǐ hǎo ma! fellow awesome developers ! ;) 
+ January 31, 2016 Achievements ,  Career ,  Life ,  MySelf ,  Success ,  Uncategorized Career ,  Life ,  New Beginning ,  Singapore ,  Success ,  Work ÇøŋfuzëÐ SøurcëÇødë 
+ Woot Woot! I'm back fellas! Yeah, it's been a while since I have last been in this blog-sphere… 
+ To keep it short, I was extremely busy last few months due to some awesome career related changes in my life. 😀 
+ Probably you are wondering what's with the "Nǐ hǎo ma!", yeah that's how you say hello! in Chinese and I have moved to Singapore fellas! 
+(PS - I'm self learning Chinese these days with the help of some colleagues here lol 😛 ) 
+ Flickr Album of some sceneries in Singapore -  https://www.flickr.com/photos/confuzed-source-code/albums/72157660613627064 
+ Yep, that's right. Last November, I got recruited by a company in Singapore as a Xamarin Mobile Engineer, so I moved to Singapore from Sri Lanka, and settled down there. 😉 
+Hence I couldn't keep in touch with my blog, but now things are completely settling down with my new life in Singapore, I have finally managed to get back on my blog-sphere. 
+ I have been doing some really interesting and challenging work at my new company related to Xamarin, so I'm looking forward to share a lot of cool stuff with you guys in the coming weeks. 
+ So let's get this going fellow Awesome developers! 😀 
+ Cheers! 😉 
+ Stay Awesome! 😀 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Tumblr 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ One comment so far 
+ Udara Alwis 
+ 
+ Search this Blog 
+ Search for: 
+ Udara Alwis | Xamarin Certified Mobile Developer | Singapore 
+ 
+ Recent Posts 
+ 
+ XAMVVM-03 SpecFlow BDD UnitTesting with Xamarin.Forms! 
+ XAMVVM-02 TDD UnitTesting with Xamarin.Forms! 
+ Playing Audio with the MediaManager Plugin for Xamarin.Forms! 
+ So I took up on TravelMonkey, the Xamarin + Cognitive Services Challenge! 
+ Overriding Back Button in Xamarin.Forms Shell… 
+ Welcome to my Blazing Pizza Store! ;) 
+ Restructuring the Xamarin.Forms Shell Default App Template… 
+ Publishing the Nuget of my Color Picker Control for Xamarin.Forms! 
+ I built an Interactive Color Picker Control for Xamarin.Forms! 
+ This is how I built SSRS RDL Reports for Microsoft Dynamics 365… 
+ 
+ Blog Stats 
+ 
+ 596,222 hits 
+ 
+ Categories 
+ 
+ Achievements  (10) 
+ Android  (21) 
+ Animals  (1) 
+ APIIT  (8) 
+ APIIT Knowledge Share  (1) 
+ APIIT Sri Lanka  (6) 
+ App Development  (122) 
+ Awesome  (42) 
+ Azure  (4) 
+ Blazor  (1) 
+ Career  (11) 
+ Cartoons  (3) 
+ Coding  (90) 
+ College  (4) 
+ Community  (4) 
+ Experimentation  (56) 
+ Facebook Apps  (2) 
+ Friends  (4) 
+ Hacking  (24) 
+ Humanity  (5) 
+ I Was There Map  (4) 
+ Innovation  (23) 
+ iOS  (5) 
+ Life  (28) 
+ Microsoft Dynamics  (4) 
+ Mobile App Development  (70) 
+ MySelf  (22) 
+ Newspaper  (4) 
+ Photography  (2) 
+ Programming  (116) 
+ SkiaSharp  (3) 
+ Society  (1) 
+ Sri Lanka  (13) 
+ Sri Lankan Newspaper Cartoons  (3) 
+ Success  (10) 
+ Tech Talk  (4) 
+ Uncategorized  (151) 
+ University Life  (5) 
+ Web Applications  (14) 
+ Web Crawling  (6) 
+ Windows 8 App Development  (10) 
+ Windows Phone  (20) 
+ Windows Store Apps  (7) 
+ Wordpress  (3) 
+ Xamarin  (109) 
+ Xamarin Android  (37) 
+ Xamarin Forms  (66) 
+ Xamarin Hacks  (16) 
+ Xamarin iOS  (30) 
+ Xamarin UWP  (2) 
+ Your Friends Map  (3) 
+ 
+ Tags 
+ 
+ 2D Graphics 
+ Android 
+ Animation 
+ Animation Rendering 
+ Animations 
+ APIIT 
+ App Development 
+ Apps 
+ Awesome 
+ Azure Notification Hub 
+ Azure Push Notifications 
+ Big Data 
+ Career 
+ Cartoons 
+ Checkins 
+ Custom Controls 
+ Design 
+ Dynamics 365 
+ Elements 
+ Facebook 
+ Facebook Check-ins 
+ Final Year Project 
+ Friends 
+ Google Analytics Tracking 
+ Google Forms 
+ Google Forms Hacks 
+ Google Forms Tricks 
+ Gradient Effects 
+ Hacking 
+ Hacks 
+ Icon 
+ Inspiration 
+ iOS 
+ I Was There Map 
+ Life 
+ Lumia 
+ Microsoft 
+ Microsoft Azure 
+ Modal Page 
+ Motivation 
+ MVVM 
+ MVVM Xamarin.Forms 
+ Navigation 
+ Nokia 
+ Places 
+ Project 
+ Simple Hack 
+ Singapore 
+ SkiaSharp 
+ Sri Lanka 
+ Sri Lankan Newspaper Cartoons 
+ Success 
+ Tech Talk 
+ Testing 
+ Touch Handling 
+ Transparency ContentPage 
+ Transparent 
+ Transparent Page 
+ Udara Alwis 
+ UI 
+ UnitTest 
+ Visual Studio 
+ Web Crawling 
+ WebView 
+ Windows 
+ Windows Phone 
+ Xamarin 
+ Xamarin Android 
+ Xamarin Forms 
+ Xamarin Google Analytics 
+ Xamarin iOS 
+ Xamarin PCL 
+ Xamarin Presentation 
+ XFHACKS 
+ ÇøŋfuzëÐ SøurcëÇødë 
+ 
+ Location 
+ Singapore 
+ Search for: 
+ Recent Posts 
+ 
+ XAMVVM-03 SpecFlow BDD UnitTesting with Xamarin.Forms! 
+ XAMVVM-02 TDD UnitTesting with Xamarin.Forms! 
+ Playing Audio with the MediaManager Plugin for Xamarin.Forms! 
+ So I took up on TravelMonkey, the Xamarin + Cognitive Services Challenge! 
+ Overriding Back Button in Xamarin.Forms Shell… 
+ 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 591 other followers 
+ Email Address: 
+ Follow 
+ 
+ Achievements   Android   APIIT   APIIT Sri Lanka   App Development   Awesome   Career   Coding   Experimentation   Hacking   Humanity   Innovation   Life   Mobile App Development   MySelf   Programming   Sri Lanka   Success   Uncategorized   University Life   Web Applications   Web Crawling   Windows 8 App Development   Windows Phone   Windows Store Apps   Xamarin   Xamarin Android   Xamarin Forms   Xamarin Hacks   Xamarin iOS 
+ Website Powered by WordPress.com . 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ %d bloggers like this: 

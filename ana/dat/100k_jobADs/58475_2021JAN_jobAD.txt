@@ -1,0 +1,169 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Front End Engineer 
+ at WalkUp 
+ go back to Developer Jobs 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤40000 - ₤55000 per year 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤40000 - ₤55000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ What is WalkUp about? 🤔 
+ We are on a mission to allow diners to get a table anywhere, anytime. Through our current product we are  seating over 3 million people a month!  We've been featured as Apple's App of Day, have had features in The Evening Standard, TimeOut, BigHospitality and work with awesome brands like  Nando's,   Padella, The Breakfast Club  and more! 
+ App of the day 🤩 (We used to be called WalkIn!) 
+ In 2021 we want to continue  accelerating the business as we shoot for our Series A  investment round. Take a look at the job listing below and if you want to be part of the team that changes the way diners access the best food around the world, get in touch! 
+ Our Tech Stack 📲 
+ 
+ TypeScript with React and React Native on the frontend 
+ Go on the backend (experience not required for this role) 
+ Firestore to store our data 
+ RabbitMQ for our asynchronous message queue 
+ Kubernetes and Docker to schedule and run our services 
+ Airflow, BigQuery and Python for our data processing 
+ GCP for most of our infrastructure 
+ 
+ What are we looking for 🔍 
+ We're hiring a capable and motivated React Native developer to help continue to build a reliable and beautiful app for WalkUp. 
+ WalkUp is seating over 600,000 people a week and grew 800% last year. We've raised over $1m in Seed Funding and are growing our software engineering team. 
+ You'll join 4 other developers, working closely with all sides of the system. We all work together to solve the problems that we face everyday. 
+ We're passionate about clean, testable, self-documenting code, we use React Native exclusively for our Android and iOS, and target the most recent SDKs and technology so we can use the latest and greatest device features available to us. We use Firebase as a backend and Kubernetes to allow us to iterate new features very quickly. 
+ What you will work on: 
+ 
+ As part of the early team of WalkUp you will have a huge impact on the direction of the company and the features that we decide to build. You will mostly be working on our iOS and Android apps however we want someone that has the ability to jump between different areas to help other parts of the team. 
+ 
+ You should apply if: 
+ 
+ You want to build a product that you and everyone you know uses all the time 
+ You love React Native 
+ You've shipped and iterated on at least one app in the App Store 
+ You have worked with custom build process using fastlane (i.e. not expo) 
+ You love turning excellent design into beautiful and easy to use products 
+ You're comfortable working in a team that deals with ambiguity and challenges every day 
+ Have an understanding of the principles of computer science 
+ You have worked with Redux in a production level app 
+ You want to create smooth products with cool animations 
+ 
+ Bonus points for (but not essential) 
+ 
+ Have worked with Firebase before 
+ You have worked with Redux Saga 
+ Built an API or backend in Node.js 
+ Worked with NoSQL 
+ Worked with animations at an advanced level 
+ 
+ What we offer 🥳 
+ 
+ Competitive Salary with Share Options 
+ Huge personal and technical development: We're seating over 600,000 people a week so you'll learn and use the latest technologies to keep us ahead of the curve. 
+ Help shape the future of the company, we're a small team so anyone joining at this stage will be critical to shaping where we end up. 
+ You'll build products used by millions of people 
+ Support and mentorship to help you improve your skills 
+ All the kit you'll need to do your job 
+ Remote work with a London Based office to hang out in (if you like) outside of COVID times. 
+ 
+ Published at 12 Jan 2021 - Expires on 12 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

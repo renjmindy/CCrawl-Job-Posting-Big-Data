@@ -1,0 +1,99 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Infrastructure Technician - Operations Centre 
+ University Health Network 
+ __Toronto, ON 
+ Apply Now 
+ Salary:  $54,151 to $67,689 per year(based on knowledge and experience) 
+ PURPOSE: 
+The position of Infrastructure Technician, Operations Centre, is a strategic role with enterprise-wide impact. As the first responder to system problems, interruptions and security breaches; the position is crucial in ensuring the smooth running of all facets of the enterprise, spanning clinical, education, and research. Key responsibilities include monitoring and optimization of IT infrastructure for both users and systems, and ensuring the proper operation of information systems through proactive measures and simple break/fixes. This role is responsible for maintaining the goals of the enterprise from both an infrastructure and security perspective by monitoring, auditing, reporting, repairing, securing, and optimizing systems and services. 
+ As a member of the Operations Centre team, the position is responsible for making sure that Heterogeneity, Interoperability and Utility are met on a centralized large-scale level for all IT infrastructure areas including, but not limited to, data centres, data closets, satellite and partner facilities, and other areas that house a significant amount of IT hardware. Unplanned, no single system can go out of service without direct impact on hundreds of other central systems and many thousands of client systems. The level of integration and interdependency between systems is complex and varied. Uninterrupted operations is a key function of this position. 
+ The day-to-day responsibilities involve over $20 million dollars of central infrastructure and an equivalent amount of endpoint infrastructure. These systems, together, are responsible for data management in real time for patients visiting in clinics, clinical trials and research functions, processing genomic information, operations for hundreds of web sites, databases for general use, the clinical warehouse, UHN biobanking, tens of petabytes of user data, processing farms and utility infrastructure. Due to the interdependencies, an outage of a single service could easily place clinics into a code gray (internal disaster) as normal practice for data gathering would cease. The position is expected to maintain reliability and redundancy in all systems and practices a key point in order to avoid the time and monetary loss that would come with a single hour of outage. 
+ Key responsibilities include monitoring and optimization of the servers, utility servers, storage, network, teleconference equipment, and patient and facility monitoring systems. The specialist is also responsible for monitoring systems for threats from all attack vectors including perimeter and e-mail. The Operations Centre teams are comprised of infrastructure focused and security focused staff where incidents are escalated to L1 or L2 infrastructure or security support staff as required. 
+ To be successful, the candidate will need to develop strong working relationships with team members, so strong interpersonal skills will be a key skillset. The successful candidate will have a strong focus on development in order to continuously increase their own skills as well as mentor other technical resources in the group. 
+ This position works in shift teams having a primary responsibility focused on the central infrastructure and is a backup to the security focused team member. The overall areas that all facets of responsibility fall into are: Unix Infrastructure and Security, Windows Infrastructure and Security (server and endpoint), Network Infrastructure and Security, Perimeter Security, Telephony Infrastructure, Account Infrastructure, Recovery Infrastructure, Audio-Visual Infrastructure, and Database Infrastructure. 
+ The UHN Digital Operations Centre operates on a 12 hour shift schedule, rotating between the day shift and the night shift on a bi-weekly basis. The cycle includes six (6) 12 hour shifts and one (1) eight (8) hour shift every two (2) weeks. The benefits of this include extra-long days between shift cycles for personal time and cycle adjustment. 
+ RESPONSIBILITIES: 
+Monitors all aspects of the Operations Centre (OC), including infrastructure and security functions. 
+Works with Security Operations and Infrastructure Engineering to ensure systems are properly maintained in a safe and secure manner. 
+Works with other teams within UHN Digital to ensure that OC tools are properly patched and working. 
+Works with other teams within UHN Digital to develop any custom tools necessary to optimize or automate the monitoring, reporting, and break/fix functions of the team. 
+Escalates system and services incidents and problems to the appropriate L2 support group. 
+Provides feedback in optimizing existing IT infrastructure and security protocols through tools and program scripting. 
+Works with Infrastructure Engineering, Architects, Security Operations, and other staff to ensure Operations Centre meet the organization’s ongoing requirements. 
+Works with manager to ensure system infrastructure and security monitoring meets current and future needs. 
+Aids in in-depth investigation of events of interest identified during threat hunt activities or security alerts received from various security technologies as per defined investigation and response procedures. 
+Liaises with appropriate internal stakeholders during the investigation process to determine whether a security incident has occurred, identify the root cause, and provide appropriate recommendations for remediation. 
+Analyzes activity trends in client environments using a mix of tools and analytical methodologies to proactively ensure the optimized use of backend and endpoint infrastructure. 
+Contributes to the development of internal documentation (playbooks & processes) for OC analysts based on correlation rules. 
+Works with Security team members to stay current on developments in the cyber threat landscape to adapt investigation techniques and provide recommendations to the client on responding to and remediating related incidents. 
+Contributes to the tuning and development of SIEM use cases and other security control configurations to enhance threat detection capabilities. 
+Analyzes activity trends in client environments using a mix of tools and analytical methodologies to hunt for threats not otherwise detected by configured security alerts. 
+Documents and escalates incidents (including the event’s history, status, and potential impact for further action) that may cause ongoing and immediate impact to the environment. 
+Performs event correlation using information gathered from a variety of sources within the enterprise to gain situational awareness and determine the effectiveness of an observed attack. 
+Works with Security team members to provide timely detection, identification, and alerts of possible attacks/intrusions, anomalous activities, misuse activities, and distinguish these incidents and events from benign activities. 
+Ensures legal, privacy, and security compliance are followed with the required monitoring. 
+Effectively communicates with manager on Operational Reporting, initiatives, and related progress. 
+Works with the IT Service Management group to define and map out the IT services. 
+Takes responsibilities seriously and consistently meet expectations for quality, service, and professionalism. 
+Keeps track of changes within the organization and adapts to them. 
+Experience in working at a L1 and knowledge in Level 3 Data Centre specification and compliance. 
+Goes beyond the routine demands of the job to continuously look for ways to improve the efficiency or the quality of work/service provided. 
+Effectively applies existing practices or processes to new work situations that result in higher quality work products or enhanced efficiency. 
+Monitors quality of own work. 
+ Quality Related Responsibilities 
+ Contributes to the development, implementation, evaluation and maintenance of quality improvement initiatives which are in alignment with established UHN standards. 
+Monitors quality improvement outcomes on a regular basis; develops action plans to address identified issues. 
+Coaches staff to ensure that continuous quality improvement initiatives are incorporated into day-to-day activities. 
+Supports organizational strategies and initiatives, e.g., operational excellence 
+Works in compliance of the Occupational Health & Safety Act and its regulations, reporting hazards, deficiencies and contraventions of the Act, in a timely manner. 
+ QUALIFICATIONS: 
+At minimum, completion of a bachelor’s degree in Electrical Engineering, Computer Science, or recognized equivalent required. 
+MCSE Certification 
+ITIL Certification 
+RHCSA or RHCE Certification preferred 
+At minimum, over 2 years up to and including 3 years practical and related experience 
+Expertise in infrastructure monitoring software such as Solarwinds 
+Expertise in security monitoring software SIEM such as Splunk 
+Expertise in Service Desk software. Service-Now preferred 
+Expertise in *NIX an asset (Solaris, AIX, Linux) – preferred 
+ If you are interested in making your contribution at UHN, please apply on-line. You will be asked to copy and paste as well as attach your resume and covering letter. You will also be required to complete some initial screening questions. 
+ POSTED DATE:  November 12th 2020 CLOSING DATE: UNTIL FILLED 
+ Posting #866150 
+ University Health Network thanks all applicants, however, only those selected for an interview will be contacted. 
+ For current UHN employees, only those who have successfully completed their probationary period, have a good employee record along with satisfactory attendance in accordance with UHN's attendance management program, and possess all the required experience and qualifications should apply. 
+ UHN is a respectful, caring, and inclusive workplace. We are committed to championing accessibility, diversity and equal opportunity. Requests for accommodation can be made at any stage of the recruitment process providing the applicant has met the Bona-fide requirements for the open position. Applicants need to make their requirements known when contacted. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

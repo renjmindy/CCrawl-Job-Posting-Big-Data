@@ -1,0 +1,208 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Platform Engineer 
+ [ 
+ The RealReal 
+ ](/companies/the-realreal) 
+ San Francisco, CA, US 
+ 22 May, 2019 
+ Apply 
+ More jobs from The RealReal About The RealReal 
+ Salary 
+ $130K - 175K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Elixir 
+ Erlang 
+ Ruby 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health insurance 
+ Generous pto 
+ Full healthcare coverage 
+ Dental insurance 
+ Stock options 
+ 401(k) matching 
+ Pension 
+ Pension contributions 
+ Training 
+ Equal pay policy 
+ Diversity dedicated staff 
+ Child care benefits 
+ Parental leave 
+ Flexible parent working 
+ Commuter flex spending 
+ Mothers room 
+ Stock 
+ Medical 
+ 
+ As a Senior Software Engineer, you’ll design and build software for automating critical operation processes. 
+ Role overview 
+ The RealReal is leading the way in authenticated luxury consignment, online and in real life at our brick and mortar locations. Founded in 2011, we’re growing fast and fundamentally changing the way people buy and sell luxury — a multi-billion dollar industry. With a team of in-house experts who inspect every item we sell, our commitment to authenticity sets us apart and creates a foundation of trust with shoppers and consignors. Our mission to extend the life cycle of luxury items is leading innovation in sustainable fashion. We’re proud to promote the circular economy and to be the first luxury member of the Ellen MacArthur Foundation’s prestigious CE100 USA. 
+ Employees at The RealReal are dedicated, collaborative and innovative, and we’re looking for exceptional talent to join our team. Build your career with us and enjoy 401K matching, health, dental and vision insurance, commuter flex spending, healthcare flex spending, generous PTO, a mother’s room, flexible work hours! 
+ As a Senior Platform Engineer at The RealReal, you'll be a major contributor to The RealReal's e-commerce platform APIs. You'll build APIs to support our consumer-facing website, mobile applications, internal warehouse and administration tools. The person in this role will own critical systems throughout the platform and be responsible for their performance, adding new features, and ensuring that these systems perform optimally. Thinking about high availability and scalability is a must and your unit of measurement should be in microseconds. 
+ This position is based in San Francisco, CA and will report to the Director of Platform. 
+ **  DUTIES & RESPONSIBILITIES ** 
+ 
+ Develop new features throughout the platform, and maintain and enhance existing functionality 
+ Help define and implement JSON REST APIs 
+ Help write documentation for APIs and architectural decisions 
+ Collaborate with senior management, product management, and other engineers in the development of product requirements for the company's software 
+ Mentor other team members to build the company's overall expertise in software development 
+ Work to make The RealReal an innovator in the space by bringing passion and new ideas to work every day 
+ 
+ **  REQUIREMENTS ** 
+ 
+ A degree in computer science/engineering 
+ 5+ years experience with software development 
+ Fluency in the Elixir and/or Ruby languages, including familiarity with the language's metaprogramming features 
+ Experience writing applications using Test Driven Development 
+ A belief that automated testing is essential to building robust, supportable software and a commitment to making automated testing part of the application development process 
+ Familiarity with how asynchronous message queues are used in web applications and, ideally, experience in using such a framework in one or more real-world applications 
+ High degree of familiarity with SQL databases, including data modeling in SQL, the use of indices to improve query performance, and the use of constraints and transactions to maintain data integrity 
+ Practical experience with REST and JSON APIs, and an understanding of how to build applications that serve and consume these sorts of APIs 
+ Familiarity with HTTP standards 
+ Expertise in working with cloud systems, specifically for application hosting, file storage, and other related concerns 
+ Experience integrating with 3rd party services, including social applications (e.g. Facebook, Twitter), communication services (e.g. Twilio, Sendgrid, APNS) 
+ Knowledge of best practices in designing and architecting localized applications 
+ Comfortable working in an environment where innovation and change are the norms 
+ A passion for building great products 
+ 
+ 
+ [ 
+ The RealReal 
+ ](/companies/the-realreal) 
+ 
+ 
+ 250+ 
+ 
+ 
+ San Francisco, CA, US 
+ 
+ 
+ The RealReal is the leader in authenticated luxury consignment. With an expert behind every item, we ensure everything we sell is 100% real. We have 60+ in-house gemologists, horologists and brand authenticators who inspect thousands of items available online each day. As a sustainable company, we give new life to pieces by brands from Chanel to Cartier, and hundreds more, supporting the circular economy. We make consigning effortless with free in-home pickup, drop-off service and direct shipping. At our store in SoHo NYC customers can shop, consign and meet with our experts to learn more about luxury authenticity and sustainability. Across the country at our eight Luxury Consignment Offices, clients can consign and receive free, expert valuations of their luxury goods. 
+ Fashion Public CI/CD Cloud Technology Kafka MySQL Generous PTO Full Healthcare Coverage 
+ View 2 jobs 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from The RealReal About The RealReal 
+ Salary 
+ $130K - 175K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Elixir 
+ Erlang 
+ Ruby 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health insurance 
+ Generous pto 
+ Full healthcare coverage 
+ Dental insurance 
+ Stock options 
+ 401(k) matching 
+ Pension 
+ Pension contributions 
+ Training 
+ Equal pay policy 
+ Diversity dedicated staff 
+ Child care benefits 
+ Parental leave 
+ Flexible parent working 
+ Commuter flex spending 
+ Mothers room 
+ Stock 
+ Medical 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Software Engineer$140K - 180K + EquityPoint Digital FinancePalo Alto, CA, US 
+ Fast growing startup! Doubling our engineering team this year! 
+ ruby ruby on rails 
+ More Info Apply 
+ Principal EngineerCompetitiveShiftUnited States of America 
+ Opportunity to join a fantastic team at a hi-tech fast-paced company which is transforming an entire industry! 
+ Remote 
+ golang python ruby 
+ More Info Apply 
+ Engineering Manager$125K - 145KSmartLogicUnited States of America 
+ This position is fully remote within the United States and its Territories. 
+ Remote 
+ elixir javascript react ruby 
+ More Info Apply 
+ Senior Platform Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

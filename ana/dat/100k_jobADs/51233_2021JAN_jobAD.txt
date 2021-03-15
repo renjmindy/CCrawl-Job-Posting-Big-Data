@@ -1,0 +1,358 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Bootstrap 
+ 
+ Bootstrap Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Bootstrap Developer ? 
+ ](https://www.workana.com/hire/bootstrap) 
+ 27 days ago 
+ Ecommerce Project Development 
+ Published: 27 days ago  Bids: 29 
+ Requirements: 
+ We want to create a multi-platform eCommerce project written in PHP from scratch, with a marketplace similar to Wish, eBay, and/or Amazon. 
+ We don’t want you to use CMS like Prestashop, WordPress, Woocommerce, Dokan, Shopify, etc… It is a personalized code written from scratch using up-to-date technologies. 
+ Characteristics: 
+•    Responsive 
+•    Multilanguage 
+•    Marketplace 
+•    Develop the mobile (android and iPhone) and web applications 
+•    Mobile & Website features 
+o    Find your Vendor or Products 
+o    Users can see a list of products for specific vendors 
+o    Products details 
+o    Order tracking 
+o    Etc… 
+•    Etc … 
+ Skills: 
+•    PHP 
+•    MySQL 
+•    AJAX 
+•    Bootstrap 
+•    jQuery 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Create a new store 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Roles needed  : Developer, Designer 
+ Published by:  E. P. D. Last reply: 2 weeks ago  Dominican Republic 
+ Over USD 3,000 
+ Last month 
+ Evoting application web design for the election of the head of the ... 
+ Published: Last month  Bids: 8 
+ Admin creates a user for voters and candidates for neighborhood chairman, voters can vote by personal through the website and can only do one election in the election, candidates can provide their vision and mission through the candidate's access rights menu and can see the provisional results and final results of the election in chart form pie chart 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  A. P. Indonesia 
+ USD 100 - 250 
+ Last month 
+ Build subscription website 
+ Published: Last month  Bids: 6 
+ Hello, 
+ I am looking for a web developer who can make/clone a website to create the same functionality as  onlyfans.com.  This is a website where people pay a subscription to see their favourite influencers content and the influencers are then paid by us. The influencers will be able to see instantly if someone has subscribed to them. 
+ Experience in LARAVEL, bootstrap etc or similar is desired. It needs to have the capabilities so fans can sign up, pay premium for special content from their favourite influencer etc. The influencers will be able to add their twitter accounts to their profile and boomerang profile photo and be able to upload content such as photos, video's and music files to their profile. 
+ Essential: 
+- Must have front-end and back-end developer skills to add all functionality to the website i.e API payment integration, video, photo files - I am not looking for a design only. 
+ - Must have experience in framework, clean coding, PHP, etc 
+ - I am looking for someone who has time for the job and doesn't see it as a challenge. 
+ - Experienced in logo design (desired but not essential) 
+ *I have bought domain and hosting already. 
+ I am looking for someone who can make the site user friendly in the backend so removing or adding profiles, editing is easy. 
+ Also being able to see information on each profile such as how much each influencer has earned etc is easy to see and user friendly. 
+ The website has to be social with emoji's easily attachable to profiles and other twitter handles. (When you check out the example websites you will see all the capabilities/functions that need to be added.) 
+ I will edit general footer information myself such as terms and conditions, privacy page. 
+ 1. How long it will take you to make the website? 
+ 2. Are you ready to instantly start the project? 
+ 3. Do you have examples of a website you have made similar or with similar functionalities please add the link in your response? 
+ 
+ 
+ 
+ What you will be using to make the website? 
+ 5. How much will this cost? 
+ I look forward to hearing from you 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.), Payment Processor (Paypal, Stripe, etc.), Other (Other APIs) 
+ Roles needed  : Designer, Developer 
+ Published by:  S. Last reply: 6 days ago  United Kingdom 
+ USD 250 - 500 
+ Last month 
+ Development of a Real Estate Broker Company Website 
+ Published: Last month  Deadline: 9 Bids: 18 
+ I need someone to develop static pages using Bootstrap or Foundation (no CMS). About 12 templates. One week turnaround. 
+(Ideally someone who has some experience with Craft CMS o ExpressionEngine, but it's not a requirement.) 
+En busca de un programador que pueda programar un website estatico de aproximadamente 12 plantillas usando Bootstrap o Foundation. Plazo de entrega: 1 semana. (Preferiblemente alguien con experiencia en Craft CMS o ExpressionEngine pero no es un requisito.) 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  L. F. United States 
+ USD 500 - 1,000 
+ 2 months ago 
+ Poc for construction materials quoting site in Next.js & Mongodb 
+ Published: 2 months ago  Bids: 19 
+ I need to finish a proof of concept of a site that helps construction professionals to quote the materials needed in their projects. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  A. C. Last reply: 1 month ago  Argentina Payment method:  __Verified 
+ USD 250 - 500 
+ 3 months ago 
+ Www.sxc.sg 
+ Published: 3 months ago  Bids: 12 
+ Looking for a Long term person to further enhance the system. Let’s meet up and discuss. Have an existing running system and open for future partnership opportunities 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.), Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  C. Last reply: 3 months ago  Singapore 
+ USD 250 - 500 
+ 5 months ago 
+ Jobs Site 
+ Published: 5 months ago  Bids: 8 
+ Create job site using technology like Laravel / PHP, html, css, bootstrap, mysql. 
+ At first it will be a clone of  https://www.infojobs.com.br/ 
+ I'm looking for a professional who can get it ready in no time. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  F. B. C. Last reply: 5 months ago  Brazil 
+ USD 100 - 250 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

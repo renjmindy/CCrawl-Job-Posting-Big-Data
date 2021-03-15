@@ -1,0 +1,61 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Analyst, ETRM 
+ TransAlta 
+ __Calgary, AB 
+ Apply Now 
+ “Powering Economies and Communities” 
+ TransAlta owns, operates and develops a diverse fleet of electrical generation assets in Canada, the United States and Australia, providing municipalities, industries and businesses with safe, low-cost and reliable clean electricity. 
+ For over 100 years, TransAlta has been a responsible operator and proud community-member where its employees work and live. We are committed to fostering a dynamic, productive and safe work environment. Our employees contribute to a diverse, open, and transparent culture with clear accountabilities, strong leadership and challenging opportunities for personal career growth. For more information about TransAlta, visit our website at, www.transalta.com 
+ Summary: 
+An exciting and challenging opportunity within TransAlta’s Commodity Risk Management team to take a lead technical role with respect to TransAlta’s enterprise trading and risk management (ETRM) landscape that supports our energy trading and marketing functions. Working closely with your peers in Risk, Trading, and IT, you will draw on your experience and technical skills to setup, configure, and integrate settled and forward price curves within TransAlta’s systems environment. As well, you will grow your technical and business process knowledge related to the ETRM system. 
+ Accountabilities: 
+Work within Microsoft SQL, ZEMA, and Allegro to setup, maintain and trouble shoot price curve integration. Commodity products include power, financial congestion, natural gas, and emissions. As well, work with Quantitative Analysts to implement structured shapes and complex curve logic. 
+Monitor system performance as well as completeness and accuracy of data. Collaborate with the various system stakeholders to ensure that the system meets expectations. 
+Grow technical and business process knowledge related to TransAlta’s ETRMS environment. Investigate and resolve issues, maintain existing functionality, and learn to setup new business initiatives (i.e., deal entry, valuation, risk metrics, and custom report / view development). 
+Play an active role in the ETRM system patches and upgrades. 
+ Qualifications: 
+3-5 years of working experience with ETRMs - - strong familiarity with Allegro would be an asset. 
+3-5 working experience optimizing SQL queries and procedures. 
+Experience with ZEMA would be an asset. 
+Proficiency with Matlab, Python, and/or ‘R’ would be an asset. 
+Bachelor’s degree or similar in one of Information Technology, Data Science, Finance, Economics, or Mathematics. 
+Knowledge of power, natural gas, and emissions markets would be an asset. 
+Strong interpersonal, verbal and written communication skills. 
+ Our comprehensive and flexible benefits, competitive compensation, incentive and rewards programs form the foundation of TransAlta’s excellent employment proposition. 
+ Our commitment is to attract and retain the best talent. Some positions may require the successful completion of one or more background checks such as criminal, medical, or compliance. If these verifications are needed, they will be indicated on the job posting. 
+ Come on board! 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

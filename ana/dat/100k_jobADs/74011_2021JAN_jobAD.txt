@@ -1,0 +1,165 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Golang Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ GolangWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Clojure(Script) Developer 
+ [ 
+ Elcom 
+ ](/companies/elcom) 
+ 
+ Remote 
+ 08 September, 2020 
+ Apply 
+ More jobs from Elcom About Elcom 
+ Salary 
+ £35K - 60K 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ CSS 
+ Clojure 
+ ClojureScript 
+ HTML 
+ React 
+ Reagent 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Paid sick days 
+ Daily stand up 
+ 
+ Help us develop our innovative range of next generation spend management solutions 
+ Role overview 
+ At ELCOM, we focus on developing flexible technology to help our customers simplify, optimise and energise their Supply Chain. 
+ Our technology quickly adapts to business needs, improving performance and stimulating procurement teams thus, saving time, money and hassle. 
+ Role 
+ You will be part of a small team building Clojure based API backends and re-frame based UI frontends to deliver next generation spend management products. 
+ All experience levels considered. Maybe you're an experienced Clojure(Script) developer looking for you next challenge. Or if you're working with other platforms and languages but you use Clojure on personal projects, and would love to work with it professionally, this could be the opportunity for you! 
+ Key Skills 
+ 
+ Clojure(Script) 
+ Rest API design and implementation 
+ HTML/CSS 
+ Reagent/re-frame 
+ Relational databases/SQL 
+ Git 
+ 
+ 
+ [ 
+ Elcom 
+ ](/companies/elcom) 
+ 
+ 50-249 
+ 
+ Elcom provides digital and automated spend management solutions covering contracting, purchasing, invoice handling, inventory management and innovative supplier solutions. We see our solutions as a catalyst for tangible and sustainable community benefit. 
+ Technology Private ElasticSearch MySQL REST APIs re-frame Paid Sick Days Daily Stand Up 
+ View 1 job 
+ Engineers who find a new job through Golang Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Elcom About Elcom 
+ Salary 
+ £35K - 60K 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ CSS 
+ Clojure 
+ ClojureScript 
+ HTML 
+ React 
+ Reagent 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Paid sick days 
+ Daily stand up 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Full Stack Web Developer$65K - 75KSpatial Informatics GroupUnited States of America 
+ SIG is searching for a Full Stack Web Developer to build decision support tools 
+ Remote 
+ sql clojure clojurescript java lisp react reagent geoserver 
+ More Info Apply 
+ Senior Frontend EngineerCompetitiveCleoUnited Kingdom 
+ On a mission to fight for the world's financial health! 
+ Remote 
+ css html javascript react react native 
+ More Info Apply 
+ Clojure Engineer£25K - 60K + EquityStatsBombUnited Kingdom 
+ Clojure developers of all levels to support back end data processing pipelines and ClojureScript web apps. 
+ Remote 
+ clojure clojurescript kafka postgresql react re-frame kafka streams 
+ More Info Apply 
+ Clojure(Script) Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Go jobs Golang jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Golang articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

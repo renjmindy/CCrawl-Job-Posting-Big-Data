@@ -1,0 +1,211 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Data Science Specialist 
+ University of California, San Francisco 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Data Science Specialist 
+ University of California, San Francisco 
+ [](mailto:?subject=Data%20Science%20Specialist&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/13912404/data-science-specialist/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ September 18, 2020 
+ Location: 
+ San Francisco, California 
+ __ Show Map 
+ Employment Type: 
+ Full-time 
+ Organization Type: 
+ Higher Education Institution 
+ Required Education: 
+ Bachelor’s 
+ Specialist Recruitment: Amorim 2020 
+ Summary: 
+This is an opportunity for a specialist position in the Department of Neurology and Weill Institute for Neurosciences at the University of California, San Francisco. Our Neurocritical Care research program is focused on advancing our understanding about the physiology of coma and neurological recovery after injury caused by trauma, cardiac arrest, or epilepsy. 
+ Our Neurocritical Care research group employs state-of-the art statistical and machine learning approaches to decode information from massive surface and invasive brain recordings (EEG) as well as integrate this information to neuroimaging and electronic health records datasets. We are pursuing innovative and rigorous scientific research involving consciousness circuits in the brain, seizure prediction and modeling, as well as the effects of medications in brain rhythms and functional recovery after severe injury. You will join a dynamic and multi-disciplinary group of physicians, neuroscientists, and data scientists developing cutting-edge technologies and applications that leverage advanced signal processing, time-series prediction modeling, quantitative neuroimaging, using both traditional machine learning as well as deep learning approaches. We are a diverse team with members from various ethnic, gender, and language backgrounds who are poised to advance methods and knowledge in the neurosciences as well as promote the professional and personal development of all members of our team. 
+ This is a specialist position with a focus on Data Science. Therefore, the position is designed to correspond closely to the Data Scientist role in industry and academia. 
+ Time range: This position is funded for one year at full-time (100% time), and possibly longer depending on additional funding availability. 
+ Qualifications: 
+ Required 
+ 
+ Junior rank: Bachelor’s degree in a field related to computer science, statistics, mathematics, electrical engineering, or computational biology/neuroscience. 
+ Assistant or Associate ranks: Master’s degree (or equivalent degree) in a field related to computer science, statistics, mathematics, electrical engineering, or computational biology/neuroscience or five to ten years of relevant experience. 
+ Full rank: Terminal degree (or equivalent degree) in a field related to computer science, statistics, mathematics, electrical engineering, or computational biology/neuroscience or ten or more years of relevant experience. 
+ Demonstrated proficiency programming in MATLAB or Python as well as ability to create shells for automated analysis of data. 
+ Knowledge and familiarity working with Jupyter notebooks and familiarity with version control (GitHub/Git). 
+ Ability to work independently and assess need for assistance from supervisor 
+ Organizational and efficiency skills including: planning and decision-making abilities to complete assigned duties in a timely manner, attention to detail, logical thinking/analytical abilities and problem-solving skills. 
+ Enthusiasm, adaptability, good communication skills, and ability to work with a diverse team. 
+ Ability to work and interact positively with people from diverse backgrounds. 
+ 
+ The candidate must possess the required qualifications by the time of appointment and the candidate’s CV and/or cover letter must list qualifications (or if pending) upon submission. 
+ Preferred 
+ 
+ Masters or greater degree in a related science, or an equivalent combination of education and experience in computer science, statistics, mathematics, electrical engineering, or computational biology/neuroscience or related field. 
+ Knowledge or experience with signal processing analysis such as fourier and wavelet methods using EKG, EEG, NIRS, or other physiologic time-series. 
+ Knowledge or experience with deep learning frameworks such as TensorFlow, Keras, or PyTorch. 
+ Knowledge of high-performance computing and dynamic modeling methods. 
+ Knowledge of database creation and management, such as experience in SQL, MongoDB, or similar platforms. 
+ At least six months of experience in direct data management and analysis using medical and or health-related data. 
+ 
+ Under the guidance and supervision of the supervisor, you will: 
+ 
+ Perform data mining, develop algorithms, as well as analysis involving physiological and health records time-series as well as maintain the laboratory’s computational infrastructure and analysis tools. 
+ Develop pipelines for data cleaning and preprocessing as well as data integrity tasks with the goal of optimizing and correcting errors, inconsistencies, or missing data needed for analyses. 
+ Assist in acquiring and maintaining data acquisition from multiple sources including multimodal physiological time-series, neuroimaging, and electronic health records. 
+ Organize, support, and maintain a central large research database with various data types including physiological time-series, neuroimaging, and electronic health records. 
+ Assist with user-interface software development. 
+ Ensure confidentiality for sensitive documents (protected health information) as per institutional guidelines. 
+ 
+ Desirable roles: 
+ 
+ Opportunity to collaborate with members of the Department of Neurology, Neurosurgery, and Radiology at UCSF as well as Computer Science and Statistics at UC Berkeley, Harvard Medical School, and Massachusetts Institute of Technology. 
+ Opportunity to career development and seek external funding from funding agencies for projects within our laboratory. 
+ 
+ Well-qualified applicants should send the following to  https://aprecruit.ucsf.edu/JPF03080: 
+ 
+ Cover letter (2-page maximum) indicating current and future research interests and expected availability dates; 
+ CV (curriculum vitae); 
+ A concise list of computational/programming skills, and how they were applied toward prior research questions if applicable; 
+ Example(s) of computer programming experience, such as a link to your public Github or MATLAB File Exchange webpage if available; 
+ Names and contact information for three references 
+ 
+ UC San Francisco seeks candidates whose experience, teaching, research, or community service has prepared them to contribute to our commitment to diversity and excellence. The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age or protected veteran status. 
+ Please apply online at  https://aprecruit.ucsf.edu/JPF03080 . 
+ 
+ 
+ Internal Number: JPF03080 
+  __  Create a Job Alert for Similar Jobs  
+ About University of California, San Francisco 
+ The University of California, San Francisco (UCSF) is a leading university dedicated to promoting health worldwide through advanced biomedical research, graduate-level education in the life sciences and health professions, and high-quality patient care. It is the only UC campus in the 10-campus system dedicated exclusively to the health sciences. 
+ Connections working at University of California, San Francisco 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ IGWMC Project Coordinator 
+ __  Princeton, New Jersey 
+ 
+ 
+ 
+ 
+ Princeton University 
+ __Today 
+ 
+ 
+ Bioinformatics Software Engineer 
+ __  New York, New York 
+ 
+ 
+ Memorial Sloan-Kettering Cancer Center 
+ __2 Days Ago 
+ 
+ 
+ Software Engineer / Ingenieur Full Stack H/F 
+ __  Paris, France 
+ 
+ 
+ Murex 
+ __3 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

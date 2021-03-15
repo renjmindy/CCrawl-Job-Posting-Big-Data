@@ -1,0 +1,90 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Cloud MSP Engineer 
+ Onix Networking Corp 
+ __Toronto, ON 
+ Apply Now 
+ Summary:  The Managed Services Team helps customers transform and evolve their business using cloud computing systems. As a Cloud MSP Engineer on the Managed Services team in this rapidly evolving business, you will work with established customers to ensure the successful operation of their Cloud services 
+ Scope/Level of Decision Making:  This is an exempt position operating under limited decision-making and supervision. Position performs a variety of assigned activities, referring more complex issues to the manager. 
+ Primary Responsibilities: 
+Research, diagnose, troubleshoot, and identify solutions to resolve client issues 
+Document findings and produce walkthrough documentation where applicable 
+Review and respond to remote monitoring and management (RMM) system alerts and notifications 
+Escalate critical technical issues and support tickets when appropriate 
+Remotely support, manage, maintain, and troubleshoot items like networks, hardware, software, and other related peripherals 
+Upgrade OS and 3rd party software packages including security and system patching 
+Maintain and monitor system backups and Disaster Recovery (DR) environments and procedures 
+Utilize the following (and future) toolsets, applications, and cloud platforms: 
+G Suite 
+Kaseya VSA 
+FreshService 
+FreshDesk 
+PagerDuty 
+Google Cloud Platform (GCP) 
+AWS (Amazon Web Services) 
+ Required Skills and Experience: 
+Previous experience in a managed services environment or similar fieldwork preferred 
+Ability to proactively monitor and maintain production environments with a focus on IT environmental health 
+Excellent documentation skills, including the ability to track, log and document customer interactions and follow-up procedures and to document findings and create walkthrough documentation 
+Excellent time management skills and ability to work independently in a remote or home-office environment 
+Understanding and familiarity with remote troubleshooting tools and methods 
+Minimum of 3 years experience in a technical support/network-admin role supporting: 
+Windows Servers (2008, 2008R2, 2012, 2012R2, 2016 and 2019) 
+Linux (Ubuntu, CentOS, Red Hat, SUSE, Debian) 
+Windows Active Directory, Domain Controllers and Group Policy. 
+Microsoft Server Applications such as Exchange, SQL, Sharepoint, IIS etc. 
+DNS, DHCP, FTP, SNMP, SMTP, IP, SSH, Telnet, NTP, SMB, WINS, HTTP and HTTPS protocols and services 
+Understanding of VMware and Hyper-V and other virtualized environments 
+Knowledge of programming/scripting languages; Python, JavaScript, PHP etc. 
+Task automation and configuration management utilities such as, Windows Powershell and Linux bash commands 
+Experience with 3rd party software installation and support 
+Working knowledge and remediation of Antivirus and Anti-Malware software and infections 
+Variety of Enterprise Firewalls, routers, switches and VPN appliances such as Checkpoint, PaloAlto, Cisco or SonicWall 
+Variety of Backup and DR services such as Actifio, Veritas, Commvault 
+Strong network and infrastructure architecture, troubleshooting and support 
+Excellent time management, communication, and customer service skills 
+Must demonstrate a security-minded focus and execution of all related MSP tasks and responsibilities. 
+Ability and willingness to be on-call 
+ Preferred Skills and Experience: 
+Google Certification - Professional Cloud Security Engineer, Professional Cloud Network Engineer 
+2+ years working with support teams and using ticketing systems 
+ Education:  Bachelor's Degree in Computer Science, Data Science or a related discipline preferred, but not required 
+ Travel Expectation:  15% Domestic. 5% International 
+ Salary Range:  $50,000 - $80,000 USD 
+ It is the policy of Onix to ensure equal employment opportunity in accordance with the Ohio Revised Code 125.111 and all applicable federal regulations and guidelines. Employment discrimination against employees and applicants due to race, color, religion, sex, (including sexual harassment), national origin, disability, age (40 years old or more), military status, or veteran status is illegal. 
+ Onix will only employ those who are legally authorized to work in the United States or Canada. This is not a position for which sponsorship will be provided. 
+ Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

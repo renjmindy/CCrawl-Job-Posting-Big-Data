@@ -1,0 +1,12 @@
+ Qualifications 
+ Experience with administrating Linux systems and with configuration management (Ansible, Terraform, Docker) 
+ Experience with cloud platform services and tooling (GCP, AWS) 
+ Experience with metrics collection and monitoring 
+ Working understanding of TCP/IP network stack 
+ Online availability for unforeseen remotely-fixable issues 
+ Bonus Qualifications 
+ Prior experience and interest in blockchain technology 
+ Experience in building and scaling distributed, highly available systems 
+ Experience in deploying and scaling high-performance database software 
+ Interest in and experience with Hardware Security Modules (HSMs) 
+ Misc. 

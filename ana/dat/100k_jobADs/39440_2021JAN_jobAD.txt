@@ -1,0 +1,69 @@
+Skip to content 
+ redftech 
+ Choose-your-own Career/Adventure 
+ There are no doubt several schools of thoughts around the natural evolution of one's career in any sort of modern company (namely hi-tech companies). 
+ But the main focus I have is around the idea that the natural evolution of a team member is to become management. The dreaded management, with great responsibility, likely comes more money. 
+ Early on in my career, I was presented with an interesting scenario, that due to my young age, I was told I could not be the manager of the team, and therefore I had to interview a short list of candidates that the VP of Sales had chosen for Director of Sales Engineering. 
+ At the time, I thought I was ready to manage, but I am knowing what I know now, I know that I wasn't ready. But as I was most knowledgeable in the team (I think there were 4 other sales engineers, but we eventually hired a 5th), so as most knowledgeable, I led training sessions, I coached them through calls with potential customers, basics of doing the job. 
+ At the time I didn't realize it, but I was basically a team lead, who had the opportunity to hire my own boss. I hired the one that seemed to be the best fit for us in terms of industry background, personality and technical skill. And Larry was good, though when we hired our 5th, I expressed a concern about him and that I didn't think he was going to be a good fit. 
+ On a small aside, shortly after the 5th was hired, there was a discussion that came up in a team meeting about moving the commission structure to more of a pooled commission system, which I guess on some level, if I hadn't had some deals closing imminently, I likely would have been in favor of some sort of hybrid where 25% of the commission goes into a pool that the team gets paid out of, as you know in the end, we all help each other. But, as the deals that were about to get paid out, were all mine and had been in the works for a while and with realistically no help from others, I was against it. As was Larry, I remember him telling the 5th not to bring it up again, and in such a way that meant that they had already had a conversation about it and told him that it wasn't up for a debate. 
+ The 5th later caused more issues and tried to jump departments, by way of a project that had him over at the development office (some 30 minutes away), yet, the project was not making any progress and when Larry would call over there, the 5th was missing. Comparing notes with folks over in the other departments over there, it seemed there was quite a bit of time 'missing'. 
+ But back to managing vs leading. 
+ I eventually was able to hire/build a team of developers, several iterations of my career later at what I view as almost 5 companies from when I was an unofficial team lead. The company paying me only changed once though, long story for a different post. 
+ I went about reading books and reflecting on what I felt were good bosses during my career thus far. Looking back, Larry was a good manager, and while I didn't learn anything technical from him, he pointed out areas of professionalism that I could work on and I took them to heart. 
+ I think the two books that had the most impact on my views on hiring/building and managing a team were  Managing Humans by Michael Lopp  and  Smart and Gets Things Done by Joel Spolsky . Those who were close to me at that time might have seem me read and reference other books, but those were either oriented towards marketing or towards general business management, those two books I link in this post are the ones I really feel had a substantial impact. 
+ During that time, I hired nine developer, we didn't have all nine at once, I think at most we had 4 web devs at one, the general principle was to have one front-end oriented dev and one back-end oriented dev, the two could do parts of one another's jobs, but to achieve a high-quality piece of digital work, you need specialization. 
+ I also was 'given' some staff from other departments, in one instance, this lasted for about two days. And the feedback I got was to the effect of 'He said you guys were just in Chaos,' well I guess depending upon what you're comfort level is for the unknown, yeah we were in Chaos. We were in the middle of building a department and we didn't know a lot of what we were going to be doing, but to us at that point, it was exciting. 
+ The other, we had him until budget cutbacks came into play, it was against my wishes to have him let go, but it came down from a higher level of management. Aside from being friends with him, I felt the elimination of that position meant that our company/division was going to lose autonomy and on a deeper level, I took it as a sign that we were done, but no one wanted to admit it. 
+ So during this era of my career, I dealt with vacation scheduling, performance reviews, 1-on-1 discussions (fairly weekly), code reviews, write-ups, letting folks go and also firing those that repeatedly failed to comply with company policy. 
+ And out of all of that, I feel that I did lead the team on a technical direction level and I did my best to manage them, but for a time there I did have a development manager, who dealt with the nitty-gritty of the scheduling and making sure tasks were getting completed, because as you grow as a company, those tasks are still all very important, but can bog down the 'leadership' of the company, so you hire folks to handle those tasks. 
+ I sort of look at it this way, often Project Management is mistaken for Product Management and a Product Manager is often mistaken for a Project Manager. To which, I personally take offense. 
+ Product Management encompasses the tasks of project management, which means a good Product Manager has to be able to manage a project. But a Project Manager doesn't generally make any decisions about Product, they are there to ensure the project completes as it was planned. 
+ Leaders can manage, and managers can lead, but realistically you start to reach a level of work and company growth/size that requires specialization, going back to the idea of a front-end and back-end developer working on a web app, it will be higher quality, because while the back-end dev can edit some CSS, it is highly unlikely they will be able to implement a grandiose web design, much like a front-end developer can make the web app talk to the database, but they will likely run into issue trying to design a database and application that can handled significant volume. 
+ With all of that said, what is my point? 
+ I have lead teams (sometimes folks that didn't report to me or technically even work for my company, eg contractors) and I have managed staff. 
+ I don't like managing staff. While I was managing staff, I was also trying to do my own job and I was also doubling as systems admin and a level (probably 2nd level, but felt like 1st) tech support for a number of our customers, but was doing that so my developers could continue to develop and I didn't have budget for staff to do those roles and if I had bogged the developers down, we would have had issues completing our projects on time. So I took it on, removing the obstacles as best I could, per what I learned from Mr. Spolsky. 
+ But given the choice between being a senior level individual contributor and a manager, I feel I would take the senior level individual contributor role, every time. (But given the choice of unemployment and managing staff, oh yeah, I would manage staff, until I could go elsewhere.) 
+ My view on this may eventually change, but it also may not. 
+ I leave you with these words, paraphrased, that were given to me by a VP that I worked with a long-time ago (feels like a lifetime ago), "You have to look out for your career, no one else is going to be looking out for it." 
+ So pursue what you want to do in life, pursue what you like to do. Every jobs has things that we don't like to do, but if that is all your job is, things you don't like to do, seriously look around, you might have to move, but look around. 
+ Some links I found on the concept of Management vs Leadership 
+ Wall Street Journal 
+ Educational Business Articles.com 
+ Peeler Associates 
+ Hbr.org 
+ Leading vs Managing 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ career advice leadership leading managing working 
+ Posted on  November 11, 2014  by  redftech   0 
+ Post navigation 
+ Previous postStartups 
+ Next postThe Wayward Sherpa 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

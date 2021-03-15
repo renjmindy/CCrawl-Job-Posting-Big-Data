@@ -1,0 +1,348 @@
+  
+ 
+ Home 
+ About Us 
+ Services 
+ Job Positions 
+ Job Sectors 
+ Blog 
+ Contact Us 
+ Apply for a position 
+ 
+ Explore Thousand of jobs with just simple search... 
+ __ Search keywords e.g. web design 
+ All Job SectorsAccounting & FinanceAdministration & SecretarialBankingBusiness AdministrationCustomer SupportEconomicsForexGraduateHuman ResourceIT & TechnologyLaw Enforcement & SecurityLegal & ComplianceLeisure & TourismMarketing & PRMediaRetailSales & MarketingSales/Business DevelopmentSecretarial/AdministrationShipping Filter by Job Sectors e.g. developer, designer 
+ All LocationsCyprusLarnacaLimassolNicosiaPaphosPlease select your desired location  __ 
+ __ 
+ 
+ Accounting & Finance(5) 
+ Administration & Secretarial(1) 
+ Banking(0) 
+ Business Administration(4) 
+ Customer Support(1) 
+ Economics(4) 
+ Forex(8) 
+ Graduate(1) 
+ Human Resource(0) 
+ IT & Technology(13) 
+ Law Enforcement & Security(0) 
+ Legal & Compliance(0) 
+ Leisure & Tourism(0) 
+ Marketing & PR(2) 
+ Media(1) 
+ Retail(0) 
+ Sales & Marketing(3) 
+ Sales/Business Development(5) 
+ Secretarial/Administration(1) 
+ Shipping(1) 
+ 
+ {"posts_per_page":"18","post_type":"jobs","paged":"1","order":"DESC","orderby":"meta_value_num","post_status":"publish","ignore_sticky_posts":1,"meta_key":"cs_job_posted","post__in":"","tax_query":{"relation":"AND","0":["",{"taxonomy":"job_type","field":"slug","terms":["full-time"]}]},"meta_query":[{"key":"cs_job_posted","value":1610894753,"compare":"<="},{"key":"cs_job_expired","value":1610894753,"compare":">="},{"key":"cs_job_status","value":"active","compare":"="},""]} 
+ __ 
+ All LocationsCyprusLarnacaLimassolNicosiaPaphosPlease select your desired location  __ 
+ __ 
+ Date Posted 
+ 
+ Last Hour 
+ Last 24 hours 
+ Last 7 days 
+ Last 14 days 
+ Last 30 days 
+ All 
+ 
+ Vacancy Type 
+ 
+ Freelance (0) 
+ Full Time (25) 
+ Internship (0) 
+ Part Time (0) 
+ Temporary (0) 
+ Volunteer (0) 
+ 
+ Job Sectors 
+ 
+ 
+ Accounting & Finance(5) 
+ 
+ 
+ Administration & Secretarial(1) 
+ 
+ 
+ Banking(0) 
+ 
+ 
+ Business Administration(4) 
+ 
+ 
+ Customer Support(1) 
+ 
+ 
+ Economics(4) 
+ 
+ 
+ Forex(8) 
+ 
+ 
+ More 
+ 
+ 
+ __Collapse all Filters 
+ Experience 
+ 
+ 
+ 
+ Fresh(0) 
+ 
+ 
+ Less than 1 Year(0) 
+ 2 Years(0) 
+ 3 Years(0) 
+ 4 Years(0) 
+ 5 Years(0) 
+ 6 Years(0) 
+ 7 Years(0) 
+ 8 Years +(0) 
+ 
+ INDUSTRY 
+ 
+ 
+ 
+ Development(0) 
+ 
+ 
+ 
+ Management(0) 
+ 
+ 
+ Finance(0) 
+ 
+ 
+ Html Department(0) 
+ 
+ 
+ Seo(0) 
+ 
+ 
+ Banking(0) 
+ 
+ 
+ Designing(0) 
+ 
+ 
+ full-time __ 
+ 
+ 
+ Clear all 
+ Email me jobs like these 
+ x 
+ Email me jobs like these 
+ Submit 
+ Alert Frequency: Daily Weekly Monthly 
+ Please enter a valid email 
+ 
+ 
+ 
+ Sales / Account Manager in Limassol 
+ * Posted 3 days ago
+* Job SectorBusiness Administration, Forex, Marketing & PR, Sales & Marketing, Sales/Business Development
+ 
+ On behalf of one of our clients, a regulated Forex broker, we are seeking to recruit a Sales / Account... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Crew Trainer ( Remote Work ) 
+ * Posted 3 days ago
+* Job SectorShipping
+ 
+ Our client, a successful and well-known Ship Management and Ship Owner group of companies based in Limassol is looking to... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Back-End Developer in Nicosia 
+ * Posted 5 days ago
+* Job SectorIT & Technology
+ 
+ On behalf of one of our clients specializing in Web Design and Software Development we are seeking to recruit a... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ QA & Customer Service Officer in Nicosia 
+ * Posted 6 days ago
+* Job SectorIT & Technology
+ 
+ On behalf of one of our clients specializing in Web Design and Software Development we are seeking to recruit a... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Senior Web Application / Back-End Developer in Nicosia 
+ * Posted 6 days ago
+* Job SectorIT & Technology
+ 
+ On behalf of one of our clients specializing in Web Design and Software Development we are seeking to recruit a... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Junior Accountant in Limassol 
+ * Posted 1 week ago
+* Job SectorAccounting & Finance, Economics, Forex
+ 
+ On behalf of one of our clients a regulated Forex broker, we are seeking to recruit a Junior Accountant to... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Junior Dealer in Limassol 
+ * Posted 1 week ago
+* Job SectorAccounting & Finance, Economics, Forex, Graduate
+ 
+ Our client a leading Forex Broker, is seeking to recruit a Junior Dealer to join their team in Limassol. Job Responsibilities... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Junior Dealer in Paphos 
+ * Posted 2 weeks ago
+* Job SectorAccounting & Finance, Business Administration, Economics, Forex
+ 
+ On behalf of one of our clients a regulated Forex broker, we are seeking to recruit a Junior Dealer to join... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Web Designer in Limassol 
+ * Posted 3 weeks ago
+* Job SectorForex, IT & Technology
+ 
+ On behalf of one of our clients, a Forex broker, we are seeking to recruit a Web Designer to join their... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Senior Back-End Java Developer 
+ * Posted 1 month ago
+* Job SectorIT & Technology
+ 
+ Work Channel Recruitment is working closely with a digital services company and they are looking to recruit a Senior Back-End Java... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Senior IT Systems/Network Cloud Engineer 
+ * Posted 1 month ago
+* Job SectorIT & Technology
+ 
+ Work Channel Recruitment is working closely with a digital services company and they are looking to recruit a Senior IT Systems/Network... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Senior Front-End Developer 
+ * Posted 1 month ago
+* Job SectorIT & Technology
+ 
+ Work Channel Recruitment is working closely with a digital services company and they are looking to recruit a Senior Front-End Developer... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Sales Executive ( Logistics ) in Nicosia 
+ * Posted 1 month ago
+* Job SectorSales & Marketing, Sales/Business Development
+ 
+ Our client, a logistics company, is seeking to recruit a Sales Executive ( Logistics ) to join their team in... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Senior Front-End Developer in Limassol 
+ * Posted 2 months ago
+* Job SectorIT & Technology
+ 
+ On behalf of one of our clients a company that offers a unique approach based on integral solutions of geolocation... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Lead Software Engineer in Limassol 
+ * Posted 2 months ago
+* Job SectorIT & Technology
+ 
+ On behalf of one of our clients a company that offers a unique approach based on integral solutions of geolocation... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Senior Full Stack Developer in Limassol 
+ * Posted 2 months ago
+* Job SectorIT & Technology
+ 
+ On behalf of one of our clients a company that offers a unique approach based on integral solutions of geolocation... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Support Engineer in Nicosia 
+ * Posted 2 months ago
+* Job SectorCustomer Support, IT & Technology
+ 
+ On behalf of one of our clients specializing in Web Design and Software Development we are seeking to recruit a... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ 
+ 
+ Administrative Assistant in Limassol 
+ * Posted 2 months ago
+* Job SectorAdministration & Secretarial, Secretarial/Administration
+ 
+ On behalf of our clients, we are seeking to recruit a Administrative Assistant. Our clients’ company is considered as one of... 
+ Read more 
+ Full Time 
+ __ 
+ 
+ __Previous 
+ 1 
+ 2 
+ Next __ 
+ 
+ 
+ © 2019 Work Channel - [License/ Αδεια: 371 |  Privacy Policy  - ]() All rights reserved. Design and Developed by  Applab Projects 
+ Back to top __ 
+ This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.AcceptReject  Read More 

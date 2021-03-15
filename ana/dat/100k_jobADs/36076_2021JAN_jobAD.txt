@@ -1,0 +1,179 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Java Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ JavaWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Software Engineer 
+ [ 
+ Credit Kudos 
+ ](/companies/credit-kudos) 
+ London, United Kingdom 
+ 22 June, 2020 
+ Apply 
+ More jobs from Credit Kudos About Credit Kudos 
+ Salary 
+ £50K - 85K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Docker 
+ Golang 
+ Ruby On Rails 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Pension 
+ Dog friendly 
+ 25 days holiday 
+ Equity 
+ Top of the range equipment 
+ Cycle to work scheme 
+ Excellent coffee, snacks & free fruit 
+ 
+ Making credit scoring fair, using the power of Open Banking 🌍 
+ Role overview 
+ We're building a credit bureau the right way - with the customer involved and transparent throughout. We're looking for talented and creative engineers who share our vision 🚀. 
+ We work closely as a company 
+ We're a small team with a big vision, so no-one specialises too much - we wear many hats week-to-week 🧢. 
+ We're grappling with a large problem so there are plenty of challenges to be faced but we face them one weekly sprint at a time. Your role here would see you working with the founders of the company and the rest of the team on a wide range of issues to bring our vision of a better credit bureau to reality. 
+ Our team has a diverse background 
+ Not everyone studied Computer Science here and we have at least one classically trained opera singer 🎤. We have people with backgrounds in massive companies, small companies and a few for whom this is their first job. We're looking for people who want to learn and grow; if that sounds like you, we'd love to hear from you. 
+ Our tech stack: 
+ - Golang and Ruby on Rails for our core applications and APIs. 
+ - Python for our data processing and science. 
+ - Typescript with React and Redux for most of our front-end flows. 
+ - Brand new open banking APIs for collecting financial data. 
+ - Postgres for our data storage. 
+ - Docker for running everything reliably. 
+ - AWS for all our infrastructure (managed as code via Terraform). 
+ Your Profile 
+ We're looking for people who: 
+ - Are excited by our mission 🚀. 
+ - Are keen to learn and develop their skills and knowledge 📚. 
+ - Are comfortable diving into problems in open discussions 🗣. 
+ - Are interested in building a data-oriented company 🔢. 
+ - Love writing elegant and well-tested software 💻. 
+ - Have some experience with distributed systems 🧠. 
+ What we value: 
+ - Motivation, enthusiasm and passion for our mission to take on the big credit bureaus 🏦. 
+ - Expansive thinking, transparency, honesty, and a good sense of humour 💛 
+ - Results and efficiency rather than hours in the office 🏡 
+ 
+ [ 
+ Credit Kudos 
+ ](/companies/credit-kudos) 
+ 
+ 10-49 
+ 
+ Credit Kudos is a venture-backed fintech startup and challenger credit bureau that uses financial behaviour to measure creditworthiness. 💳 Our technology transforms the way credit checking and credit scores work by generating a more accurate and holistic view of a borrower's creditworthiness. We’re working with lenders to help them make better, fairer credit decisions and with consumers to help them access fair, affordable credit. ⚖️ Our mission is to transform the credit scoring system to provide fairer credit for all; helping people access responsible finance they can afford, when they need it. 🤝 How it all began: After working in the US for a number of years, Freddy returned to the UK ✈️. Having had no recent financial activity in the UK, he had a 'thin' credit file. This not only meant that he had limited credit options, but those that were available to him came with higher interest rates and restrictions 🙁. After further research it became apparent that he was not alone, and that many people in the UK face difficulties when trying to get access to affordable credit 💳. With a vision to remove that challenge from the market, Freddy and Matt founded Credit Kudos 👋. Since then, the team at Credit Kudos have been on a mission to provide fair credit for all, harnessing the power of Open Banking 🌍. We’re building a credit bureau the right way - with the customer involved and transparent throughout. We’re looking for talented and creative engineers who share our vision. 🚀 
+ React Finance Series A Golang TERRAFORM TYPESCRIPT Pension  Dog Friendly 
+ View 4 jobs 
+ Engineers who find a new job through Java Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Credit Kudos About Credit Kudos 
+ Salary 
+ £50K - 85K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Docker 
+ Golang 
+ Ruby On Rails 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Pension 
+ Dog friendly 
+ 25 days holiday 
+ Equity 
+ Top of the range equipment 
+ Cycle to work scheme 
+ Excellent coffee, snacks & free fruit 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Java Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Java Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Software Engineer£65K - 85K + EquityCredit KudosLondon, United Kingdom 
+ Making credit scoring fair, using the power of Open Banking 🌍 
+ go aws docker ruby on rails 
+ More Info Apply 
+ Tech Lead, ClojureCompetitiveWeFarmUnited Kingdom 
+ Enables farmers to share and access information using Clojure! 
+ Remote 
+ aws clojure docker kubernetes 
+ More Info Apply 
+ Senior Clojure EngineerCompetitiveWeFarmUnited Kingdom 
+ Enables farmers to share and access information using Clojure! 
+ Remote 
+ aws clojure clojurescript docker kubernetes 
+ More Info Apply 
+ Software Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Java jobs Play jobs Kafka jobs Akka jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Java articles Akka articles Kafka articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

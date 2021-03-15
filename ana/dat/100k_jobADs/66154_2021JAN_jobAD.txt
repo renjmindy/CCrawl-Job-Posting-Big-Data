@@ -1,0 +1,267 @@
+Loading.... 
+ LOGIN     SIGN UP 
+ 
+ 
+ Hire Experts 
+ Find Work 
+ How it Works 
+ About Us 
+ Blog 
+ 
+ 
+ SIGN UP! 
+ Before you proceed to sign up, 
+Please select one of the following! 
+ I want to Hire 
+ 
+ --OR-- 
+ I want to Work as an 
+ 
+ 
+ 
+ Home 
+ » 
+ Freelance Jobs 
+ » 
+ IT & Programming 
+ 
+ Project Results 
+ By Job Category 
+ 
+ All  (519) 
+ IT & Programming  (196) 
+ Graphic Design & Multimedia  (63) 
+ Writing, Content & Translation  (127) 
+ Data Entry & Admin  (41) 
+ Sales & Marketing  (39) 
+ Customer Service  (7) 
+ Finance & Accounting  (19) 
+ Others  (27) 
+ 
+ By Budget (INR) 
+ 
+ All  (519) 
+ Less than 5000 Rs.   (151) 
+ Between 5,000 - 20,000 Rs.   (138) 
+ Between 20,000 - 50,000 Rs.   (59) 
+ Between 50,000 - 100,000 Rs.   (29) 
+ Greater than 100,000 Rs.   (33) 
+ Not Sure  (109) 
+ 
+ By Project Type 
+ 
+ All  (519) 
+ Featured  (29) 
+ Full Time  (3) 
+ 
+ By Time Left 
+ 
+ Any 
+ Less than 24 hours left 
+ Less than 3 days left 
+ Less than 7 days left 
+ 
+ By Posted Date 
+ 
+ Any 
+ Posted within 24 hours 
+ Posted within 3 days 
+ Posted within 7days 
+ Posted within 14 days 
+ Posted within 30 days 
+ 
+ By Status 
+ 
+ Any 
+ Hiring Open 
+ 
+ Search Job 
+ IT & Programming Jobs 
+ ( showing 1 - 10 of 10 results ) 
+ IT & Programming 
+ Posted Date : 3 day 
+ Hiring : All 
+ Clear 
+ Get Project Updates 
+ PAGE 1 OF 1 
+ SORT BY Sort by Job Name Budget(High) Budget(Low) Time Left(High) Time Left(Low) 
+ Need Mobile Scanning Feature For Asp.Net Website Project 
+ FIXED PRICE : Not Sure  Website Programming  Posted: 17 hours ago  Ends: 13th Mar 2021  6 Proposals 
+ A Asp.net developer is needed to implement scanning feature through mobile in Asp.net website project. ------------------------------------------------------------------------------- Additional Information Added on 27th... 
+ A Asp.net developer is needed to implement scanning feature through mobile in Asp.net website project. ------------------------------------------------------------------------------- Additional Information Added on 27th Jan, 2021 When i open my asp.net based website in mobile. its should scan using the mobile camera. 
+ Skills:  .NET 
+ Client:  seenivasank 
+ Senior DBA 
+ FIXED PRICE : Not Sure  Other - Web Development  Posted: 21 hours ago  Ends: 13th Mar 2021  0 Proposals 
+ Overview: The Senior DBAs are expected to be self-driven, strategize, point out vulnerabilities and recommend improvements. They always should "manage up" or stretch beyond simple daily tasks and advise th... 
+ Overview: The Senior DBAs are expected to be self-driven, strategize, point out vulnerabilities and recommend improvements. They always should "manage up" or stretch beyond simple daily tasks and advise their management about what's really best for the business. Work closely with the development, cloud operations team across multiple offices. What You'll Do • Constantly improve the performance and reliability of our database servers on cloud platforms. • Ensure customer success by provisioning their environments following best practices. • predict and prevent impending issues and maintain 24/7/365 Service Availability. • Execute backup and maintenance procedures. • Database administration, analysis, and performance tuning. • Automation & code for the management of a high volume of instances • Documentation of process, environment, and run books. Who You Are • 5+ years exp in database administration • Proficiency in PostgreSQL and Oracle Database Administrative tasks. • Experience in AWS/Azure cloud Infrastructure, like Installing and configuring the database. • Responsible for database design, development, testing, and performance tuning and capacity planning of large databases. • Will work with developers to design and build new structures to support application enhancements and promote database changes throughout the Dev, UAT, and Prod databases • Database Migration between Oracle to PostgreSQL • Strong, proven diagnostic and Troubleshooting Skills. • Excellent Communication skills; Verbal and Written. 
+ Skills:  PostgresSQL ,  Oracle DBA 
+ Client:  jyotsnavas 
+ Need to develop Publishing Website 
+ FIXED PRICE : Not Sure  Website Design  Posted: 22 hours ago  Ends: 13th Mar 2021  22 Proposals 
+ We are a B2B Marketing company, We are looking forward to Publishing Website. It includes: uploading files, updating web pages, posting blogs, etc... 
+ We are a B2B Marketing company, We are looking forward to Publishing Website. It includes: uploading files, updating web pages, posting blogs, etc... 
+ Skills:  .NET ,  DotNet ,  DotNet 2.0 ,  HTML ,  HTML5 
+ Client:  mindmine3553  ,  India 
+ Mobile App Developement (Andriod & IOS) 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Mobile Applications  Posted: 2 days ago Ends: 12th Mar 2021  23 Proposals 
+ Looking for experts in ERP product development. • Excellent working knowledge of PHP, MySQL & Codeignitor framework • should have worked on a couple of ERP projects • Educational Domain would ... 
+ Looking for experts in ERP product development. • Excellent working knowledge of PHP, MySQL & Codeignitor framework • should have worked on a couple of ERP projects • Educational Domain would be an added advantage • Full time individuals/teams would be required • Timely updates & delivery a must • Bug fixing & enhancement skills would be really great. • details pertaining to the task list, refer the doc attached • Mobile App Developement (Andriod & IOS) 
+ Skills:  CodeIgniter ,  Android ,  iOS ,  MySQL ,  PHP 
+ Client:  shekaruna1975 
+ Python Automation - API/UI 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Website QA  Posted: 3 days ago Ends: 12th Mar 2021  6 Proposals 
+ 1.Python automation for API and UI 2.Pytest / Pycharm 
+ 1.Python automation for API and UI 2.Pytest / Pycharm 
+ Skills:  Python 
+ Client:  autotests101  ,  India 
+ Web development 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Website Programming  Posted: 3 days ago Ends: 12th Mar 2021  14 Proposals 
+ design me a good website reply me via (removed) 
+ design me a good website reply me via (removed) 
+ Skills:  Java ,  HTML5 ,  HTML ,  COBOL ,  .NET 
+ Client:  allentrus  ,  United States Of America 
+ Web development 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Website Design  Posted: 3 days ago Ends: 12th Mar 2021  10 Proposals 
+ a good website developer is needed asap for my uncomplete project to get down reply me via (removed) 
+ a good website developer is needed asap for my uncomplete project to get down reply me via (removed) 
+ Skills:  HTML5 ,  HTML ,  DHTML ,  Java 
+ Client:  allentrus  ,  United States Of America 
+ I need a Professional Website 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Other - Web Development  Posted: 3 days ago Ends: 11th Mar 2021  30 Proposals 
+ I need a blog website and portfolio website like this https://bit.ly/39W5F4c I want all kinds of pages that are available on this like blog page, about page, contact page, and all the category and all style that is avai... 
+ I need a blog website and portfolio website like this https://bit.ly/39W5F4c I want all kinds of pages that are available on this like blog page, about page, contact page, and all the category and all style that is available in that. I want this also on my own professional website that will everyone like. 
+ Skills:  Content Management System (CMS) ,  Django ,  HTML5 ,  WordPress 
+ Client:  aanyameena 
+ Shopify app(using php) development 
+ FIXED PRICE : Not Sure  Other - Web Development  Posted: 3 days ago Ends: 11th Mar 2021  21 Proposals 
+ We are looking for a highly skilled PHP Full Stack developer who is comfortable with both front and back end programming. You will be responsible for developing and designing front end web architecture, ensuring the resp... 
+ We are looking for a highly skilled PHP Full Stack developer who is comfortable with both front and back end programming. You will be responsible for developing and designing front end web architecture, ensuring the responsiveness of applications and working alongside graphic designers for web design features, among other duties. Full Stack Developers will be required to see out a project from conception to final product, requiring good organizational skills and attention to detail. 
+ Skills:  PHP ,  jQuery ,  JavaScript ,  HTML ,  AJAX 
+ Client:  priyauniwin  ,  India 
+ Developers needed 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Other - Web Development  Posted: 3 days ago Ends: 11th Mar 2021  10 Proposals 
+ Hiring 1 Developer of React Js and 1 developer of Laravel. have done at least 5 to 8 applications on the platforms individually. full-time position, online hiring. Thanks 
+ Hiring 1 Developer of React Js and 1 developer of Laravel. have done at least 5 to 8 applications on the platforms individually. full-time position, online hiring. Thanks 
+ Skills:  Web Services 
+ Client:  techstoserve  ,  India 
+ Next 
+ NAVIGATE 
+ How it Works 
+ Fees & Pricing 
+Register 
+ Blog 
+ Help 
+ Contact Us 
+ FIND FREELANCERS BY EXPERTISE 
+ 
+ 
+ 
+ Developers & Programmers 
+ 
+ PHP Developers 
+ 
+ 
+ 
+ 
+  Graphic Designers 
+ 
+ Photoshop Experts 
+ 
+ 
+ Article Writers 
+ 
+ Creative Writing 
+ 
+ 
+ Data Entry & Admin 
+ 
+ MS Excel Consultants 
+ 
+ 
+ Sales & Marketing 
+ 
+ Internet Marketing 
+ 
+ 
+ Accountants & Legal 
+ 
+ Finance Consultant 
+ 
+ 
+ 
+ FIND FREELANCERS BY LOCATION 
+ 
+ 
+ 
+ Freelancers In India 
+ 
+ Freelancers In New Delhi 
+ 
+ 
+ 
+ 
+ Freelancers in Noida 
+ 
+ Freelancers in Hyderabad 
+ 
+ 
+ Freelancers in Mumbai 
+ 
+ Freelancers in Jaipur 
+ 
+ 
+  Freelancers in Kolkata 
+ 
+  Freelancers in Bhopal 
+ 
+ 
+ Freelancers in Bangalore 
+ 
+ Freelancers in Punjab 
+ 
+ 
+ Freelancers In Ahmedabad 
+ 
+ Freelancers In Chennai 
+ 
+ 
+ 
+ LOOKING FOR FREELANCING JOBS? 
+ 
+ 
+ 
+ Fresher Jobs 
+ Part Time Jobs 
+ IT Jobs 
+ Work from Home Jobs 
+ Online Jobs 
+ 
+ 
+ 
+ 
+ Web Design Jobs 
+ Technical Writing Jobs 
+ Freelance Writing Jobs 
+ Accounting Jobs 
+ Legal Jobs 
+ 
+ 
+ Mobile Development Jobs 
+ Data Entry Jobs 
+ Game Development Jobs 
+ Photography Jobs 
+ Medical Writing Jobs 
+ 
+ 
+ AutoCAD and 3D Jobs 
+ HR Jobs 
+ SEO & Marketing Jobs 
+ Corporate Trainer Jobs 
+ Web Development Jobs 
+ 
+ 
+ 
+       
+ Copyright (C) 2012-2020   WorknHire Technologies Pvt. Ltd. . All Rights Reserved. 
+ To Top 

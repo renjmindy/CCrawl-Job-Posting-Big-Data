@@ -1,0 +1,156 @@
+Skip to content 
+   
+ Nico's Blog 
+ Adventures in KDE 
+ Menu 
+ 
+ Home 
+ Contact 
+ 
+ KDE Connect Junior Jobs 
+ nicolasfella   KDE  May 13, 2018 2 Minutes 
+ One of KDE's Community goals for the next years is  streamlined onboarding of new contributors.  It's very important that new people regularly join the community for various reasons. First of all, there will always be something to do and the more contributors the merrier! But there are also people becoming very inactive or leaving the community and these people need to be replaced. Furthermore new people bring in new and fresh ideas. It's important to have people from diverse backgrounds in the community. Lack of community diversity manifests in several issues: 
+ 
+ Lack of language diversity results in poor translations for non-widespoken languages and other internationalization issues 
+ Having only English/German/Spanish/French speaking contributors leads to incomplete support for things like right-to-left layouts and CJK characters/input methods 
+ Contributors with powerful hardware and good internet connection tend to ignore the need for performance- and bandwidth-efficient solutions 
+ An example from KDE Connect: Most of us are from Europe where its common to use messengers like Whatsapp whereas in the USA it's far more common to write SMS. Therefore we didn't really had in mind that it's important to have good SMS integration in KDE Connect until we actually had some people from the US at our sprint 
+ People tend to not be aware of different setups other people might have, e.g. having an Android phone without Google Play Services is rare in Europe but common in China 
+ 
+ To address these issues I am aiming to ease contribution for everyone. I believe that KDE Connect is a great project to get started in KDE development. After all, it's the project I got started with myself. The codebase is small and IMHO quite sane. The modular architecture allows you to quickly get cool results without risking to break stuff. 
+ To help you pick a task for your first contribution I started marking tasks as junior jobs on the  KDE Connect workboard.  I want to provide structured information for each task that helps you diving into it. I hope that other KDE projects will follow our lead. 
+ Now I need  your  help! 
+ Which information would you like to see in the task description? 
+ What can we, the established developers do to make your first contribution easier? 
+ What were the problems you encountered in your first contribution? 
+ What are the lessons you learned during your first contributions that you want to share with others? 
+ If you already have a  KDE Identity  account please leave your feedback on the  Streamlined onboarding of new contributors  or the  Junior Jobs  task. 
+ If you don't please leave your feedback here in the comments and I will forward it to the appropriate places. 
+ Your help will improve the overall community and thus the quality of our software in the long term! 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Published by nicolasfella 
+  View all posts by nicolasfella  
+ Published  May 13, 2018 
+ Post navigation 
+ Previous Post Volume Control in KDE Connect 
+ Next Post KDE Connect on Plasma Mobile 
+ 13 thoughts on "KDE Connect Junior Jobs" 
+ 
+ KING SABRI  says: 
+ 
+ May 13, 2018 at 4:52 pm 
+ Hello there, I can contribute with translating to Arabic as (RTL) language 
+I’d love one day we find some advanced feature like making calls and sending SMS(not reply) from desktop but that’s not the topic for now. 
+ Like Like 
+ Reply 
+ 1. **[nicolasfella](https://nicolasfella.wordpress.com)** says:
+ 
+ May 13, 2018 at 2:54 pm 
+ Great! 
+For translations see  https://community.kde.org/Get_Involved/translation  for getting started. If you find any RTL issues please report them to bugs.kde.org 
+ Like Like 
+ Reply 
+   1. **S96** says:
+ 
+ May 20, 2018 at 11:27 am 
+ This is a great project that should have had a enormous stream of new contributors, but it's way too advanced for people that do not have the great developers mindset to get onboard and that's the reason why a lot of software is lacking language diversity etc. Install this and download that, setup this and compile that, learn about PR and mailinglists, read this and click all the links, register here and contact those. All this are steps that are scaring people away from contributing. To help onboarding it should be made supersimple for firsttimers. For language there are already a proven solution available, weblate. 
+ Like Like 
+ 
+ guntbert  says: 
+ 
+ May 13, 2018 at 6:03 pm 
+ Hi, phabricator doesn't respond. Is there an issue or is something wrong on my side? 
+ Like Like 
+ Reply 
+ 1. **[nicolasfella](https://nicolasfella.wordpress.com)** says:
+ 
+ May 13, 2018 at 6:07 pm 
+ It's down for me, too 
+ Like Like 
+ Reply 
+ 
+ 
+ Pingback:  #KDEConnect Junior Jobs https://nicolasfella.wordpress.com/2018/05/… | Dr. Roy Schestowitz (罗伊) 
+ 
+ 
+ Arthur  says: 
+ 
+ 
+ May 13, 2018 at 9:24 pm 
+ Maybe some features like controlling presentation could be nice. I pretend to join to the group soon on translation, at least. 
+ Like Like 
+ Reply 
+ 
+ 
+ Pingback:  Links 13/5/2018: RC5 of Linux 4.17, SparkyLinux 4.8, Malicious Package Found on the Ubuntu Snap Store | Techrights 
+ 
+ 
+ asdasdasd  says: 
+ 
+ 
+ May 14, 2018 at 10:33 pm 
+ Please add CONTRIBUTING.MD direct to KDE-Connect-Android repository. 
+ Some important points are currently missing in guidelines for contributing, but they can significant help newcomers to make their first pull request: 
+ 
+ Describe the process how to checkout, build and test the code 
+ What is your branching model. Should I use master, develop, 0.9, or 1.x branch? What about CI? 
+ What is Submission Guidelines for an issue or a PR? 
+ What is your coding rules (code style, architecture, desired code coverage and so on)? Is there a way to check it automatically (lint)? 
+ What should I check before submitting my PR? (./gradle clean build or something else?) 
+ How to help with translating? 
+ 
+ Hope that helps 🙂 
+ Like Like 
+ Reply 
+ 
+ neofytosk  says: 
+ 
+ May 16, 2018 at 2:34 pm 
+ Hi Nico, 
+ Being the person that proposed the "streamlined onboarding" goal, I'm so glad to see such an important project as kde-connect jumping aboard this objective with this initiative. 
+ If I can offer any help, feel free to reach out to me. I would be very interested to learn more on the effectiveness of the Junior Jobs effort and in general on the challenges you face in the process of attracting and onboarding newcomers. 
+ Congrats on this amazing application, it has really changed how my devices communicate between them. Thank you and keep up the great work! 
+ Like Like 
+ Reply 
+ 1. **[nicolasfella](https://nicolasfella.wordpress.com)** says:
+ 
+ May 16, 2018 at 8:16 pm 
+ Thanks for the nice words! So far three people showed interest in a task and one even submitted a patch. The biggest challenge for me ATM is what to fill in the description. Some input on this would really help 
+ Like Liked by 1 person 
+ Reply 
+   1. **neofytosk** says:
+ 
+ May 18, 2018 at 5:30 pm 
+ That's great to hear, I hope people continue to be interested. I'll have a closer look at the task and try to leave some thoughts on phabricator. I've been informed that a similar discussion is happening in Plasma Mobile as well, I've asked one of the guys to share their ideas with a comment on phabricator as well. It would be neat if we ended up with a common framework to approach this. 
+ Like Like 
+ 
+ Pingback:  News about Elisa - mgallien 
+ 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

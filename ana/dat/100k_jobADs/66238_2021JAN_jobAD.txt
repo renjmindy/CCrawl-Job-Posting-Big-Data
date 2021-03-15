@@ -1,0 +1,358 @@
+Grumpy Rumblings (of the formerly untenured) 
+ 
+ 
+ About Us 
+ 
+ 
+ Activism 
+ 
+ 
+ 
+ 
+ 
+ If you buy books or other stuff through any of the links on our site (here or in posts), you'll help us out and we get a cut from Amazon. 
+ 
+ 
+ Books to the ceiling, 
+Books to the sky, 
+My pile of books is a mile high. 
+How I love them! How I need them! 
+I'll have a long beard by the time I read them. 
+-- Arnold Lobel 
+ 
+ 
+ Disclaimer 
+ 
+ 
+ We are not professional anything except academics. Seek advice from real professionals before making any financial or other life-changing decisions. 
+ 
+ 
+ 
+This work is licensed under a  Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License . 
+ 
+ 
+ 
+ 
+ 
+ Resources for PhDs seeking jobs outside of academia 
+ August 4, 2014 -- nicoleandmaggie 
+ In between bouts of sorting, de-cluttering, and apartment hunting, I've also been working on my job search. Here's some helpful links I've found during my search. 
+ How to avoid hassle during an  out-of-state job search . 
+ I might sign up for freelance editing work on things like  oDesk  or  eLance  (any tips, readers?). I don't want to freelance forever, probably, but a little cash here and there might help. Mostly I'm looking for an office job. 
+ PhDs at Work looks interesting , but I haven't spent a lot of time on there. Does anyone want to investigate and report back in the comments? 
+ Miriam Posner discusses what alt-ac (alternative-academic) jobs  can and can't provide . 
+ There is a LinkedIn group called PhD Careers Outside of Academia, which is where I found  this huge collection  of links and articles for scientists transitioning to industry. (I've also been checking out  Ask A Manager  but mostly for giggles.) 
+ **Do you have any recommendations for resources for PhDs seeking jobs outside of academia? Specifically for social scientists or scientists who have some data skills and good writing skills, but only tiny amounts of programming skills, and nothing in biotech/pharma? Thanks! 
+** 
+ Tweet, SU, Reddit, Digg, +1: 
+ 
+ Share 
+ 
+ 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Reddit 
+ 
+ 
+ Email 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Posted in  Uncategorized . Tags:  academia ,  advice ,  career ,  money ,  quality of life ,  work .  8 Comments » 
+ 8 Responses to "Resources for PhDs seeking jobs outside of academia" 
+ 
+ Linda  Says: 
+August 4, 2014 at 6:47 am 
+ 
+ I'm not a former academic, but I work for one of the big business consulting/accounting/tax firms and I know we hire PhDs. I never thought I'd like working in a "corporate" setting, but the work has the same hassles as a my old non-profit days (mostly having to do with people and "politics"), with much better compensation and perks. These days, "analytics" are HOT and all the consulting firms are building up their services and competencies in it. A social scientist that has experience working with data and data modeling can show a lot of value in this area. 
+ Reply 
+ 
+ Cloud  Says: 
+August 4, 2014 at 7:54 am 
+ 
+ A friend recommended this site to me when I was doing research for my book:  http://50waystogetajob.com/ 
+I have not checked it out extensively, though. 
+ I know a few people who transitioned from computational chemist to what is now called a "data scientist" in Silicon Valley. As far as I can tell, that job primarily requires knowing stats and knowing how to do some programming.If you haven't already considered it, it might be worth a look. It seems to be a hot job right now. I would think a social science background would be a plus there, since they're usually doing stats on how tweaks to a website change results. Of course, you'd have to be careful to end up at a place with ethics, given the recent high profile "WTF???" moments from Facebook and OK Cupid. 
+ Reply 
+ * [Cloud](http://www.wandering-scientist.com) Says:    
+ 
+ August 4, 2014 at 6:51 pm 
+ This comment suffered from being made before I had any caffeine this morning. What I meant to say about the data scientist jobs and programming is that they require some programming, but are the sort of job where I think relevant domain knowledge can counter-balance weak programming skills. I.e., if I were hiring for this sort of job, I'd take a social scientist who really understands the limits of stats and ethics of social experiments but has so-so programming skills over a kickass programmer. As opposed to jobs developing software other people use, for which I want a kickass programmer more than any domain knowledge (assuming I get an analyst/product manager with domain knowledge). 
+ That was probably more than you wanted to know! 
+ Reply 
+ 
+ plantingourpennies  Says: 
+August 4, 2014 at 8:41 am 
+ 
+ Where do doctoral candidates looking to leave academia look? Have you spoken with a head hunter yet? 
+With election season starting the 2 year ramp up to presidential, this might be a time when polling analysts are in higher demand and I know at least on sociology PhD who has gone that track working for a research firm that does survey and market analysis for a variety of corporate and political purposes. 
+Or perhaps you should just start writing for fivethirtyeight.com. =) 
+ Reply 
+ 
+ Funny about Money  Says: 
+August 4, 2014 at 7:57 pm 
+ 
+ The Chronicle used to have a whole section of job ads for escaping academics. Seems to me there was a link to some group or site for academics looking for real-world jobs, too. Might want to check into that. 
+ For editorial work, I would NOT go to one of those online job-boardsy things. People there work for peanuts. With a Ph.D., you should get no less than $60/hour from business clients and $45/hour from academics and non-profits. That sixty bucks/hour is low, BTW. Ninety to $120 is more like it. 
+ Instead, check out the Council of Science Editors, the Society for Technical Communication, and the Society for Scholarly Publishing. Also, you might find this article of interest:  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3243314/ 
+ I get most of my business by word of mouth, through academic connections, and by networking in business groups such as the Chamber of Commerce, organizations for local businesses, and a spinoff from BNI. There's a large networking organization for women that has a lot of very active local chapters; I've never been into gender-oriented networking, myself, but some find it useful. But if you set up your business as an S-corp or even as a sole proprietorship, you can register yourself with local, state, and federal agencies as a woman-owned business. And if you're willing to put up with the hassle, by the way, contracting to government agencies can be a good way to go. 
+ Also, approach the managing editors of the first- and second-tier journals in your discipline (assuming you're not peer-reviewing for them) and suggest that you could help ESL authors with a little editing…for a fee. Look for the journals that will attract mid-career scholars who can afford you and upward-bound junior scholars who are desperate enough for p&t to pay even if they can't afford you. ;-) 
+ Reply 
+ 
+ Debbie M Says: 
+August 6, 2014 at 9:46 am 
+ 
+ A friend of mine teaches statistics to employees of companies that make electronic stuff-they test whether the thingies in the current batch are close enough to spec to accept. This seemed fun when she was working for Dell. It was even sort of fun after they laid her off and hired her back on as a contractor in several locations. Now that she has a job that keeps sending her to The Philippines, China, and other places that don't allow me to complain about public restrooms to her, it's less fun. She travels at least 50%, maybe 75%. Sometimes with no warning they make her leave for a trip directly from her vacation. They did, finally, start letting her fly business class once some of them had to fly internationally in coach. 
+ Reply 
+ 
+ Ask the grumpies: Do I stay or do I go now, and if I go… then what? | Grumpy Rumblings (of the formerly untenured)  Says: 
+August 8, 2014 at 1:32 am 
+ 
+ […] felt that way if I'd left pre-tenure. I also have financial luxury to faff about until I figure out a new career. And I might hate my next job, too! (But at least it will PAY […] 
+ Reply 
+ 
+ Ask the Grumpies: Questions about leaving academia | Grumpy Rumblings (of the formerly untenured)  Says: 
+December 12, 2014 at 1:43 am 
+ 
+ […] person wondering if ze should stay or go. With links! This post has resources for people leaving academia (see comments for more […] 
+ Reply 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ This site uses Akismet to reduce spam.  Learn how your comment data is processed . 
+ «  Link love 
+ Fond grandparent memories  » 
+ Create a free website or blog at WordPress.com. 
+ 
+ 
+ Search this site… 
+ 
+ 
+ Search for: 
+ 
+ 
+ Blogroll of things we actually read in our (haha) spare time 
+ 
+ Awful Library Books 
+ Bardiac 
+ Cake Wrecks 
+ Comrad(d)e PhysioProf(fe) 
+ Dances With Fat 
+ Delagar 
+ Donna Freedman 
+ Miser Mom 
+ Not of General Interest 
+ solitary diner 
+ Stirrup Queens 
+ Wandering Scientist 
+ Whatever - John Scalzi 
+ xykademiqz 
+ yo is this racist? 
+ 
+ 
+ 
+ Things We Like 
+ 
+ Book Riot 
+ Breaking Cat News 
+ Diversity in YA 
+ egscomics 
+ Get out of there, cat. 
+ I Blame the Patriarchy 
+ LibraryThing 
+ Medieval POC 
+ Sheldon Comics 
+ Simon's Cat (animated) 
+ That Bad Advice 
+ The Body Is Not An Apology 
+ The Fat Nutritionist 
+ Vlog Brothers 
+ Zooborns 
+ 
+ 
+ 
+ Email Subscription 
+ 
+ 
+ Enter your email address to subscribe to this blog and receive notifications of new posts by email. 
+ Join 720 other followers 
+ Email Address: 
+ Sign me up! 
+ 
+ 
+ subscribe to RSS feed 
+ 
+ 
+   RSS - Posts 
+   RSS - Comments 
+ 
+ 
+ Because tag clouds are fun 
+ 
+ 
+ academia   accountability   activism   angst   anniversary   ask the grumpies   ask the readers   books   car   career   cats   cat saga   challenge   charity   christmas   college   conundrum   debatable   deliberately controversial   delight   economics   education   exercise   family   fertility   food   fun   gifted   gifts   google   grumble   health   house   IBTP   joy   kid   layin some education on ya   Leah always asks such fun questions   link love   love   math   meta   money   mortgage   motivation   music   obnoxious   Omphaloskepsis   politics   potty   pregnancy   probably boring if you're not us   productivity   PSA   quality of life   random   rant   rboc   relatives   retirement   sad   school   science   silly   sleep   stuff   teaching   think of the children   this is why we are feminists   tiny rant   want   welcome   woe   work   writing 
+ 
+ 
+ Archives 
+ 
+ January 2021  (16) 
+ December 2020  (17) 
+ November 2020  (18) 
+ October 2020  (18) 
+ September 2020  (17) 
+ August 2020  (18) 
+ July 2020  (18) 
+ June 2020  (17) 
+ May 2020  (18) 
+ April 2020  (17) 
+ March 2020  (17) 
+ February 2020  (17) 
+ January 2020  (18) 
+ December 2019  (17) 
+ November 2019  (18) 
+ October 2019  (17) 
+ September 2019  (17) 
+ August 2019  (11) 
+ July 2019  (15) 
+ June 2019  (17) 
+ May 2019  (18) 
+ April 2019  (17) 
+ March 2019  (18) 
+ February 2019  (16) 
+ January 2019  (17) 
+ December 2018  (18) 
+ November 2018  (18) 
+ October 2018  (21) 
+ September 2018  (17) 
+ August 2018  (18) 
+ July 2018  (17) 
+ June 2018  (19) 
+ May 2018  (17) 
+ April 2018  (17) 
+ March 2018  (18) 
+ February 2018  (16) 
+ January 2018  (18) 
+ December 2017  (18) 
+ November 2017  (17) 
+ October 2017  (17) 
+ September 2017  (18) 
+ August 2017  (17) 
+ July 2017  (19) 
+ June 2017  (18) 
+ May 2017  (18) 
+ April 2017  (17) 
+ March 2017  (18) 
+ February 2017  (16) 
+ January 2017  (17) 
+ December 2016  (18) 
+ November 2016  (19) 
+ October 2016  (19) 
+ September 2016  (21) 
+ August 2016  (23) 
+ July 2016  (15) 
+ June 2016  (21) 
+ May 2016  (22) 
+ April 2016  (22) 
+ March 2016  (18) 
+ February 2016  (21) 
+ January 2016  (22) 
+ December 2015  (22) 
+ November 2015  (21) 
+ October 2015  (24) 
+ September 2015  (22) 
+ August 2015  (22) 
+ July 2015  (22) 
+ June 2015  (22) 
+ May 2015  (22) 
+ April 2015  (21) 
+ March 2015  (22) 
+ February 2015  (20) 
+ January 2015  (23) 
+ December 2014  (23) 
+ November 2014  (21) 
+ October 2014  (22) 
+ September 2014  (22) 
+ August 2014  (22) 
+ July 2014  (22) 
+ June 2014  (21) 
+ May 2014  (22) 
+ April 2014  (22) 
+ March 2014  (22) 
+ February 2014  (20) 
+ January 2014  (22) 
+ December 2013  (18) 
+ November 2013  (22) 
+ October 2013  (22) 
+ September 2013  (22) 
+ August 2013  (22) 
+ July 2013  (22) 
+ June 2013  (21) 
+ May 2013  (22) 
+ April 2013  (22) 
+ March 2013  (23) 
+ February 2013  (20) 
+ January 2013  (22) 
+ December 2012  (22) 
+ November 2012  (21) 
+ October 2012  (23) 
+ September 2012  (21) 
+ August 2012  (23) 
+ July 2012  (22) 
+ June 2012  (23) 
+ May 2012  (22) 
+ April 2012  (24) 
+ March 2012  (27) 
+ February 2012  (26) 
+ January 2012  (26) 
+ December 2011  (27) 
+ November 2011  (26) 
+ October 2011  (30) 
+ September 2011  (30) 
+ August 2011  (31) 
+ July 2011  (31) 
+ June 2011  (30) 
+ May 2011  (31) 
+ April 2011  (30) 
+ March 2011  (28) 
+ February 2011  (29) 
+ January 2011  (31) 
+ December 2010  (33) 
+ November 2010  (33) 
+ October 2010  (31) 
+ September 2010  (39) 
+ August 2010  (47) 
+ July 2010  (44) 
+ 
+ 
+ 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

@@ -1,0 +1,108 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Clipboard Health (W17) 
+ We connect nurses with jobs they love and information they can trust. 
+ Engineering Lead 
+ 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Clipboard Health 
+ At Clipboard Health (YC W17) we work with healthcare facilities such as hospitals, assisted living facilities, and rehab centers to provide on-demand nursing staff. We are a fully remote team that is humble and hardworking. We think this is the best way to improve a ton of lives. Nurses will have better schedules and shorter commutes, and patients will receive better care. 
+ About the role 
+ Skills:  Express, JavaScript, MongoDB, MySQL, Node.js, React 
+ The Software Technical Team Lead is responsible for running the day to day operations of a group of developers. The individual will be a subject matter expert on our technology stack and product as well as direct manager. Our technology stack is primarily written in ReactJS, NodeJS, MongoDB. 
+ In this role, you should be able to work independently with little supervision. You should have excellent organization and problem-solving skills. If you also have hands-on experience in software development and agile methodologies, we’d like to meet you. You'll additionally be expected to understand the business and user needs that you are solving with the features that you are building. As you'll be on the frontlines of getting the feature delivered to customers you are expected to provide input while you build features in the case that there are better solutions or other considerations that you believe are important that may have not been explicitly asked of you. Your goal will be to develop high-quality software that is aligned with user needs and business goals. 
+ Responsibilities 
+ 
+ Contribute at a senior level to the development process 
+ Own the product engineering lifecycle with the team 
+ Mentor team members both at the technical level as well as the career development level 
+ Manage developer allocations on tasks to best utilize time and resources 
+ Work with Product Managers and the team to ensure that commitments are met 
+ Responsible for the quality of work completed 
+ Contribute to the design and architecture of products 
+ 
+ Requirements 
+ 
+ Proven 5+ years experience as a Senior Software Engineer 
+ Experience using automated testing frameworks 
+ Knowledge of selected programming languages (e.g. ReactJS, NodeJS, Express) 
+ In-depth knowledge of relational databases (e.g. MySQL) and NoSQL databases (e.g. MongoDB) 
+ Familiarity with various operating systems (Linux, Mac OS, Windows) 
+ Analytical mind with problem-solving aptitude 
+ Product centric 
+ 
+ Technology 
+ ReactJS Node.js Javascript Ionic Mongo 
+ Other jobs at Clipboard Health 
+ Senior Product Manager 
+ fulltime 
+ Remote 
+ $80k - $180k 
+ 3+ years 
+ Director of Engineering 
+ fulltime 
+ San francisco, ca / Remote 
+ Full Stack 
+ $90k - $160k 
+ 0.50% - 4.00% 
+ 3+ years 
+ Director of Operations 
+ fulltime 
+ Remote 
+ $60k - $140k 
+ 6+ years 
+ Customer Success Manager 
+ fulltime 
+ Remote 
+ 3+ years 
+ Operations Manager 
+ fulltime 
+ Remote 
+ 3+ years 
+ General Manager 
+ fulltime 
+ Remote 
+ $70k - $150k 
+ 1+ years 
+ Head of Support 
+ fulltime 
+ Remote 
+ 3+ years 
+ Product Analyst 
+ fulltime 
+ Remote 
+ 1+ years 
+ Engineering Lead 
+ fulltime 
+ Remote 
+ Full Stack 
+ 6+ years 
+ Senior UX/UI Designer 
+ fulltime 
+ Remote 
+ UI / UX 
+ 3+ years 
+ Chief of Staff 
+ fulltime 
+ Remote 
+ $60k - $140k 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

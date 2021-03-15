@@ -1,0 +1,6 @@
+ Required Qualifications 
+ Mid Developer: 3 - 4 years of software development experience, majority with Ruby on Rails 
+ Sr. Developer: 5+ years Rails experience 
+ Sr. Developer: 2+ years of experience mentoring and growing other developers Strong knowledge of agile development methodologies 
+ Proven track record of delivering quality work on time 
+ Enjoy working with product specialists and end-users to understand requirements 

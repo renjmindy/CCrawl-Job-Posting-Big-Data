@@ -1,0 +1,45 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Job & Workflow Setup 
+ Job Dashboard 
+ 
+ Deleting jobs 
+ Nick DeSimone 
+ 
+ January 13, 2021 15:54 
+ Updated 
+ 
+ Follow 
+ Super Admins 
+ All plans 
+ Deleting a job will remove the job and any candidates that have applied to that job from your account completely. This includes the candidate’s personal information, and the hiring team’s comments about the candidate. Before you start the process, make sure this is what you want to do. If in doubt, we suggest archiving the position, which provides more flexibility for the future. 
+ There are different reasons for deleting a job. For example, because you know that you will never be hiring for a similar role or because you need to comply with data protection laws like  the GDPR . 
+ Note:  If you delete a job that has  GDPR features (or candidates' right to erasure) enabled , then the deleted data, which includes all candidate information will be irrecoverable. 
+ 
+ Removing a job 
+ If a job is active (not archived), open the Job Editor by clicking on the three dots to the right of the job on the main dashboard. Locate the Archive button at the bottom of the job description editor and click the dropdown arrow. You'll find an option to delete the job. 
+ If a job has been archived, locate it in the list of archived jobs at the bottom of the main dashboard. 
+ Hover over it and click the option to delete it. 
+ 
+ Restoring a job 
+ It is not possible to restore a job that has been deleted. In any case, though, we suggest to  contact our Support team  and discuss your restoring request. 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ 
+ Was this helpful? 
+ 10 out of 11 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ How do I unpublish a job? 
+ What is an active job? 
+ How do I put an open requisition on hold if pausing hiring for a job? 
+ GDPR compliance settings  
+ Managing External Recruiters 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 

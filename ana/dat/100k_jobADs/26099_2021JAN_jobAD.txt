@@ -1,0 +1,27 @@
+__  
+ WorkflowMax 
+ Welcome **** 
+ Login     Sign up 
+ Home   Solutions 
+ How can we help you today? 
+ Enter your search term here... 
+ __ Search 
+ Login  or  Signup  to submit a new ticket 
+  Check ticket status  
+  Solution home    WorkflowMax FAQs   Questions & Answers 
+ 
+ Can we pick a WorkflowMax job template and/or category to use for any jobs created from HubSpot deals?   Print  
+ Modified on: Thu, May 21, 2020 at 4:16 PM 
+ 
+ Can we pick a WorkflowMax job template to use for any jobs created from HubSpot deals? 
+ Yes. To do so, first determine the exact name of each job template that you have in your WorkflowMax/XPM portal. To see a list of your job templates, go to WorkflowMax/XPM, click "Business", then "Settings", and then "Job Settings." You should see a tab labeled "Job Template": 
+ Next, go to HubSpot and create a new deal property for the job template. To create a deal property in HubSpot, click the settings gear icon and navigate down to "Properties", then click "Create Property" and ensure that the "Object Type" is "Deal." When prompted for a field type, choose "Dropdown List." You will be asked to list the options of your new dropdown property. Create an option for each of your job templates, giving them the exact same name that they have in WorkflowMax/XPM: 
+ Once the deal property has been created, go to the integration tool's  My Settings  page and click "Deal/Job Field Mappings." For the WorkflowMax/XPM field, select "Job Template." Select your new deal property as the corresponding HubSpot property (you may need to click  Refresh Field Listings  first): 
+ Once you have created the field mapping, you will want to select a job template in HubSpot before the integration picks up your deal (i.e., before it is moved to a Closed/Won stage). If the integration is able to find a matching job template in WorkflowMax/XPM, the template will be applied. 
+ The process is the same for job categories; create a HubSpot property for the job category, list your job category names as the drop-down options, then add "Job Category" as a field mapping for deals/jobs. 
+ 
+ Did you find it helpful? Yes No 
+ Send feedback 
+ Sorry we couldn't be helpful. Help us improve this article with your feedback. 
+ Related Articles 
+ Home   Solutions 

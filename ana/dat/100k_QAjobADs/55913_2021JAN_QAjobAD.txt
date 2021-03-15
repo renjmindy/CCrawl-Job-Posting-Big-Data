@@ -1,0 +1,6 @@
+ We are looking for an exceptional .NET developer that will help us take our Clients products to the next level in terms of performance, Scalability, reliability, maintainability, and usability. Responsibilities and Duties Design and develop applications for both internal and external clients Modify existing implementations based on client needs Test all components including database and web Maintaining Web sites and releasing new code on a schedule Updating content as requested by the clients Required Experience, Skills and Qualifications 1+ Year of Exp in .Net Technologies Experience in the development of Web applications using ASP.Net, C#/VB.NET, Ms SQL, LINQ Strong Core .NET and Object Oriented Programming knowledge Experience with ASP.NET and Web Forms Experience with HTML/CSS/Javascript Experience with jQuery Experience writing applications using AJAX Experience with SQL Server - including SQL and stored procedures, triggers Good to have: Experience in software development/design (SDLC) with ability to prepare specifications and reports. Knowledge of multiple design patterns (MVC, MVVM, MVP) will be an added advantage 
+ Wishlist   Apply 
+ Quick Links 
+ Find Job 
+ Job Seekers 
+ Employer Zone 

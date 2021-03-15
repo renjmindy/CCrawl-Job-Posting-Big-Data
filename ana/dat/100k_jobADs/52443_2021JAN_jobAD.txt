@@ -1,0 +1,80 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Standard Cognition (S17) 
+ AI-powered checkout for retail. 
+ Senior Software Engineer (Interaction) 
+ 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Standard Cognition 
+ About the role 
+ Skills:  Python 
+ At Standard Cognition, we’re rethinking the way retail works. We are enabling autonomous checkout for brick & mortar retailers with our AI-powered computer vision platform. Since launching in November 2017, Standard has contracts with multiple global retailers and is in the process of deploying our Standard Checkout solution across thousands of stores globally. We announced our Series A in November 2018 and we’re backed by some of Silicon Valley’s leading investors including CRV, Initialized, Draper Associates, EQT and YCombinator. Standard has raised its Series B and is valued at $535 million. 
+ We're building a soft real-time shopping comprehension engine in order to provide customers with a seamless checkout experience. We're looking for someone passionate about software development and production engineering to help perfect and scale our system. We deploy a variety of algorithms to the cloud in a live-inference setting with high-throughput demands and must do so in a scalable, efficient way for all of our stores. This role is a unique opportunity to work at the cutting edge of building systems and tools that empower machine learning at scale. 
+ As a successful Software Engineer at Standard Cognition, you will design and build high-quality production systems that drive key improvements to our machine learning inference system. Additionally, this role interacts with our research team members to drive a culture of high quality code, testing, and documentation. If this sounds like fun, we'd love to hear from you! 
+ This is a FULL TIME REMOTE role is located anywhere in the United States. 
+ What you'll do here: 
+ 
+ Design distributed systems for soft real-time data processing 
+ Build tools for Production System Monitoring, Profiling, and Instrumentation 
+ Engineer robust and fault-tolerant systems that meet high availability demands 
+ Collaborate with our research team to scale and productionize machine learning algorithms 
+ 
+ Who you are: 
+ 
+ You are experienced in backend and production engineering 
+ You are proficient in Python and are capable of working autonomously. 
+ You have experience with cloud build, deployment, and orchestration tools 
+ You communicate clearly and possess the ability to work cross-functionally with other team members 
+ You are able to problem solve in a flexible manner 
+ 
+ Only meet some of these traits or experiences? We'd still love to hear from you! 
+ Why you might want to work with us: 
+ 
+ We take care of you and your family with health, vision, and dental insurance. 
+ You will have the option to contribute to a 401k. 
+ You're excited to work on a product that will impact almost any consumer, almost anywhere. 
+ Standard is a remote first company. We trust you to get your job done in the location that works best for you. 
+ We dress casually. Some of us wear slippers in the office. In current work from home standings, we’re super comfy. 
+ We believe in a culture of learning, and want to keep building our skills, experiences, and capabilities. 
+ We offer flexible work schedules. We trust our team to know how they will do their best work. 
+ We're family friendly. We want our teammates to focus on what they need to when they need to. 
+ We offer very competitive compensation, including equity in Standard, to each one of our employees. 
+ 
+ Standard provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities. 
+ Not quite ready to apply? Send us an email at  [email protected] . Someone from the team will follow up to answer your questions. 
+ Technology 
+ Other jobs at Standard Cognition 
+ Senior Backend Engineer 
+ fulltime 
+ Remote 
+ Backend 
+ 6+ years 
+ Backend Engineer (Inventory) 
+ fulltime 
+ Remote 
+ Backend 
+ Any (new grads ok) 
+ Senior Software Engineer (Interaction) 
+ fulltime 
+ Remote 
+ Machine Learning 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

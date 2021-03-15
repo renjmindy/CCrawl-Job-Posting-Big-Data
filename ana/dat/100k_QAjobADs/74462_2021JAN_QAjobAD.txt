@@ -1,0 +1,6 @@
+ OpenStack Launches Vendor Certification, Federated Identity Support From Over 30 Cloud Providers | TechCrunch 
+ Public Cloud Compare 
+ Cloudsoft AMP + VEXXHOST: A Success Story | Cloudsoft 
+ Comparing the speed of VM creation and SSH access of cloud providers 
+ Running CoreOS Container Linux on VEXXHOST 
+ Cloud Computing Review 

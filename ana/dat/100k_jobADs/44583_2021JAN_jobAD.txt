@@ -1,0 +1,152 @@
+[ 
+ HLP/Jaeger lab blog 
+ 2 spoons of psycholinguistics, 1/2 cup full of brain, add some modeling, and run the whole thing in the tropics 
+ ](https://hlplab.wordpress.com/) 
+ 
+ 
+ 
+ 
+ About 
+ Workshops and Classes 
+ 
+ Workshops on regression at the LSA 2009 Summer Institute 
+ 2009 Workshop on Ordinary and Multilevel Models (WOMM) 
+ 
+ 
+ Where's Flo? 
+ 
+ job 
+ Come join LIN/BCS/CS/CLS at Rochester: jobs in 'Big Data' 
+ Posted on  November 8, 2013  Updated on  November 8, 2013 
+ The  University of Rochester  has recently announced a  Big Data  initiative. As part of this initiative, there will be a large number of faculty openings over the next few years, including potential hires in computational linguistics, computational neuroscience, computational psycholinguistics, etc. The first ** tenure-track positions  **are now posted. Have a look at this  list of departments and  areas in which we are searching . Please spread the word. 
+ Let me know if you have questions about these searches. If you're a language researcher, make sure to check out the  list of language faculty at Rochester  (the beautiful mixture of hospital and vomit colors is about to be replaced by something more post 20th-century). 
+   
+ This entry was posted in  HLP lab  and tagged  big data ,  computational linguistics ,  computational psycholinguistics ,  job ,  job opening ,  natural language processing ,  psycholinguistics ,  tenure track . 
+ Search for: 
+ Blog Stats 
+ 
+ 612,747 hits 
+ 
+ Follow HLP/Jaeger lab blog on WordPress.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ tiflo  on  Random effect: Should I stay or should I go? 
+ Scarlet on  Random effect: Should I stay or should I go? 
+ tiflo  on  Some examples of web-based experiments 
+ Ehsan on  Some examples of web-based experiments 
+ 
+ Categories 
+ Categories Select Category aboutThis  (7) etc.  (1) Ever noticed?  (16) For students  (33)    class/tutorial  (23)    graduate studies  (4) HLP lab  (59) link  (7) Papers  (4) Papers, Presentations, etc.  (67)    articles  (30)    Corrections  (1)    presentations  (22)    Software  (4)    summaries and reviews  (4)    thesis  (1)    workshop  (11) Presentations  (1) Press  (2) Results  (12)    Preliminary  (9) Statistics & Methodology  (94)    corpus-based research  (18)    eye-tracking  (2)    psycholinguistics in the field  (7)    self-paced reading  (6)    statistics/R  (60)    WWW experiments  (8) Survey  (1) Uncategorized  (15) 
+ Top Posts 
+ 
+ Multinomial random effects models in R 
+ Correlation plot matrices using the ellipse library 
+ transferring installed packages to a different installation of R 
+ Diagnosing collinearity in mixed models from lme4 
+ Mixed model's and Simpson's paradox  
+ 
+ 
+ adaptation   Alex Fine   artificial language learning   cogsci   collinearity   cool talks   cross-linguistic   CUNY   data analysis   Fedzechkina   field work   Fine   funding   implicit learning   javascript   Kleinschmidt   Language production   lexical production   linear mixed models   linguistic representations   lmer   LSA   Maya   Mechanical Turk   mixed logit model   mixed models   multilevel logit model   multilevel models   Norcliffe   NSF   phonetic adaptation   post-doc   psycholinguistics   Qian   R   R code   regression   self-paced reading   sentence processing   sentence production   speech perception   syntactic corpora   syntactic priming   travel/motion   typology   uniform information density   visualization   web-based experiments   word order   Yucatec 
+ 
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ Centers/Labs 
+ 
+ BCS (UofR) 
+ CCB (UofR) 
+ CLS calendar 
+ Computational PsychLing Lab (UCSD) 
+ Language Production Lab (UCSD) 
+ ProsodyLab (McGill) 
+ TedLab (MIT) 
+ HLP lab 
+ 
+   CyberLingBlog 
+ 
+ Cyberling 2009 workshop final report online  March 20, 2015 ebender 
+ PHOIBLE Online  September 15, 2014 stiv 
+ [Summer School "Coding for Language Communities"](http://blog.cyberling.org/node/10752 "Between 11th and 15th of August the Centro Interdisciplinar de Documentação Linguística e Social will organize another summer school in Minde (Portugal), dedicated to the topic "Coding for Language Communities" (CLC 2014). read more") January 23, 2014 pbouda 
+ NSF solicitation "Building Community and Capacity for Data-Intensive Research ... (BCC-SBE/EHR)"  December 12, 2013 terry 
+ [Review of Glottolog 2.0](http://blog.cyberling.org/node/10712 "Back in February of 2012, Sebastian Nordhoff (MPI-EVA) announced on Cyberling the launch of Glottolog/Langdoc, a comprehensive database of bibliographic data about the world’s languages.[1] Unfortunately, given the ephemeral nature of Web resources, links in this announcement, such as "Give me all works about Zulu" now return 404 error messages. Ho […]") August 24, 2013 stiv 
+ 
+   Language Log 
+ 
+ Persian peaches of immortality  January 22, 2021 Victor Mair 
+ [Spinach: the Persian vegetable](https://languagelog.ldc.upenn.edu/nll/?p=50014&utm_source=rss&utm_medium=rss&utm_campaign=spinach-the-persian-vegetable "The other day, when we were discussing where Napa cabbage came from, Diana Shuheng Zhang mentioned to me that the Chinese word for "spinach", bōcài 菠菜, indicates that it came from Persia.  She's usually right about such things, and she was in this case too: From earlier 波斯菜 (bōsīcài), from 波斯 (Bōsī, “Persia”) + 菜 […] […]") January 19, 2021 Victor Mair 
+ Shanghainese posters  January 17, 2021 Victor Mair 
+ [Google Translate Sabotage, part 2](https://languagelog.ldc.upenn.edu/nll/?p=50010&utm_source=rss&utm_medium=rss&utm_campaign=google-translate-sabotage-part-2 "This is all over the Chinese internet: (source) The Chinese translation given is: Zhōngguó xìnshǒu nuòyán 中国信守诺言 "China keeps its promise" That's the exact opposite of the English original:  "China breaks promise" This is so far off and politically motivated that it seems someone, or some group, must have sabotaged Google Translate i […]") January 17, 2021 Victor Mair 
+ [Kanji-esque alphabet writing on a sake label](https://languagelog.ldc.upenn.edu/nll/?p=49994&utm_source=rss&utm_medium=rss&utm_campaign=kanji-esque-alphabet-writing-on-a-sake-label "From Frank Clements: (source) Can you read it? Selected readings "'Book from the Ground'" (12/5/12) "The unpredictability of Chinese character formation and pronunciation" (2/6/12) "Chinese characters formed from letters of the alphabet" (8/20/14) "The infinitude of Chinese characters " (9/9/20) "How to […]") January 17, 2021 Victor Mair 
+ 
+ Create a free website or blog at WordPress.com. 
+ We teamed up with Eventbrite 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

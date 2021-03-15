@@ -1,0 +1,82 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ The Muse (W12) 
+ The Muse helps professionals find best-fit jobs, companies and careers 
+ Director of Analytics & Business Intelligence 
+ 
+ Location 
+ New York, NY 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About The Muse 
+ The Muse is a career platform used by over 70 million people to find their best-fit jobs, companies and careers, and was recently named one of Fast Company's 50 Most Innovative Companies in the World. Smart companies work with us to attract today’s top talent, giving candidates the information they need to find the company that is right for them. Why? Because life’s too short to hate your career. 
+ About the role 
+ Skills:  SQL, Data Warehousing, ETL, Data Analytics 
+ The Muse is a career platform used by over 70 million people to find their best-fit jobs, companies and careers, and was recently named one of Fast Company's 50 Most Innovative Companies in the World. Smart companies work with us to attract today’s top talent, giving candidates the information they need to find the company that is right for them. Why? Because life’s too short to hate your career. 
+ The Muse is seeking a talented Director of Analytics & Business Intelligence who is deeply curious, business minded, and passionate about the power of data to inform high impact decisions. You’ll report directly to the Chief Financial Officer, and be the most senior data leader at the company, partnering with every team and executive. Join our team of Musers who believe in making the world of work better, and are motivated by solving tough problems that make a difference in users’ lives. 
+ The majority of the team is headquartered in New York, NY (37th & Broadway) currently working remotely. 
+ How You’ll Make an Impact 
+ 
+ You’ll raise the bar as we leverage large datasets to drive our business, our clients’ business, and our impact on individual consumers’ career 
+ You’ll own the design, development, and maintenance of scalable solutions for ongoing metrics, reports, analyses, dashboards, etc. 
+ You’ll work very closely across all teams to provide valuable data-driven insights and recommendations. 
+ You will become an expert in The Muse’s large dataset, understanding the key levers in our business and driving optimization and growth. 
+ You'll work with product owners and stakeholders across departments to identify opportunities based on trends in data. 
+ You’ll help us develop our data warehouse by defining our business data marts with fact-dimension modelling. 
+ You’ll lead an effort to restructure our existing event collection framework, collaborating with the Data Engineering team. 
+ You’ll proactively provide regular updates on company KPIs, conduct analysis and flag anomalies. In addition, you’ll ensure that all stakeholders have access to reliable and accurate dashboards and reporting as required to operate their areas of business, creating standard metrics reporting and delivering on ad hoc requests. 
+ You’ll develop queries and visualizations for ad-hoc requests and projects, as well as ongoing reporting. Specifically, own all SQL, Looker and Google Analytics functions – ad hoc, recurring, troubleshooting 
+ You'll empower your partners in Product, Design, and engineering with the tools and skills needed to view and analyze product data. 
+ You’ll monitor and work with multiple teams across the business to troubleshoot operational or data issues in the data pipelines 
+ 
+ Why We’ll Love You 
+ 
+ 5+ years experience in business intelligence / analytics, consumer facing web products a plus 
+ Very experienced with the concepts of fact-dimension modeling for data warehouse design. 
+ You have demonstrated strong business acumen and the ability to work effectively with cross functional teams in a fast paced environment and ambiguous workspace. Proven ability to solve complex quantitative business challenges 
+ Expert level knowledge of SQL combined with an understanding of big data and real-time processing systems and tools. Experience with R or Python a plus. 
+ Experience with business intelligence platform tooling; experience with Looker a plus 
+ Experience with defining ETL data pipelines and data transformations, dbt experience a plus. 
+ You excel at translating basic business problem statements into analysis requirements, and working with internal customers to define best output based on expressed stakeholder needs 
+ Comfort leading and evangelizing a data-driven culture that is built around rigor and quality, and yet are comfortable with uncertainty 
+ Strong verbal/written communication & data presentation skills, including an ability to effectively communicate with both business and technical teams, from executive leadership to the company as a whole 
+ You're collaborative, diplomatic and humble. You have no problem rolling up your sleeves and running queries or answering BI tickets yourself 
+ Ability to influence others, strong attention to detail, excellent organization skills, and ability to manage multiple projects and responsibilities are critical to success in this position 
+ You're curious, know when you’re not at the bottom of the problem, and will scratch under the surface with the right questions and explore the data to get to the best answer or solution 
+ HR Tech, ad-tech, content or marketplace industry a plus 
+ And finally, you have passion and empathy for job seekers—you’ve been there too and want to be a part of building a better experience and changing the industry for the better 
+ 
+ Why You’ll Love Us 
+ 
+ You’ll be surrounded by a collaborative team that is working together to reshape the future of work. 
+ We move fast, with product releases every day and an iterative approach to developing new features and measuring their success. We experiment across the org and aren’t afraid to try new things 
+ You’ll work at a tech company founded by two badass women—Our founders believe transparency is important so they really try to share as much as they can about changes to The Muse strategy, board meetings, and when they are wrestling with big company-wide decisions. 
+ The Muse actually has—and sticks to—a “no assholes” policy, so you can come to work everyday knowing you will always be surrounded by good people who genuinely care about you. 
+ We invest in growing our people—personally and professionally 
+ We offer unlimited vacation—and we mean it! 
+ 
+ At The Muse, we believe that great ideas come from anywhere. We support a collaborative environment and value open participation from individuals with different ideas, experiences, and perspectives. We believe having a diverse team makes The Muse a more interesting and innovative place to work, and we strive every day to make The Muse a welcoming and inclusive place for all. 
+ If this could be your dream job, please submit a cover letter and resume, so we can get to know you a little better. 
+ Technology 
+ Our software is built using a number of tools including JavaScript and Python as our development languages, AWS for our deployment environment, Jira to manage our team’s work, and Looker to analyse how our applications are performing. 
+ Other jobs at The Muse 
+ Director of Analytics & Business Intelligence 
+ fulltime 
+ New York, NY 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

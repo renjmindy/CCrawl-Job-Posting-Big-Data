@@ -1,0 +1,6 @@
+ Qualifications 
+ A recently obtained PhD (within 5 years) or equivalent degree in bioinformatics, computational biology, statistics, computer science or related fields are strongly preferred 
+ Minimum 3 years of experience with bioinformatics resources, databases, tools and common standard formats 
+ Minimum 3 years of experience with programming and data analysis in R, Python, Perl, Matlab or similar 
+ Minimum 3 years of experience in analysing next-generation sequencing and/or microarray data 
+ Strong scientific publication record in peer-reviewed journals on bioinformatics and/or cancer research 

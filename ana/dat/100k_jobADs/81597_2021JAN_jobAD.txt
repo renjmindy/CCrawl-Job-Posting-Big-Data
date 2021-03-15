@@ -1,0 +1,163 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ IBM FTM Digital Payments Developer 
+ CGI 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ IBM FTM Digital Payments Developer 
+ CGI 
+ [](mailto:?subject=IBM%20FTM%20Digital%20Payments%20Developer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14196574/ibm-ftm-digital-payments-developer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 10, 2020 
+ Location: 
+ Pittsburgh, Pennsylvania 
+ __ Show Map 
+ Type: 
+ Full Time - Experienced 
+ Position Description 
+ CGI is hiring an IBM FTM Digital Payments Developer to join our financial services team in Pittsburgh, PA. 
+ At CGI, you get to build solutions as a full time consultant with a world-class IT company. You will be involved in a mission critical project working with smart, dedicated people like yourself, and making an impact with both internal and client stakeholders. Take your talents to a company that inspires personal and professional growth and values your ideas. 
+ Your future duties and responsibilities 
+ • Develop payments processing applications using IBM FTM 
+• Build Finite state machines using Rational software architect 
+• Build and deploy IIB message flows 
+• Creating service framework tasks using Java 
+• Build Rest services and integrations with several interfaces 
+• Map and transform the input and output format types 
+• Unit test application and support QA testing 
+• Responsible for deployments in several environments 
+ Required qualifications to be successful in this role 
+ General: 
+• Strong interpersonal and communication skills 
+• Experience with Agile Methodology 
+ Must Have Technical Skills: 
+• 6+ years of experience as an expert in IBM Financial Transaction Manager (FTM) product 
+• 6+ years of experience with IIB 
+• Experience in other IBM products such as WTX and MQ. 
+• 5+ years of java development experience 
+• Experience working on large BI projects/programs 
+• Payment Processing Systems in large banks 
+• Payments messaging standards such as NACHA, ISO 20022, SWIFT 
+• SOA design principles 
+• Modeling using RSA 
+• Mapping for the different types of Payment standards 
+• Experience with application development on WebSphere Message Broker or a similar ESB 
+• IBM WebSphere Transformation Extender 
+• Developing Restful web services 
+ Good to know: 
+• Experience in WTX mappings 
+ Education: BS in Computer Science, Software Engineering, related IT field or equivalent combination of experience and education 
+ We offer a competitive compensation package where you will be rewarded based on your performance and recognized for the value you bring to our business. In addition, our benefits package includes multiple medical, dental, & vision options, both a Shared Purchase Plan (SPP) for CGI stocks and a 401(k) plan, as well as numerous other life style benefits. CGI also provides sick leave and vacation pay. 
+ Skills 
+ 
+ Banking 
+ Java 
+ WebSphere 
+ 
+ 
+ 
+ Internal Number: J0220-1570 
+  __  Create a Job Alert for Similar Jobs  
+ About CGI 
+ Build your career with us. It is an extraordinary time to be in business. As digital transformation continues to accelerate, CGI is at the center of this change—supporting our clients’ digital journeys and offering our professionals exciting career opportunities. At CGI, our success comes from the talent and commitment of our professionals. As one team, we share the challenges and rewards that come from growing our company, which reinforces our culture of ownership. All of our professionals benefit from the value we collectively create. Be part of building one of the largest independent technology and business services firms in the world. 
+ Connections working at CGI 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

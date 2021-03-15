@@ -1,0 +1,6 @@
+ Qualifications 
+ 5+ years experience working on teams with Agile & Lean methodologies 
+ Languages/Tools: Kubernetes, Docker, Rancher, Serverless Framework, Magento, React, Java, Go, MySql, PHP, Typescript, Redis, AWS, Git and experience with OAuth and RESTful APIs 
+ Ability to use alerting and monitoring solutions to proactively identify and resolve issues 
+ Ability to lead projects from start to finish 
+ Experience with e-commerce is strongly desired 

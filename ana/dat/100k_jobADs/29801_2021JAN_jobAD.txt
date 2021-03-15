@@ -1,0 +1,80 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Database Administrator 
+ BC IMC 
+ __Victoria, BC 
+ Apply Now 
+ DEPARTMENT DESCRIPTION 
+ The Technology department is responsible for developing technology solutions that contribute to the achievement of BCI’s mission and long-term goals. The department manages the Corporation’s business applications and information technology infrastructure, providing support to a large group of financial professionals. The department is also responsible for authoring technology-related directives and conducting disaster recovery planning to minimize risk to the Corporation’s delivery of investment services. 
+ POSITION DESCRIPTION 
+ Reporting to the Manager, Environment Management & DBA Services, the Database Administrator assists in managing BCI’s database systems including maintenance support for various databases in multiple environments, the development of database scripts, and ongoing monitoring of databases to ensure the highest level of database availability and reliability. S/he will work closely with Senior DBAs, business users and other IT teams to assist others with their database requests, applying database patches, providing first level support for troubleshooting database issues, and supporting the deployment of database changes. 
+ The position can be based in either Vancouver or Victoria with travel between the two cities. 
+ QUALIFICATIONS 
+ Bachelor’s degree in Computer Science or a related field 
+A minimum of 1-year related experience in database development, administration and support 
+Must have demonstrated ability in database administration, database development, database security management, backup and recovery operations 
+Must have strong analytical problem-solving skills and communication skills 
+Must be detailed oriented and participate effectively in a team environment 
+Demonstrated capabilities working with MS SQL Server, Oracle and other database technologies 
+Relevant database certification(s) and experience with complex financial systems and cloud-based database technologies are an asset 
+PRIMARY RESPONSIBILITIES 
+Assist in creating and maintaining BCI databases and DB servers 
+Monitor performance of database systems resources and query throughput 
+Monitor database backup and maintenance jobs 
+Perform database ad-hoc backups, restores, or refresh as required 
+Follow change management processes to implement database changes 
+Proactively monitor database alerts and respond to or escalate to Senior DBAs as necessary 
+Provide timely support on database requests and tickets 
+Install new instances of SQL Server software, and applies upgrades, patches and fixes when needed 
+Communicate, execute, and document database related maintenance and upgrades 
+Support audit and security processes by applying industry best practices such as the least privilege, segregation of duties, alerting of improper access, classification of data 
+Ensure adherence to IT Service Management (ITSM) incident and change management processes for database requests 
+Actively adhere to compliance and risk management policies, and participate in business continuity and disaster recovery testing as required 
+Ensure technical artifacts are accurate, accessible, maintained and communicated 
+Undertake special projects or assignments as required 
+Perform other related duties as required 
+ COMPETENCIES 
+ Organizing & Planning 
+ Effective performers have strong organizing and planning skills that allow them to be highly productive and efficient. They manage their time wisely and effectively prioritize multiple competing tasks. They follow through on tasks to ensure changes in technology are communicated effectively. 
+ Problem Solving 
+ Effective performers are able to identify problems, solve them, act decisively and show good judgment. They isolate causes from symptoms and compile information and alternatives to illuminate problems and issues. They involve others as appropriate and gather information from a variety of sources. They find a balance between studying the problem and solving it. 
+ Relationship Building 
+ Establishes and proactively maintains a broad network of relationships (e.g. colleagues, co-workers, vendors, suppliers, etc.). They value these relationships and work effectively across the organization by maintaining positive working relationships with peers and others. 
+ Communicativeness 
+ Effective performers clearly and articulately convey technical and other information both orally and in writing to others in a manner appropriate to the listener. They write clearly, accurately and concisely, composing project, technical and other required documentation as required. 
+ High Standards 
+ Effective performers maintain appropriate focus on outcomes and accomplishments. They are motivated by achievement and persist until the goal is reached. They convey a sense of urgency to make things happen. They respect the need to balance short- and long-term goals. They are driven by a need for closure. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

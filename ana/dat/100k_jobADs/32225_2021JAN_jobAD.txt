@@ -1,0 +1,209 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Software Engineer 
+ [ 
+ The RealReal 
+ ](/companies/the-realreal) 
+ Stockholm, Sweden 
+ 02 July, 2020 
+ Apply 
+ More jobs from The RealReal About The RealReal 
+ Salary 
+ 601K - 900K SEK 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Elixir 
+ Erlang 
+ Ruby 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health insurance 
+ Generous pto 
+ Full healthcare coverage 
+ Dental insurance 
+ Stock options 
+ 401(k) matching 
+ Pension 
+ Pension contributions 
+ Training 
+ Equal pay policy 
+ Diversity dedicated staff 
+ Child care benefits 
+ Parental leave 
+ Flexible parent working 
+ Commuter flex spending 
+ Mothers room 
+ Stock 
+ Medical 
+ 
+ As a Senior Software Engineer, you’ll design and build software for automating critical operation processes. 
+ Role overview 
+ The RealReal is leading the way in authenticated luxury consignment, online and in real life at our brick and mortar locations. Founded in 2011, we’re growing fast and fundamentally changing the way people buy and sell luxury — a multi-billion dollar industry. With a team of in-house experts who inspect every item we sell, our commitment to authenticity sets us apart and creates a foundation of trust with shoppers and consignors. Our mission to extend the life cycle of luxury items is leading innovation in sustainable fashion. We’re proud to promote the circular economy and to be the first luxury member of the Ellen MacArthur Foundation’s prestigious CE100 USA. 
+ Employees at The RealReal are dedicated, collaborative and innovative, and we’re looking for exceptional talent to join our team. At The RealReal the development team is composed of strong full-stack engineers and is instrumental in the success of our high-end fashion marketplace business. You will be exposed to the latest technology, a pervasive data-driven culture, while surrounded by a friendly, helpful team. The fast growth of our business gives you the opportunity to make a strong impact. 
+ As a Senior Software Engineer, you’ll design and build software for automating critical operation processes. 
+ RealReal are now looking to build out their European presence with a new Stockholm operation. Initially the role will be remote whilst they build the team, and will most likely be based in the brand new Stockholm WeWork! 
+ **  DUTIES & RESPONSIBILITIES ** 
+ 
+ Produce high quality, performant, testable code 
+ Review pull requests and provide constructive feedback 
+ Pair up with someone to work together on a feature 
+ Learn something new, and mentor junior engineers 
+ Deploy to production multiple times 
+ Help define technical strategy and architecture 
+ 
+ **  REQUIREMENTS ** 
+ 
+ 5+ years of professional web application development experience 
+ Fluency with any of Ruby, Elixir, Erlang 
+ Strong understanding of web technologies: HTML5, Javascript, CSS/SASS, REST, JSON 
+ Strong understanding of web-app performance fundamentals and related dev tools 
+ Strong database fundamentals and experience with MySql or Postgresql 
+ Worked with search engines such as ElasticSearch, Lucene, Solr 
+ Experience using async message queues 
+ Mastery of git and Github workflowsBachelor of Computer Science degree or equivalent 
+ 
+ **  NICE TO HAVE ** 
+ 
+ Experience with Elixir, Phoenix 
+ Advanced CS degree or equivalent 
+ 
+ 
+ [ 
+ The RealReal 
+ ](/companies/the-realreal) 
+ 
+ 
+ 250+ 
+ 
+ 
+ San Francisco, CA, US 
+ 
+ 
+ The RealReal is the leader in authenticated luxury consignment. With an expert behind every item, we ensure everything we sell is 100% real. We have 60+ in-house gemologists, horologists and brand authenticators who inspect thousands of items available online each day. As a sustainable company, we give new life to pieces by brands from Chanel to Cartier, and hundreds more, supporting the circular economy. We make consigning effortless with free in-home pickup, drop-off service and direct shipping. At our store in SoHo NYC customers can shop, consign and meet with our experts to learn more about luxury authenticity and sustainability. Across the country at our eight Luxury Consignment Offices, clients can consign and receive free, expert valuations of their luxury goods. 
+ Fashion Public CI/CD Cloud Technology Kafka MySQL Generous PTO Full Healthcare Coverage 
+ View 2 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from The RealReal About The RealReal 
+ Salary 
+ 601K - 900K SEK 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Elixir 
+ Erlang 
+ Ruby 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health insurance 
+ Generous pto 
+ Full healthcare coverage 
+ Dental insurance 
+ Stock options 
+ 401(k) matching 
+ Pension 
+ Pension contributions 
+ Training 
+ Equal pay policy 
+ Diversity dedicated staff 
+ Child care benefits 
+ Parental leave 
+ Flexible parent working 
+ Commuter flex spending 
+ Mothers room 
+ Stock 
+ Medical 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Technical Team Lead€50K - 75KDerivcoStockholm, Sweden 
+ Are you an experienced Software Developer looking to move into a lead position whilst remaining hands on? 
+ Sponsorship 
+ elixir erlang 
+ More Info Apply 
+ Elixir Developer€40K - 75KDerivcoStockholm, Sweden 
+ World leading Sportsbook provider 
+ Sponsorship 
+ go elixir erlang linux 
+ More Info Apply 
+ Technical Team Lead€60K - 75KDerivcoBarcelona, Spain 
+ Are you an experienced Software Developer looking to move into a lead position whilst remaining hands on? 
+ elixir erlang ruby 
+ More Info Apply 
+ Senior Software Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

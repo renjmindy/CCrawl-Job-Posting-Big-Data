@@ -1,0 +1,307 @@
+Skip to main content 
+ Javascript is disabled on your browser. In order to display this website properly, please enable javascript. 
+  Workiva Workiva.com  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Partners 
+ Connectors 
+ Security 
+ 
+ 
+ Solutions 
+ 
+ Capital Market Transactions 
+ Internal Audit Management 
+ Management Reporting 
+ SEC Reporting 
+ SOX Compliance 
+ Statutory Reporting 
+ + 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ Industries 
+ 
+ Banking 
+ Energy and Utilities 
+ Government 
+ Higher Education 
+ Insurance 
+ Investments 
+ + 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Customers 
+ The nicest thing about the Workiva platform is just feeling in control. 
+ ](/customers) 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Education 
+ 
+ Community 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Off the Books Podcast 
+ Surfing the uncharted waters of accounting, finance, and wherever else the waves take us. 
+ ](/off-the-books-podcast) 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Request Demo 
+ 
+ 
+ Sign In 
+ 
+ 
+ Menu 
+ Takeaways from Five Dysfunctions of a Team Training 
+ October 21, 2019 
+ Takeaways from Five Dysfunctions of a Team Training 
+ Recently, the Denver dev team took a day to attend a training exercise where we discussed  The Five Dysfunctions of a Team  by Patrick Lencioni. 
+ In his book, Lencioni describes a set of dysfunctional behaviors that can negatively impact teams. First, he tells a story about a fictional executive team that is experiencing all of the five dysfunctions. The story takes the reader through a series of executive offsite meetings where the team discusses and addresses these dysfunctions despite interpersonal drama and conflict. Lencioni’s characters are relatable, which helps drive his points home. 
+ In the second half of the book, Lencioni drops the story and takes a more academic perspective. He goes in depth on each of the dysfunctions: how to recognize them, address them, and follow up on them. The back of the book contains a test that each member of a team can take, which gives a team their resulting score for each section of the pyramid. 
+ Model 
+ Dysfunction 1: Absence of trust 
+ According to the book, the basis of all team dysfunctions is a lack of trust between team members. If you feel like you can't be open with your coworkers or that you're always watching your back, you aren't able to be an effective team member. Oftentimes, this leads to avoiding difficult conversations and topics. 
+ Dysfunction 2: Fear of conflict 
+ Avoiding conflict can contribute to poor communication and is often exacerbated when team members don't trust each other enough to voice their opinions. No matter the situation, many people are uncomfortable with conflict and go out of their way to avoid dealing with it. However, avoiding difficult conversations or debates with your team can make priorities unclear and prevent team members from buying into decisions, leading to a lack of team commitment. 
+ Dysfunction 3: Lack of commitment 
+ When it comes to difficult team decisions, most people want to voice their opinions. If they don't feel able to provide feedback due to a lack of trust and/or fear of conflict, many times people won't buy in to the final decision. Failing to have constructive discussions and then dictating a business directive is not likely to go over well. 
+ Regardless of if there is team-wide agreement with the final outcome, everyone needs to support the decision for the success of the team. Without broad support of priorities, your team may not seem like it has a clear direction and could start missing important deadlines. 
+ Dysfunction 4: Avoidance of accountability 
+ A huge part of the five dysfunctions is holding your fellow teammates accountable for their work. It's not meant to encourage public shaming of your coworkers, but rather it is a way to make everyone feel like they're responsible for the team's success. 
+ Instead of exclusively letting your manager deal with holding your team members accountable, Lencioni suggests accountability should be happening among peers. For example, if one of your teammates has been stuck on something for a while, ask if they would like help. By using  "I" statements  (I feel when..., I would like...) and focusing on behaviors instead of personality faults, you shift the conversation away from blaming or attacking. 
+ Dysfunction 5: Inattention to results 
+ If the whole team is holding each other accountable, you can more quickly notice when your team is falling behind or isn't accomplishing its goals. It is essential to set clear expectations and make sure everyone is on the same page, so the team knows what they are aiming to achieve. 
+ Once you start prioritizing other things—such as personal goals unrelated to the team—over your team’s goals, the team may not be able to reach its desired sprint target, OKR, or yearly goal. A results-oriented crew that works well together can take the team to a whole new level of productivity. 
+ Here is the full dysfunction model with notes and tidbits in each tier for more information: 
+ Team dysfunction test 
+ The back of the book contains a test with questions that will give a score for each dysfunction. For example, “Team members are passionate and unguarded in their discussion of issues,” or “Team members end discussions with clear and specific resolutions and calls to action.” When the scores are compiled from each team member, you get the group’s score for each tier of the model. 
+ Our results 
+ Our team’s results indicated that our team had a high level of trust and attention to results, but we have an opportunity for improvement to hold each other accountable. Throughout the training we discussed our scores and whether or not we felt they were accurate. We determined specific actions that would help us improve on our areas of focus, and in follow-up meetings, we adjusted our team agreements to reflect what we learned. 
+ The conversations we had after the training were uncomfortable, but 100% necessary. We all had strong feelings about how to improve as a team, and we confronted some difficult topics. The mood of the team has been better ever since, and we are committed to continuously discussing these topics and holding ourselves accountable. 
+ Next steps 
+ The realization that we came to is that one training wouldn’t fix any issues we were having, but it made us aware that we were overlooking some necessary maintenance to be a highly effective team. 
+ The final takeaway that came from our post-training discussions was the importance of our team brand and buy-in. We’ve been named “A-Team” for a few years now, and a lot of the original A-Team members are no longer with us. In an effort to redefine our team brand and get buy-in from all members new and old, we decided to rename ourselves Team RAM (Reporting & Attachment Management) and declare a new mission statement. We’ve clearly defined our new mission statement, team agreements, and how we want to apply our training takeaways moving forward. 
+ This was the first five dysfunctions training Workiva has run, and we are already seeing immense benefit from it. We would highly encourage any and every team—functional or not—to partake. 
+ Communication 
+ Culture 
+ 
+ Most Popular 
+ Workiva One of Fortune Magazine’s 100 Best Companies to Work For 
+ DSM Hack 2018 - My Experience 
+ Insight into the role of a manager: asking questions 
+ Popular Categories 
+ Giving Back 
+ Culture 
+ Communication 
+ Leadership 
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Connectors 
+ Partners 
+ Security 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Support 
+ 
+ Community 
+ Customer Support 
+ Developers 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Locations 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Twitter 
+ 
+ 
+ YouTube 
+ 
+ 
+ Select Region 
+ 
+ 
+ 
+ 
+ Legal 
+ Privacy Policy 
+ Sitemap 
+ 
+ (C)2021 Workiva 
+ 2900 University Blvd 
+Ames, IA 50010 
+  AICPA  
+ 
+ __ 
+ In the meantime, visit the resources below. 
+ [ 
+ Handbook: Surviving the New Normal 
+ ](/new-normal) 
+ [ 
+ How Sysco and Blackbaud kept business as usual 
+ ](/resources/how-sysco-and-blackbaud-kept-business-usual) 
+ [ 
+ Connected Reporting and Compliance Brochure 
+ ](/resources/connected-reporting-and-compliance-brochure) 
+ Select Region 
+ 
+ Australia 
+ France 
+ Germany 
+ Netherlands 
+ Singapore 
+ United Kingdom 
+ United States 
+ 
+ Online registration is currently unavailable. 
+ Please email  events@workiva  to register for this event. 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Thank you 
+ A Workiva team member will follow up with you shortly. 
+ Thank you for registering 
+ You'll receive a confirmation email shortly. 
+ Thank you 
+ You are now subscribed to receive blog updates. 
+ Thank you 
+ Your preferences have been updated. 

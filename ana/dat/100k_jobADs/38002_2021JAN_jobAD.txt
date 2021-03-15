@@ -1,0 +1,77 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Craft CMS Developer - Full Time/Permanent Remote REMOTEPERMANENT 
+ Job Description 
+ Founded in 2015, Betterteam has since created a beautiful, and easy to use system that allows any business to start hiring online. Our software helps businesses post their jobs to hundreds of job boards so they can get the job filled fast with the best quality candidate available. 
+ We are looking for an experienced Craft CMS Developer to work on  https://www.betterteam.com  on a full time basis. 
+ Please note we only want to hire an individual. If you are a dev firm please do not apply. We are also a 100% remote company. 
+ The Projects: 
+ 
+ Modifications to existing templates. 
+ Creation of new templates. Mostly simple ones but some will be complex. 
+ Upgrade to Craft 3 
+ We get lots of mobile traffic so everything needs to be perfectly responsive. 
+ Plenty of HTML/JS work on  https://www.betterteam.com  and our app. 
+ 
+ About You: 
+ 
+ Current experience with Craft CMS, HTML, and JS. No learning on the job with this one sorry. 
+ Some experience with ember would be great but is not essential. 
+ Available to work 40 hours per work as a minimum. This is a full time role so you would need to be dedicated to working on our tickets. Small side-gigs and projects are fine but if you already have a full time role or other substantial freelance projects this won't work. 
+ Our team is spread between US, Japan, and Australia. Some overlap with these timezones would be great but not essential. 
+ 
+ How to Apply 
+ Please email  [email protected]  with: 
+ 
+ Your monthly rate in USD. 
+ Your availability (when you can start) 
+ Links to Craft CMS sites you have worked on recently. 
+ Some attached code samples, or links to a repo, would also be ideal but if you do not have any you can send we can get you to complete a short coding exercise. 
+ 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Betterteam 
+ 
+ __ 
+ 
+ Location:  Sydney, NSW Australia 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://www.betterteam.com 
+ __  Posted January 17, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

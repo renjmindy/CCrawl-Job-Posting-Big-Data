@@ -1,0 +1,179 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Lead .NET Engineer 
+ OpenArc 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Lead .NET Engineer 
+ OpenArc 
+ [](mailto:?subject=Lead%20%2ENET%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14241324/lead-net-engineer/ "Email")  
+ Application 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 28, 2020 
+ Location: 
+ Pittsburgh, Pennsylvania 
+ __ Show Map 
+ Type: 
+ Full Time - Experienced 
+ Under the limited direction of the Director of Software Development, you will work on an agile team developing innovative healthcare technology solutions that remove barriers for patients and physicians for specialty pharmaceutical products. 
+ RESPONSIBILITIES 
+ 
+ Work directly with customers to understand their issues and needs, define changes to production systems, partner with other developers and designers including development teams outside the company, iterate through design and implementation, demo to stakeholders, gather feedback, launch, and incorporate lessons learned to improve the software development process going forward 
+ Write software, including implementing, maintaining, and improving products developed by the company, in addition to internal tools, unit testing own and others’ code, peer review of others’ code 
+ Participate in software design and design review, including being familiar with and contributing to Software Design Documentation (SDD) 
+ Participates in continual improvement of the tools and processes involved in the software development process 
+ Work with Quality Assurance (QA) and Customer Support teams, including bug tracking/issue management 
+ Perform end-user and technical support to a wide range of executives, management, and staff members 
+ Engage with clients to understand scope and how critical new change requests are. 
+ Additional responsibilities may include: 
+ Assisting or managing QA, or Demo deployments 
+ Developing training plans, outlines, and materials for clients 
+ Serving as primary point of contact after formal training 
+ 
+ REQUIREMENTS 
+ 
+ BS degree in computer science, engineering or related field required 
+ Experience: At least 1-2 substantive projects in .NET / .NET MVC / .NET Core / etc. 
+ Core .NET Skill Sets: C#, .NET, Visual Studio, etc. 
+ .NET Web Developer: .NET MVC, .NET Core, WPF, etc. 
+ Front End Frameworks: jQuery, React, Angular, etc. 
+ Database/Data: SQL Server, LINQ, Entity Framework, SSIS, ETL, etc. 
+ Software Engineering: Unit Testing/NUnit, Mocking, Integration Testing, Dependency Injection, Design Patterns, etc. 
+ Process: Scrum, Agile, Kanban, JIRA 
+ 
+ The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law. 
+ 
+ 
+  __  Create a Job Alert for Similar Jobs  
+ About OpenArc 
+ OpenArc is a technology consulting firm providing industry-leading technical talent placement, software development, and technology strategy services to clients nationwide. Through a unique blending of people and software, OpenArc has a business practice that delivers amazing enterprise, mobile and consumer-facing apps and the best talent for contract, contract-to-hire and direct placements for clients and partners alike. Staffed with the most-trusted recruiting experts, elite software developers, UI/UX designers and market experts, our team provides clients with the best resources, the right techniques and world-class support resulting in powerful measurable success. 
+ Connections working at OpenArc 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Java Development Lead 
+ __  Glasgow, United Kingdom 
+ 
+ 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ Software Engineering Lead 
+ __  London, United Kingdom 
+ 
+ 
+ Referment Limited 
+ __Today 
+ 
+ 
+ Software Engineer /Application Support 
+ __  Chicago, Illinois 
+ 
+ 
+ J.P.Morgan 
+ __2 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

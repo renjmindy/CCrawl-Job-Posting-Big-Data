@@ -1,0 +1,661 @@
+Blog Log in 
+ Translate WordPress.com 
+ 
+ Projects 
+ WordPress.com 
+ Calypso Extensions 
+ WP Job Manager 
+ Uighur 
+ 
+ Translation of WP Job Manager: Uighur  Glossary 
+ [ 
+ 9 / 98 Strings (9 %) 
+ ](/views/projects/wpcom/calypso-extensions/wp-job-manager/ug/default/) 
+ <-   1  …  3   4  5  6   7   -> 
+ Filter ↓ • Sort ↓  •   All (98)  •  Untranslated (89)  •  Waiting (0)  •  Fuzzy (0)  •  Warnings (0) 
+  Term:  
+ 
+ Term Scope: 
+Originals only 
+Translations only 
+Context only 
+References only 
+Both Originals and Translations 
+Any 
+  Status:  
+ 
+ Current/waiting/fuzzy + untranslated (All) 
+Current only 
+Approved, but obsoleted by another translation 
+Waiting approval 
+Rejected 
+Without current translation 
+Any 
+  Options:  
+ 
+ With comment 
+With context 
+Case sensitive 
+With warnings 
+User: 
+   Date added (original)  
+ 
+ Date added (translation) 
+Original string 
+Translation 
+Priority 
+Filename in source 
+Random 
+ Order:
+Ascending 
+Descending 
+ 
+ 
+ 
+ 
+ 
+ Prio 
+ Original string 
+ Translation 
+ -- 
+ 
+ 
+ 
+ 
+ Display {{listings /}} job listing per page 
+ You  have to log in  to add a translation. 
+ Details 
+ 
+ 
+ 
+ 
+ Singular: Display {{listings /}} job listing per page 
+ Display {{listings /}} job listing per page 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ Plural: Display {{listings /}} job listings per page 
+ Display {{listings /}} job listings per page 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:63 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Hide filled positions  |  You  have to log in  to add a translation. |  Details 
+ Hide filled positions 
+ Hide filled positions 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:87 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Filled positions will not display in your archives.  |  You  have to log in  to add a translation. |  Details 
+ Filled positions will not display in your archives. 
+ Filled positions will not display in your archives. 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:90 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Hide expired listings in job archives/search  |  You  have to log in  to add a translation. |  Details 
+ Hide expired listings in job archives/search 
+ Hide expired listings in job archives/search 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:96 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Expired job listings will not be searchable.  |  You  have to log in  to add a translation. |  Details 
+ Expired job listings will not be searchable. 
+ Expired job listings will not be searchable. 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:99 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Hide content in expired single job listings  |  You  have to log in  to add a translation. |  Details 
+ Hide content in expired single job listings 
+ Hide content in expired single job listings 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:105 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Your site will display the titles of expired listings, but not the content of the listings. Otherwise, expired listings display their full content minus the application area.  |  You  have to log in  to add a translation. |  Details 
+ Your site will display the titles of expired listings, but not the content of the listings. Otherwise, expired listings display their full content minus the application area. 
+ Your site will display the titles of expired listings, but not the content of the listings. Otherwise, expired listings display their full content minus the application area. 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:108 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Enable listing categories  |  You  have to log in  to add a translation. |  Details 
+ Enable listing categories 
+ Enable listing categories 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:134 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  This lets users select from a list of categories when submitting a job. Note: an admin has to create categories before site users can select them.  |  You  have to log in  to add a translation. |  Details 
+ This lets users select from a list of categories when submitting a job. Note: an admin has to create categories before site users can select them. 
+ This lets users select from a list of categories when submitting a job. Note: an admin has to create categories before site users can select them. 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:137 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Default to category multiselect  |  You  have to log in  to add a translation. |  Details 
+ Default to category multiselect 
+ Default to category multiselect 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:146 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  The category selection box will default to allowing multiple selections on the [jobs] shortcode. Without this, users will only be able to select a single category when submitting jobs.  |  You  have to log in  to add a translation. |  Details 
+ The category selection box will default to allowing multiple selections on the [jobs] shortcode. Without this, users will only be able to select a single category when submitting jobs. 
+ The category selection box will default to allowing multiple selections on the [jobs] shortcode. Without this, users will only be able to select a single category when submitting jobs. 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:149 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Category Filter Type  |  You  have to log in  to add a translation. |  Details 
+ Category Filter Type 
+ Category Filter Type 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:158 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Determines the logic used to display jobs when selecting multiple categories.  |  You  have to log in  to add a translation. |  Details 
+ Determines the logic used to display jobs when selecting multiple categories. 
+ Determines the logic used to display jobs when selecting multiple categories. 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:160 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Jobs will be shown if within ANY selected category  |  You  have to log in  to add a translation. |  Details 
+ Jobs will be shown if within ANY selected category 
+ Jobs will be shown if within ANY selected category 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:166 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ |  Jobs will be shown if within ALL selected categories  |  You  have to log in  to add a translation. |  Details 
+ Jobs will be shown if within ALL selected categories 
+ Jobs will be shown if within ALL selected categories 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/settings/job-listings/index.jsx:172 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ <-   1  …  3   4  5  6   7   -> 
+ Legend: 
+ Current 
+ Waiting 
+ Fuzzy 
+ Old 
+ With warnings 
+ Export  all current only matching the filter as  Android XML (.xml) Portable Object Message Catalog (.po/.pot) Machine Object Message Catalog (.mo) .NET Resource (.resx) Mac OS X / iOS Strings File (.strings) Java Properties File (.properties) JSON (.json) Jed 1.x (.json) NGX-Translate (.json) Language Pack (.zip) 
+ Get Started 
+ 
+ Getting Started 
+ Community Translator Tool 
+ FAQ 
+ What is GlotPress? 
+ 
+ Learn 
+ 
+ Translation Resources 
+ Translation Style Guide 
+ Locale Glossaries and Style Guides 
+ How Theme Translations Work 
+ 
+ Collaborate 
+ 
+ Community Resources 
+ Working with Other Translators 
+ Build a Locale Glossary & Style Guide 
+ 
+ In your language 
+ Translate  WordPress.com .  Proudly powered by  GlotPress . 

@@ -1,0 +1,6 @@
+ Required Qualifications 
+ 4+ years of experience developing mobile (Android and iOS) solutions 
+ 6+ years of engineering and programming experience 
+ Strong experience with React Native 
+ Additional development experience with Swift, Objective-C, or Java preferred 
+ Experience building scalable, always-on, multi-region systems 

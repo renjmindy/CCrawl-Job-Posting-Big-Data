@@ -1,0 +1,69 @@
+  
+ 
+  Home  
+ Products 
+ 
+ WSi4   WSweld   Sheet Metal Web Shop   WSqr   Custom solutions 
+ 
+  Press  
+  Career  
+  Contact  
+ 
+  en     de  
+ __Back to top 
+ Your carreer at WS  optics 
+ WS  optics  is always looking for outstanding people to join our team. We offer the highest flexibility, an amazing work environment, and fascinating challenges. 
+ Please send your application to [ career@wsoptics.de ](mailto:career@wsoptics.de "career@wsoptics.de"), with attachments in PDF. 
+ Sales 
+ Your responsibilities focus on finding new customers as well as customer relations. Your qualifications: 
+ 
+ You love meeting new people and enjoy being around them. 
+ You burn for technical solutions and can ignite this spark in others. 
+ You have a technical or academic background. 
+ You enjoy sales and office work. 
+ Ideally you are familiar with sheet metal manufacturing or have worked in sales previously. 
+ You are looking for completely new challenges and value highly competent coworkers. 
+ 
+ Algorithm and software development 
+ Your responsibilities lie in the development of custom-tailored algorithms and their concrete implementation. Your qualifications: 
+ 
+ Not only do you look for solutions to existing problems, you independently identify problems that were not seen as such before. 
+ You hold a degree in mathematics, physics, computer science, or a related subject. PhDs are highly welcome. 
+ You have thorough programming experiences. You know that you could master something like template metaprogramming in C++ if necessary. 
+ Ideally, you are experienced in using UNIX like systems such as GNU/Linux or FreeBSD and enjoy working with tools such as
+ 
+ zsh / bash 
+ GCC / Clang 
+ Vim / Emacs 
+ Git 
+ 
+ 
+ You are looking for completely new challenges and value highly competent coworkers. 
+ 
+ Software development 
+ Your responsibilities lie in the application of existing algorithms, the development of graphical user interfaces as well as network and system programming. You work independently and enjoy a great deal of freedom when solving problems. Your qualifications: 
+ 
+ You have very good knowledge of
+ 
+ UNIX like systems such as GNU/Linux or FreeBSD 
+ C++ 
+ zsh / bash 
+ Scripting languages like Python or Perl 
+ Qt 
+ Git 
+ 
+ 
+ You are looking for completely new challenges and value highly competent coworkers. 
+ 
+ Internship / Bachelor, Master, or Diploma thesis at WS  optics 
+ We constantly offer interesting topics and problems in the fields of applied mathematics and algorithms, computer science and software development, microcontroller development, embedded systems, laser manufacturing, laser technology development as well as CAD and CAM. You will be compensated well for your work. 
+ 
+ 
+  ____ facebook     ____ linkedin     ____ youtube  
+ © Copyright 2021 
+ by WSoptics GmbH 
+ 
+ Imprint 
+ Data Protection 
+ Be a Widdae™ 
+ 

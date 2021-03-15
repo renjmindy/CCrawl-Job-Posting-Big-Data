@@ -1,0 +1,59 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Post Doctoral Fellow (PDF) 
+ University of Alberta 
+ __Edmonton, AB 
+ Apply Now 
+ Competition No. - A104042593 
+Closing Date - Will remain open until filled. 
+ The Intelligent Systems Laboratory under the direction of Dr. Scott Dick, along with the Intelligent Energy Systems Laboratory under the direction of Dr. Hao Liang, are seeking candidates for an anticipated postdoctoral fellow position in the modeling and design of emergent systems (e.g. via ordinary or stochastic process calculi, etc.) This is a part of a larger project in designing a decentralized energy market employing blockchain-based smart contracts. The candidate will be responsible for designing smart contracts whose local interactions produce guaranteed system-wide energy supply, voltage stability, and asset protection as emergent behaviors. 
+ This position is for one year; a further six-month extension may be possible, contingent on satisfactory performance and funding approval. The candidate for this project will: 
+ Lead the theoretical analysis and design of the smart contracts 
+Design and execute an evaluation program for these contracts against all reasonable alternatives 
+Write up and publish research findings 
+Assist in writing research proposals 
+Assist in graduate student supervision. 
+ The candidate will work with another PDF (and possibly external experts) specializing in blockchain-based smart contract design, and will supervise one Ph.D. / M.Sc. student who will develop inferential sensors for detecting voltage instability events that the contracts must respond to. 
+ The candidate must have an earned Ph.D. in Computer Science, Computer Engineering, Mathematics, or a closely related field, with a specialization in the analysis, modeling, and/or design of emergent systems (i.e. those for which complex system-level functional requirements are achieved through local interactions of a large number of simple sub-systems). The preferred qualifications include: 
+ Expertise in emergent systems, as demonstrated by a record of high-quality publications in respected venues; 
+Excellent software design and development skills (including software testing), as demonstrated through the candidate’s software portfolio (e.g. Github); 
+Excellent verbal and written communication skills; 
+Experience in mentoring junior graduate students. 
+Experience in designing and analyzing simulation experiments will be an asset; 
+ Experience in developing blockchain-based smart contracts will be an asset. 
+ To apply please submit a cover letter along with your CV and contact information for three references. 
+ Closing date:  Review of applications will begin on June 30, 2020, and continue until the position is filled. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

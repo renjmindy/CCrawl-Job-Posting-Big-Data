@@ -1,0 +1,378 @@
+Skip to main content 
+ Javascript is disabled on your browser. In order to display this website properly, please enable javascript. 
+  Workiva Workiva.com  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Partners 
+ Connectors 
+ Security 
+ 
+ 
+ Solutions 
+ 
+ Capital Market Transactions 
+ Internal Audit Management 
+ Management Reporting 
+ SEC Reporting 
+ SOX Compliance 
+ Statutory Reporting 
+ + 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ Industries 
+ 
+ Banking 
+ Energy and Utilities 
+ Government 
+ Higher Education 
+ Insurance 
+ Investments 
+ + 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Customers 
+ The nicest thing about the Workiva platform is just feeling in control. 
+ ](/customers) 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Education 
+ 
+ Community 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Off the Books Podcast 
+ Surfing the uncharted waters of accounting, finance, and wherever else the waves take us. 
+ ](/off-the-books-podcast) 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Request Demo 
+ 
+ 
+ Sign In 
+ 
+ 
+ Menu 
+ Workiva Life Blog 
+ Make an impact, every day 
+ Your browser doesn't support HTML5 canvas 
+ 
+ 
+ Workiva Culture 
+ 
+ 
+ Internships 
+ 
+ 
+ Teams and Locations 
+ 
+ 
+ Hiring Process 
+ 
+ 
+ Benefits and Perks 
+ 
+ 
+ Workiva Life Blog 
+ 
+ 
+   
+ Two types of developers: deliberate v. intrepid 
+ Does it have to be one or the other? Find out more about the relationship between two types of developers: deliberate and intrepid developers. 
+ December 30, 2015 
+ Colby Natale 
+   
+ Understanding APIs: misery to mastery 
+ We each have a limited supply of cognitive reserves. Learn how to invest wisely when understanding APIs. 
+ December 16, 2015 
+ Dustin Lessard 
+   
+ Unobfuscating unicode ubiquity: a practical guide to Unicode and UTF-8 
+ Read this blog to learn the importance of Unicode and UTF-8, and how to consider both when developing to avoid errors when attempting to transcode text. 
+ December 2, 2015 
+ Mark Gollnick 
+   
+ These aren’t the DART event listeners you are looking for 
+ The culprit of the repetitive error: a DART event listener. Find out how ambiguity in the code found the listeners you are looking for. 
+ November 18, 2015 
+ Colby Natale 
+   
+ Engineering quality 
+ Get insights into how Workiva has developed exceptional engineering quality through continual adjustments in how the applications are tested. 
+ November 4, 2015 
+ Jeff Doll 
+   
+ 3 steps for building highly effective teams through communication 
+ Learn how to build more effective teams through improving how your team communicates with one another. 
+ October 21, 2015 
+ Ross Hendrickson 
+   
+ Wrestling with Postel’s Law 
+ Find out why Postel’s Law could be eroding your design quality and leaving you stuck in Postel’s Cycle. 
+ October 14, 2015 
+ MacLeod Broad 
+   
+ Insight into the role of a manager: asking questions 
+ Get insight from a manager himself into the role of a manager, why they ask so many questions of their developers, and how to handle it. 
+ October 7, 2015 
+ Dave Tucker 
+   
+ Arrested development: enigmatic Boolean parameters 
+ Find out why enigmatic Boolean parameters make the lives of developers more difficult and how clarifying the context can help. 
+ September 23, 2015 
+ Dustin Lessard 
+   
+ Breaking and entering: lose the lock while embracing concurrency, Part II  
+ Read part 2 of 2 in this series to take a deeper look into how and why we are applying lock-free techniques. 
+ September 10, 2015 
+ Tyler Treat 
+ Most Popular 
+ Takeaways from Five Dysfunctions of a Team Training 
+ Workiva One of Fortune Magazine’s 100 Best Companies to Work For 
+ DSM Hack 2018 - My Experience 
+ Popular Categories 
+ Giving Back 
+ Culture 
+ Communication 
+ Leadership 
+ Pagination 
+ 
+ 
+  First page « First  
+ 
+ 
+  Previous page ‹ Previous  
+ 
+ 
+  Page 1 
+ 
+ 
+  Page 2 
+ 
+ 
+  Page 3 
+ 
+ 
+  Page 4 
+ 
+ 
+  Current page 5 
+ 
+ 
+  Page 6 
+ 
+ 
+  Next page Next ›  
+ 
+ 
+  Last page Last »  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Connectors 
+ Partners 
+ Security 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Support 
+ 
+ Community 
+ Customer Support 
+ Developers 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Locations 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Twitter 
+ 
+ 
+ YouTube 
+ 
+ 
+ Select Region 
+ 
+ 
+ 
+ 
+ Legal 
+ Privacy Policy 
+ Sitemap 
+ 
+ (C)2021 Workiva 
+ 2900 University Blvd 
+Ames, IA 50010 
+  AICPA  
+ 
+ __ 
+ In the meantime, visit the resources below. 
+ [ 
+ Handbook: Surviving the New Normal 
+ ](/new-normal) 
+ [ 
+ How Sysco and Blackbaud kept business as usual 
+ ](/resources/how-sysco-and-blackbaud-kept-business-usual) 
+ [ 
+ Connected Reporting and Compliance Brochure 
+ ](/resources/connected-reporting-and-compliance-brochure) 
+ Select Region 
+ 
+ Australia 
+ France 
+ Germany 
+ Netherlands 
+ Singapore 
+ United Kingdom 
+ United States 
+ 
+ Online registration is currently unavailable. 
+ Please email  events@workiva  to register for this event. 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Thank you 
+ A Workiva team member will follow up with you shortly. 
+ Thank you for registering 
+ You'll receive a confirmation email shortly. 
+ Thank you 
+ You are now subscribed to receive blog updates. 
+ Thank you 
+ Your preferences have been updated. 

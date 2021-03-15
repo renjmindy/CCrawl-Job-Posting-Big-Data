@@ -1,0 +1,130 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ CoinTracker (W18) 
+ Cryptocurrency Portfolio & Tax Manager 
+ Senior Software Engineer 
+ $100k - $200k • 0.50% - 2.00% 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About CoinTracker 
+ CoinTracker  is a portfolio assistant for cryptocurrency. Used by over 100,000 cryptocurrency holders with over  $2 Billion  in crypto assets on exchanges, it enables consumers and businesses to seamlessly track their cryptocurrency portfolio, investment performance, taxes, and more. Beyond cryptocurrency, we are building a general automated financial assistant for all financial assets. 
+ Our mission is to increase the financial freedom and prosperity of individuals and companies. 
+ Some things we’re proud of: 
+ 💲 Over $2B in crypto assets are tracked on CoinTracker 
+ 📈 Over $1M per year in revenue, portfolio subscriptions growing >10% weekly 
+ 🤝 Partnered with Coinbase, TurboTax, and other industry leaders 
+ 💼 Backers including Y Combinator, Initialized Capital, Serena Williams, and more 
+ 🗺️ Founders:  Jon  and  Chandan  previously built TextNow ($50M/year revenue business) and worked at Google & Google 
+ About the role 
+ Skills:  Python, JavaScript, React, PostgreSQL, Distributed Systems, React Native 
+ Your opportunity: 
+ Join our tight-knit early-stage remote team that thrives on delighting users and building magical products that improve peoples' lives. As an early engineer on the team, you will work across the stack and directly own top level product and engineering objectives. 
+ You will: 
+ 
+ Build new features and products 
+ Work across the engineering stack, including backend, web, and mobile 
+ Own and deliver on top-level product and engineering objectives 
+ Collaborate with team members across the company 
+ Evolve our technical architecture, infrastructure, code quality, tools, and culture to continually step up the quality and speed of our engineering systems 
+ 
+ This role may be a good fit if you: 
+ 
+ Love building great products and engineering systems 
+ Have strong CS fundamentals, including algorithms, data structures, system design and distributed systems 
+ Write high quality code, value software testing, and uphold best practices in engineering, security and design 
+ Are productive, resourceful, and an effective problem solver 
+ Thrive in an early-stage startup environment with less stability and more ambiguity 
+ Are interested in financial products and/or cryptocurrency 
+ 
+ What's it like working at CoinTracker? 
+ We are a fully distributed, tight-knit team spread across five countries and seven cities. We have minimal process, and the majority of our time is spent working and collaborating asynchronously through tools like Linear, Notion, Slack, Github, Figma, Intercom and Zoom. We also stay aligned and bonded through two-week sprints, standups, all hands and socials. We aim to empower every individual on the team with full transparency, ownership, autonomy, and clear objectives. 
+ Some of the technical challenges we face are: 
+ 
+ Lots of data  — billions of data points to track transactions and market pair prices. 
+ Data structures & algorithms  — automated transfer detection, cost basis tracking, tax optimization, and more. Your CS fundamentals finally come in handy! 
+ Scalability  — some cryptocurrency users, such as algorithmic traders, accumulate millions of transactions per year. CoinTracker needs to work seamlessly for those power crypto traders. 
+ Blockchain  — whether it's running our own nodes, implementing xPub address generation and traversal, or parsing smart contracts to seamlessly support decentralized trading, we get our hands dirty with core blockchain technology. 
+ Technical complexity  — integrating with hundreds of exchanges and blockchains, and supporting thousands of cryptocurrencies means we have to methodically architect our software and build critical monitoring systems to deliver a robust and accurate platform. 
+ 
+ Sample projects you might work on: 
+ 
+ Implement real-time transaction synchronization with blockchains and exchanges. 
+ Develop a smart order routing platform to enable cryptocurrency trading across exchanges, taking into account full transaction history, tax lots, fee detection, arbitrage and slippage. 
+ Implement tax loss harvesting to reduce capital gains taxes for cryptocurrency users. 
+ 
+ Our engineering process includes: 
+ 
+ Code reviews 
+ Continuous integration 
+ Multiple daily automated deployments to production 
+ Automated testing with >85% code coverage 
+ 
+ Last but not least, our tech stack is: 
+ 
+ Web: HTML, Javascript, React, CSS, Sass 
+ Mobile: React Native, Expo, GraphQL 
+ Backend: Python, Flask, GraphQL, Postgres, Redis, Python RQ 
+ Infrastructure: Heroku, AWS 
+ 
+ Applying for our roles 
+ If this sounds exciting, we'd love to hear from you!  Please apply directly on our jobs page  — applications via YC are unmonitored! 
+ Technology 
+ Our engineering process includes: 
+ 
+ Code reviews 
+ Continuous integration 
+ Multiple daily automated deployments to production 
+ Automated testing with >85% code coverage 
+ 
+ Some of the technical challenges we face are: 
+ 
+ Lots of data  — billions of data points to track transactions and market pair prices. 
+ Data structures & algorithms  — automated transfer detection, cost basis tracking, tax optimization, and more. Your CS fundamentals finally come in handy! 
+ Scalability  — some cryptocurrency users, such as algorithmic traders, accumulate millions of transactions per year. CoinTracker needs to work seamlessly for those power crypto traders. 
+ Blockchain  — whether it's running our own nodes, implementing xPub address generation and traversal, or parsing smart contracts to seamlessly support decentralized trading, we get our hands dirty with core blockchain technology. 
+ Technical complexity  — integrating with hundreds of exchanges and blockchains, and supporting thousands of cryptocurrencies means we have to methodically architect our software and build critical monitoring systems to deliver a robust and accurate platform. 
+ 
+ Our tech stack is: 
+ 
+ Web: HTML, Javascript, React, CSS, Sass 
+ Mobile: React Native, Expo, GraphQL 
+ Backend: Python, Flask, GraphQL, Postgres, Redis, Python RQ 
+ Infrastructure: Heroku, AWS 
+ 
+ Other jobs at CoinTracker 
+ Senior Software Engineer 
+ fulltime 
+ Remote 
+ Full Stack 
+ $100k - $200k 
+ 0.50% - 2.00% 
+ 3+ years 
+ Head of Engineering 
+ fulltime 
+ Remote 
+ Engineering Manager 
+ $120k - $220k 
+ 0.50% - 2.50% 
+ 6+ years 
+ Head of Customer Support 
+ fulltime 
+ Remote 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

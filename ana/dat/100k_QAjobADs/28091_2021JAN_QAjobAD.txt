@@ -1,0 +1,6 @@
+ Qualifications: 
+ 4+ years professional software development experience 
+ Expertise in Ruby and Ruby on Rails and experience with one or more of the following: Python, Javascript, GoLang 
+ Experience with AWS 
+ Familiarity with PostgreSQL or other (O)RDBMS 
+ Comfortable developing for/in a unix environment (regardless of distribution) 

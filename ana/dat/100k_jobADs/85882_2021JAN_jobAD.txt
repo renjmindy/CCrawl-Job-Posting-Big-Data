@@ -1,0 +1,100 @@
+Skip to content 
+ 
+ EMR + Patient Communications. 🇨🇦 
+ 
+ 
+ Products 
+ 
+ Products 
+ Innovation 
+ 
+ 
+ 
+ Support 
+ 
+ Support 
+ Training and Documentation 
+ 
+ 
+ 
+ About Us 
+ 
+ About Us 
+ Careers 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ * Back 
+ 
+ 
+ 
+ Careers 
+ Indivica   is a leading Healthcare solution provider, founded in 2008. Each day, thousands of clinical users and millions of medical records are supported by our flagship Electronic Medical Record (EMR) software   IndiviCare . We directly support 2000 physicians, 6000 daily users, and 7 million health records. 
+ Our cloud hosted, web friendly technology is based on   Java  ,   Python  ,   MySQL   and the latest technical, regulatory, and privacy standards. We work tirelessly to deliver the potential of secure, cloud-based, medical computing solutions. 
+ Indivica provides a collaborative working environment with a great deal of flexibility and autonomy. You will have  an opportunity to work from home . 
+ To apply for a career with Indivica, email your resume to careers@indivica.ca. 
+ 
+ 
+ Open Positions 
+ 
+ 
+ Senior Java Full Stack Developer / Technical Lead 
+ This is a  permanent position  conveniently located in Toronto at the intersection of Yonge and the 401 (York Mills subway). 
+ **Description: 
+ ** As a senior member of the development organization, you will be tasked to design, develop, lead and assist with the production of new and existing complex programs based on our distributed, network-based solution; prepare designs, perform coding, code review, and test/debug programs; develop migration and system implementation plans; recommend improvements to development, maintenance, and system standards. ** 
+ Responsibilities:** 
+ 
+ Analyze existing systems and elicit detailed business requirements 
+ Demonstrate effective mentorship and hands-on technical leadership to team members 
+ Build trustful relationships within the team and with the customer 
+ Design, develop, maintain, and integrate modules for various software systems / applications 
+ Coordinate and perform the testing effort to ensure component, module, and system accuracy 
+ Identify and advocate for change when warranted by current processes or existing systems implementations 
+ 
+ Things you need to have: 
+ 
+ Excellent verbal and written communication skills 
+ 8+ years’ experience in software development using Java technologies: Java, Spring/Struts, REST/SOAP Web Services, Spring and Hibernate, JPA frameworks 
+ Hands on experience designing databases and implementing interfaces to MySQL (Oracle or MS SQL experience is considered an asset) 
+ Extensive knowledge and experience with CSS, JSON, XML, JQuery, Bootstrap 
+ Experience designing and implementing multi-threaded and multi-process large scale systems 
+ Proven experience leading development teams through the whole project lifecycle 
+ Solid experience and very good understanding of Web Services, SOA, Microservices and Object-Oriented Programming concepts 
+ Strong knowledge of all tiers used in modern web architectures 
+ Ability to express design concepts; ability to efficiently capture and express requirements and design in written and diagrammatic forms 
+ A track record of great teamwork and the ability to work independently and drive projects to completion 
+ Technical team leadership skills, including the ability to assume delivery responsibility for a project, and to keep a small team of developers occupied and efficient 
+ Indivica is a UNIX shop; if you do not have an extensive background in UNIX or one of its descendants, this position is not for you 
+ 
+ 
+ Senior Technical Systems Analyst / Project Manager 
+ This is a  permanent position  conveniently located in Toronto at the intersection of Yonge and the 401 (York Mills subway). 
+ **Description: 
+** 
+As a Senior Technical Systems Analyst, you will interface with our customers on a regular basis. Either at the client’s site or from a remote location, you will be responsible for the creation of moderately complex technical solutions, and the resolution of moderately complex technical problems related to the installation, maintenance and use of Indivica’s products. 
+ You will be expected to work with only general guidance from management while advising management on progress/status. 
+ Job duties are varied, complex and require independent judgment. Because of the need to engage with our customers directly, you must have a demonstrated ability to work with customers independently, with exceptional communication skills, while consistently achieving the highest levels of customer satisfaction. 
+ This is a technical position. You will need to be demonstrably competent in database analytics and rapid development methodologies. You must be details oriented. You must be able to present complex solutions to non-technical staff in a meaningful way. 
+ Additional Details: 
+ 
+ Bachelors Degree in Computer Science or Engineering 
+ 7+ years relevant experience 
+ Detailed understanding of Solaris, Ubuntu, OS X, MySQL, Tomcat, Java, Ngnix, Django and the latest HTML standards 
+ Technical understanding of Windows, OS X, iOS, and Android operating systems 
+ Excellent verbal and written communication skills 
+ Impeccable interpersonal skills 
+ Ability to excel in the fast paced and dynamic environment 
+ 
+ 
+ Want to work with us? 
+ Get in touch! 
+ 
+ 
+ Products 
+ Support 
+ About Us 
+ Blog 
+ 

@@ -1,0 +1,76 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Front-end Developer in Europe REMOTEPERMANENT 
+ Job Description 
+ We are a fully remote web & software development company based in London, UK (but live throughout Europe) who are looking to add another front end developer to our team. We create digital products and web applications for the UK Education Technology sector, primarily working with Governments and evidenced-led organisations. 
+ Current service stack 
+ 
+ Front-end: Webpack, Tailwind ( PostCSS ), Vue.js, Vuex & GraphQL 
+ CMS: Craft CMS 
+ Servers: Vultr Droplets, Forge, Ubuntu, Buddy.works 
+ Version Control: Github 
+ Comms Slack / Trello / Github 
+ 
+ Who we’re looking for 
+ We are looking for an honest, reliable, friendly type to join our small 6 person team who can take prototypes (generally in Adobe XD) and develop them into working templates and integrate them within Craft CMS - if you have any experience with GraphQL or API integrations that’s a big plus! Having knowledge to setup projects, develop with a team and deploy changes are essential. You’ll be comfortable working remotely, managing your time and asking for help when required. We have regular team meetings and - although not in the current climate - often have the need to attend physical meetings in and around London (UK), so you’ll need to be on decent transport route and ideally on a +/- 2 GMT timezone. 
+ What you’ll get 
+ 
+ £30,000 per annum 
+ 28 days paid leave per year (including bank holidays) 
+ Additional 2 weeks paid leave over Christmas during office closure 
+ Paid expenses i.e. travel to / from meetings and any required accommodation 
+ Company pension 
+ Company equipment, Macbook etc 
+ Private Healthcare (This will be offered after successfully completing your six month probationary period) 
+ Annual use of the company all-inclusive vacation membership at resorts in Mexico, Dominican Republic & Ibiza (flights not included) 
+ A flexible working environment - we have a couple of weekly stand ups, but aside from that you’re free to manage your time as you see fit. 
+ 
+ How to Apply 
+ Email  [email protected]  if you are looking for a new opportunity. 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Percipio 
+ 
+ __ 
+ 
+ Location:  London, UK 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://percipio.london 
+ __  Posted May 7, 2020 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

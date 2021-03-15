@@ -1,0 +1,92 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Application Analyst 
+ Aurora Cannabis 
+ __Edmonton, AB 
+ Apply Now 
+ Aurora Cannabis Inc. is a world-renowned integrated cannabis company with an industry-leading reputation for continuously elevating and setting the global cannabis industry standard. 
+ Through our wholly owned subsidiaries, strategic investments, and global partnerships, Aurora provides a wide range of premium quality cannabis and hemp products and services, develops innovative technologies, promotes cannabis consumer health and wellness, and delivers an exceptional customer experience across all its brands. 
+ Aurora’s operations span multiple continents and focuses on both the medical and recreational cannabis production and sales, patient education and clinic counselling services, home hydroponic cultivation, extraction technologies and delivery systems, and hemp-based food health products. 
+ We operate around the globe pursuing new and emerging cannabis markets where possible through our owned network of import, export and wholesale distributors, our e-commerce and mobile applications, brick and mortar retail stores, as well as grocery store retailers and pharmacies. 
+ APPLICATIONS SYSTEMS ANALYST 
+ Reporting to the Manager, IS Applications, the Applications Systems Analyst will develop, maintain and improve applications by evaluating business needs, analyzing and gathering requirements, and developing software systems in accordance with IT standards. 
+ MAIN RESPONSIBILITIES: 
+Provide application system support for custom developed applications and Commercial Off-the-Shelf (COTS) products; 
+Proactively identify, catalog, prioritize application issues, then provide accurate and timely resolution of these issues while ensuring operational stability; 
+Proactively triage and escalate application issues to other members of the application team or to other areas within the IS Operations team. 
+Perform user maintenance and application maintenance for assigned applications. 
+Perform functional, technical, and performance testing to validate the operational stability of custom built or vendor created application systems; 
+Work with business stakeholders and external vendors to resolve application system issues; 
+Develop, design, maintain, and create documentation for application systems, database environments, and infrastructure environments; 
+Design and implement processes, procedures, scripts, templates, databases, and software components that support data quality and integrity; 
+Collaborate and build a strong relationship with all member of the IT team and key business stakeholders to create and maintain reliable, efficient, and high-quality application solutions; 
+As required, participate in application development projects through all facets of the Software Development Lifecycle or COTS product lifecycle; 
+As required, participate in infrastructure projects that may affect business applications systems to assess impact and ensure operational stability; 
+Provide training to the business on various application systems and projects developed in-house and externally; 
+Work closely with external vendors to develop and implement projects / systems for the business; 
+Develop, configure, enhance, and support in-house built or externally developed application systems by evaluating the business need, analyzing and gathering technical requirements, and developing software systems in accordance with relevant IT standards; 
+Work with the IT team to evaluate and document departmental, IT processes and procedure, and business processes and procedures, to ensure consistent support and administrative practices; 
+Participate in application auditing and user access reviews as part of IT General Controls and compliance requirements. 
+ JOB REQUIREMENTS: 
+Knowledge of the cannabis industry considered a strong asset; 
+Bachelor’s degree or diploma in Computer Science or a related discipline; 
+5-7 years’ experience in application development and system analysis; 
+Minimum of 5 years of analysis, design, and toolset experience pertinent to project engagement; 
+Strong understanding and experience with IT operational process frameworks; 
+Broad knowledge of computer systems technology, programming, design techniques, and various Software Development Lifecyle methodologies; 
+Experience with multiple toolsets for deployment, source control management, and batch programming; 
+Experience with working with relational and non-relational databases, specifically MS SQL Server, MongoDB, Amazon RDS. 
+Experience with integrating systems through API led design. 
+Expert level knowledge and experience with the Microsoft Office Suite & Tools 
+Knowledge of the enterprise-level organizational support; 
+Broad infrastructure-level knowledge (networking, firewalls, etc.); 
+Effectively prioritize and execute tasks in a fast pace, high-pressure environment 
+Strong analytical, problem-solving, and interpersonal skills 
+Experience working in a team-oriented, collaborative environment 
+Attention to detail and accuracy 
+Must be a self-starter and able to work independently 
+ ADDITIONAL DESIRED QUALIFICATIONS: 
+Knowledge of software requirements for the auditing of systems and procedures 
+Knowledge of ITIL, COBIT, or other IT frameworks 
+Experience in supporting, development and/or configuration of the following software would be considered an asset: 
+Microsoft Dynamics CRM 
+Sage X3 
+Mulesoft 
+Sharepoint Online 
+Experience in supporting, development and/or configuration within Azure and/or AWS platforms would be considered an asset. 
+ We would like to thank all applicants for their interest but only those selected for an interview will be contacted. 
+ Aurora Cannabis Inc. is an Equal Opportunity Employer 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

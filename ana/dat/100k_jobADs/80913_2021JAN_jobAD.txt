@@ -1,0 +1,241 @@
+Loading.... 
+ LOGIN     SIGN UP 
+ 
+ 
+ Hire Experts 
+ Find Work 
+ How it Works 
+ About Us 
+ Blog 
+ 
+ 
+ SIGN UP! 
+ Before you proceed to sign up, 
+Please select one of the following! 
+ I want to Hire 
+ 
+ --OR-- 
+ I want to Work as an 
+ 
+ 
+ 
+ Home 
+ » 
+ Freelance Jobs 
+ » 
+ Amazon Web Services 
+ 
+ Project Results 
+ By Job Category 
+ 
+ All  (550) 
+ IT & Programming  (208) 
+ Graphic Design & Multimedia  (73) 
+ Writing, Content & Translation  (135) 
+ Data Entry & Admin  (45) 
+ Sales & Marketing  (44) 
+ Customer Service  (6) 
+ Finance & Accounting  (15) 
+ Others  (24) 
+ 
+ By Budget (INR) 
+ 
+ All  (550) 
+ Less than 5000 Rs.   (172) 
+ Between 5,000 - 20,000 Rs.   (145) 
+ Between 20,000 - 50,000 Rs.   (65) 
+ Between 50,000 - 100,000 Rs.   (33) 
+ Greater than 100,000 Rs.   (30) 
+ Not Sure  (105) 
+ 
+ By Project Type 
+ 
+ All  (550) 
+ Featured  (31) 
+ Full Time  (5) 
+ 
+ By Time Left 
+ 
+ Any 
+ Less than 24 hours left 
+ Less than 3 days left 
+ Less than 7 days left 
+ 
+ By Posted Date 
+ 
+ Any 
+ Posted within 24 hours 
+ Posted within 3 days 
+ Posted within 7days 
+ Posted within 14 days 
+ Posted within 30 days 
+ 
+ By Status 
+ 
+ Any 
+ Hiring Open 
+ 
+ Search Job 
+ Amazon Web Services Jobs 
+ ( showing 1 - 6 of 6 results ) 
+ Amazon Web Services 
+ Clear 
+ Get Project Updates 
+ PAGE 1 OF 1 
+ SORT BY Sort by Job Name Budget(High) Budget(Low) Time Left(High) Time Left(Low) 
+ Infrastructure Admin with experience in .Net API deployments in Cloud 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Application Interface Design  Posted: 26th Dec 2020 Ends: 09th Feb 2021  2 Proposals 
+ WHOLIFI is looking for Part Time Infra Admin, experienced with .Net API deployments in cloud, preferably in AWS. Please send your profile & SKYPE ID to (removed) 
+ WHOLIFI is looking for Part Time Infra Admin, experienced with .Net API deployments in cloud, preferably in AWS. Please send your profile & SKYPE ID to (removed) 
+ Skills:  .NET ,  Amazon Web Services ,  MySQL 
+ Client:  neel007  ,  India 
+ Mobile app developement 
+ FIXED PRICE : Less than 5000 Rs.   Mobile Applications  Posted: 23rd Dec 2020 Ends: 06th Feb 2021  10 Proposals 
+ I am looking to get app developed in AWS. This app may have lambda function running in context of cognito user and serving some content from dynamo DB and updating user preferences and activity back to DB. 
+ I am looking to get app developed in AWS. This app may have lambda function running in context of cognito user and serving some content from dynamo DB and updating user preferences and activity back to DB. 
+ Skills:  iOS ,  Android ,  Amazon Web Services 
+ Client:  khushi142002 
+ Safety training for Webserver, FTP Access Management 
+ FIXED PRICE : Not Sure  Website Programming  Posted: 17th Dec 2020 Ends: 31st Jan 2021  3 Proposals 
+ Hello, I'm looking for a server security expert. I would like to learn how to secure my server and give web developers access to the required files in a controlled manner. I would also like to learn how to successfu... 
+ Hello, I'm looking for a server security expert. I would like to learn how to secure my server and give web developers access to the required files in a controlled manner. I would also like to learn how to successfully update files without causing damage and create backups. Overview of the contents - Amazon Web Services - Access management - FTP access management - Security - Update procedure 
+ Skills:  MySQL ,  PayPal ,  PHP ,  Amazon Web Services ,  AJAX 
+ Client:  codesta  ,  India 
+ Deployment pipeline for MEAN stack projects on Amazon Web Services 
+ FIXED PRICE : Less than 5000 Rs.   Other - Web Development  Posted: 13th Dec 2020 Ends: 27th Jan 2021  5 Proposals 
+ We need a deployment pipeline for a MEAN stack project on Github to AWS (EC2 and S3). The pipeline needs to allow for regular source code updates. The project must be hosted under a specified domain name and implement HT... 
+ We need a deployment pipeline for a MEAN stack project on Github to AWS (EC2 and S3). The pipeline needs to allow for regular source code updates. The project must be hosted under a specified domain name and implement HTTPS. Are you able to help us set this up? How long might that take do finish? We look forward to hearing from you soon! 
+ Skills:  Amazon Web Services 
+ Client:  germantech 
+ School website and erp 
+ FIXED PRICE : 50,000 - 100,000 Rs.   Application Interface Design  Posted: 08th Dec 2020 Ends: 6 days   31 Proposals 
+ we need school website and erp small scale more details over message website and erp must be responsive and login must be for admin and students only -------------------------------------------------------------------... 
+ we need school website and erp small scale more details over message website and erp must be responsive and login must be for admin and students only ------------------------------------------------------------------------------- Additional Information Added on 8th Dec, 2020 apply now https://www.icodelance.com/job/d/297/school-website-with-result-system-and-small-erp 
+ Skills:  Amazon Web Services ,  Content Management System (CMS) ,  ERP 
+ Client:  janiferswai 
+ AWS Dev Ops Professional for Ecom Business 
+ FIXED PRICE : Less than 5000 Rs.   Scripts & Utilities  Posted: 11th Aug 2020 Ends: 28th Feb 2021  2 Proposals 
+ Freelancers required to work on DevOps for Ecom business. 
+ Freelancers required to work on DevOps for Ecom business. 
+ Skills:  Amazon Web Services 
+ Client:  neel007  ,  India 
+ Next 
+ NAVIGATE 
+ How it Works 
+ Fees & Pricing 
+Register 
+ Blog 
+ Help 
+ Contact Us 
+ FIND FREELANCERS BY EXPERTISE 
+ 
+ 
+ 
+ Developers & Programmers 
+ 
+ PHP Developers 
+ 
+ 
+ 
+ 
+  Graphic Designers 
+ 
+ Photoshop Experts 
+ 
+ 
+ Article Writers 
+ 
+ Creative Writing 
+ 
+ 
+ Data Entry & Admin 
+ 
+ MS Excel Consultants 
+ 
+ 
+ Sales & Marketing 
+ 
+ Internet Marketing 
+ 
+ 
+ Accountants & Legal 
+ 
+ Finance Consultant 
+ 
+ 
+ 
+ FIND FREELANCERS BY LOCATION 
+ 
+ 
+ 
+ Freelancers In India 
+ 
+ Freelancers In New Delhi 
+ 
+ 
+ 
+ 
+ Freelancers in Noida 
+ 
+ Freelancers in Hyderabad 
+ 
+ 
+ Freelancers in Mumbai 
+ 
+ Freelancers in Jaipur 
+ 
+ 
+  Freelancers in Kolkata 
+ 
+  Freelancers in Bhopal 
+ 
+ 
+ Freelancers in Bangalore 
+ 
+ Freelancers in Punjab 
+ 
+ 
+ Freelancers In Ahmedabad 
+ 
+ Freelancers In Chennai 
+ 
+ 
+ 
+ LOOKING FOR FREELANCING JOBS? 
+ 
+ 
+ 
+ Fresher Jobs 
+ Part Time Jobs 
+ IT Jobs 
+ Work from Home Jobs 
+ Online Jobs 
+ 
+ 
+ 
+ 
+ Web Design Jobs 
+ Technical Writing Jobs 
+ Freelance Writing Jobs 
+ Accounting Jobs 
+ Legal Jobs 
+ 
+ 
+ Mobile Development Jobs 
+ Data Entry Jobs 
+ Game Development Jobs 
+ Photography Jobs 
+ Medical Writing Jobs 
+ 
+ 
+ AutoCAD and 3D Jobs 
+ HR Jobs 
+ SEO & Marketing Jobs 
+ Corporate Trainer Jobs 
+ Web Development Jobs 
+ 
+ 
+ 
+       
+ Copyright (C) 2012-2020   WorknHire Technologies Pvt. Ltd. . All Rights Reserved. 
+ To Top 

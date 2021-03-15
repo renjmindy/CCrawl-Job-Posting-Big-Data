@@ -1,0 +1,103 @@
+working with devs… 
+ databases should not be bottlenecks 
+ __ 
+ Main menu 
+ Skip to content 
+ 
+ Blog 
+ Consulting 
+ Speaking 
+ About me 
+ RSS 
+ 
+ Job done 
+ by  Alex Yates  on  November 29, 2019  in  Uncategorized 
+ In 2016 I quit Redgate.  I sent this email to my team when I left . It was scary and emotional to leave the best job of my life and to step out into the big, wide world as my own boss. 
+ Earlier this year I started a temporary part-time contract with them to fill a short-term vacancy in their pre-sales engineering team. I did that to provide a bit of stable income for my family while my wife was on maternity leave. Despite the Redgate contract, throughout that period I have still been dedicating the majority of my time to DLM Consultants.  You can read about that contract here . 
+ Well, today my Redgate contract has come to it's conclusion and we part ways again on excellent terms. While I've been working for Redgate I've supported several of Redgate's customers to get up and running and I've upgraded all the Redgate demo infrastructure. However, I'm most proud of training up a whole host of new sales people and presales engineers who are now getting to grips with their various new roles in Redgate's Cambridge and Berlin offices. I'm really proud of the team that we've built. They are going to be great. 
+ Every single one of them has read The Phoenix Project. 🙂 
+ I'm also really excited about my plans for DLM Consultants in 2020. I'm looking forward to sharing more news in the coming months - but all in good time! 
+ For now, I'll leave you with another Redgate leaving email. 
+ 
+ 
+ 
+ Redgate - my old flame, 
+ It’s been a wild few years. Whatever I do and wherever I go I always feel like part of you is lodged deep within me. My blood (still) literally runs red. 
+ Way back, a younger version of you and a younger version of myself had a wonderful time together. It was a beautiful relationship - but I had to leave you. It was hard, and emotional, but it was the right thing for me. I needed some time to understand who I was and to walk on my own two feet. In case you lost my last letter, you can re-read it here: 
+ http://workingwithdevs.com/im-leaving-redgate/ 
+ I’m a very different person now to the one you knew before. I’ve learned what life has to offer outside the four walls of our little home in Cambridge. It makes me feel excited. I feel alive. Our years apart were everything I had hoped for. I love my new life and I’m not ready to give it up. 
+ But from time to time I still look back fondly on those early years. I still lie awake at night and reminisce about the amazing things we did together. You took me to exciting new places and showed me things I could never have comprehended. 
+ I will always remember the way that, nine years ago, you picked me up at a bar in London. You bought me a drink and a slice of pizza and told me exhilarating tales about databases. I was young, naïve and impressionable, but you took me under your wing and made me feel safe. You allowed me to grow and become the person I am now. I will always be grateful to you for the time we spent together. 
+ Recently we had an opportunity to reignite that old flame. I’d be lying if I said that the prospect didn’t excite me. It’s been fun to explore those old feelings again. It’s not been a conventional relationship this time, but in some ways that’s heightened the senses and made it feel even more special. 
+ However, all things must come to an end. This time it was my turn to teach you a few things and to help you to grow – and I’m so proud of what you’ve achieved. You’ve learned and grown so much and now you don’t need me any more. You are full of potential and I’m excited to see what you do next. I’ll be watching from the side lines, cheering you on. 
+ Some people warn about returning to past loves, but I don’t regret it - it's been a blast. 
+ So long Redgate. See you around. 
+ X 
+ And with that, I'm going to take a bit of a sabatical. I've got a lot of reading to catch up on and I'm looking forward to spending lot's of time with my little boy during his first Christmas. I'll blog again in the new year, once I've had a chance to reflect, refine and put in motion some ideas that I've been working on. 
+ Finally, I'd like to thank the wonderful people at Redgate for making me feel so welcome. It's been a pleasure to spend time with you all again. 
+ Have a wonderful holiday season, remember to hold on to the things that are truly important, and I'll see you on the other side. 
+ Post navigation 
+ <- #tsql2sday #119 write-up 
+ Source control and automated deployment for SQL Agent Jobs -> 
+ Leave a Reply  Cancel reply 
+ Your email address will not be published. Required fields are marked * 
+ Comment 
+ Name * 
+ Email * 
+ Website 
+ Save my name, email, and website in this browser for the next time I comment. 
+ Search for: 
+ Tags 
+ Atlassian   Bamboo   ContinuousIntegration   Database drift   Database Lifecycle Management (DLM)   DLM Consultants   Oracle   rants   Redgate   unit tests 
+ Archives 
+ 
+ June 2020  (1) 
+ February 2020  (1) 
+ November 2019  (1) 
+ October 2019  (3) 
+ September 2019  (1) 
+ May 2019  (1) 
+ March 2019  (1) 
+ June 2018  (3) 
+ April 2018  (1) 
+ January 2018  (3) 
+ December 2017  (4) 
+ November 2017  (2) 
+ October 2017  (1) 
+ July 2017  (1) 
+ May 2017  (1) 
+ January 2017  (1) 
+ December 2016  (2) 
+ November 2016  (3) 
+ October 2016  (2) 
+ August 2016  (6) 
+ July 2016  (2) 
+ June 2016  (4) 
+ May 2016  (2) 
+ April 2016  (1) 
+ March 2016  (2) 
+ January 2016  (1) 
+ December 2015  (3) 
+ November 2015  (2) 
+ October 2015  (2) 
+ August 2015  (4) 
+ July 2015  (1) 
+ June 2015  (4) 
+ May 2015  (1) 
+ April 2015  (1) 
+ March 2015  (2) 
+ January 2015  (4) 
+ December 2014  (3) 
+ November 2014  (1) 
+ October 2014  (3) 
+ September 2014  (4) 
+ August 2014  (5) 
+ July 2014  (3) 
+ June 2014  (3) 
+ May 2014  (5) 
+ April 2014  (2) 
+ March 2014  (1) 
+ 
+ Tweets by @ AlexYates 
+ Copyright (C) 2021  working with devs... . All Rights Reserved. __Designed by bavotasan.com . 
+ 

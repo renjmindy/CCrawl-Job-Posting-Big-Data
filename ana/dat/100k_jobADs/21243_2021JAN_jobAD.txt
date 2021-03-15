@@ -1,0 +1,146 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Data Scientist 
+ at Elder 
+ go back to Data and Product Jobs 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ About us 
+ Are you looking to join a talented, diverse team, focused on a life-changing mission, at one of Europe's fastest-growing tech startups? If yes, then you are in the right place! 
+ We're one of the UK's leading tech companies and have joined FutureFifty 8.0 and named as one of the Top 50 Startups to work for in 2020 
+ At Elder, our people aren't just part of a team, they're part of something bigger. We are a close-knit group on a mission to fundamentally change what it means to grow old. 
+ That starts by helping people live a healthier and happier life in their own home, with the support of a full-time live-in carer. Our unique matching technology pairs those in need with their ideal carer, based on individual requirements and personality. 
+ But to join our team, what is it that really matters to us? Well, it matters that you're unique. It matters that you're great at what you do, that you put in the hard work. And, obviously, it matters you care as much as we do. 
+ About the role 
+ We are now looking for a data scientist/analyst to make a change in how Elder brings new carers onto the platform and matches them with customers. 
+ You are a problem solver that will become our expert on all things that can be measured that make carers successful on Elder's platform. You will work closely with Elder's CTO and Head of BI but will have your own greenfield remit in establishing data-driven marketplace optimisation as a new core part of Elder. 
+ This is a rare opportunity to take a step up in the career and demonstrate the value that a data-first approach can have in a startup and the world. 
+ What you 'll be responsible for 
+ 
+ Leverage Elder's existing data sets covering 5 years of carer/customer interactions in order to define new descriptive and predictive measures of individual carer performance and scarcity 
+ Design new metrics and algorithms to predict the future performance of carers on Elder's platform based on attributes such as location and past experience in order to inform carer marketing and recruitment initiatives 
+ Working closely with Elder's existing marketing, carer recruitment, and matching functions, design new experiments and evaluate results in order to improve efficiency in targeting the right carers to bring onto the platform and ultimately improve Elder's ability to consistently provide carers to our customers wherever they are 
+ 
+ Need to have 
+ 
+ Proven experience drawing insights from real-world data sets using SQL and offline analysis tools 
+ Experience using scripting tools like Python, R or similar for batch data processing and analysis 
+ Good statistical foundations, you know how to create and test hypothesis and prove with mathematical confidence whether they hold or not 
+ 
+ Nice to have 
+ 
+ Experience working in a marketplace business optimising supply and demand 
+ Experience using machine learning frameworks such as PyTorch, TensorFlow to build non-linear predictive models 
+ Experience of the care industry is not required, but we want you to see yourself as being part of Elder's mission to reinvent what it means to age 
+ 
+ Benefits 
+ We're a service business and we know that without the best people, we cannot build the best company which is why we treat our team very well. We can offer: 
+ 
+ Competitive Salary 
+ Stock Options (We are post-series B & backed by some of the best VC's in Europe) 
+ 25 days holiday + bank holidays 
+ Plenty of socials and team lunches 
+ Amazing office in the heart of the tech scene in Old Street 
+ Macbook + any particular extras you require 
+ AND a genuine opportunity to be a very key part of a high-growth business. 
+ 
+ Elderly care represents one of society 's greatest challenges. Are you ready to be part of the solution? If so, apply today 
+ Published at 8 Jan 2021 - Expires on 8 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

@@ -1,0 +1,165 @@
+US Dynamics Solutions 
+ It's all about Microsoft Technologies 
+ Menu Skip to content 
+ 
+ Home 
+ Tutorials 
+ About - US 
+ 
+ Search 
+ Search for: 
+ Batch job could not be found. Dynamics 365 for Finance and Operations, Ax2012 R3 
+ December 15, 2019  /  uzairsaleem90 
+ Scenario/Problem  : 
+ Sometimes users facing an issue in the batch jobs when they delete the batch job in executing state from the back end or for any other reason(like batch job stuck in executing stage). Then they need to perform below steps to resolve the issue. 
+ In my case i was facing issue in the workflow batch job and my workflow are not working even after restarting the server or service. 
+ Solution  : 
+ Perform select query on the below tables with caption filter by typing the keyword of the job you are looking for. 
+ Batch and Batchjobs 
+ Deleted batchjob has been deleted from Batchjob table but not from Batch table. So, I performed below query and my issue has been resolved. 
+ First select query on both tables and then delete query to delete the records. 
+ Share this: 
+ 
+ 
+ Tweet 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share on Tumblr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Telegram 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ ax2012R3 ,  Dynamics365 Finance and Operations ,  MS SQL Server 
+ Microsoft ,  SQLServer ,  X++ 
+ Post navigation 
+ <- The natural key for the table was not found. Microsoft Dynamics 365 for Finance and Operations - Microsoft Visual Studio 
+ Mark record in the grid get on the form data source - AX2012 R3 - Dynamics 365 for Finance and Operations -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ This site uses Akismet to reduce spam.  Learn how your comment data is processed . 
+ Advertisements 
+ Follow me on Twitter 
+ My Tweets 
+ Recent Posts 
+ 
+ SSRS - Address in one line in D365, AX - Microsoft Dynamics 365 for Finance and Operations 
+ Send Email with invoice as attachment using Electronic Reporting - Microsoft Dynamics 365 for Finance and Operation 
+ Copy attachments between different forms with data - Dynamics 365 for Finance and Operations 
+ Data Entity Create Virtual Field - Microsoft Dynamics 365 for Finance and Operations 
+ Business Event Create and Implement - Dynamics 365 For Finance and Operations - X++ 
+ 
+ Search for: 
+ Categories 
+ 
+ ax2012R3 
+ Azure Logic Apps 
+ Cloud Computing 
+ Data Entities - Microsoft Dynamics 365 for Finance and Operations 
+ DevOPs 
+ Dynamics 365 for Talent 
+ Dynamics 365Finance and Operations Model Management 
+ Dynamics365 Finance and Operations 
+ Electronic Reporting 
+ Excel Operations - Dynamics 365 Finance and Operations 
+ LCS 
+ LCS Updates 
+ Microsoft Dynamics 365 for Finance and Operations - Database Operations 
+ Microsoft Flow 
+ MS SQL Server 
+ PowerApps 
+ PowerBI 
+ SSRS 
+ Team Foundation Server 
+ Uncategorized 
+ X++ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ uzairsaleem90  on  Uninstall a deployable package… 
+ 
+ 
+ 
+ 
+ lakshmi on  Uninstall a deployable package… 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ November 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ November 2017 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Advertisements 
+ Advertisements 
+ Advertisements 
+ Advertisements 
+ Create a free website or blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ %d bloggers like this: 

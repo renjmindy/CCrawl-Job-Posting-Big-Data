@@ -1,0 +1,81 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Centaur Labs (W19) 
+ Labeling medical images at scale 
+ Product Engineer 
+ 
+ Location 
+ Boston, MA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Centaur Labs 
+ At Centaur Labs, we label data at scale to enable breakthroughs in medical AI. Our novel approach uses collective intelligence to aggregate medical opinions from experts and students all over the world. Our labeling customers include AI startups and prominent research organizations. We are a tight-knit team of 10 headquartered in Boston, and we're funded by Y Combinator, Accel, and GFC. 
+ About the role 
+ Centaur Labs has developed a novel approach to labeling medical data at scale, unlike any other product. Users of our mobile app DiagnosUs compete for prizes that we award based on how well they label our customers' images, videos, audio, and text data. Our investors include Accel, GFC, and Y Combinator. 
+ We're looking for an ambitious Product Engineer who can help us tackle a number of exciting challenges: 
+ 
+ How do we convert laborious work that currently takes expensive experts a long time to do -- like segmenting all the slices of a 3D brain scan -- into small, high-throughput tasks that can be done quickly on a phone? 
+ How do we use cash prizes to incentivize labelers to try their best while anticipating and plugging loopholes that would allow users to game the system? 
+ How do we let anyone in the world use our app while preventing any individual from downloading or scraping the proprietary medical data they're labeling? 
+ 
+ Here's what we expect from the ideal candidate: 
+ 
+ You're a generalist software engineer with backend experience and native mobile experience. 
+ You've been responsible for merging and deploying production code for a product where security and reliability can't be sacrificed. 
+ You're well-organized and capable of making processes more efficient for yourself and your colleagues -- even amid the unpredictability and occasional chaos inherent in a small startup. 
+ You have at least five years of engineering experience. 
+ 
+ Bonus: 
+ 
+ Bachelor's degree in computer science or equivalent 
+ Experience using Swift 
+ Experience with game design 
+ 
+ Company Perks: 
+ 
+ Competitive salary and equity 
+ Medical and dental coverage 
+ 20 days PTO plus 11 annual paid holidays 
+ Spacious office at great location on Boylston Street across from the Prudential Tower 
+ Friendly office dog :) 
+ 
+ Technology 
+ We use React.js and Swift on the frontend, and Python and Swift (Vapor) on the backend. Our data stores are PostgreSQL and Redis, and we're hosted on AWS. 
+ Centaur faces a wide variety of difficult technical problems, from efficiently serving millions of images and videos to our users, to ensuring our platform is secure and our valuable data sets remain private, to performing complex analysis on our users' performance and building machine learning models to take our decision making capabilities to the next level. 
+ Other jobs at Centaur Labs 
+ Data Infrastructure Engineer 
+ fulltime 
+ Boston, MA / Remote 
+ Backend 
+ $80k - $150k 
+ 0.25% - 1.00% 
+ 3+ years 
+ Product Engineer 
+ fulltime 
+ Boston, MA / Remote 
+ Full Stack 
+ 6+ years 
+ Growth Marketer (Mobile App) 
+ fulltime 
+ Boston / Remote 
+ 1+ years 
+ Operations and Engagement Manager 
+ fulltime 
+ Bostpm / Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

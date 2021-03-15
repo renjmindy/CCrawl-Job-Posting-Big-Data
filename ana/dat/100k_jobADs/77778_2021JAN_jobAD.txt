@@ -1,0 +1,176 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ System Engineer (m/f/d) 
+ [ 
+ lengoo 
+ ](/companies/lengoo) 
+ Berlin, Germany 
+ 20 August, 2020 
+ Apply 
+ More jobs from lengoo About lengoo 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ AWS 
+ Docker 
+ ElasticSearch 
+ Google Cloud 
+ KUBERNETES 
+ MongoDB 
+ MySQL 
+ TERRAFORM 
+ jenkins 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Excellent coffee, snacks & free fruit 
+ Pet friendly 
+ 
+ Your mission is to define and execute the product strategy for our products. 
+ Role overview 
+ YOUR RESPONSIBILITIES 
+ 
+ You review and optimize our Kubernetes clusters on our cloud including proxy configurations 
+ You apply best practices to our CI system with Jenkins 
+ You integrate our machine translation pipeline into our platform 
+ You reshape our infrastructure and help migrate to a micro-service architecture 
+ As one of the first 10 developers, you take an active role in shaping our engineering culture and building world-class code base 
+ 
+ YOUR PROFILE 
+ 
+ You have a strong background in Linux/Unix administration. 
+ You bring a working understanding of code and scripting (Unix). 
+ You have hands-on experience with Elasticsearch (MySQL, and MongoDB are a plus). 
+ You draw from sound understanding of CI/CD systems as well as experience in running containerized applications using Docker and Kubernetes. 
+ You have strong experience with different cloud providers (Google Cloud and AWS preferred). 
+ Git, Github, Gitlab, nginx, Istio and Terraform belong to your everyday toolkit. 
+ Your knowledge of best practices and IT operations enables an always-up, always-available service. 
+ You speak English and feel comfortable in a fast-paced, international environment. 
+ You have minimum 3 years working experience as a System Engineer or a related field. 
+ You are willing to relocate to Berlin, Germany. 
+ 
+ 
+ [ 
+ lengoo 
+ ](/companies/lengoo) 
+ 
+ 50-249 
+ 
+ Lengoo makes AI work for translation. As a language tech company, we supercharge human translators with the power of artificial intelligence. This allows us to deliver professional translations faster and at a lower price. We work with global enterprises like car rental company Sixt, Swiss telecommunication provider Sunrise Communications, or French tire manufacturer Michelin. Join our fast-growing, international team and let’s shape the future of translation together! 
+ Python Node.js JavaScript Technology Series A Excellent coffee, snacks & free fruit pet friendly 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from lengoo About lengoo 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ AWS 
+ Docker 
+ ElasticSearch 
+ Google Cloud 
+ KUBERNETES 
+ MongoDB 
+ MySQL 
+ TERRAFORM 
+ jenkins 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Excellent coffee, snacks & free fruit 
+ Pet friendly 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Java Engineer - Customer Facing ApplicationsCompetitiveZalando SEBerlin, Germany 
+ Design and implement a high performance API that serves around five-hundred thousand concurrent users 
+ Sponsorship 
+ api aws cassandra elasticsearch java kubernetes redis 
+ More Info Apply 
+ Senior Scala EngineerCompetitiveZalando SEBerlin, Germany 
+ As a Senior Software Engineer you will help your team build mission-critical applications for our Marketplace. 
+ Sponsorship 
+ aws docker functional programming jvm kubernetes microservices rest apis scala scalability 
+ More Info Apply 
+ Distributed Systems Developer (Product)500K - 700K SEKPensionera Förmedling i Sverige ABStockholm, Sweden 
+ Build investment broker software to invest billions of SEK yearly on behalf of our customers - 
+ go aws docker distributed systems kubernetes mongodb 
+ More Info Apply 
+ System Engineer (m/f/d) 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

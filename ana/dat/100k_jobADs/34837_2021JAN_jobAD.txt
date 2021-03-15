@@ -1,0 +1,184 @@
+__ 
+   
+ __ 
+   
+ 
+ 
+ Find a Job 
+ 
+ 
+ Who’s Hiring 
+ 
+ 
+ Start Hiring 
+ 
+ 
+ Jobseeker Login 
+ 
+ 
+ Employer Login 
+ 
+ 
+ Post a job 
+ 
+ 
+   twitter 
+ 
+ 
+   linkedin 
+ 
+ 
+ Find a Job 
+ 
+ 
+ Who’s Hiring 
+ 
+ 
+ Start Hiring 
+ 
+ 
+ Jobseeker Login 
+ 
+ 
+ Employer Login 
+ 
+ 
+ Post a job 
+ 
+ 
+ Search 
+ Virtualization Jobs 
+ Senior Cyber Risk Management Architect 
+ [ __ 
+ Request Technology 
+ ](https://workthenorth.com/company/request-technology/) [ __ 
+ Nationwide, US 
+ ](https://workthenorth.com/jobs-in/united-states/)   __ Architecture      __ Design   
+ A prestigious company is on the search for a Sr. Cyber Risk Management Architect. This role will be responsible for the planning, development and implementation of enterprise information security solutions (such as authentication and authorization, public key infrastructure, data loss prevention, and security event information management) to address the current and emerging security needs of the business. This person needs to have experience with API application security, advanced malware detection/prevention, mobile device virtualization/MDM, cloud security management, structured and unstructured database encryption, mobile application. Also needed is experience with one or more of the programming languages such as C, C++ Java Python.Responsibilities:* Contributes to a team that ensures the security of enterprise data and systems by developing enterprise information security solutions.* Creates and updates a view of IT assets, related attack surfaces, and threat actors to illustrate the flow of data and associated security threats.* Researches, designs, and develops new enterprise technologies, architectures, and security products that will support security requirements for the enterprise and its customers, business partners, and vendors.* Serves as a security expert in one or more of application development, database design, network, and/or platform (operating system) efforts, helping project teams comply with enterprise and IT security policies, industry regulations, and best practices.* Analyzes business impact and exposure based on emerging security threats, vulnerabilities, and risks and contributes to the development and maintenance of information security architecture.* Engages with security specialists and other functional area architects to ensure adequate enterprise security solutions are in place to sufficiently mitigate identified risks, and to meet business objectives and regulatory requirements.* Serves as a cybersecurity subject matter expert, assessing the business impact of cybersecurity risks to the enterprise and identifying options and recommendations for mitigating those risks.* Serves as an expert in one or more of platform, application, storage, network, virtualization, cloud and mobile security best practices.* This list is not all-inclusive and you are expected to perform other duties as requested or assigned.Qualifications:* A working understanding of architecture-level information security and appropriate use enforcement technology solutions including advanced malware detection/prevention, mobile device virtualization/MDM, cloud security management, structured and unstructured database encryption, mobile application and remote API security, fine-grained application authorization and access control, security event visualization, big data user and entity behavior analytics, active adversary deception, and others.* Demonstrated understanding of contemporary security theory and application (including vulnerabilities, exploitation techniques and attack vectors).* Strong understanding of systems development life cycle.* Knowledge of open security testing standards and projects, including OWASP.* Proficiency in one or more of the following: C, C++, Java, Python, Powershell, JavaScript or NodeJS.* Relevant security certifications (CISSP, OSCP, OSCE, GPEN, GXPN, CEH).* Knowledge of laws, regulations, and standards relevant to the US Healthcare industry.Excellent written and verbal communication skills (including technical writing, documentation development, process mapping, and visualization). Must be able to effectively communicate technical concepts to a non-technical audience 
+ Sr. Software Engineer/Architect - 5G Mobile, Networking 
+ [ __ 
+ CyberCoders 
+ ](https://workthenorth.com/company/cybercoders/) [ __ 
+ Plano, Texas 
+ ](https://workthenorth.com/jobs-in/texas-plano/)   __ Architecture      __ Design      __ Engineering      __ Research      __ Software   
+ Sr. Software Engineer/Architect - 5G Mobile, Networking If you are a Sr. Software Engineer/Architect with 5G Mobile Architecture & Networking experience, please read on! Job Title:  Sr. Software Engineer/Architect - 5G Mobile Architecture, Networking Job Location:  Plano, TX - (Candidate may start remote but will be expected to work out of our Plano, TX office post-Covid) Compensation:  $130K - $160K+ base salary plus comprehensive benefits packageWe are a global provider of leading-edge access, 5G transport, and enterprise communications platforms that enable the emerging hyper-connected, hyper-broadband world. A pioneer in disaggregated platforms, SDN, and virtualization, service providers and enterprises look to us for the innovation that leads to future-proof networks and outstanding performance. Over 1200 service providers, operators, and enterprises in over 120 countries have leveraged our innovation, open solutions, and agility to arm them with the network resources and deployment freedom they need to lead in their markets and deliver an unrivaled communications experience. With manufacturing, engineering, service and support centers of excellence spread across the globe, we are positioned to bring next-generation technologies and world-class solutions to service providers and enterprises who are poised to transform, compete and win. Top Reasons to Work with Us 1) Competitive Compensation ($130K - $160K+ base salary Depending on Experience)2) Comprehensive Benefits package!3) The chance to join a rapidly-growing global provider of leading-edge access, 5G transport, & Software-Defined Networking solutions! What You Will Be Doing - Define, Maintain, Enhance and perform work in adherence of the ISO/TL9000 Quality Management System- As an architect in the software development team, you will be expected to participate in all the phases of product development cycle - product definition, architecture, design, scoping, planning, implementation and test.- Closely work with key customers to develop new solutions that address their immediate and future needs.- Review product requirements and customer use cases.- Research new wireless communication system design for 5G.- Work with standards technology development and system engineering to translate 5G mobile designs into functional prototypes- Responsible for solution architecture for RFI, RFP's and customer trials.- Work individually and with your team to develop exceptional products that are industry leading and meet required performance specifications while meeting cost, quality and manufacturability metrics.- Mentor and train other engineers to improve our overall product development capabilities What You Need for this Position BS Degree in EE or CS or equivalent experience (Graduate degree preferred) with experience in the following:- 10+ years of experience in real time software developing and design, agile / scrum methodology, CI/CD and associated tools.- 5+ years of working with cloud-based technologies such as VMWare, Openstack, Ansible, Containers. In depth knowledge of the cloud ecosystems.- 5+ years of working with Operations Support Systems (OSS) and Business Support System (BSS)- Experience in Networking and network protocols (Ipv4, Ipv6, Ethernet switching, MPLS etc.)- Wireless - 3GPP, 4G, and 5G system architecture and development including fixed wireless access and mobile fronthaul, backhaul and crosshaul.- Open mobile access and network edge standards and architectures including O-RAN / xRAN, ETSI MEC, LF-Edge, etc.- Experience with agile scrum methodology and associated development and test tool.So, if you are a Sr. Software Engineer/Architect with 5G Mobile Architecture & Networking experience, please apply today! or send an updated copy of your resume to  Mike.Vandenbergh@CyberCoders.com  for immediate consideration! - Applicants must be authorized to work in the U.S.  CyberCoders, Inc is proud to be an Equal Opportunity Employer  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.  Your Right to Work  – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 
+ Lead Devops Engineer 
+ [ __ 
+ CyberCoders 
+ ](https://workthenorth.com/company/cybercoders/) [ __ 
+ Nashville, Tennessee 
+ ](https://workthenorth.com/jobs-in/tennessee-nashville/)   __ Architecture      __ Design      __ DevOps      __ Engineering      __ Software   
+ Lead Devops Engineer Are you a Lead Devops Engineer with extensive AWS experience? If so, read on…We are a powerhouse digital design agency. We believe in being obsessed with our customers, transforming data, collaboration ABOVE All else and executing!We put people first and aim to serve our employees and every brand we serve! We have excellent culture, retention and a result…we are EXPANDING! This is a remote opportunity.You will be responsible for taking ownership of our existing DevOps processes and IP. You will work with the Leadership team to design & build devops processes into our software development life cycle and ultimately own the DevOps team as it grows in 2021 and beyond. This is a new role. We are seeking an experienced DevOps person who has significant experience in AWS, CI/CD systems for Web & iOS/Android projects. What You Will Be Doing - Take ownership over our standard AWS Infrastructure model and be responsible for designing and deploying incremental improvements to the infrastructure within the individual AWS accounts we are responsible for- Continuously analyze our clients AWS usage and use that analysis to design and implement iterative improvements to our AWS infrastructure model to exceed scalability and resiliency requirements for our customer-facing websites, apps, and API servers- Design, build, and maintain a centralized IT logging, auditing, and monitoring solution- CI/CD improvements & maintenance design and implement improvements to our automated build and deployment systems; make recommendations for technology and process improvements to support growth projections- Lead and participate in tech debt projects such as code repository cleanup and refactoring- Create, maintain, and publicize documentation for DevOps systems and processes that you put into place- Consult with project teams when unique infrastructural needs arise in connection with new scopes of work What You Need for this Position - 6+ yrs of programming and/or DevOps experience- Deep experience designing & managing a complex infrastructure implemented in AWS- Experience with scripting/programming languages (Ruby, Python, Shell/Bash, Node.js)- Experience with containerization and virtualization concepts & technologies such as Docker, Vagrant, VirtualBox, Kubernetes, as well as experience deploying a containerized architecture within AWS using ECS or some other equivalent. What's In It for You - Great culture!- Work/life balance- Comprehensive benefits packageSo if you are a Lead Devops Engineer with extensive AWS experience…APPLY TODAY! - Applicants must be authorized to work in the U.S.  CyberCoders, Inc is proud to be an Equal Opportunity Employer  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.  Your Right to Work  – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 
+ IT Infrastructure Lead 
+ [ __ 
+ Robert Half Canada 
+ ](https://workthenorth.com/company/robert-half-canada/) [ __ 
+ Edmonton, Alberta 
+ ](https://workthenorth.com/jobs-in/alberta-edmonton/)   __ Architecture      __ Product Management      __ Software   
+ Ref ID: 05110-0011663969 Classification: Systems Administrator Compensation: $81000.00 to $105000.00 yearly Robert Half Technology is looking for an experienced IT Infrastructure Lead for our Client. As the successful Candidate you will be accountable for managing the infrastructure operations team and their tasks related to supporting the business infrastructure and implementation of cloud-based collaboration technologies based […] 
+ Network Analyst 
+ [ __ 
+ Robert Half Canada 
+ ](https://workthenorth.com/company/robert-half-canada/) [ __ 
+ Grimsby, Ontario 
+ ](https://workthenorth.com/jobs-in/ontario-grimsby/)   __ Analyst      __ Customer support      __ Design      __ Software   
+ Ref ID: 05010-0011430726 Classification: Network Administrator Compensation: DOE A large and successful company in the manufacturing sector with approximately 100 locations across Canada and the USA. As a subsidiary of a fortune 500 enterprise, the company demonstrates an understanding that technology plays a vital role in today’s business environment and continues to prioritize investment in […] 
+ System Network Administrator 
+ [ __ 
+ SteriMax Inc. 
+ ](https://workthenorth.com/company/sterimax-inc/) [ __ 
+ Oakville, Ontario 
+ ](https://workthenorth.com/jobs-in/ontario-oakville/)   __ Software   
+ The Systems Network Administrator oversees and supports the day-to-day operation of computer systems and networks throughout the organization, ensuring reliable performance and data integrity in local area networks (LANs), wide area networks (WANs), and organization intranets. In this role, Systems Network Administrator evaluates business needs while setting up and maintaining computer networks, monitoring network and system […] 
+ Wireless Network Engineer 
+ [ __ 
+ Amdocs 
+ ](https://workthenorth.com/company/amdocs/) [ __ 
+ Ottawa, Ontario 
+ ](https://workthenorth.com/jobs-in/ontario-ottawa/)   __ Engineering      __ Software   
+ Who are we? If you’re a smartphone user then you are part of an ever more connected and digital world. At Amdocs, we are leading the digital revolution into the future. From virtualized telecommunications networks, Big Data and Internet of Things to mobile financial services, billing and operational support systems, we are continually evolving our […] 
+ Analyst 
+ [ __ 
+ Modis 
+ ](https://workthenorth.com/company/modis-2/) [ __ 
+ Calgary, Alberta 
+ ](https://workthenorth.com/jobs-in/alberta-calgary/)   __ Analyst      __ Architecture      __ Design   
+ IT Infrastructure Analyst Contract Duration: Initial 6 Month Contract Work Location: Organization is located in Calgary, AB. Role will be remote for the foreseeable future. Description of Work: The Infrastructure Analyst will have a focus on planning and supporting Storage environments (NetApp) while adding valuable support to the Backup (NetBackup, Commvault) environments supported by the Infrastructure […] 
+ Senior Software Architect 
+ [ __ 
+ Telesat 
+ ](https://workthenorth.com/company/telesat/) [ __ 
+ Ottawa, Ontario 
+ ](https://workthenorth.com/jobs-in/ontario-ottawa/)   __ Architecture      __ Customer support      __ Design      __ Engineering      __ Software   
+ About Us Backed by a 50-year legacy of engineering excellence, reliability and industry-leading customer service, Telesat has grown to be one of the largest and most successful global satellite operators. Telesat works collaboratively with its customers to deliver critical connectivity solutions that tackle the world’s most complex communications challenges, providing powerful advantages that improve their […] 
+ Job Alerts 
+ Subscribe 
+ By clicking this button, you consent to receive emails about new jobs that relate to your search criteria. Remember: you can cancel these email alerts at any time. 
+ __Thank you for signing up! 
+ Job Categories 
+ 
+   Staffing & Recruiting 
+   IT Architecture 
+   Big Data Analytics 
+   DevOps 
+   Media & Publishing 
+   E-Commerce 
+   Networking 
+   Manufacturing 
+   Civil Engineering 
+   App Development 
+   Sales 
+   Biotech & Pharma 
+   IT Consulting & Pre-Sales 
+   Energy 
+ Marketing 
+   Financial Services 
+ Education 
+ Finance 
+   Wireless & Telecom 
+   IT Security 
+   Content Marketing 
+   Legal Services 
+   Non-Profit Organization 
+   Cloud Computing 
+   Virtualization 
+   ERP Solutions 
+   Management Consulting 
+ Human Resources 
+   Consumer Goods 
+   Renewables 
+   Software Sales 
+   IT Support 
+ 
+ __ 
+ Contract Type 
+ 
+ Analyst 
+ Architecture 
+ Customer support 
+ Data Science 
+ Design 
+ DevOps 
+ Engineering 
+ ERP Consulting 
+ Full Time 
+ Part Time 
+ Product Management 
+ QA & Testing 
+ Research 
+ Software 
+ 
+ We're sorry, there are currently no jobs in this category. 
+ Stay on page Back to search 
+ 
+ (C) 2021 WorkTheNorth | Powered by  Careerleaf Job Board Software 
+ v.3.5.28-67-g06e5c43 
+ 
+ The View from Everywhere 
+ Privacy Policy 
+ Terms and Conditions 
+ About Us 
+ Contact Us 
+ 
+ __ 
+ We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok 

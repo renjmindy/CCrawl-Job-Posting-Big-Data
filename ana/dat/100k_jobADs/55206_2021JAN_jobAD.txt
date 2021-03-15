@@ -1,0 +1,239 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Principal Data Scientist 
+ at Gousto 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ Here at Gousto, we are on a mission to become the UK's favourite way to eat dinner! 
+ Delicious recipes, precise ingredients & a dollop of adventure, delivered to your door. We have invested into our technology, data capability and our product to ensure the customer is at the heart of what we do. Every aspect of our business is powered by our passion. 
+ Whether it is innovation through our recipe development, building algorithms to optimise our recipe box journey or devising strategies to reduce plastic and food waste. All our teams play a part in our amazing growth in the UK! 
+ Our DREAM? To be the most-loved way to eat dinner, and for every meal to leave the planet better off. Gousto is changing how people shop, cook and eat food at home. It’s an incredibly exciting time to join our team! 
+ Principal Data Scientist 
+ We have a new opportunity within our Data Science team for a Principal Data Scientist! Our Principal Data Scientist will be a technical lead on Data Science products & projects within our successful Supply Tribe! 
+ Our technology & operations are growing faster and more complex than ever before - we will soon have four factories to fulfill our customer orders. With this additional operational complexity comes increased opportunity, and we are seeking a Principal Data Scientist to help us exploit this opportunity and provide first-class technical expertise to develop cutting-edge supply chain algorithms. 
+ Our operations, logistics and supply chain are integral to ensuring our customers receive their Gousto box. How we optimise our warehouse, ingredients, resources and customer distribution is key to ensuring the quality and convenience we want our customers to have. 
+ As the Principal Data Scientist in Supply, you will have a wealth of experience in developing algorithms to optimise supply chains. You’ll enjoy raising the technical bar of the rest of the team. You’ll be extremely creative in translating supply chain problems into robust and scalable data science products, and will enjoy designing algorithms from first principles as much as you enjoy developing code and delivering products. 
+ To be successful and, more importantly, enjoy the role, you will be a natural problem solver as well as passionate about unlocking solutions for our customers through data. 
+ Who You Are 
+ 
+ Adventurer in data science - As a leading member of the data science team, you will be using advanced machine learning and optimisation techniques to build tools that will improve our supply chain. We look to our senior team members to unlock new step changes in performance for our existing data products, introduce new theories and technologies to the team and leverage data science in new areas. 
+ End-to-end owner of supply chain data products - The problems we pursue are diverse and have a direct impact on the business. They range from optimising flows in our warehouse to algorithmically designing the layouts of each factory. We believe that if you build something, you should run it too. This means that our data scientists take ownership over the entire process from ideation to deployment, as well as automation and maintenance. Knowing our data products inside-out allows us to keep learning and improving. 
+ Passionate about impact - We have big plans for the future, hence we are looking for creative thinkers to help drive the business and disrupt the online grocery market by leveraging machine learning and optimisation. You will work with amazing colleagues and look forward to solving challenging problems that will have a significant impact on the product and our customers. You’ll recognise when to meet complex problems with advanced solutions or when a simple approach cuts through all complexity. Most of all, you are excited about Gousto’s mission and product and really enjoy working with the team. 
+ Relentlessly raising the bar – We believe that one of the most important things our Principal Data Scientist will do is educate the more junior members of the team. We’re looking for someone who can bring new and innovative practices into the team, someone who is willing to help educate and help to improve what we do on a daily basis. As a senior member of the team, you’re always on the lookout for opportunities to help the team fulfil their potential. 
+ 
+ What’s it like working at Gousto? 
+ All of us are responsible for the success of Gousto. Our guiding values - dream, deliver and care - show our commitment to innovation, our ambition to hit goals at speed, and our deep respect for the people we work with. 
+ Our Values! 
+ Dream 
+ Be confident in your curiosity: think big, aim high and respectfully stand up for what you believe in. 
+ Deliver 
+ We look for effective answers that will have a real impact, take initiative to solve problems and have a healthy impatience for change. 
+ Care 
+ We care about our colleagues, customers and suppliers - they are key to our success - and about where our food comes from, the quality of our ingredients and our impact on the environment. 
+ Equal opportunities 
+ Whether it is creating diversity in our recipes or building new teams, we care about our people and the opportunities they have at Gousto. 
+ We are committed to equality of opportunity across our organisation. At all levels we promote equality, ensuring our people are consistently treated in a fair and equal manner. 
+ Go Gousto! 
+ Requirements 
+ 
+ MSc or PhD in STEM subjects would be great! But there are lots of ways to land in Data Science! Maths, Stats, Computer Science or BSc paired with strong industry experience 
+ Strong proven understanding of machine learning techniques and optimisation algorithms 
+ Experience with managing productionisation of data products 
+ Experience measuring and managing data product performance 
+ Great communication skills – being able to explain your work and the impact on the business to all types of business partners 
+ Comfortable using SQL 
+ High-energy self-starter with a passion for data, attention to detail, and a positive attitude 
+ 
+ Bonus Points For 
+ 
+ Experience in Simulation and Emulation of Supply Chains 
+ Experience in Deep Learning (RNN), particularly Reinforcement Learning 
+ Experience in Evolutionary Computation 
+ Experience in deploying machine learning algorithms into production environments (AWS) 
+ 
+ Benefits 
+ All Gousto employees are offered a benefits package of: 
+ 
+ 25 days holiday (plus bank holidays) - You can buy up to 5 days extra holiday! 
+ A holiday day added each year (up to 30 days) 
+ 40% Gousto discount 
+ Your first Gousto box FREE 
+ 25% Gousto discount for friends and family 
+ Gousto Academy training courses 
+ Free food & recipes from the test kitchen 
+ Gousto stash - hoodie, notepad, mug 
+ 
+ For the full Gousto list of benefits just get in touch and we can share all the details! 
+ Equal opportunities 
+ Whether it is creating diversity in our recipes or building new teams, we care about our people and the opportunities they have at Gousto. 
+ We are committed to equality of opportunity across our organisation. At all levels we promote equality, ensuring our people are consistently treated in a fair and equal manner. 
+ Go Gousto! 
+ Published at 8 Nov 2020 - Expires on 22 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Gousto 
+ fulltime  Lead Engineer (Supply)  at Gousto in London 
+ __21-10-2020 
+ fulltime  Senior Backend Software Engineer (Menu)  at Gousto in London 
+ __21-10-2020 
+ fulltime  Multi-Skilled Maintenance Engineer  at Gousto in London 
+ __31-10-2020 
+ fulltime  Senior Product Analyst (Menu)  at Gousto in London 
+ __05-11-2020 
+ fulltime  Senior Data Engineer  at Gousto in London 
+ __05-11-2020 
+ fulltime  Data Engineer  at Gousto in London 
+ __05-11-2020 
+ fulltime  Product Manager - Supply  at Gousto in London 
+ __06-11-2020 
+ fulltime  Senior Data Scientist (Forecasting)  at Gousto in London 
+ __08-11-2020 
+ fulltime  Senior Data Scientist (Menu)  at Gousto in London 
+ __08-11-2020 
+ fulltime  Solutions Architect (Supply Chain)  at Gousto in London 
+ __24-11-2020 
+ fulltime  Product Manager - Retention  at Gousto in London 
+ __02-12-2020 
+ fulltime  Warehouse Operations Manager  at Gousto in London 
+ __03-12-2020 
+ fulltime  Technical Operator  at Gousto in London 
+ __09-12-2020 
+ fulltime  Data Analyst  at Gousto in London 
+ __10-12-2020 
+ fulltime  Security Analyst  at Gousto in London 
+ __12-12-2020 
+ fulltime  Infrastructure Engineer  at Gousto in London 
+ __12-12-2020 
+ fulltime  People Services & Reward Manager  at Gousto in London 
+ __15-12-2020 
+ fulltime  Supply Chain Planning Manager  at Gousto in London 
+ __24-12-2020 
+ fulltime  Head of People (Fulfilment)  at Gousto in London 
+ __29-12-2020 
+ fulltime  Production Planning Manager  at Gousto in London 
+ __30-12-2020 
+ fulltime  Warehouse Operations Manager  at Gousto in London 
+ __05-01-2021 
+ fulltime  Junior Technical Coordinator  at Gousto in London 
+ __07-01-2021 
+ fulltime  Health and Safety Manager  at Gousto in London 
+ __09-01-2021 
+ fulltime  Operations Manager  at Gousto in London 
+ __09-01-2021 
+ fulltime  HR Business Partner  at Gousto in London 
+ __09-01-2021 
+ fulltime  Junior Recipe Developer  at Gousto in London 
+ __09-01-2021 
+ fulltime  Lead Data Analyst (Menu)  at Gousto in London 
+ __09-01-2021 
+ fulltime  Product Analyst  at Gousto in London 
+ __09-01-2021 
+ fulltime  Recipe Developer  at Gousto in London 
+ __09-01-2021 
+ fulltime  Materials Planner  at Gousto in London 
+ __13-01-2021 
+ fulltime  Engineering Manager  at Gousto in London 
+ __13-01-2021 
+ fulltime  Nights Transport Coordinator  at Gousto in London 
+ __14-01-2021 
+ fulltime  Forklift truck drivers  at Gousto in London 
+ __15-01-2021 
+ fulltime  Learning Advisor  at Gousto in London 
+ __17-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

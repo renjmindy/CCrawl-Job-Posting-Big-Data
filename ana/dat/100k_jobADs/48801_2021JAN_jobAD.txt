@@ -1,0 +1,168 @@
+
+  Raza's Site  
+ Thoughts of a GP in the UK who knows a bit of IT 
+ Wednesday, January 27th, 2021 
+ Search for...  
+ Menu 
+ 
+ About 
+ 
+ All 
+ RIGHT TOOLS FOR THE JOB 
+ By  razatoosy  on  August 17, 2014 
+ SIMPLE CSV MAPPER. I had an evening yesterday to do some coding for another GP Surgery and it made me understand it’s not a matter doing the best possible application which is loosely coupled, well designed and future proof but using the right tools for the job. 
+ I was asked by Tom Brownhill in a GP Surgery to see if they could do their flu invites though  PatientChase  (a product I develop which supplies software to GPs in the UK). Of course you can I said, but then he wanted the following 
+ 
+ Individual Times for Each Patient 
+ x number of  patients per slot 
+ Slots of y minutes 
+ within clinics of set times and dates 
+ 
+ I set aside one evening to do the job but luckily when scoping out the app I soon realised to do it in an evening I’d need to do some rapid prototyping which is another word for shipping the app just to get the job done. But is that so bad? I would probably take a week if I was going to do it “properly” but this would be extra effort. So I’ve realised you need to do 
+ 
+ The minimum amount of work to get the job done properly. 
+ 
+ However it’s how you define the word properly which matters. 
+ You can see the code in GitHub  here  in all it’s gory glory but a few comments 
+ 
+ Why didn’t you use WPF? 
+ 
+ It took me 5 minutes to do the front end and served the purpose it was meant to achieve. I think this is part of the problem with WPF, it can be difficult for developers to justify it’s use with it’s learning curve if they are just doing desktop vs desktop and other devices. It also has a high overhead especially for animations. 
+ 
+ For loops, oh my! 
+ 
+ This fitted well in the context of what I wanted to achieve. I’m not accessing the index so there’s no issue with out of index errors and it ’s little faster. 
+ 
+ Using Datatables instead of Objects 
+ 
+ There are lots of really nice csv helper nuget packages ( CsvHelper ,  FileHelpers ,  LINQToCSV ) out there but most of them require a one to one mapping with the columns and Models. I didn’t need this as I don’t care what’s right of the 1st column and if I did it would be more complex to define and inform the user. 
+ I settled with  CsvReader  which converts the Csv to a Datatable from which I insert the Date and Time required for the patient into the 1st column. The only pre-requiste is that the first column must be named “Slot”. 
+ Code to Load Csv Into the DataTable 
+ Code to Save DataTable To File 
+ Gosh, why use Datatables in this day and age. It was the right tool for the job and made the hard bit of the app so easy… 
+ 
+ Passing GUI Controls Text Properties into the Service Layer 
+ 
+ Again it’s not good practice to pass references to GUI controls directly to the service/domain layer. I should be abstracting this. However abstraction takes time and is there a need? 
+ 
+ Lack of user error checking 
+ 
+ This is one area I’d revisit quickly to tidy up input error checking and tidy up the GUI a bit to prevent exception errors for values in the wrong format and type. 
+ In summary look at the user requirements, what you have at your disposal and time it would take to achieve your goal. Why do you want to create a ferrari when all the user needs is a bicycle to get from point A to point B? 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Categories:  All ,  C# 
+ Post navigation 
+ ONION ARCHITECTURE WITH CSVMAPPER 
+ FROG IN A WELL & EVENT HANDLERS 
+ Search here 
+ Search for...  
+ Previous Posts 
+ 
+ Virtual QOF Recall with PatientChase 
+ BarCode Buddy 
+ Systems in Health Care 
+ Getting EMIS Immunisations into Exeter 
+ Email Consultations 
+ WPF 
+ Coding Blood Pressure 
+ PatientLeaf 
+ SnomedCT. A Blizzard is coming. 
+ DECOUPLING CODE 
+ LINQ TRINKETS 
+ FROG IN A WELL & EVENT HANDLERS 
+ RIGHT TOOLS FOR THE JOB 
+ ONION ARCHITECTURE WITH CSVMAPPER 
+ INTEGRATING WITH COMMUNITY PHARMACISTS 
+ DELEGATES AND LAMBDAS 
+ REASONS 
+ THE ANSWER IS 42. SO WHAT IS THE QUESTION? 
+ CIRCULAR DEPENDENCIES AND INTERFACES 
+ SO YOU WANT TO CODE? 
+ REMOVING DUPLICATIONS FROM A DATATABLE 
+ 
+ About Me 
+ I’m a GP in the UK and know a bit of IT. I want to improve the way clinicians access and view data to make their lives easier. I’ve always been interested in IT and after qualifying as a GP I obtained a Masters Degree in IT with Distinction in 2007 which was a conversion course to be a professional IT developer. This has been invaluable in helping in developing applications for the primary care market. We have a product called  PatientChase  (2008) which looks at simplifying the patient recall process of GP practices and another one called  PatientLeaf  (2018) which is a real-time UX overlay for clinicians. 
+ I also have a lovely wife and 2 beautiful children. This Blog is my thoughts on what I’m currently doing. 
+ Archives 
+ 
+ September 2020 
+ August 2020 
+ June 2020 
+ December 2019 
+ November 2019 
+ December 2018 
+ September 2018 
+ June 2018 
+ May 2018 
+ December 2015 
+ August 2015 
+ February 2015 
+ August 2014 
+ April 2014 
+ December 2013 
+ July 2013 
+ February 2013 
+ December 2012 
+ November 2012 
+ 
+ Categories 
+ Categories Select Category All  (20) C#  (12) Commissioning  (4) NHSIT  (8) 
+ My Pages 
+ 
+ About 
+ 
+ Monthly Posts 
+ 
+ September 2020  (1) 
+ August 2020  (1) 
+ June 2020  (1) 
+ December 2019  (1) 
+ November 2019  (1) 
+ December 2018  (1) 
+ September 2018  (1) 
+ June 2018  (1) 
+ May 2018  (1) 
+ December 2015  (1) 
+ August 2015  (1) 
+ February 2015  (1) 
+ August 2014  (1) 
+ April 2014  (1) 
+ December 2013  (1) 
+ July 2013  (1) 
+ February 2013  (1) 
+ December 2012  (3) 
+ November 2012  (1) 
+ 
+ Meta 
+ 
+ 
+ Register 
+ 
+ 
+ Log in 
+ 
+ 
+ Entries feed 
+ 
+ 
+ Comments feed 
+ 
+ 
+ WordPress.com 
+ 
+ 
+ Top categories:   All Commissioning 
+ 
+ 
+ Blog at WordPress.com.  | 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ %d bloggers like this: 

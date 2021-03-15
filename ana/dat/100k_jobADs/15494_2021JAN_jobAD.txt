@@ -1,0 +1,401 @@
+  
+ MENU 
+ 
+  Our jobs  
+ 
+  OPEN APPLICATION  
+  Post-doc position to "investigate dynamics and evolution of marine DPANN symbiont and their host populations"  
+  Elektronicus NMF Support  
+  Postdoc position: “Effects of windfarms on the marine ecosystem: Ecosystem productivity and feedback of sessile epifauna on structures”.  
+  PhD position: "Harmful Algal Blooms from the present to the past: a (paleo)ecological and genomic approach"  
+  PhD position: “The long-term relationship between sea-level change and sedimentation in the North Sea”  
+  Postdoc position: “Determining the impact of hydrothermal vent nanomaterials on ocean (bio)geochemistry”  
+  PhD position: “Developing automated image analysis to examine an overlooked link in the North Sea: Zooplankton”  
+  PhD position: “Modelling the drivers of reef microbialization”  
+  PhD position: “Builders on the beach; establishing dynamics of coastal dunes”  
+  Postdoc position: “Identity and concentration of nanoplastic and microbial nanoplastic degradation in the ocean“  
+  PhD-project: “Impact of microphytobenthos on C, N, P and Si cycling in dynamic intertidal systems”  
+  Postdoc position: "Constraining past atmospheric CO2 concentrations using biomarker lipids"  
+  Post-doc or PhD position: “To investigate the origin and diversification of eukaryotic metabolisms in light of Earth history”  
+  PhD position: “The Intermittency of large-scale ocean mixing”  
+  Postdoc position “The role of N2 fixing cyanobacteria in past marine biogeochemical cycles”.  
+  Postdoc position: “Tracing river carbon in marine sediments using organic proxies ”.  
+  Postdoc position: “Understanding large scale spatiotemporal distributions of macrozoobenthos in the Dutch Wadden Sea”  
+ 
+ 
+  The Royal NIOZ  
+  Career  
+  NWO-I Science Jobs  
+  Marine research excellence  
+  The Royal NIOZ Experience  
+ 
+  The Experience  
+  The Royal NIOZ and Texel  
+ 
+  A bit of history  
+  The Potvis / Royal NIOZ Campus  
+  Links on Texel Living  
+  Employee Services  
+ 
+ 
+  The Royal NIOZ and Yerseke  
+ 
+  A bit of history  
+  De Keete / NIOZ Guesthouse  
+  Links on Yerseke living  
+  Employee Services  
+ 
+ 
+ 
+ 
+  Contact HR  
+ 
+  The Royal NIOZ HR Philosophy  
+  Choose your HR Adviser  
+  Apply for a job  
+  Who’s who?  
+  The Newbie Programme  
+  Contact us  
+  AlumNIOZ  
+  Internhip(s)  
+ 
+ 
+ 
+ PhD position: “Developing automated image analysis to examine an overlooked link in the North Sea: Zooplankton” 
+ This vacancy is the result of the collaboration between Utrecht University and NIOZ. The department of Estuarine & Delta Systems (EDS) of the Royal Netherlands Institute for Sea Research (Royal NIOZ) and the department of Information and Computing Sciences of the Utrecht University are looking for an enthusiastic PhD-student with a degree in marine ecology or computer sciences and expertise/affinity for the other. 
+ 2020-12-16 14:38:44 
+ **LOCATION:                  ROYAL NIOZ -  YERSEKE (THE NETHERLANDS) 
+VACANCY ID:             2020-78 
+**  CLOSING DATE:        February 10th, 2021 
+ ** 
+****THE PROJECT 
+** Zooplankton, the animal component of the planktonic community in the ocean, has a key role in marine ecosystems by transferring energy and nutrients from autotrophs to organisms higher up the food web. However, zooplankton is not monitored in the Dutch North Sea, which is a major omission for ecosystem-based policy. NIOZ recently purchased an underwater microscope which is designed to take images of zooplankton and marine snow at very high temporal frequency. **This interdisciplinary PhD-project combines  in situ  imaging and machine learning to build an automated observation-monitoring platform for zooplankton to better understand the role of zooplankton in the North Sea. **We foresee that the methodology will be applied during monitoring cruises of the governmental Rijkswaterstaat to provide data for future ecosystem studies. 
+ **THE VACANCY 
+** This PhD-project is uniquely situated at the interface of  marine ecology  and  computer science . On the one hand, you will prepare and join research cruises, sample zooplankton with traditional zooplankton nets, sort zooplankton specimens behind the microscope and interpret results in the context of food web dynamics. On the other hand, you will ensure proper storage of large volume of images and develop machine learning techniques, such as classifiers using artificial neural networks, to automatically classify the hundreds of thousands of images that are captured by the imaging instruments. Results from the traditional net samples will be confronted with the results from the imaging instruments. Initially, images and net samples will be collected in the accessible Oosterschelde estuary during day trips. Subsequently, cruises to various North Sea regions will be held to further develop, validate and apply the imaging technique for ecosystem studies. 
+ **THE CANDIDATE 
+** We are looking for an enthusiastic candidate that is challenged by this interdisciplinary project. Hence, we look for a candidate with a MSc. degree in marine ecology and expertise in computer science or a MSc. degree in computer science and expertise in marine ecology. The candidate enjoys working with scientific equipment, going on fieldwork, working in the laboratory, but also enjoys data analysis, programming and developing machine learning techniques. Given the interdisciplinary nature of the work, it is important that the candidate is open and communicative to facilitate interactions with other members of the group. Excellent English oral and writing skills are essential. We highly encourage applicants from all members of our research community and of diverse background to join us. The candidate will be based at NIOZ in Yerseke which is at commuting distance of cities like Antwerpen, Breda, Middelburg and Vlissingen and will benefit from a close cooperation between the departments from NIOZ and Utrecht University. 
+ **CONDITIONS 
+** Employment of this position at Royal NIOZ is by  NWO  (The Netherlands Organization of Scientific Research). We offer a position for a period of 4 years (fulltime). We offer a position for a period of 1 year (fulltime). At the end of this first year, the employment will be extended for a fixed-term of a maximum of 4 years, if the first year evaluation held with the employee is positive. The salary is compliant to the  CAO-OI  (Collective Labour Agreement for Dutch Research Institutes), a pension scheme, a holiday allowance of 8% of the gross annual salary, a year-end bonus of 8,3%, flexible work arrangements and 42 days of holiday leave (fulltime position). 
+ You may expect attractive secondary employment conditions. We offer generous relocation expenses for employees coming from abroad and support with finding accommodation.. 
+ **MORE INFORMATION 
+** For additional information about this vacancy, please contact  Dr. Dick van Oevelen  (sr. scientist at NIOZ),  Prof. dr. Frank van der Stappen  (Professor of Robotics and Automation at UU) or  Prof. dr. Karline Soetaert  (Research leader at NIOZ) . For additional information about the procedure, please contact   Sigrid Moerbeek  (senior HR advisor). 
+ Please visit the Department of Estuarine & Delta Systems (EDS)  here.  Learn more about the department Department of Information and Computing Sciences at the University of Utrecht  here. 
+ Find more information about the UU-NIOZ projects here. 
+ Please note: The first round of job interviews is foreseen for early February and will take place online. When feasible, a visit to the NIOZ-EDS department in Yerseke and second interview will take place in February. 
+ PhD position: “Developing automated image analysis to examine an overlooked link in the North Sea: Zooplankton” 
+ APPLY TO JOB HERE 
+ VIEW CURRENT JOB OPENINGS 
+ 
+ Share on: 
+ [Twitter](https://twitter.com/intent/tweet?text=PhD position: “Developing automated image analysis to examine an overlooked link in the North Sea: Zooplankton”&url=https://www.workingatnioz.com/our-jobs/phd-position-“developing-automated-image-analysis-to-examine-an-overlooked-link-in-the-north-sea-zooplankton”.html&via=RoyalNioz)  Facebook  [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://www.workingatnioz.com/our-jobs/phd-position-“developing-automated-image-analysis-to-examine-an-overlooked-link-in-the-north-sea-zooplankton”.html&title=PhD position: “Developing automated image analysis to examine an overlooked link in the North Sea: Zooplankton”&summary=The EDS department of the Royal Netherlands Institute for Sea Research (NIOZ) and the department of Information and Computing Sciences of the Utrecht University are looking for an enthusiastic PhD-student with a degree in marine ecology or computer sciences and expertise/affinity for the other. &source=https://www.workingatnioz.com/our-jobs/phd-position-“developing-automated-image-analysis-to-examine-an-overlooked-link-in-the-north-sea-zooplankton”.html) 
+ Share with a friend: 
+ Mail a friend 
+ WORKING 
+@NIOZ TEXEL 
+ Working at the Royal NIOZ Texel 
+ 
+ Working on Texel 
+ Our policies 
+ Benefits 
+ Foreign nationals 
+ Career development 
+ Compensation 
+ Internship(s) 
+ The Potvis / Royal NIOZ Campus 
+ 
+ WORKING 
+@NIOZ YERSEKE 
+ Working at the Royal NIOZ Yerseke 
+ 
+ Working in Yerseke 
+ Our policies 
+ Benefits 
+ Foreign nationals 
+ Career development 
+ Compensation 
+ Internship(s) 
+ De Keete / NIOZ Guesthouse 
+ 
+ NEWS  More news > 
+  NIOZ PODCAST-SERIE VAN DELTA TOT DIEPZEE 
+EEN ZOEKTOCHT NAAR DE STAND VAN DE ZEE >     TEN INTERVIEWS WITH OUR SCIENTISTS AND ENGINEERS 
+THE ANNUAL REPORT GIVES AN INSIDE LOOK INTO THEIR WORK IN 2019 >  
+ Social       SEE WHO YOU KNOW ALREADY? 
+WE LIKE TO LINK WITH YOU >     BEHIND THE SCENES 
+MARINE ORGANIC BIOGEOCHEMISTRY IS SOCIAL >  
+ our jobs   Postdoc position: “Understanding large scale spatiotemporal distributions of macrozoobenthos in the Dutch Wadden Sea” >     Postdoc position: “Tracing river carbon in marine sediments using organic proxies ”. >    View All Jobs > 
+ [ Take a swim 
+ Help our exploration of estuaries, seas and oceans? Join our supporting staff. Send in an open application. 
+ ](our-jobs/open-application.html) 
+ ROYAL 
+NIOZ 
+IN 60 
+SECONDS 
+   
+ The Royal NIOZ, an NWO Institute, is the Dutch national institute for fundamental and applied marine sciences. It is our goal to improve and share our knowledge of estuaries, seas and oceans: for a better understanding of our planet. 
+ 
+ WORKING@NIOZ 
+ 
+ 
+ Policies 
+ 
+ 
+ Benefits 
+ 
+ 
+ Foreign nationals 
+ 
+ 
+ Career development 
+ 
+ 
+ Compensation 
+ 
+ 
+ Internships 
+ Employee Council 
+ 
+ 
+ 
+ 
+ ROYAL EXPERIENCE 
+ 
+ 
+ 
+ Royal NIOZ on Texel 
+ 
+ 
+ 
+ Royal NIOZ in Yerseke 
+ 
+ 
+ 
+ Sail the Pelagia 
+ 
+ 
+ 
+ 
+ Links on Texel Living 
+ 
+ 
+ 
+ Links on Yerseke Living 
+ 
+ 
+ 
+ Video diaries 
+ 
+ 
+ 
+ CONTACT HR 
+ 
+ 
+ 
+ Our HR Philosophy 
+ 
+ 
+ 
+ Choose an advisor 
+ 
+ 
+ 
+ Apply for a job 
+ 
+ 
+ 
+ Who's who? 
+ 
+ 
+ 
+ The Newbie Programme 
+ 
+ 
+ 
+ Leaving Royal NIOZ 
+ 
+ 
+ AlumNIOZ 
+ 
+ 
+ 
+ Royal NIOZ Academy 
+ 
+ 
+ 
+ SERVICE 
+ 
+ 
+ 
+ Job Alert 
+ 
+ 
+ 
+ News 
+ 
+ 
+ Directions & Maps 
+ 
+ 
+ Forms 
+ 
+ 
+ 
+ NWO-I Science jobs 
+ 
+ 
+ 
+ 
+ NVP Code of Conduct 
+ 
+ 
+ 
+ 
+ Privacy Statement 
+ 
+ 
+ 
+ Disclaimer 
+ 
+ 
+ 
+ Contact us 
+ 
+ 
+ 
+ 
+ The Royal NIOZ, an NWO Institute, is the Dutch national institute for fundamental and applied marine sciences. It is our goal to improve and share our knowledge of estuaries, seas and oceans: for a better understanding of our planet. 
+ 
+ WORKING@NIOZ 
+ 
+ 
+ Policies 
+ 
+ 
+ Benefits 
+ 
+ 
+ Foreign nationals 
+ 
+ 
+ Career development 
+ 
+ 
+ Compensation 
+ 
+ 
+ Internships 
+ Employee Council 
+ 
+ 
+ 
+ 
+ ROYAL EXPERIENCE 
+ 
+ 
+ 
+ Royal NIOZ on Texel 
+ 
+ 
+ 
+ Royal NIOZ in Yerseke 
+ 
+ 
+ 
+ Sail the Pelagia 
+ 
+ 
+ 
+ 
+ Links on Texel Living 
+ 
+ 
+ 
+ Links on Yerseke Living 
+ 
+ 
+ 
+ Video diaries 
+ 
+ 
+ 
+ CONTACT HR 
+ 
+ 
+ 
+ Our HR Philosophy 
+ 
+ 
+ 
+ Choose an advisor 
+ 
+ 
+ 
+ Apply for a job 
+ 
+ 
+ 
+ Who's who? 
+ 
+ 
+ 
+ The Newbie Programme 
+ 
+ 
+ 
+ Leaving Royal NIOZ 
+ 
+ 
+ AlumNIOZ 
+ 
+ 
+ 
+ Royal NIOZ Academy 
+ 
+ 
+ 
+ SERVICE 
+ 
+ 
+ 
+ Job Alert 
+ 
+ 
+ 
+ News 
+ 
+ 
+ Directions & Maps 
+ 
+ 
+ Forms 
+ 
+ 
+ 
+ NWO-I Science jobs 
+ 
+ 
+ 
+ 
+ NVP Code of Conduct 
+ 
+ 
+ 
+ 
+ Privacy Statement 
+ 
+ 
+ 
+ Disclaimer 
+ 
+ 
+ 
+ Contact us 
+ 
+ 
+ 
+ 
+ 
+ ‹ › × 
+ × 
+ 
+ __Previous Next __ 

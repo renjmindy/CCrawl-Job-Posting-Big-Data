@@ -1,0 +1,197 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Systems Manager Medical Physics 
+ Memorial Sloan-Kettering Cancer Center 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Systems Manager Medical Physics 
+ Memorial Sloan-Kettering Cancer Center 
+ [](mailto:?subject=Systems%20Manager%20Medical%20Physics&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14057051/systems-manager-medical-physics/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ October 31, 2020 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full-time 
+ We Are: 
+ The Medical Physics Computer Service team is seeking a System Manager with a strong background in technology project management and team management to join us in New York, NY. 
+ We are building and managing a large spectrum of computerized equipment and application development to improve the standard of care in Radiation Oncology and Medical Physics. You will be managing a talent team and working closely with our physicians, clinical researchers, medical physicists, computer scientists, a variety of software engineers, and dedicated IT support specialists in a highly visible role in our organization. 
+ You will: 
+ 
+ Report to the Chief of Computer Service, advise and oversees the administration of radiation therapy 
+ Provide the business continuity plan of the system during upgrading the disaster recovery 
+ Manage, build and train a team to have strong passion and enthusiasm to work on the daily challenges 
+ Develop and maintain a detailed Project Plan for each project, defining key milestones, timelines, stakeholders, ensuring that the project stays on time and on budget 
+ Coordinate project meetings, take and publish detailed minutes. Engage vendor resources as needed. 
+ Work directly to plan and implement software upgrades, including project plans, testing, training, coordination of required resources. 
+ Coordinate between department, MSK IT, MSK InfoSec, Vendor to construct risk assessment, security plan for new installation and upgrade. 
+ Involve with application development using Agile framework and help manage to deliver the applications on time 
+ Help automate the tasks via scripting and programming to improve the efficiency of workflow and promote the DevOps culture in the team 
+ 
+ You need: 
+ 
+ 5+ years' experience in team management 
+ Experiences in healthcare project management at radiation therapy, radiation oncology, and radiology. 
+ Bachelor degree in computer science/Engineering/Management/Physics or related field or equivalent experience 
+ Specialist in Windows and Linux scripting languages (PowerShell, Bash, Python preferred). 
+ Specialist in network, information security, DICOM 
+ Specialist in team culture builds and management 
+ Skills in programming using Java, or .NET 
+ Experiences working in Agile development environment. 
+ Good verbal, writing, and interpersonal skills. 
+ 
+ Nice to have: 
+ 
+ Hands-on experiences in software development 
+ Hands-on experiences on DevOps and cloud-based solutions 
+ Knowledge in fundamental algorithms in machine learning and deep learning 
+ Understanding medical imaging tech stacks (DICOM, PACS, VNA) 
+ Understanding Fast Healthcare Interoperability Resources (FHIR) 
+ Knowledge in healthcare data models 
+ 
+ ** Benefits  ** 
+ Competitive compensation packages | Sick Time |Generous Vacation+ 12 holidays to recharge & refuel| Internal Career Mobility & Performance Consulting | Medical, Dental, Vision, FSA & Dependent Care|403b Retirement Savings Plan Match|Tuition Reimbursement |Parental Leave & Adoption Assistance |Commuter Spending Account |Fitness Discounts &Wellness; Program | Resource Networks| Life Insurance & Disability | Remote Flexibility 
+ We believe in communication, openness, and thinking beyond your 8-hour day @ MSK. Its important to us that you have a sense of impact, community, and work/life balance to be and feel your best. 
+ Our Hiring Process 
+ You review the posting, agree it sounds like a great fit & apply ->Talent Acquisition contacts you to schedule a phone interview (if your profile aligns) -> after speaking with the Talent Acquisition Specialist, you will connect with the Hiring Manager by phone or video -> if your experience is a fit, you will move forward to a video call or on-site visit with the team -> post-interview feedback->ideally an offer! ->reference check & onboarding-> orientation & official welcome to MSK. #LI-POST 
+ 
+ 
+ Internal Number: 2020-44807 
+  __  Create a Job Alert for Similar Jobs  
+ About Memorial Sloan-Kettering Cancer Center 
+ As one of the world's premier cancer centers, Memorial Sloan-Kettering Cancer Center is committed to exceptional patient care, leading-edge research, and superb educational programs. The close collaboration between our physicians and scientists is one of our unique strengths, enabling us to provide patients with the best care available today as we work to discover more effective strategies to prevent, control, and ultimately cure cancer in the future. Our education programs train future physicians and scientists, and the knowledge and experience they gain at Memorial Sloan-Kettering has an impact on cancer treatment and the biomedical research agenda around the world. 
+ Connections working at Memorial Sloan-Kettering Cancer Center 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Optical Engineer 
+ __  Wakefield, Massachusetts 
+ 
+ 
+ 
+ 
+ Optikos Corporation 
+ __1 Week Ago 
+ 
+ 
+ Product Development Engineer 
+ __  Dalgety Bay, United Kingdom 
+ 
+ 
+ PowerPhotonic 
+ __1 Month Ago 
+ 
+ 
+ Controls Software Engineer 
+ __  Upton, New York 
+ 
+ 
+ Brookhaven National Laboratory 
+ __Yesterday 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

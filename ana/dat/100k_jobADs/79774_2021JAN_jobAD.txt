@@ -1,0 +1,302 @@
+Loading.... 
+ LOGIN     SIGN UP 
+ 
+ 
+ Hire Experts 
+ Find Work 
+ How it Works 
+ About Us 
+ Blog 
+ 
+ 
+ SIGN UP! 
+ Before you proceed to sign up, 
+Please select one of the following! 
+ I want to Hire 
+ 
+ --OR-- 
+ I want to Work as an 
+ 
+ 
+ 
+ Home 
+ » 
+ Freelance Jobs 
+ » 
+ JavaScript 
+ 
+ Project Results 
+ By Job Category 
+ 
+ All  (529) 
+ IT & Programming  (205) 
+ Graphic Design & Multimedia  (68) 
+ Writing, Content & Translation  (126) 
+ Data Entry & Admin  (42) 
+ Sales & Marketing  (43) 
+ Customer Service  (6) 
+ Finance & Accounting  (15) 
+ Others  (24) 
+ 
+ By Budget (INR) 
+ 
+ All  (529) 
+ Less than 5000 Rs.   (162) 
+ Between 5,000 - 20,000 Rs.   (136) 
+ Between 20,000 - 50,000 Rs.   (64) 
+ Between 50,000 - 100,000 Rs.   (31) 
+ Greater than 100,000 Rs.   (31) 
+ Not Sure  (105) 
+ 
+ By Project Type 
+ 
+ All  (529) 
+ Featured  (32) 
+ Full Time  (4) 
+ 
+ By Time Left 
+ 
+ Any 
+ Less than 24 hours left 
+ Less than 3 days left 
+ Less than 7 days left 
+ 
+ By Posted Date 
+ 
+ Any 
+ Posted within 24 hours 
+ Posted within 3 days 
+ Posted within 7days 
+ Posted within 14 days 
+ Posted within 30 days 
+ 
+ By Status 
+ 
+ Any 
+ Hiring Open 
+ 
+ Search Job 
+ JavaScript Jobs 
+ ( showing 1 - 15 of 29 results ) 
+ JavaScript 
+ Clear 
+ Get Project Updates 
+ PAGE 1 OF 2  
+ SORT BY Sort by Job Name Budget(High) Budget(Low) Time Left(High) Time Left(Low) 
+ WnH Recommended 
+ React / Node JS Frontend work 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Website Programming  Posted: 12th Jan 2021 Ends: 26th Feb 2021  14 Proposals 
+ This project is to be done using React / Node JS technology. Frontend or full stack person required. ------------------------------------------------------------------------------- Additional Information Added on 12th ... 
+ This project is to be done using React / Node JS technology. Frontend or full stack person required. ------------------------------------------------------------------------------- Additional Information Added on 12th Jan, 2021 Bangalore or chennai location only will be shortlisted. 
+ Skills:  JavaScript 
+ Client:  arunkumars 
+ Android app- Module assistance  
+ FIXED PRICE : 20,000 - 50,000 Rs.   Mobile Applications  Posted: 5 hours ago  Ends: 04th Mar 2021  0 Proposals 
+ Looking for fullstack programmers with following skill sets Skills : Angular8, Node JS, Ionic Experience - 3 + years 
+ Looking for fullstack programmers with following skill sets Skills : Angular8, Node JS, Ionic Experience - 3 + years 
+ Skills:  Database ,  JavaScript 
+ Client:  suniltitto 
+ Need a similar website on wordpress 
+ FIXED PRICE : Less than 5000 Rs.   Website Design  Posted: 15 hours ago  Ends: 04th Mar 2021  11 Proposals 
+ I need a clone or similar website in wordpress like https://www.neom.com/whatistheline/ look there into slider I want exactly like slider and a map is there in third section, I want to exacly same with seven location ... 
+ I need a clone or similar website in wordpress like https://www.neom.com/whatistheline/ look there into slider I want exactly like slider and a map is there in third section, I want to exacly same with seven location (dots) please let me know 
+ Skills:  JavaScript ,  Java 
+ Client:  mohsink786  ,  India 
+ Mobile Application Development - Hybrid - react or flutter or anything hybrid 
+ FIXED PRICE : 50,000 - 100,000 Rs.   Mobile Applications  Posted: 16 hours ago  Ends: 04th Mar 2021  7 Proposals 
+ Job Summary:  We are currently looking for a native mobile application developer who will be joining an experienced team of engineers to focus on developing mobile apps for B2C models. **Responsibilities and Dutie... 
+ Job Summary:  We are currently looking for a native mobile application developer who will be joining an experienced team of engineers to focus on developing mobile apps for B2C models.  Responsibilities and Duties:  Build mobile applications using React Native for hybrid, Android and iOS platforms. Develop new user features, design and write software technical specifications. Publishing processes for Google and Apple App stores.  Required Experience, Skills and Qualifications:  React native or any other latest tech Mobile Applications Development Tools ------------------------------------------------------------------------------- Additional Information Added on 18th Jan, 2021 only people or companies based out karnataka or tamilnadu apply, others will not be shortlisted. 
+ Skills:  Mobile Phone ,  Prototype JavaScript Framework ,  Mobile ,  JavaScript 
+ Client:  arunkumars 
+ Android app 
+ FIXED PRICE : Less than 5000 Rs.   Mobile Applications  Posted: 13th Jan 2021 Ends: 27th Feb 2021  13 Proposals 
+ android app that streams voice from mic to website. So I can listen to the voice come from my mobile to a webpage. ------------------------------------------------------------------------------- Additional Information A... 
+ android app that streams voice from mic to website. So I can listen to the voice come from my mobile to a webpage. ------------------------------------------------------------------------------- Additional Information Added on 13th Jan, 2021 similar to spydroid app. It is an open-source app. I want same app to transfer live voice and listen to it from the webpage. see the source link: https://github.com/fyhertz/spydroid-ipcamera 
+ Skills:  Android ,  Java ,  JavaScript 
+ Client:  wakamal 
+ Software Development engineer 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Application Interface Design  Posted: 12th Jan 2021 Ends: 26th Feb 2021  7 Proposals 
+ - Primary roles are Backend Developer and module owner, AI & ML Engineer for Web Applications. - Meet regularly with business stakeholders and management to understand and refine business and functional requirements... 
+ - Primary roles are Backend Developer and module owner, AI & ML Engineer for Web Applications. - Meet regularly with business stakeholders and management to understand and refine business and functional requirements and determine project scopes and specifications. - Develop and maintain strategic operational systems, tools, and processes, including participation in tactical and strategic development projects. - Work quickly and carefully to complete small edits requested by customers, develop plans for completing larger projects, collaborate with colleagues, and suggest new solutions to improve existing websites. - Perform coding, creating reusable objects and templates, wireframes for web pages and email templates; manage maintenance, updates, expansions, and scaling of each design. - Bachelor's degree in computer science, engineering, art, or similar discipline. - 5 years of Interactive Web Development experience across multiple products. - years working experience of web applications, programming languages, and web services with Java, JSP, J2EE, SQL, JavaScript, HTML5, CSS, Spring-Boot, Spring MVC, Postgres, PL-SQL, Jquery, React JS, Web Service - Rest, Agile environment, - Additional working experience of Data Structures, Algorithms, AI, Machine Learning is Plus. - Knowledge of Python, Ruby, Scala Programming is a plus. - Excellent communication and presentation skills. - Working experience in Windows and Linux environments - Experience implementing and using modern web development workflows and operations using a variety of tools including GitHub. 
+ Skills:  Hibernate ,  JavaScript ,  jQuery ,  SQL 
+ Client:  lookingforfreelancers 
+ Need to build Reverse Proxy GOLANG / NODEJS 
+ FIXED PRICE : Not Sure  Scripts & Utilities  Posted: 10th Jan 2021 Ends: 24th Feb 2021  3 Proposals 
+ HI , We're looking for a skilled developer to build a Reverse proxy that we will use for testing and educational purposes . The proxy should intercept traffic between two peers and serve a HTTPS connection . We wo... 
+ HI , We're looking for a skilled developer to build a Reverse proxy that we will use for testing and educational purposes . The proxy should intercept traffic between two peers and serve a HTTPS connection . We work in cybersecurity private pentest and anti-phishing services . Take as example and start-base : https://github.com/kgretzky/evilginx2 https://github.com/drk1wi/Modlishka https://github.com/muraenateam/muraena Plus we need to have a WebPanel where control all session and all request made by each session (GET,POST) and should keep Session Cookies. Can use any DB you want as long as it works dynamically . Must be written in NodeJS or Golang Message us with your price. 
+ Skills:  MySQL ,  JavaScript ,  Go 
+ Client:  tantoro 
+ Installation open source software job boarding in to Server  
+ FIXED PRICE : Less than 5000 Rs.   Website Programming  Posted: 10th Jan 2021 Ends: 24th Feb 2021  7 Proposals 
+ Hello, I got an open source PHP Job portal software and i m planning to integrate it with my website. Also need some customization. 
+ Hello, I got an open source PHP Job portal software and i m planning to integrate it with my website. Also need some customization. 
+ Skills:  HTML5 ,  JavaScript ,  jQuery ,  MySQL ,  PHP 
+ Client:  rahul2020 
+ Dashboard with API dev 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Application Interface Design  Posted: 04th Jan 2021 Ends: 18th Feb 2021  9 Proposals 
+ Please only make a bid if you have done this before. Prefer to have MEAN skills but LAMP is fine. There will be limited users within an org and there will be a predefined menu to chose objectives and goals. API will pull... 
+ Please only make a bid if you have done this before. Prefer to have MEAN skills but LAMP is fine. There will be limited users within an org and there will be a predefined menu to chose objectives and goals. API will pull data from existing systems to map against these goals. The dashboard must be secure, modular (stackable with features), Data/security is important besides just SSL as it will handle sensitive data. 
+ Skills:  JavaScript ,  Data Modeling ,  Database ,  PHP ,  C++ 
+ Client:  bwcommerce  ,  India 
+ Need WEB DEVELOPER 
+ FIXED PRICE : 50,000 - 100,000 Rs.   Other - Web Development  Posted: 04th Jan 2021 Ends: 18th Feb 2021  50 Proposals 
+ We are hiring a web developer who will develop a gym website for us. 
+ We are hiring a web developer who will develop a gym website for us. 
+ Skills:  JavaScript ,  HTML5 ,  HTML ,  CSS 
+ Client:  rupeshschavsn1111  ,  India 
+ Web developers with HTML, JS, C# needed for interesting long term project 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Website Design  Posted: 31st Dec 2020 Ends: 14th Feb 2021  24 Proposals 
+ Hello! We are looking for freelance web developers to help build small web projects. Should have experience in HTML, JS and C#. SEO and Keyword research knowledge is preferred. Candidates with good communication wi... 
+ Hello! We are looking for freelance web developers to help build small web projects. Should have experience in HTML, JS and C#. SEO and Keyword research knowledge is preferred. Candidates with good communication will be preferred. Please mention your mobile number while bidding. Kindly include links to your articles / writing samples. Only individual developers apply, Agencies please excuse. Wish you all a happy New Year 2021. If we work well together, we are looking at a long term partnership on this project (Bids without contact number will be ignored) Thanks, Naveen 
+ Skills:  HTML ,  JavaScript ,  CSS ,  C# ,  .NET 
+ Client:  callxpert 
+ Web Design  
+ FIXED PRICE : 50,000 - 100,000 Rs.   Website Design  Posted: 31st Dec 2020 Ends: 14th Feb 2021  26 Proposals 
+ Responsibilities: Develop both print and electronic collateral materials, including general marketing and industry specific brochures, as well as reference materials produced in conjunction with other departments Execu... 
+ Responsibilities: Develop both print and electronic collateral materials, including general marketing and industry specific brochures, as well as reference materials produced in conjunction with other departments Execute routine graphic design projects, such as briefing documents, internal communications and newsletter, event invitations, rankings, and one-pagers Assist in the process of taking staff photos in-house Utilize technical skills to edit and prepare internal photography, as needed, across both print and online platform 
+ Skills:  JavaScript ,  HTML ,  Database ,  CSS ,  Cisco 
+ Client:  momav 
+ Urgent website developer is needed 
+ FIXED PRICE : Greater than 100,000 Rs.   Website Design  Posted: 31st Dec 2020 Ends: 30th Jan 2021  34 Proposals 
+ ON GOING PROJECT NEEDED A PROFESSIONAL website developer /design URGENTLY ; Reply here (removed) for the job requirement 
+ ON GOING PROJECT NEEDED A PROFESSIONAL website developer /design URGENTLY ; Reply here (removed) for the job requirement 
+ Skills:  JavaScript ,  Java ,  HTML5 ,  Prototype JavaScript Framework ,  XHTML 
+ Client:  skenny 
+ I need a website developer  
+ FIXED PRICE : Not Sure  Website Design  Posted: 31st Dec 2020 Ends: 30th Jan 2021  23 Proposals 
+ I NEED A WEBSITE DEVELOPER ON GOING PROJECT NEEDED A PROFESSIONAL a website developer /design URGENTLY ; (removed) 
+ I NEED A WEBSITE DEVELOPER ON GOING PROJECT NEEDED A PROFESSIONAL a website developer /design URGENTLY ; (removed) 
+ Skills:  Django ,  HTML5 ,  JavaScript ,  PHP ,  WordPress 
+ Client:  skenny 
+ Urgent requirement SENIOR REACT JS DEVELOPER 
+ FIXED PRICE : Less than 5000 Rs.   Other - Web Development  Posted: 29th Dec 2020 Ends: 12th Feb 2021  10 Proposals 
+ Must have minimum 2yr of experience and good at react js 
+ Must have minimum 2yr of experience and good at react js 
+ Skills:  Java ,  JavaScript ,  Prototype JavaScript Framework 
+ Client:  mayank30  ,  India 
+ Basic HRMS Java application required urgently 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Other - Web Development  Posted: 28th Dec 2020 Ends: 11th Feb 2021  6 Proposals 
+ Hi , I am looking for basic HRMS system in Java only. If any one has already developed it would be advantage as only few customization may be required in that case. Since time is constraint request only those who are ... 
+ Hi , I am looking for basic HRMS system in Java only. If any one has already developed it would be advantage as only few customization may be required in that case. Since time is constraint request only those who are having ready made as-is solution only apply. Below are few high level requirements 1. User management( Roles, access rights) 2. Attendance ( clock in-clock out), shift management 3. Push notification module with different message formats 4. Online leave application 5. Appraisal management 6. Employee grievances module 7. Employee recognition & awards 8. reimbursement claim form 9. Talent recruitment online portal 10. Dashboard & basic reports Thanks. 
+ Skills:  Java ,  JavaScript ,  JSP ,  HTML 
+ Client:  rakeshranesardesai  ,  India 
+ Previous 1  2   Next   Last 
+ NAVIGATE 
+ How it Works 
+ Fees & Pricing 
+Register 
+ Blog 
+ Help 
+ Contact Us 
+ FIND FREELANCERS BY EXPERTISE 
+ 
+ 
+ 
+ Developers & Programmers 
+ 
+ PHP Developers 
+ 
+ 
+ 
+ 
+  Graphic Designers 
+ 
+ Photoshop Experts 
+ 
+ 
+ Article Writers 
+ 
+ Creative Writing 
+ 
+ 
+ Data Entry & Admin 
+ 
+ MS Excel Consultants 
+ 
+ 
+ Sales & Marketing 
+ 
+ Internet Marketing 
+ 
+ 
+ Accountants & Legal 
+ 
+ Finance Consultant 
+ 
+ 
+ 
+ FIND FREELANCERS BY LOCATION 
+ 
+ 
+ 
+ Freelancers In India 
+ 
+ Freelancers In New Delhi 
+ 
+ 
+ 
+ 
+ Freelancers in Noida 
+ 
+ Freelancers in Hyderabad 
+ 
+ 
+ Freelancers in Mumbai 
+ 
+ Freelancers in Jaipur 
+ 
+ 
+  Freelancers in Kolkata 
+ 
+  Freelancers in Bhopal 
+ 
+ 
+ Freelancers in Bangalore 
+ 
+ Freelancers in Punjab 
+ 
+ 
+ Freelancers In Ahmedabad 
+ 
+ Freelancers In Chennai 
+ 
+ 
+ 
+ LOOKING FOR FREELANCING JOBS? 
+ 
+ 
+ 
+ Fresher Jobs 
+ Part Time Jobs 
+ IT Jobs 
+ Work from Home Jobs 
+ Online Jobs 
+ 
+ 
+ 
+ 
+ Web Design Jobs 
+ Technical Writing Jobs 
+ Freelance Writing Jobs 
+ Accounting Jobs 
+ Legal Jobs 
+ 
+ 
+ Mobile Development Jobs 
+ Data Entry Jobs 
+ Game Development Jobs 
+ Photography Jobs 
+ Medical Writing Jobs 
+ 
+ 
+ AutoCAD and 3D Jobs 
+ HR Jobs 
+ SEO & Marketing Jobs 
+ Corporate Trainer Jobs 
+ Web Development Jobs 
+ 
+ 
+ 
+       
+ Copyright (C) 2012-2020   WorknHire Technologies Pvt. Ltd. . All Rights Reserved. 
+ To Top 

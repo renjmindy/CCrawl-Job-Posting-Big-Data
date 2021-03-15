@@ -1,0 +1,60 @@
+ Certifications Preferred:  CISA, CISSP 
+ SecurityHeadhunter.com  is conducting a search for Web Application Security Engineers. Our client, a Fortune 500 organization, has engaged us to identify, recruit and prescreen candidates that have a passion for web security. These are full time positions working on site for the organization. The client is not a consulting firm. 
+ Our client really wants to see candidates that have at least 3-5 years of software / application development  and /or  web development skills in Java OR .NET environment and has moved over to the Security side for at least the last 2-3 years. 
+ Having a software or Web Development background prior to Web Application Security is NOT a must have, but is a big plus for the positions. 
+ The selected candidate(s) will be working on new web application security as well as legacy systems from time to time. Selected candidate(s) must be very knowledgeable of  OWASP TOP 10 . 
+ RESPONSIBILITIES & DUTIES 
+ Other:  GSSP Certification a plus 
+ SecurityHeadhunter.com  is actively recruiting a senior level candidate for the position of Chief “Software” Security Architect for a major New York client. You can choose to work in New York or work in their Pennsylvania location. (FOR FULL DETAILS CONTACT US TODAY!) 
+ This is a new and very key role. You will be responsible for all software / application security architecture for the corporation. You must posses a technical background from the Software Security side. Any experience as a structure hacker would be a benefit. 
+ You’ll also need a good understanding of network, host, and physical aspects of the security infrastructure. Any experience dealing with offshore systems development would be a plus but not required. You’ll need the same communication and interpersonal skills as a senior principal / partner of a large security and information protection agency. 
+ Responsibilities will include 
+• Provide solutions and guidance in the form of design, development, and deployment on all aspects of software & application security to the development teams on a national and international basis. 
+ Qualifications 
+• Core security, vulnerability scanning & pen testing tools 
+• Core security analysis 
+• Understanding of secure HTTP, application security, web security, SHH, SFTP, SSL and additionally application vulnerabilities. 
+• An understanding of application security over OS’s (Linux, Sun, Windows, Novell, etc.) 
+• Must have a minimum experience 10 years developing scalable, distributed applications with a thorough understanding of platforms like Enterprise Java, .NET with security aspects of Java, C#, C++ languages. 5 years in the Application Security space; including information (storage, transmission, etc.), application (design & development), deployment, run-time (access), operation/support. 
+ Other  : GSSP Certification a plus 
+ SecurityHeadhunter.com is actively recruiting a senior level candidate for the position of Chief Security Architect for a major New York client. This position will have very broad enterprise impact. You’ll be setting strategies which will translate into tactical decision making, influencing technology implementations and business operations processes. You must have implemented an enterprise scale threat mitigation and assurance strategy for software development. You’ll also need a good understanding of network, host, and physical aspects of security the infrastructure. Any experience dealing with offshore systems development would be a plus but not required. 
+ You’ll need the same communication and interpersonal skills as a senior principal / partner of a large security and information protection agency. 
+ Responsibilities will include 
+ Provide solutions and guidance in the form of design, development, and deployment on all aspects of software & application security to the development teams on a national and international basis. 
+ Implementation of:
+ Qualifications 
+ Core security, vulnerability scanning & pen testing tools **** 
+ Core security analysis 
+ Understanding of secure HTTP, application security, web security, SHH, SFTP, SSL and additionally application vulnerabilities. 
+ An understanding of application security over OS’s (Linux, Sun, Windows, Novell, etc.) 
+ Must have a minimum experience 10 years developing scalable, distributed applications with a thorough understanding of platforms like Enterprise Java, .NET with security aspects of Java, C#, C++ languages. 5 years in the Application Security space; including information (storage, transmission, etc.), application (design & development), deployment, run-time (access), operation/support. 
+ Certifications: 
+ **** 
+ Travel %: 
+ Minimal 
+ Relo Paid: 
+ No 
+ Project Management Certification - PMI or PRINCE 2, etc. 
+ For additional information on this or other Security Jobs, please contact: 
+ Wils Bell  **** 
+ Information Security Recruiter 
+ Security   Headhunter   .com, Inc. 
+ POB 620298 
+ Certifications: 
+ See Below 
+ Travel %: 
+ 20-30% 
+ Relo Paid: 
+ N/A 
+ Certifications to include the CISSP, CSSLP, EC-Council E|CSP and/or SANS, GIAC Secure Software Programmer - Java (GSSP-JAVA) are highly appreciated. 
+ A consultant must demonstrate the following: 
+ • A very solid and deep knowledge & understanding of web application security threats, risk models and tools. 
+ • Static analysis experience with Fortify (preferred) or IBM Ounce Labs tools. 
+ • Architectural review, manual source code review, dynamic analysis. 
+ • Solid technical background that includes Java enterprise application technology. 
+ Certifications: 
+ CISA is a must!!! 
+ Travel %: 
+ minimal 
+ Relo Paid: 
+ No relo offered 

@@ -1,0 +1,218 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Java Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ JavaWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Backend Engineer - Partner Integrations 
+ [ 
+ Glovo 
+ ](/companies/glovo) 
+ Barcelona, Spain 
+ 17 September, 2020 
+ Apply 
+ More jobs from Glovo About Glovo 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ AWS 
+ Java 
+ oo design 
+ event driven systems 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Gym passes 
+ Flexible parent working 
+ Flexible working for parents 
+ Healthy snacks 
+ Learning budget 
+ Flexible personal budget 
+ Free coffee 
+ Pre-tax commuter benefit 
+ Flexible work hours and the ability to work from home 
+ Free food 
+ Flexible budget available to attend learning and development opportunities such as meet-ups and conferences 
+ Flexible holiday entitlement 
+ Flexible holiday 
+ 
+ You will work in one of the core teams within Glovo, responsible for our public APIs and tools. 
+ Role overview 
+ BE A PART OF A TEAM WHERE YOU WILL: 
+ 
+ Work on challenging problems regarding large amounts of data processing (reads and writes). 
+ Work on the dynamic pricing logic together with data-scientist. 
+ Develop software using modern engineering approaches and agile principles. 
+ Make our technology and our team scale as the business grows. 
+ Own your deliverables from start to finish. 
+ Deliver high-quality solutions. 
+ Work with machine learning engineers to optimise ML Models for production. 
+ Participate in high-level technical decisions. 
+ Take part in product-experimentation. 
+ You're a thought leader, able to own large complex problems and deliver solutions. 
+ You think boldly, and challenge yourself and others to build and design better. 
+ You prefer strong working relationships and thrive on collaboration with your teammates, other engineering teams and stakeholders. 
+ Mentor and empower other developers around you. 
+ 
+ YOU HAVE: 
+ 
+ Computer Science or similar degree. 
+ Experience diagnosing and resolving performance problems in complex software systems. 
+ 7+ years of relevant full-time experience. 
+ Strong Java or Other language skills. 
+ Experience with scripting languages. 
+ Extensive knowledge of object-oriented programming and software architecture. 
+ Strong will to adhere to best practices in OO development and a need to leave well-structured code in your tracks. 
+ The urge to write automated tests. 
+ Knowledge of relational databases and other approaches to data management. 
+ Knowledge of concurrency and Event-Driven Development. 
+ Analytical and problem-solving skills. 
+ Vivid interest in at least one area outside of coding (architecture, algorithms, optimization, automation, scalability, etc.) 
+ You have strong written and verbal communication skills in English. 
+ 
+ NICE-TO-HAVES: 
+ 
+ Experience in managing distributed services/microservices platforms. 
+ Experience with Amazon Web Services (AWS). 
+ Experience with Kafka or Kinesis. 
+ Experience with Spring framework. 
+ 
+ EXPERIENCE OUR GLOVO LIFE BENEFITS: 
+ 
+ Enticing Phantom Shares plan 
+ Flexibility 
+ Unlimited Vacations 
+ Attractive Relocation package (if applicable ;)) 
+ Comprehensive Private Health Insurance 
+ Cobee discounts on kindergarten, transportation, and food 
+ Free monthly Glovo credits to spend on our restaurant products (and zero Glovo delivery fee on all Glovo orders!) 
+ Cool perks such as fresh fruit and healthy snacks every day, beers on Fridays, Culture Days every 2 months! 
+ Discounted Gym memberships 
+ Flexible working environment 
+ 
+ 
+ [ 
+ Glovo 
+ ](/companies/glovo) 
+ 
+ 250+ 
+ 
+ Glovo is the fastest growing “Gen2” delivery player in Europe, Hispanic America and Africa. With food at the core of the business, Glovo de- livers any product within your city at any time of day. We currently deliver over +40M annual orders and operate in 22 countries, and in 248 cities. We’re expecting to reach 130m orders by 2020. Our unique value proposition “Anything you want, delivered in minutes” drives higher user re- tention, lower CAC and increased engagement. Glovo stands out for its fast and lean execution, and expands to markets with good unit economics (high AOV/cost of la- bour ratio). With lots of room for optimisation, Glovo has a proven business model, with forecasted profitability P&L for FY2019 in the region of SW Europe. New markets usually reach operational profitabi- lity within the first 4-6 months. Our vision is to become “the everything app” within our re- gions. A platform that makes cities more accessible to our users at any level and generates non-food as well as food orders [...] during peak hours, allowing us to build the most robust supply. Our lead investors are Lakes- tar (holds stakes in a number of notable technology compa- nies, including Spotify, AirBnB, Skype, King), Mubadala, the Abu Dhabi sovereign investment fund, Drake (owner of global pizza franchise Papa Jo- hn’s), Idinvest Partners (named Best Private Equity Team - De- loitte 2012 Technology Fast 50 Award and awarded The French LP Gold Award 2012 at Private Equity Exchange), Korelya Capi- tal, Rakuten Capital (3rd largest e-commerce company globally after eBay and Amazon), Seaya Ventures (one of the biggest Spanish venture funds), AmRest (a publicly listed restaurant ope- rator in central Europe that con- trols more than 1,650 restaurants in over 16 countries, with brands such as KFC, La Tagliatella, Pizza Hut, Starbucks, Burger King, Blue Frog and KABB under its belt), and Cathay Innovation (the lea- ding cross-border private-equity firm), among many others. Serie E of investment. If you want to move faster in the process contact me directly: gianluca.rosania@glovoapp.com 
+ Logistics Private AWS Functional JavaScript KUBERNETES Kotlin Gym Passes Flexible Parent Working 
+ View 1 job 
+ Engineers who find a new job through Java Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Glovo About Glovo 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ AWS 
+ Java 
+ oo design 
+ event driven systems 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Gym passes 
+ Flexible parent working 
+ Flexible working for parents 
+ Healthy snacks 
+ Learning budget 
+ Flexible personal budget 
+ Free coffee 
+ Pre-tax commuter benefit 
+ Flexible work hours and the ability to work from home 
+ Free food 
+ Flexible budget available to attend learning and development opportunities such as meet-ups and conferences 
+ Flexible holiday entitlement 
+ Flexible holiday 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Java Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Java Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Backend Engineer (Java / Kotlin) - Retail Operations - Supply ChainCompetitiveZalando SEBerlin, Germany 
+ You will be building the most important supplier facing tool to plan the delivery of one million items a day 
+ Sponsorship 
+ aws cloud java 
+ More Info Apply 
+ Senior Software EngineersCompetitiveRippleLondon, United Kingdom 
+ Help build the next generation of payment applications that enable banks to instantly settle payments. 
+ aws java microservices redis spring 
+ More Info Apply 
+ Backend Engineer (Java / Kotlin) - Supply Chain CompetitiveZalando SEBerlin, Germany 
+ You will build the most important supplier facing tool to plan the delivery of approx. 1 million items per day 
+ aws java kubernetes kafka kotlin rest apis grafana 
+ More Info Apply 
+ Senior Backend Engineer - Partner Integrations 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Java jobs Play jobs Kafka jobs Akka jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Java articles Akka articles Kafka articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

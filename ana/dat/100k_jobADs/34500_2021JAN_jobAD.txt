@@ -1,0 +1,317 @@
+Skip to primary content 
+ Skip to secondary content 
+ Jobius 
+ Home of Jobius Technologies, Bernal Heights, San Francisco 
+    Search 
+ Main menu 
+ 
+ Home 
+ About 
+ 
+ Author Archives:  Jobius (Joe Thomas) 
+ Post navigation 
+ <- Older posts 
+ In New "Murder in the First" TV Show, Hollywood Cops Live in Real Bernal Heights 
+ Posted on  June 11, 2014  by   Jobius (Joe Thomas) 
+ Reply 
+ Bernalwood 
+ 
+ Last year around this time,  Hollywood came to Bernalwood  to shoot a new TV show. It finally premiered Monday night on TNT, and it’s called Murder in the First. It’s produced by Steven Bochco (Hill Street Blues, NYPD Blue, Murder One, Brooklyn South, City of Angels, LA Law, Philly, and of course, Cop Rock), so of course it’s about cops. 
+ The pilot opens in Bernal Heights, where SFPD inspector Hildy Mulligan (Kathleen Robertson) lives in a cute little house near the top of Alabama St. with her adorable moppet of a daughter. Robertson has been in a ton of things, going back to the original  Beverly Hills 90210  and earlier as a child star in Canada. Bonus Canadian content for  Burrito Justice : she played Mrs. Hockey (Colleen Howe) in 2013’s “ Mr. Hockey: The Gordie Howe Story .” 
+ 
+ Neighbor Hildy, the hot blonde cop/mom (try saying it; it’s fun)… 
+ View original post  335 more words 
+ Posted in  Uncategorized  |   Leave a reply 
+ Sutrito Spin 
+ Posted on  July 15, 2012  by   Jobius (Joe Thomas) 
+ 1 
+ Last week saw the launch of  HYPNO SF , a thing whose Twitter bio says it's "visually exploring + animating San Francisco" with crazy/amazing yo-yo videos of the Golden Gate Bridge, Market Street from the Ferry Building to the Castro, and more. These shots can be seen in the video for a song called Water Falls by Kalle Mattson, and and in  animated GIF form . The gorgeous spinning shot of Sutro Tower at the end of the video really got my attention. 
+ Why not try something similar for Bernal's own Sutrito Tower, I thought. So, with my iPhone and bicycle, I set off to get some pictures. 
+ 
+ Map image I had on my iPhone as a guide for taking pictures approximately the same distance from Sutrito Tower. 
+ I figured that the hard part would be aligning and scaling the pictures, so I wanted to take them from close to the same distance from the tower. I had the map above open in Safari, and switched back and forth between that, Maps, and the Camera app. I ended up deviating from a circular path quite a bit, in order to get usable pictures: 
+ 
+ Actual track taken. More or less. Reconstructed from embedded lat/longs in the pictures. 
+ I got back and started aligning and stacking images. I used GIMP 2.6 for Windows, which is free, and supports creating animated GIFs from an image with layers. I created an empty 1280 x 720 image, and added a layer per frame. For a first pass, I didn't even scale or rotate the images to match, I just copied and pasted a chunk out of the native resolution iPhone photos, and nudged it until Sutrito roughly lined up with its image in lower layers. 
+ File, Save As, GIF, click the "animated GIF" (not "flatten") radio button, and I soon had a 16 megabyte  animated GIF . And it basically worked! It didn't suck. When I have a bit of time, I'll probably try to fix the rotation and scaling, but this seemed good enough to Tweet. Thanks to a retweet by  Burrito Justice , more than three people actually saw it, including Mr. HYPNO SF, Kevin Parry: 
+ http://twitter.com/hypnosf/status/224405919356813312 
+ So that was a nice way to spend a Saturday. 
+ Posted in  Uncategorized  |   1  Reply 
+ How Tall is Bernal Hill? Scatter Plot References 
+ Posted on  May 14, 2012  by   Jobius (Joe Thomas) 
+ 2 
+ I recently spent some time trying to figure out how tall Bernal Hill is, and  posted my findings on Bernalwood . In the comments,  Eric Fischer posted  a super-detailed (five-foot contour interval)  topo map  that the city makes available, showing the peak as at least 450 feet (and less than 455 feet). I think I believe it… I'd include it in this scatter plot if I could figure out what date to assign it: 
+ 
+ The list of references for the scatter plot was too long to include there, so I'm posting it here: 
+ 1869  U.S. Coastal Survey  map 480 feet 
+ 1899  Report upon a System of Sewerage for the City and County of San Francisco : “Bernal Heights rise to an elevation of over 490 feet.” 
+ 1906  Insurance Engineering , Volume 11: “Further to the south, Bernal Heights, between two branches of Islias [sic] Creek, reaches an elevation of about 500 feet.” 
+ 1911 “ Chevalier ” 475+ feet 
+ 1959 Hills of San Francisco, a collection of articles from the Chronicle, lists Bernal at 325 feet. Gladys Hansen’s  San Francisco Almanac  also used this figure. It’s at least 100 feet too low. 
+ 1960  Survey for proposed microwave tower : 455 feet 
+ 1981  USGS survey  report 443 feet 
+ 1982 W.S. Chase “Relief Model of San Francisco” map with 50-foot interval contours. Sixth Floor collection, San Francisco Main Library. Highest contour drawn on Bernal is 400 feet. (i.e. 400-449′ summit) 
+ 2004 “ Peak Experience ,” by Tom Graham, San Francisco Chronicle, November 7, 2004: 500 feet. 
+ 2005  American Tower Corporation site survey , November 17, 2005: 446 feet. (But “top of steel” on Sutrito is 507 feet, and the highest antenna topped out at 526 feet.) 
+ Posted in  Uncategorized  |   2  Replies 
+ Eclipse rehearsal 
+ Posted on  April 7, 2012  by   Jobius (Joe Thomas) 
+ 2 
+ 
+ Update April 10: This is substantially rewritten from the original, to fix a mistake Stephen noted in the comments. I tried just doing strike-throughs of the erroneous or irrelevant parts, but that just made it more confusing. 
+ On May 20, San Francisco will see a partial solar eclipse. (It's an annular eclipse north of San Francisco, but just partial here.) Maximum eclipse is at 6:32 pm, when the sun will be at 18.9° altitude, 281.4° azimuth; the moon at 18.9° altitude, 281.5° azimuth (figures from the  USNO Altitude/Azimuth calculator ). 
+ http://www.flickr.com/photos/sharpshutter/6831660801/ 
+ Obviously, the ideal spot for observing and photographing would allow framing the eclipse and Sutro Tower together. Back in January,  Burrito Justice  used the  Photographer's Ephemeris  app to get exact figures for the Mission: 18.8° altitude, 281° azimuth at 6:32 pm PDT: 
+ 
+ Ahoy  @DataPointed   @Jobius   @rrmutt   @obeyken : SF max of 5/20/2012 annular eclipse: 18:32,18.7° Via Sutro & 24th/26th St?  http://t.co/wUsO6Zt5 
+ -- Burrito Justice (@burritojustice)  January 30, 2012 
+ 
+ 
+ 
+On April 23 at 8:36 pm PDT, the moon will be at an elevation of 18‌.9°, azimuth 282°, or a little over one full-moon width north of the maximum-eclipse position on May 20. Assuming the fog cooperates, it should be easily visible: 7% illuminated, setting an hour and 15 minutes after sunset. At about 9:57 pm, the moon will set behind Twin Peaks at azimuth 293‌°, still half a degree north of its May 20 track.
+
+The eclipse will be over by sunset/moonset on May 20, though. For a dry-run of framing the maximum eclipse, and then its descent toward the horizon, the best time will be from around 8:30 to 9:00 pm on April 23.
+
+(Top images from [Stargazer95050](https://secure.flickr.com/photos/sharpshutter/)'s Flickr stream, bottom image from Burrito Justice.)
+
+Posted in [Uncategorized](https://jobius.wordpress.com/category/uncategorized/) |  [**2** Replies](https://jobius.wordpress.com/2012/04/07/eclipse-rehearsal/#comments)
+
+# [Moonrise, April 5, 2012](https://jobius.wordpress.com/2012/04/05/moonrise-april-5-2012/)
+
+Posted on [April 5, 2012](https://jobius.wordpress.com/2012/04/05/moonrise-april-5-2012/ "9:24 pm") by  [Jobius (Joe Thomas)](https://jobius.wordpress.com/author/jobius/ "View all posts by Jobius \(Joe Thomas\)")
+
+[Reply](https://jobius.wordpress.com/2012/04/05/moonrise-april-5-2012/#respond)
+
+So it's another time-lapse moonrise. The minor innovation tonight was moving the cameras down off the railing so the wind wouldn't blow them off. (The wide angle camera was inside the kitchen window, while the telephoto was outside on a low table, shooting through the slats in the railing. I'll get a picture next time.)
+
+I think my favorite part of this one is the Caltrains streaking by, reflecting the setting sun directly back at the camera. The actual moonrise over the East Bay hills wasn't visible because of the clouds and haze, but it popped out of those reasonably quickly.
+
+Posted in [Uncategorized](https://jobius.wordpress.com/category/uncategorized/) |  [Leave a reply](https://jobius.wordpress.com/2012/04/05/moonrise-april-5-2012/#respond)
+
+# [](https://jobius.wordpress.com/2012/03/26/274/)
+
+Posted on [March 26, 2012](https://jobius.wordpress.com/2012/03/26/274/ "9:12 pm") by  [Jobius (Joe Thomas)](https://jobius.wordpress.com/author/jobius/ "View all posts by Jobius \(Joe Thomas\)")
+
+[Reply](https://jobius.wordpress.com/2012/03/26/274/#respond)
+
+> Hey, look, I'm the new Eastern Bureau at Bernalwood!
+
+[Bernalwood](https://bernalwood.com/2012/03/26/a-brief-history-of-peralta-avenues-discontinuity-problem/)
+
+[](http://bernalwood.files.wordpress.com/2012/03/brokenperalta.jpg)
+
+If you live on [Peralta Avenue in Bernal Heights](http://g.co/maps/sv9qz), you’re probably used to getting phone calls from lost delivery drivers. They’ve managed to find the 200 block, you’re in the 500 block; how many obstacles could there be between you?
+
+[](http://bernalwood.files.wordpress.com/2012/03/peraltaobstacles.jpg)
+
+Turns out, there are a lot. That staircase on the right _is_ the 400 block of Peralta. But how did Peralta “Avenue” end up in no fewer than eight non-contiguous segments? In theory, it was supposed to be a (mostly) continuous street:
+
+[](http://bernalwood.files.wordpress.com/2012/03/bernalplans1924.jpg)
+
+That’s a 1924 Rand McNally map, courtesy of [David Rumsey](http://www.davidrumsey.com/luna/servlet/s/fo1v4w). Peralta and Esmeralda are highlighted. These roads existed mostly on paper, as planned improvements. Note that “paper” Esmeralda runs right over the top of Bernal Hill: [Sutrito Tower](http://bernalwood.wordpress.com/2011/09/22/nomenclature-update-introducing-sutrito-tower/) would be at the intersection of Esmeralda and Shotwell. Fourteen years later, these roads remained wisely unbuilt:
+
+[](http://bernalwood.files.wordpress.com/2012/03/1938aerialbernalnortheast-1.jpg)
+
+Harrison Ryker’s aerial photos via [David Rumsey](http://www.davidrumsey.com/) and [Google Earth](http://google-latlong.blogspot.com/2012/03/exploring-1938-san-francisco-through.html)…
+
+[View original post](https://bernalwood.com/2012/03/26/a-brief-history-of-peralta-avenues-discontinuity-problem/) 104 more words
+
+Posted in [Uncategorized](https://jobius.wordpress.com/category/uncategorized/) |  [Leave a reply](https://jobius.wordpress.com/2012/03/26/274/#respond)
+
+# [San Francisco Stadium, in 1938 Google Earth](https://jobius.wordpress.com/2012/03/13/san-francisco-stadium-butchertown/)
+
+Posted on [March 13, 2012](https://jobius.wordpress.com/2012/03/13/san-francisco-stadium-butchertown/ "12:31 pm") by  [Jobius (Joe Thomas)](https://jobius.wordpress.com/author/jobius/ "View all posts by Jobius \(Joe Thomas\)")
+
+[1](https://jobius.wordpress.com/2012/03/13/san-francisco-stadium-butchertown/#comments)
+
+[](https://jobius.files.wordpress.com/2012/03/san-francisco-stadium-1938.jpg)
+
+Above: Jobius Technologies cutting-edge imagery combines [historical aerial photographic mapping](http://www.davidrumsey.com/luna/servlet/view/search?search=Search&q=5852.000&QuickSearchA=QuickSearchA&pgs=250&res=1&sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No), Google Earth [projections](http://google-latlong.blogspot.com/2012/03/exploring-1938-san-francisco-through.html), and [Bernalwood-brand-appropriate](http://bernalwood.wordpress.com/2012/03/12/mysterious-street-stencils-deviate-from-official-branding/) annotations. Future work is planned to incorporate [time-lapse video](https://jobius.wordpress.com/2012/03/08/moonrise-a-second-camera/) and reverse-engineered [La Lenguan animated GIF technology](http://burritojustice.com/2012/03/06/burrito-rail-gun/).
+
+The amazing Harrison Ryker aerial map photos of 1938 San Francisco are now, thanks to the [David Rumsey Map Collection](http://www.davidrumsey.com/), available as a layer in [Google Earth](http://google-latlong.blogspot.com/2012/03/exploring-1938-san-francisco-through.html)! When I first saw these aerial photos at Burrito Justice, I was curious about the stadium on the upper right of this Google Earth view -- a race track identified by [Burrito Justice ](http://burritojustice.com/2011/10/14/fly-with-me-over-san-francisco-in-1938/#comment-26822)as San Francisco Stadium. I would have been able to see it from my apartment building, but alas, it wasn't yet built when the track existed. Nevertheless, I decided to put [my model of it](http://sketchup.google.com/3dwarehouse/details?mid=492f3e38e64a20c8e126160c6afcf5bd&ct=mdsa) in the scene above, since nobody was using the land. (I'd build a model of the stadium, but I've only ever seen the one photo of it, Ryker's, looking straight down.)
+
+Eric Fischer [@enf ](http://twitter.com/#!/enf/status/126558408718565377)found some references to the old San Francisco Stadium in Google Books:
+
+### [Automotive industries: Volume 75, 1936 ](http://books.google.com/books?id=XI0qAAAAMAAJ&q=%22san+francisco+stadium%22&dq=%22san+francisco+stadium%22&hl=en&ei=lz6fToC0DbDKiQKz0b11&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDAQ6AEwAA)
+
+There are, of course, many well-organized midget racing speedways such as Madison Square Garden Bowl at New York, River View at Chicago, Walsh Stadium at St. Louis, _San Francisco Stadium_ at San Francisco, Municipal Stadium a…
+
+### ****[Fire engineering: Volume 90, 1937](http://books.google.com/books?id=bHwiAQAAMAAJ&q=%22san+francisco+stadium%22&dq=%22san+francisco+stadium%22&hl=en&ei=lz6fToC0DbDKiQKz0b11&sa=X&oi=book_result&ct=result&resnum=4&ved=0CD0Q6AEwAw)
+
+Fog Nozzle Tested Fognozl Applicators, one of the several types of fog nozzles marked by the Fog Nozzle Company, Los Angeles, Cal., were given a test in the _San Francisco Stadium_. A sedan was doused inside and out with fifteen gallons of gasoline and set afire. The fire was extinguished in eighteen seconds with the use of a 10-foot duraluminum Fognozl Applicator, with a 1-inch Type B head. But eighteen gallons of water were used. Smoldering upholstery in the car was extinguished with a 5-gallon back pump, equipped with a 2-foot applicator
+
+So that's exciting. But it doesn't seem that it lasted long. I found only one mention of it in a city directory, from 1936.
+
+By 1945, the land it stood on was part of a Marine Corps Supply Depot (see 1947 map on last page of [this report](http://corpsfuds.com/reports/INPR/J09CA1099inpr.pdf), PDF). Also from that report, tantalizing evidence of many more aerial photos of the area: "October 2, 1995, aerial photographs were reviewed for the years 1935,1938, 1948, 1955, 1961, 1966, 1968, 1969, 1972, 1975, 1981, 1991, and 1994." "Aerial photographs dated 1935 through 1994 (Pacific Aerial Surveys, Oakland, CA)." Pacific Aerial Surveys is now part of [HJW Geospatial](http://www.hjw.com/archives.html). They charge royalties for distributing their imagery, so I probably won't be able to post any here, but I'm going to try to get a look at them.
+
+Posted in [Uncategorized](https://jobius.wordpress.com/category/uncategorized/) |  [**1** Reply](https://jobius.wordpress.com/2012/03/13/san-francisco-stadium-butchertown/#comments)
+
+# [Moonrise: A Second Camera](https://jobius.wordpress.com/2012/03/08/moonrise-a-second-camera/)
+
+Posted on [March 8, 2012](https://jobius.wordpress.com/2012/03/08/moonrise-a-second-camera/ "3:09 am") by  [Jobius (Joe Thomas)](https://jobius.wordpress.com/author/jobius/ "View all posts by Jobius \(Joe Thomas\)")
+
+[4](https://jobius.wordpress.com/2012/03/08/moonrise-a-second-camera/#comments)
+
+The moon was full last night, and I lucked out on weather -- as [expected](https://jobius.wordpress.com/2012/02/09/ho-hum-another-moonrise/). It's been a weird winter.
+
+[](https://jobius.files.wordpress.com/2012/03/twin-cams.jpg)
+
+I added a second camera last night: my old iPhone 3GS, far left, propped up in the box that the Photojojo telephoto lens and tripod came in. It was listing to the left, but I propped it up with the little dinosaur toy Photojojo puts in all their shipments. (And I forgot to take a closeup of it. The shot above was taken with an iPad, an unweildy camera.)
+
+I uploaded the raw videos, both [wide-angle](http://youtu.be/Xl89zM4GqVY) and [telephoto](http://youtu.be/FQlP_H0IT4s) to YouTube. But here's how they look edited together, using iMovie on the new-ish Mac:
+
+Posted in [Uncategorized](https://jobius.wordpress.com/category/uncategorized/) |  [**4** Replies](https://jobius.wordpress.com/2012/03/08/moonrise-a-second-camera/#comments)
+
+# [Bernal Trails Overlay for Google Earth](https://jobius.wordpress.com/2012/02/27/bernal-trails-overlay-for-google-earth/)
+
+Posted on [February 27, 2012](https://jobius.wordpress.com/2012/02/27/bernal-trails-overlay-for-google-earth/ "10:09 pm") by  [Jobius (Joe Thomas)](https://jobius.wordpress.com/author/jobius/ "View all posts by Jobius \(Joe Thomas\)")
+
+[8](https://jobius.wordpress.com/2012/02/27/bernal-trails-overlay-for-google-earth/#comments)
+
+San Francisco Rec & Parks has posted notes from the [last community meeting](https://bernalwood.wordpress.com/2012/02/22/bernal-hill-trail-restoration-design-meeting-tonight/) about [trail restoration on Bernal Hill](http://sfrecpark.org/Bernal-Heights-Trails-Project.aspx). Of particular interest is the [presentation](http://sfrecpark.org/documents/BernalHeightsPresentationMeeting2.pdf) with a map (on page 41) of their "Concept Plan" for the trails. Several neighbors at the meeting remarked that it was difficult to visualize the lines on the map as actual trails, and one neighbor suggested that the proposed changes be marked in chalk on the hill so that folks could see them in context before the next (and last scheduled) community meeting on April 4.
+
+I'd like to see and walk those chalked-in trails, myself. Until that happens, though, I thought I'd try to drape the flat trail maps onto [Google Earth's terrain model](http://jobius.com/bernaltrails.kml). (KML file, requires Google Earth.)
+
+[](https://jobius.files.wordpress.com/2012/02/ge-existing-trails.jpg)
+
+Above is Rec & Parks' map of the existing trail network.
+
+[](https://jobius.files.wordpress.com/2012/02/ge-concept-trails.jpg)
+
+And this is the concept plan they brought to last week's meeting. Google Earth's terrain elevation model isn't perfect, but I think it's useful enough here, especially if you already know the contours of the hill, and are just trying to visualize the proposed changes in context.
+
+Update: A few more pictures, from a different angle… This was probably the most controversial thing at the meeting. First, the northwest side of the hill, existing trails:
+
+[](https://jobius.files.wordpress.com/2012/02/bernal-nw-existing.jpg)
+
+And the Concept Plan:
+
+[](https://jobius.files.wordpress.com/2012/02/bernal-nw-proposed.jpg)
+
+The lowest "trail" shown here is actually the paved (but closed) road -- the west side of the Bernal Heights Boulevard loop. In Google Earth, the slope above the road doesn't look too steep, but in reality it's more like this (Rec & Parks photo):
+
+[](https://jobius.files.wordpress.com/2012/02/bernal-washed-out-trail.jpg)
+
+The trail along the edge may be precarious, but it's quite popular. It runs all along the north side of the hill, with gorgeous views of the city skyline. But in the Concept Plan map, the lower trails are abandoned:
+
+[](https://jobius.files.wordpress.com/2012/02/bernal-n-proposed.jpg)The text that goes with the oval drawn around these north slope trails reads:
+
+  * Reroute and repair trails for safety and improved access
+  * Install post and rail fencing at base of slope
+  * Erosion control
+
+
+
+The post and rail fencing is intended to keep people and dogs from clambering up the steep, erosive slope.
+
+None of this is set in stone. The Rec & Parks folks took down a [lot of suggestions](http://sfrecpark.org/documents/BernalHeightsTrailMeeting2Notes.pdf) at last week's meeting, and I believe they said they'd try to post an updated plan before the next meeting, April 4.
+
+Posted in [Uncategorized](https://jobius.wordpress.com/category/uncategorized/) |  [**8** Replies](https://jobius.wordpress.com/2012/02/27/bernal-trails-overlay-for-google-earth/#comments)
+
+# [Surveillance](https://jobius.wordpress.com/2012/02/18/surveillance/)
+
+Posted on [February 18, 2012](https://jobius.wordpress.com/2012/02/18/surveillance/ "8:12 pm") by  [Jobius (Joe Thomas)](https://jobius.wordpress.com/author/jobius/ "View all posts by Jobius \(Joe Thomas\)")
+
+[3](https://jobius.wordpress.com/2012/02/18/surveillance/#comments)
+
+It's [happened again](https://bernalwood.wordpress.com/2012/02/13/another-dumping-incident-on-bernal-hill/). Someone dumped another load of trash at the entrance to Bernal Heights Park. Last time that happened, I was about thisclose to buying [one of these](http://www.signstoyou.com/custom-signs/parking-signs/no-dumping/s-4336/high-no-dumping-security-notice-4336.png) and posting it myself in the parking area:
+
+[](https://jobius.files.wordpress.com/2012/01/high-no-dumping-security-notice-4336.png)
+
+Video surveillance.
+
+I've actually already got the camera that matches the sign. But more on that later. In the comments at Bernalwood, r2 from Ingleside [writes](https://bernalwood.wordpress.com/2012/02/13/another-dumping-incident-on-bernal-hill/#comment-7002):
+
+We did put up a “no dumping sign,” and it has helped to a point. You can actually call 311.org and they will send you the standard SF department of public works “no dumping” sign. However, it’s on you to install it. I would suggest a t-post with a t-post driver. Lowes sells flat pieces of sheet metal that you can stick the sign to. It’s probably about 15 minutes of actual work to put together.
+
+Sure enough, I called 311 at 1:37 on a Friday afternoon, and DPW dropped them off on Saturday at 1:32 pm. So that's pretty good service. The signs are printed on adhesive-backed plastic, about as thick and stiff as poster board.
+
+[](https://jobius.files.wordpress.com/2012/02/dpw-do-not-dump.jpg)
+
+11" x 14" signs drom DPW. Call 311 to get one. DPW will drop them off, but you've got to mount and post them.
+
+"Violators subject to arrest and fines up to $1,000." Yeah, but the dumpers already know that dumping is illegal. The other sign suggests a method by which they might get caught. The dilemma is that many people (myself included) are reluctant to cede any more public space to the ubiquitous CCTV cameras. And, as [DPW writes (page 10):](http://www.sfdpw.org/Modules/ShowDocument.aspx?documentid=1043)
+
+Past pilot studies of utilizing cameras in hotspots proved cost prohibitive with minimal results.
+
+Cost prohibitive? Not [my camera](http://www.amazon.com/OUTDOOR-SECURITY-CAMERA-Blinking-Silver/dp/B004D8NZ52/ref=pd_cp_p_0)! It runs for three months on two AA batteries, could be installed in minutes on the notice board at the park entrance, and only cost $11. The only bad news is it's fake.
+
+So my proposal won't actually catch any dumpers. It might deter some, though. And it's compatible with a real surveillance system. Think of the $11 notice board camera as a sacrificial decoy. A camouflaged game camera could snap a picture of anyone who tries to disable it, for example. Or an infrared camera higher up the hill could watch over both the notice board and parking area. Is that too Big Brother-ish? Or what's that other literary reference about the all-seeing eye?
+
+[](https://jobius.files.wordpress.com/2012/02/sautrito.jpg)
+
+The Eye of Sautrito Sees All
+
+(Bottom photo-illustration borrows from [Craig Sakowitz](http://www.flickr.com/photos/craigsakowitz/6866428787/)'s photo at the Bernalwood Flickr group.)
+
+Posted in [Uncategorized](https://jobius.wordpress.com/category/uncategorized/) |  [**3** Replies](https://jobius.wordpress.com/2012/02/18/surveillance/#comments)
+
+### Post navigation
+
+[<- Older posts](https://jobius.wordpress.com/author/jobius/page/2/)
+
+Search
+
+### Recent Posts
+
+  * [In New "Murder in the First" TV Show, Hollywood Cops Live in Real Bernal Heights](https://jobius.wordpress.com/2014/06/11/in-new-murder-in-the-first-tv-show-hollywood-cops-live-in-real-bernal-heights/)
+  * [Sutrito Spin](https://jobius.wordpress.com/2012/07/15/sutrito-spin/)
+  * [How Tall is Bernal Hill? Scatter Plot References](https://jobius.wordpress.com/2012/05/14/how-tall-is-bernal-hill-scatter-plot-references/)
+  * [Eclipse rehearsal](https://jobius.wordpress.com/2012/04/07/eclipse-rehearsal/)
+  * [Moonrise, April 5, 2012](https://jobius.wordpress.com/2012/04/05/moonrise-april-5-2012/)
+
+
+
+### Archives
+
+  * [June 2014](https://jobius.wordpress.com/2014/06/)
+  * [July 2012](https://jobius.wordpress.com/2012/07/)
+  * [May 2012](https://jobius.wordpress.com/2012/05/)
+  * [April 2012](https://jobius.wordpress.com/2012/04/)
+  * [March 2012](https://jobius.wordpress.com/2012/03/)
+  * [February 2012](https://jobius.wordpress.com/2012/02/)
+  * [January 2012](https://jobius.wordpress.com/2012/01/)
+  * [November 2011](https://jobius.wordpress.com/2011/11/)
+  * [October 2011](https://jobius.wordpress.com/2011/10/)
+
+
+
+### Categories
+
+  * [Uncategorized](https://jobius.wordpress.com/category/uncategorized/)
+
+
+
+### Meta
+
+  * [Register](https://wordpress.com/start?ref=wplogin)
+  * [Log in](https://jobius.wordpress.com/wp-login.php)
+  * [Entries feed](https://jobius.wordpress.com/feed/)
+  * [Comments feed](https://jobius.wordpress.com/comments/feed/)
+  * [WordPress.com](https://wordpress.com/ "Powered by WordPress, state-of-the-art semantic personal publishing platform.")
+
+
+
+### [Twitter](http://twitter.com/Jobius)
+
+  * Heard what I hoped were fireworks a few minutes ago, but now police and ambulance rolling in to east Bernal Heights... [5 days ago](http://twitter.com/Jobius/statuses/1351384131611947010)
+  * RT @[Popehat](http://twitter.com/Popehat): [At a naturalization hearing] Immigration Judge [going through checklist]: Mr. Giuliani, does your client advocate the overt… [1 week ago](http://twitter.com/Jobius/statuses/1350669385539547136)
+  * How much damage could a malignant narcissist lame duck president do in 320 hours? Jesus, what if he had any organiz… [ twitter.com/i/web/status/1…](https://twitter.com/i/web/status/1347089700524236802) [2 weeks ago](http://twitter.com/Jobius/statuses/1347089700524236802)
+  * RT @[tedlieu](http://twitter.com/tedlieu): Let me be very clear: if all we do is accept the certified Electoral College results and go home, we would have failed our cou… [2 weeks ago](http://twitter.com/Jobius/statuses/1347063506189885441)
+  * RT @[chris_labarthe](http://twitter.com/chris_labarthe): MAGA the last 2 weeks: HEY GANG LETS CARPOOL TO BERLIN TO BURN DOWN THE REICHSTAG MAGA this morning: CHECK OUT MY SELF… [2 weeks ago](http://twitter.com/Jobius/statuses/1347045645903822849)
+
+[Follow @Jobius](http://twitter.com/Jobius)
+
+[Create a free website or blog at WordPress.com.](https://wordpress.com/?ref=footer_website)
+
+[ Jobius ](https://jobius.wordpress.com/)
+
+[Create a free website or blog at WordPress.com.](https://wordpress.com/?ref=footer_website)
+
+Add your thoughts here... (optional) Post to
+
+Cancel
+
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.   
+To find out more, including how to control cookies, see here: [ Cookie Policy ](https://automattic.com/cookies)
+ 

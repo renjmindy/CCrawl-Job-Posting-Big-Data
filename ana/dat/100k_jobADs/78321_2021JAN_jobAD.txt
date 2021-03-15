@@ -1,0 +1,241 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Entry-Level Engineering Programme 
+ at Tessian 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤40000 - ₤45000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤40000 - ₤45000 per year 
+ 
+ 
+ apply now 
+ 
+ Tessian 
+ Tessian protects every business's mission by securing the human layer. 
+ We're building intelligent security that works for human beings _  as they are_, not how security policies would like them to be. Using machine learning technology, Tessian automatically predicts and eliminates advanced threats on email caused by human error - like data exfiltration, accidental data loss, business email compromise and phishing attacks - with minimal disruption to employees' workflow. As a result, employees are empowered to do their best work, without security getting in their way. 
+ Founded in 2013, Tessian is backed by renowned investors like Sequoia, Accel and Balderton and has hubs in San Francisco, Boston, and London. 
+ ystems power the whole company and our teams have touch points with all of our engineering teams. From deploying data science models in production, to integrating with our front-end, you'll be involved in projects that span all aspects of the business. 
+ Our teams are made up of people from diverse backgrounds; some have been building Python systems for years and some have learnt the ins and outs of Python on the job. 
+ Please note, this role will require being able to come into to our London office (Liverpool Street) once restrictions lift; you'll get plenty of work from home, however you'll want to be within commuting distance to come in for training & regular team meetings. 
+ Read/view more about Engineering at Tessian: 
+ 
+ 
+ https://cdn2.hubspot.net/hubfs/1670277/Life%20as%20a%20Tessianeer.pdf 
+ 
+ 
+ https://stackoverflow.com/jobs/companies/tessian 
+ 
+ 
+ https://www.tessian.com/blog/safely-migrating-millions-of-api-requests/ 
+ 
+ 
+ https://www.youtube.com/watch?v=IcixzYnfBZY 
+ 
+ 
+ Please note: 
+ 
+ 
+ This programme is only suitable for those with less than one year of engineering work experience. 
+ 
+ 
+ Those hired will have the title  Engineer I  at Tessian. 
+ 
+ 
+ You'll get to: 
+ 
+ 
+ Join an ambitious team with direct impact solving hard problems for our customers 
+ 
+ 
+ Get your code in to production ASAP - with coaching from a great Tessian mentor 
+ 
+ 
+ Design reliable distributed systems that handle high volumes of data with low latency 
+ 
+ 
+ Have brilliant growth opportunities in line with our  Engineering Development Framework 
+ 
+ 
+ Maintain and support business-critical systems 
+ 
+ 
+ Ship code to production **  every day** using CI/CD techniques 
+ 
+ 
+ Tackle the challenges that come with processing highly sensitive data 
+ 
+ 
+ The process will look like this: 
+ 
+ 
+ Stage 1  : an initial   Python   coding test (we'll share tips ( 1 , 2 ) and some  practice tests  in case python isn't your main language) - by 15 January 2021 
+ 
+ 
+ Stage 2  : a remote video call with a member of our Talent team (non-technical) - by 31 January 2021 
+ 
+ 
+ Stage 3  : Remote code pair - a code pair with one of our Engineers, where you find out more about our Tech - by 28 Feb 2021 
+ 
+ 
+ Stage 4  : Final interviews; this may be assessment centre-style, depending on the travel & safety situation. We expect this stage to be late March / Early April 
+ 
+ 
+ Stage 5  : Offers! (by mid-April) 
+ 
+ 
+ We'd love to meet entry level folks who: 
+ 
+ 
+ Have either recently graduated with Computer Science or Software Engineering degrees and/  or   can evidence Software Development Experience through personal projects etc 
+ 
+ 
+ Are passionate about software development and wants to grow their skills with an amazing team 
+ 
+ 
+ Are great problem solvers who take pride in their work 
+ 
+ 
+ Value getting things done over getting things perfect 
+ 
+ 
+ Are comfortable with the unknown and loves to experiment 
+ 
+ 
+ Can construct good arguments for their practices 
+ 
+ 
+ Resonate with our  values 
+ 
+ 
+ Why we think you'll love it here.... 
+ It's important to us that all Tessians are part of the journey we're on, so we offer   equity options with every role   and benchmark to provide   above market rate salaries   - there's plenty more too…. 
+ Be at your best, both inside and outside of work 
+ - 25 days of paid holiday (plus 8 bank holidays, ** _  and_** an additional day for every year you've worked at Tessian!) 
+ - Private health insurance provided through Vitality Health and mental health support through our Employee Assistance Program 
+ - Classpass - subsided access to gym time and classes all across London 
+ - Flexible working hours and working from home (if you're not already remote!) 
+ - Enhanced pension contributions, matched up to 5% 
+ - We're family friendly, with policies built to support you in all stages of life 
+ - Work-from-home subsidy upon joining, so you can kit out your home office 
+ - High-quality tech kit provided for you to work on including MacOS kit & Tessian ANC headphones 
+ - If you're relocating to join the team, we'll provide a contribution to help with your costs 
+ Beyond work 
+ - Elite membership of the Tessian House System... 
+ - Every other Wednesday we stop at 5 and share team updates and drinks 
+ 
+ Monthly team socials & a big, whole company extravaganza every quarter 
+ 
+ - Never-ending ping-pong tournaments 
+ Equality & diversity 
+ #humanfirst 
+ Tessian is an equal opportunity employer, committed to equality and diversity amongst both our employees and prospective applicants. The Human Layer we're securing is diverse, and we know we need to be diverse and inclusive to successfully create HLS that reflects this. You can read our equality and diversity statement  here . 
+ As part of our commitment to equality and diversity, we're also a corporate member of  the WISE Campaign  for gender equality in STEM & we're a founding member of the  WEDS network  driving diversity & inclusion in startups. 
+ Important notices 
+ Please note that we do not accept applications or resumes from recruiters. Any unsolicited CVs, profiles, or names, submitted in any format, by any channel, to any of our team, will be deemed to fall outside any terms and/or conditions with either the person submitting the information or their company of employment/representation. 
+ By submitting your application to Tessian, you consent to Tessian retaining your information and contacting you about future job opportunities, that may be of interest, for up to 2 years in accordance with our  Privacy Policy 
+ Please note, that any job offers will be subject to the candidate passing background screening checks. 
+ Published at 5 Jan 2021 - Expires on 4 Feb 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Tessian 
+ fulltime  Designer  at Tessian in London 
+ __12-01-2021 
+ fulltime  Financial Controller  at Tessian in London 
+ __21-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

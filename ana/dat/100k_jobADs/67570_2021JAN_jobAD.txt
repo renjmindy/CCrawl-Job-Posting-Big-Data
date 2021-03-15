@@ -1,0 +1,83 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ EDI Analyst - CFF 
+ Fastfrate 
+ __Woodbridge, ON 
+ Apply Now 
+ The electronic data interchange (EDI) Analyst’s responsibility is to develop, coordinate, implement, and manage all EDI-related developments for the Fastfrate group of companies. Working on the EDI/Development team, this position is responsible for onboarding new customers and suppliers to our EDI system using CLEO and Truckmate/TMW Suite. They coordinate all EDI testing, implementations, and upgrades. Additionally, the EDI Analyst serves as the primary link between the business and any data-trading partners (both suppliers and customers). 
+ Duties: 
+ 
+ Working with Sales and the Systems team, onboards EDI Customers and Suppliers. 
+ Acts as point of contact between development staff and internal and external users. 
+ Provides manager with daily updates on health and status of current production issues. 
+ Communicates production issues to alert the business of impact. 
+ Leads, coordinates, and administers key process improvements to Truckmate/CLEO implementations. 
+ Coordinates with our software suppliers at TMW and CLEO to ensure timely setup or resolution of open EDI issues 
+ Recommends and executes modifications to EDI to improve efficiency, reliability, and performance. 
+ Establishes and implements policies, procedures, and technologies to ensure EDI and Truckmate/CLEO system integrity. 
+ Develops and maintains EDI and Truckmate process documentation, EDI and Truckmate training materials and systems documentation. 
+ Provides orientation and training to end-users for modified and new systems 
+ Performs other job duties as required. 
+ 
+ Experience: 
+ 
+ Bachelor’s degree in Computer Science or Information Systems preferred. 
+ 2 Years of EDI experience, preferably in the transportation industry 
+ Experience with TMW Truckmate preferred 
+ Experience with CLEO preferred 
+ Experience in documenting and maintaining configuration and process information. 
+ Installing, configuring, and maintaining EDI systems in Truckmate/TMW Suite/CLEO. 
+ Experience dealing with internal and external EDI customers 
+ Working in a team oriented, collaborative, fast-paced high demand environment. 
+ 
+ Skills/Abilities: 
+ 
+ EDI standard formats for transportation including 204, 214, 210, 990, 997 
+ Knowledge of Rail or Retail EDI would be a bonus 
+ Working Knowledge of TMW Truckmate and CLEO EDI preferred 
+ T-SQL knowledge would be a benefit 
+ Self-Starter who can work on their own and as part of a team 
+ Good written language skills in English for process documentation 
+ Strong analytical and problem-solving abilities. 
+ Able to prioritize and execute tasks in a high-pressure environment. 
+ Knowledge of Crystal Reports design and execution would be a benefit 
+ 
+ Job Type: Full-time 
+ Experience: 
+ 
+ EDI, preferably in transportation industry: 2 years (Preferred) 
+ 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

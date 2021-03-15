@@ -1,0 +1,64 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Front-End UI/UX Developer REMOTECONTRACT 
+ Job Description 
+ Flipbox is a small, experienced back-end development shop specializing in large integration projects, plugin development and infrastructure architecture. To date, we’ve worked closely with ad and branding agencies who were responsible for UI/UX and front-end development. Currently, we’re looking for an experienced individual to fill this void. 
+ Expectations 
+This is a remote contract position; starting at an estimated 20hr per week (with a monthly commitment). Depending on fit and experience, this could become a full-time position (where you would run all creative at Flipbox). Compensation is based on experience. 
+ Skills/Technologies 
+We’re building new processes around Vue.js and Tailwind CSS frameworks and pre-processors such as Laravel Mix and Webpack. These will become the pillars for new projects and experience with these is beneficial. Existing projects also use AngularJS, jQuery, Sass, Bourbon/Neat, and Gulp and we'll be working to migrate away from these over time. 
+ Responsibilities/Projects 
+Much of our work involves services clients (retainer work). You will be expected to work directly with client’s; recommending and executing UI/UX changes. Also, we have a variety of internal projects which include; site/microsite/landing page creation, Craft CMS plugin admin UI/UX, and email campaigns. 
+ How to Apply 
+ Email work examples and references to:  [email protected] 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Flipbox Digital 
+ 
+ __ 
+ 
+ Location:  Anytown, USA 
+ 
+ __ 
+ 
+ Phone Number:  [970-439-2621 x700](970-439-2621 x700) 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://www.flipboxdigital.com 
+ __  Posted May 15, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

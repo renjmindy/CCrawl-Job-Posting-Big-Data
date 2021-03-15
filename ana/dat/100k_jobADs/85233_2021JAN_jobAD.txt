@@ -1,0 +1,99 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ DeansList (IK12) 
+ Enterprise SaaS software helping schools manage administrative and non-academic data, and improve parent engagement. 
+ Director of School Success 
+ 
+ Location 
+ New York / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About DeansList 
+ DeansList is the daily driver app that runs great K12 schools all over the U.S. We make it easy for schools to keep track of the data that matters,, distribute it across the school to all stakeholders, and communicate more frequently and more effectively with families. 
+ We focus specifically on the needs of students and families in underserved communities. Our feature set is designed to improve opportunities for students most affected by the achievement gap, areas like chronic absenteeism, family engagement, and social emotional skills. 
+ Our clients are innovative schools, mission-driven to closing the Achievement Gap, and DeansList is a key tool enabling them help students succeed. 
+ About the role 
+ DeansList is a software company dedicated to providing educators with the tools they need to help students succeed. Pivotal to our success as an organization is the passion that our School Success team has for understanding the problems facing schools and helping them solve them, whether by pointing them to known best practices, getting creative with existing tools, or advocating for new features that they know will make a real difference. 
+ Our schools are vocal that the support they receive is a huge reason why they re-sign their contracts each year. We’re looking for someone with experience providing excellent customer service who will enable us to provide that level of support at scale, so we can bring on more schools without sacrificing what sets us apart. 
+ Responsibilities: 
+ 
+ Build a team of dedicated School Success Associates and Managers who will deliver excellent support to our schools. DeansList is growing, and we need a School Success team staffed with empathetic team members passionate about helping schools. 
+ Create frameworks and resources to ensure that every member of the School Success team is able to execute on our shared understanding of what client success looks like. As our team grows, you’ll need to communicate a consistent vision for how to provide excellent support to all of our schools. 
+ Own the success of our schools, including onboarding, product adoption, engagement, and retention. Create metrics to monitor engagement and retention. 
+ Assess current practices and develop and execute new systems for onboarding schools excited to hit the ground running. DeansList is a highly customizable tool with a broad feature set. Our School Success team works each summer to ensure that every school understands DeansList’s capabilities and is able to effectively leverage the features they need. 
+ Engage our educator community with newsletters, webinars and events that give schools an opportunity to share best practices. The school leaders we work with have valuable information to share, and we want to make sure our schools can learn from one another. 
+ Serve as a school advocate as we set engineering priorities for the development of new features. 
+ Provide direct support for enterprise clients. Multi-school districts meet with members of the School Success team regularly to streamline support. 
+ Expand and improve our library of resources and offerings of best practices- specifically anti-bias/racism in schools and DEI. 
+ 
+ Requirements: 
+ 
+ Most important: have an interest in improving education, empathy for teachers, and a desire to create great tools that will help schools. 
+ Minimum of 5+ years of customer success or account management experience (experience supporting a SaaS product preferred) 
+ Minimum of 2+ years managing customer success or account management teams 
+ Experience driving growth and retention. 
+ Detail-oriented with the ability to set priorities and be flexible in a changing environment. 
+ Excellent written, communication and presentation skills. 
+ Ability to motivate employees, drive innovation and lead change initiatives while maintaining employee engagement. 
+ Demonstrated excellence in analytical thinking, emotional intelligence, and problem-solving 
+ Experience working in K-12 schools a plus 
+ We value diversity of all kinds, and are committed to building a diverse and inclusive workplace where we learn from each other. We are an equal opportunity employer and welcome people of all backgrounds, experiences, abilities, and perspectives. 
+ 
+ Benefits: 
+ 
+ Health (fully covered), dental and vision insurance 
+ Flexible vacation policy 
+ 401k w/ matching contributions 
+ Paid family leave 
+ Short/long-term disability coverage 
+ Ongoing training and development 
+ 
+ Technology 
+ Architecture 
+ Our architecture is a mix of tried/tested technologies like PHP and more modern tools like GraphQL and React. Our core platform is a monolith that we're gradually breaking out into individual services. Some of our newer services run on Laravel/Lumen. We have REST and GraphQL APIs for both internal and client-facing use. 
+ Challenges We're Solving 
+ 
+ Our Analysis Tools suite is a world class business intelligence tool tuned specifically for education 
+ Our Messaging Center enables schools to communicate with families across voice, SMS and email - meeting parents at the medium that works for them 
+ Our integration layer makes it easy for us to connect to any third-party data provider via API or flat file 
+ Our internal report IDE lets schools build rich data-filled reports from scratch leveraging GraphQL, HTML and JavaScript 
+ 
+ Additional Technologies 
+ Ansible, ECS, Handlebars, Laravel/Lumen, GraphQL, MySQL, Node.JS, Puppeteer, React, React Native, Redis 
+ Other jobs at DeansList 
+ Senior Full Stack Engineer - Client Facing 
+ fulltime 
+ New York/Remote / Remote 
+ Full Stack 
+ $115k - $140k 
+ 0.10% - 0.30% 
+ 3+ years 
+ Director of School Success 
+ fulltime 
+ New York / Remote 
+ 3+ years 
+ Senior Mobile Developer (React Native) 
+ fulltime 
+ New York / Remote 
+ Frontend 
+ 3+ years 
+ Reporting and Data Associate 
+ fulltime 
+ New York / Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,152 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Engineer - Fixed Income & Foreign Exchange Execution Management Systems 
+ Bloomberg 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Engineer - Fixed Income & Foreign Exchange Execution Management Systems 
+ Bloomberg 
+ [](mailto:?subject=Senior%20Software%20Engineer%20%2D%20Fixed%20Income%20%26%20Foreign%20Exchange%20Execution%20Management%20Systems&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14290968/senior-software-engineer-fixed-income-foreign-exchange-execution-management-systems/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 9, 2021 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Our Team 
+Bloomberg's Fixed Income & Foreign Exchange EMS team connects traders to the markets and gives them powerful tools to streamline their workflow and enhance their performance. We provide a multi-asset trading platform to manage order lifecycle, monitor real-time analytics, and connect with dealers and trading venues globally. 
+ Our products cover trading functionality across a wide range of asset classes, including sovereign and corporate bonds, FX, munis, mortgages, derivatives, repos, commodities and more. These are some of the most complex and opaque parts of the financial market. This trading activity impacts many, including anyone who has a retirement account/plan. The mission of our team is to bring electronic trading to these markets making it safer, accessible and more transparent. 
+ With trillions of dollars traded on our systems daily, our business continues to evolve towards trends such as trade automation, predictive analytics and higher order volumes putting a high emphasis on reliability and capacity. 
+ What 's in it for you: 
+ 
+ Become a full-stack guru as you build mission critical trading applications and come up with creative solutions to tough engineering problems. 
+ You'll get to learn and have a chance to work with multiple industry-leading technologies, including, but not limited to, messaging systems distributed caching and synchronization technologies with a goal of being able to process millions of transactions, daily. 
+ You will contribute to and eventually drive our market transparency mission forward. 
+ While engaged in this important mission, we also like to give back to our community and have fun as well. Bloomberg has a significant philanthropic presence, and we regularly represent our organization at multiple local causes. 
+ 
+ You 'll need to have: 
+ 
+ An education in Computer Science, Engineering, or related field with 2+ years of professional experience. 
+ A robust knowledge of data structures and algorithms along with experience in one or more general purpose programming languages. 
+ A strong sense of ownership and the ability to collaborate with multiple teams and stakeholders to drive projects and initiatives. 
+ 
+ We 'd love to see: 
+ 
+ BA/BS and 5+ years of CS/Engineering experience or MS/PhD and 2+ years experience. 
+ Experience with scalable and high availability distributed systems. 
+ Experience developing workflow driven applications. 
+ Experience with concurrent programming. 
+ Recent experience with one or more programming languages including but not limited to: C++, Python, JavaScript, TypeScript. 
+ Prior experience working in financial markets. 
+ Familiarity with a scripting language such as bash, and developer tools such as Git, Googletest, Jenkins, and Splunk. 
+ 
+ If you're excited by these challenges, have a passion for technology and a flexible, "outside the box" approach to problem solving, we want to talk to you! Submit an application. 
+ Bloomberg is an equal opportunities employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+ 
+ Internal Number: 7845517 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Bloomberg 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

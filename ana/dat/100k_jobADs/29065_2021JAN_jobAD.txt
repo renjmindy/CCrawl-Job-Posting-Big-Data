@@ -1,0 +1,135 @@
+WORK WITH INDIES beta 
+ Newsletter 
+ Browse Jobs 
+ Art & Animation 
+ Audio 
+ Business & Operations 
+ Design 
+ Marketing & Community 
+ Production 
+ Programming 
+ QA & CS 
+ Writing 
+ Post a Job 
+ Back to all jobs See allProgrammingjobs 
+ General/Porting Progammer 
+ Plastic Fern Apply for this Job 
+ Posted 
+ December 2, 2020 
+ Full Time 
+ Anywhere 
+ Remote 
+ $55k+ USD 
+ ** This position has been closed. 
+** 
+Porting games includes a lot of general work that needs to be done, but also sometimes requires very specific knowledge of certain systems, engines, and more. We are not looking for someone who “checks all of these boxes” so even If you only know some of these things, but not all, please still apply! We firmly believe in learning on the job anyways.  ‍ 
+ ‍ 
+ Some basic skills we’d like: 
+ 
+ Knowledge of important data structures like arrays, stacks, and queues 
+ Performance aware approaches and knowing when something might not be performant enough, or being able to pick out systems that could potentially perform poorly 
+ Languages: C# or C++ (Unreal Blueprints is a plus) 
+ Engines: Unreal or Unity 
+ Basic familiarity of either/any: Nintendo Switch, Microsoft Xbox Family, or Sony PlayStation family 
+ Memory, loading/unloading, and garbage collection basics in either engine 
+ Ability to learn new platforms and tools  ‍ 
+ 
+ ‍ 
+ Some advanced skills we think would be nice to have, but are not required: 
+ 
+ The ability to identify a problem we are solving for and only solve that problem without adding additional complexity 
+ Knowing when to solve a problem by writing code and when not to (not every problem requires it). Has developed for any of these platforms (multiple platforms is a bonus!): Nintendo Switch, Microsoft Xbox Family, Sony PlayStation Family, Apple 
+ Understand platform limits (memory, cpu, gpu) and know what targets we should aim for and how those translate from in-game to hardware 
+ Art pipeline knowledge and optimizations. This could include: 
+ Art asset pipeline knowledge 
+ Fixing shader programs, knowing when to use a shader and when it's a better solution not to. 
+ Post processing, Materials/textures, Performance profiling, compression 
+ Being able to identify graphics/art issues and solutions  ‍ 
+ 
+ ‍ 
+ Responsibilities: 
+ 
+ Documenting processes and other important information for future reference and to develop better workflows for future projects 
+ Helping to port video game software to other platforms through the use of coding and working with engine/3rd party software 
+ Creating and maintaining a workflow for our studio in regards to code repos and version control 
+ Helping to create internal games through coding/programming to eventually be sold to the public 
+ Working with external and internal teams to make sure that project goals are met accordingly and to our standard of quality 
+ Depending on your skill and experience, you may also assist with internal projects like tool creation, general gameplay programming, or other tasks 
+ Willingness to research and learn new things in order to do tasks/solve problems  ‍ 
+ 
+ ‍ 
+ Values and communication skills: 
+ 
+ Values working with diverse teams on unique games and trying to bring new and interesting/artistic work to market. 
+ Drive to view games holistically and bring the vision of the developer’s work to life. 
+ Self-motivated, for both learning and for working on solutions for your projects. 
+ The ability to communicate effectively and collaborate with team members and other studios 
+ The ability to multitask, or work on multiple projects simultaneously 
+ 
+ Benefits: 
+ 
+ Health, dental, and vision insurance to all employees 
+ Flexible schedules 
+ Healthy work/life balance free from "crunch" 
+ Regular time off throughout the year 
+ Remote studio with no "home office" (International candidates feel free to apply!) 
+ Fair compensation and bonuses (+ rev share potential) 
+ 
+ Compensation: 
+ 
+ Based on experience and ability but junior programmers could expect to make a minimum of $55k USD (plus benefits/bonuses above). Mid-level to Senior programmers would be higher and based on their experience and skillset.  ‍ 
+ 
+ ‍ 
+ Why work with us? 
+ Here's a few reasons: We value the health and happiness of our team, we value long-term job stability and growth, we get to work on interesting new games and platforms, we value learning and giving space for growth, we're a small collaborative team, we approach games holistically, and believe in fostering transparent and honest communication.  ‍ 
+ ‍ 
+ ‍  Next Steps: 
+ Email **** jobs@plasticfernstudios.com  and send us any code examples, past projects, or interesting things related to the position you think we should see so we can set up an interview. We won’t ask you to do a code test, but will ask you some questions to determine your skill level in various subjects related to the needs above. If we think you might be a good if, we’ll ask you to work alongside our team for a small project to determine how well you can work within our studio and with us specifically! 
+ ‍ 
+ Who We Are: 
+ Plastic Fern  is a multi-faceted studio that provides tools, insights, and deliverables to help you ship your game. From porting to release management, audio and QA, our veteran team has vast experience across nearly all platforms, and understands the intricacies involved with launch. We believe in building relationships collaborative with our clients, fostering clear and honest communication while saving you time, money, mistakes, and hassle. 
+ ‍ 
+ Our clients 
+ ‍ 
+ Apply for this Job 
+ related jobs 
+ Kool2Play is hiring a Game Programmerto join their team into work fromAnywhereGame ProgrammerKool2Play | AnywhereLearn More 
+ AlBoom Studios is hiring a Game Developerto join their team into work fromAnywhereGame DeveloperAlBoom Studios | AnywhereLearn More 
+ Serenity Forge is hiring a Front End Web Developerto join their team into work fromBoulder, COFront End Web DeveloperSerenity Forge | Boulder, COLearn More 
+ Isto Inc. is hiring a Gameplay Programmerto join their team into work fromAnywhereGameplay ProgrammerIsto Inc. | AnywhereLearn More 
+ Innersloth is hiring a Front End Programmerto join their team into work fromAnywhereFront End ProgrammerInnersloth | AnywhereLearn More 
+ Multiverse is hiring a Full-Stack Engineer – Generalistto join their team into work fromAnywhereFull-Stack Engineer – GeneralistMultiverse | AnywhereLearn More 
+ Indie games are wonderful. So are the people that make them. 
+ Make wonderful games. Be wonderful people. Work With Indies. 
+ Thank you for joining the Work With Indies newsletter! The next issue will arrive on Sunday. 
+ Oops! Something went wrong. Please try again. 
+ *Sign up to receive a weekly digest of new indie career opportunities. 
+ WORK WITH INDIES 
+ We’ve been lucky to have some incredible jobs working at and partnering with some of the biggest brands in video games. 
+ But we’ve never had more fun and been more fulfilled than when we were working with indie game developers. 
+ Everyone in games should have that much fun. 
+ Our hope is that Work With Indies will connect job seekers with the most rewarding, most inspirational, and most fun jobs they've ever had. 
+ NAVIGATION 
+ 
+ Post a Job 
+ Terms 
+ Privacy 
+ RSS 
+ Communities 
+ Nick's Cat 
+ 
+ CONTACT US 
+ 
+ 
+ nathan@workwithindies.com 
+ twitter.com/workwithindies 
+ facebook.com/workwithindies 
+ 
+ ^ 
+ Made by 
+ @natethenate 
+ and 
+ @nsuttner 
+ for people who 
+ indie games. 
+ © 2021  A Lot of Happy LLC 

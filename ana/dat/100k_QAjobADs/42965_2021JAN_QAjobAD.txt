@@ -1,0 +1,6 @@
+ Training & Certification 
+ Contact us 
+ # Jobs 
+ When an active recipe processes a trigger event and runs the sequence of actions, as defined in the recipe logic, it creates a  job . Each job holds a unique trigger event and executes its recipe logic based on that data (e.g. running  If..Then  action based on the availability of the data). 
+ Workato provides complete details into the execution flow of a job, i.e. what steps were executed, and the data input and output from every step. Workato also supports rerunning of jobs, in cases whereby an error stops a job from full completion. 
+ Automation Institute 

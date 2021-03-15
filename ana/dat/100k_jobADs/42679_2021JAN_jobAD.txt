@@ -1,0 +1,101 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ DrChrono (W11) 
+ The essential platform for modern medical practices and patients. 
+ Senior Software Engineer - Remote 
+ 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About DrChrono 
+ The essential platform for modern medical practices to make care more informed, more interactive, and more personalized. 
+ Healthcare is a mess. Too many hospitals continue to use paper charts, or archaic, proprietary software. We're solving the problem using a platform, iPad, and an open APIs. If revolutionizing healthcare excites you, join our growing team and help us achieve our mission to build better software for doctors and patients, improving healthcare for all. 
+ We are a Y Combinator funded company startup working fully remote. 
+ Since our inception, we have attracted thousands of physicians, 24+ million patients,. We’ve booked millions patient appointments and processed billions dollars in medical billing per year. DrChrono is ranked by INC 500 as one of the fastest growing private companies in America. We are an official Apple Mobility Partner with our industry-leading EHR (Electronic Health Records) iPad app. 
+ We have been to the White House to discuss how technology can solve healthcare problems as part of the Obama Administration’s Precision Medicine Initiative. 
+ We are innovating the healthcare industry as a whole. Although you may not be physically working in a physicians office you are helping to improve the greater good and making it easier for doctors to spend more face time with their patients. 
+ About the role 
+ Skills:  Django, Python 
+ DrChrono's Engineering team plays a critical role delivering innovative products from inception to mass adoption. 
+ You’ll be able to use your expertise and creative talents to build things working closely with product, design, and other departments. 
+ We have the mind and soul of SaaS startup and you’ll be able to build world class software that delights users and can scale to millions of people. The ideal candidate will be comfortable in a fluid start-up environment and will bring an energetic, fun and creative approach to their work. 
+ You could be an experienced engineer or a recent graduate eager to learn and get involved at all stages of the development lifecycle. 
+ What you'll do: 
+ 
+ Create products & features that make it easier for doctors and their staff to run an efficient medical practice 
+ Continually offer thought-leadership and dependable execution ability in a high-paced environment characterized by ongoing iteration and product pushes 
+ Play a key role in product development, help shape direction of DrChrono feature set 
+ Take complex and thorny practices and processes and build beautifully simple and maintainable software. 
+ Design & write software to help manage and automate the complexity of running a private medical practice 
+ Help build scalable programs that standardize information flow and increase operational capacity 
+ Be part of a close-knit engineering team that ships new code to make a meaningful impact in healthcare 
+ Implement automated and exploratory testing processes that provide continuous feedback on quality issues; find ways to break our web application before their public release 
+ Implement internal and public facing pages on drchrono.com 
+ Mentor and train new engineers 
+ Help make UI and UX decisions 
+ 
+ What you'll need: 
+ 
+ Hacker strong with CS fundamentals from Bachelor’s in CS, engineering, related discipline or equivalent industry experience 
+ Experience building products for fast growing web or mobile products 
+ Must have at least 3 years of professional experience developing in Python 
+ Ability to manage conflicting project demands and thrive in a small, fast-paced, start-up environment 
+ Experience in a fast-paced work environment & a bias for action. You work as part of a team and care about building scalable and maintainable systems. 
+ A product-first approach to building software. You care about the real world functionality of your programming. 
+ Experience doing front-end web development using HTML, CSS, and modern Javascript using AngularJS. 
+ Experience writing production backend code in Python (preferably Django). 
+ Strong sense for UI and UX. 
+ Experience writing apps backed by relational databases (e.g. MySQL or PostgreSQL). 
+ 
+ What you'll get: 
+ 
+ You’ll be working with a vibrant diverse team that is made up makes up of individuals truly passionate about revolutionizing the future of healthcare. 
+ Up to 90% health, dental, and vision coverage for the employee and their dependents starting on your first day at DrChrono. 
+ A fully equipped gym in both of our Hunt Valley, MD & Sunnyvale, CA locations as well a subsidized fitness classes in your area. 
+ We have a partnership with Apple so all employees get access to the latest apple gear- iOS devices, iPads, & MacBooks. 
+ Catered lunches once a week and a stipend lunch twice a week. 
+ We offer an employee benefit where DrChrono contributes to employee childcare costs. 
+ 401k matching program. 
+ Generous paid-time and paid holidays. 
+ Flexible schedule and remote policy. 
+ 
+ Technology 
+ Django, MariaDB, Angular.js, jQuery, HTML, css, Bootstrap 
+ Other jobs at DrChrono 
+ iOS Engineer 
+ fulltime 
+ Remote 
+ iOS 
+ 1+ years 
+ Senior Software Engineer - Remote 
+ fulltime 
+ Remote 
+ Backend 
+ 6+ years 
+ Senior DevOps Engineer 
+ fulltime 
+ Remote 
+ Devops 
+ 6+ years 
+ Sr. QA Lead 
+ fulltime 
+ Remote 
+ Full Stack 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

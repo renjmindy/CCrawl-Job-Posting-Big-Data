@@ -1,0 +1,115 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ BI/DW Solution Architect and Developer 
+ Bombardier 
+ __Dorval, QC 
+ Apply Now 
+ BI/DW Solution Architect and Developer-MON17400 
+ Description 
+ BOMBARDIER 
+ At Bombardier, our employees work together to evolve mobility worldwide - one good idea at a time. If you have a good idea, we’ll provide the environment where it will thrive and grow into a great product or customer experience. Your ideas are our fuel. 
+ In your role, you will: 
+- 
+Design and implementation of data warehouse solutions to meet the business needs 
+ - 
+Generate value from the Azure enterprise data lake and manage its operations 
+ - 
+Hands-on technical leader for ETL and DW with Microsoft solutions (SQL/Azure) 
+ - 
+Work with business to define BI requirements, develop BI architecture and develop associated project plan / work breakdown structure 
+ - 
+Design application management and operations models 
+ - 
+Deliver BI solutions autonomously (simple project) or by leading external development team (complex project) 
+ - 
+Support definition of the enterprise BI roadmap and execution 
+ - 
+Identify, design, test and implement internal process improvements related to data valorization (automation, data delivery optimization, scalable/elastic solution design) 
+ - 
+Ensure high availability of BI solutions with effective troubleshooting when needed 
+ - 
+Produce high-quality and reusable code – establish & monitor good development and code management process 
+ - 
+Generate deployment artifacts align to ITIL best practices 
+ - 
+Evangelize self-service BI and visual discovery and move the organization away from Excel/MS Access culture 
+ - 
+Provide technical coaching to team members and business colleagues 
+ Qualifications 
+ As our ideal candidate, 
+ 
+ You hold aUniversity degree in Computer Science, Engineering, Statistics, Information Systems or another quantitative field 
+ 
+ - 
+You have a minimum of 10 years of experience in development of complex business intelligence / data warehouse solution 
+ - 
+You have an expert-level in SSAS, SSIS, SQL Server, SSRS technologies and fluent in OLTP, OLAP models 
+ - 
+You have the ability to bring data from different sources, formats, varied details into a unified format to enable actionable insights. Experience with SAP ECC ERP would be a key asset. 
+ - 
+You master .NET and at least 2 scripting languages generally used in BI solutions: Python, Java, C++, C#, etc 
+ - 
+You have experience in various projects delivered on Microsoft Azure Data Platform (SQL DB, Blob, Data Lake Hub, Data Factory, Synapse, Automation, etc.) 
+ - 
+You have experience with Azure DevOps/VSTS and/or TFS-GIT tools to run the full development lifecycle (or similar tool) 
+ - 
+You have the knowledge of semi-structure and unstructured data solutions (NoSQL) 
+ - 
+You have the knowledge of WhereScape Red and Power BI would be an asset 
+ - 
+You have strong project management / delivery mindset with good understanding of agile framework. 
+ - 
+You have the ability to thrive under pressure and demonstrate proficient priority management skills 
+ - 
+You have knowledge of latest market trends – Big Data, Blockchain, AI 
+ - 
+You have strong written, verbal communication and strategic presentation skills – Effectively communicate with non-technical staff & with members of interdisciplinary teams 
+ - 
+You must be able to work well both autonomously and collaboratively 
+ - 
+You have experience in managing external parties to deliver robust BI solutions. 
+ Bombardier is an equal opportunity employer and encourages women, Aboriginal people, persons with disabilities and members of visible minorities to apply. 
+ Whether your candidacy is moving on to the next step of the hiring process or not, we will keep you informed by email or by phone. Join us at careers.bombardier.com 
+ Your ideas move people. 
+ #LI-RK1 
+ Job:  Data/System Architecture 
+ Primary Location:  CA-QC-Montreal Dorval 
+ Organization:  Aerospace 
+ Schedule:  Full-time 
+ Employee Status:  Regular 
+ Job Posting:  28.09.2020, 3:06:23 PM 
+ Unposting Date:  Ongoing 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

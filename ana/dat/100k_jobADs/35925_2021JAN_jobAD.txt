@@ -1,0 +1,310 @@
+Skip to content 
+   
+ malb::blog 
+ a blog about cryptography, math software and kittens 
+ Tag: job 
+ Reader/Senior Lecturer/Associate Professor in the ISG 
+ The ISG is  recruiting  a senior lecturer/ reader  (≡ associate professor in the US system). This is a full-time, permanent research and teaching position. 
+ Look, I know this is post-Brexit England but let me give you a personal pitch of why you should apply: 
+ 
+ It’s a big group. We got ~20 permanent members of staff working across the field of information security: cryptography, systems and social. Check out our  seminar programme  and our  publications  to get a sense of what is going on in the group. 
+ It’s a group with a good mix of areas and lots of interaction. UK universities don’t work like German ones where professors have their little empires which don’t interact all too much. Rather, the hierarchies are pretty flat within a department (everybody is line managed by the Head of Department) which facilitates more interaction; at least within the ISG that’s true. For example, I’m currently working on a project with someone from the systems and software security lab and one of our social scientists. I doubt this sort of collaboration would have come about if we didn’t attend the same meetings, taught the same modules, went to lunch and the pub together etc. Interdisciplinarity from above is annoying, when it emerges spontaneously it can be great. 
+ It’s a nice group. People are genuinely friendly and we help each other out. It will be easy to find someone to proof read your grant applications or share previously successfully funded ones etc. I don’t know any official numbers but the unionisation level seems to be relatively high, which I also take as an indication that people don’t adopt a “everyone for themselves” approach. 
+ We got funding for our  Centre for Doctoral Training  for the next few years (then we have to reapply). This means 10 PhD positions  per year . Also, our CDT attracts strong students. My research career really took off after getting a chance to work with our amazing students. 
+ The ISG is its own department (in a school with Physics, EE, Mathematics and Computer Science). All of our teaching is on information security with a focus on our Information Security MSc (which is huge). So you’ll get to teach information security. 
+ The ISG has strong industry links. Thus, if that’s your cup of tea, it will be easy to get introductions etc. A side effect of these strong links is that consulting opportunities tend to pop up. Consulting is not only permitted by the employer but encouraged (they take a cut if you do it through them). 
+ The ISG is a large group but Royal Holloway is a relatively small university. That means getting things done by speaking to the person in charge is often possible, i.e. it’s not some massive bureaucracy and exceptions can be negotiated. 
+ It’s within one standard deviation from London. This means  UCL  and  Surrey , and thus the researchers there, aren’t too far away. Also, you get to live in London (or near Egham if that’s your thing, no judgement). 
+ 
+ We’d appreciate any help in spreading the word. Happy to answer any questions I can answer. 
+ The ad says “senior lecturer” but, speaking for myself, I’d recommend to apply even if you’re going for the lecturer/assistant professor/Juniorprofessor stage in your career. Also, I’d encourage people from all areas of information security to apply. 
+ Continue reading "Reader/Senior Lecturer/Associate Professor in the ISG" -> 
+ martinralbrecht   misc   Leave a comment   January 13, 2021January 13, 2021  3 Minutes 
+ Postdoc at Royal Holloway on Lattice-based Cryptography 
+ I’m looking for a postdoc to work with me and others – in the ISG and at Imperial College – on lattice-based cryptography and, ideally, its connections to coding theory. 
+ The ISG is a nice place to work; it’s a friendly environment with strong research going on in several areas. We got people working across the field of information security including several people working on cryptography. For example,  Carlos Cid ,  Anamaria Costache ,  Lydia Garms ,  Jianwei Li ,  Sean Murphy ,  Rachel Player ,  Eamonn Postlethwaite ,  Joe Rowell ,  Fernando Virdia  and  me  all have looked at or are looking at lattice-based cryptography. 
+ A postdoc here is a 100% research position, i.e. you wouldn’t have teaching duties. That said, if you’d like to gain some teaching experience, we can arrange for that as well. 
+ If you have e.g. a  two-body problem  and would like to discuss flexibility about being in the office (assuming we’ll all be back in the office at some post-covid19 point), feel free to get in touch. 
+ Continue reading "Postdoc at Royal Holloway on Lattice-based Cryptography" -> 
+ martinralbrecht   cryptography   Leave a comment   September 17, 2020September 17, 2020  2 Minutes 
+ Postdoc at Royal Holloway on Lattice-based Cryptography 
+ Update: 25/09/2020: New deadline: 30 October. 
+ We are looking for a  postdoc  to join us to work on lattice-based cryptography. This postdoc is funded by the EU H2020  PROMETHEUS  project for building privacy preserving systems from advanced lattice primitives. At Royal Holloway, the project is looked after by Rachel Player and me. Feel free to e-mail me with any queries you might have. 
+ The ISG is a nice place to work; it’s a very friendly environment with strong research going on in several areas. We got people working across the field of information security including several people working on cryptography. A postdoc here is a 100% research position, i.e. you wouldn’t have teaching duties. That said, if you’d like to gain some teaching experience, we can arrange for that as well. 
+ Also, if you have e.g. a  two-body problem  and would like to discuss flexibility about being in the office (assuming we’ll all be back in the office at some post-covid19 point), feel free to get in touch. 
+ Continue reading "Postdoc at Royal Holloway on Lattice-based Cryptography" -> 
+ martinralbrecht   cryptography   Leave a comment   June 26, 2020September 25, 2020  2 Minutes 
+ Lecturer/Assistant Professor in Cryptography in the ISG 
+ Unfortunately, recruitment for this post was stopped due to the uncertain financial position that UK universities are in at the moment. 
+ The ISG is  recruiting  a lecturer (≡ assistant professor in the US system, ≡ Juniorprofessor in the German system, ≡ Maître de conférences in the French system; that’s all the systems I know). This is a full-time, permanent research and teaching position. 
+ Look, I know this is England post-Brexit but let me give you a personal pitch of why you should apply: 
+ 
+ It’s a big group. We got ~20 permanent members of staff working across the field of information security: cryptography, systems and social. Check out our  seminar programme  and our  publications  to get a sense of what is going on in the group. 
+ It’s a group with lots of cryptography going on. As mentioned in the ad below, eight permanent members of staff, five postdocs and about 15 PhD students focus on or contribute to cryptographic research. As a corollary, we also have plenty of cryptographers coming through for visits and talks. We got a weekly cryptography reading group, our students have another one and our seminar regularly has cryptography talks. 
+ It’s a group with a good mix of areas and lots of interaction. UK universities don’t work like German ones where professors have their little empires which don’t interact all too much. Rather, the hierarchies are pretty flat within a department (everybody is line managed by the Head of Department) which facilitates more interaction; at least within the ISG that’s true. For example, I’m currently working on a project with someone from the systems and software security lab and one of our social scientists. I doubt this sort of collaboration would have come about if we didn’t attend the same meetings, taught the same modules, went to lunch and the pub together etc. Interdisciplinarity from above is annoying, when it emerges spontaneously it can be great. 
+ It’s a nice group. People are genuinely friendly and we help each other out. It will be easy to find someone to proof read your grant applications or share previously successfully funded ones etc. I don’t know any official numbers but the unionisation level seems to be relatively high, which I also take as an indication that people don’t adopt a “everyone for themselves” approach. 
+ We got funding for our  Centre for Doctoral Training  for the next four years (then we have to reapply). This means 10 PhD positions  per year . Also, our CDT attracts strong students. My research career really took off after getting a chance to work with our amazing students. 
+ The ISG is its own department (in a school with Physics, EE, Mathematics and Computer Science). All of our teaching is on information security with a focus on our Information Security MSc (which is huge). So you’ll get to teach information security. It is unlikely, though, that you will get to teach cryptography specifically. 
+ The ISG has strong industry links. Thus, if that’s your cup of tea, it will be easy to get introductions etc. A side effect of these strong links is that consulting opportunities tend to pop up. Consulting is not only permitted by the employer but encouraged (they take a cut if you do it through them). 
+ The ISG is a large group but Royal Holloway is a relatively small university. That means getting things done by speaking to the person in charge is often possible, i.e. it’s not some massive bureaucracy and exceptions can be negotiated. 
+ It’s within one standard deviation from London. This means  UCL  and  Surrey , and thus the cryptographers there, aren’t too far away.  London Crypto Day  is a thing and so are the  London-ish Lattice Coding & Crypto Meetings . Also, you get to live in London (or near Egham if that’s your thing, no judgement). 
+ 
+ I’m happy to answer informal inquiries etc. We’d appreciate any help in spreading the word. 
+ Continue reading "Lecturer/Assistant Professor in Cryptography in the ISG" -> 
+ martinralbrecht   cryptography   Leave a comment   January 28, 2020January 13, 2021  6 Minutes 
+ 10 PhD Positions at Royal Holloway's Centre for Doctoral Training in Cyber Security for the Everyday 
+ At Royal Holloway we are again taking applications for  ten  fully-funded PhD positions in Information Security. See the  CDT website  and the  ISG website  for what kind of research we do. Also, check out our  past and current CDT students  and our  research seminar schedule  to get an idea of how broad and diverse the areas of information security are in which the ISG works. 
+ More narrowly, to give you some idea of cryptographic research (and thus supervision capacity) in the ISG/at Royal Holloway: currently, there are nine permanent members of staff working on cryptography:  Simon Blackburn  (Maths),  Carlos Cid ,  Keith Martin ,  Sean Murphy ,  Siaw-Lynn Ng ,  Rachel Player ,  Liz Quaglia  and  me . In addition, there are five postdocs working on cryptography and roughly 15 PhD students. Focus areas of cryptographic research currently are: lattice-based cryptography and applications, post-quantum cryptography, symmetric cryptography, statistics, access control, information-theoretic security and protocols. 
+ Note that most of these positions are reserved for UK residents, which does, however, not mean nationality (see CDT website for details) and there might also be some wiggle room for EU residents (yes, still!). 
+ Continue reading "10 PhD Positions at Royal Holloway's Centre for Doctoral Training in Cyber Security for the Everyday" -> 
+ martinralbrecht   cryptography   Leave a comment   January 6, 2020January 6, 2020  2 Minutes 
+ Postdoc at Royal Holloway on Lattice-based Cryptography 
+ We are looking for a postdoc to join us to work on lattice-based cryptography. This postdoc is funded by the EU H2020  PROMETHEUS  project for building privacy preserving systems from advanced lattice primitives. At Royal Holloway, the project is looked after by Rachel Player and me. Feel free to e-mail me with any queries you might have. 
+ The ISG is a nice place to work; it’s a very friendly environment with strong research going on in several areas. We got people working across the field of information security including several people working on cryptography. A postdoc here is a 100% research position, i.e. you wouldn’t have teaching duties. That said, if you’d like to gain some teaching experience, we can arrange for that as well. 
+ Also, if you have e.g. a  two-body problem  and would like to discuss flexibility about being in the office, feel free to get in touch. 
+ 
+ 
+ 
+ 
+ Location: 
+ Egham 
+ 
+ 
+ 
+ 
+ Salary: 
+ £41,743 per annum - including London Allowance 
+ 
+ 
+ Closing Date: 
+ Thursday 12 September 2019 
+ 
+ 
+ Interview Date: 
+ To be confirmed 
+ 
+ 
+ Reference: 
+ 0819-315 
+ 
+ 
+ 
+ Full-Time, Fixed Term (until December 2021) 
+ The ISG is seeking to recruit a post-doctoral research assistant to work in the area of cryptography. The position is available now until 31 December 2021. 
+ The PDRA will work alongside Dr. Martin Albrecht, Dr. Rachel Player and other cryptographic researchers at Royal Holloway on topics in lattice-based cryptography. This post is part of the EU H2020 PROMETHEUS project ( http://prometheuscrypt.gforge.inria.fr ) for building privacy preserving systems from advanced lattice primitives. Our research focus within this project is on cryptanalysis and implementations, but applicants with a strong background in other areas such as protocol/primitive design are also encouraged to apply. 
+ Applicants should have already completed, or be close to completing, a PhD in a relevant discipline. Applicants should have an outstanding research track record in cryptography. Applicants should be able to demonstrate scientific creativity, research independence, and the ability to communicate their ideas effectively in written and verbal form. 
+ In return we offer a highly competitive rewards and benefits package including: 
+ 
+ Generous annual leave entitlement 
+ Training and Development opportunities 
+ Pension Scheme with generous employer contribution 
+ Various schemes including Cycle to Work, Season Ticket Loans and help with the cost of Eyesight testing. 
+ Free parking 
+ 
+ 
+ 
+ The post is based in Egham, Surrey where the College is situated in a beautiful, leafy campus near to Windsor Great Park and within commuting distance from London. 
+ Informal enquiries can be made to Martin Albrecht at martin.albrecht@royalholloway.ac.uk 
+ We particularly welcome applicants from backgrounds which are typically under-represented in cryptography. We are committed to enabling a healthy work-life balance. 
+ Please quote the reference:  0819-315 
+ Closing Date:  Midnight, 12 September 2019 
+ Interview Date: To be confirmed 
+ 
+ PS: I have no idea why our HR department thinks “free parking” is a perk worth mentioning. 
+ martinralbrecht   cryptography   Leave a comment   August 15, 2019August 15, 2019  2 Minutes 
+ Two Postdocs on Lattice-based Cryptography 
+ I have  two  postdoc positions available to work on lattice-based or post-quantum cryptography with me and other people here in the  ISG . Currently, five PhD students work on post-quantum or lattice-based cryptography in the ISG, as well as two postdocs. Furthermore, several more students, staff and postdocs work across the field of cryptography in general. We have regular reading groups, research seminars, visitors and decent travel funding. Beyond cryptography, the ISG works across the field of information security, e.g. smart card/embedded security, malware analysis and social or cultural aspects of security. I guess what I’m saying is: yes, Royal Holloway is in Brexit-land, but the ISG is a good place to work. If you have any informal queries, feel free to get in touch. 
+ 
+ 
+ 
+ 
+ Location 
+ Egham 
+ 
+ 
+ 
+ 
+ Salary 
+ £37,345 per annum - including London Allowance 
+ 
+ 
+ Closing Date 
+ Friday 05 April 2019 
+ 
+ 
+ Interview Date 
+ To be confirmed 
+ 
+ 
+ Reference 
+ 0219-081 
+ 
+ 
+ 
+ The postdoc will work alongside Dr. Martin Albrecht and other cryptographic researchers in the ISG on topics in lattice-based cryptography and related fields. One post is funded by a joint grant between Royal Holloway and Imperial College (Dr. Cong Ling) for bridging the gap between lattice-based cryptography and coding theory (starting date: 15 April or later). The second post is funded by an EPSRC grant on investigating the security of lattice-based and post-quantum cryptographic constructions (starting date: 1 June or later). Applicants with a strong background in all areas of cryptography are encouraged to apply. 
+ Applicants should have already completed, or be close to completing, a PhD in a relevant discipline. Applicants should have an outstanding research track record in cryptography. Applicants should be able to demonstrate scientific creativity, research independence, and the ability to communicate their ideas effectively in written and verbal form. 
+ The ISG is one of the largest departments dedicated to information security in the world with 21 core academic staff in the department, as well as research and support staff. We work with many research partners in other departments and have circa 90 PhD students working on a wide range of security research, many of whom are fully funded through our Centre for Doctoral Training in Cyber Security. We have a strong, vibrant, embedded and successful multi-disciplinary research profile spanning from cryptography to systems security and social aspects of security. This vibrant environment incorporates visiting researchers, weekly research seminars, weekly reading groups, PhD seminars and mini conferences, the WISDOM group (Women in the Security Domain Or Mathematics) and we are proud of our collegial atmosphere and approach. 
+ If you require any further information please email: recruitment@rhul.ac.uk. Informal enquiries can be made to Martin Albrecht at martin.albrecht@rhul.ac.uk. 
+ 
+ Please quote the reference:  0219-081 
+ Closing Date: Midnight, 5 April 2019 
+ Interview Date: To be confirmed 
+ 
+ 
+ martinralbrecht   cryptography   Leave a comment   March 1, 2019March 1, 2019  2 Minutes 
+ More on those 10 PhD Positions at Royal Holloway's CDT in Cyber Security 
+ My colleagues who work on the social/cultural side of (information) security together with colleagues from other departments have put together an outline for people who come from disciplines such as Human Geography, Sociology, Criminology, Law, Political Science, International Relations, Classics, Archaeology, Cultural Studies and Media Studies. 
+ 
+ Fully Funded 4-year PhD Studentships at the EPSRC funded Royal Holloway  Centre for Doctoral Training in Cyber Security for the Everyday 
+ We are pleased to advertise positions for up to 10 PhD studentships to begin in September 2019 at the new Centre for Doctoral Training (CDT) in Cyber Security for the Everyday at Royal Holloway University of London. 
+ We seek applications or informal expressions of interest from students and researchers with an interest in cyber security. In addition to Mathematics and Computer Science, relevant disciplines may include Human Geography, Sociology, Criminology, Law, Political Science, International Relations, Classics, Archaeology, Cultural Studies, Media Studies and more. 
+ Building on two previous Centres for Doctoral Training in Cyber Security based at Royal Holloway, and anchored within the Information Security Group, the new CDT reflects the growth in and need for interdisciplinary research which critically engages with everyday cyber security questions. It does so by combining an understanding of technical systems with social science and humanities approaches to cyber security, personal information and growing datafication. In a broad sense, PhD projects will explore cyber security in the context of societal needs, critically evaluate the contribution cyber security makes to societal and individual securities and place discussions over the ethics, rights, responsibility and fairness of cyber security at the centre rather than at the periphery. Other academic departments involved in the Centre include Computer Science, Geography, Law, Psychology and Politics and IR. 
+ Whilst broad in scope, the CDT is driven by two overarching strands of enquiry: 
+ 
+ The technologies deployed in digital systems that people use, sometimes inadvertently, every day; and 
+ Everyday societal experiences of cyber security, including how different societies, communities, groups and individuals conceptualise, materialise, negotiate, and respond to increasingly digitally mediated and technologically driven worlds 
+ 
+ 
+ 
+ A central aspect of the CDT programme is interdisciplinary collaborations as students work on shared projects and other collaborative activities within their PhD cohort. This is encouraged throughout their studies but a key component of the first year, which is devoted to training activities and individual and group projects. Students may not have established project ideas at the time of recruitment but develop these during the first year. 
+ The core strategic objectives of the CDT in Cyber Security for the Everyday are: 
+ 
+ To develop cohorts of truly multi-disciplinary researchers, with a broad understanding of cyber security and a strong appreciation of the interplay between technical and social questions; 
+ To promote research in cyber security that is original, significant, responsible, of international excellence and responsive to societal needs; and 
+ To engage with stakeholders in the cyber security community and wider society 
+ 
+ 
+ 
+ We are keen to encourage applications from across the Social Sciences and Humanities. Potential areas of interdisciplinary study include but are not limited to: 
+ Conceptualise 
+ 
+ The arts and critical discourses of cyber security 
+ Agenda-setting, framing and cyber security 
+ Feminist cyber security 
+ Social difference, intersectionality and cyber security 
+ Intimate spaces of cyber security (including the body, home, etc.) 
+ Everyday/routine violences and cyber security 
+ Solidarity and resistance and alternative forms of cyber security 
+ Narratives of security 
+ Ontological security across disciplines and forms of expression 
+ 
+ 
+ 
+ Materialise 
+ 
+ Contemporary archaeologies of cyber security 
+ Cyber security and the city 
+ The materiality of digital mediation in cyber security 
+ Media as data 
+ Resistance through data, memes/gifs/films 
+ Simulation and simulated affect -emotional security data & machines 
+ 
+ 
+ 
+ Negotiate 
+ 
+ Sustainable development goals and cyber security 
+ The impact of cyber security and public policy 
+ Territory, diplomacy and cyber security 
+ Regional and international cyber security 
+ Transnational and global governance of cyber security 
+ Cyber security of democratic institutions 
+ Cybersecurity at work 
+ Organisational approaches to and processes of cybersecurity 
+ Cybersecurity profession and professionals 
+ E-surveillance at work 
+ 
+ 
+ 
+ Respond 
+ 
+ Mobilities, automated and autonomous mobility systems 
+ Resistance, dissent and cyber security 
+ Hate crimes and affect 
+ Cultural economies, crypto-currencies and piracy 
+ The dark web, visibility and invisibility 
+ Practices of data hacking in media consumption. 
+ 
+ 
+ martinralbrecht   misc   Leave a comment   February 22, 2019February 23, 2019  3 Minutes 
+ Postdoc Position at Royal Holloway on Key Exchange 
+ Carlos and I have a  postdoc position  on designing cryptographic key exchange protocols that support incorporating key material from, erm, … diverse sources. This is part of a consortium that looks at integrating some quantum cryptography with post-quantum cryptography, but there is no need to think so narrowly about the problem. That is, the project is about incorporating randomness from wherever it might come and what security goals can be achieved depending on what is compromised. More generally, if you enjoy cryptographic protocols, not limited to key exchange protocols, this might be a fitting postdoc position. Get in touch with Carlos or me, if you’re unsure on whether the position is a good fit. 
+ 
+ 
+ 
+ 
+ Location: 
+ Egham 
+ 
+ 
+ 
+ 
+ Salary: 
+ £39,479 to £41,743 per annum - including London Allowance 
+ 
+ 
+ Closing Date: 
+ Tuesday 12 March 2019 
+ 
+ 
+ Interview Date: 
+ To be confirmed 
+ 
+ 
+ Reference: 
+ 0219-048 
+ 
+ 
+ 
+ The Information Security Group at Royal Holloway University of London is seeking to recruit a postdoctoral research assistant (PDRA) to work in the area of cryptography. The position is available for immediate start, for up to 26 months (until 31 March 2021). 
+ The PDRA will work alongside Prof. Carlos Cid, Dr. Martin Albrecht and other cryptographic researchers at Royal Holloway on topics connected to the design and analysis of cryptographic key exchange protocols that support incorporating key material from diverse sources. This post is part of the AQuaSec project, a Innovate UK-funded research project with 17 partners from industry and academia, aiming to develop technologies for quantum-safe communications by integrating post-quantum cryptography with techniques from quantum cryptography. 
+ Applicants for this role should have already completed, or be close to completing, a PhD in a relevant discipline, with an outstanding research track record in cryptography. Applicants should be able to demonstrate scientific creativity, research independence, and the ability to communicate their ideas effectively in written and verbal form. Salary is £39,479 per annum, inclusive of London Allowance. This post is appointed at Grade 7, Spine point 34. 
+ Established in 1990, the Information Security Group at Royal Holloway was one of the first dedicated academic groups in the world to conduct research and teaching in information security. The ISG is today a world-leading interdisciplinary research group with 20 full-time members of staff, several postdoctoral research assistants and over 50 PhD students working on a range of subjects in cyber security, in particular cryptography. 
+ In return we offer a highly competitive rewards and benefits package including: 
+ 
+ Generous annual leave entitlement 
+ Training and Development opportunities 
+ Pension Scheme with generous employer contribution 
+ Various schemes including Cycle to Work, Season Ticket Loans and help with the cost of Eyesight testing. 
+ Free parking 
+ Competitive Maternity, Adoption and Shared Parental Leave provisions 
+ 
+ 
+ 
+ The post is based in Egham, Surrey where the College is situated in a beautiful, leafy campus near to Windsor Great Park and within commuting distance from London. 
+ To view further details of this post and to apply please visit  https://jobs.royalholloway.ac.uk . For queries on the application process the Human Resources Department can be contacted by email at: recruitment@rhul.ac.uk. Informal enquiries can be made to Prof. Carlos Cid at carlos.cid@rhul.ac.uk. 
+ Please quote the reference:  0219-048 
+ Closing Date: Midnight, 12 March 2019 
+ Interview Date: To be confirmed 
+ 
+ PS:  I will have two more postdoc positions, on lattice-based cryptography in the next few weeks/months. 
+ martinralbrecht   cryptography   Leave a comment   February 12, 2019February 12, 2019  2 Minutes 
+ 10 PhD Positions at Royal Holloway's Centre for Doctoral Training in Cyber Security 
+ At Royal Holloway we are now taking applications for  ten  fully-funded PhD positions in Information Security. See the  CDT website  and the  ISG website  for what kind of research we do. In particular, check out our  past and current CDT students  to get an idea of how broad and diverse the areas of information security are in which they work. 
+ Note that most of these positions are reserved for UK residents, which does, however, not mean nationality (see CDT website for details) and there might also be some wiggle room for EU residents. 
+ Continue reading "10 PhD Positions at Royal Holloway's Centre for Doctoral Training in Cyber Security" -> 
+ martinralbrecht   cryptography   Leave a comment   February 6, 2019February 6, 2019  1 Minute 
+ Posts navigation 
+ Older posts 
+ Pages 
+ 
+ About Me 
+ Publications 
+ 
+ 
+ algebraic attacks   algebraic cryptanalysis   bit-slice   bitbucket   bkw   block cipher   coding theory   cold boot attacks   commutative algebra   conference   cryptanalysis   cryptography   cryptominisat   debian   dense linear algebra   design   dtu   emacs   exact linear algebra   f4   f5   flash   flint   fplll   fpylll   gap   gröbner basis   gsoc   homomorphic encryption   it security   job   lattice-based cryptography   lattice reduction   lattices   learning with errors   linbox   linear algebra   linux   lmonade   lwe   m4ri   m4rie   macbook pro   magma   matrix decomposition   max-posso   mixed integer programming   multicore   multilinear maps   mutantxl   nsa   open-source   openpgp   optimization   paper   pgp   phd   ple   polly cracker   posso   post-quantum cryptography   postdoc   pre-print   present cipher   python   release   ring-lwe   royal holloway   sage   sage days   sat   scip   singular   thesis   workshop 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Blog at WordPress.com. 
+  malb::blog  
+ Create a free website or blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ Add your thoughts here... (optional) Post to 
+ Cancel 

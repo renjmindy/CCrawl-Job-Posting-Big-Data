@@ -1,0 +1,89 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ PostEra (W20) 
+ Medicinal Chemistry as a Service powered by Machine Learning 
+ Machine Learning Research Intern 
+ 
+ Location 
+ Bay Area, CA / Remote 
+ Job Type 
+ Internship 
+ Experience 
+ About PostEra 
+ What do we do? 
+ PostEra offers medicinal chemistry as a service. Drug discovery R&D is slow and expensive and this limits biotechs and pharma from getting new drugs into development and new cures to patients. PostEra is building a one-stop-shop for medicinal chemistry, powered by machine learning, to serve the world's ever expanding community of drug hunters while also leading the world's largest open-science initiative to find a COVID cure; COVID Moonshot. 
+ What are we working on? 
+ The answer is many things but here's our top priorities right now: 
+ 
+ 
+ We are building the first-of-its-kind cloud platform for scientists to design and order molecules. 
+ 
+ 
+ COVID Moonshot: PostEra is helping lead the world's largest open-source drug discovery effort. Moonshot is an international team of scientists working on an antiviral cure for COVID. Our platform for crowd-sourcing drug designs has received over 12,000 submissions and we've made and tested 1000 of these compounds. Check out the project:  https://postera.ai/covid 
+ 
+ 
+ How are we funded? 
+ PostEra has raised over $2.5m since inception from leading Angel investors as well as several Bay Area VCs. 
+ About the role 
+ Skills:  Python, Machine Learning, Deep Learning, Reinforcement learning (RL), Natural Language Processing 
+ PostEra is building a one-stop-shop for medicinal chemistry to serve the world's drug hunters. 
+ Required: experienced in Python development (esp. SciPy stack), strong statistical and quantitative skills, comfort with modern development and deployment tools (Git, Linux, AWS). 
+ The candidate we are looking for should have experience in machine learning and ideally chemistry (though not a hard requirement). This 3 - 6 month internship role will be focused on developing machine learning algorithms to design molecular structures, forecast chemical properties and predict the outcomes of organic synthesis -- a problem akin to that of games like Go and Chess but with huge therapeutic implications for patients around the world! 
+ See how we've been using this technology to discover a COVID cure through crowd-sourcing:  https://postera.ai/covid 
+ Technology 
+ Machine Learning - NLP and tree search algorithms as well as Graph CNNs and broader statistical tools like PCA. 
+ Tech Stack - Django back-end with React front-end all on AWS for our web development. High-performance languages (C++) and Postgres databases. 
+ Other jobs at PostEra 
+ Data Scientist 
+ fulltime 
+ Bay Area, CA / Remote 
+ Data Science 
+ $60k - $120k 
+ 0.50% - 1.30% 
+ 1+ years 
+ Machine Learning Researcher 
+ fulltime 
+ San Francisco, CA, USA / Remote 
+ Machine Learning 
+ $70k - $140k 
+ 0.50% - 1.30% 
+ 3+ years 
+ Computational Chemist (Drug Discovery) 
+ fulltime 
+ Bay Area, CA / Remote 
+ Data Science 
+ $70k - $120k 
+ 0.50% - 1.30% 
+ 1+ years 
+ Senior Cheminformatics Scientist 
+ fulltime 
+ Bay Area, CA / Remote 
+ Data Science 
+ $85k - $160k 
+ 0.50% - 1.30% 
+ 3+ years 
+ Medicinal Chemist 
+ fulltime 
+ United States / Remote 
+ $70k - $150k 
+ 0.50% - 1.30% 
+ 3+ years 
+ Machine Learning Research Intern 
+ intern 
+ Bay Area, CA / Remote 
+ Machine Learning 
+ Any 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

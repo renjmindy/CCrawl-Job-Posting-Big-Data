@@ -1,0 +1,285 @@
+Skip to content 
+ __Open Menu 
+ 
+ 
+ Home 
+ 
+ 
+ Blog 
+ 
+ Latest Posts 
+ iOS 
+ Mac OS 
+ Java 
+ SQL 
+ Other 
+ PC Other 
+ Uncategorized 
+ Windows Server 2003 
+ 
+ 
+ 
+ About 
+ 
+ 
+ Links 
+ 
+ 
+ Twitter 
+ 
+ 
+ Linkedin 
+ 
+ 
+ Blog 
+ 
+ 
+ Search 
+ Search for: __Close 
+ 
+ Rob Bamforth's Blog 
+ Java, Objective-c, iOS, WATCHOS, SQL, T-SQL, MySQL, SQL Server, DBA, PHP, ODBC, API, Telecoms 
+ SQL 
+ How To Copy SQL Server 2005 Jobs From One Server To Another 
+ __ May 1, 2009  __ Rob Bamforth  __ 6 Comments 
+ This example shows how to copy a scheduled backup job from one instance of SQL server 2005 to another. 
+ In Microsoft SQL Server Management Studio, expand the SQL Server Agent tree. 
+ Expand the jobs tree. 
+ Here you will see a list of all the jobs currently stored on the server. 
+ Right-click on the job that you want to copy over to a second server. 
+Select Script Job as -> Create To -> New Query Editor Window. 
+ This will open a new window in the management studio containing auto-generated code. 
+ Connect to the Second server, which will be the destination for the copied job. 
+ Open up a new tab in the management studio – Copy the entire auto-generated code from the previous step and paste it into the new tab. 
+ Below is the auto-generated code ready to execute on the new server. 
+Execute the whole code to continue. 
+ Refresh and expand the Jobs tab on the second server, all being well the copied job will be displayed in the job list. 
+ Right-click the job and select Properties to view the details. 
+ You will see that the steps, schedules, alerts, notifications etc. will have been copied across. The job will now run on server 2 in the same way as it ran on server 1. 
+ Share this: 
+ 
+ Email 
+ Print 
+ LinkedIn 
+ Twitter 
+ 
+ 
+ Related 
+ __ copy jobs ,  jobs ,  scheduled tasks ,  SQL Server 2005 
+ Post navigation 
+ __ Previous PostHow To Allow Incoming Connections In SQL Server 2005 
+ Next PostHow To Enable xp_cmdshell On SQL Server 2005 __ 
+ 6 thoughts on "How To Copy SQL Server 2005 Jobs From One Server To Another" 
+ 
+ Hosk  says: 
+ 
+ March 10, 2011 at 5:10 PM 
+ excellent post, good work sir 
+ Reply __ 
+ 
+ Sander Daems  says: 
+ 
+ April 7, 2011 at 7:46 AM 
+ Thanks, good reading… this helped me out 🙂 
+ Reply __ 
+ 
+ Kapfunde Stanley  says: 
+ 
+ May 19, 2011 at 7:34 AM 
+ Thank you so much.Had read so many posts without success.exceellnet post. 
+ Reply __ 
+ 
+ safiyulla  says: 
+ 
+ July 11, 2011 at 9:03 AM 
+ Very easy steps, thanks a lot 
+ Reply __ 
+ 
+ Rajendra M G  says: 
+ 
+ August 4, 2011 at 2:17 AM 
+ Good article…….. 
+ Reply __ 
+ 
+ Leta Lane Wellman  says: 
+ 
+ March 24, 2014 at 2:53 PM 
+ Thank you!! This saved me a HUGE amount of time and worries!! 
+ Reply __ 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ 
+ May 2009 M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 
+ 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 
+ 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 
+ 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 
+ 
+ 
+ « Apr   Jun » 
+ Category Cloud 
+ iOS   Java   Mac OS   Other   PC Other   SQL   Uncategorized   Windows   Windows Server 2003 
+ Tags 
+ 2005   apple   backup   case   charindex   chart   check   collation   command   connect server   connect sql server to mysql server   convert   data   database   database mail   date   directory   file   float   folder   getdate   graph   int   ios   iphone   Java   JAVA ReDirect System.out.Println() to file   JAVA replace string within a string   java substring example   jframe   jobs   JOptionPane   jscrollpane   jtable   linked server   log   logs   look and feel   mac   mac osx   maximise   maximised   MySQL   mysql linked server   objective-c   ODBD   osx   output   replace   restore   scroll   SELECT   Select column names and column data from SQL table   send email from sql server   server   setup   Shrink   sp_send_dbmail   SQL   sql email   SQL select data into a variable   sql server   SQL Server 2005   SSMS   String   Strings   System.out.Println()   t-sql   table   temptb   text file   tsql   update   variable   windows 
+ Links 
+ 
+ cleverappco.com 
+ Linkedin 
+ robbamforth.com 
+ 
+ Blog Stats 
+ 
+ 506,518 hits 
+ 
+ 
+ 
+ 
+ May 2009 M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 
+ 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 
+ 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 
+ 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 
+ 
+ 
+ « Apr   Jun » 
+ Connect 
+ 
+ Twitter 
+ Linkedin 
+ Blog 
+ 
+ Links 
+ 
+ cleverappco.com 
+ Linkedin 
+ robbamforth.com 
+ 
+ Blog Stats 
+ 
+ 506,518 hits 
+ 
+ Blog at WordPress.com. 
+ Back to top 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

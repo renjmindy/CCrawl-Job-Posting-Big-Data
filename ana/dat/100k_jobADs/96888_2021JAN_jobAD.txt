@@ -1,0 +1,119 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Front End Developer REMOTEPERMANENT 
+ Job Description 
+ We're looking for a Craft and JavaScript front-end-developer. 
+ The role is maintaining existing Craft websites and building new Craft websites using modern technologies including React and Gatsby. 
+ Who we are 
+ We are a Craft specialist web design and development agency. Our clients include well known magazines, multi-national corporations, non-profits, and construction & built-environment leaders. 
+ Founded in 2016, we've built a strong agency around collaboration with clients and on-going relationships where we continuously iterate on almost all of our client's websites. 
+ The role in detail 
+ Your day to day role will be a mixture of supporting existing Craft websites and building new ones. 
+ Supporting might include software updates, adding new features, rebuilding sections or optimisation. 
+ Many of our new builds will be using Gatsby and other modern web technologies. You'll have the ability to grow and contribute to some of the largest Craft and Gatsby websites being built. 
+ We think tools like Slack are bad for work. They breed anxiety and an always on-ness that makes otherwise reasonable people hotheaded. So we take things a little slower, talking in asynchronous threads on GitHub and Basecamp at our own pace and letting the right decision come to us. You'll be getting involved with these conversations and adding to the debate. 
+ To help balance your time, you'll spend 2 hours a day catching up, collaborating on GitHub issues, and learning new skills. The rest of the time we leave you alone to focus and get your head into the day's challenge (unless a server goes down, in which case MAYDAY MAYDAY!) 
+ You'll be reporting to the production director. 
+ Why we're hiring 
+ We're strengthening our team so that we can take longer to get details on projects right, keep up with our increasing on-going development and support responsibilities, and make sure we keep our clients happy. 
+ Requirements 
+ 
+ Craft CMS experience 
+ Twig front end development experience 
+ Git experience 
+ Modern JavaScript (ES6 without the need for jQuery) 
+ Comfortable writing SCSS 
+ Willingness to learn and grow 
+ Comfortable speaking to clients 
+ Be able to work on your own and with others 
+ Nice person 
+ 
+ Excellent to have 
+ 
+ React experience 
+ Gatsby experience 
+ 
+ The good bits about working here... 
+ 
+ You can work wherever you want in the UK - or work in our unusually warm office in Hastings with sea views. 
+ We have very cool clients that are easy to work with 
+ You have a weekly dev team calls to discuss and pitch ideas and share what you've learnt. 
+ You have optional daily 1-on-1s with the production director to talk through anything you want a hand with. 
+ You get to play with technologies like Gatsby that many other Craft agencies haven't yet had a chance to. 
+ The management invites feedback on most decisions as a matter of course. 
+ You'll be invited to input on whether or not we take on a project. You might not like the subject matter, or the company, or could just not be feeling it. It's not a veto per se, but your voice is heard. 
+ We'll invest in your learning and professional development. 
+ We'll buy you the tech you need. 
+ We have a good work/life balance. We ask for 7 hours of work a day and are flexible around your life and we rarely ask for anymore than that. 
+ We're small enough to influence, but big enough to do interesting work. 
+ 
+ The bad bits about working here... 
+ 
+ We're constantly reviewing how we work and when we make mistakes we adjust. Some people might find the pace of change at the company a bit overwhelming. 
+ Sometimes there's a lot happening at once and with remote working you'll sometimes need to poke somebody to find out what the priorities are. 
+ 
+ Our company values 
+ As well as the technical qualities we hire people based on how they fit with our company values and if they believe in them. Below is a summary of what we believe. 
+ 
+ Share and be open. Share what you're excited about, working on, wanting to learn, or feeling. 
+ Experiment and play. Take time each day to learn something new. 
+ More haste, less speed. Take time to think, chat things through, draw up plans. It'll get work done faster with less stress, and give more time for fun stuff. 
+ For You - For Them. You'll be supporting the sites you work on for years to come, so make it lovely to work on - but also make it a great user experience. 
+ Never feel like an imposter. You'll be here because you belong here and are believed in. 
+ You live for this. The best in our industry are always learning, toying with something, and getting excited by the next big thing. 
+ 
+ Salary 
+ The salary for this position is £35,000. We're transparent about our salaries and make sure that teammates in the same role are paid equally. Mutual work, mutual pay. 
+ How to Apply 
+ Email  [email protected]  with an introduction including information about yourself, a CV if you have one, and examples of work (by way of GitHub repos, ZIPs, or links to websites) highlighting the specific parts you were involved in if it was a group effort. 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Mutual 
+ 
+ __ 
+ 
+ Location:  United Kingdom 
+ 
+ __ 
+ 
+ Phone Number:  [01424 559 858](01424 559 858) 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://madebymutual.com 
+ __  Posted April 23, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

@@ -1,0 +1,242 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Data Scientist 
+ European Southern Observatory 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Data Scientist 
+ European Southern Observatory 
+ [](mailto:?subject=Data%20Scientist&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14241048/data-scientist/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 23, 2020 
+ Location: 
+ Santiago, Chile 
+ __ Show Map 
+ Type: 
+ Full Time - Experienced 
+ Job Function: 
+ Other 
+ Years of Experience: 
+ 3-5 
+ Industry Category: 
+ Government/Non-Profit 
+ Preferred Education: 
+ Masters 
+ In the framework of the development of future site operations the Paranal Observatory is preparing operations of the VLT and the ELT in an Integrated Operations concept. The key mission of the selected candidate will be to lead the definition and implementation of an observatory-wide Data & System Analysis approach, enhancing the efficiency and effectiveness of all these distributed and complex operations disciplines. **** 
+ Main Duties and Responsibilities: 
+ The Data Scientist postholder will be responsible for defining and implementing a Data & System Analysis approach that makes efficient use of state-of-the-art data science and ML/AI techniques and tools in order to: 
+ 
+ enhance global system understanding, 
+ train, evaluate, and deploy models that solve operational problems, 
+ detect anomalies and trigger on-condition maintenance, 
+ monitor and guarantee the system performances, 
+ optimize the scheduling of technical and scientific operations. 
+ 
+ He/She will: 
+ 
+ Define and coordinate, in close collaboration with the Observatory Systems Engineering, all data & system analysis-related activities at the observatory. 
+ Define and implement a strategy for data & system analysis, tailored for the observatory:
+ 
+ Explore the fields of data science and ML/AI techniques applied to observatory operations, by defining and managing demonstration and exploratory studies. 
+ Propose and implement system analysis solutions that are based on classical and ML/AI based approaches. 
+ Perform trade-off between cloud-based, on-premise and hybrid solutions. 
+ 
+ 
+ Coordinate and guide the creation of a multidisciplinary Data & System Analysis team. 
+ Lead the improvement and evolution of the engineering data archive:
+ 
+ Define and implement an efficient quality control scheme for the engineering data archive and associated tools for system analysis 
+ Identify future needs of the observatory in order to propose and implement hardware and software improvements. 
+ Support the definition and implementation of an efficient user-support scheme. 
+ 
+ 
+ Identify, provide and coordinate training activities. 
+ Establish and coordinate cooperations with other scientific organizations and universities. 
+ 
+ Reports to: 
+ Head of La Silla Paranal Observatory Director’s Office 
+ 
+ Key Competences and Experience   : 
+ Essential Competences and Experience 
+ 
+ Proven track record of working with engineering/scientific data, especially in system analysis, data mining and machine learning. 
+ Ability to prototype software in common programming or scripting languages (e.g. python). 
+ Ability to understand the principles of complex systems (telescopes, scientific instruments) in order to link data to system performance. 
+ Interest and ability to build-up, coordinate and train a multidisciplinary team. 
+ Strong conceptual and analytical skills. 
+ Good interpersonal communication skills and ability to work collaboratively in a multidisciplinary and multicultural team, respecting individual differences. 
+ Right balance between maintaining the big picture and a hands-on attitude to get things done with a proactive can-do attitude. 
+ 
+ Desirable Competences and Experience 
+ 
+ 
+ Working experience in a scientific environment. 
+ 
+ 
+ Experience in performance monitoring/analysis of complex (scientific) systems. 
+ 
+ 
+ Experience in anomaly detection. 
+ 
+ 
+ Working experience with Microsoft Azure and in particular Azure Machine Learning Service. 
+ 
+ 
+ A research record in the system analysis and/or ML/AI field. ** 
+** 
+ 
+ 
+ Qualifications:  ** ** 
+ A Master's degree or equivalent in relevant disciplines, e.g. data science, computer science, engineering, physics, or astronomy is required. A PhD in a relevant field will be a strong asset. ** ** 
+ Language skills: 
+ The position requires an excellent command of the English language. ** ** 
+ Remuneration and Contract:  ** ** 
+ We offer an attractive remuneration package including a competitive salary (tax free), comprehensive health insurance, educational and other social benefits, as well as financial help in relocating your family. 
+ The initial contract is for a fixed term duration of one year with the possibility of a fixed-term extension subject to individual performance and organisational requirements and as defined in the applicable policies and staff rules and regulations. For any further information, please visit  https://www.eso.org/public/jobs/conditions/paidassoc/ . 
+ Duty Station:  ** ** 
+ ESO office in Santiago de Chile, with regular duty trips to ESO observatory sites in Chile. The working schedule will be Monday to Friday. 
+ Career Path:  V 
+ Application: 
+ If you are interested in working in areas of frontline science and technology and in a stimulating international environment, please visit  http://www.eso.org  for further details. 
+ Applicants are invited to apply online at  http://jobs.eso.org/ . Applications must be completed in English and should include a motivation letter and CV. Within your CV, please provide the names and contact details of three persons familiar with your work and willing to provide a recommendation letter upon request. Referees will not be contacted without your prior consent. 
+ Deadline for applications is 25.01.2021.  ** ** 
+ Interviews are expected to start soon after this date. 
+ No nationality is in principle excluded, however, recruitment preference will be given to nationals of Australia, Austria, Belgium, the Czech Republic, Denmark, Finland, France, Germany, Ireland, Italy, the Netherlands, Poland, Portugal, Spain, Sweden, Switzerland, the United Kingdom and Chile irrespective of gender, age, disability, sexual orientation, race or religion. 
+ 
+ NOTES: 
+ Employer will assist with relocation costs. 
+ Internal Number: 2020_0065 
+  __  Create a Job Alert for Similar Jobs  
+ About European Southern Observatory 
+ The European Organisation for Astronomical Research in the Southern Hemisphere (ESO) is the foremost intergovernmental astronomy organisation in Europe and the world’s most productive ground-based astronomical observatory. ESO carries out an ambitious programme focused on the design, construction and operation of powerful ground-based observing facilities enabling astronomers to make important scientific discoveries. ESO operates three unique world-class observing sites in northern Chile: La Silla, Paranal and Chajnantor (home to ALMA and APEX), and the ESO Headquarters are located in Garching, near Munich, Germany. At Paranal, ESO operates the Very Large Telescope, the world's most advanced visible-light astronomical observatory, and will host and operate the southern array of the Cherenkov Telescope Array, the world’s largest and most sensitive high energy gamma-ray observatory. ESO is a major partner in ALMA, the largest astronomical project in existence. And on Cerro Armazones, ESO is building the 39-metre Extremely Large Telescope (ELT), which will become "the world's biggest eye on the sky" and whose operations will be fully integrated into the Paranal Observatory. 
+ Connections working at European Southern Observatory 
+ More Jobs Like This 
+ 
+ 
+ 
+ Optical Systems Scientist 
+ __  Santa Barbara, California 
+ 
+ 
+ 
+ 
+ Thorlabs, Inc. 
+ __Today 
+ 
+ 
+ Postdoctoral Researcher in Integrated Photonics 
+ __  College Park, Maryland 
+ 
+ 
+ University of Maryland 
+ __1 Month Ago 
+ 
+ 
+ Machine Learning Engineer 
+ __  Singapore, Singapore 
+ 
+ 
+ Charterhouse Partnership Singapore, EA Licence No: 16S8066 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

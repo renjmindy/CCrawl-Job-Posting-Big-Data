@@ -1,0 +1,196 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Sr. Software Engineer I 
+ State Street Corporation 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Sr. Software Engineer I 
+ State Street Corporation 
+ [](mailto:?subject=Sr%2E%20Software%20Engineer%20I&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14308192/sr-software-engineer-i/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 14, 2021 
+ Location: 
+ Burlington, Massachusetts 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Who we are looking for 
+Charles River Development, a State Street company, is growing and we are seeking a strong C# software engineer to build out the next generation of our software test automation infrastructure as part of our Quality Assurance Infrastructure team. The team is responsible for designing, developing, delivering and supporting the software infrastructure that enables automated product validation to the rest of the development community at Charles River Development. This team also provides services for planning and the executing central automated regression runs for all product departments. In addition, this team is responsible for maintaining and expanding the labs which host both automated and manual testing as well as conducting staging and certification the product media during the ship-stage of release. We continue to be a market leading solution for investment managers across the Institutional investment, Wealth Management and Hedge Fund industries. We are looking for dynamic, engaging and creative Client Managers to help drive our continued growth. 
+ Why this role is important to us 
+The team you will be joining is a part of Charles River Development (or CRD), that became a part of State Street in 2018. CRD helps create enterprise investment management software solutions for large institutions in the areas of institutional investment, wealth management and hedge funds. Together we have created first open front-to-back platform - State Street Alpha, that was launched in 2019. 
+Join us if delivering next generation infrastructure, using emerging technologies like AI and Blockchain sounds like a challenge you are up for. 
+ Responsibilities: 
+ 
+ Develop C# and ASP.net code for the management of automation infrastructure. 
+ Develop APIs using C# that facilitate the creation of rich automation test suites by the product development teams. 
+ Provide C# automation support and guidance to Dev Teams. 
+ Debug and correct problems in the automation infrastructure code. 
+ Perform performance profiling of code and systems and propose solutions to address defects. 
+ Provide support for Linux and Windows environments. 
+ Provide support for Oracle and MSS environments. 
+ Analyze systems and procedures and implement necessary improvements. 
+ 
+ Requirements: 
+ 
+ Must possess a BS/MS in Computer Science or equivalent. 
+ 5+ years of experience with C# development. 
+ Strong programming skills to be able to develop automation infrastructure effectively. 
+ Experience with ASP.net web development. 
+ Experience with Java, PowerShell and batch scripts. 
+ Experience with virtualization technologies such as VMware, Docker, etc. 
+ At least 5 years of experience with various automation tools. 
+ Experience with automation tools Silk4Net, Protractor, Rest-Assured, Cucumber is a plus. 
+ Experience with public cloud Azure or AWS is a plus. 
+ Experience with build and deployment tools TeamCity, Terraform, Ansible is a plus. 
+ At least 3 years of experience with Linux and Oracle and SQL Server database. 
+ Knowledge of Agile/Scrum Development processes, QA processes and standards. 
+ Ability to conduct administration in Windows and Linux environments. 
+ Excellent communication skills. 
+ Ability to multitask ongoing project tasks while supporting a variety of incoming questions from the development community. 
+ Ability to provide guidance on how to troubleshoot issues. 
+ Experience in the financial industry a plus. 
+ 
+ About State Street 
+What we do. State Street is one of the largest custodian banks, asset managers and asset intelligence companies in the world. From technology to product innovation we're making our mark on the financial services industry. For more than two centuries, we've been helping our clients safeguard and steward the investments of millions of people. We provide investment servicing, data & analytics, investment research & trading and investment management to institutional clients. 
+Work, Live and Grow. We make all efforts to create a great work environment. Our benefits packages are competitive and comprehensive. Details vary in locations, but you may expect generous medical care, insurance and savings plans among other perks. You'll have access to flexible Work Program to help you match your needs. And our wealth of development programs and educational support will help you reach your full potential. 
+Inclusion, Diversity and Social Responsibility. We truly believe our employees' diverse backgrounds, experiences and perspective are a powerful contributor to creating an inclusive environment where everyone can thrive and reach their maximum potential while adding value to both our organization and our clients. We warmly welcome the candidates of diverse origin, background, ability, age, sexual orientation, gender identity and personality. Another fundamental value at State Street is active engagement with our communities around the world, both as a partner and a leader. You will have tools to help balance your professional and personal life, paid volunteer days, matching gift program and access to employee networks that help you stay connected to what matters to you. 
+State Street is an equal opportunity and affirmative action employer. 
+Discover more at www. StateStreet.com/careers . 
+ 
+ 
+ Internal Number: 9785835 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at State Street Corporation 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Sr. Salesforce Marketing Cloud Engineer 
+ __  Nationwide 
+ 
+ 
+ 
+ 
+ Capital Group 
+ __1 Month Ago 
+ 
+ 
+ Sr Engineer HPC, Scientific Computing 
+ __  Brookline, Massachusetts 
+ 
+ 
+ Dana-Farber Cancer Institute 
+ __1 Month Ago 
+ 
+ 
+ Electrical Engineer I - Senior 
+ __  Little Rock, Arkansas 
+ 
+ 
+ Arkansas Electric Cooperatives 
+ __2 Months Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

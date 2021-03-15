@@ -1,0 +1,189 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Ai Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ AiWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Platform/DevOps Engineer 
+ [ 
+ Risk Ident 
+ ](/companies/risk-ident) 
+ 
+ Remote 
+ 13 January, 2021 
+ Apply 
+ More jobs from Risk Ident About Risk Ident 
+ Salary 
+ €60K - 75K 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Ansible 
+ Docker 
+ DevOps 
+ JVM 
+ KUBERNETES 
+ Linux 
+ 
+ Benefits & perks 
+ 
+ Relocation 
+ Sponsorship available 
+ 
+ Become a real online detective and fight the bad guys using the latest tools and technologies! 
+ Role overview 
+ 100% remote possible, but German residential address required 
+ Become the Sherlock Holmes of the web and help our clients to detect the fraudsters among their customers. In this never ending race, we are beating the bad guys with technology! 
+ As a  Platform / DevOps Engineer (f/m/d)  you are a member of the platform team which optimizes the current infrastructure providing the newest version of our fraud prevention software “Frida2”. We are looking for someone who has worked with Kubernetes and virtualisation/container technologies before. Troubleshooting distributed systems and complex technology stacks are nothing new for you. If you think the team will benefit from your creativity and motivation, take the next step in your career and be part of our growing company. An open mindset and your flexibility to adapt to situations and organise yourself will help you to deal with today's challenges of working remotely. 
+ Tasks: 
+ 
+ Participate in strategic infrastructure planning and implementation 
+ Collaboration with our Development teams to solve challenges around our software product 
+ Maintain and optimise our core services such as Kubernetes, MongoDB, Kafka and Elasticsearch 
+ Automation and configuration management via Ansible 
+ Configuration and optimisation of our Monitoring/Metrics infrastructure (Prometheus/Grafana) 
+ Be part of our OnCall rotation 
+ 
+ Requirements: 
+ 
+ 2 to 3 years of experience in a similar role 
+ Linux is your choice of operating system (at least in the rack) and you feel comfortable with it 
+ Basic understanding of IP networking, Load Balancing, Firewalling 
+ You successfully write Ansible roles and have a solid understanding of at least one scripting language 
+ You get the concept of container orchestration via Kubernetes and related abstraction layers (We host our stuff on-premise) 
+ Bonus points for experience with JVM applications, MongoDB, Kafka and Elasticsearch 
+ A university degree won’t hurt, but we value practical knowledge more than formal education 
+ Good English language skills (German is a plus) 
+ 
+ What we offer 
+ 
+ The possibility to take over responsibility and to realise your own ideas – from day one 
+ Collaborative environment in which everyone works on eye-level 
+ A team of professionals that allows you to learn something new every day 
+ Very friendly and open environment 
+ Flexible remote work guideline with emphasis on team alignment 
+ Access to an online learning platform 
+ Free choice between Lenovo ThinkPad T-Series and 16” Apple MacBook, and free choice of operating system 
+ Public transport & lunch allowance 
+ Regular workout sessions at no charge (shower in the office) 
+ Attractive discounts at various partner shops and gyms 
+ Relocation support: constant contact person, issuing documents, help with public offices, translation support, etc. 
+ And many more! 
+ 
+ 
+ [ 
+ Risk Ident 
+ ](/companies/risk-ident) 
+ 
+ 50-249 
+ 
+ RISK IDENT is a young and fast-growing software development company based in Hamburg, Germany. Founded in 2012, our team became one of the market leaders within fraud prevention in the German speaking market in a very short period of time. Today, RISK IDENT has a strong customer base, the majority of our customers coming from e-commerce, telecommunications and financial services. We secure more than 50 billion euros of annual turnover against fraud for our customers. We are an established start-up with an innovative SaaS business model. We have an excellent market position and are financially backed. Today, our team consists of around 70 people at our HQ in Hamburg, with every single one of them loving what they do. We are always on the lookout for new challenges and for smart people to accompany us along the way! Today, our team consists of around 50 people at our HQ in Hamburg, with every single one of them loving what they do. We are always on the lookout for new challenges and for smart people to accompany us along the way! 
+ Technology Private Functional Scala Visa Sponsorship Akka Ansible Cats Cloud relocation sponsorship available 
+ View 1 job 
+ Engineers who find a new job through Ai Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Risk Ident About Risk Ident 
+ Salary 
+ €60K - 75K 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Ansible 
+ Docker 
+ DevOps 
+ JVM 
+ KUBERNETES 
+ Linux 
+ 
+ Benefits & perks 
+ 
+ Relocation 
+ Sponsorship available 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Ai Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Ai Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ System's EngineerCompetitiveAndalusUnited Arab Emirates 
+ Design, build, and maintain the core data computation infrastructure used by data scientists 
+ Remote 
+ aws ansible docker kubernetes spark 
+ More Info Apply 
+ Blockchain Infrastructure EngineerCompetitiveMetastateSwitzerland 
+ Evaluate, deploy, monitor, and maintain the latest generation of proof-of-stake blockchain networks 
+ Remote 
+ ansible docker devops google cloud security amazon aws 
+ More Info Apply 
+ Senior DevOps CompetitiveStuartSpain 
+ Sr. DevOps who will focus on automation and optimization of the platform's development management lifecycle. 
+ Remote 
+ aws ansible kubernetes linux python terraform unix 
+ More Info Apply 
+ Platform/DevOps Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Data Science jobs Data Engineering jobs Machine learning jobs Artificial Intelligence jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Data Science articles Machine learning articles Artificial Intelligence articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

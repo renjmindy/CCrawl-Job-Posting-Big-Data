@@ -1,0 +1,79 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Recurrency (S20) 
+ Automated ERP for wholesalers 
+ Senior Frontend Engineer 
+ 
+ Location 
+ Los Angeles, CA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Recurrency 
+ Recurrency is building the automated enterprise. Our product is the world's first enterprise optimization system (EOS), a machine learning application that integrates with a legacy enterprise resource planners (ERP) like SAP, Oracle, Microsoft Dynamics, or Epicor, and provides the user with recommendations on how to better buy, manage, price, and sell their inventory. Our customers are wholesalers, ranging from family-owned distributors to the Fortune 500. Despite being a multi-trillion dollar industry, wholesale distribution has a striking lack of software to support even basic operations, with most ERPs dating to the 1990s. Located in Los Angeles and supporting a fully-remote team, we are a well-funded seed-stage startup, backed by Bessemer Venture Partners, Lachy Groom, and Y Combinator. 
+ About the role 
+ Skills:  Python, React 
+ Who we are 
+ Recurrency is building the automated enterprise. Our product is the world's first enterprise optimization system (EOS), a machine learning application that integrates with a legacy enterprise resource planners (ERP) like SAP, Oracle, Microsoft Dynamics, or Epicor, and provides the user with recommendations on how to better buy, manage, price, and sell their inventory. Our customers are wholesalers, ranging from family-owned distributors to the Fortune 500. Despite being a multi-trillion dollar industry, wholesale distribution has a striking lack of software to support even basic operations, with most ERPs dating to the 1990s. Located in Los Angeles and supporting a fully-remote team, we are a well-funded seed-stage startup, backed by Bessemer Venture Partners, Lachy Groom, and Y Combinator. 
+ As a Senior Frontend Engineer, you will co-lead the design and development of our web and mobile applications. You will have ownership over mission-critical components of our software stack, and you will influence the company's product, team, culture, and brand. 
+ What you will own 
+ 
+ Design and implementation of dashboard and supporting API 
+ Design and implementation of Recurrency's CI/CD and testing pipeline 
+ Partnership with data scientists and customers to iteratively improve workflows 
+ 
+ What you will bring 
+ 
+ 3+ years of full-time engineering experience, excluding education and internships 
+ Experience and passion for React and building beautiful software 
+ Excitement to join a small and mighty team and to build a strong engineering culture 
+ Experience with a legacy ERP or excitement to learn about them 
+ Joie de vivre 
+ 
+ Our frontend stack:  React, Python, Heroku, MongoDB, Algolia. 
+ Technology 
+ Our stack: 
+ 
+ Python (Flask, PyTorch) 
+ React (with TypeScript) 
+ SQL 
+ Docker 
+ AWS 
+ Heroku 
+ MongoDB 
+ 
+ Other jobs at Recurrency 
+ Senior Fullstack Engineer 
+ fulltime 
+ Los Angeles, CA / Remote 
+ Full Stack 
+ 3+ years 
+  Senior Backend Engineer 
+ fulltime 
+ Los Angeles, CA / Remote 
+ Backend 
+ 3+ years 
+ Senior Frontend Engineer 
+ fulltime 
+ Los Angeles, CA / Remote 
+ Frontend 
+ 3+ years 
+ Head of Business Development 
+ fulltime 
+ Los Angeles, CA / Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,94 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Craft CMS / PHP developer position LOCALPERMANENT 
+ Job Description 
+ Mud are a leading digital agency in the South West, based in beautiful Bath. We're offering a salary of up to £40k for an enthusiastic web developer with good knowledge of Craft CMS to join our team. 
+ You’ll be proficient in PHP, you'll know your way around a web server; building a solution that performs well for both our client and our client's users. We’ll give you an easy going, fun place to work, and a variety of interesting projects to work on. 
+ The role 
+ You’ll be building websites from the ground up, predominantly on the Craft CMS platform. You will be involved throughout the project, from the planning stage through to testing/QA, deployment, delivery and post-launch support. You will typically be working on 2-3 projects at a time integrating high quality frontend code into content management systems and dynamic web apps. 
+ You'll also be working with the team in supporting our catalogue of existing sites and providing ongoing support to our project managers and clients. 
+ You will be enthusiastic about web development and excited about new tools, techniques and technologies but know when this distracts from Getting Things Done. You must be self-motivated, organised and focused in your work but happy collaborating with others. 
+ What you'll get 
+ 
+ A salary of between £30k - £40k, depending on experience 
+ A range of exciting projects to work on, for a mix of clients big and small 
+ A sensible work / life balance - no mad Friday night deadlines here, we know a successful creative agency can be run on a normal 7.5 hour routine 
+ 23 days holiday, and usually extra time off around Xmas, and your birthday off 
+ Pension Scheme with employer contributions 
+ Flexible working and remote working opportunities (now, obviously, but ongoing as well) 
+ Constant opportunities to learn - we support our team to develop as much as we can 
+ A £500 'curiosity and inspiration' training budget 
+ A supportive and friendly working environment 
+ Regular socials 
+ 
+ Necessary skills and requirements 
+ 
+ Experience in building websites using the Craft CMS 
+ Experience developing custom PHP with Yii or similar framework (eg Laravel) 
+ Using version control systems, notably Git 
+ Configuring and working with LAMP/Nginx server hosting and DNS 
+ Working/integrating with third-party APIs 
+ Organisational skills to make most effective use of your time 
+ 
+ Nice to haves 
+ 
+ Experience with Wordpress 
+ Good knowledge of HTML and CSS 
+ Experience building out APIs from CMS platforms 
+ Building and working with eCommerce websites, payment gateways, etc 
+ Familiarity with other front-end technologies, especially JavaScript/AJAX 
+ 
+ The role will be based in our Bath office when we can all safely return, but we're also open to fully remote working, albeit based in the UK only 
+ How to Apply 
+ Please email your CV - outlining your skills, experience (including examples of your work) and interests along with links to Github and Twitter profiles (if relevant) - and a covering letter to  [email protected] 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Mud 
+ 
+ __ 
+ 
+ Location:  Bath, UK 
+ 
+ __ 
+ 
+ Phone Number:  [01225 4714675](01225 4714675) 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   http://ournameismud.co.uk/ 
+ __  Posted July 16, 2020 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

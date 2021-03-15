@@ -1,0 +1,184 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ API Developer 
+ at Push Doctor 
+ go back to Developer Jobs 
+ 
+ 
+ __Manchester 
+ 
+ 
+ __fulltime 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __Manchester 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ We are looking for Software Engineers to join our API team. Our API team are scaling up our services and are actively migrating to a sophisticated microservice architecture to underpin the future of digital health. To facilitate this you will be responsible for: 
+ 
+ Analysing, planning and maintaining production systems on Azure / AWS as they scale in capacity and complexity 
+ Help defining internal and external SLAs 
+ Leading our automated efforts including infrastructure as code solution(s) 
+ Work with multiple teams and technical leadership to define an audit-able and compliant production system 
+ Participate in 24/7 on-call rotation policy by responding to system and emergency problems and help us establish best-practice in this area 
+ 
+ We have a fantastic office in Manchester City Centre and offer flexible working hours andremote working options. 
+ Requirements 
+ 
+ Able to lead and contribute to projects within the API team, and the critical path of development. 
+ Collaborate with the rest of the technology, product and design team to deliver features that add value. 
+ Work to development standards and ensure they are upheld. Contribute to continual improvement of standards and development practices 
+ Support the teams QA responsibility, through PR review's, automated and manual testing 
+ Deployment, manage roll back procedures and oversee deployment 
+ Pair and work collaboratively with others 
+ 
+ Key skills and past experience should include 
+ 
+ Knowledge and 2+ years' experience of .Net C#. and WebApi 
+ Have an understanding and focus on clean code, TDD and SOLID principles and testing automation 
+ Experience of .Net Framework, .Net Standard & .Net Core solutions and working on high quality, secure web applications in a production environment 
+ Knowledge and understanding of relational databases, preferably Azure SQL including stored procedures, functions, triggers 
+ Knowledge/Experience of NoSql Datastores, Cosmos, Mongo 
+ Knowledge of Entity Framework, LINQ, Membership and Identity 
+ Knowledge of WCF and WebAPI and demonstrable experience of delivering secure REST 
+ Knowledge of Source control eg. Git 
+ Test driven development and ideally automated testing experience 
+ Ideally you will have some exposure to SignalR or other real time messaging technologies 
+ Experience of working with CI/CD, and understanding of its importance 
+ Experience of working within an Agile environment 
+ Knowledge of Azure (Web Apps, Functions, web roles and worker roles, data stores etc) 
+ 
+ Company Overview 
+ Push Doctor is a multi-award-winning digital health company that enables you to have a video consultation with a GP within 6 minutes on any device. We're growing at a phenomenal pace and we're looking for amazing people to join us on our game-changing adventure to make millions of people healthier and happier. 
+ You will be firmly hands-on with most of your time working with designers, developers and testers to deliver high quality scalable applications to support product delivery.  You will be excited to work in a high-growth organisation, eager to rise to the challenge. 
+ Push Dr Values: 
+ Empathy 
+ We are curious, caring and passionate. We have experienced healthcare ourselves and use research and insight to understand the aspects of healthcare we have yet to experience. Whenever empathy seems out of reach, we are proactive in bringing it into focus. 
+ Ambition 
+ We carve the path for others to follow, setting industry standards and transforming healthcare for the better. We are anything but new to this and have so much to be proud of. Together, we are unstoppable. 
+ Resilience 
+ Everything we do should add value to our service. We optimise and occasionally overhaul every aspect of the experience we provide, challenging expectations of what health can (and should) be. This isn't something that happens overnight, so we need to be resilient and never lose faith. 
+ **Person Specification  ** 
+ 
+ Autonomy   - Exercises substantial personal responsibility and autonomy. Plans own work to meet given objectives and processes. 
+ **Collaboration  **- Understands that collaboration with the wider business is the key to success. Actively seeks out and promotes cross-discipline collaboration to realise the best possible solutions 
+ Influence   - Influences team and specialist peers internally. Influences customers at account level and suppliers. Has some responsibility for the work of others and for the allocation of resources. Makes decisions which influence the success of projects and team objectives. 
+ **Complexity  **- Performs a broad range of complex technical or professional work activities, in a variety of contexts. Investigates, defines and resolves complex problems. 
+ Business skills   - Selects appropriately from applicable standards, methods, tools and applications. Demonstrates an analytical and systematic approach to problem-solving. Communicates fluently orally and in writing, and can present complex technical information to both technical and non-technical audiences. Plans, schedules and monitors work to meet time and quality targets. 
+ 
+ Benefits & Additional information 
+ 
+ Competitive Salary 
+ In house gym 
+ Ping Pong table 
+ Free snacks / food / drinks / fruit in the office 
+ Flexible working hours 
+ Working from Home Policy 
+ Life Insurance 
+ Enhanced family friendly policies 
+ EAP helpline 
+ Meditation app - Headspace 
+ 
+ Published at 17 Nov 2020 - Expires on 31 Jan 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Push Doctor 
+ fulltime  Senior Frontend Developer  at Push Doctor in Manchester 
+ __03-06-2020 
+ fulltime  Head of Web Development  at Push Doctor in Manchester 
+ __16-11-2020 
+ fulltime  Senior API Developer  at Push Doctor in Manchester 
+ __17-11-2020 
+ fulltime  Senior Platform Engineers  at Push Doctor in Manchester 
+ __18-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

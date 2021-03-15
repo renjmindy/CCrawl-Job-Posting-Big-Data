@@ -1,0 +1,6 @@
+ Qualifications 
+ BS/MS in Computer Science or related fields, or equivalent experience 
+ Experience working with Unity 
+ Proficient in C# 
+ Comfortable working within an established code base and conforming to existing code standards and best practices 
+ Ability to design and implement game systems, mechanics and features within an established framework 

@@ -1,0 +1,15 @@
+Skip to content 
+ 
+ /home/telatin 
+ a web notebook to store some memos… 
+   
+ Tag: cron job 
+ linux 
+ Test cron scripts 
+ From a  question in Ask Ubuntu , i found this useful way to test the behaviour of a script that one wants to run as a cron job: 
+ /bin/sh -c "(export PATH=/usr/bin:/bin; /path_to_script/script.php </dev/null)"
+ 
+ April 18, 2018April 18, 2018 cron ,  cron job ,  crontab Leave a comment 
+ Create a free website or blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

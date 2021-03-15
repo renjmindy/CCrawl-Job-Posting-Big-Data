@@ -1,0 +1,87 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ PocketSuite (W16) 
+ PocketSuite is the app for anyone with clients. 
+ Lead Software Engineer 
+ $100k - $144k • 0.50% - 2.00% 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About PocketSuite 
+ PocketSuite is a YC-backed mobile platform for service professionals, independent businesses, freelancers, contractors, gigsters, part-time, and other non-traditional workers - helping them message, schedule and collect payment from their clients. PocketSuite empowers the U.S. market of 57 million freelancers, generating $1.2 trillion in sales with a mobile operating system for running their business. 
+ We believe the “Future of Work” is people working remotely, for themselves, wherever, and whenever and making good income. Our team is living proof that this future is possible ​and inevitable​. “If you ask 9 out of 10 people if they want to work for themselves, they’ll say, “Heck yes!” Followed by, “But how would I pay my bills?” At PocketSuite, we’re on a mission to answer that question - once and For All. 
+ With over 2 million appointments booked, $200M in payments processed, and 50 million text messages sent for businesses running on PocketSuite today, we are the stickiest SMB platform in the market with over 50% of our customers using the app every day. Once they onboard, they never look back. 
+ About the role 
+ Skills:  Android, iOS, JavaScript, Python, Go, PostgreSQL, Nginx, React, Linux 
+ Summary 
+ PocketSuite is the app for anyone with clients. A YC-backed mobile platform for service professionals, independent businesses, freelancers, contractors, gigsters, part-time, and other non-traditional workers - helping them message, schedule and collect payment from their clients. PocketSuite empowers the U.S. market of 57 million freelancers, generating $1.2 trillion in sales with a mobile operating system for running their business. 
+ We believe the “Future of Work” is people working remotely, for themselves, wherever, and whenever and making good income. Our team is living proof that this future is possible ​and inevitable​. “If you ask 9 out of 10 people if they want to work for themselves, they’ll say, “Heck yes!” Followed by, “But how would I pay my bills?” At PocketSuite, we’re on a mission to answer that question - once and For All. 
+ With over 2 million appointments booked, $200M in payments processed, and 50 million text messages sent for businesses running on PocketSuite today, we are the stickiest SMB platform in the market with over 50% of our customers using the app every day. Once they onboard, they never look back. 
+ Who are we looking for? 
+ We’re looking for a full stack software engineer with low-key intensity who is a generalist, curious, self-sufficient, hungry for impact, laser-focused on delivering business impact, obsessed over the details, and lastly is someone who takes the initiative by generally jumping in and doing whatever it takes to make the company, the team, and our customers a success. Your initial role will be as an individual contributor engineer reporting to the CTO & co-founder. 
+ What will you be doing? 
+ 
+ Everything from backend (messaging, scheduling, payments) to frontend (ios, android, react) to infrastructure (scaling, performance optimization, test & deployment automation). 
+ You will join the product team executing on a roadmap to delight customers, drive conversion, increase retention and grow user engagement. 
+ 
+ Are there any requirements? 
+ 
+ Masters or Bachelors degree in CS or equivalent. 
+ You more than likely have at least 5 years of work experience. 
+ You have demonstrable success as a customer champion solving customer issues, impacting the business. 
+ Deep expertise in at least four (4) of the following: iOS|Android, Python|Go, HTML|JavaScript, SQL, Payments, Machine learning, Test & deployment automation, Text message & email deliverability. 
+ Bonus points if any of the following are true: you’ve launched a product with paying users; you were a key contributor at Venmo, Shopify, EventBrite, Square (or similar); you’re the key developer behind a popular open source project. 
+ 
+ Who we are? 
+ 
+ Our rule of 5: own your own code, don’t over-engineer, focus on the 90%, eliminate meaningless work, do the right thing. 
+ We are engineers and product focused - we push major releases monthly & smaller updates every week. We manage to our north star metric (# Pros booked & paid monthly) and the product team drives many of the growth initiatives. 
+ We are customer champions - solving their problems and helping them grow and succeed in a rapidly changing market. Oh yeah we also love their 5 star reviews and referrals (which drive a lot of our new signups). 
+ We see the status quo changing - desktop solutions and siloed apps are so last year and we believe everyone in the industries we're going after will be using our mobile app as their business operating system by the year 2025. 
+ We believe three things drive our success: building a great product, delivering a 5-star customer experience, and recruiting a talented team with a 24/7 obsession with independent businesses, financial services technology, sustainable growth, and apps that solve “real world” problems. 
+ 
+ Technology 
+ iOS (Objective-C, Swift), Android (Java, Kotlin), Python, Tornado, Postgres, Redis, Celery, Linux, Nginx, Go 
+ Other jobs at PocketSuite 
+ Lead Software Engineer 
+ fulltime 
+ Remote 
+ Full Stack 
+ $100k - $144k 
+ 0.50% - 2.00% 
+ 6+ years 
+ Demand Gen Manager 
+ fulltime 
+ Remote 
+ $65k - $80k 
+ 0.25% - 0.25% 
+ 3+ years 
+ Customer Success Director 
+ fulltime 
+ Remote 
+ $80k - $100k 
+ 0.25% - 0.25% 
+ 3+ years 
+ Customer Success Specialist 
+ fulltime 
+ Remote 
+ $40k - $55k 
+ 0.15% - 0.15% 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

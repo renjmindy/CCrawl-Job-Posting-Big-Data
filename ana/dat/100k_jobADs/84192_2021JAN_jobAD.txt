@@ -1,0 +1,141 @@
+Blog Log in 
+ Translate WordPress.com 
+ 
+ Projects 
+ WordPress.com 
+ Calypso Extensions 
+ WP Job Manager 
+ Uighur 
+ 
+ Translation of WP Job Manager: Uighur  Glossary 
+ [ 
+ 9 / 98 Strings (9 %) 
+ ](/views/projects/wpcom/calypso-extensions/wp-job-manager/ug/default/) 
+ <- 1 -> 
+ Filter ↓ • Sort ↓  •   All (98)  •  Untranslated (89)  •  Waiting (0)  •  Fuzzy (0)  •  Warnings (0)  •  Current Filter (1) 
+  Term:  
+ 
+ Term Scope: 
+Originals only 
+Translations only 
+Context only 
+References only 
+Both Originals and Translations 
+Any 
+  Status:  
+ 
+ Current/waiting/fuzzy + untranslated (All) 
+Current only 
+Approved, but obsoleted by another translation 
+Waiting approval 
+Rejected 
+Without current translation 
+Any 
+  Options:  
+ 
+ With comment 
+With context 
+Case sensitive 
+With warnings 
+User: 
+   Date added (original)  
+ 
+ Date added (translation) 
+Original string 
+Translation 
+Priority 
+Filename in source 
+Random 
+ Order:
+Ascending 
+Descending 
+ 
+ 
+ 
+ 
+ 
+ Prio 
+ Original string 
+ Translation 
+ -- 
+ 
+ 
+ 
+ 
+ Pages 
+ بەتلەر 
+ Details 
+ 
+ 
+ 
+ 
+ Pages 
+ Pages 
+ 
+ بەتلەر 
+ 
+ بەتلەر 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/constants.js:19 
+ client/extensions/wp-job-manager/components/settings/pages/index.jsx:67 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ | 
+ 
+ Comments 
+ Translation Memory 
+ History 
+ Other locales 
+ 
+ Loading… 
+ Loading… 
+ Loading… 
+ Loading… 
+ <- 1 -> 
+ Legend: 
+ Current 
+ Waiting 
+ Fuzzy 
+ Old 
+ With warnings 
+ Export  all current only matching the filter as  Android XML (.xml) Portable Object Message Catalog (.po/.pot) Machine Object Message Catalog (.mo) .NET Resource (.resx) Mac OS X / iOS Strings File (.strings) Java Properties File (.properties) JSON (.json) Jed 1.x (.json) NGX-Translate (.json) Language Pack (.zip) 
+ Get Started 
+ 
+ Getting Started 
+ Community Translator Tool 
+ FAQ 
+ What is GlotPress? 
+ 
+ Learn 
+ 
+ Translation Resources 
+ Translation Style Guide 
+ Locale Glossaries and Style Guides 
+ How Theme Translations Work 
+ 
+ Collaborate 
+ 
+ Community Resources 
+ Working with Other Translators 
+ Build a Locale Glossary & Style Guide 
+ 
+ In your language 
+ Translate  WordPress.com .  Proudly powered by  GlotPress . 

@@ -1,0 +1,6 @@
+ Qualifications 
+ 5+ years of experience building highly performant software applications 
+ Good understanding of threading models and memory management 
+ Familiarity with machine architecture and assembly language 
+ Familiarity with embedded systems 
+ Good understanding of programming language and compilers concepts 

@@ -1,0 +1,166 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ Software Development Engineer 
+ GoCardless 
+ London, United Kingdom 
+ 15 October, 2020 
+ Apply 
+ More jobs from GoCardless 
+ Salary 
+ £60K - 100K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ GCP 
+ Golang 
+ JavaScript 
+ React 
+ Ruby 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Health insurance 
+ Stock options 
+ Pension contributions 
+ 
+ Help us build our global network for recurring payments 
+ Role overview 
+ If you’re looking to work in a collaborative culture, solving engineering challenges at a global scale, and having a real impact in making our products better for our customers, we would love to talk to you! 
+ We’re currently looking for an experienced Full Stack Software Engineer to work across our stack with a focus on the Frontend, working with ReactJS. 
+ We believe in providing trust and autonomy so everyone can do their best work. From how we work to how managers support you, our goal is to provide an environment that enables you to continuously grow, ask questions and not be afraid to fail—because when we do, we see it as an opportunity to learn. 
+ **  Engineering @ GoCardless: ** 
+ The technical challenges of building GoCardless span from simplifying building banking schemes to optimising the time to render the dashboard. We’re looking for engineers to join our growing Global Network Group, where you’ll be working on problems that sit at the core of GoCardless: orchestrating and keeping track of the movement of funds, as well as building and maintaining the bank and scheme integrations that make it possible to keep our merchants’ cash flowing. 
+ You will enjoy being a software engineer at GoCardless if: 
+ 
+ You’re looking to champion a great engineering culture within GC and in the wider engineering community; 
+ You enjoy collaborating and learning from people from various backgrounds and experiences; 
+ You want to feel proud of the work you’re doing and its impact on real customers. 
+ 
+ Our engineers contribute to the engineering culture within and outside of GoCardless: they contribute to Open Source Software projects (see our  Github ), and share learnings in  post-mortems , conferences and on  our blog . 
+ Our technologies  : We endeavour to build simple, reliable systems and we believe in using the best technologies for each task. Joining the Global Network Group you’ll be working in a team that primarily uses: Ruby on Rails, ReactJS, JavaScript, PostgreSQL, BigQuery, and Google Cloud Storage. 
+ You’re not expected to have expertise in all these technologies. Members of our team have picked up the tools once they’ve started working with the team. If you’re unsure, please apply. 
+ **  About You: ** 
+ 
+ You have experience building web products and services, and have an awareness of technologies across the stack. 
+ You adapt to new technologies and processes quickly. 
+ You thrive in a collaborative environment and believe the best products are built through collaboration. 
+ You care about building reliable, well-tested systems. 
+ You enjoy solving problems and are happy to take initiative to find better solutions. 
+ You enjoy mentoring and supporting the development of team members and colleagues 
+ 
+ **  About Us: ** 
+ GoCardless embraces diversity and is proud to be an equal opportunity employer. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills.  The more inclusive we are, the better our work will be . 
+ We offer a varied package of flexible working and benefit policies. From flexible working hours and working from home arrangements, through to enhanced  parental leave , pension packages and equity. GoCardless has a very family and work life balance orientated environment. Our team comes from a variety of backgrounds and we embrace diversity – if you’re unsure, please apply. 
+ In response to the COVID-19 pandemic, everyone at GoCardless has shifted to remote working since mid-March and will continue to work remotely until the end of the year. We are committed to support all employees during this time and continue to monitor the situation closely. Some of the actions we’ve taken to support the wellbeing of our employees as we transitioned to and continue working in a remote set-up are: subsidised home office equipment, remote workstation assessments, and remote wellbeing and social activities to stay in touch. 
+ GoCardless 
+ 
+ 250+ 
+ 
+ Online payments used to be expensive and time-consuming. GoCardless is changing that. GoCardless (https://gocardless.com) is a next generation payments company. We make it incredibly cheap and easy for anyone to take payments online using the Direct Debit infrastructure. Our industry-beating pricing (1% up to a maximum of £2), easy payment collection (we automate reconciliation into your accounts) and instant online sign-up mean that we are rapidly becoming the preferred online direct debit option for businesses. We are a rapidly-growing, highly technical team based in London. Combining years of financial services experience with a customer-driven approach, we are transforming online payments and the direct debit industry. We are sponsored by RBS (Royal Bank of Scotland) and regulated by the FCA (Financial Conduct Authority). To find out more about GoCardless: - Visit us: https://gocardless.com Check out our engineering blog: - https://gocardless.com/blog/tagged/engineering 
+ Finance Private GCP Golang KUBERNETES React Hooks Stock Options Pension Contributions 
+ View 1 job 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from GoCardless 
+ Salary 
+ £60K - 100K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ GCP 
+ Golang 
+ JavaScript 
+ React 
+ Ruby 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Health insurance 
+ Stock options 
+ Pension contributions 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Full-stack Software Developer (Blockchain & Web3)$600 - 600 per dayQuazard Financial GamingUnited Kingdom 
+ Are you a Software Developer who breathes Blockchain with experience in trading and a passion for gaming? 
+ Remote 
+ javascript node.js react 
+ More Info Apply 
+ Senior Software Developer£45K - 90KDriftrockLondon, United Kingdom 
+ Code in Elixir with growing Marketing tech startup 
+ elixir react ruby 
+ More Info Apply 
+ Senior Full Stack Engineer£65K - 80K + EquityMimicaLondon, United Kingdom 
+ Our software learns to automate work just by observing it 
+ Sponsorship 
+ javascript node.js python react 
+ More Info Apply 
+ Software Development Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

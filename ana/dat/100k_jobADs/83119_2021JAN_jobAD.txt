@@ -1,0 +1,184 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Engineer ~ Java/C++ 
+ [ 
+ Evolved Binary 
+ ](/companies/evolved-binary-limited) 
+ 
+ Remote 
+ 14 August, 2020 
+ Apply 
+ More jobs from Evolved Binary About Evolved Binary 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ C++ 
+ Java 
+ Rust 
+ Scala 
+ TYPESCRIPT 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Extended holiday time 
+ Own your projects from conception to launch, set your deadlines and manage yourself 
+ Self-development allowance 
+ Home office allowance 
+ 
+ NoSQL database engineer, building a multi-model db - Documents, Key-Value, and Triples. 
+ Role overview 
+ What you’ll do here 
+ 
+ You will be a major force in advancing FusionDB. You will be adding and suggesting new features, fixing issues, and improving performance. 
+ Take ownership of your role by understanding the product and building what is needed. 
+ Building and managing the delivery of major features, including - New Query Parser, Compiling Query Language to Native Code, JSON Storage, JSONiq, HTML DOM Storage, Quad Storage, and Clustering. 
+ Engage with and contribute to the existing technical communities from which we have sprung, and help build a new community around FusionDB. 
+ Become an active member of various Open Source projects. 
+ Grow with us, eventually providing mentorship and technical direction to junior team members. 
+ 
+ What we are looking for and why 
+ 
+ An outstanding engineer with experience of debugging hard issues. Many of the issues we have to investigate are low-level and often nondeterministic. 
+ Experience of concurrent programming. We make heavy use of threading, locking, and lock-free algorithms. 
+ An engineer whose primary languages are Java and/or C++. FusionDB is developed predominantly in Java, but also has modern C++ components. Like most modern developers we are also polyglot, and to a lesser extent we also make use Rust, XQuery, Scala, and TypeScript. 
+ An engineer who can quickly get to grips with a foreign code-base. We often need to add features or solve bugs in 3rd-party Open Source components. 
+ Familiarity with working in Open Source communities. When we improve Open Source code, we always try and give back for the benefit of everyone else. You should be comfortable with performing Git rebase from the terminal, juggling multiple source branches, and iterating through code-reviews (e.g. via GitHub Pull Requests). 
+ 
+ You will love this job if you… 
+ 
+ are Passionate. This is a job for someone who wants to deliver the best solution. 
+ are Highly Self-Motivated. We are a small company, and so we require inspired team members. 
+ want to Have a Voice. You can influence the product and be listened to. 
+ want others to See Your Work. We attend conferences, engage with communities, and much of our (and potentially your) work is Open Source or performed in the open. 
+ enjoy Solving Difficult Problems. Database engines touch on many parts of computer science, and in our opinion offer some of the most interesting technical challenges. 
+ 
+ Bonus points! 
+ 
+ FusionDB is multi-platform (Linux/Mac/Windows), all applicants should be comfortable working in a Linux or Mac environment by default. Experience of building C++ products on Windows is considered a bonus. 
+ FusionDB is multi-model, its first model is an XML document store. Knowledge of XQuery and/or XSLT would be a bonus. Sure every developer knows a bit of XML and XPath, but perhaps you can show us more? 
+ Performance is a concern for all databases systems. Performance engineering experience and experience with developing benchmarks, and using profiling tools such as YourKit, ValGrind/CallGrind, gperftools, etc, is a bonus. 
+ Open Source chops. If you have made significant contributions to one or more Open Source projects, then let us know! 
+ 
+ 
+ [ 
+ Evolved Binary 
+ ](/companies/evolved-binary-limited) 
+ 
+ 1-9 
+ 
+ Evolved Binary helps companies with their information storage and retrieval needs. Our flagship product is FusionDB, a new multi-model NoSQL database which we are actively developing. As well as building the tools to manage data, we also love to help organisations better understand and work with their information. Our clients include well known Publishers, Archives, and Social Media networks. We value People and Equal Opportunities, we believe in continuous self improvement, and most importantly we want to build a happy and lasting team. Challenges, we expect our team to challenge each other when deciding on the best solution. Community Engagement, and would help you to attend relevant conferences, meetups, and events. Research, and would help you in producing papers for publication. Open Source, we use a large amount of Open Source components and contribute back to many projects. The Right Approach, we rarely prioritise the quick or easy approach. 
+ Technology Private Cloud XML IntelliJ Amazon EC2 Extended holiday time Own your projects from conception to launch, set your deadlines and manage yourself 
+ View 1 job 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Evolved Binary About Evolved Binary 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ C++ 
+ Java 
+ Rust 
+ Scala 
+ TYPESCRIPT 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Extended holiday time 
+ Own your projects from conception to launch, set your deadlines and manage yourself 
+ Self-development allowance 
+ Home office allowance 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Software Engineer£80K - 160KTwo SigmaLondon, United Kingdom 
+ Building state of the art software for a leading quantitative fund 
+ angular c++ distributed systems java python scala 
+ More Info Apply 
+ Backend Engineer $100K - 170KGauntletUnited States of America 
+ Work with us here at Gauntlet to drive adoption in the financial systems of the future. 
+ Remote 
+ go c++ python rust 
+ More Info Apply 
+ Software EngineerCompetitivePenske Automotive GroupUnited States of America 
+ Develops information systems by designing, developing, and installing software solutions. Develops software. 
+ RemoteContractSponsorship 
+ cloud distributed systems functional programming java javascript node.js python scala typescript 
+ More Info Apply 
+ Senior Engineer ~ Java/C++ 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

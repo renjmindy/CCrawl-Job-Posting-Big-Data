@@ -1,0 +1,43 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Eduflow (S17) 
+ Create and run collaborative online learning experiences. 
+ Full-Stack Developer 
+ $60k - $100k • 0.00% - 1.00% 
+ Location 
+ Copenhagen, Denmark / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 1+ years 
+ About Eduflow 
+ Peergrade lets teachers and students run peer feedback sessions to learn critical thinking, how to give and receive feedback and how to take responsibility of their own learning. 
+ Peergrade is almost 3 years old today. We are a 9 person team working primarily out of Copenhagen, Denmark. We are a pretty tight group of nerdy people, and fairly international (Denmark, US, Wales, Scotland, Brazil, Slovakia). We eat lunch together every day, eat pizza on Tuesdays (or something healthier) and often drink beers on Fridays. We believe in good product over clever sales and in building a company where few people can deliver a lot of value. We have been backed by YC, Learn Capital, Project A and many other investors over the last years. Peergrade as a product is complicated, detailed and technically challenging on many fronts. We believe that we deliver real value to our users (see some user feedback here:  http://bit.ly/2IwzHwV ). 
+ We are a mostly technical team (out of 9 total people, 7 are technical), and we are looking to extend this technical team with 1-2 senior full-stack developers. We are looking for skilled developers, and people that are interested in building a real product for real users. We offer a market rate salary (in Denmark) and options. 
+ About the role 
+ Skills:  Python, React 
+ You will be working with the current team of 6 engineers to improve and extend our product. You will be working on full-stack problems all the way from the database (MongoDB) to the front-end (React). We push to production 10+ times a day, invite everyone on the team to participate in shaping the product and the tech stack and collaborate a lot on solving problems - not just within the engineering team but with the whole team. 
+ Technology 
+ Python (Django and Django Channels) React with Relay Postgres Redis 
+ Other jobs at Eduflow 
+ Full-Stack Developer 
+ fulltime 
+ Copenhagen, Denmark / Remote 
+ Full Stack 
+ $60k - $100k 
+ 0.00% - 1.00% 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

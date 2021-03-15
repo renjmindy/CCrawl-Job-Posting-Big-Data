@@ -1,0 +1,6 @@
+ Qualifications 
+ Solidity  development experience and strong understanding of the EVM 
+ Good understanding of blockchain fundamentals, smart contracts, etc.. 
+ Strong interest and familiarity with Crypto protocols and DeFi products 
+ Experience developing production quality software in  Python ,  Rust ,  Go ,  C++ , or other high-performance languages 
+ [ 

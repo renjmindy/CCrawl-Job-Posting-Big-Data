@@ -1,0 +1,6 @@
+ Qualifications 
+ Minimum of 5 years of in depth software development experience crafting, deploying, and owning several substantive projects with company-wide impact 
+ Minimum of 3 years of experience working with various functional owners in your company (spanning product management, program management, as well as Dev/Tech Ops) 
+ Proficiency with at least one mainstream programming language (Python, Java, Scala, C#, Ruby, etc.) 
+ Value rapid iteration over extended debate 
+ Diversity 

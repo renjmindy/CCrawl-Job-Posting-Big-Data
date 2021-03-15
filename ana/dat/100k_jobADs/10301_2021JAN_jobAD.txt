@@ -1,0 +1,59 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Speedscale (S20) 
+ Accelerate development by simulating API's with production traffic. 
+ Engineer 
+ $100k - $150k • 0.10% - 0.90% 
+ Location 
+ Atlanta Metro Area 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Speedscale 
+ Speedscale is a Y Combinator venture-backed startup out of Atlanta that automatically validates the performance of new code using production traffic. We’re building a really interesting product with lots of challenging technical problems that need to be solved. As our startup moves to the next stage, we need help upgrading our data collection and storage services using golang, Kubernetes and cloud services. Every day we solve never seen before problems in bleeding edge tech. This is a great opportunity to wear many hats in a tight knit team. 
+ About the role 
+ Skills:  Go, Kubernetes 
+ Responsibilities 
+ • Quickly writing scalable and robust Golang code 
+• Coordinating with Founders, Product Managers and Designers to translate requirements into high performance services 
+• Playing a key role in architecting an efficient micro services distributed system Required Skills 
+• Strong knowledge of Go programming language, paradigms, constructs, and idioms 
+• Knowledge of common Go routine and channel patterns 
+• Experience with the full suite of Go frameworks and tools, including: 
+• Dependency management tools such as Godep, Sltr, etc. 
+• Ability to write clean and effective Godoc comments 
+• Familiarity with git 
+ Nice to have 
+ • Experience with Kubernetes highly preferred 
+• Knowledge of modern design patterns and building enterprise-grade production applications 
+• Knowledge of Docker, Linux and security best practices 
+• Experience with database integration and SQL preferred 
+ Location: 
+ • Currently looking local to Atlanta, GA 
+• Not looking for remote developers at the moment 
+ Technology 
+ We love Kubernetes, golang, nodejs, react and services from the top three cloud providers (like S3, GKE, Kinesis, etc). Our tech is constantly evolving but those technologies form the basis. Everything we use in our core product is the latest and greatest. 
+ Our customers are usually bigger companies which means we get to work new stuff every day. 
+ Other jobs at Speedscale 
+ Engineer 
+ fulltime 
+ Atlanta Metro Area 
+ Backend 
+ $100k - $150k 
+ 0.10% - 0.90% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

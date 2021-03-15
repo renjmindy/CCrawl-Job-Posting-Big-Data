@@ -1,0 +1,170 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Golang Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ GolangWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Data Engineer 
+ [ 
+ Credit Kudos 
+ ](/companies/credit-kudos) 
+ London, United Kingdom 
+ 21 June, 2020 
+ Apply 
+ More jobs from Credit Kudos About Credit Kudos 
+ Salary 
+ £60K - 85K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ GCP 
+ Golang 
+ Python 
+ TERRAFORM 
+ BigQuery 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Pension 
+ Dog friendly 
+ 25 days holiday 
+ Equity 
+ Top of the range equipment 
+ Cycle to work scheme 
+ Excellent coffee, snacks & free fruit 
+ 
+ Leveraging Open Banking data to remove the bias in credit scoring 💳 
+ Role overview 
+ We're looking for a Senior Data Engineer to join our team in London. The role will have a broad remit but your goal would be to improve our culture, processes and posture with respect to data throughout the business 📈. 
+ Working closely with the CTO and the Platforms team, you'll be responsible for building out, monitoring and improving solutions to a whole host of data related challenges we face as a business 📊. From maintaining a secure research environment and enhancing our privacy controls to building tools to track overall company and platform performance, right down to the detail, you'll be the one driving 🚙. 
+ You'll be shaping a new class of credit bureau; one with significant customer involvement and one that's focussed on promoting and rewarding good financial behaviour, for the benefit for the whole financial sector 👍. This, like all our other positions, is a deeply ethical role; many of the decisions made on a daily basis impact lives in very real ways and we want somebody to think carefully and feel passionately about that 💛. 
+ Our team has a diverse background 
+ Not everyone studied Computer Science here, and we have at least one classically trained opera singer 🎤. We have people with backgrounds in massive companies, small companies, and some for whom this is their first job. We're looking for people who want to learn and grow as much as lead and teach 📚. If that sounds like you, we'd love to hear from you! 
+ Your Profile 
+ 
+ In your work, you live and breathe data 📊. 
+ You know what a strong culture of data driven decisions means for a company's growth, having built tools to achieve that before ⚙️. 
+ You know what it takes to build market-leading products in a fast-paced start up environment, and you've been doing so for 5+ years 💻 
+ You've experience working in a B2B setting, ideally in fintech and/or lending 💸. 
+ You've built and lead products/initiatives from nothing, with a keen focus on metrics and impact 📈. 
+ You're deeply driven to make the financial world fairer and more responsible 💳. 
+ You're happy when fluently translating between technical and non-technical stakeholders, and love jointly getting stuck in to difficult problems 🧠. 
+ 
+ 
+ [ 
+ Credit Kudos 
+ ](/companies/credit-kudos) 
+ 
+ 10-49 
+ 
+ Credit Kudos is a venture-backed fintech startup and challenger credit bureau that uses financial behaviour to measure creditworthiness. 💳 Our technology transforms the way credit checking and credit scores work by generating a more accurate and holistic view of a borrower's creditworthiness. We’re working with lenders to help them make better, fairer credit decisions and with consumers to help them access fair, affordable credit. ⚖️ Our mission is to transform the credit scoring system to provide fairer credit for all; helping people access responsible finance they can afford, when they need it. 🤝 How it all began: After working in the US for a number of years, Freddy returned to the UK ✈️. Having had no recent financial activity in the UK, he had a 'thin' credit file. This not only meant that he had limited credit options, but those that were available to him came with higher interest rates and restrictions 🙁. After further research it became apparent that he was not alone, and that many people in the UK face difficulties when trying to get access to affordable credit 💳. With a vision to remove that challenge from the market, Freddy and Matt founded Credit Kudos 👋. Since then, the team at Credit Kudos have been on a mission to provide fair credit for all, harnessing the power of Open Banking 🌍. We’re building a credit bureau the right way - with the customer involved and transparent throughout. We’re looking for talented and creative engineers who share our vision. 🚀 
+ React Finance Series A Golang TERRAFORM TYPESCRIPT Pension  Dog Friendly 
+ View 4 jobs 
+ Engineers who find a new job through Golang Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Credit Kudos About Credit Kudos 
+ Salary 
+ £60K - 85K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ GCP 
+ Golang 
+ Python 
+ TERRAFORM 
+ BigQuery 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Pension 
+ Dog friendly 
+ 25 days holiday 
+ Equity 
+ Top of the range equipment 
+ Cycle to work scheme 
+ Excellent coffee, snacks & free fruit 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Software Engineer£70K - 120K + EquityCMDTYLondon, United Kingdom 
+ Diverse New York/London startup using technology to streamline the physical commodities supply chain 
+ aws kubernetes python postgresql react terraform typescript 
+ More Info Apply 
+ Lead EngineerCompetitiveGoustoLondon, United Kingdom 
+ Gousto are on a mission to become the UK's favourite way to eat dinner! 
+ aws node.js python react 
+ More Info Apply 
+ Software Development Engineer£60K - 100KGoCardlessLondon, United Kingdom 
+ Help us build our global network for recurring payments 
+ gcp golang javascript react ruby 
+ More Info Apply 
+ Senior Data Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Go jobs Golang jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Golang articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

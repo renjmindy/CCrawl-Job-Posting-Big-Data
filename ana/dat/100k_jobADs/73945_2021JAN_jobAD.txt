@@ -1,0 +1,56 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Athelas (S16) 
+ Rapid blood diagnostics through deep learning. 
+ Fullstack Engineer 
+ $75 - $130 • 0.05% - 0.15% 
+ Location 
+ Mountain View 
+ Job Type 
+ Full-time 
+ Experience 
+ 1+ years 
+ About Athelas 
+ Athelas is a Sequoia funded biotech startup working on modern, point-of-care diagnostics using Machine Learning. Our main product is an FDA cleared device for immunoresponse monitoring. We're scaling deployments rapidly across the country, and our customer base includes major pharmaceutical companies. If you're interested in modernizing healthcare and working at the intersection of machine learning and healthcare, we are the right place for you. 
+ Athelas is a small, creative, and hard-working team and we're looking for individuals with a founder-type mentality to join us. 
+ About the role 
+ Skills:  Python, React, PostgreSQL 
+ Athelas is a fast-growing Series A stage biotech startup based in Mountain View, CA. We are backed by Sequoia Capital, YCombinator, NVIDIA, and other top investors in the Silicon Valley. Our product is FDA cleared and we already support thousands chronically ill patients across the country. 
+ Our team is composed of individuals from Stanford, MIT, Google, Apple and other top institutions. In the engineering team, we work at the intersection of software, hardware, biology, and chemistry to build meaningful products for oncology patients throughout the country. Our core product is an at-home device that captures images of stained blood cells and automatically segments and classifies them using Convolutional Neural Networks trained specifically for human blood cells. 
+ We're looking for a fullstack engineer to work on the following: 
+ 
+ New product development including development of new Computer Vision CNN models for classification of new cell types. 
+ Products for patients to monitor and manage their own results. 
+ Products for doctors to monitor high risk patients and intervene as necessary. 
+ 
+ Technology 
+ Machine Learning 
+ Our device captures high resolution images of blood smears which we analyze using internally CNNs. Our networks are responsible for segmenting cells, classifying them, and deciding which images include valid and invalid samples. In addition, we have specially designed networks for classifying abnormal cells (blast cells, giant platelets, nucleated red blood cells) that require additional intervention. 
+ Hardware 
+ Our hardware stack includes custom objective lenses and image sensors to provide the optimal tradeoff for field of view and cell resolution. Our device includes an onboard linux processor, motor drivers, and a linear actuator for orienting and moving the sample. We are always looking to improve our imaging stack to provide more powerful images for analysis. 
+ Clinic Product 
+ We provide customers (clinics) a web-based interface for analyzing results, looking up patient history, and integrating directly with pharmacies. Our frontend is built entirely in react and redux. 
+ Server API 
+ Our APIs are built using flask and sqlalchemy with a postgres database. Our infrastructure is hosted using Kubernetes on GCP. We believe in simple, reliable infrastructure that allows us to spend most of our time on improving our tests and adding new ones. 
+ Other jobs at Athelas 
+ Fullstack Engineer 
+ fulltime 
+ Mountain View 
+ Full Stack 
+ $75 - $130 
+ 0.05% - 0.15% 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

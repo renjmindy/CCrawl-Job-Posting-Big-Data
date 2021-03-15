@@ -1,0 +1,141 @@
+
+ SQLLearnings 
+ It's all about the learnings in SQL 
+ Main menu 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ Query to get status of all jobs in Autosys 
+ This entry was posted on August 8, 2014, in  Autosys ,  Other than SQL  and tagged  Autosys ,  Job status ,  Query to get status of all jobs in Autosys ,  ujo_alAmOde ,  ujo_jobst . Bookmark the  permalink .  Leave a comment 
+ The below query will help to find the status of jobs in Autosys. You need to run the query against the SQL Server database backend of Autosys. 
+ In the query I have declared a variable @GMTOffset. To get the GMTOffset value you can get the Offset value from the table "ujo_alAmOde". 
+ Declare @GMTOffset int; 
+ select @GMTOffset = Int_val from ujo_alAmOde where [type] = 'gmt_offset'; -- (you need to get the GMTOffset value from ujo_alAmOde table) 
+ select 
+jt.joid,jt.job_name,jt.job_type, jt.machine, 
+dateadd(second,jt.last_start-@GMTOffset,'1970-01-01′) as start_time, 
+dateadd(second,jt.last_end-@GMTOffset,'1970-01-01′) as end_time, 
+dateadd(second,jt.status_time-@GMTOffset,'1970-01-01′) as Last_Status_Time, 
+i.text 
+from ujo_jobst jt inner join ujo_INTCODES i 
+on i.fld = 'status' and i.code = jt.status 
+where i.text not IN ('SUCCESS' , 'RUNNING' , 'STARTING','ACTIVATED') 
+ORDER BY job_type 
+ Rate this: 
+ Share this: 
+ 
+ Email 
+ LinkedIn 
+ Facebook 
+ Twitter 
+ Pinterest 
+ Print 
+ Reddit 
+ Tumblr 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Post navigation 
+ « Get status of jobs in Autosys using job command 
+ Get notified when the database status change » 
+   
+ Email Subscription 
+ Enter your email address to subscribe to this blog and receive notifications of new posts by email. 
+ Join 25 other followers 
+ Email Address: 
+ Sign me up! 
+ Recommended Blogs 
+ 
+ MSSQLWIKI by Karthick PK 
+ Troubleshooting SQL by Amit Banerjee 
+ Bart Duncan's weblog 
+ Repl Talk 
+ 40 + blogs from the SQL Product Team by Paul Randall 
+ In Recovery by Paul Randall 
+ SQL Server Tips and Tricks 
+ CSS SQL Server Escalation Blogs 
+ Craig Freedman's SQL Server Blog 
+ 
+ Visitor Map 
+   
+ Categories 
+ 
+ Autosys  (2) 
+ Cluster  (5) 
+ Database Engine  (6) 
+ Log Shipping  (3) 
+ Meme15  (1) 
+ Other than SQL  (3) 
+ Replication  (3) 
+ Reporting Services  (2) 
+ SQL Server Releases  (9) 
+ T-SQL Tuesday  (2) 
+ Tools  (4) 
+ 
+ Recent Posts 
+ 
+ Get notified when the database status change 
+ Query to get status of all jobs in Autosys 
+ Get status of jobs in Autosys using job command 
+ Define Query Parameters dialogue box while creating a report using Report Wizard 
+ April #Meme15 : Blogs that stand out 
+ 
+ Archives 
+ 
+ September 2014  (1) 
+ August 2014  (2) 
+ August 2012  (1) 
+ April 2012  (6) 
+ March 2012  (1) 
+ December 2011  (1) 
+ October 2011  (1) 
+ July 2011  (4) 
+ June 2011  (4) 
+ May 2011  (3) 
+ April 2011  (2) 
+ March 2011  (3) 
+ February 2011  (1) 
+ January 2011  (3) 
+ 
+  [MSDN SQL Forums]( "Ashwin Menon") 
+ 
+ SQL Replication - distribution database 
+ SQL server 2012 cluster failed (agent)  
+ Non-yielding scheduler errors and connection timeouts daily 
+ [Power View not visible on the ribbon in Excel 2013](https://social.msdn.microsoft.com/Forums/en-US/fa92498a-5e8f-43fe-91b5-bdbd7dd154e4/power-view-not-visible-on-the-ribbon-in-excel-2013?forum=officeitpro "I installed Office 2013 a few days ago and found I could not find the Power View command on the ribbon.  It should appear when I go to the insert tab but it is not there. I spent over an hour on the phone with Microsoft Support and they could not resolve the issue either. The "issue" was escalated to someone higher in Microsoft Support. At this poi […]") 
+ The SQLAGENT$InstanceName service on ServerName started and then stopped. 
+ [Option to Copy (without headers) gone??](https://social.msdn.microsoft.com/Forums/en-US/a62693b1-2dfb-4a47-9cad-bbd9df459aaf/option-to-copy-without-headers-gone?forum=sqltools "I am using SSMS 2008 R2 (Version 10.50.4000.0). As of this week, I can no longer copy my results without headers. My settings are Results to grid and I have double-checked that under Tools -> options my Query Results, Results to Grid does NOT have the option "Include column headers when copying or saving the results" checked. When I right click […]") 
+ SQL Server 2014: Missing System Adminstrator 
+ Repair corrupted SQL server mdf file 
+ Need to check multiple sql servers access using batch file. 
+ Many VLFs in high availability database 
+ 
+ Create a free website or blog at WordPress.com.  WPExplorer. 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

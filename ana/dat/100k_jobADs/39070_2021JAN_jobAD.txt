@@ -1,0 +1,119 @@
+Skip to content 
+ Menu 
+ 
+ Home 
+ Personal 
+ 
+ faith 
+ family 
+ fiction 
+ focus 
+ fun 
+ photos 
+ 
+ 
+ Design 
+ 
+ ux bootcamp 
+ 
+ 
+ about 
+ 
+ writing portfolio 
+ contact 
+ 
+ 
+ 
+     
+ 
+ 
+ Written by  Rob Vanasco October 27, 2015December 6, 2016 
+ A Career in flUX 
+ 
+ If you've followed this blog for any length of time, you have seen my thoughts on corporate america fluctuate as my career has progressed. When I was  laid off  in mid-2014, I swore I would never go back. But, five months later, I found myself  back in an office . 
+ Looking back over the last few years, it has become clear to me that my career is shifting towards something where I can use my skills in data analysis, writing, interviewing, and design. Almost a year ago, I finally realized what that looks like for me; UI/UX design. 
+ In the coming months/years, I'd like to chronicle my growth as a corporate creative. This will hopefully cover a wide spectrum of design related fields such as user experience and user interface design, visual design, user interaction and human computer interaction design, information architecture and content strategy, and whatever else falls into my path. Ironically, it falls right in line with getting out of the cubicle since good design revolves around the user's needs, and you can't figure out the user's needs unless you go talk to users. This will be a departure from my normal blogging themes, but such is life; our best attempts to control our life path are no match for God's plans. It would be unwise to fight against the good works God has planned for us to do. 
+ So now, here's a high level overview of what I've learned so far. 
+ UI/UX design is made up of two very distinct pieces; user interface design and user experience design. 
+ The user interface is the way in which people interact with an object, product, service or process. If I’m taking a trip to California, the main user interface on my trip is going to be the airplane. But there are also many other user interfaces along the way; the website I used to book my flight and hotel, the car I drive to the airport and the roads on which I drive, the airport and all its interfaces including coffee shops, security checkpoints, and the ticketing booth. 
+ User interfaces are all around us and allow us to interact with our surroundings. Good user interfaces are designed with user experience in mind. 
+ If the user interface defines the look, user experience defines the feel. 
+ Focusing on how people use products and services can aid in the design of user interfaces. User experience design uncovers problems and pain points in the user’s journey through a mobile application, web site, or physical experience. 
+ If the airplane is the interface, the interaction with the flight crew, the feel of the seat, the in-flight amenities, the color of the carpet, the instructions of what to do in case of emergency, and the temperature of the ginger ale all make up the user experience. Each aspect of the experience needs to be considered when designing. This can be accomplished in two ways; observations and interviews. 
+ In order to understand the user’s journey, the user experience designer will watch the people enter the airport, check their bags, go through security, get coffee and a cinnamon bun, navigate the boarding procedures, stow away their carry-on items, take their seat, and everything else until they are safely at their destination. 
+ Once observations have been made, pain points noted, and questions have been written out, then the user experience designer will validate their findings. The best way to do this is to sit down and have a conversation with the user. Let them tell the designer about their experience. The designer will fill in the gaps with questions, but really they just want to hear the user’s story. 
+ How did they feel when TSA was patting them down? Was the coffee to hot? How easy was it to navigate onto the plane, and find their seat? Was the seat comfortable? Was the seatbelt easy to figure out? What did they talk about with the person next to them? 
+ Again, the conversation should be led by the user’s story, and how they felt at different points in the experience. 
+ At that point, the designer (a.k.a. researcher) has all the data. Now it’s time to synthesize; sorting through observations, current state diagrams, interview notes, and photos to analyze what exactly is happening. 
+ Once the data has been synthesized, the designer might create a persona; a fictional person that encompasses traits recorded during the observation/interview process. The persona allows the designer to walk someone through new processes and identify what works and what doesn’t. 
+ From their research, the designer may find that only a few minor changes need to be made to the current process to improve the overall experience. Or, they may find that the entire process needs to be redefined. 
+ Once changes have been decided, the designer will lay out the new experience using their persona as a test subject to walk through the newly created process, application, or service. 
+ There are a number of ways the new experience can be laid out. The designer might use an experience map, mock-ups, prototypes, or demos. Or, they may use all of these at various stages of the development of the new experience. 
+ The persona can only get the designer so far. At some point, the mock-up or prototype has to go back out to the user for testing and validation. 
+ Are there new pain points? Did anything get fixed? Is the user more or less frustrated with the new experience? 
+ All these questions require another round of observations and interviews. The cycle continues until there is a clear solution to the problem. 
+ In the software world, the more we can iron out these things before development, the better. We can study how users interact with the applications and web services we want to offer through the use of demos and prototypes. These could be low resolution paper wireframes, or high resolution interactive demos that mimic the actual user experience. These tools are easily updated and we can go through many iterations in a short period of time which is much less costly than developers updating front end code. 
+ In a service organization UI/UX design is essential. It takes the complicated and make it simple. It removes frustration, decreases time spent interacting with our products, and increases confidence in our organization. 
+ Bottom line, user experience design is all about the user. It’s defining what they need and providing it to them. 
+ Share this: 
+ 
+ Facebook 
+ Twitter 
+ Tumblr 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Posted in  Design .Tagged  blog ,  corporate creative ,  design ,  no cubicle required ,  pragmatic marketing ,  ui/ux ,  user experience ,  user experience design . 
+ Leave a Comment  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Follow on WordPress.com 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 208 other followers 
+ Email Address: 
+ Follow 
+ Archives 
+ Archives Select Month November 2016  October 2016  December 2015  November 2015  October 2015  December 2014  November 2014  October 2014  September 2014  August 2014  July 2014  May 2014  April 2014  October 2013  September 2013  April 2013  March 2013  February 2013  January 2013  December 2012  November 2012  October 2012  September 2012  August 2012  July 2012  June 2012 
+ Other Places to Find My Writing 
+ 
+ Radius Church 
+ Supply Shield News 
+ SmarterWatching 
+ AndroidGuys 
+ 
+ Other Places to Find Me 
+ 
+ View @nocuberequired's profile on Twitter 
+ View robvanasco's profile on LinkedIn 
+ 
+ Post navigation 
+ Previous Post The Waiting Dead 
+ Next Post UX Boot Camp: Day 1 
+  Create a website or blog at WordPress.com  
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

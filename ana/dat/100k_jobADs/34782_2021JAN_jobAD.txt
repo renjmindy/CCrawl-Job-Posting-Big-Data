@@ -1,0 +1,79 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Information Security Analyst 
+ CIBC 
+ __Toronto, ON 
+ Apply Now 
+ We’re building a relationship-oriented bank for the modern world. We need talented, passionate professionals who are dedicated to doing what’s right for our clients. 
+ At CIBC, we embrace your strengths and your ambitions so you feel empowered at work. Our team members have what they need to make a meaningful impact and feel truly valued for who they are and what they contribute. 
+ To learn more about CIBC, please visit CIBC.com 
+ Job Description 
+ What You’ll Be Doing 
+ CIBC’s Security Operations Centre (SOC) manages the lifecycle of Information Security, especially Incident Response. As a Senior Analyst, your responsibilities will include triaging information security alerts and events, security risk and impact assessments, escalating risk or impact events for further investigation, and finally, documentation and reporting. 
+ CIBC’s Security Operations Centre (SOC) manages the lifecycle of Information Security, especially Incident Response. 
+ As Information Security Analyst, you will join CIBC’s Security Operations Centre (SOC) to ensure that the monitoring of information security alerts are being identified, tracked, and remediated. In this role you will be responsible for monitoring security alerts, performing triage, and escalating risk or impacting events through the SOC’s incident response process. This role requires you to work in a 7 day / 12 hr shift support environment. 
+ How You’ll Succeed 
+ Triage Support – Perform triage of all information security alerts sent to the SOC through both technical monitoring and other notification mechanisms (telephone, email). Provide a basic level risk assessment of the security alerts. Both understand the parameters for escalation and execute quickly on those parameters. Ensure all SLA/SLO expectations are met. 
+ Reporting/Documentation – Upon completion of alert triage, have an ability to effectively and thoroughly document the technical, risk, impact, and outcomes of the triage to support both investigation escalation and management reporting. Assist in process documentation currency to ensure up to date triage functions. 
+ Team Work:  Have a strong ability to work in a dynamic team environment (both onsite/in-office and remote) to ensure effective SOC operations to with a goal of information security risk reduction. 
+ Who You Are 
+ You can demonstrate a strong understanding or experience in an Information Security Operations role including aspects of Cyber Security Frameworks (NIST), CIA Triad, and basic risk assessment methodologies. Previous experience in a SOC or NOC is an asset. You have a good understanding of security threats (e.g. malware, network threats, etc.). You have experience in various network and computer security investigation tools (SIEM, NIDS, Firewalls, etc.). You have working knowledge of log analysis and networks. 
+ You’re a certified professional. This is an asset. You have current accreditation in good standing (at least one of the following) CISSP, CCSP, GCIH, GCIA, GCFA, GCFE or equivalents. 
+ You give meaning to data analysis. You enjoy investigating complex problems and making sense of information. You're confident in your ability to communicate detailed information in an impactful way. 
+ You understand that success is in the details. You notice things that others don't. Your critical thinking skills help to inform your decision making. 
+ You're digitally savvy. You seek out innovative solutions and embrace evolving technologies. You can easily adapt to new tools and trends. 
+ Values matter to you . You bring your real self to work and you live our values - trust, teamwork, and accountability. 
+ What CIBC Offers 
+ At CIBC, our people are our greatest asset. You’ll become part of a diverse community that acknowledges everyone’s unique talents, and empowers teams to do what’s right for the client, and to do it well. As part of our team, you will: 
+ Thrive:  Benefit from an open and approachable culture that provides the flexibility and support you need to integrate your life at work and at home. 
+ Connect :  Work in a place where the right technology and infrastructure fosters innovation, collaboration and creativity. 
+ Develop:  Grow your skills and career through our best-in-class onboarding experience, ongoing learning opportunities, individual development planning and comprehensive product training. 
+ Prosper:  Share in our collective success with a competitive salary, incentive pay, banking benefits, health benefits program, and employee share purchase plan. 
+ What You Need to Know 
+ CIBC is committed to creating an inclusive environment where all team members and clients feel like they belong. We seek applicants with a wide range of abilities and we provide an accessible candidate experience. If you need accommodation during the application or interview process, please contact Mailbox.careers-carrieres@cibc.com . 
+ You need to be legally eligible to work in Canada at the location(s) specified above and, where applicable, must have a valid work or study permit. 
+ This is a shift based role consisting of a 12 hour / day shift rotation. 
+ Prior to starting in this role, security checks, including a criminal record check must be successfully completed to the satisfaction of CIBC. An annual criminal record check may also be required. 
+ What You Need to Know 
+ CIBC is committed to creating an inclusive environment where all team members and clients feel like they belong. We seek applicants with a wide range of abilities and we provide an accessible candidate experience. If you need accommodation during the application or interview process, please contact Mailbox.careers-carrieres@cibc.com 
+You need to be legally eligible to work at the location(s) specified above and, where applicable, must have a valid work or study permit 
+ Job Location 
+ Toronto-483 Bay St, 7th Floor 
+ Employment Type 
+ Regular 
+ Weekly Hours 
+ 37.5 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

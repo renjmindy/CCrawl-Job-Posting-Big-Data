@@ -1,0 +1,88 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Senior Craft CMS / PHP CMS Developer REMOTEPERMANENT 
+ Job Description 
+ We're Happy Cog (formerly Vector Media Group), a full service interactive agency that works on a wide variety of projects. Lots of those projects are made with Craft CMS: we're an official Craft Service Partner and have built some of the largest and most complex Craft sites out there. We've also been the Craft conference (Dot All) platinum sponsors for 2 years in a row. 
+ While we already have a number of Craft developers on our team, we're looking for more. We’re a growing, distributed team of 65+ people headquartered in Manhattan's NoMad District with great clients (like Google, Airbnb, Twelve South, Etsy, The Associated Press, New York City, St. Regis, Columbia University, and WPP) and an incredible roadmap. 
+ Our projects vary in size and often include features and functionality that go beyond traditional brochure sites with a simple CMS. We integrate our client’s sites with a variety of systems, services, and APIs, such as e-commerce, search engines, CRMs and marketing automation tools, digital asset management systems, ERP systems, and more. 
+ We're hiring versatile developers who can work in a variety of platforms and languages. We look for experienced and well-balanced developers who have broad skill sets. The focus of this role is on backend development, writing custom Craft (or other CMS and platform) plugins and other code that integrates external APIs and systems. You should be comfortable with frontend skills like HTML, JavaScript, and CSS as well. 
+ You’ll be working on 3-4 projects at any time; typically one larger project and a few smaller projects to keep things fresh. We’re a fast-paced agency with a great team environment, so you’ll never get bored. We need someone who loves keeping up-to-date on the newest advancements in the field and can figure out when to start applying those advancements to client work. You'll work with other smart developers who can help you grow and challenge you, as well as help you along the way. You’ll also be communicating directly with clients and with our project managers to understand their requirements and present your work. Your job will be fun, challenging, and interesting. 
+ Responsibilities Will Include 
+ 
+ Building new applications, websites, and features with a variety of platforms including Craft CMS, Laravel, and more. 
+ Contributing to high-level architecture planning, consulting with our internal team on approach and level of effort, directing more junior developers. 
+ Flexing your muscles on aspects of application development outside of app code: database modeling, query optimization, setting up efficient logging and monitoring solutions, and other advanced requirements for highly functioning apps (you do not need to be a DBA/Systems Administrator/DevOps expert). 
+ Working closely with our front-end and back-end development teams on website projects. We’ll want and expect your input on the best ways to structure the build — from start to finish. 
+ Writing and maintaining clear documentation of your work, so that others on the team can pick up where you left off or learn from your experience on a project. 
+ Staying up-to-date on the latest development technologies and methodologies. 
+ 
+ Requirements 
+ 
+ Deep knowledge of PHP and web application architecture (experience with other languages, such as Python, Ruby, Node, etc. are a plus as well) 
+ Previous Craft CMS (or Expressionengine, Drupal, WordPress, other PHP-based CMS) experience 
+ Previous MVC framework experience, Laravel is strongly preferred. 
+ Ability to understand user behavior and intent, and use this information to build intuitive apps and websites for our clients. 
+ Knowledge of Git, we use it on all projects. 
+ Experience with AWS services is a plus. 
+ Ability to work and collaborate on a team with others. 
+ 
+ We offer 
+ 
+ A creative environment to do the best work of your career. 
+ An amazing team of developers, designers, marketers, project managers, and the occasional four-legged office pet. 
+ Lunch paid for by the company, every day, via your own Seamless accounts (for on-site employees). 
+ Flexible hours. 
+ Flexible paid vacation policy. 
+ Health, Dental, and Vision insurance. 
+ Retirement plan with company matching. 
+ 
+ How to Apply 
+ If you’re interested please apply as soon as possible, attention Jeremy Gimbel. Examples of your real-world work are more important than a perfect resume. If you worked on a project with a team, please tell us which parts you were responsible for. 
+ http://happycog.recruiterbox.com/jobs/fk039cn?apply=true 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Happy Cog 
+ 
+ __ 
+ 
+ Location:  New York, United States 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://happycog.com 
+ __  Posted February 4, 2020 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

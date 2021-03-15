@@ -1,0 +1,3316 @@
+Blog Log in 
+ Translate WordPress.com 
+ 
+ Projects 
+ WordPress.com 
+ Calypso Extensions 
+ WP Job Manager 
+ 
+ Translations of Original 237865 in WP Job Manager 
+ 
+ Status of original:  +active 
+ Translations:  2x current   118x untranslated 
+ No Context 
+ No Comment 
+ Priority: normal 
+ Added:  2018-01-26 14:33:43 
+ 
+ 
+ 
+ 
+ Prio 
+ Locale 
+ Original string 
+ Translation 
+ -- 
+ 
+ 
+ 
+ 
+ 
+ af 
+ 
+ You're ready to start using WP Job Manager! 
+ You  have to log in  to add a translation. 
+ Details 
+ 
+ 
+ 
+ 
+ Afrikaans (af) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (af) 
+ Show all deliverables with this original (overview) 
+ 
+ am|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Amharic (am) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (am) 
+ Show all deliverables with this original (overview) 
+ 
+ an|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Aragonese (an) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (an) 
+ Show all deliverables with this original (overview) 
+ 
+ ar|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Arabic (ar) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ar) 
+ Show all deliverables with this original (overview) 
+ 
+ as|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Assamese (as) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (as) 
+ Show all deliverables with this original (overview) 
+ 
+ ast|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Asturian (ast) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ast) 
+ Show all deliverables with this original (overview) 
+ 
+ az|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Azerbaijani (az) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (az) 
+ Show all deliverables with this original (overview) 
+ 
+ bal|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Catalan (Balear) (bal) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (bal) 
+ Show all deliverables with this original (overview) 
+ 
+ bel|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Belarusian (bel) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (bel) 
+ Show all deliverables with this original (overview) 
+ 
+ bg|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Bulgarian (bg) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (bg) 
+ Show all deliverables with this original (overview) 
+ 
+ bn|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Bengali (bn) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (bn) 
+ Show all deliverables with this original (overview) 
+ 
+ bo|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Tibetan (bo) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (bo) 
+ Show all deliverables with this original (overview) 
+ 
+ br|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Breton (br) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (br) 
+ Show all deliverables with this original (overview) 
+ 
+ bs|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Bosnian (bs) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (bs) 
+ Show all deliverables with this original (overview) 
+ 
+ ca|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Catalan (ca) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ca) 
+ Show all deliverables with this original (overview) 
+ 
+ ckb|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Kurdish (Sorani) (ckb) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ckb) 
+ Show all deliverables with this original (overview) 
+ 
+ cs|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Czech (cs) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (cs) 
+ Show all deliverables with this original (overview) 
+ 
+ cv|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Chuvash (cv) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (cv) 
+ Show all deliverables with this original (overview) 
+ 
+ cy|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Welsh (cy) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (cy) 
+ Show all deliverables with this original (overview) 
+ 
+ da|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Danish (da) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (da) 
+ Show all deliverables with this original (overview) 
+ 
+ de|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ German (de) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (de) 
+ Show all deliverables with this original (overview) 
+ 
+ de (formal)|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ German (Formal) (de) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (de) 
+ Show all deliverables with this original (overview) 
+ 
+ dv|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Dhivehi (dv) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (dv) 
+ Show all deliverables with this original (overview) 
+ 
+ el|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Greek (el) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (el) 
+ Show all deliverables with this original (overview) 
+ 
+ el-po|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Polytonic Greek (el-po) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (el-po) 
+ Show all deliverables with this original (overview) 
+ 
+ en-gb|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ English (UK) (en-gb) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (en-gb) 
+ Show all deliverables with this original (overview) 
+ 
+ eo|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Esperanto (eo) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (eo) 
+ Show all deliverables with this original (overview) 
+ 
+ es|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Spanish (es) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (es) 
+ Show all deliverables with this original (overview) 
+ 
+ es-cl|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Spanish (Chile) (es-cl) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (es-cl) 
+ Show all deliverables with this original (overview) 
+ 
+ es-mx|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Spanish (Mexico) (es-mx) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (es-mx) 
+ Show all deliverables with this original (overview) 
+ 
+ es-pr|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Spanish (Puerto Rico) (es-pr) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (es-pr) 
+ Show all deliverables with this original (overview) 
+ 
+ et|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Estonian (et) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (et) 
+ Show all deliverables with this original (overview) 
+ 
+ eu|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Basque (eu) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (eu) 
+ Show all deliverables with this original (overview) 
+ 
+ fa|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Persian (fa) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (fa) 
+ Show all deliverables with this original (overview) 
+ 
+ fi|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Finnish (fi) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (fi) 
+ Show all deliverables with this original (overview) 
+ 
+ fo|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Faroese (fo) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (fo) 
+ Show all deliverables with this original (overview) 
+ 
+ fr|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ French (fr) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (fr) 
+ Show all deliverables with this original (overview) 
+ 
+ fr-be|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ French (Belgium) (fr-be) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (fr-be) 
+ Show all deliverables with this original (overview) 
+ 
+ fr-ca|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ French (Canada) (fr-ca) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (fr-ca) 
+ Show all deliverables with this original (overview) 
+ 
+ fr-ch|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ French (Switzerland) (fr-ch) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (fr-ch) 
+ Show all deliverables with this original (overview) 
+ 
+ ga|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Irish (ga) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ga) 
+ Show all deliverables with this original (overview) 
+ 
+ gd|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Scottish Gaelic (gd) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (gd) 
+ Show all deliverables with this original (overview) 
+ 
+ gl|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Galician (gl) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (gl) 
+ Show all deliverables with this original (overview) 
+ 
+ gu|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Gujarati (gu) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (gu) 
+ Show all deliverables with this original (overview) 
+ 
+ he|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Hebrew (he) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (he) 
+ Show all deliverables with this original (overview) 
+ 
+ hi|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Hindi (hi) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (hi) 
+ Show all deliverables with this original (overview) 
+ 
+ hr|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Croatian (hr) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (hr) 
+ Show all deliverables with this original (overview) 
+ 
+ hu|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Hungarian (hu) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (hu) 
+ Show all deliverables with this original (overview) 
+ 
+ hy|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Armenian (hy) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (hy) 
+ Show all deliverables with this original (overview) 
+ 
+ id|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Indonesian (id) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (id) 
+ Show all deliverables with this original (overview) 
+ 
+ is|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Icelandic (is) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (is) 
+ Show all deliverables with this original (overview) 
+ 
+ it|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Italian (it) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (it) 
+ Show all deliverables with this original (overview) 
+ 
+ ja|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Japanese (ja) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ja) 
+ Show all deliverables with this original (overview) 
+ 
+ jv (jv_id)|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Javanese (jv) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (jv) 
+ Show all deliverables with this original (overview) 
+ 
+ ka|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Georgian (ka) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ka) 
+ Show all deliverables with this original (overview) 
+ 
+ kab|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Kabyle (kab) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (kab) 
+ Show all deliverables with this original (overview) 
+ 
+ kir|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Kirghiz (kir) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (kir) 
+ Show all deliverables with this original (overview) 
+ 
+ kk|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Kazakh (kk) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (kk) 
+ Show all deliverables with this original (overview) 
+ 
+ km|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Khmer (km) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (km) 
+ Show all deliverables with this original (overview) 
+ 
+ kmr|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Kurdish (Kurmanji) (kmr) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (kmr) 
+ Show all deliverables with this original (overview) 
+ 
+ kn|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Kannada (kn) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (kn) 
+ Show all deliverables with this original (overview) 
+ 
+ ko|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Korean (ko) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ko) 
+ Show all deliverables with this original (overview) 
+ 
+ lo|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Lao (lo) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (lo) 
+ Show all deliverables with this original (overview) 
+ 
+ lt|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Lithuanian (lt) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (lt) 
+ Show all deliverables with this original (overview) 
+ 
+ lv|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Latvian (lv) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (lv) 
+ Show all deliverables with this original (overview) 
+ 
+ me|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Montenegrin (me) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (me) 
+ Show all deliverables with this original (overview) 
+ 
+ mhr|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Mari (Meadow) (mhr) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (mhr) 
+ Show all deliverables with this original (overview) 
+ 
+ mk|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Macedonian (mk) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (mk) 
+ Show all deliverables with this original (overview) 
+ 
+ ml|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Malayalam (ml) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ml) 
+ Show all deliverables with this original (overview) 
+ 
+ mn|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Mongolian (mn) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (mn) 
+ Show all deliverables with this original (overview) 
+ 
+ mr|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Marathi (mr) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (mr) 
+ Show all deliverables with this original (overview) 
+ 
+ mrj|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Mari (Hill) (mrj) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (mrj) 
+ Show all deliverables with this original (overview) 
+ 
+ ms|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Malay (ms) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ms) 
+ Show all deliverables with this original (overview) 
+ 
+ mwl|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Mirandese (mwl) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (mwl) 
+ Show all deliverables with this original (overview) 
+ 
+ mya|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Burmese (mya) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (mya) 
+ Show all deliverables with this original (overview) 
+ 
+ ne|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Nepali (ne) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ne) 
+ Show all deliverables with this original (overview) 
+ 
+ nl|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Dutch (nl) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (nl) 
+ Show all deliverables with this original (overview) 
+ 
+ nn|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Norwegian Nynorsk (nn) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (nn) 
+ Show all deliverables with this original (overview) 
+ 
+ no|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Norwegian (bokmål) (no) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (no) 
+ Show all deliverables with this original (overview) 
+ 
+ oci|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Occitan (oci) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (oci) 
+ Show all deliverables with this original (overview) 
+ 
+ orm|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Oromo (orm) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (orm) 
+ Show all deliverables with this original (overview) 
+ 
+ pa|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Punjabi (pa) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (pa) 
+ Show all deliverables with this original (overview) 
+ 
+ pl|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Polish (pl) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (pl) 
+ Show all deliverables with this original (overview) 
+ 
+ ps|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Pashto (ps) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ps) 
+ Show all deliverables with this original (overview) 
+ 
+ pt|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Portuguese (pt) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (pt) 
+ Show all deliverables with this original (overview) 
+ 
+ pt-br|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Brazilian Portuguese (pt-br) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (pt-br) 
+ Show all deliverables with this original (overview) 
+ 
+ ro|  |  You're ready to start using WP Job Manager!  |  Ești gata să începi folosirea Managerului de locuri de muncă WP!  |  Details 
+ Romanian (ro) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ Ești gata să începi folosirea Managerului de locuri de muncă WP! 
+ 
+ Ești gata să începi folosirea Managerului de locuri de muncă WP! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-02-02 11:04:01 GMT 
+ Translated by:
+ Dan Caragea (dancarageact62) 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ro) 
+ Show all deliverables with this original (overview) 
+ 
+ ru|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Russian (ru) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ru) 
+ Show all deliverables with this original (overview) 
+ 
+ rue|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Rusyn (rue) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (rue) 
+ Show all deliverables with this original (overview) 
+ 
+ rup|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Aromanian (rup) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (rup) 
+ Show all deliverables with this original (overview) 
+ 
+ sah|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Sakha (sah) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (sah) 
+ Show all deliverables with this original (overview) 
+ 
+ si|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Sinhala (si) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (si) 
+ Show all deliverables with this original (overview) 
+ 
+ sk|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Slovak (sk) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (sk) 
+ Show all deliverables with this original (overview) 
+ 
+ sl|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Slovenian (sl) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (sl) 
+ Show all deliverables with this original (overview) 
+ 
+ snd|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Sindhi (snd) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (snd) 
+ Show all deliverables with this original (overview) 
+ 
+ so|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Somali (so) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (so) 
+ Show all deliverables with this original (overview) 
+ 
+ sq|  |  You're ready to start using WP Job Manager!  |  Jeni gati të filloni përdorimin e Përgjegjësit të Punësimeve WP!  |  Details 
+ Albanian (sq) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ Jeni gati të filloni përdorimin e Përgjegjësit të Punësimeve WP! 
+ 
+ Jeni gati të filloni përdorimin e Përgjegjësit të Punësimeve WP! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-03-19 18:09:11 GMT 
+ Translated by:
+ bujku 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (sq) 
+ Show all deliverables with this original (overview) 
+ 
+ sr|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Serbian (sr) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (sr) 
+ Show all deliverables with this original (overview) 
+ 
+ su|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Sundanese (su) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (su) 
+ Show all deliverables with this original (overview) 
+ 
+ sv|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Swedish (sv) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (sv) 
+ Show all deliverables with this original (overview) 
+ 
+ sw|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Swahili (sw) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (sw) 
+ Show all deliverables with this original (overview) 
+ 
+ ta|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Tamil (ta) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ta) 
+ Show all deliverables with this original (overview) 
+ 
+ te|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Telugu (te) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (te) 
+ Show all deliverables with this original (overview) 
+ 
+ th|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Thai (th) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (th) 
+ Show all deliverables with this original (overview) 
+ 
+ tir|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Tigrinya (tir) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (tir) 
+ Show all deliverables with this original (overview) 
+ 
+ tl|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Tagalog (tl) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (tl) 
+ Show all deliverables with this original (overview) 
+ 
+ tlh|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Klingon (tlh) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (tlh) 
+ Show all deliverables with this original (overview) 
+ 
+ tr|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Turkish (tr) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (tr) 
+ Show all deliverables with this original (overview) 
+ 
+ ug|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Uighur (ug) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ug) 
+ Show all deliverables with this original (overview) 
+ 
+ uk|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Ukrainian (uk) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (uk) 
+ Show all deliverables with this original (overview) 
+ 
+ ur|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Urdu (ur) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ur) 
+ Show all deliverables with this original (overview) 
+ 
+ uz|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Uzbek (uz) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (uz) 
+ Show all deliverables with this original (overview) 
+ 
+ vi|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Vietnamese (vi) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (vi) 
+ Show all deliverables with this original (overview) 
+ 
+ yi|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Yiddish (yi) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (yi) 
+ Show all deliverables with this original (overview) 
+ 
+ yor|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Yorùbá (yor) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (yor) 
+ Show all deliverables with this original (overview) 
+ 
+ zh|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Chinese (zh) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (zh) 
+ Show all deliverables with this original (overview) 
+ 
+ zh-cn|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Chinese (China) (zh-cn) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (zh-cn) 
+ Show all deliverables with this original (overview) 
+ 
+ zh-hk|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Chinese (Hong Kong) (zh-hk) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (zh-hk) 
+ Show all deliverables with this original (overview) 
+ 
+ zh-sg|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Chinese (Singapore) (zh-sg) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (zh-sg) 
+ Show all deliverables with this original (overview) 
+ 
+ zh-tw|  |  You're ready to start using WP Job Manager!  |  You  have to log in  to add a translation. |  Details 
+ Chinese (Taiwan) (zh-tw) 
+ You're ready to start using WP Job Manager! 
+ You're ready to start using WP Job Manager! 
+ 
+ __ 
+ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+untranslated 
+ References: 
+ 
+ client/extensions/wp-job-manager/components/setup/confirmation/index.jsx:26 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this original 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (zh-tw) 
+ Show all deliverables with this original (overview) 
+ 
+ Legend: 
+ Current 
+ Waiting 
+ Fuzzy 
+ Old 
+ with warnings 
+ Get Started 
+ 
+ Getting Started 
+ Community Translator Tool 
+ FAQ 
+ What is GlotPress? 
+ 
+ Learn 
+ 
+ Translation Resources 
+ Translation Style Guide 
+ Locale Glossaries and Style Guides 
+ How Theme Translations Work 
+ 
+ Collaborate 
+ 
+ Community Resources 
+ Working with Other Translators 
+ Build a Locale Glossary & Style Guide 
+ 
+ In your language 
+ Translate  WordPress.com .  Proudly powered by  GlotPress . 

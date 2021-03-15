@@ -1,0 +1,87 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Rippling (W17) 
+ Automate your HR and IT. 
+ Senior Software Engineer (Bengaluru) 
+ 
+ Location 
+ Bengaluru, Karnataka, India 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Rippling 
+ Rippling automates new-hire onboarding tasks that HR, IT and Finance departments do in a company. We aim to be the system of record for the company's employee information, by winning at on-boarding. This would allow us to build a platform layer where anyone could build an enterprise app. Small businesses would buy it from Rippling and roll it out to their company. 
+ Parker Conrad (CEO of Rippling), had previously started Zenefits - which was the fastest growing company in history (0 to $50M in 2 years.) The founders have experience in the domain. The product is growing quite fast (10x revenue in 2018) and already has a high Net-Promoter score. We have raised $60M so far. Our last funding round was led by Kleiner Perkins. 
+ About the role 
+ About Rippling 
+ Rippling is the first way for businesses to manage their HR & IT — from payroll and benefits, to employee computers and apps — all in one, modern system. 
+ In just 90-seconds, a company can set up (or disable) an employee’s payroll, health insurance, work computer, and third-party apps, like Gmail, Microsoft Office, and Slack. It’s the only platform that truly unifies every employee system, and automates all of the administrative work. 
+ Rippling is headquartered in San Francisco and has raised over $200M from top-tier investors, including Founders Fund, Greenoaks Capital, Coatue Management, Kleiner Perkins, and YCombinator. 
+ About The Role 
+ We’re looking for great software developers to join us in our journey. We care a lot about laying the right infrastructure before building things, but also about continually deploying code. We want to work with exceptional software engineers, who get bored at large companies. We are made up of small teams that move fast. 
+ What You'll Do: 
+ 
+ Develop high quality software with attention to detail 
+ Ship incrementally and continually at high velocity 
+ Have exposure to the sales teams to prioritize what can improve our revenue 
+ Interact with customers and support them in being successful with Rippling 
+ Become the in-house expert on Rippling customers and competition 
+ 
+ Qualifications: 
+ 
+ 6+ years experience using Python, Django, MongoDB, React, AWS 
+ You want to be part of a team of the most talented, forward-thinking engineers in the industry 
+ You care about product ownership and solving problems for our customers 
+ You’re passionate about being in a product focused environment where everyone cares deeply about customer impact 
+ 
+ Rippling is an equal opportunity employer. 
+ Technology 
+ Python / Django / MongoDB. We deploy code continually and move extremely fast. 
+ Other jobs at Rippling 
+ Senior Product Manager 
+ fulltime 
+ San Francisco, CA, USA 
+ 6+ years 
+ Product Manager - Payroll  
+ fulltime 
+ San Francisco, CA, USA 
+ 6+ years 
+ Senior Software Engineer (Bengaluru) 
+ fulltime 
+ Bengaluru, Karnataka, India 
+ Full Stack 
+ 6+ years 
+ Customer Success Manager 
+ fulltime 
+ San Francisco 
+ 3+ years 
+ Senior Product Designer 
+ fulltime 
+ San Francisco, CA, USA 
+ Web Design 
+ 6+ years 
+ Senior Software Engineer - Hub 
+ fulltime 
+ San Francisco 
+ Full Stack 
+ 6+ years 
+ Senior Software Engineer - San Francisco 
+ fulltime 
+ San Francisco, CA / Remote 
+ Full Stack 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

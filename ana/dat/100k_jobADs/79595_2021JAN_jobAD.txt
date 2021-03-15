@@ -1,0 +1,272 @@
+r.j.'s space 
+ on the economy, energy, & the environment 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ <- November 8 graphics 
+ September 15 screenshots -> 
+ October jobs report, September's trade, construction spending, factory orders, consumer credit and Mortgage Monitor, et al 
+ Posted on  November 9, 2014  by  rjsigmund 
+ as is typical, there were several economic releases in this, the first week of the month, including the employment summary for October on Friday…the week also saw the release of trade data for September from the Commerce Dept, and the September Census reports on construction spending and factory orders, and the Fed report on September consumer credit…we also saw the Mortgage Monitor for September from Black Knight Financial Services (BKFS, formerly the LPS Data & Analytics division), the large graphic monthly report which we'll again review this week…in addition, this week also saw the two widely watched diffusion indexes from the Institute for Supply Management (ISM), the  October Manufacturing Report On Business , which saw its broad composite Purchasing Manager's Index (PMI) rise to 59.0% from September’s reading of 56.6%, on a 5.8% increase in the new orders index to 65.8%, indicating a larger plurality of manufacturing purchasing managers saw growth in October than did in September, and the  October Non-Manufacturing Report On Business , which saw its composite Non-manufacturing Index slip to 57.1% from 58.6% in September, indicating that slightly fewer service industry purchasing managers reported growth in their business in October than did in September… 
+ Employers Add 214,000 Payroll Jobs in October; August and September Revised Up 
+ the  October survey of establishments  conducted by the Bureau of Labor Statistics indicated that nonfarm payroll employment increased by a seasonally adjusted 214,000 jobs to 139,680,000 jobs,  slightly less than was expected , while August's payroll jobs count was revised up from 180,000 to 203,000, and September's count was revised up from 248,000 to 256,000, hence resulting in a reported net addition of 245,000 seasonally adjusted jobs with this release, and the highest year to date job creation count since 1999…. the unadjusted establishment data  indicates that there were actually 1,064,000 non-farm payroll jobs added in October, as seasonal retail hiring began and more jobs were regained in local and state education before the seasonal adjustment, so the seasonal adjustment was a major factor this month… the FRED bar graph below  incorporates the seasonal adjustments and the revisions to the August & September reports and shows the reported payroll job change monthly since the beginning of 2008, with job gains above the zero line and job losses below it… 
+ 
+ seasonally adjusted payroll jobs increased in most major sectors in October , led by an increase of 52,000 additional jobs in the leisure and hospitality sector, with 41,800 of those working in bars and restaurants….an additional 37,000 slots were added in the broad professional and business services category, with 24,000 of those in employment services and another 6,800 in computer systems design and related services….there were also 27,100 more jobs added in retail, with 11,900 of those working in general merchandise stores…employment also increased with the addition of 27,200 jobs in health care and social assistance, with the addition of 18,500 in ambulatory health care services, 7.400 of which were in home health care services…there were also 15,000 more jobs in manufacturing, with 14,000 of those added by durable goods manufacturers; in addtion, 13,700 were added in educational services, there were 13,300 more jobs in transportation and warehousing, and 12,000 added in construction, 10,300 of which were working for specialty trade contractors….job additions by other sectors included 8,500 in the wholesale trades, 5,000 in government, 4,000 in financial services and 1,000 in resource extraction…the information sector, with 4,000 less payroll jobs than in September, was the only sector to show a decrease in seasonally adjusted employment… 
+ the average workweek for all payroll employees  rose to 34.6 hours in October after 6 months at 34.5 hours, with longer workweeks in construction, resource extraction and utilities and generally stable workweeks in the services sector…the manufacturing workweek unchanged at 40.8 hours and factory overtime fell by 0.1 hour to 3.4 hours…. the average workweek for production and nonsupervisory employees , also rose by 0.1 hour to 33.8 hours, as the largest nonsupervisory workweek increases of 0.3 hours were again seen in construction and resource extraction…the  average hourly pay for all workers  rose by 3 cents an hour to $24.57 an hour, with their year over year increase at 48 cents, or less than 2%, while the  average pay for nonsupervisory workers  rose by 4 cents to $20.70, while their year over year average hourly pay rose 45 cents, a 2.2% average increase in hourly pay over the past year… 
+ Households Estimate 5.8% Unemployment; Labor Force Participation and Employment Rate Rises In October 
+ the personal employment data  extrapolated from the October survey of 60,000 households  reversed the r ecord weakness reported in Septembe r, with the wide swing likely reflecting the small sampling and  the resultant +/- 300,000 margin of error in the number unemployed  herein…the  October household summary  indicated that the seasonally adjusted count of the employed rose by 683,000 to 147,283,000, a number not directly comparable to the establishment data, since it also includes farm workers and the self-employed… meanwhile, the count of the unemployed fell by 267,000 to 8,995,000, which together with the employed means the number of us who were counted in the labor force rose by 416,000 to 156,278,000, leaving the unemployment rate, or those counted as unemployed as a percentage of the total, at 5.8%, down from 5.9% in September…so, with an increase of 211,000 in the working age population, the count of those not in the labor force fell 206,000 from its September record to 92,378,000, and as a result the labor force participation rate rose by 0.1% from its 36 year low of 62.7% in September to 62.8% in October…with the large increase in the count of the employed, the employed to population ratio rose by 0.2%, from 59.0% in September to 59.2% in October…. our FRED graph below  shows the employment to population ratio, which we could think of as the employment rate, in blue, and the labor force participation rate in red, back to the turn of the century… 
+ 
+ of the seasonally adjusted total of 147,283,000 of us counted as being employed in October,  119,632,000 reported they were working full time, 345,000 more than in September , while 27,693,000 reported they were working part time, or less than 34 hours in the reference week, an increase of 334,000 part time workers over the September part time count…of those,  the count of those working part time who would rather work full time  fell by 76,000 to 7,027,000; as a result of that  the alternative measure of unemployment, U-6 , which includes those "employed part time for economic reasons", fell by 0.3% to 11.5%…meanwhile, the  number of us unemployed for more than 27 weeks who were still looking for work  fell by 38,000 in October to 2,916,000, while the median duration of unemployment rose nonetheless, from 13.3 weeks to 13.7 weeks…among the 92,584,000 of us not officially in the labor force and hence not counted as unemployed,  6,122,000 reported that they still wanted a job , up from 6,007,000 in September, and up from 5,683,000 in last October; of those, 2,192,000 were categorized as "marginally attached to the labor force" because they had looked for work sometime during the last year, but not during the 30 day period covered by the October survey… 770,000 of those were further characterized as "discouraged workers" , because they reported that they haven't looked for work because they believe there are no jobs available to them… 
+ September Trade Deficit Jumps $3.0 Billion on Record Goods Deficit with China 
+ the  September report on our International Trade in Goods and Services  from the Commerce Department indicated that our seasonally adjusted trade deficit in goods and services was at $43.0 billion for the month, up from the revised trade deficit of $40.0 billion in August, as our exports fell $3.0 billion to $195.6 billion on a $2.6 billion decrease to $136.1 billion in our goods exports and a $0.4 billion decrease to $59.5 billion in our exports of services, while our imports rose $0.1 billion to $238.6 billion on a $0.1 billion decrease to $198.7 billion in our imports of goods, while our imports of services rose $0.2 billion to $39.9 billion….the August trade deficit was revised down from the previously reported $40.1 billion, giving us a third quarter trade deficit of $123.3 billion, down from the 2nd quarter deficit of $130.2 billion…when computing GDP for the 3rd quarter,  the BEA assumed that exports would increase and imports would decrease in September , so they were wrong on both counts, leading economists to  mark down their estimates on third quarter growth by as much as 0.7% …since last September, our overall trade deficit has increased by $0.8 billion, on an $5.3 billion increase in exports and a $6.1 billion increase in imports… 
+ the end use categories of exports that fell in September included industrial supplies and materials, exports of which fell by a seasonally adjusted $2,045 million to $42,187 million, as we exported $216 million less crude oil, $651 million less fuel oil, $960 million less of other petroleum products and $253 million less finished metal shapes…..exports of capital goods fell by $1,167 million to $45,945 million on $360 million less civilian aircraft exports, $240 million less exports of civilian aircraft parts, a $216 million drop in exports of computer accessories, $188 million less exports of industrial engines, and $182 million less exports of telecommunications equipment…in addition, our September exports of consumer goods fell by $687 million to $16,586 million on $429 million less exports of jewelry and $360 million less exports of pharmaceuticals, our exports of automotive vehicles, parts, and engines fell by $104 million to $13,488 million, and our exports of goods not categorized by end use fell by $131 million to $5,351 million…meanwhile, our exports of foods, feeds and beverages rose $1295 million to $11,812 million on a $1,746 million increase in soybean exports, which were partially offset by $123 million less exports of wheat, $99 million less exports of corn, and $98 million less exports of dairy products and eggs… 
+ the August to September decrease in imports of goods included a $1,104 million drop to $54,530 in our imports of industrial supplies and materials, on decreases of $462 million in imports of non-monetary gold, $429 million less imports of crude oil, $321 million less imports of fuel oil, and $279 million less imports of organic chemicals and fertilizers…our $49,941 million in imports of capital goods was $940 million less than in August, as we imported $785 million less worth of civilian aircraft while we imported $238 million more in civilian aircraft engines; our imports of automotive vehicles, parts, and engines also fell by $515 million to $27,013 million…meanwhile, we imported $47,698 million in consumer goods, $1,910 million more than in August, as we imported $1,919 million more in cell-phones with the release of the iphone6; in addition, our imports of foods, feeds & beverages increased by $98 million to $10,639 million with $114 million more imports of fish and shellfish and $112 million more imports of meat products, and our imports of our imports of goods not categorized by end use rose by $304 million to $6,727 million… 
+ included below is  Bill McBride's graph  of our trade deficit from  his coverage of this report , which shows the relationship of our net petroleum trade deficit to our deficit overall….reading from the top $0 line down, the black graph line tracks our deficit in petroleum trade as a negative in billions of dollars since 1998; over the same span, the red graph shows our trade deficit for everything else except oil, also as a negative from the $0 line; combined together, those two sum to our total trade deficit, which Bill has graphed in blue…it's pretty clear that even though our oil deficit in black has generally been falling (ie, going up towards zero on this chart) over the past few years, our trade deficit in everything else in red has continued to grow…in September,  80% of that deficit in "everything else" was with China , as  our imports from China alone rose to a record $44.9 billion  on the surge in buying of cell phones with the release of the iphone6… 
+ 
+ Construction Spending Falls 0.4% in September; Unfilled Factory Orders Rise 0.3% 
+ the  Census report on Construction Spending for September  (pdf) estimated that our seasonally adjusted construction spending for the month would work out to an annual rate of $950.9 billion of spending overall, 0.4 percent (±2.0%)* below the revised August estimate of spending at a $955.2 billion annual rate but 2.9 percent (±2.1%) above last September's adjusted and annualized level of construction spending….construction spending for August was revised from the originally reported $961.0 billion to $955.2 billion and construction spending for July was revised down from $968.8 billion to $960.0 billion, so construction spending for the entire third quarter is considerably lower than previous estimates, and will likely result in downward revisions of GDP components for residential construction, private structures, and public investment…..private construction spending was at a seasonally adjusted annual rate of $680.0 billion in September, 0.1 percent (±1.0%)*  lower than the revised August estimate, with residential spending rising 0.4 percent (±1.3%)* above the revised August estimate of $347.7 billion and non-residential construction falling 0.6 percent (±1.0%) , while public construction spending was estimated at $275.9 billion, 30.9 percent (±2.8%)  below the revised July estimate… 
+ the Census Bureau also released the  Full Report on Manufacturers’ Shipments, Inventories, & Orders for September  (pdf), which showed new orders for manufactured goods fell by $2.8 billion or 0.6% to $502.0 billion, after falling a record $56.0.billion or 10.0% in August, as new orders for commercial aircraft weakened further…this report also showed factory shipments increased by $0.7 billion or 0.1% to $503.4 billion, after falling 1.0% in August, and that September factory inventories rose by $1.5 billion or 0.2% to a record high $655.2%, and unfilled factory orders rose by $3.7 billion or 0.3% to $1,168.7, which was also the highest level value of unfilled orders on record…. 
+ September Consumer Credit Rises at 5.9% Rate; October Vehicle Sales Flat 
+ the  Fed's G.19 Release on Consumer Credit for September  indicated that total seasonally adjusted consumer credit outstanding increased by $15.9 billion to $3,267.0 billion, or at a 5.9% annual rate… the revolving credit portion of the aggregate, which would mostly be credit card debt, increased by $1.5 billion, or at a 2.0% annual rate, to $881.8 billion, while non-revolving credit, which includes loans for cars and college tuition but not borrowing for real estate, rose at by $14.5 billion to $2,385.2 billion, an annual growth rate of 7.3%….for the third quarter, consumer credit outstanding rose at a 6.6 annual rate, with revolving credit increasing at a 3.0% rate and non-revolving credit rising at 7.9% rate…looking ahead at a market where credit is often used, the  report on October light vehicle sales from Ward's Automotive  estimated vehicle sales were occurring at a 16.35 million annual rate during the month, up a hair from the annual rate of 16.34 million reported for September and 6% higher than last October, with year to date sales now running 5.4% ahead of 2013… 
+ September Foreclosure Starts Rise 11.55% as Average Time In Foreclosure Rises to Record 1014 Days 
+ according to  the Mortgage Monitor for September   (  pdf) from Black Knight Financial Services (BKFS, formerly the LPS Data & Analytics division), there were 892,796 home mortgages, or 1.76% of all mortgages outstanding, remaining in the foreclosure process at the end of September, which was down from 935,460, or 1.80% of all active loans that were in foreclosure at the end of August, and down from 2.63% of all mortgages that were in foreclosure in September of last year…these are homeowners who had a foreclosure notice served but whose homes had not yet been seized, and September's so-called "foreclosure inventory" was the lowest percentage of homes in foreclosure since early 2008… new foreclosure starts, however, rose in to 91,038 in September from 81,612 in August and have now risen four out of the last five months, while they still remain well below the 108,953 foreclosures started in September of last year… 
+ in addition to homes in foreclosure, September data showed that 2,877,977 mortgage loans, or 5.67% of all mortgages, were at least one mortgage payment overdue but not in foreclosure, down from 5.90% of homeowners with a mortgage who were more than 30 days behind in August, and down from the delinquency rate of 6.46% a year earlier…of those who were delinquent in August, 1,117,525 home owners were considered seriously delinquent, which means they were more than 90 days behind on mortgage payments, but still not in foreclosure at the end of the month…thus, a total of 7.43% of homeowners with a mortgage were either late in paying or in foreclosure at the end of August, and 3.97% of them were in serious trouble, ie, either "seriously delinquent" or already in foreclosure at month end… 
+ the graph below, from  page 6 of the Mortgage Monitor pdf , is a graphic representation of the number of mortgages that were in trouble in each month since the beginning of 2005; the height of each bar corresponds with the total delinquent and in foreclosure mortgage loans for that given month, and within each of those bars the purple color indicates the number of homes in foreclosure, the green indicates the number of mortgages that were more than 90 days delinquent but not yet in foreclosure, the red indicates the number of mortgages that were between 60 and 90 days past due, and the blue indicates the number of mortgages that had just missed one monthly payment… 
+ 
+ the next graph below, taken  from page 5 of the Mortgage Monitor , is a graphic representation of the prior status of the new foreclosure starts as they occurred in each month since the beginning of 2008; each bar represents a month and within each bar we have foreclosure starts on mortgages that have never been in trouble previously in blue, and foreclosure starts on mortgages that had been in foreclosure at least once before, presumably cured their previous foreclosure by either catching up on payments or through a modification of their loan, only to fall behind on payments again and end up in foreclosure another time…the green line then shows these repeat foreclosures as a percentage of total foreclosure starts for the month, and as they note, for the past 6 months more than half of new foreclosures are such repeaters…(they also try to suggest that the 11.55% increase in September foreclosure starts was a result of an abnormally low number of foreclosure starts in August, but since April foreclosures were almost 5% lower than August, that seems like spin from here) 
+ 
+ a major focus of this month's report was to spotlight the large percentage of outstanding second lien home equity lines of credit (HELOCs) that originated between originated between 2005 and 2007, most of which have draw periods of ten years, and hence will either owe a balloon payment or begin amortizing over the next three years…the bar graph below,  from page 19 of the pdf , shows in each bar the percentage of such HELOCs that end their draw period in each of the years from 2005 to 2024, with the percentage of them that have negative equity in green, barely positive (0-10%) equity in red, and more than 10% equity in blue shown within each bar…as the callouts within the graphic note, less than 8% of HELOCs have reached the end of their draw to date, and it's clear the majority of them will be coming due over the next three years, incurring an average $262 per month increase in monthly payments each…BKFS also notes that of those that end their draw over the next five years, 17% have negative equity, and 12% have less than 10% equity…this is a concern because previous studies have indicated that those with little or negative equity are more likely to default on their mortgages and hence end up in foreclosure than those with a large equity stake… 
+ 
+ once again, we'll include the Mortgage Monitor table showing the monthly count of active home mortgage loans and their delinquency status, which comes  from page 28 of the pdf ….the columns here show the total active mortgage loan count nationally for each month given, number of mortgages that were delinquent by more than 90 days but not yet in foreclosure, the monthly count of those mortgages that are in the foreclosure process (FC), the total non-current mortgages, including those that just missed one or two payments, and then the number of foreclosure starts for each month shown going back to January 2008….in the last two columns, we see the average length of time that those who have been more than 90 days delinquent have remained in their homes without foreclosure, and then the average number of days those in foreclosure have been stuck in that process because of the lengthy foreclosure pipelines…notice that although the average length of delinquency for those who have been more than 90 days delinquent without foreclosure has remained nearly steady and is now at 492 days, the average time for those who’ve been in foreclosure without a resolution has lengthened to a record average 1014 days… 
+ 
+ 
+ (the above is the synopsis that accompanied my regular sunday morning links emailing, which in turn was mostly   selected from my weekly blog post   on the   global glass onion   …if you’d be interested in receiving my weekly emailing of selected links that accompanies these commentaries, most from the aforementioned GGO posts,   contact me   …) 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- November 8 graphics 
+ September 15 screenshots -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ global oil supply near December's demand; US distillates exports at a 40 mo low​; gasoline production at a 34 week low​ 
+ December's consumer & producer prices, retail sales, & industrial production; November's business inventories & JOLTS 
+ tables and graphs for January 16 
+ gasoline demand at a 32 week low, gasoline supplies up ​most in 3​5 weeks; distillate​s​ supplies​ up most in 31 weeks​ 
+ December's jobs report; November's trade deficit, construction spending, factory inventories, and wholesale trade.. 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ rjsigmund  on  tables and graphics for Novemb… 
+ 
+ 
+ 
+ 
+ Marsha Boggs on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ godfrey on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ October 2011 
+ September 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ 
+ 
+ 
+ Categories 
+ 
+ mortgage crisis 
+ retail sales 
+ Uncategorized 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  r.j.'s space  
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

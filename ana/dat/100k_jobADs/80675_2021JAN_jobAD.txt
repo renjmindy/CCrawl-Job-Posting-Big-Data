@@ -1,0 +1,87 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Identity and Access Management Support Engineer (IAM) 
+ AstraNorth 
+ __Ottawa, ON 
+ Apply Now 
+ Job Description 
+ Work Location:   Remote during COVID19. But candidate will have to relocate to Ottawa after restrictions are over. 
+ Job Description: 
+Provide operational support and implementation services including user provisioning, environment management and respond to customer support requests. 
+Administration and Management of Microsoft Identity and Access Management solution components including Azure AD, ADFS, Azure AD Connect and Active Directory Domain Services. 
+Develop PowerShell automation scripts, ARM templates, JSON, etc. 
+Perform daily system monitoring, verifying the integrity and availability of all cloud services, systems and key processes, reviewing system and application logs. 
+Deploy system patches as released by Vendor, and upgrade administrative tools and utilities; 
+Ongoing performance tuning, Configure / add new services as necessary to support user authentication and access management. 
+Produce and monitor ICAM dashboards and reports, produce metrics per client needs. 
+Develop and/or review user access policies, assist with audits/risk assessments and recommend changes to strengthen overall security posture. 
+Maintain and produce support related artefacts and documentation including – operations manual, process documents, configuration documents, etc. 
+Provide after-hours support when necessary and respond to emergencies. 
+Work with Business and/or vendor’s/client support teams to resolve issues. 
+The ability and flexibility to work in shifts when necessary. 
+ Required years of experience, training, technical skills, and other requirements for job performance: 
+ Has minimum of 4 years of experience working with Identity and Access management solutions and 2-3 years’ familiarity with Azure Active Directory 
+Identity Synchronization Technologies (Dirsync, AAD Connect, MIM etc) 
+Active Directory Federation Services (ADFS) - or similar 3rd party. 
+Experience with authentication protocols such as OAuth, SAML or OpenID Connect. 
+Strong experience in Powershell scripting 
+External identity providers configuration for Web Application 
+Familiarity with Security and infrastructure administration 
+Knowledge of Office 365 Identity Management 
+Experience with Cloud User Management and configuration 
+Familiarity with networking concepts including NAT, DNS 
+Understanding of Virtualization concepts and virtual system administration 
+Familiarity with core OS services such as: SSH, telnet, FTP, NFS, DNS, DHCP, LDAP 
+Prefer proficiency in English and French for written and verbal communication. 
+ Education/ Qualification: 
+ Bachelor's/Master’s degree in Computer Science, Engineering, Information Technology, Cybersecurity, or related field. 
+One or more Azure Cloud certification strongly preferred. 
+AZ-103 Microsoft Azure Administrator 
+AZ-203 Developing Solutions for Microsoft Azure 
+AZ-300 Microsoft Azure Architect Technologies 
+ Security Clearance: 
+Security Clearance (Enhanced Reliability Status) from the Government of Canada, or the candidate should be a resident of Canada for 5 continuous years. 
+ Job Types: Full-time, Permanent 
+ Pay: $70,000.00-$130,000.00 per year 
+ Schedule: 
+ 
+ Monday to Friday 
+ 
+ Work remotely: 
+ 
+ Temporarily due to COVID-19 
+ 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

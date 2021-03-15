@@ -1,0 +1,81 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ VP, Technology 
+ Loblaw Digital 
+ __Toronto, ON 
+ Apply Now 
+ Looking for a challenge? Good. Love an innovative work environment? Even better. 
+ At Loblaw Digital, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we’re up for the challenge. From our office in Downtown Toronto, we’ve created leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, and apparel spaces, and we’re only just getting started. 
+ We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. If you have big ideas, undeniable enthusiasm, and thrive in a collaborative, creative, and diverse group, we’ll get along just fine. 
+ The Role: 
+As VP of Technology,you are responsible for leading the Loblaw Digital engineering teams in developing and operating our digital eCommerce properties and experiences. The VP of Technology will ensure that our ecommerce platforms and infrastructure are built with the best industry practices, and are able to scale with the exponential growth of our customer base. 
+ They will lead, and grow, a talented engineering team consisting of: 
+ 
+ Software Developers (Backend/Frontend/Android/iOS) 
+ Test Automation & DevOps Engineers 
+ Site Reliability Engineers 
+ Data Scientists 
+ Technical Project Managers 
+ 
+ They will be a champion of continuous improvement, driving velocity, innovation and scale. In addition to our internal team, they will also be accountable for managing our outsourced development and support partners across onshore and offshore teams, as well as collaborating with various internal Enterprise IT teams. 
+ We are looking for a hands-on and highly technical leader with a track record of managing high scale, consumer facing digital experiences. The leader must be able to dive deep into the details on business, operations and engineering and have a thorough knowledge of what it takes to develop scalable, extensible technology. 
+ This role presents a significant intellectual, technical, operational and organizational challenge. You will work with P&L leaders, Operations Leaders, Product Managers and IT Teams within the Enterprise, to shape these products and to develop and deliver the associated software services, infrastructure and tools to enable the growth of our digital ecosystem and ecommerce businesses. 
+This position will report to the SVP, Loblaw Digital and be a member of the Loblaw Digital Senior Leadership team where they will be a key contributor to the overall strategy and culture of the organization. 
+What you'll do 
+Have the obsession to drive great digital experiences for Loblaw by growing and leading a high performing technology team in an agile development environment that values releasing often, testing and iterating. 
+Develop and articulate a vision for the technology organization, and our technology stack, within Loblaw Digital as well as the broader enterprise. 
+Ensuring consistent and timely delivery of new features while driving velocity, predictability and quality. 
+Own and champion Engineering and Operational excellence through establishment of group-wide metrics for measurement with a consistent, regular process for assessment and continuous improvement. 
+Interface with a diverse stakeholder base - business leaders, product development counterparts and partner technology organizations. 
+Anticipate bottlenecks, provide escalation management, anticipate and make tradeoffs, and balance the business needs versus technical constraints. 
+Develop, recruit and retain, top engineering talent. 
+Shape the future of Loblaw Digital as a member of the senior leadership team 
+Does this sound like you? 
+Bachelor's and/or Master's degree in Computer Science or Engineering with 12+ years of industry experience of increasing responsibility running large-scale engineering teams and operating highly concurrent customer facing systems. 
+Prior leadership experience managing a number of development teams concurrently, preferably in multiple geographies. 
+Experience with managing multiple, competing priorities simultaneously. 
+Multidisciplinary experience overseeing software development, release management, project management, and 24x7 operations. 
+Excellent understanding of Cloud Native, Web, Mobile and Continuous Delivery technologies especially as it relates to eCommerce. 
+Excellent understanding of the Agile and Scrum methodologies. 
+Strong inter-personal skills including ability to work in a cross-functional environment and communicate with all levels of the organization, building strong relationships within the enterprise. 
+Eye for talent and a history of building high performance development teams. 
+Decisive, confident, and experience with influencing others with a strong sense of urgency, accountability and ownership. 
+How you’ll succeed 
+At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. 
+You will get to work with some of the best digital minds and will have the support of world class technologies to craft products our customers will love! 
+ Loblaw Digital recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. 
+In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

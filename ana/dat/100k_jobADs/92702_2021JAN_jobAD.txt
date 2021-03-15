@@ -1,0 +1,135 @@
+  
+ News 
+ About Us 
+ Company   Our Leadership   Investors   Careers 
+ Training & Support 
+ Training Overview   Customer Support 
+ Contact Us 
+ Industries 
+  Banking & 
+Financial Services   
+  Insurance   
+  Healthcare   
+  Other Industries   
+  Platform  
+ Customers 
+ Success Stories 
+  Deutsche Bank     Standard Bank     Carter Bank & Trust  
+ More stories 
+ Interviews 
+  WATCH  Scotiabank & NBP Americas Panel     WATCH  Financial Crimes Roundtable     WATCH  Enterprise Scaling Roundtable  
+ 
+  Scotiabank optimized its 
+AML processes 
+with WorkFusion Read how   
+ Events 
+ Webinars 
+  JAN 28  Maximize Your AML Operation with Top Tech Trends for 2021     WATCH Scaling Automation with ICA Gruppen     WATCH Accelerate Value in Your Business with Intelligent Document Processing  
+ More webinars 
+ Digital events 
+  FEB 3 Future of Workflow Automation for FI     FEB 17-18 Fraud in Financial Services North America     MAR 2-3 ACAMS Sanctions Summit  
+ All events 
+   
+ Insights 
+ Insights 
+  White Papers     Analyst Reports     Automation Blog  
+ Topics 
+  Intelligent Automation for Document Processing     Infographic: Intelligent SAP Automation     Automate Further with Intelligent Automation  
+  Intelligent Automation Delivering the Future of AML Download white paper   
+ Request demo 
+ How automation is going to affect jobs 
+ July 2, 2019 · 3 min read 
+ Nowadays, we keep hearing talk about various jobs that are about to be automated due to development of such technologies as RPA and artificial intelligence. So let’s think about industries and jobs most susceptible to automation, and how to ensure you can stay employed in this age of digital transformation. 
+ Industries and jobs to be automated 
+ The easiest tasks to automate are those that are regular and repetitive. They require workers to repeat the same set of actions again and again, with little critical thinking and creativity involved. Such tasks can be described as an algorithm, written as a robotic script, and therefore can be  effectively performed by robots . 
+ The first companies to jump the automation train are finance-related organizations. Many of their business processes are quite typical and repetitive, involving many copy-paste actions, so  banks and other financial organizations , as well as  insurance companies , are already replacing manual workers with software robots. Other industries that will follow are likely to be logistics, retail,  healthcare  and more. 
+ Accordingly, many typical jobs in these industries will be affected, including: 
+ 
+ Research and data entry specialists 
+ Accountants and accounts clerks 
+ Tax preparers 
+ Cargo and freight agents 
+ Insurers 
+ Automation trends and jobs 
+ 
+ There is no evidence that the automation train is going to slow down anytime soon. Businesses evaluate job automation as an essential contributor to their annual growth. According to the McKinsey briefing notes  AI, automation, and the future of work: Ten things to solve for , “advanced deep learning techniques deploying artificial neural networks could account for as much as $3.5 trillion to $5.8 trillion in annual value, or 40 percent of the value created by all analytics techniques.” 
+ Given that trend, how many jobs will survive the age of automation? 
+ The same McKinsey document predicts that nearly half of jobs are vulnerable to automation today. The study of 800 jobs in 46 countries found that by 2030, around 400 million people will lose their jobs due to automation progress. Of course, repetitive manual tasks are most at risk of automation, especially in developed countries. Poorer countries will not be affected as much due to a lack of investment in automation technologies. 
+ McKinsey&Company | Source: McKinsey Global Institute analysis 
+ However, it is unreasonable to think the impact of digital transformation on jobs will be that devastating. Many studies suggest that, along with taking manual work away from people, automation is going to create new jobs that will require critical thinking by humans. According to a  PWC report , by 2037, automation will displace around 7 million jobs, while simultaneously creating 7.2 million new ones. So, the fears of loss of jobs due to automation, while seeming reasonable currently, are likely to be unfounded. It is much more likely to bring about the transformation of the jobs, as did the industrial revolution of the 18th century or the invention of personal computers. 
+ Skills to acquire in the age of automation 
+ As already mentioned above, the effect of automation on jobs’ future has its bright sides. Automation trends and transformations of jobs open opportunities for people to learn new skills and choose more creative and diverse work. There is a distinct set of skills and qualities people have that a robot cannot offer: 
+ 
+ Data analysis 
+ Critical thinking 
+ Communication skills 
+ Empathy 
+ Creative approaches 
+ Improvisation 
+ Technological skills 
+ 
+ Widespread digital transformation and artificial intelligence will accelerate the shift in skills that the workforce needs. 
+ Source: McKinsey Global Institute Workforce Skills Model; McKinsey Global Institute analysis 
+ Thanks to automation, jobs are going away from an approach of “do this one task every day, all day” to more strategic roles that require more critical thinking. 
+ Many jobs that require human interaction and critical, empathetic thinking cannot be automated. Jobs that have a low probability of being automated include social worker, therapist, or university professor. It’s virtually impossible to see a robot doing that. 
+ It is also worth saying that partial job automation (or task automation) will become more prevalent than total automation as robots will complement human labor rather than replace it. For example, artificial intelligence will be able to read patient scans and tests with a higher degree of accuracy than humans and help doctors diagnose illness and identify correct treatments — but we will still need doctors. It will help increase efficiency in the spheres that are prone to human error and allow people to concentrate on their core competencies. 
+ AI 
+ Digital Transformation 
+ Digital Workplace 
+ Intelligent Automation 
+ [ ](https://twitter.com/share?text=How automation is going to affect jobs&url=https://www.workfusion.com/blog/how-automation-is-going-to-affect-jobs/ "Twitter Share") 
+ [ ](http://www.facebook.com/sharer.php?u=https://www.workfusion.com/blog/how-automation-is-going-to-affect-jobs/&p[title]=How automation is going to affect jobs) 
+ [ ](https://www.linkedin.com/shareArticle?url=https://www.workfusion.com/blog/how-automation-is-going-to-affect-jobs/&title=How automation is going to affect jobs) 
+ [ ](https://www.addtoany.com/add_to/email?linkurl=https://www.workfusion.com/blog/how-automation-is-going-to-affect-jobs/&linkname=How automation is going to affect jobs) 
+ Drive productivity with Intelligent Automation Cloud Request demo 
+ READ MORE 
+   
+ 5 Ways Automation Simplifies Mortgage Income Verification 
+ Intelligent Automation makes it easier to access the data needed to make better, faster lending decisions, such as mortgage lending income verification. 
+ January 8, 2020 · 3 min read 
+   
+ Benefits of Intelligent Automation: IA vs RPA 
+ New Everest Group research explains: For long-term success, companies need Intelligent Automation solutions with integrated Artificial Intelligence. 
+ May 13, 2019 · 5 min read 
+   
+ How to Build a Successful Automation Strategy 
+ The strategy is the core of every automation project, and though there is no “one size fits all” approach to it, there are several critical elements that one 
+ October 17, 2019 · 3 min read 
+ Product 
+ Intelligent Automation Cloud 
+ Industries 
+ Banking and Financial Services 
+ Insurance 
+ Healthcare 
+ Other Industries 
+ Insights 
+ Customer Stories 
+ Analyst Reports 
+ White Papers 
+ Automation Blog 
+ Webinars 
+ Events 
+ Training & Support 
+ Training Overview 
+ Customer Support 
+ About Us 
+ Company 
+ Our Leadership 
+ Our Investors 
+ News & Press 
+ Careers 
+ Contact Us 
+ Our Resources 
+ Use Case Navigator 
+ Automation Academy® 
+ Documentation 
+ Community Forum 
+ Partner Directory 
+   
+   
+   
+   
+ (C) 2021 WorkFusion, Inc. All rights reserved. | Phone: [+1 646.453.7974](tel:+1 646.453.7974) |  Privacy Policy 
+ | Cookie Settings 
+ 
+ 

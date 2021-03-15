@@ -1,0 +1,244 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+  Web development jobs  
+ 
+ Evaluating bids 
+ Porting Maodv protocol code from ns-2 to ns-3 
+ Published on the June 07, 2019 in IT & Programming 
+ 
+ Project 
+ Project Insights New 
+ 
+ About this project 
+ it-programming / web-development 
+ USD 100 - 250 
+ The MAODV protocol (described at this link:  https://tools.ietf.org/html/draft-ietf-manet-maodv-00)  has already been implemented for the ns-2 simulator (attached files). However, since the ns-3 simulator is not a continuum of ns-2, we need the ns-2 MAODV protocol code to be ported to ns-3. Tests will be required to know if the protocol implemented in ns-3 is in accordance with the RFC and the results of the literature ( https://ieeexplore.ieee.org/abstract/document/8515831 , 
+ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.93.5446&rep=rep1&type=pdf , 
+ https://ieeexplore.ieee.o 
+ rg/abstract/document/1618213) 
+ Category  IT & Programming 
+Subcategory  Web development 
+What is the scope of the project?  Medium-sized change 
+Is this a project or a position?  Project 
+I currently have  I have specifications 
+Required availability  As needed 
+API Integrations  Other (Other APIs) 
+Roles needed  Developer 
+ Deadline: Not specified 
+ Skills needed 
+ C++   Linux   Network Specialist   Python 
+ Want to start working on this project? 
+ Log into  your Workana account or  Register  today. Boost your freelance work! 
+ Are you looking for a freelancer to do a similar project? 
+ Create your project and get bids from the best freelancers. 
+ Publish your own project   Send your proposal now 
+   
+  A. B. D. S.  
+ 1 
+ Published projects 
+ 0 
+ Projects paid 
+ Member since: June 2019 
+ Project activity 
+ 0 
+ Bids 
+ 0 
+ Interested freelancers 
+  __Previous project  
+  __Next project  
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

@@ -1,0 +1,49 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Remote FULL STACK developer to work with Hong Kong agency needed! REMOTEPERMANENT 
+ Job Description 
+ We are a lean, expert, independent digital agency based in Wong Chuk Hang, Hong Kong. We create beautiful and engaging websites and digital experiences and execute highly targeted performance-driven marketing campaigns. 
+ Who we're looking for: 
+ - Looking for a strong full-stack web developer, with frontend coverage (LAMP) 
+ - Front-end: We're coding in Vue.js / ReactJS, HTML / CSS (Bootstrap), and JavaScript (React Native experience in addition would be a big plus) 
+ - We're generally designing in Sketch, sometimes Photoshop, so the focus is on front end templating from these designs 
+ - Back-end: PHP (Mainly CraftCMS) 
+ - Looking for someone who loves tackling hardcore back-end issues, such as site structure design, API development, and Content Management System integration with frontend. 
+ - LAMP stack experience, able to do non-complex deployments of websites + troubleshoot server issues (on Digital Ocean). 
+ You'll get to: 
+ - Work as part of a lean, talented, agency team that covers strategy, UX / UI design, technical development, and marketing activation for websites, e-commerce, and applications 
+ - We have a broad range of client projects across multi-national brands, SMEs, and funded startups 
+ - Have exposure to broader Butter business services, eg analytics consultancy, conversion optimisation, marketing activation, etc - Overtime is extremely rare, due to strong project/client management 
+ How to Apply 
+ Head over to  https://www.butter.com.hk/jobs  to find out more about us and apply directly! 
+ Contact Info 
+ __  Posted March 1, 2020 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

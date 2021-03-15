@@ -1,0 +1,206 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Research Software Engineer 
+ Princeton University 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Research Software Engineer 
+ __ Princeton University 
+ [](mailto:?subject=Research%20Software%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14258683/research-software-engineer/ "Email")  
+ Application 
+   
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 3, 2021 
+ Location: 
+ Princeton, New Jersey 
+ __ Show Map 
+ Salary: 
+ Open 
+ Research Software Engineer 
+ US-NJ-Princeton 
+ Job ID:  2020-12153 
+ Type:  Full-Time 
+ # of Openings:  1 
+ Category:  Information Technology 
+ Princeton University 
+ Overview 
+ Do you have a background in computational science/engineering research and love to write code? Do you want to help enable and advance groundbreaking computational operations research and financial engineering, with application to energy and the environment? If so, Princeton University's Research Computing department is recruiting a Research Software Engineer to join the fast growing Research Software Engineering (RSE) Group. 
+ In the RSE Group, we collectively provide computational research expertise to multiple divisions within the University. As a central team of software experts, we are focused on improving the quality, performance, and sustainability of Princeton’s computational research software. Our group is committed to building collaborative environments in which the best software engineering practices are valued, and to sharing and applying cross-disciplinary computational techniques in new and emerging areas. 
+ In this position, you will be an integral member of a dynamic research team focused on cutting-edge optimization algorithms for power grid research. You will lead the development of software associated with a  new project  “Stochastic Models, Indices & Optimization Algorithms for Pricing & Hedging Reliability Risks in Modern Power Grids” funded by ARPA-E. You’ll join a team of researchers in the Department of Operations Research & Financial Engineering (ORFE) to develop efficient and scalable research code by providing expertise in software design and development. You’ll also have the opportunity to co-author scientific publications. 
+ If you have a strong background in scientific programming or research software engineering, academic research, and an interest in data, optimization and operations research, you have the right skill set to make an immediate impact on this high-profile research project. You will be poised to grow and expand your programming skills and expertise into a dynamic new set of research problems. 
+ This position will require you to work closely with colleagues in the Office of Information Technology (OIT) as well as with faculty, student/postdoctoral researchers, and technical staff in the ORFE department to enable and accelerate new research efforts. 
+ Responsibilities 
+ 
+ 
+ Quickly understand underlying science, math, statistics, data analysis, and algorithms of computational research questions at a level sufficient to converse on project with Princeton’s world-class researchers. This may consist of independent research (reading publications etc) and/or studying existing code bases. 
+ 
+ 
+ Working independently, quickly translate research priorities into flexible software solutions that will meet potentially vague and nebulous requirements due to the inherent unpredictability of academic research. 
+ 
+ 
+ Regularly meet with, listen to, and ask questions of researchers to ensure that engineered solutions fit the research need. 
+ 
+ 
+ Communicate complex software engineering concepts with large project teams consisting of domain experts each with a varying degree of software engineering knowledge. 
+ 
+ 
+ Identify appropriate solutions for each project and architect a set of applicable best practices uniquely appropriate for that project (e.g version control, continuous integration and continuous delivery, software design, programming model, etc.). 
+ 
+ 
+ To ensure long term maintainability and sustainability of solutions document projects in a descriptive and appropriately detailed manner that can be understood by both researchers and future Research Software Engineers. 
+ 
+ 
+ Provide technical expertise and guidance for improving the performance and quality of new and existing code bases. 
+ 
+ 
+ Lead the design and construction of increasingly complex research software systems in a way that ensures projects are usable, maintainable, and sustainable. 
+ 
+ 
+ Parallelize, debug, port, and tune existing research code to meet criteria set by the research needs. 
+ 
+ 
+ Understand and address software engineering questions that arise in research planning. 
+ 
+ 
+ Maintain knowledge of current and future software development tools and techniques, programming languages, and high-performance computing hardware. 
+ 
+ 
+ Continually keep abreast of a rapidly changing landscape of software engineering best practices, software development techniques, and computational research solutions. 
+ 
+ 
+ Qualifications 
+ 
+ Strong programming skills, particularly in the languages scientific computing applications (e.g. Python, C/C++, and R). 
+ Demonstrated success:
+ 
+ Consistently using conventional and readable coding style. 
+ Performing test-driven development. 
+ Creating comprehensive and well-written documentation. 
+ Participating in regular code reviews as both a reviewer and reviewee. 
+ Developing and maintaining reproducible build systems. 
+ Using version control systems. 
+ 
+ 
+ Demonstrated successes contributing to a collaborative research team. 
+ Ability to work independently. 
+ Ability to learn new systems beyond area of core knowledge. 
+ Ability to communicate effectively with a diverse user base having varied levels of technical proficiencies. 
+ Experience working in an academic research environment. 
+ 
+ Preferred Qualifications 
+ 
+ Operations research experience 
+ Experience tuning and optimizing research software and algorithms. 
+ Parallel programming expertise. 
+ Experience developing research software outside of core domain knowledge. 
+ 
+ Education 
+ A Bachelor’s degree is required. A graduate degree or equivalent experience in a research setting is preferred. 
+ Princeton University is an   Equal Opportunity/Affirmative Action Employer  and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law.   EEO IS THE LAW  
+ PI128141242 
+ 
+ 
+ Internal Number: 128141242 
+  __  Create a Job Alert for Similar Jobs  
+ About  Princeton University 
+ Princeton University is a vibrant community of scholarship and learning that stands in the nation's service and in the service of all nations. Chartered in 1746, Princeton is the fourth-oldest college in the United States. Princeton is an independent, coeducational, nondenominational institution that provides undergraduate and graduate instruction in the humanities, social sciences, natural sciences and engineering.As a world-renowned research university, Princeton seeks to achieve the highest levels of distinction in the discovery and transmission of knowledge and understanding. At the same time, Princeton is distinctive among research universities in its commitment to undergraduate teaching.Today, more than 1,100 faculty members instruct approximately 5,200 undergraduate students and 2,600 graduate students. The University's generous financial aid program ensures that talented students from all economic backgrounds can afford a Princeton education. 
+ Connections working at  Princeton University 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

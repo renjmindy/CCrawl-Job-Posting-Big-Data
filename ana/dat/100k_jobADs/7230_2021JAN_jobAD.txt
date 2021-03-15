@@ -1,0 +1,84 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Whatnot (W20) 
+ The Community Marketplace 
+ General Manager - Trading Cards 
+ 
+ Location 
+ Los Angeles 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Whatnot 
+ Whatnot is a community marketplace where you can buy, sell, go live and geek out with collectors and other like-minded people. Today’s online marketplaces are neither safe nor fun -- they’re full of counterfeits, and you shop by endlessly scrolling through listings. Whatnot verifies every item sold and provides a fun social shopping experience to enjoy with friends and community members. 
+ Whatnot is backed by some of the industry’s best venture capital investors, including Y Combinator, Scribble.vc, Liquid 2 Ventures, and Wonder Ventures. 
+ About the role 
+ About Whatnot 
+ Whatnot is a community marketplace where you can buy, sell, go live and geek out with collectors and other like-minded people. 
+ Whatnot is backed by some of the industry’s best venture capital investors, including Y Combinator, Scribble.vc, Liquid 2 Ventures, Operator Partners and Wonder Ventures. 
+ Responsibilities 
+ 
+ Ensure success within the trading cards category on Whatnot and turn Whatnot into a destination for trading cards 
+ Define and monitor key success metrics in the category and ensure there’s sufficient liquidity for a healthy ecosystem 
+ Partner with large sellers and influencers and convince them to sell and go live on Whatnot 
+ Manage marketing, partnerships and seller onboarding across trading cards and run key marketing activities *. Launch new trading card & related categories on Whatnot including Magic Cards, Yu-Gi-Oh cards and more 
+ Hire and manage a partnership, marketing & community support team as we grow 
+ Stay close to sellers and buyers in the ecosystem to understand user needs and provide the engineering team with key user insights and problems 
+ Be an internal advocate for buyers and sellers in the vertical and ensure we are solving for their pain points 
+ Flex as needed to help with other parts of the business like customer support, trust and safety & more 
+ 
+ Requirements 
+ 
+ Comfort moving fast in an ambiguous work environment with little guidance 
+ You’re a problem solver, so when you confront a new problem you can figure out what to do quickly 
+ You’re incredibly analytical and have experience with SQL 
+ You have experience guiding, managing & hiring a team 
+ Significant partnerships and marketing experience 
+ Comfortable with change. This is a fast growing, and adapting startup -- what you do today may not be what you do tomorrow 
+ Experience working on a marketplace or two-sided platform where you’ve had to balance the needs of multiple parties 
+ 8+ Years works experience in a fast paced environment including startup experience 
+ 
+ Technology 
+ Infrastructure:  AWS, Kubernetes, Serverless 
+ Databases:  Postgres, DynamoDB, ElasticSearch, Redis 
+ Backend:  Python (Flask), Node 
+ Front-End  React, React Native 
+ Other jobs at Whatnot 
+ Partnerships Manager - Sports Cards 
+ fulltime 
+ Los Angeles / Remote 
+ 3+ years 
+ Product Engineer 
+ fulltime 
+ Remote 
+ Full Stack 
+ 6+ years 
+ DevOps Engineer 
+ fulltime 
+ / Remote 
+ Devops 
+ 3+ years 
+ Backend Engineer 
+ fulltime 
+ / Remote 
+ Backend 
+ 3+ years 
+ General Manager - Trading Cards 
+ fulltime 
+ Los Angeles 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

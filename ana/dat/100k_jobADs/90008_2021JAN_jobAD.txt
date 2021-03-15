@@ -1,0 +1,219 @@
+TechWite 
+ News, Opinion, Commentary, Analysis 
+ Menu Skip to content 
+ 
+ Home 
+ About 
+ 
+ 
+ Forecast CLOUDY For IT Jobs and Vendors 
+ Leave a reply 
+ Wake up and smell the drought. IT infrastructure jobs fast evaporating… 
+ via  The Morning Download: Cloud’s Impact on Traditional IT Vendors Looks Increasingly Serious, JPMorgan Chase Says - The CIO Report - WSJ 
+ 
+ "41.6% of corporate workloads at big companies are expected to be running in the public cloud within the next five years, up from 16.2% today." 
+ 
+ _ Hey, this is no happy blog post.  Techwite wants to help, Techwite wants to be positive. And Techwite also wants to speak the truth. Sometimes that means taking a look at what is happening and discussing it. If that's not for you, skip this. I'll have a Tip soon about iCloud Calendars. Otherwise, if you have more information or comments about this post, join in.—TW _ 
+ Make no mistake,  moving to "the cloud" is part of a trend to shift as much of corporate IT as possible into a commodity subscription service, like electricity. Billed monthly by volume used, managed offsite, no local server upgrades or software updates, maintained by  somebody else.  The WSJ article referenced here concerns itself chiefly with the effect on the investment world of mega-cloud vendors Microsoft and  Amazon  on their smaller rivals Oracle and IBM. But from a  human  standpoint, your local IT, your local data center, your local administrator, your local Help Desk, THEY (and if you are one of these people, I am talking about  you)  —ARE ALL GOING AWAY. 
+ " Hybrid Cloud" and "Middleman" Hosting is a stepping stone.  You're company isn't putting everything in the Cloud? Not yet? Accenture, IBM, Dell—somebody like that—can take care of your local IT administration requirements! They'll manage your relationship with Microsoft, and for now you can tell everyone you are "going to Office 365" although technically, you're not. (That would be using Microsoft  totally  as your host for Office…) 
+ Your IT Infrastructure Director may optimistically tell you, "Don't worry, we'll need someone to engage in '  vendor management  ', someone who understands Infrastructure…, and heck, if you get on well with  them  , maybe you can work for the hosting vendor!" 
+ If you know your stuff, you can probably point out that your "hosting vendor" is missing the boat with Microsoft Exchange backups, mobile security, a proprietary and non-standard archive solution that "locks you in", and inefficient mail routing. But how long will  that  save your job if you are seen as a bump in the road to "the full Cloud"? And will that endear you to your potential new employer? Remember, the CIO wants  his  IT Infrastructure to be as easy to manage and replace as an iPad. 
+ Meanwhile, the data center/hosting company is getting squeezed on both ends and trying to survive a similar change. How long can  they  compete with their big brother—and former mentor? Does anyone need a middle man?? Your Account Manager's boss is telling  him  , "Don't worry, we'll probably get absorbed by Microsoft. And either way, you can probably work for them!" 
+ We are seeing a massive consolidation and centralization of data and processing, and elimination of jobs. In addition to the stripping of jobs as the infrastructure ascends to the cloud, much of the work that was outsourced to cheaper labor sources will soon be automated—think robots and " chatbots ". There are going to be fewer and fewer jobs in IT Infrastructure. (Coincidentally, last week the Verizon strike provided an example of this shift:  The Verizon Strike Signals a Larger Economic Battle .) 
+ What about the people?  The overall trend is clear for companies, especially large companies, and service organizations. But what about at the individual level? The level of the gal or guy in IT today? IT is the "service economy" equivalent of the Detroit factory job in the manufacturing economy of 20 years ago. This is just the beginning. Clearly there will be some jobs in hands-on management of Cloud services, such as AWS, and there is still time and opportunity for corporations and small businesses to hang onto that shred of control. As for other opportunities in IT? Infrastructure is going to shrink drastically or disappear altogether. That leaves software development. Web development, mobile apps, databases. The skills will be needed and they are constantly churning, so those who can stay on top of the latest development trends will likely stay employed. 
+ Many of these trends are going to affect the rest of the economy as well. The Uberization of driving jobs will soon shift to autonomous cars and robot assisted shipping. Even the old saw about finding a job "flipping burgers" will not hold true for much longer. Where will people find work? That I would like to know. 
+ 
+ _" …we have to make sure that we have the kinds of policies here at home where we provide people with the skills they need to get the jobs that are available in the economy…" 
+—_US Treasury Secretary Jack Lew,  interview with Kai Ryssdal, Marketplace 
+ 
+ Yes, Jack, we need to be sure that people are trained up for those jobs. But  what  are those jobs? And  where  are they?  Where  are they? 
+ — Techwite 
+ Share this: 
+ 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on Pocket (Opens in new window) 
+ Click to share on LinkedIn (Opens in new window) 
+ Click to share on Tumblr (Opens in new window) 
+ Click to email this to a friend (Opens in new window) 
+ More 
+ 
+ 
+ 
+ Click to share on Facebook (Opens in new window) 
+ Click to share on Pinterest (Opens in new window) 
+ 
+ 
+ Click to share on Reddit (Opens in new window) 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ This entry was posted in  Analysis ,  Commentary ,  News  and tagged  Accenture ,  Amazon ,  AWS ,  BDC ,  Chatbot ,  CIO ,  Cloud ,  CWA ,  Dell ,  Enterprise ,  Facebook ,  Hybrid Cloud ,  IBM ,  ipad ,  Jack Lew ,  Jobs ,  Kai Ryssdal ,  Marketplace ,  Microsoft ,  Office 365 ,  Verizon  on  April 18, 2016  by  christoplummer . 
+ Post navigation 
+ <- Call me Ishmael. Call them Nverts.   Fix Persistent iCloud Calendar Entries -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Support TechWite 
+ Make TechWite Write!! 
+☕️ SUPPORT TechWite! Want to keep reading iconoclastic, curmudgeonly, and occasionally useful insights into technology and the Internet? Use this link to easily make a donation of any amount, which encourages TechWite to continue writing this blog. Use a credit card! No PayPal account necessary! TIA - Thanks in Advance!! 
+ Search for: 
+ Follow TechWite Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Email Address: 
+ Follow 
+ Follow Techwite on Twitter 
+ My Tweets 
+ Tags 
+ 
+ Adam Engst 
+ Advertising 
+ Amazon 
+ Apple 
+ Apple Flashback 
+ Apple Music 
+ BDC 
+ beleaguered 
+ Blog 
+ Blogging 
+ Clock 
+ Cloud 
+ Comcast 
+ Computers 
+ Cyber Warfare 
+ Date 
+ Dell 
+ DITU 
+ Enterprise 
+ Facebook 
+ FBI 
+ GUI 
+ History 
+ Humor 
+ Hybrid Cloud 
+ iCloud 
+ iMac 
+ Instagram 
+ Interface 
+ Internet 
+ iOS 
+ ipad 
+ iphone 
+ iPod 
+ IT 
+ iTunes 
+ Mac 
+ Macintosh 
+ Marketing 
+ Mark Zuckerberg 
+ Microsoft 
+ Microsoft Office 
+ Millennials 
+ Music 
+ NetNeutrality 
+ NSA 
+ Nvert 
+ OSX 
+ Photography 
+ Privacy 
+ Samsung 
+ Siri 
+ SnapChat 
+ Snowden 
+ Starbucks 
+ Star Trek 
+ Status Bar 
+ Steve Jobs 
+ Streaming 
+ Suggestion 
+ Television 
+ Temperature 
+ the Cloud 
+ the Steve 
+ Tim Cook 
+ Tinder 
+ Tips 
+ TV 
+ Twitter 
+ UIX 
+ User Experience 
+ User Inteface 
+ Windows 
+ Windows 95 
+ Xfinity 
+ 
+ Recent Posts 
+ 
+ Old Data Never Dies… 🤙 
+ Clickbait is Killing the Internet 
+ Apple Flashback 2001: SoundJam a Goner 
+ The Federation is Going to Hell 
+ "Courage", Innovation, and Headphone Jacks 
+ 
+ Also from TechWite: 
+ “A Quail in the Family” by William J. Plummer is now available on  Kindle !! 
+ Photographs For Purchase 
+ Unpredictable Mac 
+ Archives 
+ 
+ September 2017 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ 
+ All original content Copyright 2014 - 2019 by ZebraTale, LLC 
+ Create a free website or blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

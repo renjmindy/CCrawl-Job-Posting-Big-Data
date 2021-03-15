@@ -1,0 +1,393 @@
+Richard WM Jones 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+   
+ Tag Archives: whenjobs 
+ September 20, 2013 * 8:57 pm 
+ Goaljobs, part 4 
+ In  part 3  I described how to write targets which can access network resources, and how to use memoization to make them run fast. In this (last) part of the series, I'll describe the final feature of goaljobs -- periodic jobs. 
+ If you wanted to use  make  to monitor a git repository and do a build when a new commit appears there would I guess be three choices: You could just run the  make  command manually over and over again. You could have a git hook that runs  make . Or you have a cron job the periodically checks the git repository. 
+ The git hook is the ideal solution for goaljobs too, but goaljobs also has cron-like  periodic jobs  built in, and they are very easy to use: 
+ 
+every 30 minutes (fun () ->
+  let commit =
+    shout "cd %s && git rev-parse HEAD" repo in
+  require (git_commit_tested commit)
+)
+ 
+ every 30 minutes  is self-explanatory (right?). The function that runs every half-an-hour is two lines of code. The first line uses  shout  to run a  sh  ell command and capture the  out  put. In this case git prints the current commit. The second command requires that the  git_commit_tested  goal is reached for this commit. 
+ One way to implement this goal would be: 
+ 
+let goal git_commit_tested commit =
+  let key = sprintf "repo-tested-%s" commit in
+  target (memory_exists key);
+
+  sh "
+      git clone %s test
+      cd test
+      ./configure
+      make
+      make check
+  " repo_url;
+
+  memory_set key "1"
+ 
+ This code clones the repository and runs  make check  to test it. It uses the Memory (ie. memoization) to ensure that the tests are run at most once per commit. 
+ Actually this is not quite true: the tests run successfully once, but if the test fails, it will keep running every 30 minutes and nag you about it. It's trivial to change the memoization to remember failures as well as successes, or you could consider the repeated nagging to be a feature not a bug … 
+ That's it! The goaljobs website  will  be this (I've not uploaded it yet, but will do in the next day or two): 
+ http://people.redhat.com/~rjones/goaljobs 
+ You can also download the code from the  git repository  and the goals I've written from  this repository . 
+ Leave a comment 
+ Filed under  Uncategorized 
+ Tagged as  business rules ,  goaljobs ,  ocaml ,  whenjobs 
+ September 20, 2013 * 11:03 am 
+ Goaljobs, part 3 
+ In  part 2  I introduced an example goaljobs script that can rebuild a set of packages in Fedora in the right order. 
+ It's time to take a closer look at  targets  -- the promise that you make that some condition will be true by the time a goal has run. 
+ In the Fedora rebuild script the goal targets looked like this: 
+ 
+let goal rebuilt pkg =
+  **target (koji_build_state (fedora_verrel pkg branch)
+               == `Complete);**
+  ...
+ 
+ koji_build_state  is a regular function. It's implemented using the  koji buildinfo  command line tool for querying  the Koji build system . (The koji command line tool is annoyingly hard to automate, but as we've got a complete programming language available -- not just bash --  the implementation of  koji_build_state  is tedious and long, but doable). 
+ Querying Koji takes a few seconds and we don't want to do it every time we check a goal. Goaljobs offers a feature called "The Memory" which lets you  memoize  functions. "The Memory" is just a fancy name for a key/value store which is kept in  ~/.goaljobs-memory  and persists across goaljobs sessions: 
+ 
+let koji_build_state verrel =
+  let key = sprintf "koji_build_complete_%s" verrel in
+  if **memory_exists key** then
+    `Complete
+  else (
+    _(* tedious code to query koji *)_
+    if state == `Complete then
+      **memory_set key "1"** ;
+    state
+  )
+ 
+ With strategic use of memoization, evaluating goaljobs goals can be very fast and doesn't change the fundamental contract of targets. 
+ Finally in this part: a note on how targets are implemented. 
+ A target is a boolean expression which is evaluated once near the beginning of the goal. If it evaluates to true at the beginning of the goal then the rest of the goal can be skipped because the goal has already been achieved / doesn't need to be repeated. 
+ And since targets are just general expressions, they can be anything at all, from accessing a remote server (as here) to checking the existence of a local file (like make). As long as something can be tested quickly, or can be tested slowly and memoized, it's suitable to be a target. 
+ 1 Comment 
+ Filed under  Uncategorized 
+ Tagged as  business rules ,  cron ,  goaljobs ,  make ,  ocaml ,  whenjobs 
+ September 20, 2013 * 9:04 am 
+ Goaljobs, part 2 
+ In part 1  I showed how a simple make rule could be converted to a special "goal" function and I hinted that we were not limited to just the "file is older than" semantics implicit in make. 
+ So let's have a look at  the goals I wrote  to  automate the recent OCaml rebuild in Fedora . 
+ Recall from part 1: Targets are a contractual promise that you make in goaljobs. They are a promise that some condition will be true after running the goal. Requirements are conditions that must be true before the goal can start running. 
+ For a Fedora package to achieve the goal of being rebuilt, the target is that the Koji build state of the current release must be "Completed". The requirements are that every dependency of the package has been rebuilt. So: 
+ 
+let goal **rebuilt pkg** =
+  **target (koji_build_state (fedora_verrel pkg branch)
+               == `Complete);**
+
+  _(* Require the rebuild to have started: *)_
+  **require (rebuild_started pkg);**
+
+  _... some code to wait for the build to finish ..._
+ 
+ The above code is not complete (it's a complex, real-world working example after all). 
+ I split the  rebuilt  goal into two separate goals for reasons that will become clear later. But the first goal above says that the package rebuild must have been started off, and we'll wait for the package build to complete. 
+ Note that once the build is complete, the target promise is true. 
+ The subgoal  rebuild_started  is defined like this: 
+ 
+let goal **rebuild_started pkg** =
+  _(* The dependencies of this package: *)_
+  let deps = List.assoc pkg pkg_deps in
+
+  **target (
+     match koji_build_state (fedora_verrel pkg branch) with
+          | `Building | `Complete - > true
+          | _ -> false
+    );**
+
+  _(* All dependent packages must have been fully rebuilt: *)_
+  List.iter (fun dep -> **require (rebuilt dep)** ) deps;
+
+  _(* Rebuild the package in Koji. *)_
+  koji_build pkg branch
+ 
+ It's saying that the target (promise) will be that the Koji package will either be building or may even be complete. And that we first of all require that every build dependency of this package has been completely, successfully rebuilt. If those requirements are met, we tell Koji to start building the package (but in this goal we don't need to wait for it to complete). 
+ Why did I split the goal into two parts? 
+ The reason is that I want to define a make-like  all  goal: 
+ 
+let goal **all** () =
+  List.iter (fun pkg -> **require (rebuild_started pkg)** )
+    source_packages
+ 
+ This iterates over all my source packages and  starts  rebuilding them. 
+ Note it doesn't wait for each one to be rebuilt …  unless  they are required as dependencies of another package, in which case the  require (rebuilt dep)  will kick in and wait for them before rebuilding the dependent package. 
+ In other words, this code automatically resolves dependencies, waiting where necessary, but otherwise just kicking off builds, which is exactly what I wanted. 
+ 
+ Finally a bit about how you use a goaljobs script. Unlike  make  you have to compile the script into a binary. To compile the script, use the convenient wrapper  goaljobs  (it's a simple shell script that invokes the OCaml compiler): 
+ 
+goaljobs fedora_ocaml_rebuild.ml
+ 
+ This makes a binary called  fedora_ocaml_rebuild  which is the program for mass-rebuilding the whole of Fedora's OCaml subset. 
+ When you run it with no arguments, it searches for a goal called  all  and "requires" that goal (just like  make ). 
+ You can also run other goals directly. Any goal which is "published" can be run from the command line. All goals that have no parameters -- such as  all  -- are published automatically. 
+ For goals that take parameters, if you want to use them from the command line you have to publish them manually. The reason is that you have to provide a small code snippet to convert the command line parameters to goal parameters, which may involve type conversion or other checks (since OCaml is strongly typed and parameters can be any type, not just strings or filenames). 
+ 1 Comment 
+ Filed under  Uncategorized 
+ Tagged as  business rules ,  cron ,  goaljobs ,  make ,  ocaml ,  whenjobs 
+ September 19, 2013 * 10:16 pm 
+ Goaljobs, part 1 
+ A little more than a year ago I released  whenjobs  which was an attempt to create a practical language for automating complex "business rules". The kind of thing I'm talking about is managing the many diverse steps between me  tagging a libguestfs commit with a version number  and a  fully tested tarball appearing on the website . Or the hundreds of steps that go into  100 OCaml packages being updated and rebuilt for Rawhide . 
+ Whenjobs wasn't the right answer.  Goaljobs [very early alpha]  might possibly be. 
+ What I need is something which is flexible, can deal with failures (both hard and intermittent), and can be killed and restarted at any point. 
+ The first observation is that  make  is nearly the right tool. It's goal-based, meaning that you set down a target that you want to have happen, and some rules to make that happen, and this lets you break down a problem from the larger goal ("build my program!") to smaller subgoals ("compile this source file"). 
+ program: main.o utils.o
+  cc $^ -o $@
+ 
+ The goal is " program  is built". There are some requirements ( main.o ,  utils.o ), and there's a recipe (run  cc ). You can also kill make in the middle and restart it, and it'll usually continue from where it left off. 
+ Make also lets you parameterize goals, although only in very simple ways: 
+ %.o: %.c
+  cc -c $< -o $@
+ 
+ Implicit in the ":" (colon) character is make's one simple rule, which is roughly this: "if the target file doesn't exist, or the prerequisite files are newer than the target, run the recipe below". 
+ In fact you could translate the first make rule into an ordinary function which would look something like this: 
+ function build_program ()
+{
+  if (!file_exists ("program") ||
+      file_older ("program", "main.o") ||
+      file_older ("program", "utils.o")) {
+    shell ("cc -c %s -o %s", "main.o utils.o",
+           "program");
+  }
+}
+ 
+ Some points arise here: 
+ 
+ Why can't we change the target test to something other than "file exists or is newer"? 
+How about "remote URL exists" (and if not, we need to upload a file)? 
+How about "Koji build completed successfully" (and if not we need to do a Fedora build)? 
+ What could happen if we could add parameters to  build_program ? 
+ 
+ Goaljobs attempts to answer these questions by turning make-style rules into "goals", where goals are specialized functions similar to the one above that have a target, requirement(s), a recipe to implement them, and any number of parameters. 
+ For example, a  "compile *.c to *.o" goal  looks like this: 
+ let goal compiled c_file =
+  _(* convert c_file "foo.c" - > "foo.o": *)_
+  let o_file = change_file_extension "o" c_file in
+
+  target (more_recent [o_file] [c_file]);
+
+  sh "
+    cd $builddir
+    cc -c %s -o %s
+  " c_file o_file
+ 
+ The  goal  is called  compiled  and it has exactly one parameter, the name of the C source file that must be compiled. 
+ The  target  is a promise that after the recipe has been run the *.o file will be more recent than the *.c file. The target is both a check used to skip the rule if it's already true, but also a contractual promise that the developer makes (and which is checked by goaljobs) that some condition holds true at the end of the goal. 
+ sh  is a lightweight way to run a shell script fragment, with printf-like semantics. 
+ And the whole thing is wrapped in a proper programming language (preprocessed OCaml) so you can do things which are more complicated than are easily done in shell. 
+ 6 Comments 
+ Filed under  Uncategorized 
+ Tagged as  business rules ,  cron ,  goaljobs ,  make ,  ocaml ,  whenjobs 
+ March 13, 2012 * 8:45 pm 
+ whenjobs 0.7.0 released 
+ I've just released  whenjobs 0.7.0  to fix a couple of problems that I was having myself. 
+ Firstly, while it's a nice feature of whenjobs that I can set variables, sometimes I don't want jobs to be triggered as a result of setting variables. The new  whenjobs --whisper  command lets me set variables without reevaluating when-clauses: 
+ 
+$ whenjobs --whisper libguestfs_version=1.17.16
+ 
+ Secondly, my jobs file was getting pretty long and unmaintainable (400 lines), since I added various libguestfs branches and hivex to be managed by whenjobs. So I've added a feature where you can split the jobs file into multiple files: 
+ 
+$ ls -l .whenjobs/*.ml
+-rw-rw-r--. 1 rjones rjones 3284 Mar 13 19:10 .whenjobs/jobs_hivex.ml
+-rw-rw-r--. 1 rjones rjones 4039 Mar 13 19:07 .whenjobs/jobs_libguestfs.ml
+-rw-rw-r--. 1 rjones rjones 3766 Mar 13 19:09 .whenjobs/jobs_libguestfs_stable.ml
+-rw-rw-r--. 1 rjones rjones   45 Mar 13 19:10 .whenjobs/jobs.ml
+ 
+ I think I described whenjobs as a "cron replacement". It is a cron replacement for me, for my personal use, but it's not officially a cron replacement and this project has nothing whatsoever to do with Red Hat or Fedora. The reason I say this is I get some  pretty idiotic comments like these . 
+ Leave a comment 
+ Filed under  Uncategorized 
+ Tagged as  cron ,  freebsd ,  linux ,  ocaml ,  whenjobs 
+ March 10, 2012 * 2:45 pm 
+ whenjobs 0.6 released 
+ whenjobs  0.6 fixes two out of three bugs  mentioned previously , and fixes  the bug Joe found  in  whenjobs --daemon-start  (et al). 
+ Changes: 
+ 
+ 
+ You can set multiple variables atomically, using: 
+ whenjobs --set cat=sushi food=fish 
+ 
+ 
+ The effect is that when-clauses are reevaluated only after all the variables have changed, rather than after each change as before. 
+ 
+ 
+ You can test the effect of setting variables, without setting them (or running jobs). The new  --test  option displays which jobs  would  run: 
+ $ whenjobs --test food=meat
+job$1
+job$5 
+ 
+ 
+ whenjobs --daemon-{start,restart,status}  now all work as expected 
+ 
+ 
+ whenjobs --job-names  lists job names of all loaded jobs, whether running or not. 
+ 
+ 
+ Leave a comment 
+ Filed under  Uncategorized 
+ Tagged as  cron ,  whenjobs 
+ March 10, 2012 * 7:49 am 
+ Joe 'Zonker' Brockmeier looks at whenjobs 
+ https://www.linux.com/learn/tutorials/552976:weekend-project-take-a-look-at-cron-replacement-whenjobs 
+ I've been using whenjobs quite a lot (probably I'm the single most extensive user). Some things I like: 
+ 
+ The ability to list jobs and 'tail' the output of jobs as they are running. A big improvement over cron where jobs are effectively opaque and undebuggable. 
+ Restarting jobs because of temporary failures. 
+ 
+ And some things I don't like: 
+ 
+ You can't set multiple variables atomically. 
+ It's hard to predict the effect of setting a variable, ie. which jobs will run after you execute a particular  whenjobs --set  command. 
+ It probably would be better if whenjobs could work across mulitple hosts, with each host having a shared view of the current variable state. 
+ 
+ (The first two of these are fairly simple to fix) 
+ Leave a comment 
+ Filed under  Uncategorized 
+ Tagged as  linux.com ,  whenjobs ,  zonker 
+ February 29, 2012 * 9:39 pm 
+ Whenjobs now managing libguestfs development releases 
+ I finally got  whenjobs  to entirely manage the libguestfs release process (still to do: stable branches, testing on anything except Fedora). 
+ It is triggered by tagging a version in git, whereupon the script takes over, building a tarball, testing the tarball, pushing it to the website, and kicking off a build in Rawhide. 
+ So far it's been a success, to some degree. In hindsight I could probably have used  incron , although that is far more ugly and would have been a real hack. Plain ol' make might have worked too, although it would have required more babysitting. 
+ More here including the script … 
+ Leave a comment 
+ Filed under  Uncategorized 
+ Tagged as  libguestfs ,  whenjobs 
+ February 24, 2012 * 1:10 pm 
+ whenjobs -- job lists, cancelling, algorithmic cleanup etc 
+ You can now list and cancel jobs: 
+ 
+$ **whenjobs --jobs**
+61 job$1
+	running in: /tmp/whenjobs20d88a48f2c4eb0062e1b44ded6d0ae7
+	started at: 2012-02-23 22:43:20
+62 job$2
+	running in: /tmp/whenjobse9e6b93c3ced1967cbf8c5865d6a1ccb
+	started at: 2012-02-23 22:43:20
+$ **whenjobs --cancel 62**
+ 
+ You can manually start jobs. Gerd's  ocamlnet  makes it almost trivial to add new RPCs between the tool and the daemon, so adding functions like this is simple. 
+ You can put arbitrary OCaml actions into the job script too, so you can run code when a job is cleaned up, and you will (soon) be able to create jobs algorithmically. For example, the standard  mailto  cleanup lets you send mail containing the output of the job when it finishes. 
+ 
+let from = "me@example.com"
+let to_addr = "you@example.com"
+let prefix = "hostname "
+let script = << # shell script here >>
+
+job (prefix ^ "poll")
+cleanup (Whentools.mailto ~from to_addr)
+every minute : script
+ 
+ Leave a comment 
+ Filed under  Uncategorized 
+ Tagged as  cron ,  ocaml ,  unix ,  whenjobs 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ Turing Pi 1 
+ nbdkit 1.24 & libnbd 1.6, new copying tool 
+ nbdkit 1.24, new data plugin features 
+ Read and writing VMware .vmdk disks 
+ Loop mount an S3 or Ceph object 
+ Ridiculously big "files" 
+ FUSE mounting on top of a file 
+ Notes to self on frama-c 
+ FTTH! 
+ Raspberry Pi 4 running Fedora 32 
+ nbdkit Windows port contd. 
+ nbdkit now ported to Windows 
+ AMD Zen 2 laptop 
+ nbdkit tar filter 
+ nbdkit with BitTorrent 
+ Compressed RAM disks 
+ nbdkit C script plugins 
+ OCaml RISC-V port is now upstream! 
+ Golang bindings for both libnbd and nbdkit 
+ New nbdkit "remote tmpfs" (tmpdisk plugin) 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ problemchild68 on  Fedora/RISC-V is finished! 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recent technical art…  on  Read and writing VMware .vmdk… 
+ 
+ 
+ 
+ nbdkit 1.24 & li…  on  nbdkit 1.24, new data plugin… 
+ 
+ 
+ 
+ nbdkit 1.24, new dat…  on  New nbdkit data strings 
+ 
+ 
+ 
+ Read and writing VMw…  on  VMware VDDK plugin for nb… 
+ 
+ 
+ 
+ Jonesforth Port to R…  on  JONESFORTH git repository 
+ 
+ 
+ David Hildenbrand on  Virtio balloon 
+ 
+ 
+ 
+ 
+ rich  on  Virtio balloon 
+ 
+ 
+ David Hildenbrand on  Virtio balloon 
+ 
+ 
+ 
+ 
+ rich  on  Ridiculously big "files… 
+ 
+ 
+ 
+ 
+ 
+ About the author 
+ 
+ 
+ I am Richard W.M. Jones, a computer programmer. I have strong opinions on how we write software, about Reason and the scientific method. Consequently I am an atheist  [To nutcases: Please stop emailing me about this, I'm not interested in your views on it]  By day I work for Red Hat on all things to do with virtualization. I am a "citizen of the world". 
+ My motto is "often wrong". I don't mind being wrong (I'm often wrong), and I don't mind changing my mind. 
+ This blog is  not  affiliated or endorsed by Red Hat and all views are entirely my own. 
+ 
+ 
+ 
+ 
+ 
+ aarch64   AMD   ARM   bbc   c++   centos   cluster   cron   debian   disk image   febootstrap   fedora   filesystems   fosdem   fpga   FUSE   gigabyte   git   guestfish   guestfs-browser   guestmount   hardware   hivex   ideas   kernel   kvm   kvm forum   libguestfs   libguestfs-1.12   libnbd   libvirt   linux   lvm   nbd   nbdkit   ocaml   odroid   openstack   performance   perl   programming   python   qemu   rants   red hat   registry   rhel   risc-v   rpm   security   talk   tip   ubuntu   v2v   video   virt-builder   virt-cat   virt-df   virt-edit   virt-inspector   virt-install   virt-manager   virt-p2v   virt-rescue   virt-resize   virt-sysprep   virt-tools   virt-v2v   virt-win-reg   virtualization   virtual machine   vmware   whenjobs   windows   windows registry 
+ 
+   RSS - Posts 
+ 
+   RSS - Comments 
+ Richard WM Jones  * Virtualization, tools and tips 
+ Create a free website or blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

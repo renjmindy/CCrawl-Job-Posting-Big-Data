@@ -1,0 +1,12 @@
+ Qualifications: 
+ You are highly self-motivated, resourceful, and enjoy working alongside a motivated team 
+ You love learning new things fast and staying up on technology 
+ You are exceptionally thoughtful and knowledgeable with regards to how systems scale with increasing usage and data 
+ You have 5+ years of work experience on software development deployed cloud-based systems 
+ You have experience with general purpose software programming languages (e.g. Python, Java, Javascript, etc.) 
+ Preferred Qualifications 
+ 3+ years of experience building architecture on AWS 
+ Experience designing and building data pipelines at scale using distributed architectures 
+ Experience developing infrastructure and tooling to support a data-centric company 
+ Familiarity with machine learning and image processing workflows 
+ Strong understanding of geospatial data and experience with geospatial information systems (GIS) 

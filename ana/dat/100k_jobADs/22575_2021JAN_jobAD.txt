@@ -1,0 +1,242 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Data Engineer 
+ at Gousto 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ About Us 
+ Here at Gousto, we are on a mission to become the UK's favourite way to eat dinner! 
+ Delicious recipes, precise ingredients & a dollop of adventure, delivered to your door. We have invested into our technology, data capability and our product to ensure the customer is at the heart of what we do. Every aspect of our business is powered by our passion. 
+ Whether it is innovation through our recipe development, building algorithms to optimise our recipe box journey or devising strategies to reduce plastic and food waste. All our teams play a part in our amazing growth in the UK! 
+ Our DREAM? To be the most-loved way to eat dinner, and for every meal to leave the planet better off. Gousto is changing how people shop, cook and eat food at home. It’s an incredibly exciting time to join our team! 
+ Data Engineer 
+ Gousto has a strong data culture: we believe that data is the voice of our customers and therefore it is an integral part of all departments. We’re looking for a Data Engineer to join our Data Engineering Team consisting of Data and Analytics engineers. 
+ You will use modern, cloud-based technologies such as Python, Airflow, Snowplow, Kinesis, Redshift, and AWS Lambda to create, enhance and improve our data pipelines. These pipelines are the backbone to many of our data products - not just to analytics providing deep insights on our customers' behaviour, but also to various machine learning and optimisation algorithms that are a crucial part of our business. 
+ You’ll work hand-in-hand with our Data Scientists and Product Managers, ensuring that the pipeline is clean, efficient and scalable as the business continues to grow massively. If you’re a natural problem solver and are passionate about data, you’ll fit right in. 
+ What you will do! 
+ 
+ Own and improve our Data Pipeline – Data is used at all levels of our business to make key decisions. It also powers numerous algorithms that form a crucial part of our business across our warehouse, procurement, marketing and our digital products. 
+ Champion building scalable and resilient data infrastructure. We are striving to keep improving it as we grow, so a big part of this role will be investigating next-generation data processing & analytics technologies 
+ You will continue to scale up our Data Warehouse. Using Redshift you will be accountable across our data pipeline. 
+ Obsess over quality – As a data enthusiast you must have already heard a quote  " garbage in, garbage out" . Being able to guarantee accurate data is key. 
+ Bring new and innovative engineering practices into the team. Our people believe in growth. You will seek to improve and iterate to ensure we are scaling data in the best way! 
+ You will also get involved in defining and building our Data Infrastructure in AWS, defining resources in code and contributing to Gousto’s larger cloud platform. 
+ 
+ We are still in the early stages of our data journey at Gousto and data is already an integral part of our business. We have and will continue to invest significantly in our Data Platform. 
+ As part of our Data Engineering squad you will get to influence and drive our long term data strategy, come up with innovative solutions for ingesting data from disparate sources, ensure data quality and work as part of an Agile squad focussed on getting real-time, quality data to our products and machine learning algorithms. 
+ Requirements 
+ Who you are! 
+ 
+ Cloud Architecture exposure (AWS and Redshift preferably) 
+ Extensive experience with ETL design, implementation & maintenance 
+ Proven experience with data warehousing and data modelling 
+ Experience of Pyspark and/or distributed compute engines 
+ Extensive experience with Python 
+ Ability to write efficient SQL queries 
+ 
+ Bonus points for 
+ 
+ Experience with Airflow 
+ Experience with event tracking (Snowplow or equivalent) 
+ Experience with graph databases (like neo4j) 
+ Agile methodology exposure 
+ Experience with deploying machine-learning algorithms in production 
+ 
+ What’s it like working at Gousto? 
+ All of us are responsible for the success of Gousto. Our guiding values - dream, deliver and care - show our commitment to innovation, our ambition to hit goals at speed, and our deep respect for the people we work with. 
+ Our Values! 
+ Dream 
+ Be confident in your curiosity: think big, aim high and respectfully stand up for what you believe in. 
+ Deliver 
+ We look for effective answers that will have a real impact, take initiative to solve problems and have a healthy impatience for change. 
+ Care 
+ We care about our colleagues, customers and suppliers - they are key to our success - and about where our food comes from, the quality of our ingredients and our impact on the environment. 
+ Benefits 
+ At Gousto we are constantly looking to evolve our benefits for our people. Employees at Gousto are the key ingredient to our success and growth! 
+ Our offices are ergonomically tested for comfort, noise levels and ensuring we have different spaces to collaborate in. Not to mention daily coffee, tea, fruit and ice creams (vegan options too!). We have weekly Friday socials ranging from team updates, birthday celebrations, meet ups and more! Soft drinks, beer, wine and more snacks included! (Well we do love food) 
+ Ping pong, gaming events, running clubs to pub clubs, wellbeing days and quarterly people events are just a few of the initiatives in place. 
+ All Gousto employees are offered a benefits package of: 
+ 
+ 25 days holiday (plus bank holidays) - You can buy up to 5 days extra holiday! 
+ A holiday day added each year (up to 30 days) 
+ 40% Gousto discount 
+ Your first Gousto box FREE 
+ 25% Gousto discount for friends and family 
+ Gousto Academy training courses 
+ Free food & recipes from the test kitchen 
+ Gousto stash - hoodie, notepad, mug 
+ 
+ For the full Gousto list of benefits just get in touch and we can share all the details! 
+ Equal opportunities 
+ Whether it is creating diversity in our recipes or building new teams, we care about our people and the opportunities they have at Gousto. 
+ We are committed to equality of opportunity across our organisation. At all levels we promote equality, ensuring our people are consistently treated in a fair and equal manner. 
+ Go Gousto! 
+ Published at 5 Nov 2020 - Expires on 22 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Gousto 
+ fulltime  Lead Engineer (Supply)  at Gousto in London 
+ __21-10-2020 
+ fulltime  Senior Backend Software Engineer (Menu)  at Gousto in London 
+ __21-10-2020 
+ fulltime  Multi-Skilled Maintenance Engineer  at Gousto in London 
+ __31-10-2020 
+ fulltime  Senior Product Analyst (Menu)  at Gousto in London 
+ __05-11-2020 
+ fulltime  Senior Data Engineer  at Gousto in London 
+ __05-11-2020 
+ fulltime  Product Manager - Supply  at Gousto in London 
+ __06-11-2020 
+ fulltime  Senior Data Scientist (Forecasting)  at Gousto in London 
+ __08-11-2020 
+ fulltime  Principal Data Scientist  at Gousto in London 
+ __08-11-2020 
+ fulltime  Senior Data Scientist (Menu)  at Gousto in London 
+ __08-11-2020 
+ fulltime  Solutions Architect (Supply Chain)  at Gousto in London 
+ __24-11-2020 
+ fulltime  Product Manager - Retention  at Gousto in London 
+ __02-12-2020 
+ fulltime  Warehouse Operations Manager  at Gousto in London 
+ __03-12-2020 
+ fulltime  Technical Operator  at Gousto in London 
+ __09-12-2020 
+ fulltime  Data Analyst  at Gousto in London 
+ __10-12-2020 
+ fulltime  Security Analyst  at Gousto in London 
+ __12-12-2020 
+ fulltime  Infrastructure Engineer  at Gousto in London 
+ __12-12-2020 
+ fulltime  People Services & Reward Manager  at Gousto in London 
+ __15-12-2020 
+ fulltime  Supply Chain Planning Manager  at Gousto in London 
+ __24-12-2020 
+ fulltime  Head of People (Fulfilment)  at Gousto in London 
+ __29-12-2020 
+ fulltime  Production Planning Manager  at Gousto in London 
+ __30-12-2020 
+ fulltime  Warehouse Operations Manager  at Gousto in London 
+ __05-01-2021 
+ fulltime  Junior Technical Coordinator  at Gousto in London 
+ __07-01-2021 
+ fulltime  Health and Safety Manager  at Gousto in London 
+ __09-01-2021 
+ fulltime  Operations Manager  at Gousto in London 
+ __09-01-2021 
+ fulltime  HR Business Partner  at Gousto in London 
+ __09-01-2021 
+ fulltime  Junior Recipe Developer  at Gousto in London 
+ __09-01-2021 
+ fulltime  Lead Data Analyst (Menu)  at Gousto in London 
+ __09-01-2021 
+ fulltime  Product Analyst  at Gousto in London 
+ __09-01-2021 
+ fulltime  Recipe Developer  at Gousto in London 
+ __09-01-2021 
+ fulltime  Materials Planner  at Gousto in London 
+ __13-01-2021 
+ fulltime  Engineering Manager  at Gousto in London 
+ __13-01-2021 
+ fulltime  Nights Transport Coordinator  at Gousto in London 
+ __14-01-2021 
+ fulltime  Forklift truck drivers  at Gousto in London 
+ __15-01-2021 
+ fulltime  Learning Advisor  at Gousto in London 
+ __17-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

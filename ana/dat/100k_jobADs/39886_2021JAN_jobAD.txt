@@ -1,0 +1,108 @@
+Skip to content 
+ 
+ Keeping Computing Personal 
+ About a QML Junior Job 
+ Few days ago,  we  received a  bug report  about the  Plasma  calculator widget (plasmoid). Seeing that this bug had also been reported a few months earlier, I wondered how hard it would be to fix it. 
+ The calculator widget is written in  QML , a relatively young language, so my experience is rather limited. But playing with QML widgets is very easy: you just need a text editor, change the source, and use the  plasma-windowed  command to launch the modified plasmoid. No compilation or installing is needed. 
+ So did I fix the bug? Yes and no. Changing some "if's", I was able to fix the bug, but playing with the calculator, I noticed a severe regression: If you typed "3+4+5=6+7=" it would first calculate 12, then 25. 
+ To be honest, I was simply too lazy to investigate further. I reverted the changes, and marked the bug as a  Junior Job  instead. These are bugs that KDE developers believe to be relatively easy to fix. My intention was evil: Someone else should get his hands dirty! And I got rewarded … 
+ A few days later, Paul added a patch to the bug report, fixing it without nasty regressions. After it went through code review at reviewboard.kde.org, it had been committed to the KDE code repositories, and you can see his work starting with the coming 4.11.2 release of our software compilation. 
+ Why am I telling you all this? First, if you are a looking for a way to contribute to KDE projects, the list of junior jobs might be a good start. If you get stuck and need help, check  http://techbase.kde.org/Contribute . It contains many links for ways to contact KDE developers. 
+ Second, as the maintainer of KDE software, you should keep an eye on bug reports. If a bug looks easy, do not fix it immediately, but mark it as a junior job instead. This way, you give new contributors a chance to start contributing. Without a list of junior jobs, you will have a much harder time finding help. 
+ And finally, the number of Plasma widgets written in QML is growing. Even if not marked as a junior job, some Plasma bugs can be solved without much coding experience. See  this bug  for another example. 
+ Like this: 
+ Like Loading... 
+ Related 
+ Author   kdepepo Posted on  September 13, 2013 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Post navigation 
+ Previous Previous post: ImageZero 5x faster than WebP 
+ Next Next post: KDEPIM back from holidays: You got mail! 
+ Recent Posts 
+ 
+ Teaching Comparing Strings in Python the Hard Way 
+ About deprecation of QFontMetrics::width() 
+ Celebrating 10 Years with KDE 
+ KF5 Applications Porting 
+ Smaragd for Plasma 5 
+ KF5 Porting Progress 
+ February Bug of the Month 
+ January Bug of the Month 
+ December Bug of the Month 
+ The Bug of the Month 
+ KDEPIM back from holidays: You got mail! 
+ About a QML Junior Job 
+ ImageZero 5x faster than WebP 
+ Reverse Antialiasing for Image Scaling 
+ Fast Lossless Color Image Compression 
+ Troubleshooting kded4 Bugs 
+ Smaragd adds Emerald window decorations to KDE 
+ Sounds on message dialogs 
+ Emerald window decoration themes on KDE 
+ Accelerating color gradients 
+ 
+ Top Posts & Pages 
+ 
+ Accelerating color gradients 
+ Global Strut Feature 
+ High-DPI aware KDE applications 
+ Reverse Antialiasing for Image Scaling 
+ 
+ Archives 
+ 
+ September 2020 
+ August 2019 
+ June 2018 
+ July 2017 
+ December 2016 
+ February 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ September 2013 
+ October 2012 
+ August 2012 
+ January 2012 
+ May 2011 
+ September 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ February 2010 
+ December 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ October 2008 
+ 
+ Pages 
+ 
+ About 
+ 
+ Keeping Computing Personal   Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

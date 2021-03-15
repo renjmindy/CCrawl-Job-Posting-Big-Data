@@ -1,0 +1,629 @@
+Skip to content 
+ 
+ Welcome to Ray Kim's 'blog 
+ Thoughts about professional development, technical communication, technology, and living life 
+ Primary Menu 
+ 
+ Home 
+ About 
+ My presentations 
+ The Write Stuff 
+ Troy -- A Major-League City 
+ 
+ When Troy Was A Major League City -- Acknowledgements and Bibliography 
+ 
+ 
+ Contact 
+ 
+   
+ Category: Professional Development 
+ Setting up my #Sessionize profile, and speaking opportunities -- #DataSaturday 
+   
+ The other day,  I wrote about  how  Data Saturday  -- the successor to SQL Saturday -- was making use of  Sessionize  for event applications and scheduling. In order to take advantage of the technology, not to mention future opportunities to speak, I took the time to  work on my Sessionize profile . 
+ It turned out to be a lot of work -- much more than I expected. I already had my bio and my presentation descriptions within the application, but I discovered a number of other features that, I believe, will present me with additional opportunities to speak. 
+ First, while Sessionize keeps track of events to which you apply through its application, I discovered that it also has the ability to enter external events not scheduled through Sessionize. Even the header on the external events page says, "Organizers love to see your talk history" (and I agree). So, I went through  my presentations page  to enter all my previous speaking engagements that I did not schedule through Sessionize. 
+ Did I mention that it was a lot of work? I started speaking regularly in 2015. In that time (until now), I've spoken at 26 SQL Saturdays, two PASS Summits, seven in-person user group meetings, three professional development virtual meetings, and a podcast. Granted, I know people who've spoken at more events than I have, but still, that's a lot of speaking engagements. I added them to my external events, including descriptions and web links (where applicable -- since  PASS.org is no longer active , I linked the SQL Saturday pages to  the schedule PDFs that I downloaded several weeks ago , and a few other links to  any YouTube presentation links I had available ). 
+ I also discovered that Sessionize has an option called "discover events" -- a feature that allows you to discover potential speaking opportunities. I had gone through the Data Saturdays site to apply to speak at (virtual) events in  Redmond  and  LA , but when I saw the "discover events" option, I got curious. 
+ As it turned out, in order to use this option, I had to fill out sections for areas of expertise and topics, so I filled them out as best I could. Once I did so, I was able to view (and apply to) potential events. In addition to the two Data Saturday events, I also applied to the  VTTA Tech Conference  and  Techorama 2021 . (And Sessionize says that I still have an active application to speak at  Albany Code Camp , where I'd applied last year, but the event was wiped out by the pandemic.) I think I have a decent shot at the Vermont tech conference, and I have my doubts about being accepted to Techorama, but I figure, you never know until you try. 
+ So far, I do like the Sessionize application. It does a good job of keeping track of my profile and my speaking engagements, and it could potentially open up more speaking opportunities. I'll admit that I felt some trepidation after PASS (and SQL Saturday) ceased to exist. I wanted to continue speaking at events, and I wasn't sure how to approach it once the SQL Saturday window closed. We'll see what speaking opportunities open up with this application. 
+ Posted on  January 25, 2021  by  pianorayk Posted in  Being better ,  Branding ,  Career ,  Change ,  Data Saturday ,  Dealing with change ,  Maintenance ,  Networking ,  Professional Development ,  Public Speaking ,  SQL Saturday ,  Technical Communication ,  User Groups Tagged  Sessionize .  Leave a comment 
+ #DataSaturday 
+   
+ After  the demise of PASS , a common question among data enthusiasts and PASS members was, "what happens with SQL Saturday?" SQL Saturday was backed by PASS, and as such, when PASS disappeared, so did SQL Saturday. 
+ Enter  Data Saturdays , the successor to SQL Saturday. As I write this,  the first Data Saturday is in progress, in Guatemala  (virtually, of course). 
+ I've applied to speak at the first Data Saturday in the US (so far),  event #5 in Redmond, WA on April 17 . I submitted three sessions: my presentations on  'blogging ,  job hunting , and  networking . 
+ When I submitted my sessions, I was a little surprised to see  my information come up in the speaker's profile . My initial thought was that they had exported and imported my profile and presentation info from the PASS.org site, but I don't think this is the case. Data Saturday uses  Sessionize  to coordinate events, and as it turned out, I already had a Sessionize profile; I had created it last year for  Albany Code Camp , where I had applied to speak last year; of course, the event was wiped out due to COVID. I did notice, on my Sessionize profile, that my submissions are in evaluation for Albany Code Camp on September 25, so I'm assuming that that event is rescheduled for that date. 
+ We'll see if I'm picked to speak for the Redmond event. There are a number of additional Data Saturday events listed as well; I haven't yet decided what other events I'll apply to speak. Even though the events are virtual (for now), they still require some work, and I'm wary of spreading myself too thin, despite my desire to speak at more events. 
+ In any case, I'm looking forward to participating in this next endeavor. I'm looking forward to contributing toward these conferences, and, as always, I'm also looking forward to reconnecting with my  #SQLFamily  friends. 
+ Posted on  January 23, 2021  by  pianorayk Posted in  Career ,  Change ,  COVID-19 ,  Data Saturday ,  Dealing with change ,  Networking ,  Professional Development ,  Public Speaking ,  SQL Saturday ,  Technical Communication 1 Comment 
+ Archiving my talks, part 3: PASS Summit -- #PASS 
+   
+ With the imminent demise of PASS , I figured I should take  Steve Jones ' advice and  archive my presentation links . 
+ I spoke at PASS Summit in 2019 ( in Seattle ) and 2020 ( virtually ). Naturally, I wanted to get as much as I could from my sessions from those two events. 
+ Unfortunately, it appears that the pages from 2019 are no more. Even the pass.org/summit/2019 URL goes to the 2020 Virtual Summit page, not 2019. So, unfortunately, it appears that many (not all -- see below) references to PASS Summit 2019 are lost forever. 
+ However, it appears that the  2020 PASS Virtual Summit  page appears to still be active (until next week), so I figured I should grab whatever I could from my presentation. 
+ Alas, getting material from the PASS Summit page is not as straightforward as  from the SQL Saturday pages . Unlike the SQL Saturday pages, I did not see a "create PDF" option for the schedule. I did grab screen captures for both my speaker's description page and my presentation session page (as seen below). 
+ My 2020 PASS Summit speaker's page My 2020 PASS Summit session page 
+ I mentioned that just about all references to 2019 PASS Summit appear to be gone. One thing I did manage to download from 2019 was my session recording. Like  my virtual group recordings , I took my recording and uploaded it to my personal YouTube.  You can view my 2019 PASS Summit presentation here . 
+ I did not do the same with my 2020 presentation.  As I mentioned , I ended up having technical issues with my presentation, so I elected not to download it. ( Steve Jones  suggested that I re-record it and upload it to the PASS Summit site, but that was before PASS announced they were shutting down. I don't see the point of doing it now.) 
+ At the moment, I believe that takes care of most of my speaking archive. (There's also the links to my in-person user group talks, but those are archived on  Meetup , and are controlled by individual user groups, not PASS, so they're not as urgent.) I'll keep poking around to make sure I haven't missed anything,. 
+ Posted on  January 7, 2021  by  pianorayk Posted in  #PASSSummit2020 ,  Career ,  Change ,  Dealing with change ,  PASS Summit ,  Professional Development ,  Public Speaking ,  Technical Communication ,  User Groups Tagged  Backups ,  PASS ,  Virtual Groups .  Leave a comment 
+ January CASSUG Monthly Meeting 
+   
+ Our January meeting will again be online. NOTE: you MUST RSVP to this Meetup ( https://www.meetup.com/Capital-Area-SQL…/events/275432320/ ) to view the Zoom URL! 
+ Our January guest speaker is Bob Ward! 
+ Topic: SQL Server Edge to Cloud 
+ SQL Server is everywhere you need it from the IOT Edge to your cloud to public clouds. With all of these options it can be difficult to know which to choose and why each options may be right for your data needs. In this presentation, I’ll review with you all the current released and preview versions of SQL Server from the edge to the cloud. I’ll compare each of them and discuss why you want to get ahead of the curve by understand what is possible with the modern SQL Server. I’ll discuss technical details of some of these options so you can understand what SQL Server flavor fits your company needs. This session will include some demos to highlight key innovations with SQL Server. 
+ About Bob: 
+ Bob Ward is a Principal Architect for the Microsoft Azure Data SQL Server team, which owns the development for all SQL Server versions. Bob has worked for Microsoft for 26+ years on every version of SQL Server shipped from OS/2 1.1 to SQL Server 2019 including Azure SQL. Bob is a well-known speaker on SQL Server, often presenting talks on new releases, internals, and performance at events such as PASS Summit, Red Hat Summit, Microsoft Ready, SQLBits, SQLIntersection, Microsoft Inspire, and Microsoft Ignite. You can follow him at @bobwardms or linkedin.com/in/bobwardms. Bob is the author of the books Pro SQL Server on Linux and SQL Server 2019 Revealed available from Apress Media. 
+ Our online meeting schedule is as follows: 
+6:00: General chat, discussion, and announcements 
+6:30: Presentation 
+We usually wrap up between 7:30 PM and 8:00 PM. 
+ Please RSVP to this Meetup (use the link above), then use the online event URL to join (note: you MUST RSVP for the URL to be visible). We will send out a meeting password as we get closer to the event. 
+ Thanks to our sponsor, Datto, for making this event possible! 
+ Posted on  December 29, 2020  by  pianorayk Posted in  Career ,  Data processing ,  Database ,  Microsoft ,  Networking ,  Professional Development ,  Public Speaking ,  SQL Server ,  User Groups Leave a comment 
+ Archiving my talks, part 2: Presentation videos -- #PASS 
+   
+ With the imminent demise of PASS , I figured I should take  Steve Jones ' advice and  archive my presentation links . 
+ I've done a few presentations for the  PASS Professional Development Virtual Group . Of those presentations, two of them were recorded to  the group's YouTube channel . 
+ Because the channel lives on  YouTube  and not PASS, I have no idea whether or not it will disappear when PASS does. Nevertheless, I decided I didn't want to find out. Better to be safe. 
+ I downloaded the two recordings that I did for the PASS virtual group and reuploaded them to my own personal YouTube channel. Even if  PASS  decides to drop the channel, the videos will continue to live on my own channel. 
+ So, at the moment, I currently have three PASS-related presentations on my personal YouTube channel. 
+ 
+ Networking 101: Building professional relationships  (Virtual SQL Saturday #961 Albany, July 25, 2020) 
+ I lost my job! Now what?!?  (PASS Professional Development virtual group, May 28, 2020) 
+ Blogging for Success: Advancing your career by blogging  (PASS Professional Development virtual group, January 21, 2020) 
+ 
+ Links to these videos are also available on  my presentations page . Note that my Professional Development Virtual Group presentations still point to the PASS YouTube channel videos, but if PASS decides to drop the channel, I'll change the links to point to the videos on my own channel, where they'll live indefinitely. 
+ Posted on  December 29, 2020  by  pianorayk Posted in  Career ,  Change ,  Dealing with change ,  Professional Development ,  Public Speaking ,  Technical Communication ,  User Groups Tagged  Backups ,  PASS ,  Virtual Groups .  2 Comments 
+ Archiving my talks, part 1: #SQLSaturday schedule PDFs -- #PASS 
+   
+ With the imminent demise of PASS , I figured I should take  Steve Jones ' advice and  archive my presentation links . 
+ For this round, I went through all the  SQL Saturday  events where I spoke and downloaded the schedules. Each SQL Saturday schedule has a link to save it to PDF (there is an "Export to PDF" link at the bottom of each schedule). 
+ I saved the PDFs to my 'blog media and created links to them. You can download these schedules by going to  my presentation schedule  and clicking any link labeled "schedule PDF." 
+ For now, I'm only concerned with links hosted on PASS websites, such as SQL Saturday and PASS Summit (which I'll do for the next round). I'm not as concerned (yet) with Meetup, YouTube, or podcasts I've done that are not hosted on PASS websites. I'll update these links as I go along. 
+ Posted on  December 29, 2020  by  pianorayk Posted in  Career ,  Change ,  Dealing with change ,  Documentation ,  Maintenance ,  PASS Summit ,  Podcast ,  Professional Development ,  Public Speaking ,  SQL Saturday ,  Technical Communication ,  User Groups Tagged  Backups ,  PASS .  2 Comments 
+ Requiem for #PASS -- #SQLFamily 
+   
+ Many data professionals, myself included, are shocked and saddened by  the announcement that PASS will cease operation on January 15, 2021 . I'm sure that a large number of data 'bloggers will be posting their thoughts regarding PASS's announcement; this is only one of many such articles, I'm sure. 
+ I know that  PASS  has been under a great deal of scrutiny by its members, and even I, myself, have been critical of PASS in the past. Three members of the board of directors resigned within the past few weeks, and the organization had been consulting with legal experts regarding its future. 
+ I've always taken great pains to be apolitical (it's one of my most, if not the most, hated topics to discuss). I don't know much about any of PASS's inner workings or governance, and quite frankly, I don't want to know. I'm sure there's a lot they could've done better, but I've never been privy to it. (Indeed, one frequent criticism I've heard has been their transparency -- or lack of.) 
+ As someone who has been a member of PASS for some time (since attending my very first  SQL Saturday  in New York City in 2010), I would prefer to talk about everything that PASS has given me. So I wanted to take some time to reflect on the things that PASS has done to enhance my professional career. 
+ When I attended my first SQL Saturday (#39 in New York City back in 2010), I knew right away that I wanted to be involved and contribute to the community. The question was, how? I remember looking around at other attendees at the Microsoft office (back then, it was held next to Radio City, not at the Times Square location like it is now) and saying to myself, "these people probably know more about SQL Server than I do. What can I contribute to this organization?" 
+ On that same trip, I met Dan Bowlin on the train heading down to the City. Along with Joe Barth, the three of us founded the  Albany SQL user group . Through my association with that group, I also met  Greg Moore  and  Ed Pollack ; the three of us currently maintain the group's leadership team. Since those humble beginnings, our user group has remained strong. We hold our own when compared to user groups in larger cities; indeed, we frequently say that we "punch above our weight." And although Dan and Joe moved out of the area several years ago, I still remain friends with them to this day. 
+ One evening, during one of our user group meetings, I had a thought: I've been adept at talking the language of technology to people who don't understand it. Would that make for a good presentation? As that meeting progressed, I jotted some notes down; by the end of the meeting, I had enough fodder for an entire presentation. I ran my idea past a few people, including Greg and Ed. They all told me, that was a great idea! Run with it! 
+ That idea became  my very first presentation , which I first presented in 2015. Since then, I've presented that session at several SQL Saturdays and at  PASS Summit . 
+ I wrote previously  about what happened after that first presentation. I discovered that I enjoyed presenting and attending events such as SQL Saturday. Additionally, I also noticed some subtle changes to my professional development. I found that I was passively getting better at what I did. I gained more confidence in my abilities, I became more assertive, and I was increasingly being recognized for the things I did. I even remember one manager telling me, "we recognize what you're doing with all these conferences where you're speaking; keep up the good work!" 
+ I now have  several presentations  that I do. I have presented at numerous SQL Saturdays, PASS Summit, and a number of user groups, both in-person and virtual.  I even did a podcast ! 
+ It wasn't all about professional development.  I made a number of friends  through my involvement with PASS and SQL Saturday -- people I likely wouldn't have otherwise met, and whom I love dearly. In addition to my association with PASS, I've connected with these people through  Twitter ,  LinkedIn , and  Facebook . These people have become a part of my life, and I am as close to these people as I am to any of my family or circles of friends. And because of this, my professional network is stronger than ever. 
+ I love to travel. I wish I could do more of it (usually, lack of time or money -- and these days, the pandemic -- keeps me from doing more of it).  I've written before about my SQL Saturday (and other PASS) travels . These speaking opportunities gave me chances to visit places I don't normally get to see, not to mention that they got me out of Dodge for a little while. 
+ I attribute all of this as things that PASS has given me. 
+ I've been thinking about whether or not it would be feasible to resurrect PASS. In addition to PASS, I am also a member of  STC . Unlike PASS, STC charges dues to its members (using a tiered structure -- the amount of dues you pay depends on your tier). Conceptually, STC is very similar to PASS; they are a professional organization that represents a specific profession (PASS represents data professionals; STC represents technical communicators). STC also does a number of things that PASS did not do; they have publications that they publish regularly, for example. If PASS is able to reorganize, I'm wondering if they'd be open to restructuring using a model such as STC. Of course, I suspect one of the reasons why PASS was popular was that they didn't charge dues. If PASS is to be solvent, that might be something to consider. 
+ I think it's important for professionals in any field to have an organization such as PASS. They provide opportunities for networking, guidance, reference, and development that wouldn't otherwise exist anywhere else. What PASS has done for my career and professional development is incalculable. The demise of PASS represents a big, big loss. I sincerely hope that PASS is able to come back in some way, shape, or form, and be stronger than ever in doing so. 
+ Posted on  December 18, 2020December 18, 2020  by  pianorayk Posted in  Career ,  COVID-19 ,  Networking ,  PASS Summit ,  Professional Development ,  Relationships ,  SQL Saturday ,  User Groups Tagged  PASS .  7 Comments 
+ #SQLSaturday Minnesota -- the debrief #SQLSat1017 #SQLSatMN 
+   
+ I don't think I have to tell anyone what a crazy year 2020 has been (and I won't belabor the point). As such, many of us have had their fill of Zoom meetings and virtual conferences. I've heard a lot from people, myself included, about their dealings with pandemic fatigue and how burned out they are by virtual conferences. 
+ And then, along came  Minnesota SQL Saturday . 
+ Before today, I'd spoken at or attended four virtual PASS events:  SQL Saturdays  in  Albany ,  Memphis , and  Montreal , and  PASS Summit . In spite of the challenges faced with putting on virtual events -- uncharted territory for all of us -- the events went about as well as they could. There were glitches and lessons learned, but for the most part, they went about as well as virtual conferences -- being put on for the first time -- could go. 
+ Minnesota, however, raised the bar. The event went through a great deal of thought and planning, and it showed. This is not a slight against other events, as we were all breaking new ground in putting together virtual events; rather, Minnesota demonstrated a better way to do it. 
+ I'll start with Friday night. At many of the in-person SQL Saturday events where I've spoken, organizers put together a speaker's dinner on Friday night. In lieu of that, Minnesota organized a Zoom session allowing speakers to get to know the organizers and other speakers (Memphis did the same thing). In addition, however, Minnesota also organized a test run using  GoToMeeting  sessions (the virtual meeting application of choice by PASS) to make sure that speakers could test their sessions and get comfortable with presenting online. Although I'd previously presented via GoToMeeting before, I found that this went a long way with helping me to get comfortable with the technology, the session, and knowing what to expect. 
+ Additionally, throughout the day for SQL Saturday, the Minnesota crew set up a separate chat application using  Discord  (an application that I understand is popular with gamers). Through this application, speakers and attendees had an avenue through which they could mingle and chat using different channels. They had channels set up for each meeting room, as well as a "lunch room" (where people could converse during lunch) and a speaker's channel (roughly the equivalent of a speaker room). I don't remember all the channels they had set up -- I do remember channels called #jobs and #hallway -- but I thought using this application was a great move. 
+ One of the things that is sorely missing from virtual SQL Saturdays is the ability to randomly converse and chat. At in-person events, one of the best parts is to randomly bump into  #SQLFamily  and chat about a variety of subjects, or randomly start chatting about session topics in the hallway, or whatever. Networking is a huge part of SQL Saturday. By nature, that dynamic is nearly impossible to duplicate at a virtual event. Of course, no virtual event can ever duplicate the things you'd experience at an in-person event. But by employing a technology such as Discord, they managed to fill that gap quite nicely. 
+ I also liked that room moderators introduced speakers and topics. They all included slides to start each session, which also included reminders to solicit the sponsors, their  local user group , and various other standard announcements. The format was similar to PASS virtual groups, where the group moderator would start with the intro before the speaker went into his or her presentation. 
+ Overall, Minnesota did a great job with their virtual SQL Saturday. Bravo! They demonstrated that a virtual event could still be exciting and fun, and not the same old virtual event that everyone else does. Granted, I'm looking forward to when we can start attending in-person events again. But by employing out-of-the-box ideas like these, virtual events don't have to be the same old, same old log-into-a-virtual-room events that we've become accustomed to experiencing. 
+ Posted on  December 12, 2020  by  pianorayk Posted in  Being better ,  Career ,  COVID-19 ,  Database ,  Networking ,  Professional Development ,  Public Speaking ,  SQL Saturday ,  SQL Server ,  User Groups Leave a comment 
+ What's your (tag)line? 
+   
+ Let's say you're an ad exec making a commercial. You've been tasked with coming up with a great tagline (and maybe a slogan) for a product. What would it be? 
+ Or, to get to the point of this article --  I mentioned earlier about marketing yourself . What would  your  tagline be? 
+ For me, personally, it's taken many years, but I think I've finally figured mine out: "My job is to make other people's jobs easier." 
+ Let's back up a bit. How did we get here? 
+ There have been many great taglines in the history of advertising. Whenever you hear one of these, a specific product immediately comes to mind. 
+ 
+ Think Different 
+ Just Do It 
+ Got Milk? 
+ America Runs On Dunkin' 
+ 
+ Each of these taglines immediately invokes the product they represent:  Apple ,  Nike ,  California Milk Processor Board  (and eventually, the entire dairy industry), and  Dunkin' Donuts . 
+ Through my past several months of job hunting, it occurred to me that my career could best be summed up by what I did at one of my previous jobs. When I worked for a server infrastructure department, my job was to provide information to the server team in order for them to efficiently do their jobs. The department was a support team. My job was to support the support team. 
+ It occurred to me that that was a good summary of my career, and a description of what I do best. I'm passionate about supplying my coworkers with whatever accurate information they need to do what they need to do, usually through documentation (although I use other means as well -- it's good to have database experience). This has created a mindset, as well as a degree of assertiveness, whenever I go into interviews. 
+ So, my tagline is, "My job is to make other people's jobs easier." 
+ What's yours? 
+ Posted on  December 10, 2020  by  pianorayk Posted in  Branding ,  Career ,  Documentation ,  Job Interview ,  Job search ,  Professional Development ,  Technical Communication ,  Technical Writing Tagged  Branding .  Leave a comment 
+ Reminder: I'm speaking at #SQLSaturday this weekend #SQLSat1017 
+   
+ This is a reminder that I will be speaking at  virtual SQL Saturday #1017  (Minnesota) this Saturday, December 12. 
+ A vast number of people, myself included, are looking for work. I will do my presentation titled " I lost my job! Now what?!? " this Saturday. I will discuss topics that include, among other things, dealing with the emotional impact, resumes, interviewing, and things you can do to hold yourself over during this period of uncertainty. 
+ Hope to see you virtually this Saturday! 
+ Posted on  December 7, 2020  by  pianorayk Posted in  Being better ,  Career ,  Job Interview ,  Job search ,  Networking ,  Professional Development ,  Public Speaking ,  Resumes ,  SQL Saturday Leave a comment 
+ Posts navigation 
+ Older posts 
+ Search for: 
+ Just an average guy and my opinions . . . 
+ Follow me on Twitter 
+ My Tweets 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 453 other followers 
+ Email Address: 
+ Follow 
+ Follow Welcome to Ray Kim's 'blog on WordPress.com 
+ 
+ 
+ View PianoRayK's profile on LinkedIn 
+ 
+ 
+ Home 
+ 
+ 
+ About 
+ 
+ 
+ My presentations 
+ 
+ 
+ The Write Stuff 
+ 
+ 
+ Troy -- A Major-League City 
+ 
+ When Troy Was A Major League City -- Acknowledgements and Bibliography 
+ 
+ 
+ 
+ Contact 
+ 
+ 
+ Recent Posts 
+ 
+ Setting up my #Sessionize profile, and speaking opportunities -- #DataSaturday  January 25, 2021 
+ #DataSaturday  January 23, 2021 
+ Archiving my talks, part 3: PASS Summit -- #PASS  January 7, 2021 
+ Goals for 2021  January 1, 2021 
+ January CASSUG Monthly Meeting  December 29, 2020 
+ 
+ 
+ 
+ 
+ January 2021 S 
+ M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 
+ 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 
+ 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 
+ 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ « Dec 
+ Archives 
+ 
+ January 2021  (4) 
+ December 2020  (10) 
+ November 2020  (9) 
+ October 2020  (8) 
+ September 2020  (11) 
+ August 2020  (7) 
+ July 2020  (13) 
+ June 2020  (8) 
+ May 2020  (16) 
+ April 2020  (18) 
+ March 2020  (9) 
+ February 2020  (10) 
+ January 2020  (12) 
+ December 2019  (9) 
+ November 2019  (9) 
+ October 2019  (15) 
+ September 2019  (15) 
+ August 2019  (21) 
+ July 2019  (19) 
+ June 2019  (12) 
+ May 2019  (14) 
+ April 2019  (15) 
+ March 2019  (8) 
+ February 2019  (12) 
+ January 2019  (9) 
+ December 2018  (10) 
+ November 2018  (6) 
+ October 2018  (4) 
+ September 2018  (5) 
+ August 2018  (11) 
+ July 2018  (9) 
+ June 2018  (8) 
+ May 2018  (7) 
+ April 2018  (8) 
+ March 2018  (10) 
+ February 2018  (5) 
+ January 2018  (5) 
+ December 2017  (5) 
+ November 2017  (2) 
+ October 2017  (2) 
+ September 2017  (2) 
+ August 2017  (1) 
+ July 2017  (3) 
+ June 2017  (4) 
+ May 2017  (7) 
+ April 2017  (1) 
+ March 2017  (6) 
+ February 2017  (1) 
+ January 2017  (1) 
+ October 2016  (1) 
+ September 2016  (2) 
+ August 2016  (4) 
+ July 2016  (8) 
+ June 2016  (7) 
+ May 2016  (8) 
+ 
+ Categories 
+ 
+ 9/11  (4) 
+ Being better  (142)
+ 
+ Mistakes  (8) 
+ 
+ 
+ Books  (8)
+ 
+ Albom, Mitch  (1)
+ 
+ Tuesdays with Morrie  (1) 
+ 
+ 
+ Brooks, Terry  (1)
+ 
+ The Sword of Shannara  (1) 
+ 
+ 
+ Carnegie, Dale  (2)
+ 
+ How To Stop Worrying and Start Living  (1) 
+ How to Win Friends and Influence People  (1) 
+ 
+ 
+ Gawande, Atul  (3)
+ 
+ The Checklist Manifesto  (3) 
+ 
+ 
+ Norman, Don  (1)
+ 
+ The Design of Everyday Things  (1) 
+ 
+ 
+ 
+ 
+ Branding  (23) 
+ Business Intelligence  (14)
+ 
+ #BI101  (5) 
+ Data warehousing  (2) 
+ 
+ 
+ Career  (376)
+ 
+ #SQLCareer  (1) 
+ Job search  (77)
+ 
+ Job Interview  (15) 
+ Recruiters  (14) 
+ Recruiting Spam  (8) 
+ Resumes  (12) 
+ 
+ 
+ Networking  (202) 
+ Professional Development  (363)
+ 
+ Code Camp  (2) 
+ Data Saturday  (2) 
+ Decision making  (11) 
+ Disaster Recovery  (13) 
+ Feedback  (19) 
+ Mentoring  (3) 
+ PASS Summit  (42)
+ 
+ #PASSSummit2020  (6) 
+ 
+ 
+ Public Speaking  (141) 
+ Roles  (8) 
+ SQL Saturday  (131) 
+ Teamwork  (9) 
+ Technical Communication  (163)
+ 
+ Design  (24)
+ 
+ UX/UI  (15) 
+ 
+ 
+ Documentation  (102) 
+ Technical Writing  (79) 
+ 
+ 
+ User Groups  (61) 
+ 
+ 
+ Self-employment  (14) 
+ Work  (4) 
+ 
+ 
+ Change  (88)
+ 
+ Dealing with change  (73) 
+ 
+ 
+ Computers  (3)
+ 
+ Hardware  (2)
+ 
+ Storage  (1) 
+ 
+ 
+ Software  (2) 
+ 
+ 
+ Cultures  (47) 
+ Data processing  (25) 
+ Data security  (19) 
+ Database  (78)
+ 
+ #SQL101  (8) 
+ Oracle  (1) 
+ SQL Server  (72)
+ 
+ SSIS  (2) 
+ 
+ 
+ 
+ 
+ Living life  (167)
+ 
+ Extracurricular activities  (22)
+ 
+ Hobbies  (3) 
+ 
+ 
+ Food  (4) 
+ Holidays  (11)
+ 
+ Christmas  (1) 
+ Memorial Day  (3) 
+ New Year's Day  (1) 
+ 
+ 
+ Music  (17)
+ 
+ MIDI Sequencing  (2) 
+ Recording  (3) 
+ 
+ 
+ Relationships  (50) 
+ Travel  (27)
+ 
+ SQL Travels  (11) 
+ 
+ 
+ Wellness  (54)
+ 
+ Health  (53)
+ 
+ Coronavirus  (31)
+ 
+ #CoronavirusChronicles  (23) 
+ COVID-19  (30) 
+ 
+ 
+ Exercise  (14)
+ 
+ CrossFit  (10) 
+ Fitness  (11) 
+ Working Out  (9) 
+ 
+ 
+ Stress  (7) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maintenance  (39) 
+ Microsoft  (38)
+ 
+ Power BI  (3) 
+ PowerShell  (4) 
+ Windows  (1) 
+ 
+ 
+ Open Source  (2)
+ 
+ Docker  (2) 
+ 
+ 
+ Programming  (8)
+ 
+ REST  (1)
+ 
+ #REST101  (1) 
+ 
+ 
+ Script programming  (2) 
+ 
+ 
+ Reference  (6) 
+ Religion  (1) 
+ Social Media  (54)
+ 
+ Blog  (33)
+ 
+ Blog ground rules  (1) 
+ First blog post  (5) 
+ 
+ 
+ Facebook  (8) 
+ LinkedIn  (16) 
+ Podcast  (2) 
+ Twitter  (4) 
+ 
+ 
+ Sports  (24)
+ 
+ Baseball  (11) 
+ Basketball  (3)
+ 
+ College basketball  (3) 
+ 
+ 
+ Football  (3)
+ 
+ College football  (2) 
+ Fantasy football  (1) 
+ 
+ 
+ Hockey  (1)
+ 
+ College hockey  (1) 
+ 
+ 
+ Running  (3) 
+ 
+ 
+ Stuff  (67)
+ 
+ Email  (9)
+ 
+ Spam  (5) 
+ 
+ 
+ Getting started  (26) 
+ Ideas  (13) 
+ Just for fun  (13)
+ 
+ #TheBestOf  (3) 
+ 
+ 
+ Memorization  (2) 
+ Ownership  (1) 
+ Politics  (7) 
+ School spirit  (5) 
+ Video games  (1) 
+ Welcome  (1) 
+ 
+ 
+ Support systems  (25) 
+ Uncategorized  (6) 
+ Web Development  (9) 
+ 
+ Blogs I Follow 
+ 
+ HRTact 
+ creativegoddess.wordpress.com/ 
+ The Write Stuff Technical Documentation Services, LLC 
+ Deb the DBA 
+ FLX SQL with Andy Levy 
+ A Shot of SQLEspresso 
+ SQLKohai - always a student 
+ George Walters 
+ The Rest is Just Code 
+ Voice of the DBA 
+ Daniel Bowlin SQL Server BI Blog 
+ greenmountainsoftware 
+ James Serra's Blog 
+ Discover 
+ The Daily Post 
+ The WordPress.com Blog 
+ 
+ Blog at WordPress.com. 
+ HRTact 
+ Cultivate Your Workforce with Effective Human Strategies 
+ creativegoddess.wordpress.com/ 
+ The Write Stuff Technical Documentation Services, LLC 
+ "My job is to make other people's jobs easier" 
+ Deb the DBA 
+ Just me and the databases... 
+ FLX SQL with Andy Levy 
+ Hand-Crafted SQL and PowerShell from New York's Finger Lakes 
+ A Shot of SQLEspresso 
+ SQL Blogs by Monica Rathbun 
+ SQLKohai - always a student 
+ George Walters 
+ Microsoft Azure, Data Platform, SQL, Speaking, Community 
+ The Rest is Just Code 
+ Ideas are the hard part...the rest is just code 
+ Voice of the DBA 
+ Writings from Steve Jones, the Voice of the DBA 
+ Daniel Bowlin SQL Server BI Blog 
+ greenmountainsoftware 
+ Thoughts on SQL, Disasters and thinking 
+ James Serra's Blog 
+ Big Data and Data Warehousing 
+ Discover 
+ A daily selection of the best content published on WordPress, collected for you by humans who love to read. 
+ The Daily Post 
+ The Art and Craft of Blogging 
+ The WordPress.com Blog 
+ The latest news on WordPress.com and the WordPress community. 
+  Welcome to Ray Kim's 'blog  
+ Create a free website or blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

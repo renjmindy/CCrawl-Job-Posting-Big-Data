@@ -1,0 +1,73 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ PHP Developer REMOTEPERMANENT 
+ Job Description 
+ Viget is a digital agency / software development shop headquartered just outside of  Washington, DC , (in Falls Church, VA) with additional offices in  Durham, NC ,  Boulder, CO , and  Chattanooga, TN . We've been at it since 1999 and have earned a solid reputation as a rare firm that does both great design and development work when building digital products and marketing platforms. 
+ Our PHP/CMS Developer will work independently or alongside industry-leading Front-End Developers to create rich and engaging content-driven products. As a PHP/CMS Developer, you are responsible for the configuration, architecture, custom development, maintenance, and troubleshooting of all PHP-based CMS sites developed by the Front-End Development team. You will frequently work with a Front-End Developer who is responsible for the visual and interactive layer of the site. PHP proficiency is a must and candidates should have experience working with third-party PHP-based CMS platforms and utilize modern PHP best practices, like dependency management with Composer. For the right person, we are open to US-based remote candidates. When we consider remote candidates, we're looking for mid- to senior-level developers who have experience with remote collaboration. 
+ Our teams also collaborate directly with clients that offer great variety – from major brands like  ESPN  and  Dick’s Sporting Goods  to world-changing nonprofits like  WWF  and  WCS  to emerging startups and tech leaders like Google. Viget == variety. 
+ To get a feel for how we think and what we're learning about,  read our tech articles , check out  code.viget.com , or jump straight to  our projects on Github . 
+ Our PHP/CMS Developers: 
+ 
+ Find joy in architecting CMS-driven sites from third-party platforms to unique, custom-developed solutions and getting under-the-hood to understand how these platforms work. 
+ Have knowledge of Craft, Wordpress, or other CMS platforms. 
+ Are comfortable extending WordPress, Craft, or other systems with custom development. 
+ Can work with our DevOps Director to handle server configuration, deployments, and setting up local development environments on Docker. 
+ Are experts in PHP and may have knowledge of other back-end languages, like Ruby on Rails. 
+ Embody our core values of integrity, work ethic, collaboration, creativity, and lifelong learning (especially important as we continually evaluate and embrace new technologies). 
+ Enjoy working with others in our collaborative environment that balances team-wide communication (e.g., daily standups, Slack discussions, code review), occasional pair programming sessions, and frequent blocks of focused, uninterrupted time for independent work. 
+ Speak and write well. Care about modern best practices, including code reviews, continuous integration and deployment, and iterative development. 
+ Value mentorship, learning, and sharing knowledge. 
+ 
+ How to Apply 
+ Please apply at:  www.viget.com/careers/php-cms-developer/ 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Viget 
+ 
+ __ 
+ 
+ Location:  United States 
+ 
+ __ 
+ 
+ Phone Number:   703-891-0670 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   viget.com 
+ __  Posted January 13, 2021 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

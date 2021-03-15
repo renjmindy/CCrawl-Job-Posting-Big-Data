@@ -1,0 +1,12 @@
+ Qualifications: 
+ You are highly self-motivated, resourceful, and enjoy working alongside a motivated team 
+ You love learning new things fast and staying up on technology 
+ You iterate to improve software and deliver products 
+ You have experience architecting scalable frontend systems 
+ You have 4+ years of work experience in frontend software development 
+ Preferred Qualifications 
+ 2+ years developing with React 
+ Experience building complex frontend mapping interfaces using tools such as Mapbox, Google Maps, or ESRI. 
+ Experience creating products and tools for users to visualize technical data 
+ Have a sense of urgency. We are tackling a global problem, working in a fast-paced industry, and building a once in a lifetime company at Raptor Maps. 
+ Location: 

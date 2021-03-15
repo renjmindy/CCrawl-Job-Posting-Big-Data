@@ -1,0 +1,189 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Cloud Application Security Architect (DevSecOps) 
+ Pinpoint Asia Limited 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Cloud Application Security Architect (DevSecOps) 
+ Pinpoint Asia Limited 
+ [](mailto:?subject=Senior%20Cloud%20Application%20Security%20Architect%20%28DevSecOps%29&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14308014/senior-cloud-application-security-architect-devsecops/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 14, 2021 
+ Location: 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ **Responsibilities & Qualifications: ** 
+ Position Responsibilities: 
+ 
+ Spearhead security strategy/implementation throughout the software lifecycle through design, implementation to deployment and support 
+ Work with stakeholders to develop/implement an application security strategy 
+ Assist other technology teams in assessing the security of the platform including: 
+ 
+ 
+ Contribute to relevant design and code reviews 
+ Review test plans to ensure sufficient security coverage 
+ Oversee/design Pen Tests by internal and external teams 
+ Security mitigation 
+ Provide expertise on cloud application and infra security design patterns 
+ Assist with implementation and integration security testing tools & processes (such as SAST/DAST, automation, etc.) 
+ 
+ 
+ Provide training and thought leadership for secure software engineering practices 
+ Be a subject matter expert for security patterns for cloud-based applications and services 
+ 
+ Required Competencies: 
+ 
+ 5-10+ years of experience in cybersecurity, software engineering, computer science with a focus on security, or related field 
+ Bachelor's degree in cybersecurity, software engineering, computer science, or related field 
+ Certifications in Application Security and Penetration Testing preferred (such as OSCP, OSCE, OSWE, CEH, CISSP, etc.) 
+ Proficient technical skills in several of the following: 
+ 
+ 
+ Development languages: C/C++, Java, Javascript, Python, etc. 
+ Application architectural patterns (micro-services, service-oriented, event-driven, etc.) 
+ IP networking, firewalls, network security rules, etc. 
+ Cloud computing technologies and delivery patterns (PaaS, IaaS, serverless, etc). 
+ Common attacks and vulnerabilities including OWASP Top 10 and SANS CWE 25. 
+ Continuous Integration/Testing/Delivery tools and techniques and agile methodologies including TDD/XP/Scrum/Kanban. 
+ 
+ 
+ Self-starter with strong business acumen 
+ Ability to work independently and with application development, quality assurance, DevOps, and peer, security teams, 
+ Excellent communication skills in English 
+ 
+ If this outstanding opportunity sounds like your next career move, please send your resume in Word format to  Matthew Chung  at  resume@pinpointasia.com  and put  Senior Cloud Application Security Architect (DevSecOps)  in the subject header. 
+ Data provided is for recruitment purposes only. 
+ ______________________________________  ___________________ 
+ Headquartered in Hong Kong, Pinpoint Asia is the go-to Specialist Firm for Technology Recruitment 
+ We are a team of specialist tech recruiters (many of our recruiters come from an IT background) and we serve a wide range of clients, all the way from tech startups (especially FinTech) to some of the top Financial Institutions on Wall Street and several other large scale enterprises in other industries. 
+ Our significant market reputation and status as the leading search firm for many of our clients is a direct result of our strong industry relationships, intimate understanding of the marketplace and proven ability to deliver results. 
+ Our vision is  to help companies hire smarter and help job seekers get closer to their career aspirations. 
+ To see all our open jobs please reach out to us at https://pinpointasia.com/job-search/ (EA License # 62713) 
+ **We are also seeking top-calibre candidates for the following exciting roles: 
+ 
+ IT Vendor Management Lead - Leading Financial Institution 
+ Cloud Digital Platform Delivery Manager - Leading Financial Institution 
+ Production Support Manager - Digital InsurTech Platform** 
+ 
+ 
+ 
+ Internal Number: 9783599 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Pinpoint Asia Limited 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Senior Software Engineer - Cloud Security 
+ __  New York, New York 
+ 
+ 
+ 
+ 
+ Bloomberg 
+ __3 Weeks Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

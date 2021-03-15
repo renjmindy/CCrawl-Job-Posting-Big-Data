@@ -1,0 +1,49 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ GitStart (S19) 
+ GitStart helps you hire the best remote developers by outsourcing small coding tasks from your backlog to hundreds of qualified developers spread across the globe 
+ FullStack Javascript Engineer 
+ 
+ Location 
+ Remote 
+ Job Type 
+ Internship 
+ Experience 
+ About GitStart 
+ On demand auto managed development platform 
+ GitStart is Mechanical Turk for small coding tasks. It add on-demand capacity into engineering sprints. Focus is on tasks doable within a sprint and integrate very deeply into the engineering process of companies. 
+ It's already operational on ~500 dev hours / day, and plan to scale to thousands within a couple of months. The best devs get hired directly from our customers 
+ About the role 
+ Skills:  Node.js, React, React Native, TypeScript, PostgreSQL 
+ As a Software Engineer at GitStart, you will primarily work to scale the Engineering teams of our global clients while leveraging the community of talented Engineers to grow professionally through detailed product and technical reviews; stellar code reviews and collaborative work environment that's 100% remote. 
+ Ideal candidate for this role: 
+ 
+ At least 2 years of professional experience as a Software Engineer, writing code for web applications, data initiatives, core services, and/or mobile products. 
+ Proficient in writing code in at least one of these technologies: Mobile Technologies(ReactNative), JavaScript/TypeScript, ReactJS, NodeJS, VueJS 
+ Experience writing test cases 
+ Exceptional communication skills (English, verbal and written) 
+ Prior experience working remotely as an effective member of a team 
+ Comfortable working with individuals from diverse cultural backgrounds. 
+ 
+ Technology 
+ TypeScript NodeJS Hard Core React React Native Docker Ethereum Blockchain 
+ Other jobs at GitStart 
+ FullStack Javascript Engineer 
+ intern 
+ Remote 
+ Full Stack 
+ Any 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

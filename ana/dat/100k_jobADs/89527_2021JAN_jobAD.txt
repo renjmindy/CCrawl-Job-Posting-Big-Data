@@ -1,0 +1,240 @@
+Skip to content 
+   
+ × 
+ 
+ Products
+ 
+ Enterprise 
+ Pro 
+ Approval Manager 
+ 
+ 
+ Industries
+ 
+ Manufacturing 
+ Health 
+ Financial 
+ Retail 
+ Education 
+ Entertainment 
+ 
+ 
+ Resources 
+ 
+ Resources by WG 
+ Customer Case Study 
+ Blog 
+ Webinar Series 
+ 
+ 
+ Contact Us 
+ 
+ Careers 
+ 
+ 
+ Help Center
+ 
+ Workgroups DaVinci Pro & Proof Help Center 
+ Workgroups DaVinci Enterprise Help Center 
+ 
+ 
+ 
+  Call us at (319) 337 8599    Free Webinars 
+ Career Opportunities 
+ Innovative, enthusiastic, results-driven people will find a home for their ideas and values at Workgroups DaVinci. As a venture backed growing company, right now is the time to join our team and be a part of our success. At Workgroups DaVinci, we are committed to your development; your ideas count and your success is our success. If you want to be a part of a creative, dynamic and growing company with the opportunity to make the difference, this is the place for you. 
+   
+ Flexible Work 
+Hours & PTO 
+   
+ Great Benefits Package 
++ 401k 
+   
+ Remote Work 
+Environment 
+   
+ Growth 
+Opportunities 
+   
+ Enthusiastic 
+Work Culture 
+ About Workgroups DaVinci 
+ Workgroups is a leader in complete project management, workflow, and proofing management solutions. Workgroups DaVinci’s proven software solutions are trusted by the world’s best known brands, powering the work of their high velocity marketing, e-commerce, design, and content and production teams. Workgroups’ proven cloud-based solutions enable organizations to manage and optimize their end-to-end workflow and project lifecycles, improving quality, accuracy, speed, productivity and decision making. 
+ Full Stack Engineer 
+ This role is responsible for developing core features for our existing SAAS software solution. This will involve understanding business requirements, translating them into technical specifications, and then implementing them in software. This core feature development role will involve working in many aspects of application development including design and implementation of database schema, entity and relational models, web services, and rich frontend user experiences 
+ Our software solution is designed as a single page web application written in React and Typescript. Our backend consists primarily of ASP.Net Core with some Node.JS. We use PostgreSQL, Elasticsearch, and Redis for persistence. Additionally, we take full advantage of containers and orchestration with Docker and Kubernetes, and we make use of the Apache Kafka streaming platform. Any experience with these technologies is a plus. 
+ Job Responsibilities 
+ 
+ Ability to design and develop application features 
+ Review and repair code 
+ Provide recommendations for improvement and efficiency of productivity 
+ Identify and utilize new and emerging technologies to define comprehensive, sustainable, extensible architecture to meet defined business needs. 
+ Partner with other internal teams and peers in the department to ensure solutions meet the holistic needs of our customers. 
+ Supports Innovation; regularly provides new ideas to help people, process, and technology that interact with our product ecosystem. 
+ Supports a clear communication strategy that keeps all relevant stakeholders informed and provides an opportunity to influence the direction of the work 
+ 
+ Job Qualifications 
+ 
+ 3+ Years of experience as a Full-Stack Engineer (1 year React experience is helpful) 
+ Experience with relational database technologies and SQL 
+ Experience with object-oriented software development principles 
+ Self-driven, motivated and results-oriented 
+ Excited to learn and grow as a professional software engineer 
+ An effective communicator and work well as part of a team 
+ Willing to “step up” and take on responsibility for being our in-house expert for new and existing core features 
+ 
+ Other Desirable Skills 
+ 
+ Experience in architecting/designing software products to drive data & analytic efforts 
+ Understanding of security risks and vulnerabilities, leveraging tools and techniques to minimize risk. 
+ Ability to communicate and present advanced technical topics to general audiences. 
+ Automation, Configuration Management, Dev-ops practices 
+ Experience/Knowledge of building applications using high-security Public/Private cloud infrastructure 
+ 
+ Benefits 
+ 
+ Flexible PTO Policy, Work Hours, and Holidays 
+ Great Benefits Package plus 401K 
+ Remote work environment 
+ Terrific Career Opportunity with Great Culture and Environment 
+ 
+ Read More 
+ Account Executive 
+ The Sales team is responsible for driving senior-level executives and operations leaders from targeted companies to purchase Workgroups DaVinci services & software solutions. Sales Representatives are responsible for developing and executing the plan to win and grow business within an assigned list of targets, including account-based sales planning, account-based research and prospecting, lead follow-up, cold calling, consultative relationship- building, scheduling/running discovery, diagnostic and solution design calls, software demonstrations, managing sales cycles and pipeline, forecasting, contract negotiations, and ultimately closing net new business opportunities for Workgroups DaVinci. This position will partner closely with other peers in product, marketing and client success as needed to win business. 
+ Additional Job Responsibilities 
+ 
+ Monthly, Quarterly, and Annual Sales Quota Attainment 
+ Developing business by mining targeted accounts, cold calling, prospecting direct and partner opportunities, managing account lists, and using social media tools, email, and phone-based communication to find and close new business 
+ Establishing trust-rooted, consultative, sustained relationships with key targets and clients 
+ Document all activities in SFDC to increase efficiency in your daily time management and provide management visibility and reporting 
+ Work with the Sales team, Marketing team, and other resources at Workgroups DaVinci to achieve quota 
+ Develop and successfully execute your Sales Plan designed to achieve monthly, quarterly, and annual quota 
+ Coordinate with internal departments to drive success, quota attainment, activity management, and reporting accuracy 
+ Participate in periodic ongoing training to improve your product knowledge and competitive position 
+ Self-management, taking responsibility for your success 
+ 
+ Qualifications 
+ 
+ A bachelor's degree or equivalent education with 1-3 years of sales experience managing sales cycles, closing new deals, making outbound calls, creating proposals, etc (knowledge of Challenger Sales and BANT methodology a plus) 
+ Experience within the Marketing Resource Management Technology, Process and Workflow Management Solutions or SaaS solutions a plus 
+ Proven ability to manage details on multiple projects and sales cycles simultaneously 
+ Previous work within a CRM, such as Salesforce, a huge plus 
+ Ability to close deals is a must 
+ Proven track record in multi-year, complex, concept sales 
+ Positive, upbeat disposition and excellent phone skills and persuasive communication skills required 
+ Experience providing presentations demonstrating technology both online and face-to-face 
+ 
+ As a Sales Representative you will 
+ 
+ Receive top notch, paid training 
+ Work with business owners and high-level managers and decision makers 
+ Represent a state-of-the-art solution that you are proud of and that companies desperately need 
+ 
+ Benefits 
+ 
+ Competitive Base Salary and Aggressive Commission Plan 
+ Flexible PTO Policy, Work Hours, and Holidays 
+ Great Benefits Package plus 401K 
+ Remote work environment 
+ Terrific Career Opportunity with Great Culture and Environment 
+ 
+ Read More 
+ Business Development Representative 
+ We are looking for an energetic individual to execute account-based research and prospecting activities, engage new prospects, cultivate inbound leads, and close small to medium-sized deals. This will be accomplished by maintaining outbound prospecting campaigns, qualifying inbound leads, and either owning the entire sales cycle or scheduling product demos for others on the sales team to close. This position requires a strong desire and ability to drive new relationships and utilize networking and prospecting skills to navigate through companies as well as an assigned territory. Success in this role requires a hunter-mentality and always-on curiosity, as significant time will be spent on the phone and via email cultivating prospects, following up on leads generated from marketing programs, as well as independent prospecting and other outbound lead generation strategies. Success will be measured by qualified appointments set up that result in opportunities created and ultimately, new revenue. This position is primarily executed by phone remotely or from office, some travel may be required to visit clients and trade shows. 
+ Job Responsibilities 
+ 
+ Identify, contact, and qualify prospective leads and opportunities (identify active vs passive buyers) 
+ Earn the trust of your prospects through your own integrity and by offering relevant, contextual information 
+ Most of your time will be spent communicating with top of funnel prospects and coordinating demos and calls 
+ Conduct high volume prospecting (60-100 activities per day) 
+ Qualify leads through texts, calls, emails, and social media tools 
+ Work closely and collaboratively with other members of the sales team and marketing team to develop and implement appropriate prospecting strategies 
+ Conduct qualification calls/emails with targeted prospects 
+ Schedule discovery meetings and demos 
+ Assess a prospect's business and potential for partnership with Workgroups DaVinci 
+ Convert leads to opportunities in SFDC and maintain immaculate pipeline health 
+ Learn about various industries and businesses, the challenges they face, and how Workgroups DaVinci’s solutions can help them grow their business and save time 
+ Influence product development through daily use and customer/prospect feedback 
+ Flexibility in support of the customers and our business 
+ This position will have the opportunity and expectation to grow into a larger role within the organization in sales, marketing or customer success, depending on the skill sets exhibited by you 
+ 
+ Job Qualifications 
+ 
+ 1-3 years experience in sales related role with assigned quota (preferably B2B software sales) 
+ Proven track record of exceeding quota 
+ Ability to manage the entire sales cycle prospecting, qualifying, pipeline creation 
+ Strong understanding of sales strategies and closing techniques 
+ Ability to overcome obstacles and objections 
+ Organized, task prioritization, attention to detail, experience with CRM (SFDC preferred) 
+ Motivated and results oriented 
+ Exception verbal and written communication skills 
+ Independently solve problems through research, analysis, and innovative processes 
+ 
+ Benefits 
+ 
+ Competitive salary and bonus program based on performance 
+ Flexible PTO Policy, Work Hours, and Holidays, plus Great Benefits Package plus 401K 
+ Remote work and a Terrific Career Opportunity with Great Culture in a fun environment 
+ 
+ Read More 
+ Apply Online 
+ Questions? Feel free to  reach out  and we can answer any questions you may have before applying. 
+ 
+ Position Appling For* 
+ 
+ Position Appling For*Account ExecutiveBusiness Development RepresentativeFull Stack Engineer 
+ 
+ 
+ First Name* 
+ 
+ 
+ Last Name* 
+ 
+ 
+ Phone Number* 
+ 
+ 
+ Email Address* 
+ 
+ 
+ Upload Resume* 
+ 
+ 
+ Drop files here or 
+ 
+ Upload Cover Letter* 
+ 
+ Drop files here or 
+     Free Webinars 
+ Products 
+ 
+ Enterprise 
+ Pro 
+ Approval Manager 
+ 
+ Industries 
+ 
+ Manufacturing 
+ Health 
+ Financial 
+ Retail 
+ Education 
+ Entertainment 
+ 
+ Resources 
+ 
+ Resources 
+ Customer Case Study 
+ Blog 
+ Webinar Series 
+ 
+ Company 
+ 
+ Contact Us 
+ Careers 
+ (319) 337 - 8599 
+ sales@workgroups.com 
+ 
+ Twitter Instagram Linkedin 
+ (C) 2021 Workgroups DaVinci, Inc. All rights reserved. 
+ Terms of Service  |  Privacy Policy 
+ By continuing to browse or by clicking "OK" you agree to the storing of cookies on your device, which we use to improve user experience, track anonymous site usage, and assist in our marketing efforts.Ok 

@@ -1,0 +1,194 @@
+SocialCMS Blog 
+ SocialCMS plugin and help 
+ Skip to content 
+ 
+ Home 
+ About 
+ Contact Us 
+ 
+ <- AuthenticJobs Job Importer 
+ WP JobRoller SimplyHired Job Importer -> 
+ WP JobRoller Indeed Job Importer 
+ Posted on  September 5, 2014  by  socialcms 
+ WP JobRoller Indeed Job Importer Plugin Import job from indeed according to your given parameter.This is WP JobRoller (theme) Add-ons. 
+ Features  : 
+ 
+ Import job from indeed. 
+ Custom import according to your parameter. 
+ Set Multiple Campaign/Importer. 
+ Makes auto-blogging. 
+ Support WPMU. 
+ Custom template option. 
+ Set cron option. 
+ Multiple Indeed account data import. 
+ 
+ More Detail :  https://socialcms.wordpress.com/contact-us/ 
+ 
+ 
+ Install WP JobRoller Indeed Job Importer WordPress Plugin 
+ 
+ 
+ * Upload the WP JobRoller Indeed Job Importer WordPress Plugin folder to the /wp-content/plugins/ directory
+* Activate the WP JobRoller Indeed Job Importer WordPress Plugin through the ‘Plugins’ menu in WordPress
+* Go **JR** **Indeed Importer** in admin menu and add new importer search parameter click save button
+* In importer list click **Fetch Now** link.
+ 
+ 
+ 
+ Plugin Help File 
+ 
+ 
+ After installing WP Job Manager Indeed Job Importer WordPress Plugin, click on –  Add New . The products are imported from Indeed Database to JobRoller jobs section. 
+ * #### Indeed Job Importer Settings
+
+  *         * **Campaign Name :** Run multiple campaigns like “PHP”,”IT” etc with multiple Indeed Accounts and fetch products from Indeed.this is only for differnciate importer.
+    * **Publisher Id :** Enter your Publisher ID for Indeed, Your Publisher ID from indeed.Don’t you have such a key- [Request one here](https://ads.indeed.com/jobroll/).
+    * **Keyword :** Import this keyword base
+    * **Job Title :** Import this job title jobs
+    * **Company :** Import this job company jobs
+    * **Country :** Import this County jobs
+    * **Location :** Import this Location jobs
+    * **Max Items to Import :** Maximum value is 20; we recommend that you set the Max Item Import parameter to 10
+    * **Feed Status :** The products will be auto fetched if the feed status is active
+* #### WP JobRoller Settings[](https://socialcms.files.wordpress.com/2014/09/screenshot-111_02.png)
+
+  *         * **New Post Status :** The products can be directly published in the blog or stored in draft section for approval at a later stage
+    * **Category Name :** List of Categories from WP JobRoller. The "WP JobRoller Indeed Job Importer" from above settings will be inserted in that category
+    * **Job Type :** List of Job Type from WP JobRoller. The WP JobRoller Indeed Job Importer from above settings will be inserted in that category
+    * **Job Location :** Add default location or use Use Macro {job_city},{job_state},{job_location},{job_location_full}
+    * **Job Company :** Add default Company or use Use Macro {job_company}
+    * **Website URL :** Add default website URL or use Use Macro {job_detail_url}
+    * **Apply Now URL :** Add default Apply Now URL or use Use Macro {job_detail_url}
+    * **Job Duration:** Set Job Duration display
+    * **Run Every :** Built in cron feature that automatically fetches products from Indeed site that can be set to run after specific periods like day, week etc
+    * **Author :** Set Job Author
+    * **Display Template :** List of fields that will be displayed in the product description page like job_company job_city, job_description etc.
+ 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Job Board ,  WP Plugin  and tagged  Indeed JobRoller ,  job board ,  JobRoller ,  JobRoller add-ons ,  jobroller indeed ,  JobRoller Indeed Importer ,  jobroller indeed integration ,  JobRoller integration ,  WordPress JobRoller ,  WP JobRoller Indeed Importer . Bookmark the  permalink . 
+ <- AuthenticJobs Job Importer 
+ WP JobRoller SimplyHired Job Importer -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ JobCareer Indeed Job Importer 
+ WP Job Manager Adzuna Job Importer 
+ ZipRecruiter Job Importer 
+ Job2Career Job Importer 
+ WP Flipkart Importer 
+ Flipkart Intense Search 
+ WP JobRoller CareerJet Job Importer 
+ WP Job Manager CareerJet Job Importer 
+ WP Job Manager Trovit Job Importer 
+ Trovit Car Importer 
+ Trovit Property Importer 
+ Indeed Intense Search 
+ Trovit Job Importer 
+ Car Demon Adzuna Car Importer 
+ Adzuna Property Importer 
+ Adzuna Car Importer 
+ Adzuna Job Importer 
+ WP JobRoller CareerBuilder Job Importer 
+ WP JobRoller SimplyHired Job Importer 
+ WP JobRoller Indeed Job Importer 
+ AuthenticJobs Job Importer 
+ WP Job Manager AuthenticJobs Importer 
+ WP Job Manager CareerBuilder Job Importer 
+ WP Job Manager SimplyHired Job Importer 
+ Pro Text Widget 
+ Beyond Job Importer 
+ WP Job Manager Indeed Job Importer 
+ SimplyHired Job Importer 
+ CareerJet Job Importer 
+ Juju Job Importer 
+ 
+ 
+ 
+ Archives 
+ 
+ October 2017 
+ March 2017 
+ July 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ September 2015 
+ June 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ 
+ 
+ 
+ Categories 
+ 
+ Job Board 
+ WP Plugin 
+ 
+ 
+ 
+ WP Plugin 
+ 
+ 
+ 
+ WP Plugin 
+ 
+ 
+ 
+ * [RSS - Posts](https://socialcms.wordpress.com/feed/ "Subscribe to Posts")
+ 
+ 
+ RSS - Comments 
+ 
+ 
+ 
+  SocialCMS Blog  
+ Create a free website or blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

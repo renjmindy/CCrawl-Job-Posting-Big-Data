@@ -1,0 +1,79 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Release Coordinator 
+ Aurora Cannabis 
+ __Edmonton, AB 
+ Apply Now 
+ Aurora Cannabis Inc. is a world-renowned integrated cannabis company with an industry-leading reputation for continuously elevating and setting the global cannabis industry standard. 
+ Through our wholly owned subsidiaries, strategic investments, and global partnerships, Aurora provides a wide range of premium quality cannabis and hemp products and services, develops innovative technologies, promotes cannabis consumer health and wellness, and delivers an exceptional customer experience across all its brands. 
+ Aurora’s operations span multiple continents and focuses on both the medical and recreational cannabis production and sales, patient education and clinic counselling services, home hydroponic cultivation, extraction technologies and delivery systems, and hemp-based food health products. 
+ We operate around the globe pursuing new and emerging cannabis markets where possible through our owned network of import, export and wholesale distributors, our e-commerce and mobile applications, brick and mortar retail stores, as well as grocery store retailers, and pharmacies. 
+ Release Coordinator 
+ Reporting to the Manager of IS Applications, the Release Coordinator role is a critical position supporting key stakeholders in coordinating activity in our various application environments as well as planning, scheduling and coordinating software releases. 
+ MAIN RESPONSIBILITIES: 
+Forward plan the release windows and cycles across a portfolio of applications and environments including ERP, CRM and HRMS related systems. 
+Manage risks and resolves issues that affect release scope, schedule and interdependency between systems. 
+Negotiate, plan and manage all release activities and application environment activities 
+Coordinate release content and ensure the required technical Change Management plans are in place for all elements included within a release 
+Manage relationships and coordinate work between different teams at different locations 
+Conduct Release Readiness reviews 
+Communicate release details and schedules to the Business, Project Teams and other stakeholders as required 
+Periodic Environment and Release Reporting 
+Maintains the release schedule for all core services and ensure alignment across key partners and vendors. 
+Continually work towards making improvements in the release management process 
+Develops environment and release management procedures, checklists and scripts 
+Participate in Change Advisory Board (CAB) meetings to discuss release scope and/or roadblocks 
+Maintains a release repository and manages key information such as build and release procedures, dependencies, and notification lists 
+Researches new software development and configuration management methodologies and technologies and analyzes their application to current configuration management needs 
+ JOB REQUIREMENTS: 
+Bachelor’s degree or Diploma in Computer Science or related field 
+2-6 years of previous release and/or project management experience, (Solid understanding of project management principles preferred) 
+Formal training in project management practices preferred 
+Advanced knowledge of software development lifecycle 
+Demonstrated ability to coordinate cross-functional work teams toward task completion 
+Demonstrated effective leadership and analytical skills 
+Advanced written and verbal communication skills are a must 
+Effectively prioritize and execute tasks in a fast pace, high-pressure environment. 
+Strong analytical, problem-solving, and interpersonal skills 
+Experience working in a team-oriented, collaborative environment. 
+Experience with ITIL or similar frameworks including Change Management, Release Management, Configuration Management and Software Development Lifecycle 
+Proficiency with Microsoft Office Suite 
+Team-oriented, ability to build relationships effectively 
+Attention to detail and accuracy 
+Must be a self-starter and able to work independently 
+ We would like to thank all applicants for their interest but only those selected for an interview will be contacted. 
+ Aurora Cannabis Inc. is an Equal Opportunity Employer. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

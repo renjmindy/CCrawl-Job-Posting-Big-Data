@@ -1,0 +1,410 @@
+  
+ MENU 
+ 
+  Our jobs  
+ 
+  OPEN APPLICATION  
+  Post-doc position to "investigate dynamics and evolution of marine DPANN symbiont and their host populations"  
+  Elektronicus NMF Support  
+  Postdoc position: “Effects of windfarms on the marine ecosystem: Ecosystem productivity and feedback of sessile epifauna on structures”.  
+  PhD position: "Harmful Algal Blooms from the present to the past: a (paleo)ecological and genomic approach"  
+  PhD position: “The long-term relationship between sea-level change and sedimentation in the North Sea”  
+  Postdoc position: “Determining the impact of hydrothermal vent nanomaterials on ocean (bio)geochemistry”  
+  PhD position: “Developing automated image analysis to examine an overlooked link in the North Sea: Zooplankton”  
+  PhD position: “Modelling the drivers of reef microbialization”  
+  PhD position: “Builders on the beach; establishing dynamics of coastal dunes”  
+  Postdoc position: “Identity and concentration of nanoplastic and microbial nanoplastic degradation in the ocean“  
+  PhD-project: “Impact of microphytobenthos on C, N, P and Si cycling in dynamic intertidal systems”  
+  Postdoc position: "Constraining past atmospheric CO2 concentrations using biomarker lipids"  
+  Post-doc or PhD position: “To investigate the origin and diversification of eukaryotic metabolisms in light of Earth history”  
+  PhD position: “The Intermittency of large-scale ocean mixing”  
+  Postdoc position “The role of N2 fixing cyanobacteria in past marine biogeochemical cycles”.  
+  Postdoc position: “Tracing river carbon in marine sediments using organic proxies ”.  
+  Postdoc position: “Understanding large scale spatiotemporal distributions of macrozoobenthos in the Dutch Wadden Sea”  
+ 
+ 
+  The Royal NIOZ  
+  Career  
+  NWO-I Science Jobs  
+  Marine research excellence  
+  The Royal NIOZ Experience  
+ 
+  The Experience  
+  The Royal NIOZ and Texel  
+ 
+  A bit of history  
+  The Potvis / Royal NIOZ Campus  
+  Links on Texel Living  
+  Employee Services  
+ 
+ 
+  The Royal NIOZ and Yerseke  
+ 
+  A bit of history  
+  De Keete / NIOZ Guesthouse  
+  Links on Yerseke living  
+  Employee Services  
+ 
+ 
+ 
+ 
+  Contact HR  
+ 
+  The Royal NIOZ HR Philosophy  
+  Choose your HR Adviser  
+  Apply for a job  
+  Who’s who?  
+  The Newbie Programme  
+  Contact us  
+  AlumNIOZ  
+  Internhip(s)  
+ 
+ 
+ 
+ PhD position: “The long-term relationship between sea-level change and sedimentation in the North Sea” 
+ This vacancy is the result of the collaboration between Utrecht University and NIOZ. The Department of Coastal Systems (COS) of NIOZ, in collaboration with Department of Physical Geography of Utrecht University, are looking for a highly motivated PhD student to investigate the evolution of the Dutch coast over the last few glacial-interglacial cycles by means of numerical modelling of glacio- and hydro-isostatic adjustment and geological/stratigraphic data assimilation. We are looking forward to meeting a candidate with a strong background in physics, mathematics, geosciences, and excellent skills in programming, numerical modelling and data analysis. 
+ 2020-12-16 13:35:02 
+ **LOCATION:                       ROYAL NIOZ -  TEXEL (THE NETHERLANDS) 
+** **VACANCY ID:                    2020-75 
+**  CLOSING DATE:               February 10th, 2021 
+ **THE DEPARTMENTS 
+** The department of COS studies integral coastal ecosystems and their populations of fish, birds, and other marine animals in the North Sea and Wadden Sea as well as on a global scale. The department focuses on key physical, chemical and biological processes that determine the productivity and the ecological functioning of coastal areas. The coastal system is studied as a unity by considering the interrelations between the key compartments of the ecosystem (water, sediment, microalgae, macro zoobenthos, parasites, fish and birds). 
+ The Department of Physical Geography focusses on societal needs in six broad impact themes aligned with our research: freshwater supply, climate change, natural disasters, in particular flood risk, ecosystem integrity & - services, and environmental effects on well-being. Our research contributes directly to the knowledge and awareness needed for societal target groups to cope with the continuously changing physical world. 
+ 
+ **THE VACANCY 
+** Sea-level rise (SLR) is one of the most important consequences of global warming and carries significant repercussions on coastal human settlements and natural ecosystems. Global SLR research, which usually aims at solving the so-called "sea-level budget" over the last few glacial-interglacial cycles, provides the forcing and boundary conditions for regional-scale glacial- and hydro-isostatic adjustment (GIA) modelling such as for the North Sea area. At that scale, however, sediment isostasy and compaction (SIC) becomes an important additional factor that has to be implemented in the modelling through data intake and adapted algorithms. 
+ The core of this research project consists in the inclusion of sedimentation from mapping knowledge (data assimilation) in deterministic geophysical GIA models. Accordingly, a novel algorithm will be implemented to dynamically couple the redistribution of sediments to the ice-driven and solid-Earth-modulated RSL changes by including the self-consistent sediments isostasy and compaction. To develop and implement this will be the key methodic step and challenge. Data assimilation techniques that combine prescriptions and rules based on the diffusion equation and fuzzy logic will be employed, thus simulating realistic basin filling adapted to architectural aspects of our input data. 
+ The outcome of this project will reveal the magnitude of local SIC vs. regional GIA contributions in SLR data which we reckon to be significant for our understanding of (1) centennial-millennial coastal plain development and habitat evolution, including the evaluation of anthropogenic vs. natural sedimentation; and (2) multi-millennial scale shelf rim accommodation and understanding net vertical land motion over multiple glacial-interglacial cycles. 
+ The project will be executed in continuous collaboration with researchers at the department of Physical Geography of the Faculty of Geosciences at Utrecht University. Furthermore, collaboration and frequent visits with national and international groups are expected and has been arranged for. 
+ 
+ **THE CANDIDATE 
+** The ideal candidate for this PhD position is an excellent, highly motivated scientist with a university degree (MSc) in physics, mathematics, geophysics, oceanography, meteorology or a related area. A strong background in math, programming (Fortran, C++, Matlab, Python), numerical modelling and data analysis is requested. 
+ The candidate is expected to attend workshops, summer schools and national and international meetings. 
+ Due to the international character of the research team it is crucial that the candidate is proficient in spoken and written English. We highly encourage applicants from all members of our research community and of diverse background to join us. 
+ The PhD researcher will be hosted by the department of Coastal Systems (COS) at the Royal NIOZ on the isle of Texel. The candidate will work one day per week at Utrecht University. The main task will be to conduct the PhD research, resulting in a PhD thesis. PhD defense will take place at Utrecht University: Promotor  Prof. Dr. Roderik van de Wal. 
+ Supervision: Dr. Paolo Stocchi (NIOZ; geophysical modelling, coding) and Dr. Kim M. Cohen (UU; geological mapping, data intake) 
+ 
+ **CONDITIONS 
+** Employment of this position at Royal NIOZ is by  NWO  (The Netherlands Organization of Scientific Research). We offer a position for a period of 4 years (fulltime). We offer a position for a period of 1 year (fulltime). At the end of this first year, the employment will be extended for a fixed-term of a maximum of 4 years, if the first year evaluation held with the employee is positive. The salary is compliant to the  CAO-OI  (Collective Labour Agreement for Dutch Research Institutes), a pension scheme, a holiday allowance of 8% of the gross annual salary, a year-end bonus of 8,3%, and flexible work arrangements. 
+ You may expect attractive secondary employment conditions. We offer generous relocation expenses for employees coming from abroad and support with finding accommodation. 
+ **MORE INFORMATION 
+** For additional information about this vacancy, please contact  Dr   .   Paolo Stocchi  and  Dr.   Kim Cohen   .  For additional information about the procedure, please contact ** **   Sigrid Moerbeek  (senior HR advisor). 
+ Visit the department of Coastal Systems (COS)  here   for more information about our research. Learn more about the virtual NIOZ Sea Level Centre  here . 
+ Find more information about the UU-NIOZ projects here. 
+ PhD position: “The long-term relationship between sea-level change and sedimentation in the North Sea” 
+ APPLY TO JOB HERE 
+ VIEW CURRENT JOB OPENINGS 
+ 
+ Share on: 
+ [Twitter](https://twitter.com/intent/tweet?text=PhD position: “The long-term relationship between sea-level change and sedimentation in the North Sea”&url=https://www.workingatnioz.com/our-jobs/phd-postition-“the-long-term-relationship-between-sea-level-change-and-sedimentation-in-the-north-sea”.html&via=RoyalNioz)  Facebook  [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://www.workingatnioz.com/our-jobs/phd-postition-“the-long-term-relationship-between-sea-level-change-and-sedimentation-in-the-north-sea”.html&title=PhD position: “The long-term relationship between sea-level change and sedimentation in the North Sea”&summary=NIOZ and UU are looking for a highly motivated PhD student to investigate the evolution of the Dutch coast over the last few glacial-interglacial cycles by means of numerical modelling of glacio- and hydro-isostatic adjustment and geological/stratigraphic data assimilation. &source=https://www.workingatnioz.com/our-jobs/phd-postition-“the-long-term-relationship-between-sea-level-change-and-sedimentation-in-the-north-sea”.html) 
+ Share with a friend: 
+ Mail a friend 
+ WORKING 
+@NIOZ TEXEL 
+ Working at the Royal NIOZ Texel 
+ 
+ Working on Texel 
+ Our policies 
+ Benefits 
+ Foreign nationals 
+ Career development 
+ Compensation 
+ Internship(s) 
+ The Potvis / Royal NIOZ Campus 
+ 
+ WORKING 
+@NIOZ YERSEKE 
+ Working at the Royal NIOZ Yerseke 
+ 
+ Working in Yerseke 
+ Our policies 
+ Benefits 
+ Foreign nationals 
+ Career development 
+ Compensation 
+ Internship(s) 
+ De Keete / NIOZ Guesthouse 
+ 
+ NEWS  More news > 
+  NIOZ PODCAST-SERIE VAN DELTA TOT DIEPZEE 
+EEN ZOEKTOCHT NAAR DE STAND VAN DE ZEE >     TEN INTERVIEWS WITH OUR SCIENTISTS AND ENGINEERS 
+THE ANNUAL REPORT GIVES AN INSIDE LOOK INTO THEIR WORK IN 2019 >  
+ Social       SEE WHO YOU KNOW ALREADY? 
+WE LIKE TO LINK WITH YOU >     BEHIND THE SCENES 
+MARINE ORGANIC BIOGEOCHEMISTRY IS SOCIAL >  
+ our jobs   Postdoc position: “Understanding large scale spatiotemporal distributions of macrozoobenthos in the Dutch Wadden Sea” >     Postdoc position: “Tracing river carbon in marine sediments using organic proxies ”. >    View All Jobs > 
+ [ Take a swim 
+ Help our exploration of estuaries, seas and oceans? Join our supporting staff. Send in an open application. 
+ ](our-jobs/open-application.html) 
+ ROYAL 
+NIOZ 
+IN 60 
+SECONDS 
+   
+ The Royal NIOZ, an NWO Institute, is the Dutch national institute for fundamental and applied marine sciences. It is our goal to improve and share our knowledge of estuaries, seas and oceans: for a better understanding of our planet. 
+ 
+ WORKING@NIOZ 
+ 
+ 
+ Policies 
+ 
+ 
+ Benefits 
+ 
+ 
+ Foreign nationals 
+ 
+ 
+ Career development 
+ 
+ 
+ Compensation 
+ 
+ 
+ Internships 
+ Employee Council 
+ 
+ 
+ 
+ 
+ ROYAL EXPERIENCE 
+ 
+ 
+ 
+ Royal NIOZ on Texel 
+ 
+ 
+ 
+ Royal NIOZ in Yerseke 
+ 
+ 
+ 
+ Sail the Pelagia 
+ 
+ 
+ 
+ 
+ Links on Texel Living 
+ 
+ 
+ 
+ Links on Yerseke Living 
+ 
+ 
+ 
+ Video diaries 
+ 
+ 
+ 
+ CONTACT HR 
+ 
+ 
+ 
+ Our HR Philosophy 
+ 
+ 
+ 
+ Choose an advisor 
+ 
+ 
+ 
+ Apply for a job 
+ 
+ 
+ 
+ Who's who? 
+ 
+ 
+ 
+ The Newbie Programme 
+ 
+ 
+ 
+ Leaving Royal NIOZ 
+ 
+ 
+ AlumNIOZ 
+ 
+ 
+ 
+ Royal NIOZ Academy 
+ 
+ 
+ 
+ SERVICE 
+ 
+ 
+ 
+ Job Alert 
+ 
+ 
+ 
+ News 
+ 
+ 
+ Directions & Maps 
+ 
+ 
+ Forms 
+ 
+ 
+ 
+ NWO-I Science jobs 
+ 
+ 
+ 
+ 
+ NVP Code of Conduct 
+ 
+ 
+ 
+ 
+ Privacy Statement 
+ 
+ 
+ 
+ Disclaimer 
+ 
+ 
+ 
+ Contact us 
+ 
+ 
+ 
+ 
+ The Royal NIOZ, an NWO Institute, is the Dutch national institute for fundamental and applied marine sciences. It is our goal to improve and share our knowledge of estuaries, seas and oceans: for a better understanding of our planet. 
+ 
+ WORKING@NIOZ 
+ 
+ 
+ Policies 
+ 
+ 
+ Benefits 
+ 
+ 
+ Foreign nationals 
+ 
+ 
+ Career development 
+ 
+ 
+ Compensation 
+ 
+ 
+ Internships 
+ Employee Council 
+ 
+ 
+ 
+ 
+ ROYAL EXPERIENCE 
+ 
+ 
+ 
+ Royal NIOZ on Texel 
+ 
+ 
+ 
+ Royal NIOZ in Yerseke 
+ 
+ 
+ 
+ Sail the Pelagia 
+ 
+ 
+ 
+ 
+ Links on Texel Living 
+ 
+ 
+ 
+ Links on Yerseke Living 
+ 
+ 
+ 
+ Video diaries 
+ 
+ 
+ 
+ CONTACT HR 
+ 
+ 
+ 
+ Our HR Philosophy 
+ 
+ 
+ 
+ Choose an advisor 
+ 
+ 
+ 
+ Apply for a job 
+ 
+ 
+ 
+ Who's who? 
+ 
+ 
+ 
+ The Newbie Programme 
+ 
+ 
+ 
+ Leaving Royal NIOZ 
+ 
+ 
+ AlumNIOZ 
+ 
+ 
+ 
+ Royal NIOZ Academy 
+ 
+ 
+ 
+ SERVICE 
+ 
+ 
+ 
+ Job Alert 
+ 
+ 
+ 
+ News 
+ 
+ 
+ Directions & Maps 
+ 
+ 
+ Forms 
+ 
+ 
+ 
+ NWO-I Science jobs 
+ 
+ 
+ 
+ 
+ NVP Code of Conduct 
+ 
+ 
+ 
+ 
+ Privacy Statement 
+ 
+ 
+ 
+ Disclaimer 
+ 
+ 
+ 
+ Contact us 
+ 
+ 
+ 
+ 
+ 
+ ‹ › × 
+ × 
+ 
+ __Previous Next __ 

@@ -1,0 +1,57 @@
+Toggle navigation   VIANNA  
+ 
+ Workgroups **** 
+ 
+ Kral Lab - Auditory Neuroscience 
+ Büchner Lab - Signal Processing for Auditory Implants 
+ CAS Lab - Computer-Assisted Surgery 
+ Doll Lab - Biomaterial Engineering 
+ Hoffmann Lab - Graded Implants and Regenerative Strategies 
+ WG Lenarz - Specimen Preparation Laboratory 
+ Maier Lab - Implantable Middle Ear Hearing Devices 
+ APG Lab - Auditory Prosthetic Group 
+ Paasche Lab - Electrode-Neural-Interface 
+ Scheper Lab - Pharmacology of the Inner Ear 
+ Warnecke Lab - Protection and Regeneration of the Inner Ear 
+ 
+ 
+ Past Events **** 
+ 
+ EnFI 2015 
+ CAL Symposium 2015 
+ CAL Symposium 2017 
+ Inner Ear Biology 2017 
+ 
+ 
+ Open Positions 
+ 
+ 
+ __ 
+ Open Positions 
+ 
+ Open Positions 
+ Sorry, there are no open positions at the moment. 
+ 
+ To edit/update this page go  https://github.com/vianna-research/website/edit/master/pages/jobs.md 
+ About The VIANNA research team 
+ 
+ [ 
+ 
+ __Tags 
+ ](./) 
+ 
+ 
+ __Links 
+ 
+  Impressum  
+  MHH Homepage  
+  NIFE  
+  Hearing4all  
+  Hearing4all (official)  
+ 
+ 
+ 
+ 
+ (C) 2021 The VIANNA research team * Powered by  pelican-bootstrap3  with the  VIANNA theme ,  Python ,  Pelican ,  Bootstrap , and github. 
+  Content licensed under a  Creative Commons Attribution 4.0 International License , except where indicated otherwise. 
+ __Nach oben 

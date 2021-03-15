@@ -1,0 +1,82 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ FUNCTIONAL ANALYST, IT BUSINESS SOLUTIONS 
+ Boutique La Vie En Rose 
+ __Montréal, QC 
+ Apply Now 
+ SIEGE SOCIAL, 4320 AVENUE PIERRE-DE COUBERTIN, MONTREAL, Quebec, Canada Req #3620 
+Friday, November 13, 2020 
+ Founded in 1985, La Vie en Rose has distinguished itself as a Canadian leader in the field of lingerie and jerseys with more than 3,000 employees. The company has more than 230 stores across Canada, and our ultimate goal is to make you feel beautiful and comfortable in our lingerie and swimsuits and provide you with outstanding customer service. In addition, since 2006 we have entered the international market and our brand is now represented in 18 countries. 
+ At La Vie en Rose, employees are the most important asset of the company. It is important for us that employees feel appreciated in their work. That's why we encourage in-house promotions and offer the best possible training to our employees so that they all develop a long and beautiful career at La Vie en Rose. 
+ Purpose of the position 
+ Under the supervision of the Team Leader, IT Applications, the Functional Analyst, IT Business Solutions is responsible to define, develop and / or support the development, tests, analysis and maintenance of technological solutions. The candidate should be versatile, open-minded and have the ability to adapt to rapid changes. 
+ Job description 
+ 
+ Understand and master the systems, databases and their integrations, as well as the entire application system of La Vie en Rose; 
+ Take charge of reported incidents and analyze them, escalate as needed (external suppliers, DEV, BI specialist); 
+ Identify problems (recurring incidents having a solution at the source); 
+ Interpret SQL programs and read integration files (XML and others); 
+ Work with developers and external partners to identify solutions that require development; 
+ Create and execute SQL queries to analyze data, extract information and make corrections; 
+ Design, develop, correct and test integrations between the systems of la Vie en Rose and the various technological solutions, as well as the “in-house” systems; 
+ Collaborate with users and external suppliers for the implementation, support and maintenance of technological solutions and various integrations; 
+ Ensure regular communication to internal users on the progress of incident resolution; 
+ Participate in the upgrading of applications and solutions with the various stakeholders; 
+ Maintain system documentation and their integration up to date; 
+ Document recurring incidents and system problems and transfer to the right resources in order to find solutions; 
+ Participate in data archiving and various migrations; 
+ Monitor and monitor systems, logs and alerts; 
+ Update the "delivery notes" and distribute the relevant information to the various stakeholders; 
+ Provide support outside of working hours and this in rotation with the other members of the team. 
+ 
+ Requirements 
+ 
+ College or university degree in information technology or any related field; 
+ Minimum of 3 years of experience in functional analysis in the context of technological solutions; 
+ Oral and written bilingualism, English and French; 
+ Knowledge of programming servers such as .NET (C #) and SQL Server or other; 
+ Good understanding of coding methods and best practices; 
+ Assets: Experience with various integrated technological solutions as well as SharePoint, task tracking systems such as Azure DEV / OPS, integration tools such as SSIS; 
+ Ability to conduct research relating to technological solutions and the problems resulting from them; 
+ Analytical mind and ability to solve problems; 
+ Adapt quickly to new systems and new technologies; 
+ Good management of priorities and to perform tasks under pressure and to manage stress related to the constantly changing world of retail; 
+ Sense of organization and great attention to detail; 
+ Communication skills and ability to adapt to both business and technical language; 
+ Knowledge in the retail sales field. 
+ 
+ The information on this site is for information purposes only and is not intended to have legal consequences. La Vie en Rose is committed to employment equity. La Vie en Rose has put in place an adaptation process that provides accommodation for selected candidates for an interview. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

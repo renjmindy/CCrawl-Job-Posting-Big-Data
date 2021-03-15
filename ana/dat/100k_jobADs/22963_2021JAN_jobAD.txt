@@ -1,0 +1,204 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Golang Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ GolangWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Go Engineer 
+ [ 
+ Cytora 
+ ](/companies/cytora) 
+ London, United Kingdom 
+ 30 June, 2020 
+ Apply 
+ More jobs from Cytora About Cytora 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Go 
+ AWS 
+ Docker 
+ ElasticSearch 
+ GCP 
+ KUBERNETES 
+ LAMBDA 
+ Microservice, Golang 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Stock options 
+ Mentorship program 
+ Learning budget 
+ Private healthcare 
+ Pension scheme 
+ Cycle to work scheme 
+ 
+ Leading architectural and design decisions, mentoring team, writing clean effective code. 
+ Role overview 
+ We are looking for an experienced Senior Software Engineer to help us build products that fundamentally change the way insurers see the world, enabling them to move from an assumption based understanding of risk, to an empirical, data-driven view. 
+ Your role: 
+ You will be working on some of the company’s biggest challenges, including scaling our data processing pipelines (built using GoLang, Python, Spark, ElasticSearch, Docker, GCP and TensorFlow/Keras) 
+ We are looking for candidates who are driven to build effective technology solutions that solve significant real world problems. You are a great technologist and regardless of which language you use, you take pride in writing clean, effective code. 
+ As a Senior Software Engineer at Cytora, we also expect you to contribute to higher level technical architecture discussions and take opportunities to mentor and coach less experienced colleagues. 
+ What your day-to-day would look like: 
+ 
+ Beginning each day with a stand up to synchronise efforts across the team, informed by weekly sprint planning with the whole company 
+ Contributing to the refinement our development process, which already includes a well-maintained customer driven feature backlog, strong code review/testing processes and frequent continuous integration driven deploys of production features 
+ Working on exciting long-term, high-value projects based on the latest research from the fields of AI and NLP, including work on our low latency event detection system that turns unstructured text streams into a structured dataset of real world events 
+ We take pride in test driven development and peer reviewing colleagues’ pull requests to ensure what we build is simple, elegant, reliable and self-documenting 
+ Each week includes at least one opportunity for learning, typically in the form of a reading group with a presentation from somebody in your team 
+ 
+ 
+ What we are looking for in candidates: 
+ 
+ Strong programming skills gained in a production environment - we use Go and Python but are open to Engineers from any background. 
+ Proven experience of creating and maintaining Microservices 
+ Excellent knowledge of data structures, storage systems and cloud infrastructure (GCP, AWS or Azure) 
+ Excellent communication skills, with the ability to articulate detailed technical concepts at a high level 
+ 
+ Bonus points: 
+ 
+ Exposure to machine learning and natural language processing 
+ Familiarity with Agile development methodologies (including test driven development and continuous integration) 
+ We use Docker/Kubernetes for continuous integration, so familiarity with concepts around containerisation would be useful 
+ Experience with mentoring and coaching other less experienced engineers 
+ 
+ Benefits: 
+ 
+ Private Health Insurance 
+ Pension Plan 
+ Training & Development 
+ Stock Options 
+ Flexi working 
+ Learning and Development 
+ Cycle to work scheme 
+ 
+ About Cytora: 
+ Cytora transforms underwriting for commercial insurance. The Cytora Platform enables insurers to underwrite more efficiently and deliver fairer prices to their customers. Cytora is a trusted partner to global insurers, backed by leading venture capital, and supported by builders of some of the world’s most successful technology companies. With a world-class team of experts in machine learning, risk modelling, and strategy, Cytora is powering the future of commercial insurance. 
+ To learn more about our culture and benefits visit our careers page:  http://www.cytora.com/careers 
+ Equal Opportunities: 
+ We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+ [ 
+ Cytora 
+ ](/companies/cytora) 
+ 
+ 10-49 
+ 
+ Cytora transforms underwriting for commercial insurance. Our platform helps insurers to underwrite more accurately, reduce frictional costs, and achieve profitable growth. Currently developing an augmented suite of products to improve underwriter productivity. 
+ Technology Series B Agile flexible working AWS Golang KUBERNETES Microservice, Golang Stock Options Mentorship Program 
+ View 1 job 
+ Engineers who find a new job through Golang Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Cytora About Cytora 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Go 
+ AWS 
+ Docker 
+ ElasticSearch 
+ GCP 
+ KUBERNETES 
+ LAMBDA 
+ Microservice, Golang 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Stock options 
+ Mentorship program 
+ Learning budget 
+ Private healthcare 
+ Pension scheme 
+ Cycle to work scheme 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Software Developer (UK/EU Only)£60K - 90KFORM3United Kingdom 
+ Build the next generation payment API in the cloud 
+ Remote 
+ go aws bdd docker kubernetes microservices tdd 
+ More Info Apply 
+ Tech Lead, ClojureCompetitiveWeFarmUnited Kingdom 
+ Enables farmers to share and access information using Clojure! 
+ Remote 
+ aws clojure docker kubernetes 
+ More Info Apply 
+ Senior Software Engineer£65K - 85K + EquityCredit KudosLondon, United Kingdom 
+ Making credit scoring fair, using the power of Open Banking 🌍 
+ go aws docker ruby on rails 
+ More Info Apply 
+ Senior Go Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Go jobs Golang jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Golang articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

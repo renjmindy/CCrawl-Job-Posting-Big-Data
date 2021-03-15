@@ -1,0 +1,239 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Sr. Software Engineer 
+ LegalSifter, Inc. 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Sr. Software Engineer 
+ LegalSifter, Inc. 
+ [](mailto:?subject=Sr%2E%20Software%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14138176/sr-software-engineer/ "Email")  
+ Application 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ November 23, 2020 
+ Location: 
+ Pittsburgh, Pennsylvania 
+ __ Show Map 
+ Type: 
+ Full Time - Experienced 
+ Required Education: 
+ 4 Year Degree 
+ Sr. Software Engineer 
+ Location: Pittsburgh, PA 
+ ABOUT LEGALSIFTER 
+ LegalSifter makes contracts easier. We have two primary products: 
+ 
+ 
+ LegalSifter : Artificial intelligence software that reads a contract and gives advice before a client signs, reducing risk, lowering cost, and saving time. 
+ 
+ 
+ Sifter Concierge : A contract librarian service that organizes contracts for clients using artificial intelligence software, paralegals, and attorneys.?? 
+ 
+ 
+ We build simple, affordable artificial intelligence products embedded with expertise. We are doing this to make global legal support affordable. We want to empower people with artificial intelligence, not replace them. 
+ OUR MISSION 
+ To bring affordable legal services to the world by empowering people with artificial intelligence. 
+ OUR CORE VALUES 
+ 
+ 
+ Speed: We work fast. 
+ 
+ 
+ Security: We are vigilant and committed to maintaining the privacy of client data. 
+ 
+ 
+ Humility: We use our energy to serve others; we are lifelong learners. 
+ 
+ 
+ Intelligence: We operate with aligned visions, strategies, plans, and budgets. 
+ 
+ 
+ Boldness: We are transparent, courageous, and unafraid to make mistakes. 
+ 
+ 
+ Balance: We work flexibly to keep promises to teammates, shareholders, clients, friends, and family. 
+ 
+ 
+ OUR STRATEGY 
+ We sell our products directly to companies and law firms that are interested in improving their efficiencies, lowering their risk, and improving the quality in their contract processes. We also work with law firms to combine their legal advice with our artificial intelligence to create co-branded contract review software that law firm clients buy directly from the law firm. Law firms increase revenues, expand margins, and make their clients happier with more affordable legal products. We also work with contract lifecycle management software companies to provide contract librarian services to their clients who are dissatisfied because they cannot organize their contracts. 
+ ABOUT THE JOB 
+ Contracts are the most important document in global commerce. They are also universally a pain. They slow down commerce. People cannot afford to send them to attorneys, because they are too expensive and too slow for the average transaction. Attorneys cannot afford to review them faster or cheaper because they have not had the technology that allows them to deliver contract reviews at scale. Moreover, once contracts are signed, the world cannot keep track of them. It buys databases, and then struggles to keep them organized. Everyone builds a library, but the books are in a mess on the floor. 
+ LegalSifter is growing quickly, and we need someone to join or team as a senior software engineer on our software engineering team, working collaboratively with our Data Science team. We have a team of top-notch software engineers. We are looking for someone to help us consistently deliver the kind of world-beating product outcomes that we all signed up for when we joined this venture. Success in this role will require technical excellence as follows: 
+ SKILLS 
+ 
+ 
+ Demonstrable experience modelling our core values in career to date. 
+ 
+ 
+ Provide ongoing maintenance, support and enhancements in existing systems and platforms. 
+ 
+ 
+ Design, develop, test, deploy, maintain and improve software in an agile environment. 
+ 
+ 
+ Manage individual project priorities, deadlines and deliverables. 
+ 
+ 
+ Strong listener. 
+ 
+ 
+ Creative. 
+ 
+ 
+ BS degree in Computer Science, similar technical field of study, or equivalent practical experience; Master's, PhD degree, or further education / equivalent experience in engineering computer science or another technical related field is preferred 
+ 
+ 
+ Software development experience in one or more general purpose programming languages including, but not limited to: Java, C/C++, C#, Objective C, Python, or JavaScript. 
+ 
+ 
+ Preferred experience with deploying a global application using cloud technologies at scale. AWS and Docker experience preferred. 
+ 
+ 
+ Clear desire to go on the rollercoaster ride of their working life. 
+ 
+ 
+ 
+ SKILLS 
+ 
+ Demonstrable experience modelling our core values in career to date. 
+ Provide ongoing maintenance, support and enhancements in existing systems and platforms. 
+ Design, develop, test, deploy, maintain and improve software in an agile environment. 
+ Manage individual project priorities, deadlines and deliverables. 
+ Strong listener. 
+ Creative. 
+ BS degree in Computer Science, similar technical field of study, or equivalent practical experience; Master's, PhD degree, or further education / equivalent experience in engineering computer science or another technical related field is preferred 
+ Software development experience in one or more general purpose programming languages including, but not limited to: Java, C/C++, C#, Objective C, Python, or JavaScript. 
+ Preferred experience with deploying a global application using cloud technologies at scale. AWS and Docker experience preferred. 
+ 
+ LegalSifter is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. 
+ 
+ Internal Number: 00001 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at LegalSifter, Inc. 
+ More Jobs Like This 
+ 
+ 
+ 
+ Sr. Data Engineer 
+ __  Pittsburgh, Pennsylvania 
+ 
+ 
+ 
+ 
+ OpenArc 
+ __Today 
+ 
+ 
+ Sr. Full-Stack Developer 
+ __  New York, New York 
+ 
+ 
+ BNY Mellon 
+ __Today 
+ 
+ 
+ Sr. Software and Systems Engineer, Mobile Technologies Team 
+ __  Wexford, Pennsylvania 
+ 
+ 
+ Lucas Systems Inc. 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

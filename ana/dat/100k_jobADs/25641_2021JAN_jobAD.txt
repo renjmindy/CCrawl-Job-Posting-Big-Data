@@ -1,0 +1,145 @@
+Transmedia Me 
+ Skip to content 
+ 
+ Home 
+ CV 
+ About 
+ 
+   
+ Tag Archives: job search 
+ May 24, 2012 * 10:35 am 
+ Roundup of Writing on the Job Market 
+ While at  Computers and Writing  last week, I posted to Twitter a link to my  write-up  of the digital tools I used to organize my job search, and I got more hits on this blog than I had ever had before. (This was at least mostly because the inimitable  Tim Lockridge  was talking about his clever tech-use when I tweeted, so everyone was all prepped up for thinking about this stuff.) 
+ That made me remember that I chronicled my job search a bit for the graduate student newsletter  Inklinks  at the University of South Florida, edited this year by the amazing Jessica Cook. On the chance that they will help future job-seekers, I'll post the articles here, informal and personal as they are. 
+ 
+ In the December 2011 issue, I wrote about the things I felt I had done well and poorly in the years leading up to the academic job search.  Just my article  |  Entire issue 
+ In the February 2012 issue, I wrote about what it was like interviewing at MLA.  Just my article  |  Entire issue 
+ In the May 2012 issue, I wrote some final reflections about the whole process, written after securing a tenure-track position.  Just my article  |  Entire issue 
+ 
+ Enjoy! 
+ 1 Comment 
+ Filed under  Uncategorized 
+ Tagged as  cwcon ,  job search 
+ November 2, 2011 * 5:54 pm 
+ Searching for Academic Jobs 
+ Okay, I'll admit it: I'm pretty proud of my job search techniques. So in the interest of helping future searchers (and in hopes of garnering comments on what I could be doing better), I'll walk through what my days look like these days. Fun! 
+ Prep Work: What 's Already Done 
+ The Spreadsheet:  As anyone searching for jobs knows, spreadsheets are glorious. Mine is in a Google Doc to which only me and my wife have access. The main tab documents the school, city, job title, if it has a stand-alone writing department, general list of what they're looking for, teaching load, when the materials are due, how to apply (since mailed documents must be ready long before an online application due on the same date), what materials they want, where I got the info, any notes (maybe people I know who are there, how big the department is, interesting lines from the ad, etc.), and a link to the department's page. 
+ There's also a column where my wife gives the job a rating (1-3, with 3 being awesome) based solely on the location, and a column where I give it a rating based solely on how well the ad fits what I'm looking for. Then I color-code the entire row based on my rating: green for "Yes! Hire me!" and yellow for "Yeah, I suppose it's alright, even if it's not ideal," and red for, "I'm probably not qualified, or I really, really don't want that job. But I'd take it." 
+ There's also a tab in the same spreadsheet called "Links" where I keep track of links to job search sites and list the last date I searched each one. I also list a few other links here that I find myself using a lot. (More on those below.) 
+ Then there's a third tab in the same spreadsheet where I keep track of every expense for the job search. I've heard this stuff is tax deductible! Just in case, and just to be wise, I count it all. 
+ I also download a copy of the Google Doc every once in a while just in case Google fails one day or is bought up by . . . I don't know, Lady Gaga? 
+ 
+ Ooh! So detail-filled! 
+ The Site:  But I had a problem. I wanted the sortability of a spreadsheet, but I also wanted to keep track of info that wouldn't fit well in that format. So, my wife and I devised an awesome solution: a private Google site. 
+ Each job I'm applying for gets its own page on the site, organized under its geographical location for easy navigation. Then, I paste the job ad text into the left column, and then my wife puts some basic research into the area in the right column-things like population, links to city websites, arts and culture in the area, grocery stores, weather patterns, and so on. 
+ The beauty of the Google site is that each page has an easy-to-use comments area and attached file area. So every time I submit anything to a school, I upload the file  that I sent to them  at the bottom of the page. Yes, that means there's a host of practically identical  CV s on the site taking up space, but it also means I can always know  exactly  what I told each school when it comes time for interviews-and I know I'll have access to those files, since they now live online in an organized space. I also add a comment to the school's page whenever I send letters of recommendation, transcripts, or even exchange emails with a school. 
+ Then, the unique URL of each page on the Google Site goes in a column in the spreadsheet-so as I'm skimming the spreadsheet, if I think, "Wait, is that the school where they're looking for creative nonfiction people?" or "Is that the city that's the horse capital of the world?" I can just click through to the site. I loves it. 
+ The homepage of the site also features a slick Google Map showing a pin in every school that I've applied to. If it didn't seem kind of inappropriate to post publicly, I'd post it here, because it's  that awesome . Let me know if you're interested. 
+ The Dropbox:  I want to have access to all my files regardless of what computer I'm sitting at, so I save all of my job stuff in a  Dropbox  folder (which automatically syncs any changes to online storage that's accessible through a browser or in a regular old folder on any computer where I've installed Dropbox). 
+ In my Dropbox jobs folder, I keep the current versions of any documents (all dated with when I last updated them). Then there's a folder for older versions of docs (just in case), research of people at the schools I'm applying to or interviewing at, and a folder to keep track of teaching portfolio materials (since they were junking up the home folder). 
+ The Applying: What I Do On a Typical Day 
+ A usual day of job applying goes something like this: 
+ 
+ 
+ In a fresh browser window, I open my job spreadsheet and my job site in different tabs. Then, in new tabs that I spread out to the left (for whatever reason), I open the  Carnegie Foundation's Institution Lookup page  (for quick glimpses into the enrollment numbers and research profile of any school), the  MLA Job Information List  (requires my institution's password; for double-checks to make sure I have the most recent version of a job ad in my Google Site, and so I don't accidentally say in a letter that I got an ad from MLA that really came from somewhere else), and  the page on the Academic Jobs Wiki that lists Rhetoric and Composition jobs  (to see if anyone has made any notes about a job-like if it's been canceled, or if someone has contacted the search committee chair about a confusing line in the ad). 
+ I organize my spreadsheet by "date due" to see what jobs I should apply to next. 
+ I click through to the Google site to read over the ad, sometimes editing the page to bold any terms that especially apply to me. 
+ I head to the hiring department's page to see who works there, to learn a bit about what programs they have, and to skim some course listings. (And to judge their webpage? Never!) 
+ I open one folder on my computer where I make a new subfolder for each school I apply to. Then I open my Dropbox folder in a new window for easy access to my core documents. 
+ Based on what documents the school needs, I copy the core docs into my subfolder for that school. ("Let's see, they should get the research-focused letter, and the CV with no references, and the list of 6 references, and the 1-page teaching philosophy.") 
+ In the school-specific folder, I open each doc and modify it a bit if necessary. Obviously, the letter needs the most work; I change the date, address, salutation, and change/adapt/add a very little or a very lot, depending on what I learned from the ad and the department. 
+ I print each doc into a PDF (unless I'm mailing in a paper application, which is rather rare) and give it a cleaner file name. Instead of "Stedman-job-letter-10-10-11-research-ukentucky.docx," I name the pdf "Stedman-Letter.pdf." 
+ I upload the docx version of the documents to the school's page on the Google Site, so I can see some basic info about the file from its long, non-cleaned-up file name. 
+ I apply: either by printing out the docs and packaging them up, uploading them to an online application (some of which are far more logical than others), or emailing the docs with an extremely polite cover message. 
+ I make a comment on the school's Google Site page saying that I applied. In the spreadsheet, I note the date I applied (for easier skimming and organizing later). On the Google Map, I add a pin for that school. 
+ Repeat! 
+ 
+ I know this is a long post, but I think it's good. I've learned a lot just in the last month about organizing large projects, learning that will affect how I teach project management to my students in the future. Sweet! 
+ 2 Comments 
+ Filed under  Uncategorized 
+ Tagged as  google ,  job search ,  software tools 
+ 
+ 
+ 
+ 
+ 
+ Search for: 
+ 
+ 
+ My Tweets 
+ 
+ 
+ 
+ 
+ 
+ aesthetics   agency   argument   articlethoughts   authorship   background music   blogging   bookthoughts   buffy   citation   comics   conferences   copyright   creative commons   creative nonfiction   cwcon   design   dissertation   doctorow   education   emotion   epistemology of music   everyday   expository writing   fair use   fandom   fan fiction   fiction   film scores   google   images   information literacy   injustice   interactive reading   job search   list   lost   memory   metadata   mixtapes   movies   moviethoughts   music   musical communication   musical rhetoric   music and the body   new media literacies   news   open source   pedagogy   plagiarism   playthoughts   poetry   professional writing   projects   publishing   R.E.M.   recordings   religion   remix   research methods   retro   rhetoric/poetics   scifi   sharing   sonic rhetoric   talkthoughts   teaching   television   twitter   video   videogames   visual rhetoric   web 2.0   youtube 
+ 
+ 
+ Archives 
+ 
+ April 2017 
+ May 2016 
+ April 2016 
+ August 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ September 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ March 2014 
+ January 2014 
+ July 2013 
+ June 2013 
+ November 2012 
+ October 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ December 2011 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ 
+ 
+ 
+ 
+ 
+ 
+ Header photo  by  Infrogmation 
+ Transmedia Me  * Kyle Stedman on Rhetoric, Remix, and Everything Else 
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

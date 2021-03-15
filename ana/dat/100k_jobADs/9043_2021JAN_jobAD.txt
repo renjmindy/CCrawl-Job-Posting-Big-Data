@@ -1,0 +1,129 @@
+Hemanth Bitra Blog's 
+ Search 
+ Primary Menu Skip to content 
+ 
+ About 
+ 
+ Search for: 
+ Tag Archives: Automate extraction using cron job 
+ Uncategorized 
+ Automate extraction using shell scripting 
+ March 12, 2017   hemanth bitra   Leave a comment 
+ You can automate extraction using shell script and sql script in four steps 
+ 1. Create a sql file 
+ SET LINESIZE 110 
+SET TERMOUT OFF 
+SET ECHO OFF 
+SET PAGESIZE 0 
+SET HEADING ON 
+SET FEEDBACK OFF 
+SET UNDERLINE OFF 
+SET TRIMSPOOL ON 
+SET TRIMOUT ON 
+SET VERIFY OFF 
+SET ARRAY 500 
+SET WRAP ON 
+SPOOL /home/username/DateEx/extraction.dsv 
+SELECT 'EMPNO;ENAME;JOB;MGR;HIREDATE;SAL;COMM;DEPTNO' FROM dual; 
+select EMPNO||';'|| 
+ENAME||';'|| 
+JOB||';'|| 
+MGR||';'|| 
+HIREDATE||';'|| 
+SAL||';'|| 
+COMM||';'|| 
+DEPTNO 
+from emp; 
+SPOOL OFF 
+ Save this script as filename.sql [Ex. auto.sql] 
+ 2. **Create a shell script to connect sqlplus and run a script 
+ ** 
+ #!/bin/bash 
+login=scott/tiger@pdborcl 
+sqlplus $login <<EOF 
+@auto.sql 
+exit; 
+EOF 
+ Save the script as filename.sh [Ex. oracron.sh] 
+ **3. Now create another shell scripting so that we can schedule cron job 
+ ** 
+ #!/bin/bash 
+ 
+ /home/username/oracron.sh 2>&1 > /home/username/DateEx/stderr.log 
+ 
+ Save this file as filename.sh [Ex. crons.sh] 
+ 4. Configuring cronjob 
+ To configure cronjob 
+ enter below command in command line 
+ $crontab -e 
+ and schedule as per your requirement 
+ Example of cronjob 
+ For every day at 12 am 
+ 0 0 * * * /path/to/script [Ex. 0 0 * * * /home/username/crons.sh] 
+ For 3rd day of the every month at 12 pm 
+ 0 12 3 * * /path/to/script 
+ For weekly job for monday to friday at 12pm 
+ 0 12 * * 1-5 /path/to/script 
+ For yearly once in december from 1st 10 days at 11 am 
+ 0 11 1-10 12 . /path/to/script 
+ You can download the example file from this link :  https://github.com/hemanth22/Cron-automation-extraction 
+ In this blog i have used example table which is available in oracle database 
+ Automate extraction using cron job 
+ Blog Stats 
+ 
+ 541 hits 
+ 
+ No upcoming events 
+ Welcome to my blogs 
+ Search for: 
+ Recent Posts 
+ 
+ Creating issues using github api if travis build is failed.  October 23, 2018 
+ How to test java project using docker in Travis CI without Maven  June 15, 2018 
+ Are you a trader and you are looking for a app which can trigger an alert when amount is above the expected stock price.  April 22, 2018 
+ How to create voip call to remaind your task using IFTTT App  February 18, 2018 
+ Bad owner or permissions on /home/username/.ssh/config  December 5, 2017 
+ 
+ Archives 
+ 
+ October 2018 
+ June 2018 
+ April 2018 
+ February 2018 
+ December 2017 
+ October 2017 
+ March 2017 
+ February 2017 
+ August 2015 
+ 
+ Hemanth Bitra 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Blog Stats 
+ 
+ 541 hits 
+ 
+ Bitra Hemanth 
+ 
+ Bitra Hemanth 
+ 
+ Archives 
+ 
+ October 2018 
+ June 2018 
+ April 2018 
+ February 2018 
+ December 2017 
+ October 2017 
+ March 2017 
+ February 2017 
+ August 2015 
+ 
+ Create a free website or blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

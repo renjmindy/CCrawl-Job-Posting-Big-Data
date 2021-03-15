@@ -1,0 +1,87 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Research Associate – Bioinformatics 
+ PHSA 
+ __Vancouver, BC 
+ Apply Now 
+ Temporary Full Time (12 months, 37.5 hours per week) 
+ Hours:  8:30-16:30 
+ Days:  Monday to Friday 
+ Salary:  $63,974 - $79,968 per annum 
+ **Benefit Package Included ** 
+ BC Cancer, Canada’s Michael Smith Genome Science Centre (GSC) 
+ Suite 100 – 570 West 7th Avenue 
+ Vancouver, BC V5Z 4S6 
+ ROLE SUMMARY 
+ The GSC is currently looking for a senior bioinformatician to develop approaches to analyzing and sharing “big data”. This role is instrumental in the development of the CFI-funded cyberinfrastructure project, CanDIG—a state-of-the-art data sharing platform contributing to the development of an international effort to facilitate information exchange as part of the Global Alliance for Genomics & Health (GA4GH). CanDIG also supports large-scale provincial and national data sharing projects, including BC Cancer’s Personalized OncoGenomics program, the Terry Fox Research Institute (TFRI) PROFYLE project and the TFRI-led Marathon of Hope Cancer Centres Network—a major federal initiative to accelerate the adoption of precision medicine for cancer in Canada. 
+ Based at the BC Cancer Research Institute in Vancouver, the successful incumbent will help to devise, develop and implement data sharing methods between our partner sites for cancer genome and transcriptome data. They will also research how these data can be used within Canada to improve precision medicine as it applies to the delivery of healthcare for cancer, ultimately generating a "big data" analytics platform from which further insights into the biology of cancer will be realized. 
+ MAJOR RESPONSIBILITIES 
+ Conduct research and supervise projects. 
+Develop and use new and novel methods for the analysis of cancer genome sequence. 
+Interact closely with principal investigators and clinicians about the biology and clinical history of research subjects. 
+Evaluate sequence variants using software prediction tools, and apply guidelines for the interpretation of sequence variants in the context of precision medicine. 
+Manage and track of next generation DNA and RNA sequence data. 
+Develop innovative ways to annotate and discover relationships between cancer genes and clinical outcomes. 
+Present findings at local, national and international scientific meetings. 
+Write scientific manuscripts related to research findings. 
+Develop research grant applications. 
+Contribute to required quarterly and annual reports for research projects. 
+Work with principal investigators to ensure that all scientific milestones are achieved. 
+Develop computer code according to professional and industry standards. 
+Perform other related duties as required. 
+ QUALIFICATIONS 
+ Education and Experience 
+ PhD in a life sciences or quantitative discipline. 
+A minimum of 2 years demonstrated experience in bioinformatics, focused on genome sequence data processing and analysis. 
+ Skills and Abilities 
+ Expertise in bioinformatics, emphasizing genome sequence analysis and gene annotation. 
+Knowledge of scientific tools, technologies and online resources as pertaining to cancer genomics. 
+Python, Javascript and SQL programming experience. 
+Previous API development projects using Open API or Rest API is a plus. 
+Experience with high-performance computing. 
+Experience in a supervisory role is an asset. 
+ Applications will be accepted until the position is filled. 
+ For more information on this opportunity, please contact Kevin Wang, Advisor Talent Acquisition at (604) 875-7215 or email kevin.wang@phsa.ca 
+ Canada's Michael Smith Genome Sciences Centre (GSC) at BC Cancer is an international leader in genomics, proteomics and bioinformatics for precision medicine. By developing and deploying genome sequencing, computational and analytical technology, we are creating novel strategies to prevent and diagnose cancers and other diseases, uncovering new therapeutic targets and helping the world realize the social and economic benefits of genome science. 
+ Learn more about how the GSC is Bringing Genomics to Life. 
+ Why work at the GSC 
+ As the first genome centre to be established within a cancer clinic, our story began by thinking outside of the box. From being the first in the world to sequence the SARS coronavirus during the 2003 global outbreak to publishing the first study demonstrating the use of whole genome sequencing to influence personalized cancer treatment planning in 2010, our passion for pushing scientific frontiers continues to this day. 
+ Our technology platforms enable the transformative science being done at the GSC. But it is our world-class team of scientists and innovators that make it happen. By joining the GSC you will become part of a diverse and dedicated group of biologists, bioinformaticians, computer scientists, computational biologists, biochemists, engineers and clinicians. We look for people who share our core values—science, timeliness and respect—to join us in our mission to provide genomics, bioinformatics and proteomics technology and expertise for the benefit of human health and society. 
+ BC Cancer (www.bccancer.bc.ca) is committed to reducing the incidence of cancer, reducing the mortality from cancer, and improving the quality of life of those living with cancer. BC Cancer provides a comprehensive cancer control program for the people of British Columbia in partnership with regional health authorities to deliver a range of cancer services, which include prevention, screening and early detection, diagnosis and treatment, research, education, supportive care, rehabilitation and palliative care. It operates six regional cancer centres in Surrey, Kelowna, Vancouver, Victoria, Abbotsford and Prince George, along with two research centres that conduct research into the causes and cures for cancer. 
+ BC Cancer is part of the Provincial Health Services Authority (PHSA). 
+ PHSA provides specialized health services to British Columbians, including cancer care, organ transplantation, pediatrics, emergency services, mental health and substance use services. Our values reflect our commitment to excellence and include: Respect people – Be compassionate – Dare to innovate – Cultivate partnerships – Serve with purpose. Learn more about PHSA and our programs: https://jobs.phsa.ca/family-brands 
+ We hire on the basis of merit and encourage all qualified applicants to apply. We recognize that our ability to provide the best care for our diverse patient populations relies on a rich diversity of skills, knowledge, backgrounds and experiences. We strive to create a safe and welcoming environment where everyone can come to work and be their best, authentic self. Citizens and permanent residents of Canada will be given priority. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

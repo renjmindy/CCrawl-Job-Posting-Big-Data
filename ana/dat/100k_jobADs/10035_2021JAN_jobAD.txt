@@ -1,0 +1,116 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Craft CMS Developer - Senior Frontend Developer LOCALPERMANENT 
+ Job Description 
+ Craft CMS Developer - Senior Frontend Developer 
+ Being a FED at Evolution 7 means you're at the heart of the action: you're involved in crafting websites and applications on a range of platforms, working directly with UX designers, backend developers and strategists to fashion cutting-edge experiences. You'll have the opportunity to learn new skills and technologies from our great team, and to share your knowledge and skills in turn. 
+ We work on a range of fantastic and diverse projects, including well known Australian companies, international brands, high profile websites, and technology startups. Fresh off our second win for "Best Design Studio" (Melbourne Design Awards) we're growing rapidly and looking for new Evolutionaries to join our ranks. We've got some amazing new projects we need your help building. 
+ We're looking for a talented senior FED who has a passion for digital, loves clean code and will relish working within a broader team. You'll be able to coach and mentor junior developers, collaboratively improve processes and outcomes, and happily share your knowledge and expertise. 
+ our technology stack 
+ We utilise a range of technologies and tools - check out our stack here: 
+ http://stackshare.io/evolution-7/evolution-7 
+ mission parameters 
+ 
+ Experience with Craft 3 / Craft 2 
+ 4-5+ years commercial experience (or world-beating talent) 
+ Strong knowledge of HTML5/CSS3 for building modern websites and web applications and experience using SASS/LESS/BEM for CSS development. 
+ Strong javascript knowledge, ideally Vue.js, or experience in other MV* frameworks (Ember, React, or Angular) utilising the latest ES6/ES7 features. 
+ Experience integrating third party APIs into applications 
+ Experience using and maintaining frontend build tools like Webpack, Gulp, or Grunt. 
+ Solid understanding of version control and experience using Git. 
+ Proficiency on the command line including setup and maintenance of local development environments. 
+ Experienced at integrating with PHP based CMSs 
+ Experience working with templating languages including Twig, Mustache, or Handlebars. 
+ An understanding of the importance of application performance and proficiency using browser development tools. 
+ Respect for data-driven design and attention to detail 
+ Experience with estimating projects and writing technical documentation. 
+ Excellent written & verbal communication skills 
+ A desire to teach and guide junior developers 
+ Team-oriented and collaborative 
+ Positive energy and enthusiasm! 
+ Mild caffeine addiction and decent taste in music a bonus! 
+ 
+ mission objectives 
+ 
+ Share your passion for technology 
+ Collaborate with the design, development, and strategy teams to achieve best practice digital work 
+ Proactively contribute to ongoing development and process improvement 
+ Contribute, share ideas, be passionate, and inspire your colleagues 
+ Develop elegant, maintainable, and robust code 
+ Have fun! 
+ 
+ the rewards 
+ 
+ Drive your career with ongoing training & conferences 
+ Be rewarded with our growth via profit share arrangement 
+ Be part of a creative and passionate culture 
+ Cool studio environment - converted warehouse in Richmond's funky Cremorne precinct 
+ Work from a great central location close to CBD, public transport, and bike paths 
+ Enjoy fresh fruit & breakfast daily, along with our famous "Foodie Tuesday" 
+ Day off on your birthday 
+ Work/life balance 
+ We're nice people :) 
+ 
+ term 
+ 
+ 12 months to permanent 
+ 
+ NOTE: 
+- NO RECRUITERS PLEASE 
+ How to Apply 
+ Please head over here and complete the online application: 
+ 
+ https://www.evolution7.com.au/culture/work-with-us#op-235925-craft-cms-developer-senior-frontend-developer 
+ No phone calls please! We will respond to applicants we want to interview 
+ 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Evolution 7 
+ 
+ __ 
+ 
+ Location:  Melbourne, Australia 
+ 
+ __ 
+ 
+ Phone Number:  [+613 9429 0033](+613 9429 0033) 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://www.evolution7.com.au 
+ __  Posted January 28, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

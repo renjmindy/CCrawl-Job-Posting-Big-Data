@@ -1,0 +1,6 @@
+ Qualifications 
+ Tech experience, you have 6 + years hands-on experience with: 
+A front-end framework like React, Angular, JQuery,etc. (or combinations) 
+ A back-end framework like Nodejs, Ruby on rails, Go, etc. (or combinations) 
+ Relational databases (PostgreSQL). 
+ Experience with Micro Services or Distributed Sytems 

@@ -1,0 +1,92 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Senior Data Scientist 
+ BC IMC 
+ __Victoria, BC 
+ Apply Now 
+ DEPARTMENT DESCRIPTION 
+ The Technology department is responsible for developing technology solutions that contribute to the achievement of BCI’s mission and long-term goals. The department manages the Corporation’s business applications and information technology infrastructure, providing support to a large group of financial professionals. The department is also responsible for authoring technology-related directives and conducting disaster recovery planning to minimize risk to the Corporation’s delivery of investment services. 
+ The Data & Analytics function is responsible for the governance, architecture and engineering of BCI’s data assets. It also provides reporting, insights and data science capabilities to its customers. 
+ POSITION DESCRIPTION 
+ Reporting to the Director, Data & Analytics, the Senior Data Scientist is responsible for transforming the organization’s data into critical information and insights that support organizational performance. The Senior Data Scientist will develop and implement advanced analytical models to identify patterns, trends and opportunities that drive business outcomes. Working closely with internal Technology and business area stakeholders, s/he will facilitate the communication and adoption of data-driven decision making, and contributes to a strong data and analytics competency for BCI. 
+ The position can be based in either Vancouver or Victoria with travel between the two cities. 
+ QUALIFICATIONS 
+ MUST HAVE: 
+Master’s Degree in Data Science, Statistics, Mathematics, Computer Science or a related discipline 
+A minimum of 5 years of experience as a Data Scientist or Data Analytics professional 
+Coding skills and deep proficiency with SQL, Python, R etc. 
+Competence at manipulating and analyzing complex, high-volume, high-dimensional data from varying sources 
+A flexible analytic approach that allows for results at varying levels of precision 
+Experience with version control systems (i.e. Git) 
+Demonstrated statistical, machine learning and other data science skills and capability for delivering effective modeling and analytics results 
+Must have excellent listening, communication, collaboration and problem-solving skills 
+Ability to understand business problems and bridge the gap between data analysis results and meaningful business insights 
+ PREFERRED: 
+Knowledge of the investment management industry 
+PRIMARY RESPONSIBILITIES 
+Collaborates with team members, other IT teams, and customers to understand the organization’s business objectives, decisions and data in order to build the most effective analytical models 
+Uses statistical and mathematical techniques to undertake analysis including forecasting, segmentation and predictive modelling 
+Applies current and emerging techniques in deep learning, natural language processing and other machine learning areas 
+Designs, develops and conducts data science experiments and communicates the results to foster data and analytics literacy and adoption 
+Designs, develops and implements cloud-based AI and machine learning production pipelines 
+Ensures AI and machine learning production pipelines are scalable, repeatable and secure 
+Integrates structured and unstructured data from multiple sources for use in models and products 
+Collects, cleans, manages, analyzes and visualizes large sets of data using multiple data platforms, tools and techniques 
+Leads other internal resources on ad-hoc data and analytics requests, investigations, pilot studies, proofs of concept, and projects 
+Enhances data collection procedures to include information that is relevant to building advanced analytical models and provides input to other internal resources on the applications, databases and systems used to assess data quality 
+Communicates data science complexities in plain language to technical and non-technical audiences and develops reports and presentations 
+Keeps up to date with the latest technology trends and methods by staying abreast of state-of-the-art literature in the fields of deep learning, operations research, machine learning, statistical modeling, statistical process control and mathematical optimization 
+Identifies issues and risks, develops action plans, and takes corrective actions as needed 
+Undertakes special projects or assignments as required 
+Performs other related duties as required 
+ COMPETENCIES 
+ Learning Agility 
+ Effective performers continuously seek new knowledge. They are curious and want to know “why”. They learn quickly and use new information effectively. They create and foster a culture of interest, curiosity, and learning. 
+ Relationship Building 
+ Effective performers establish and proactively maintain a broad network of relationships (e.g. colleagues, co-workers, vendors, suppliers, etc.). They value these relationships and work effectively across the organization by maintaining positive working relationships with peers and others. 
+ High Standards 
+ Effective performers possess a high inner work standard and shows pride in their work. They consistently strive to ensure work is complete within deadlines and that all work performed is of a high quality. 
+ Organization & Planning 
+ Effective performers have strong organizing and planning skills that allow them to be highly productive and efficient. They manage their time wisely and effectively prioritize multiple competing tasks. They follow through on tasks to ensure changes in technology are communicated effectively. 
+ Results Orientation 
+ Effective performers maintain appropriate focus on outcomes and accomplishments. They are motivated by achievement, and persist until the goal is reached. They convey a sense of urgency to make things happen. They respect the need to balance short- and long-term goals. They are driven by a need for closure. 
+ Communicativeness 
+ Effective performers clearly and articulately convey technical and other information both orally and in writing to others in a manner appropriate to the listener. They write clearly, accurately and concisely, composing project, technical and other required documentation as required. 
+ Change Mastery 
+ Effective performers are adaptable. They embrace needed change and modify their behaviour when appropriate to achieve organizational objectives. They are effective in the face of ambiguity. They understand and use change management techniques to help ensure smooth transitions. 
+ Business Thinking 
+ Effective performers see the organization as a series of integrated and interlocking business processes. They understand how their work connects with and affects other areas of the organization. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

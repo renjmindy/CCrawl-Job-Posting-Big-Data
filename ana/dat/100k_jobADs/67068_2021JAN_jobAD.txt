@@ -1,0 +1,184 @@
+__ 
+   
+ __ 
+   
+ 
+ 
+ Find a Job 
+ 
+ 
+ Who’s Hiring 
+ 
+ 
+ Start Hiring 
+ 
+ 
+ Jobseeker Login 
+ 
+ 
+ Employer Login 
+ 
+ 
+ Post a job 
+ 
+ 
+   twitter 
+ 
+ 
+   linkedin 
+ 
+ 
+ Find a Job 
+ 
+ 
+ Who’s Hiring 
+ 
+ 
+ Start Hiring 
+ 
+ 
+ Jobseeker Login 
+ 
+ 
+ Employer Login 
+ 
+ 
+ Post a job 
+ 
+ 
+ Search 
+ Cloud Computing Jobs 
+ Software Engineer 
+ [ __ 
+ CyberCoders 
+ ](https://workthenorth.com/company/cybercoders/) [ __ 
+ Fremont, California 
+ ](https://workthenorth.com/jobs-in/california-fremont/)   __ Design      __ Engineering      __ Software   
+ Software Engineer Title: Software EngineerLocation: Ideally within a commutable distance to Fremont, CA (will consider partially or 100% remote for the right candidate) Compensation: OTE $140-200KRequirements: C/C++, Python, AWS, Embedded Systems Based in Fremont, CA, we are a positioning technology company that is reinventing the industry's GNSS positioning approach to achieve ultra-low-power and high-precision positioning in harsh metropolitan environments for Internet-of-Things devices and autonomous vehicles. Our ideal candidate must come from a big tech (amazon, google, apple, etc.) company but have previous startup experience or is very interested in joining a startup. What You Will Be Doing - Developing software stack on embedded system, PC, as well as AWS or other cloud computing platforms.- Developing algorithms and their implementations in C/C++/Python for signal/data processing applications. (examples: convex optimization, adaptive filtering, high-dimensional statistics, etc.) What You Need for this Position Must have:- Bachelor degree in Computer Sciences, Software Engineering, Electrical Engineering or relevant fields- Solid programming foundation. Proficient with C/C++, Python and data structure- Strong ability in algorithm design and optimization- Solid foundation in Mathematics- Proficient with Linux/Unix and GithubNice to have:- Start-up experience- MS in relevant field- Experience working for major tech companies (big plus)So, if you are a Software Engineer with C/C++, Python, AWS, and Embedded Systems experience, please apply today! - Applicants must be authorized to work in the U.S.  CyberCoders, Inc is proud to be an Equal Opportunity Employer  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.  Your Right to Work  – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. 
+ Director 
+ [ __ 
+ THRILLWORKS 
+ ](https://workthenorth.com/company/thrillworks/) [ __ 
+ Nationwide, CA 
+ ](https://workthenorth.com/jobs-in/canada/)   __ Architecture      __ Design      __ DevOps      __ Engineering   
+ Candidates can be remote but will be required to work in EST timezone. Reporting directly to the Group Technology Director, a Technology Director will work closely with our Strategy and Creative leaders to help our clients to level up. You will help define the technologies that we are working with and be a source of […] 
+ Senior Software Engineer (Remote) 
+ [ __ 
+ KAR Global 
+ ](https://workthenorth.com/company/kar-global/) [ __ 
+ Toronto, Ontario 
+ ](https://workthenorth.com/jobs-in/ontario-toronto/)   __ Architecture      __ Design      __ DevOps      __ Engineering      __ Software   
+ Location: Remote, North America (EST Time Zone Preferred) Offices: OPENLANE – Toronto, Canada (Engineering) and KAR Global – Indianapolis, U.S.A (HQ) Who We Are: KAR Global powers the world’s most trusted automotive marketplaces through innovation, technology and people. Our end-to-end platform serves the remarketing needs of the world’s largest OEMs, dealers, fleet operators, rental companies […] 
+ Senior Frontend Developer 
+ [ __ 
+ Reshift Media Inc. 
+ ](https://workthenorth.com/company/reshift-media-inc/) [ __ 
+ Toronto, Ontario 
+ ](https://workthenorth.com/jobs-in/ontario-toronto/)   __ Design      __ DevOps      __ Software   
+ ABOUT THE COMPANY Reshift Media is a rapidly growing, high-energy digital agency and software developer that incorporates leading design, engaging content, best-in class technology and a unique perspective into everything we do. We work with more than 200 brands in 20 countries on a wide variety of digital projects. ABOUT THE ROLE We are looking […] 
+ Technical Support Specialist 
+ [ __ 
+ Leasepath 
+ ](https://workthenorth.com/company/leasepath-2/) [ __ 
+ Burlington, Ontario 
+ ](https://workthenorth.com/jobs-in/ontario-burlington/)   __ Customer support      __ DevOps      __ Software   
+ Microsoft Azure System Administration and Tech Support -- Location: Burlington, Ontario, Canada; Thousand Oaks, California USA; or Remote/WfH At Leasepath we are dedicated to empowering Finance Institutions and Lease/Loan Brokers in the Asset Finance industries, including Banking and Automobile Captive and Equipment Captive, with leading technology solutions for Customer Engagement, Originations and Process Automation on […] 
+ Python Developer 
+ [ __ 
+ Huntel Global 
+ ](https://workthenorth.com/company/huntel-global/) [ __ 
+ Montreal, Quebec 
+ ](https://workthenorth.com/jobs-in/quebec-montreal/)   __ Architecture      __ Data Science      __ Design      __ DevOps      __ Engineering      __ QA & Testing      __ Research   
+ Do you enjoy science? Here is an opportunity for a Backend Developer to join the Montreal AI ecosystem, working for this promising deep-tech startup. The company is scaling, and so the backend team is focusing on the scaling and traceability of its system. The company develops a unique remote sensing technology coupling AI and data […] 
+ Cloud Engineer 
+ [ __ 
+ Hays 
+ ](https://workthenorth.com/company/hays/) [ __ 
+ Montreal, Quebec 
+ ](https://workthenorth.com/jobs-in/quebec-montreal/)   __ Design      __ Engineering      __ ERP Consulting   
+ Snowflake + Azure Developer Client: Large IT Consulting Role: Snowflake + Azure Developer Duration: 6 months (possibility for an extension) Rate: *depending on experience Location: Montreal, QB (Remote) Our client, an American multinational product led digital corporation is looking to add a Snowflake / Azure Developer to work remotely with an end client located in Montreal, […] 
+ Software Engineer 
+ [ __ 
+ KAR Global 
+ ](https://workthenorth.com/company/kar-global/) [ __ 
+ Toronto, Ontario 
+ ](https://workthenorth.com/jobs-in/ontario-toronto/)   __ Architecture      __ Design      __ DevOps      __ Engineering      __ Software   
+ Location: Remote, North America (EST Time Zone Preferred) Offices: OPENLANE – Toronto, Canada (Engineering) and KAR Global – Indianapolis, U.S.A (HQ) Who We Are: KAR Global powers the world’s most trusted automotive marketplaces through innovation, technology and people. Our end-to-end platform serves the remarketing needs of the world’s largest OEMs, dealers, fleet operators, rental companies […] 
+ Senior Software Developer (Remote) 
+ [ __ 
+ KAR Global 
+ ](https://workthenorth.com/company/kar-global/) [ __ 
+ Toronto, Ontario 
+ ](https://workthenorth.com/jobs-in/ontario-toronto/)   __ Architecture      __ Design      __ DevOps      __ Engineering      __ Software   
+ Location: Remote, North America (EST Time Zone Preferred) Offices: OPENLANE – Toronto, Canada (Engineering) and KAR Global – Indianapolis, U.S.A (HQ) Who We Are: KAR Global powers the world’s most trusted automotive marketplaces through innovation, technology and people. Our end-to-end platform serves the remarketing needs of the world’s largest OEMs, dealers, fleet operators, rental companies […] 
+ Job Alerts 
+ Subscribe 
+ By clicking this button, you consent to receive emails about new jobs that relate to your search criteria. Remember: you can cancel these email alerts at any time. 
+ __Thank you for signing up! 
+ Job Categories 
+ 
+   Staffing & Recruiting 
+   IT Architecture 
+   Big Data Analytics 
+   DevOps 
+   Media & Publishing 
+   E-Commerce 
+   Networking 
+   Manufacturing 
+   Civil Engineering 
+   App Development 
+   Sales 
+   Biotech & Pharma 
+   IT Consulting & Pre-Sales 
+   Energy 
+ Marketing 
+   Financial Services 
+ Education 
+ Finance 
+   Wireless & Telecom 
+   IT Security 
+   Content Marketing 
+   Legal Services 
+   Non-Profit Organization 
+   Cloud Computing 
+   Virtualization 
+   ERP Solutions 
+   Management Consulting 
+ Human Resources 
+   Consumer Goods 
+   Renewables 
+   Software Sales 
+   IT Support 
+ 
+ __ 
+ Contract Type 
+ 
+ Analyst 
+ Architecture 
+ Customer support 
+ Data Science 
+ Design 
+ DevOps 
+ Engineering 
+ ERP Consulting 
+ Full Time 
+ Part Time 
+ Product Management 
+ QA & Testing 
+ Research 
+ Software 
+ 
+ We're sorry, there are currently no jobs in this category. 
+ Stay on page Back to search 
+ 
+ (C) 2021 WorkTheNorth | Powered by  Careerleaf Job Board Software 
+ v.3.5.28-67-g06e5c43 
+ 
+ The View from Everywhere 
+ Privacy Policy 
+ Terms and Conditions 
+ About Us 
+ Contact Us 
+ 
+ __ 
+ We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok 

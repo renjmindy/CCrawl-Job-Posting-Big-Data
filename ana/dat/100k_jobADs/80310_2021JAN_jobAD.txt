@@ -1,0 +1,52 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Commerce 2 Paybear.io gateway plugin (supporting subscriptions) REMOTECONTRACT 
+ Job Description 
+ We need a Commerce 2 plugin for the Paybear.io (crypto currency) gateway developed. 
+ This plugin would need to support both one off payments for  digital products  and subscriptions. 
+ For active subscriptions, we would request the payment a few days before renewal, and cancel the subscription if this is not made in time. 
+ A Paybear plugin already exists for Commerce 1, https://github.com/ethercreative/commerce-paybear. Obviously this would need to be updated to work with Commerce 2 and have subcriptions support added. 
+ -- 
+ If you have an alternative suggestion for accepting crypto currency (bitcoin, etherium & litecoin) payments for subscriptions, we'd be open to this. 
+ How to Apply 
+ Please email me at  [email protected]  with a quote and availability. Do let me know if you have any questions. 
+ The project is due to go live late November / early December. 
+ Contact Info 
+ 
+ __ 
+ 
+ Location:  Liverpool 
+ 
+ __ 
+ 
+ Email Address: 
+ __  Posted October 29, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

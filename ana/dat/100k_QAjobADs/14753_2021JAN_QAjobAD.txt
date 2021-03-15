@@ -1,0 +1,6 @@
+ Certifications Preferred:  CISSP is NOT required, but would be a plus 
+ SecurityHeadhunter.com   ,  a Security Search Firm, has been selected to conduct a search for a Web Application Security Consultant. Our client is looking for a person who has a passion for Web AppSec and understands that this area continues to evolve. The successful candidate needs to have solid Web AppSec experience working performing  secure code reviews . Should have experience with one of the leading  source code review tools  such as Fortify, AppScan, HP Web Inspector or Hail Storm. 
+ A true understanding of the  OWASP Top 10  is also needed. 
+ Successful candidate needs to be able to work with and relate to software developers during any and all remediation processes. 
+ Any experience as a software developer working with Java and /or .Net would be very desirable. 
+ RESPONSIBILITIES & DUTIES 

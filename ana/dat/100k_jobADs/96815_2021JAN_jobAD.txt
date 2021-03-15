@@ -1,0 +1,240 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Data Engineer 
+ [ 
+ travel audience 
+ ](/companies/travel-audience) 
+ Berlin, Germany 
+ 04 January, 2021 
+ Apply More jobs from travel audience About travel audience 
+ Salary 
+ €70K - 85K 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ Data Engineering 
+ JVM 
+ Kafka 
+ Scala 
+ Spark 
+ Flink 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Books 
+ Career advice 
+ Paid sick days 
+ Team workouts 
+ Pension contributions 
+ Beer tap 
+ Casual dress 
+ Fruit bowl 
+ Training 
+ Conference tickets 
+ Committed to a diverse team 
+ Lunch & learn 
+ Bike friendly 
+ Relocation budget 
+ Gym memberships 
+ Free coffee 
+ Macbook air/pro 
+ Breakfast & snacks 
+ Competitive salary 
+ Gym membership 
+ Bonus 
+ 28 days paid vacation 
+ Travel insurance 
+ Choice of new hardware 
+ Discount portal 
+ Smunch 
+ 
+ Join the world's leading data-driven travel-ad platform as a Sr Data Engineer in Berlin - 
+ Role overview 
+ The role 
+ As a part of Strategic Growth Businesses (SGB) unit of Amadeus,  Travel Audience  is the world’s leading data-driven travel advertising platform. The business unit harnesses the power of cutting edge machine learning practices to connect the leading performance-oriented advertisers with the biggest network of publishers, reaching millions of travellers. The strategy is to optimize advertising across the entire traveler journey, identify and create new audiences, and increase our partners reach, relevance, and booking volumes. 
+ We are searching for a  Senior Data Engineer  to join our Data Tribe. You will be combining your passion for technology and have a direct impact on the lives of millions of travellers, while also helping travel audience in becoming the global leader in data-driven advertising for the entire travel industry. 
+ What you'll do 
+ 
+ You'll be part of a team responsible for the design, development and maintenance of our data processing streaming pipelines in Google Cloud Dataflow developed using Apache Beam; 
+ You'll work closely with the Data Scientists and Data Analysts, providing them with access to the data and support they need to analyse, train and deploy machine-learning models; 
+ You'll own the full development and operations cycle of a product, whilst helping to ensure our systems are running correctly and efficiently; 
+ You'll use industry-proven tools such as git, and practices such as CI/CD in an agile setup; 
+ You'll be joining a cross-functional team. Aside from data engineers, our teams have Go Engineers, Data Scientists, Data Analysts, DevOps Engineers, and Frontend Engineers. 
+ 
+ About you 
+ 
+ You love Scala – either as Scala developer or a Python/Java developer willing to self-learn a new language; 
+ You have practical experience with one or more distributed data processing frameworks such as Spark, Beam/Dataflow, Flink or similar; 
+ You care deeply about software best practices and are dedicated to ensuring quality via testing, benchmarking and peer review; 
+ You have experience of using a pub/sub or message queue technology such as Kafka; 
+ You understand the theory behind different database technologies and data storage practices enough to make informed choices and match appropriate technologies to a given use-case; 
+ You dedicate yourself to continue learning and improving and you enjoy helping others grow around you; 
+ You’re eager to understand the business logic of the company and the meaning of the data they work with; 
+ You can speak, write and express yourself in English – our company’s working language – in a professional context; 
+ You feel at home collaborating in a workplace which is international, diverse, evolving, and continually innovating. 
+ 
+ What we offer 
+ 
+ FLEXIBLE working hours and a great office environment 
+ 28 vacation days, so you can enjoy yourself travelling!​ 
+ Free gym membership with access to FITNESS courses​ 
+ Access to an extensive DISCOUNTS portal 
+ The hardware of your choice (Mac/Linux)​ 
+ Public transportation pass subsidy (BVG) and a bike parking lot​ 
+ In-house lunch subsidy with Smunch alongside with drinks, snacks, fruits and coffee to cheer up your day!​ 
+ Company EVENTS and team activities​ 
+ Chill out room with Playstation and Table Soccer 
+ TIC, TRAVEL Industry Card 
+ Access to training and mentoring, we encourage your further DEVELOPMENT with us​ 
+ Your own TRAVEL Insurance, which covers your family too 
+ RELOCATION support and Visa sponsorship ​ 
+ 
+ 
+ [ 
+ travel audience 
+ ](/companies/travel-audience) 
+ 
+ 50-249 
+ 
+ Founded in 2011 as a joint venture between MairDumont and Traveltainment and is now a wholly-owned subsidiary of Amadeus IT Group, a leading provider of advanced technology solutions for the global travel industry. We are a team with different backgrounds and expertise that comes together with a mission to accelerate travel! We are more than 100 colleagues coming from 31 different countries around the world. A big number of us works from our Headquarters in the most exciting city in Europe, Berlin! Besides that, we have teams located in 7 other locations, Spain, France, the UK, Russia, Thailand, Argentina and the USA. You can find out more about us in the Employee spotlight or in our Tech Blog! travel audience is the world's leading data-driven travel advertising platform. Our platform connects the leading performance-oriented advertisers with the biggest network of publishers, reaching millions of travellers. We leverage machine learning to identify when people search for trips when they book and above all when it makes sense to show them offers of our partners. We optimise advertising across the entire traveller journey, identify and create new audiences, and increase our partners reach, relevance and booking volumes. 
+ Advertising Private Awesome Culture Go Algorithms Code Reviews GOOGLE Books Career advice 
+ View 4 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from travel audience About travel audience 
+ Salary 
+ €70K - 85K 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ Data Engineering 
+ JVM 
+ Kafka 
+ Scala 
+ Spark 
+ Flink 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Books 
+ Career advice 
+ Paid sick days 
+ Team workouts 
+ Pension contributions 
+ Beer tap 
+ Casual dress 
+ Fruit bowl 
+ Training 
+ Conference tickets 
+ Committed to a diverse team 
+ Lunch & learn 
+ Bike friendly 
+ Relocation budget 
+ Gym memberships 
+ Free coffee 
+ Macbook air/pro 
+ Breakfast & snacks 
+ Competitive salary 
+ Gym membership 
+ Bonus 
+ 28 days paid vacation 
+ Travel insurance 
+ Choice of new hardware 
+ Discount portal 
+ Smunch 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Principal Engineer€80K - 98Ktravel audienceBerlin, Germany 
+ Join the world's leading data-driven travel-ad platform as a Principal Engineer in Berlin - 
+ Sponsorship 
+ go architecture jvm python scala 
+ More Info Apply 
+ Senior Software EngineerCompetitiveTeadsMontpellier, France 
+ Work on our Advertising Platform reaching 1,5Bn users per month. 
+ Sponsorship 
+ concurrency java jvm kafka scala spark 
+ More Info Apply 
+ Data Engineer, ML 640K - 725K SEKTruecallerStockholm, Sweden 
+ Changing the way hundreds of millions of people interact with each other every day 🤝 
+ Sponsorship 
+ big data data engineering etl kubernetes machine learning python scala spark 
+ More Info Apply 
+ Senior Data Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

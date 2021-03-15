@@ -1,0 +1,333 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+  Engineering & Manufacturing  
+ 
+ Engineering & Manufacturing Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelancers for your project here 
+ ](https://www.workana.com/hire/) 
+ 6 months ago 
+ 2d drawing for structural 
+ Published: 6 months ago  Bids: 4 
+ After client give to us assembly and 3D pdf drawing,. I start the 1st week making detail for assembly drawing, top view, front view, isometric view ,and after that make detail for all structural detail drawing (for 3rd party review) , same also the lifting drawing must prepare the detail.. 
+Normally total of the 1st week i have to complete the structural drawing is 6. 
+And for the 2nd week i will start the rest of the assembly drawing, piping support drawing, grating and drip pan drawing, handrail and ladder drawing.. 
+ Category  : Engineering & Manufacturing 
+ Subcategory  : CAD drawing 
+ What do you need?  : Create a new file from a sketch or another format 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  S. N. B. S. A. J. Malaysia 
+ USD 250 - 500 
+ 6 months ago 
+ Architect with experience in Beach Restaurant 
+ Published: 6 months ago  Bids: 2 
+ I am looking for an architect who works with Archicad 23 and has experience with beach restaurant. I want to see restaurant designer projects already done, please don't send me a message if you don't have a restaurant in your portfolio. 
+ Category  : Engineering & Manufacturing 
+ Subcategory  : CAD drawing 
+ What do you need?  : Create a new file from scratch 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  A. I. P. Last reply: 6 months ago  France 
+ USD 250 - 500 
+ 6 months ago 
+ Single line diagram 
+ Published: 6 months ago  Bids: 1 
+ Peresently i am working in publication sector ,  i am a  b.tech  holder with electrical and electronics engineering , i have a knowldge of autocad electrical . 
+ Category  : Engineering & Manufacturing 
+ Subcategory  : CAD drawing 
+ What do you need?  : Create a new file from a sketch or another format 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  P. K. India 
+ USD 50 - 100 
+ 6 months ago 
+ Matlab Image processing 
+ Published: 6 months ago  Bids: 2 
+ I need to make project on Matlab. It includes image translation, vertical shear, horizontal shear  and image scaling without built-in commands 
+ Category  : Engineering & Manufacturing 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  M. A. Pakistan 
+ Less than USD 50 
+ 6 months ago 
+ Anti-Virus Air Shield. 
+ Published: 6 months ago  Deadline: 3 Bids: 6 
+ This is a wearable electronic product that will help shield a person from external air pollution and other contaminants... 
+ Need to develop a set of  3D product model illustrations to solicit funding and sponsors just like those in Indiegogo, Kickstarter,  Crowdox...Etc 
+ Will need form and function designs... Aesthetic and ergonomic design as a consumer, industrial and  medical applications. 
+ Time Frame: First workable Prototype in 3 months time or less... 
+ NDA will need to be signed before more info can be shared. 
+ Product concept in the process of patenting... 
+ Category  : Engineering & Manufacturing 
+ Subcategory  : 3D modelling 
+ What do you need?  : 3D modeling of several objects 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  C. T. Last reply: 6 months ago  Singapore 
+ USD 1,000 - 3,000 
+ 6 months ago 
+ Cad drawings , Estimating , Bar bending schedule 
+ Published: 6 months ago  Bids: 1 
+ Good knowledge of autocad , estimating , preparing of bar bending schedule. 
+Drawing building plans commercial and residential 
+ Category  : Engineering & Manufacturing 
+ Subcategory  : CAD drawing 
+ What do you need?  : Create a new file from a sketch or another format 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  V. P. V. Nepal 
+ Open 
+ 6 months ago 
+ Derive Center of Gravity (Cog) to be in the line of symmetry of rob... 
+ Published: 6 months ago  Bids: 1 
+ NOTE: I am willing to negotiate the price, but, I would appreciate if there are no changes to the price after negotiating and no cancellation of the project after confirmation. Thank you for understanding. :)) 
+ Description: 
+ Hi, 
+ I have a MATLAB code that gives the output of the 5 bar parallel link robot. 
+ This robot arm will be attached to the drone and a slider mechanism is to be included. 
+ - For this case, with the slider mechanism, the COG has to always be on the line of symmetry as the robot arm slides. 
+- This would then bring effect about the end-effector position (described below). 
+- The design is such that it works on planar coordinates (XY plane). 
+ The robot arm has to be such that it can move fast. 
+ - The task which I am in need is to get a method to get the cog to be in the line of symmetry even if the slider moves with the motorized joints moving at a relatively fast rate (similar to the dexterous robots) and to be applied on matlab with the necessary calculations. 
+- This could require the use of Jacobian Matrix, derivations of equations of COG, and other steps. I have the pdf copy of the steps/calculations required and the MATLAB code for the Jacobian matrix calculations, but I think this approach might not work or could be improved. 
+ - I would require a COG trajectory plot 
+ Also, I would require the counter-balancing mechanism, probably a rotating mass attached to compensate for the angular momentum created by the movement of the robotic arm system. For this force graphs would be required. 
+A video of the counter balancing mechanism that is referred to is attached here: 
+-  https://youtu.be/Bk1QmccUaZY 
+ So to summarize the tasks: 
+ 1.Keeping cog in line of symmetry as the slider mechanism moves with trajectory plots of the cog (matlab) and matlab simulation 
+2. 
+ The end effector position: refers to controlling the position of the slider and the input joints at the base to achieve the desired position. So, if the end effector is in position x0, y0 and you want to reach position x1, y1, what are the values of the slider and thethas to achieve that while keeping the CoG in the centre. 
+3. Counterbalancing mechanism for the robot arm (rotating mass) and force graphs 
+4. Require detailed report for the steps and calculations derived 
+ I have added a document that is similar to that of my requirements here, but the methods required may vary, and the MATLAB codes necessary. 
+ NOTEs on the documents attached: 
+1. WithoutPatch_COMFixed: The MATLAB code for the 5 bar parallel links 
+2. BackgroundUnderstanding: A paper that has been attempted by using the Jacobian matrix method, but in this case for a robotic arm with 2 links. 
+ 3. 5 link robot (2): An attempt of using the Jacobian matrix method described in BackgroundUnderstanding 
+4. Screenshot: An simple illustration of how the system will look like 
+5. Task Objectives: A document stating the precise objectives of the task. 
+ Category  : Engineering & Manufacturing 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  S. Singapore 
+ USD 250 - 500 
+ Previous 
+ Next 
+ 
+ Home 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

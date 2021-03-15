@@ -1,0 +1,139 @@
+WORK WITH INDIES beta 
+ Newsletter 
+ Browse Jobs 
+ Art & Animation 
+ Audio 
+ Business & Operations 
+ Design 
+ Marketing & Community 
+ Production 
+ Programming 
+ QA & CS 
+ Writing 
+ Post a Job 
+ Back to all jobs See allProgrammingjobs 
+ Game Programmer 
+ Red Thread Games Apply for this Job 
+ Posted 
+ November 30, 2020 
+ Full Time 
+ Anywhere 
+ Remote 
+ We’re Red Thread Games, the studio behind  Dreamfall Chapters  and  Draugen . You’re a versatile programmer with Unity development experience who loves making games. Hello! 
+ We’re looking for a new programmer to join our team and help create our new game: a narrative-driven, third person action-adventure for PC and consoles. 
+ The job requires prior experience with Unity, with  playable  examples of games you’ve worked on. Professional game industry background or commercially shipped games are  not  required: hobby and student projects are perfectly acceptable for submission! 
+ ‍ 
+ Job Description 
+ If hired, you’ll join our studio to work on  Dustborn , a 3D adventure that blends narrative with action in an original and exciting setting in development for PC and consoles. 
+ You’ll collaborate with a friendly team of designers, programmers and artists to create features, systems and game mechanics. Your work will span the entire game, including combat and world interaction systems, tools and graphics. 
+ Your role touches on many different areas of development, and requires at least a basic understanding of game development and design processes, user interfaces and experiences, game systems and mechanics. 
+ Given the current global health crisis, the development team is working remotely. Candidates for this position must be prepared to work from home for a period, and until further notice, before potential relocation is possible and advisable. 
+ ‍ 
+ Responsibilities 
+ 
+ Under direction from the lead programmer and game director, you’ll work within the established code base and framework, and the Unity engine, to deliver features, game mechanics, user interfaces and content 
+ You’ll collaborate with the design team, artists, animators and other programmers to help them implement their ideas and designs 
+ You’ll participate in the ongoing development of tools and technologies to improve workflows, and partake in regular design meetings and brainstorming sessions 
+ And you’ll need to work independently to ensure your tasks are delivered on time and to a high quality 
+ 
+ ‍ 
+ Qualifications 
+ 
+ BS/MS in Computer Science or related fields, or equivalent experience 
+ Experience working with Unity 
+ Proficient in C# 
+ Comfortable working within an established code base and conforming to existing code standards and best practices 
+ Ability to design and implement game systems, mechanics and features within an established framework 
+ Ability to work closely with designers and artists to implement their ideas 
+ Take technical ownership of major game subsystems 
+ Working knowledge of 3D math / trigonometry 
+ Strong communication skills and solid grasp of the English language — written and spoken. Norwegian language skills are  not  required for this position 
+ 
+ ‍ 
+ Bonus points! 
+ 
+ A passion for interactive storytelling, RPGs, adventure games and action-adventure games. If you’ve played our previous games, that’s a bonus! 
+ Experience working with Unreal Engine 4, the Blueprint scripting language, and C++ 
+ Experience working with consoles (Xbox One, PlayStation 4, and Switch) 
+ Experience in AI systems 
+ Experience in shader programming 
+ Experience completing a project from start to finish 
+ Multidisciplinary, agile, curious and eager to learn 
+ 
+ ‍ 
+ What we 're looking for. 
+ We’re looking for curious, creative and friendly folks who share our love for storytelling, role-playing and adventure games. 
+ Professional experience helps a lot (and is required for some positions) but we’re willing to take a chance on you if you have an exceptional portfolio, a willingness to learn, and we believe you’ll function well on the team. 
+ (Also, if you’ve played and enjoyed our previous games, you should definitely let us know.) 
+ We're deeply committed to inclusiveness and diversity in the game industry, and we strongly encourage women, non-binary people, persons of colour and minorities to apply for positions at Red Thread. 
+ ‍ 
+ **  The Coronavirus ** 
+ The virus affects us all, and even though Norway has weathered the crisis well, and Red Thread Games has continued operating through the pandemic (with most of our crew working remotely), it does mean that international recruitment is challenging. We’re therefore open to adding remote employees to our team, who can hopefully transition to on-site employees when the borders open up again. 
+ ‍ 
+ About Dustborn 
+ Lead a band of misfits and outcasts on a thrilling road-trip across a Divided States of America. A story-driven action-adventure about hope, love, friendship, robots…and the power of words. 
+ ‍ 
+ ‍ 
+ About our studio. 
+ Our team has development experience from games like The Longest Journey, Dreamfall, Anarchy Online, Age of Conan, The Secret World, Dreamfall Chapters, Draugen — and many others. We’re passionate about our work: we love games, we love telling stories, and we love working together in a collaborative and creative environment where everyone gets to contribute and learn from each other. 
+ Red Thread makes story-driven games for PC and consoles, and we’re currently working on several exciting titles, including  Dustborn  and Svalbard.  ‍ 
+ ‍ 
+ ‍ 
+ Common to all positions. 
+ We’re looking for candidates who are curious, motivated, self-driven and who can demonstrate initiative and a positive attitude — preferably with prior game development experience — along with a relevant university/college degree, an exceptional portfolio, and professional references. 
+ You’ll be joining a small indie studio working out of a cosy office in downtown  Oslo, Norway . We occupy the third floor of a  beautiful and historic 146 year old building , with  two   restaurants  and a  café/bar  on the first floor, a pizzeria/bar and an  amazing coffee-and-sandwich place  across the street, a  Japanese Izakaya  around the corner, and multiple grocery stores, lunch bars and cafés just minutes away. 
+ We’re a ten-minute walk from much of what  central Oslo  has to offer, including all public transportation, malls, museums, parks, restaurants and nightlife — and the forest and fjord are only 15 minutes away by metro or bus. Oslo has been ranked #7 on the  list of the world’s happiest cities , and  Norway ranks fifth on the list of happiest countries . What we’re saying is: this is a  happy  place! 
+ We don’t believe in crunch time at Red Thread. We believe that family, friends, and a thriving personal life are more important than work, and that people are more creative and productive when they’re also happy and healthy. We work five days a week, seven-and-a-half hours a day. We have five weeks of annual holiday, along with flexible work hours. And don’t let anyone tell you there’s no such thing as a free lunch: we serve one every day! 
+ We’re looking for people of all colours, genders, ethnic backgrounds, religious beliefs and sexual orientations who fit in with our passionate, experienced and inclusive team of artists, designers and developers. We expect everyone to contribute, and in return you get to shape our games, worlds and stories for years to come! 
+ ‍ 
+ How to apply. 
+ To apply, send us an email to  jobs@redthreadgames.com . Remember to include all of the following: 
+ 
+ A link to your website, online portfolio, or downloadable portfolio (Dropbox, Box, Google Drive, etc.) 
+ A cover letter explaining why you want to join the Red Thread team. Please keep this to one page! 
+ Your professional CV or course descriptions 
+ 
+ Applications without portfolios or relevant work samples __ will unfortunately not be considered. 
+ If your application is complete and you’re applying for an available position, we’ll get back to you as soon as we can. 
+ Apply for this Job 
+ related jobs 
+ Kool2Play is hiring a Game Programmerto join their team into work fromAnywhereGame ProgrammerKool2Play | AnywhereLearn More 
+ AlBoom Studios is hiring a Game Developerto join their team into work fromAnywhereGame DeveloperAlBoom Studios | AnywhereLearn More 
+ Serenity Forge is hiring a Front End Web Developerto join their team into work fromBoulder, COFront End Web DeveloperSerenity Forge | Boulder, COLearn More 
+ Isto Inc. is hiring a Gameplay Programmerto join their team into work fromAnywhereGameplay ProgrammerIsto Inc. | AnywhereLearn More 
+ Innersloth is hiring a Front End Programmerto join their team into work fromAnywhereFront End ProgrammerInnersloth | AnywhereLearn More 
+ Multiverse is hiring a Full-Stack Engineer – Generalistto join their team into work fromAnywhereFull-Stack Engineer – GeneralistMultiverse | AnywhereLearn More 
+ Indie games are wonderful. So are the people that make them. 
+ Make wonderful games. Be wonderful people. Work With Indies. 
+ Thank you for joining the Work With Indies newsletter! The next issue will arrive on Sunday. 
+ Oops! Something went wrong. Please try again. 
+ *Sign up to receive a weekly digest of new indie career opportunities. 
+ WORK WITH INDIES 
+ We’ve been lucky to have some incredible jobs working at and partnering with some of the biggest brands in video games. 
+ But we’ve never had more fun and been more fulfilled than when we were working with indie game developers. 
+ Everyone in games should have that much fun. 
+ Our hope is that Work With Indies will connect job seekers with the most rewarding, most inspirational, and most fun jobs they've ever had. 
+ NAVIGATION 
+ 
+ Post a Job 
+ Terms 
+ Privacy 
+ RSS 
+ Communities 
+ Nick's Cat 
+ 
+ CONTACT US 
+ 
+ 
+ nathan@workwithindies.com 
+ twitter.com/workwithindies 
+ facebook.com/workwithindies 
+ 
+ ^ 
+ Made by 
+ @natethenate 
+ and 
+ @nsuttner 
+ for people who 
+ indie games. 
+ © 2021  A Lot of Happy LLC 

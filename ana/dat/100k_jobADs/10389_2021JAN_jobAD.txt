@@ -1,0 +1,82 @@
+Skip to content 
+ 
+ Workship 
+ Workship Blog 
+ Menu 
+ 
+ Blog 
+ Login 
+ 
+ Demystifying The Profile Of A Data Scientist 
+ Published Apr 15, 2019 
+ The profile of a data scientist is one of the most sought after in the present times. Here's all you need to know to become a data scientist. 
+ According to the Indeed  report on the best jobs in 2019  released in January this year, there has been a 29% increase in the demand for data scientists—a profile that has grown by 78% since 2015 and is all set to grow even further.  An IBM report  projects the demand for data scientists to grow by 28% by 2020. 
+ This trend has trickled down to India as well, where there's been a  417% increase in the demand for data scientists in 2018, alone. 
+ So, who is a data scientist? 
+ The Role of a Data Scientist 
+ The role of a data scientist has evolved from what earlier used to be the role of a statistician. A data scientist uses analytical technologies like machine learning and predictive modelling to comprehend big chunks of data and uses that to improve different sales, administrative, and execution related processes for a company. 
+ According to the sixth edition of the  Data Never Sleeps report , over 2.5 quintillion bytes of data is created every single day, and it’s only going to grow from there. By 2020, it’s estimated that 1.7MB of data will be created every second for every person on earth. With so much data flowing, companies wish to use to improve customer experience, process efficiency and gain an edge over their competition. However, this data is vast and not well-organised. This is where companies need a data scientist. 
+ A data scientist primarily works on extracting meaning and interpreting data using statistical analysis and machine learning tools. First of all, he collects data, then he cleans it. Post that, he transforms and maps the raw data into a format that is more valuable and usable for analytics. Complicated, isn’t it? It doesn’t end there. This is where the analysis begins. He now uses this data for analysis. He discovers patterns, spots anomalies, tests hypothesis and makes predictions that could help improve different processes in the company. 
+ 
+ What It Takes To Be A Data Scientist 
+ Technical Skills 
+ Programming Language- Python or R 
+ Python and R are the leading programming languages that are used for data analysis. And there is a war going on among data scientists on which one is better. While Python is a general-purpose programming language with easy-to-understand syntax, R has field-specific advantages because it was developed primarily for statisticians. 
+ With R, you are more likely to get user-friendly data analysis and better graphical models. However, your code would be way more readable if you use Python. In terms of usage too, R is preferred for standalone computing or analysis on individual servers. On the contrary, Python is used when the analysis needs to be incorporated in web-applications or production databases. 
+ Until 2016, R was the leading language according to the  KDnuggets 2016 poll . However, according to the  2018 Machine Learning and Data Science Survey  conducted by Kaggle, Python topped the charts with 93% of the data professionals who identified as data scientists using Python. Not just that, 3 out of every data professionals recommended that aspiring data scientists should learn Python first. The recommendation for R was significantly low (12%). 
+ With that said, people with a programming background prefer Python as it is a programming language. On the other hand, statisticians find it easy to adapt to R. 
+ SQL Database 
+ Companies often expect candidates applying for the position of a data scientist to be 
+ able to write and execute complex queries in SQL, which explains why  54% of data scientists primary use SQL, according to the  survey . The reason behind this is that most of the time, data resides in Relational Databases and you need SQL to pull that data. Not just that, it is helpful when you have to query historical data, get basic reports, etc. 
+ That being said, only 5% of them recommend SQL as the first technology to learn for data scientists. 
+ Hadoop Ecosystem 
+ Hadoop is an open-source, free-to-use framework that allows distributed processing of large data sets across clusters of computers. The Hadoop ecosystem has many tools that help manage, ingest, store, analyse and maintain your data. 
+ Here are the components of Hadoop Ecosystem: 
+ 
+ Hadoop Distributed File System (HDFS): Used for data storage. 
+ Yet Another Resource Negotiator (YARN): Used for allocating resources and scheduling tasks. 
+ MapReduce: Used for writing applications that process large data 
+ Spark: Used for real-time data analytics in a distributed computing environment. 
+ PIG, HIVE: Used for data processing using query like SQL. 
+ HBASE:  It is an open-source, non-relational distributed database. 
+ Mahout, Spark MLlib: Used for creating machine learning applications that are scalable. 
+ Apache Drill: Used to drill/analyse large data. 
+ Oozie: Used for scheduling Hadoop Jobs as one logical work. 
+ Flume, Sqoop: Used for ingesting data. 
+ Solr & Lucene: Used for searching & indexing of documents in the Hadoop Ecosystem. 
+ 
+ Non-Technical Skills 
+ Love for data 
+ As a data scientist, you have to work with a huge amount of data-a lot of which is not really organised- and then, make sense of it for the benefit of your company. So, undying love for data is a must-have for any data scientists. Not just that, a data scientist must have a strong data-intuition and the ability to visualise data. You must be able to identify patterns that others might overlook. For data visualisation, tools like Tableau, ggplot, d3.js, and Matplottlib can also come to your aid. 
+ Communication skills 
+ Your findings as a data-scientist will remain worthless if you are not able to make these technological revelations easy to understand for the non-techies. Only then, your organisation can actually benefit from the services you provide. 
+ Having good communication skills can make you stand out in the job where you're not just analysing data, but to spinning it into a story that is comprehensible enough for others to follow. 
+ Enjoying our content? Sign up for our newsletter. 
+ Email Address  Full Name    Submit 
+ Business acumen 
+ While analytical and technical skills are primary for you to become a data scientist, a good business acumen will set you apart from fellow data scientists. Your skills as a data scientist are sought by companies so that it allows them to identify crucial concerns in their operations, recognise customer behaviours and improve their product and customer experience. And to do any of this, you should be able to analyse your data in the sense that help them achieve their business goals. 
+ In The End 
+ As rightly said, “By failing to prepare, you are preparing to fail”, and that’s what would happen if you venture into the field of data science without setting a strong foundational basis. You must have a good grasp of what the profile entails and be ready to deliver it. And to sum up the profile of a data scientist, we would like to quote DJ Patil, the Chief Data Scientist of the United States Office of Science and Technology Policy, 
+ 
+ “A data scientist is that unique blend of skills that can both unlock the insights of data and tell a fantastic story via the data.” 
+ 
+ Published by Workship 
+ Workship is a tech-driven recruitment portal for amazing job opportunities in tech-startups in India. Find your next startup job now!   View all posts by Workship  
+ Leave a Reply  Cancel reply 
+ Your email address will not be published. Required fields are marked * 
+ Comment 
+ Name * 
+ Email * 
+ Website 
+ Post navigation 
+ Previous Previous post: Demystifying The Profile Of A Full-Stack Developer 
+ Next Next post: How To Answer These 5 Most Common Job Interview Questions 
+ 
+ Start Now 
+ Blog 
+ Privacy Policy 
+ For Companies 
+ About Workship 
+ 
+               
+ (C) 2021 Sadepach Labs Pvt. Ltd. 

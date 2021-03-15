@@ -1,0 +1,50 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Hellosaurus (S20) 
+ Interactive video platform for kids 
+ Javascript Intern 
+ 
+ Location 
+ / Remote 
+ Job Type 
+ Internship 
+ Experience 
+ About Hellosaurus 
+ Hellosaurus  is reinventing children’s programming for touchscreen audiences with the most advanced interactive video platform ever built for kids media. 
+ Rooted in early childhood education principles of engagement, with a belief that children’s content should leverage mobile device capabilities so kids  play  instead of just  watch  , Hellosaurus is developing software tools for creators of high-quality kids programming to make truly participatory shows and a single distribution platform to share these creations with families everywhere. 
+ We are a small team based in New York City and have worked on companies like HQ Trivia, Toca Boca, Google, Apple, and Sesame Street. We are backed by top investors and are currently a member of Y Combinator's summer batch (YC S20). 
+ We are looking to grow our founding team with folks who are passionate about building magical technological experiences that make kids feel active, smart, and powerful, all while having fun. 
+ About the role 
+ Skills:  JavaScript, Node.js, React, TypeScript 
+ Hellosaurus empowers award-winning kids media creators to build immersive, interactive learning experiences that kids can play, not just watch. 
+ We're a small but mighty team with experience from companies like HQ Trivia, Electronic Arts, Google, DataCamp, and Sesame Street. Plus, we're backed by leading investors like General Catalyst, Y Combinator, GSV Ventures, and the founders of Vimeo & YouTube. You can learn more about our recent $3.5 million fundraise in  Forbes  and more about our product on our  website . 
+ We're looking for someone who knows their way around a backend JavaScript (and Typescript) application but would benefit from working on a more complex project to level up their skill set. In this position, you'll work primarily on the API that powers both our iOS app and the unique content management system that creators use to build interactive experiences on Hellosaurus. You may also have the opportunity to do some frontend work in React if that's of interest. 
+ If you're passionate about building magical technological experiences that empower children to learn, grow, and have fun, we'd love to hear from you. 
+ Note: this is a  paid  internship opportunity. We are open to both part-time and full-time commitments. 
+ Technology 
+ Our  web content management system  , which empowers creators to transform their passive programming into participatory experiences, is currently built in  Node.js, TypeScript, and React . 
+ Our  mobile app  , which gives kids and parents a one-stop-shop for truly interactive content that — by way of being active instead of passive — is not only more fun but also meaningfully better for the cognitive and emotional development of the child, is currently built in a  combination of Native iOS frameworks (e.g. Swift, SwiftUI) and Unity . 
+ Other jobs at Hellosaurus 
+ Founding Growth Marketing Lead 
+ fulltime 
+ New York City / Remote 
+ 3+ years 
+ Javascript Intern 
+ intern 
+ / Remote 
+ Backend 
+ Any 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

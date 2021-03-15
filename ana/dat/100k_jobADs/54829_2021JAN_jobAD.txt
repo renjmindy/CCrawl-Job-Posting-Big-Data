@@ -1,0 +1,169 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Post Doctoral Associate 
+ Rutgers University 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Post Doctoral Associate 
+ Rutgers University 
+ [](mailto:?subject=Post%20Doctoral%20Associate&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/13978024/post-doctoral-associate/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ October 8, 2020 
+ Location: 
+ New Brunswick, New Jersey 
+ __ Show Map 
+ Salary: 
+ Open 
+ Position Summary: 
+ This position seeks a Post Doctoral Associate to develop a microfluidics single cell 'smart' electroporation system. This system consists of a microfluidic device that automatically detects the entrance of an individual cell into an electroporation zone, and subsequently applies a user-defined electroporation pulse to the cell in transit. Cell membrane impedance is continuously monitored, and both optical and electrical measurements are conducted before and immediately after pulse application. Cells are assayed for viability, delivery of small molecules, nucleic acids, etc. The system will also implement a feedback control algorithm with determined electrical thresholds to module the pulse parameters required by a single cell within the system. A successful candidate will characterize the performance of the system for various cell types (especially hard to transfect primary human dermal fibroblasts (HDFs), and lymphoblastoid cells (LCLs)) and delivery vectors for iPSC generation, CRISPR/Cas9 gene editing, CAR T Cell generation and other immune-editing vectors, and compare the microfluidics system to current standard EP systems. You will also begin to scale up the throughput of the microfluidic system to increase cell processing rates. These studies will therefore provide the first stepping stones towards future product development for a 'smart' electroporation system. This is an ongoing collaborative project with multiple faculty at Rutgers and an industrial sponsor. The candidate must engage with other personnel on the project and provide guidance and mentoring to undergraduate and graduate students. It is expected that the work will yield several high impact academic publications and presentations at national/international conferences. 
+ Minimum Education and Experience: 
+ PhD in biomedical engineering, electrical engineering, chemical engineering, or closely related field. Be familiar with general concepts about lab safety and procedures. 
+ Required Knowledge, Skills, and Abilities: 
+ PhD level is required because creative experimental design is inherently part of the development of the electroporation system. At least 5 years' experience with microfluidics, microfabrication, biosensors or similar areas, 1 year experience with cell culture, biochemical and molecular biology assays, 2 years' experience with Labview are preferred 
+ Equipment Utilized: 
+ Optical Lithography Mask Aligner, Physical Vapor Deposition Sputtering System, 
+Plasma System, XeF2 Gas Phase Etcher, 
+Parylene Chemical Vapor Deposition System, 
+Stylus Profilometer, Probe Station, Zurich lock in Amplifier, Potentiostat Electrochemical Workstation, Epi-fluorescent Microscope 
+ Physical Demands and Work Environment: 
+ Expect to spend several hours per day in the lab and microfabrication facility, which involves standing for long periods of time. 
+ Posting Number:  19FA2219 
+ Location:  Busch (RU-New Brunswick) 
+ 
+ 
+ Internal Number: 102888 
+  __  Create a Job Alert for Similar Jobs  
+ About Rutgers University 
+ Rutgers, The State University of New Jersey, is a leading national public research university and the state's preeminent, comprehensive public institution of higher education. Rutgers is dedicated to teaching that meets the highest standards of excellence; to conducting research that breaks new ground; and to turning knowledge into solutions for local, national, and global communities. As it was at our founding in 1766, the heart of our mission is preparing students to become productive members of society and good citizens of the world. Rutgers teaches across the full educational spectrum: preschool to precollege; undergraduate to graduate and postdoctoral; and continuing education for professional and personal advancement. Rutgers is New Jersey's land-grant institution and one of the nation's foremost research universities, and as such, we educate, make discoveries, serve as an engine of economic growth, and generate ideas for improving people's lives. 
+ Connections working at Rutgers University 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Post-Doctoral Associate 
+ __  Minneapolis, Minnesota 
+ 
+ 
+ 
+ 
+ University of Minnesota, Twin Cities 
+ __5 Days Ago 
+ 
+ 
+ Postdoctoral Associate in Data Science 
+ __  New York, NY 
+ 
+ 
+ New York University 
+ __1 Week Ago 
+ 
+ 
+ Post-Doctoral Associate- Holmes and Frisbie 
+ __  Minneapolis, Minnesota 
+ 
+ 
+ University of Minnesota, Twin Cities 
+ __1 Week Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

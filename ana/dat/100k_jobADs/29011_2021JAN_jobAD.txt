@@ -1,0 +1,366 @@
+Skip to main content 
+ Javascript is disabled on your browser. In order to display this website properly, please enable javascript. 
+  Workiva Workiva.com  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Partners 
+ Connectors 
+ Security 
+ 
+ 
+ Solutions 
+ 
+ Capital Market Transactions 
+ Internal Audit Management 
+ Management Reporting 
+ SEC Reporting 
+ SOX Compliance 
+ Statutory Reporting 
+ + 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ Industries 
+ 
+ Banking 
+ Energy and Utilities 
+ Government 
+ Higher Education 
+ Insurance 
+ Investments 
+ + 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Customers 
+ The nicest thing about the Workiva platform is just feeling in control. 
+ ](/customers) 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Education 
+ 
+ Community 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Off the Books Podcast 
+ Surfing the uncharted waters of accounting, finance, and wherever else the waves take us. 
+ ](/off-the-books-podcast) 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Request Demo 
+ 
+ 
+ Sign In 
+ 
+ 
+ Menu 
+ Software Architecture as Business Analysis 
+ June 6, 2018 
+ Kevin Sookocheff 
+ "Architecture is the bridge between (often abstract) business goals and the final, concrete resulting system." 
+ – Software Architecture in Practice, Third Edition 
+ A software architect should act as a bridge between business stakeholders and technical stakeholders. This requires understanding the business problem being solved and the ability to distill that problem into a technical solution that a software team can implement. The bridge can often be built using the methods of business analysis. 
+ The role of a business analyst is to define the needs of an organization and recommend solutions that deliver value to stakeholders. A software architect can do the same thing—but an architect’s responsibility may be more technical, and stakeholders can include project managers, software developers, management, and other software architects. 
+ This article describes how a software architect can apply methods from business analysis to build a bridge between business and technical stakeholders, which in turn, will help the entire organization easily cross some treacherous terrain. 
+ Key responsibilities 
+ The key responsibilities of a business analyst are the discovery of underlying business needs, specifying and organizing requirements, and validating that requirements are being met. Depending on the role, a professional business analyst may be involved in project management and business planning. In most organizations, these responsibilities are similar to those of a software architect, and the software architect can apply business analysis techniques to help move projects forward while keeping all stakeholders informed in language they feel most comfortable with. 
+ The business analysis process 
+ Business analysis is primarily a research discipline of identifying business needs and determining solutions to business problems. As a research discipline, several techniques have been developed to aid business analysts in doing their jobs. By following these techniques as an architect, you can take advantage of a clear method for engaging and communicating with business stakeholders and clearly communicate the value you are providing to the organization by taking on this role. 
+ One technique for managing the analysis process that applies to the architecture process is the  8-step business analysis process . In the rest of this article, I will walk through that process with a particular emphasis on the issues faced by software architects. 
+ Step 1: Get oriented 
+ When starting a new project—or helping to define the architecture for an existing one—a strong tendency is to start making positive change as soon as possible. This is often coupled with the feeling that we need to prove ourselves to our stakeholders. By acting too quickly, we act without a full understanding of the business problem and without a full understanding of existing assumptions. This can easily lead to false starts in the wrong direction. 
+ Instead, take some time to get oriented with the project and stakeholders, so can ensure you are an effective and confident contributor on the project. 
+ Key responsibilities of step 1: 
+ 
+ Determine the primary stakeholders to engage in defining the project’s architectural requirements and scope 
+ Clarify your role as the architect and making sure other stakeholders understand that role 
+ Understand the project history, so you do not inadvertently repeat work that has already been done or rehash previously made decisions 
+ Identify the existing systems and business processes, so you have a clear understanding of the current state 
+ 
+ Step 2: Discover the business goal 
+ An architecture is not valuable unless it solves a business problem. As an architect, it is your job to help define the business objectives in conjunction with project managers, engineering leads, and even executives. It is tempting to assume that managers and leads can simply hand the business goal to an architect and that the architect can focus solely on the technical implementation, but avoid this temptation. 
+ In reality, product managers often lack the technical understanding of the project to correctly define the business goal in implementable terms. As an architect, your job is to help define the business goal in language that both a product manager and a software engineer can understand. This process should be a negotiation between the business goals and the current architectural and technical constraints of your system. 
+ Key responsibilities of step 2: 
+ 
+ Discover why this project exists: What is the business goal? 
+ Reconcile conflicting expectations, so the business community and technical community begin the project with a shared understanding 
+ Ensure the business objectives are clear and actionable 
+ 
+ Step 3: Limit scope 
+ A project’s architecture has clear implications on a project’s timeline and scope. By providing a clear and complete statement of scope, the development team can move forward, and business stakeholders have a common set of expectations. In addition, define the boundaries between the project and other systems, and identify the integration points and responsibilities. 
+ Key responsibilities of step 3: 
+ 
+ Clarify scope with both business and technology stakeholders 
+ Confirm the business case can be met with as limited scope as possible, ensuring that it still makes sense for your organization to invest in the project 
+ 
+ Step 4: Formulate a plan 
+ At this point, you can start to formulate an architectural plan that satisfies the scope of the project. This plan will help you to clarify the project itself and detail any necessary requirements. 
+ Key responsibilities of step 4: 
+ 
+ Determine a rough architectural plan 
+ Choose the most appropriate types of deliverables for your work: diagrams, text, presentations, etc. 
+ Identify any project timelines for completing the work 
+ 
+ Step 5: Detail any requirements 
+ Detailed requirements should help the technology team implement the solution. The requirements help turn an abstract business goal into an implementable solution. 
+ Remember that software engineering class from university that talked about the requirements-gathering process? Unfortunately, you may have to relive that long forgotten past and review that material. The business may not know what requirements the software team cares about, and it definitely will not know how to write requirements that a technical team can take action on. This stage is one of the most important of architecture—when you become the bridge between the business goals and the technical implementation. 
+ Key responsibilities of step 5: 
+ 
+ Help business stakeholders define their explicit requirements 
+ Analyze requirements to make sure they are technically sound and implementable 
+ Review and validate each requirement with the technology team, and ask questions to fill in gaps 
+ 
+ Step 6: Support the technical implementation 
+ As an architect, you are technically capable of helping with the implementation. This help may take the form of coding, prototyping, or reviewing code. It may also take the form of being a sounding board for the team to bounce ideas off of. Your support role may change depending on the qualities of the team you are working with. Some teams may need more hands-on technical support, while other teams are able to act independently on technical issues but need more guidance when interacting with business stakeholders. Use your judgment and experience to fill in any gaps. 
+ Key responsibilities of step 6: 
+ 
+ Review the design to make sure it meets the business and architectural goals 
+ Update and/or repackage documentation to make it useful for the technology design and implementation process 
+ Engage test teams to make sure they are able to test the project against the requirements 
+ Make yourself available to answer questions, and help resolve any issues that surface during the technical design, technical implementation, or testing phases of the project 
+ 
+ Step 7: Support the business implementation 
+ The business also has to deploy, market, and support the system. To do that, they need to understand what you are building and how it affects the organization. At this step in the process, you may need to engage stakeholders and explain the new solution to them, making sure they understand how it works and why. Share their feedback with the team for improvement. 
+ Key responsibilities of step 7: 
+ 
+ Talk with end users to ensure they understand the new system, including any limits or restrictions 
+ Collaborate with business users to understand any business impact of adopting the new technical solution 
+ Plan for how the business can adopt the solution or transition to it 
+ 
+ Step 8: Evaluate the solution 
+ During development of a new project, it is easy to lose sight of the original purpose. Although this step is listed last, validating that the solution meets the requirements of the business should be happening at all times throughout the development of the project. Nearing the end of the project, I usually work more closely with quality assurance to help define the testing and validation requirements and to make sure that they meet the project’s needs. 
+ Key responsibilities of step 8: 
+ 
+ Evaluate the actual project against the business objectives for the project 
+ Communicate the project’s results to the business 
+ Suggest follow-up projects and initiatives to fully realize the intended business objectives of the project or to solve new problems 
+ 
+ It’s a process! 
+ Although I listed eight sequential steps in this article, you may be doing the steps in any order, skipping some completely, or doing some of them at the same time—it is simply unrealistic to expect one process to fit all use cases and all projects. Be flexible, be understanding, and work with what you have. Business is messy, architecture is messy, and connecting the two can be outright chaos. But, someone has to build that bridge—maybe that person is you. 
+ Bass, L., Clements, P., and Kazman, R. (2012).  Software Architecture in Practice, Third Edition . Boston, MA: Addison-Wesley Professional. 
+ Software 
+ 
+ Most Popular 
+ Takeaways from Five Dysfunctions of a Team Training 
+ Workiva One of Fortune Magazine’s 100 Best Companies to Work For 
+ DSM Hack 2018 - My Experience 
+ Popular Categories 
+ Giving Back 
+ Culture 
+ Communication 
+ Leadership 
+ Kevin Sookocheff 
+ _ 
+ Software Architect 
+ _ 
+ About the Author 
+ Kevin is a Software Architect at Workiva working on distributed systems and data processing at scale. He loves to read and write about software engineering and software development. He is an avid gardener. 
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Connectors 
+ Partners 
+ Security 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Support 
+ 
+ Community 
+ Customer Support 
+ Developers 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Locations 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Twitter 
+ 
+ 
+ YouTube 
+ 
+ 
+ Select Region 
+ 
+ 
+ 
+ 
+ Legal 
+ Privacy Policy 
+ Sitemap 
+ 
+ (C)2021 Workiva 
+ 2900 University Blvd 
+Ames, IA 50010 
+  AICPA  
+ 
+ __ 
+ In the meantime, visit the resources below. 
+ [ 
+ Handbook: Surviving the New Normal 
+ ](/new-normal) 
+ [ 
+ How Sysco and Blackbaud kept business as usual 
+ ](/resources/how-sysco-and-blackbaud-kept-business-usual) 
+ [ 
+ Connected Reporting and Compliance Brochure 
+ ](/resources/connected-reporting-and-compliance-brochure) 
+ Select Region 
+ 
+ Australia 
+ France 
+ Germany 
+ Netherlands 
+ Singapore 
+ United Kingdom 
+ United States 
+ 
+ Online registration is currently unavailable. 
+ Please email  events@workiva  to register for this event. 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Thank you 
+ A Workiva team member will follow up with you shortly. 
+ Thank you for registering 
+ You'll receive a confirmation email shortly. 
+ Thank you 
+ You are now subscribed to receive blog updates. 
+ Thank you 
+ Your preferences have been updated. 

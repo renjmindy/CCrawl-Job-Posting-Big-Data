@@ -1,0 +1,260 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+  Engineering & Manufacturing jobs  
+ 
+ Evaluating bids 
+ Implementación de Red Cisco 
+ Published on the July 21, 2018 in Engineering & Manufacturing 
+ 
+ Project 
+ Project Insights New 
+ 
+ About this project 
+ engineering-manufacturing / others-3 
+ Over USD 3,000 
+ Local Area Networks (including wireless access) 
+The LAN system will generally employ multi-layer switching. Servers will be inter-connected to the lan distribution via redundant core switches located in the lan central equipment cabinets. LAN central equipment cabinets, including data and telephone patching facilities shall be located in the Central Control Room (Onshore) and Instrument Room (Offshore Electrical Substation Building). 
+The room shall also house the information management servers and third party servers. 
+ Redundancy will be provided by a second switch located in a separate room of the buildings. Distribution switches will be located in selected areas to provide connection to desk top PCs and peripheral devices. Switch and server hardware and operating software will be provided by the Company. 
+Core layer, access layer and distribution layer switches will be interconnected via 10GB primary fiber connections, linking all key areas of the platform. 
+ LAN central equipment cabinets, including data and telephone patching facilities shall be located in Central Control Room (Onshore) and Instrument Room (Offshore platforms). The room shall also house the information management servers and third party servers. Redundancy will be provided by a second switch located in a separate room of the buildings. 
+lan connections between the central equipment and other areas shall be provided via single mode fiber optic cable, interconnecting the lan central equipment to the distribution switches. 
+ Core switches will be equipped with redundant hardware and configured so that a single failure does not result in the loss of the lan connection to the distribution layer switches or a complete loss of lan connection in any area the plant. Multiple DMZ LANs shall be created. Virtual LAN shall be created to segregate traffic based upon functionality. 
+ The lan will interface with the company extranet and wan via firewalls. Information Protection policy will be applied at Extranet level and will be implemented by Company. 
+ The Plant Control Network shall be totally independent of the Enterprise network but shall interface with the Plant Information Network through firewalls. Power to the network switches and associated equipment shall be provided from UPS supply. 
+ The BLAN network shall be extended from the core switches onshore via the interface fiber network and a redundant access switch on the offshore platforms. In all cases, extension of BLAN network (and all the other segmented LANs) between onshore and offshore facilities must be routed (layer 3 network) 
+ Wireless Access 
+ Access to the LAN will be extended to the Topsides by Wireless LAN. 802.11ac g compliant Access Points installed in locations selected to provide optimal coverage will provide topsides coverage as required. 
+Initial installation will be based on estimated coverage. A coverage study will be implemented during commissioning and the positions of the WAPs adjusted to optimize coverage. 
+ All mobile end devices shall be certified for the area in which they are to be used. Generally, Class 1 Div 2, Group C & D (B if carried into battery rooms). The BLAN wireless network shall be extended as required, utilizing the access switches offshore as an extension of the Company onshore BLAN. 
+ The system will use the infrastructure of the structured cabling system, copper, in the buildings for the interior and fiber optic areas for the exterior areas. 
+ The logical connections of the voice and administrative data network and automation are listed below. 
+ Connection of the Voice and Data Network of the Central Control Room with the other Buildings or areas in the Onshore facility 
+ A redundant active connection will be used between the distribution switches in the Central Control Rooms (CCR), and the access switches in the other buildings (Office building, Control building, Electrical building etc.) And others areas; using the external fiber optic cables. 
+ Connection of the Voice and Data Network of the Central Control Room in the Onshore facility with the Local Control Rooms of the Hokchi Satellite and Hokchi Central platform 
+ For the connection with the voice and administrative data network, a redundant active connection will be used between the distribution switches in the CCR and the Local Control Rooms of the Hokchi Satellite and Hokchi Central platform. The transmission medium will be fiber optic cables. 
+ Connection to the telephone service 
+The Onshore facility will have a telephone service through a redundant fiber optic connection with the Central Control Room (ccr) which will have an ip telephone exchange with enough licenses to integrate the local control rooms of the hokchi satellite and hokchi central platform. 
+ Category  Engineering & Manufacturing 
+Subcategory  Other 
+Project size  Large 
+Is this a project or a position?  Project 
+Required availability  As needed 
+ Deadline: Not specified 
+ Skills needed 
+ Cisco   Network Administrator   Network Specialist   Networking Design 
+ Want to start working on this project? 
+ Log into  your Workana account or  Register  today. Boost your freelance work! 
+ Are you looking for a freelancer to do a similar project? 
+ Create your project and get bids from the best freelancers. 
+ Publish your own project   Send your proposal now 
+   
+  J. R.  
+ 1 
+ Published projects 
+ 0 
+ Projects paid 
+ Member since: July 2018 
+ Project activity 
+ 0 
+ Bids 
+ 0 
+ Interested freelancers 
+  __Previous project  
+  __Next project  
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

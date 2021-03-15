@@ -1,0 +1,200 @@
+William Gill 
+ I make stuff. 
+ Menu 
+ Skip to content 
+ 
+ home 
+ about 
+ blog 
+ 
+ A Scrum Master/Agile Coach job description 
+ Posted on  January 26, 2012  by  will 
+ I'm often asked for help putting together a job description for a Scrum Master, so I thought I would post an extract of one we've used recently. 
+ 
+ We are a product team of developers, QA experts, user experience and visual designers and product owners who are looking for someone to help us get better at what we do. We’re pretty good at the basics of agile software development but can always use new ideas about how and where to improve. We’re less concerned about what it’s called (Scrum/Kanban) and much more excited about results, whether that means moving towards continuous deployment, using ATDD, or seeing our active users grow. 
+ You are someone who leads by example rather than by dictate and you know how to bring out the best in people. You’re not afraid to deal with conflicts. You know when it’s good to say "No" and when to push for more results. 
+ In addition, we’re looking for someone to act as a galvanizing force for our whole wider team in terms of sharing Agile knowledge across the company. Whether it be organizing 1-day open spaces for our agile community, or organizing cross-team workshops, the goal is for you to establish an Agile center of gravity around our team. 
+ Your main responsibilities will be: 
+ 
+ Act as Scrum master for 1-2 scrum teams with a focus on guiding the teams towards improving the way they work. 
+ Facilitate sprint planning, retrospective and sprint demos 
+ Assist the product owner with keeping the backlog groomed 
+ Ensure cross-team coordination 
+ Reach out to the larger company network for impediment removal 
+ Maintain relevant metrics that help the team see how they are doing 
+ Coach and mentor other scrum masters in our product team. Ensure that our ways of working are consistent across the teams. 
+ Liaise between the developers and User Experience/Visual Designers. Foster better communication between the disciplines. 
+ Act as a project manager when necessary. Take responsibility for managing dependencies between our team and third parties or between our team and other scrum teams. 
+ Strengthen the presence of our team as an Agile centre of excellence. Actively contribute to the company's Agile and Lean Community. Keep the rest of the company network aware of our activities. 
+ 
+ 
+ 
+ Qualifications: 
+ 
+ Knowledge of the software development life cycle 
+ Certified scrum master/scrum practitioner 
+ Knowledge and/or experience of Kanban 
+ Excellent communication skills in English in written and spoken form 
+ At least 3 years experience working in an agile environment, preferably in a variety of situations 
+ 
+ 
+ Feel free to use this, re-use it and copy it. I hope it's helpful! 
+ What would you add to make a better Scrum Master job description? Share your tips in the comments. 
+ 
+ Click to share on Facebook (Opens in new window) 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on LinkedIn (Opens in new window) 
+ Click to share on Google+ (Opens in new window) 
+ Click to email this to a friend (Opens in new window) 
+ 
+ 
+ This entry was posted in  Agile ,  Scrum  and tagged  agile ,  agile team ,  hiring ,  job description ,  job specification ,  recruiting ,  scrum ,  scrum manager . Bookmark the  permalink . 
+ Post navigation 
+ <- Everyone's a marketer now   6 principles for a productive agile development team -> 
+ 7 thoughts on "A Scrum Master/Agile Coach job description" 
+ 
+ Agile Scout  says: 
+ 
+  January 26, 2012 at 3:08 pm   
+ Great crack at it! 
+We did this before as well a lot of similarities: 
+ http://agilescout.com/the-perfect-scrummaster-job-description/ 
+ Reply 
+ * will says:
+ 
+  January 26, 2012 at 3:51 pm   
+ I hadn't seen that before - also a great summary of the key skills. Good to see us thinking alike on the topic. 🙂 
+ Reply 
+ 
+ Steven Mather  says: 
+ 
+  June 14, 2012 at 8:24 pm   
+ Will, thanks for posting this. I was tasked to come up with job descriptions for a Scrum Master and Agile Coach. You provided me with a great starting point that I can refine or add to. 
+ Having said that can I get up on my soapbox for a minute? I only took umbrage with one small phrase in Responsibilities, item #9. I try to avoid at all costs the inclusion of the words 'Project Manager.' I'm not an Agile purist but I have found that using this term when (key word) transitioning groups can lead to not only a lot of confusion but sows the seeds of 'Worst Practices.' for a variety of reasons. It invites a whole host of hanging on to traditional practices and mind sets. 
+ That is just my 1 cent - it's not even worth 2. 
+ Thanks again. 
+ Reply 
+ * will says:
+ 
+  June 15, 2012 at 2:00 pm   
+ Hi Steven, 
+thanks for the feedback. 
+ I get your point about using the word "project manager". This term, and this role, has very different connotations to different people. What I mean with the term is that sometimes the scrum master just needs to roll the sleeves up and coordinate people and teams to get a specific thing done. I see this as being in contrast to the normal role where a more facilitative approach is best. 
+ In other words, I expect the normal focus to be on helping the team learn how to be better at helping themselves. But sometimes, to get things done (especially in large organisations where the scrum team is one part of a much larger system), the "traditional project manager"-type job of coordinating and organising comes into play. 
+ Very good point about the connotations though… could easily lead to the wrong perception. 
+ cheers 
+will. 
+ Reply 
+   * [Stacia Viscardi](http://www.agileevolution.com) says:
+ 
+  December 19, 2012 at 4:53 pm   
+ Will, completely agree with the need for someone to just "roll up their sleeves" sometimes. Some people vehemently oppose this notion, but I've seen too many bad implementations of Scrum as a result of this passive mindset. Thanks for the great list!! 
+ Reply 
+ 
+ Steven Mather  says: 
+ 
+  June 14, 2012 at 8:28 pm   
+ Also, I found this .pdf with a description for Scrum Master with a lot of good points to pick and choose from. I'm using a combination of what you have here and what is in this file. I would pull it in but don't want to clutter up your site. 
+ The link:  http://www.agileflorida.com/wp-content/uploads/2008/12/scrum-master-dicom.pdf 
+ Reply 
+ * will says:
+ 
+  June 15, 2012 at 2:02 pm   
+ This is a nice example too. 
+ I think the thing I don't necessarily agree with in this job description is the assertion that a good scrum master is a development manager, or at least someone with a development background. The two best scrum masters with whom I've ever worked had no development background at all. What they did have, however, was an ability to understand people and systems, and an ability to know what questions to ask to guide someone through solving a problem (without knowing the subject matter themselves). 
+ What's your view on scrum master as a development manager? 
+ Reply 
+ Leave a Reply  Cancel reply 
+ Your email address will not be published. Required fields are marked * 
+ Comment 
+ Name * 
+ Email * 
+ Website 
+ Search for: 
+ Archives 
+ 
+ October 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ August 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ July 2016 
+ May 2016 
+ March 2016 
+ February 2016 
+ December 2014 
+ July 2014 
+ April 2014 
+ February 2014 
+ January 2014 
+ November 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ January 2012 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ 
+ Meta 
+ 
+ Log in 
+ 
+ William Gill 
+ Sitemap 
+ 
+ 
+ Home 
+ About 
+ Blog 
+ 
+ Connect 
+ 
+ 
+ LinkedIn 
+ Facebook 
+ Twitter 
+ Instagram 
+ 
+ 
+ © Copyright 2018 William Gill. Site design and development by William Gill.  |   Powered by WordPress . 
+ Send to Email Address Your Name Your Email Address Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 

@@ -1,0 +1,273 @@
+r.j.'s space 
+ on the economy, energy, & the environment 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ <- July LPS graphics 
+ August retail & July G19 & JOLTS screenshots -> 
+ August jobs report with major seasonal discrepancy; July's trade deficit and the July Mortgage Monitor 
+ Posted on  September 8, 2013  by  rjsigmund 
+ there really isn't much good that can be said about  the report on employment situation for August from the BLS ; we saw a subpar number of jobs added, again  mostly in low paying industries , and there were  substantial downward revisions to June and July data , meaning that job creation over the entire summer has been weak; in addition, we saw a  large increase in the long term unemployed ,  labor force participation dropped to a modern day low percentage , while the employment rate dropped a bit because  more of us gave up looking for work than the number of us who actually found j obs, as those "not in the labor force" and hence not counted rose by over a half million to  top 90 million for the first time in history … 
+ 
+ the establishment survey , which has  an initial margin of error of plus or minus 90,000 jobs , indicated that payroll  employment increased by 169,000 in August, less than the 184,000 average  we had been seeing monthly over the past year; in addition, the number of jobs added in  July was revised from the originally reported 162,000 to 104,000, below the level needed to cover for increased population , and job creation in June, originally reported at 195.000, was revised downward again, to 172,000 from the 188,000 revision of last month; these revisions are in keeping with the typical  46,000 average revision from first to third estimate , but  recent history has shown that downward revisions are more prevalent during weak labor market periods , while upward revisions predominate in periods of stronger than average job creation… our above FRED bar graph shows the monthly increase or decrease in payroll jobs  from the establishment survey data since the employment recession began in 2008… 
+ among t he sectors that saw the greatest seasonally adjusted payroll growth in August , retail trade saw the most at 44,000 net additional jobs; of those, 13,700 were in clothing stores, 11,700 were in groceries, and 9,400 were in general merchandise stores…next most in net new jobs were 38,300 in health care, of which 26,600 were in ambulatory services, with 9,500 of those as in home aides….accommodation and food services saw 26,900 more jobs than in July, with 21,200 of those in bars and restaurants…professional and business services added 23,000 jobs, with 13,400 of those in administrative and waste services and 10,900 in professional and technical services, while jobs in management declined by 1,500…other sectors showing job gains included manufacturing, which added 22,000 as the return of 18,800 autoworkers laid off for the July model changeover boosted that total, local governments, which added 20,100 education jobs, wholesale trade, which added 8,400 jobs, and mining and logging, which added 4,000 jobs, 1,400 of which were in oil and gas extraction…meanwhile, total jobs in construction were unchanged, there were 5,000 less jobs in financial activities and 18,000 less jobs in information, as movies and music lost 22.200 jobs.. 
+ our FRED bar graph below shows the monthly change in thousands in employment  in five of the major establishment survey job categories and three major component categories for each month since the beginning of 2012;  the monthly change in manufacturing employment for each month is in blue, the change in monthly construction employment (null this month) is in red, the change in retail employment is in dark green, and the change in government jobs is in yellow…in grey, we have the monthly change in employment in professional and business services, which includes everything from management consultants to janitor services, while in light green we have jobs added working in bars and restaurants, the major component of the leisure and hospitality category; finally, we have the two major components of the education and health services category: the change in jobs in health care is shown in orange, while the change of jobs in education is shown in violet…. click on the chart below for a larger view  of this graph at the FRED website… 
+ 
+ the establishment survey also provides seasonally adjusted data on  average weekly hours by industry sector  and  average hourly and weekly earnings by industry sector. ..in August, the average workweek for all private payroll employees increased by 0.1 hour back to 34.5 hours, the same level as it was at in April, May and June;  the average workweek for nonsupervisory employees  was unchanged at 33.6 hours…meanwhile, the manufacturing workweek increased by 0.1 hour to 40.8 hours, and factory overtime overtime increased by 0.2 hour to 3.4 hours…the average hourly earnings on all private nonfarm payrolls rose by 5 cents to $24.05, after being down 2 cents last month… for production and nonsupervisory employees , the average hourly increase was 4 cents to $20.20…. 
+ 
+ the household survey , which gives us the unemployment rate, has  a margin of error of +/- 300,000 in the monthly change in the number unemployed and an 90% accuracy range of +/- 0.2 percentage points in the unemployment rate ; in August,  seasonally adjusted data from this survey showed that 115,000 less of us were employed, 198,000 less of us were unemployed, and 516,000 more of us were no longer in the labor force than were in July , as the number of adults not in the labor force rose to 90,473,000…this resulted in a drop of the labor force participation rate from 63.4% to 63.2%,  the lowest level since August 1978 , in an era when most women were not yet in the workforce… the employment rate, or the percentage of us working, also fell 0.1% in August to 58.6%,  which is only 0.2% higher than a year ago…the steadily falling participation rate can be seen in red on  our above FRED graph , where the virtually unchanged track of the employment rate over 4 years is shown in blue…acknowledging the margin of error in its statistics, BLS reports that the unemployment rate was "little changed" at 7.3%, although  the media typically reported that it dropped from 7.4% in July … 
+ BLS also reports that the unemployment rates for adult men at 7.1%, adult women at 6.3%, teenagers at 22.7%, whites at 6.4%, blacks at 13.0% and Hispanics at 9.3% "showed little change" in August, although the unemployment rate for blacks was given at 12.6% last month… of major age demographics , only those between 35 and 44 years of age and those over 55 years old gained in employment in August, with  those over 55 having the lowest unemployment rate at 5.1% …among  those over 25, the unemployment rates fall with greater educational attainment ; in August, the unemployment rate for those of us who havent completed high school rose 0.3% to 11.3%, while the unemployment rate for those with a bachelors degree fell by 0.3% to 3.5%…of the unemployed,  the number unemployed for 5 to 14 weeks fell by a seasonally adjusted 103,000 to 2,766,000 , the number unemployed for 15 to 26 weeks fell by 94.000 to 1,694,000, and the number unemployed 27 weeks or longer rose 44,000 to 4,290,000 
+ those of us who were  working part time in August who wanted full time work  fell by a seasonally adjusted 334,000 to 7,911,000; thus  the broad U-6 unemployment rate, or those working part time for economic reasons, fell from 14.0% in July to 13.7% in August ..meanwhile, those who report they're working part time voluntarily rose by 211,000 to 19,339,000…note that some of those voluntary part time workers may be holding two jobs;  the number of multiple jobholders rose 29,000 to 7,065,000 in August,  which is 4.9% of all those employed…among those of us not counted in the labor force and hence not counted as unemployed,  6,291,000 still reported that they want a job ; 2,342,000 of those are categorized as "marginally attached to the labor force" because they've  looked for work sometime during the last month, but not during the 30 day period covered by the July household survey; the labor department classifies 866,000 of them "discouraged workers" because they say that they're not looking for work because they believe there are no jobs available to them…the number of these "discouraged workers" has increased by 20,000 from 844,000 in August of 2012… 
+ we should point out that there is a discrepancy of almost a million jobs between the unadjusted employment change data from the two BLS surveys, as the seasonal adjustment subtracted more than 200,000 jobs from the establishment survey and added nearly 500,000 to the household survey… the unadjusted data from the establishment survey shows payrolls jobs increased by 378,000  from 135,583,000 in July to 135,961,000 in August; after which the BLS seasonal adjustment increased the payroll jobs to 135,964,000 in July and 136,133,000 in August which thereby reduced the jobs change from July to 169,000; meanwhile,  the raw, not seasonally adjusted household data shows employment dropped 604,000, from 145,113,000 in July to 144,509,000 in August. ..however, the action of the seasonal adjustment on the household survey was in the opposite direction, in that it reduced the negative change of employment loss to 115,000, changing the monthly change from 144,285,000 in July to 144,170,000 in August….  thus the seasonal adjustment subtracted 209,000 from job gains in the establishment survey, but it added to 489.000 those counted as employed in the household survey … we know the establishment survey is more accurate, but there is no reason that we can imagine that would have the seasonal adjustments on employment move in opposite directions in the same month… 
+ … 
+ other than the employment report, the  July report on our International Trade in Goods and Services  (pdf) was likely the most important economic release of this past week….you may recall that  the contraction of our June trade deficit was the primary impetus to the upward revision in our second quarter GDP …however,  that post recession record low deficit in June was mostly due to unusually  big jumps in exports of jewelry, gem diamonds, monetary gold & refinery products , and reductions in imports of much of the same, so it was not a surprise to see our trade deficit in July return to trend…even so, the 13.3% increase in July, brought on by record trade deficits with both China and the EU, was  worse than most economists had expected … 
+ according the the BEA , seasonally adjusted  exports of $189.4 billion in July, down $1.1 billion from June, combined with imports of $228.6 billion, $3.5 billion more than June's imports, resulted in a trade deficit of $39.1 billion, up from the revised $34.5 billion goods and services deficit in June ; June's imports, originally reported at $225.4 billion, were revised to $225.1 billion, while June's exports, originally reported at $191.2 billion, were revised down to $190.5 billion…. our trade deficit in goods increased by $4.5 billion in July to $58.6 billion as exports of goods decreased $1.1 billion to $132.7 billion, and imports of goods increased $3.4 billion to $191.3 billion , while our trade surplus in services decreased $0.1 billion as our imports of services increased $0.1 billion to $37.3 billion and our exports of services were statistically unchanged at $56.7 billion..year over year, our trade deficit decreased $4.3 billion as exports were up 3,3%, $6.1 billion higher than last July, and imports were up 0.8%, $1.8 billion, or 0.8 higher than a year ago… 
+ the  FRED bar graph below shows our overall trade deficit monthly  in millions of dollars as a brown bar extending downward from the zero line…then, for each month in blue we have the change in exports for that month in millions of dollars, with an increase in exports above the zero line and a decrease extending below it; similarly, in a red bar for each month we have the change in imports for that month, with an increase in imports above zero and a decrease below; you can see that increased exports in blue subtract from the trade deficit in brown, and vice-versa, while an increase in imports in red adds to the brown trade deficit bar…the change in exports and imports has a similar effect on GDP, increasing exports add to it, because they represent “product” that we’ve sent abroad, while a decrease in exports subtract from the change of GDP, because the GDP numbers represent change from the previous quarter…in like manner, an increase in imports subtracts from GDP because what we’ve consumed as product was not produced domestically…July’s net of the two, in brown, is slightly less than net trade in the second quarter, represented by the three monthly bars before the July bar on the far right of the chart below… 
+ 
+ seasonally adjusted capital goods exports at $44.616 billion in July were $1.606 billion lower than June due in part to $371 million less exports of civilian aircraft, $266 million less exports of industrial engines, $201 million less of other industrial machines, and $162 million less exports of materials handling equipment…consumer goods exports of $15.274 billion in July were $1.363 billion less than June as we exported $526 million less jewelry, $418 million less gem diamonds. and $252 million less artwork and antiques…exports of autos, parts and engines also fell $179 million to $12.441 billion, and a BEA category of "other goods" saw exports shrink $343 million to $4.853 billion…meanwhile, we exported $44.041 billion worth of industrial materials and supplies in July, $1,689 million more than in June, led by increases of  $227 million of fuel oil, $695 million more of other petroleum products, $412 million more exports of raw gold,, and an $169 million increase in exports of organic chemicals…in addition, exports of foods, feeds, and beverages increased $402 million to $10.537 billion, as wheat exports increased $211 million, exports of nuts were up $103 million, exports of corn rose $81 million, and exports of beer and wine rose $77 million, which were partially offset by decreases of $56 million in exports of oils and oilseeds and a $55 million decrease in exports of soybeans.. 
+ factors contributing the July change in seasonally adjusted imports  included a $1.987 billion increase in imports of industrial supplies and materials to $56.758 billion, of which crude oil at $23,446 million accounted for $1,357 million of the increase and fuel oil accounted for another $883 million, and an $807 million increase in imports of vehicles, parts, and engines,  automotive imports hit a record of $26,494 million in July , and  August car sales were at the highest rate in almost 6 years …imports of consumer goods also increased by $710 million to $44.511 billion, led by a $330 million increase in pharmaceuticals, a $183 million increase in imports of gem diamonds and a $131 million increase in imports of toys, games and sporting goods offset by declines of $287 million in cellphone imports and a $267 decrease in imports of TVs and video equipment, while imports of foods feeds and beverages increased by $125 million to $9.69 billion on a $61 billion increase in oils and oilseeds imports and a $58 billion increase in imports of fruits and juices…other imports not otherwise categorized increased by $266 million to$ 6,284 million, while imports of capital goods decreased by $276 million to $45,484 million as we imported $174 million less computers, $134 million less materials handling equipment and $107 million less medicinal equipment while we imported $187 million more semiconductors and $141 million more telecommunications equipment… 
+ as mentioned earlier, our bilateral deficits in  goods trade  with the European Union and China, which are not seasonally adjusted, were the highest on record in July ; our goods deficit with China increased to $30.1 billion in July, up from $26.6 billion in June, and accounted for 42% of our $71.579 billion unadjusted goods deficit; meanwhile, our goods deficit with the EU increased from $7.1 billion in June to $13.9 billion in July as our exports fell from $22,834 million in June to $21,132 million in July and our imports from the EU rose from $36,051 million to $41,727 million…other groups or countries that we had major bilateral deficits in July goods trade with include OPEC at $7.4 billion, up from $5.8 billion in June, Japan at $6.8 billion, up from $5.5 billion, Germany at $6.4 billion, up from $4.9 billion, Mexico at $4.1 billion, Saudi Arabia at $3.3 billion, Canada at $2.8 billion, Venezuela at $2.3 billion, Ireland at $2.3 billion, Korea at $2.2 billion, and India at $2.1 billion…small bilateral goods trade surpluses were recorded with Hong Kong at $2.9 billion, Brazil at $1.7 billion,  Australia at $1.5 billion, and Singapore at $0.6 billion… 
+ the  graph below from Bill McBride  shows the monthly track of the total trade deficit in blue since January 1998 as a negative amount in billions from the top line, which is zero dollars; it then tracks how much of that monthly is our net deficit in petroleum and petroleum products in black over the same period, and thereby shows our trade deficit without petroleum in red (ie, the sum of the red and black add up to the blue); as we noted earlier, we imported $23,446 million in crude crude oil in July, a substantial increase of $1,357 million over our $22,089 million in crude oil imports in June; as  we imported 264.2 million barrels, up from 234.3 million barrels in June …but what is represented on the graph below is net petroleum trade; we also exported $301 million worth of crude oil $6,266 million of fuel oil, and 5$,372 million of other petroleum products, and imported smaller quantities of the same..so it's not a simple equation;.we might export crude from Alaska to Japan, and import oil on the east coast from the Mideast, while some Gulf coast refineries import oil from Venezuela and export refined products to Europe; hence our end use "petroleum balance" in July was $18,746 million, which is the amount shown on the graph below.. oil averaged $97.07 a barrel in July, up from $96.93 in June , and up from $93.71 a year earlier… 
+ 
+ one more report we want to take a look at today is  the July Mortgage Monitor from LPS (Lender Processing Services)  (pdf), as you may recall that  last month we saw an unusual 18.3% spike in new delinquent home mortgages from the LPS June report …this month a portion of those homeowners caught up on their house payments, but both new and ongoing mortgage delinquencies are still above the post bubble low levels seen in May…according to LPS there were ​​4,599,000 home loans at least one payment overdue at the end of July, which was 9.23% of the first lien mortgages active at that time; that's down from the 4,785,000 home loans, or 9.61% of all mortgages, that were at least one payment delinquent or in foreclosure at the end of June, and down from 5,562,000, or 11.11%, that were late on their mortgages in July of last year, but up from the 4,469,000 mortgages, or  9.13% of home loans, that were at least one payment late at the end of May …the July total includes 1,846,000 homeowners who are more than 30 days but less than 90 days past due, but not in foreclosure, another 1,347,000 mortgages that are 90 or more days delinquent, but not in foreclosure, and 1,406,000 home loans that are in the foreclosure process, the lowest number in foreclosure since early 2009… 
+ 
+ the graph above  is  from page 11 of the mortgage monitor pdf , and it tracks with a green line the percentage of active loans that were in the foreclosure process monthly from 1995 to the present…this so-called foreclosure inventory are those home loans in between the first initiation of foreclosure proceedings and the "foreclosure sale", which typically transfers title to the bank ( terminology is on page 25 and 26 of the pdf )…presently at 2.82% of home mortgages outstanding, it's well down  from the October 2011 peak of 4.29% of mortgages in foreclosure,  but still nearly six times the 0.44% foreclosure inventory of pre-crisis December 2005…the red line over this same timeframe tracks the percentage of mortgages delinquent but not in foreclosure, which is at 6.41% of all loans as of July….LPS has added a black line overlay on this graph to show the 6 month moving average of the number of delinquencies in an attempt to smooth over one time spikes such as June's and  last September's iphone5 debacle ….note that the all time high for such mortgage delinquencies was back in January 2010, whereas the precrisis level of 4.27% in December 2005 is apparently considered a normal seasonal high by LPS…also note the seasonal changes in mortgage delinquencies, wherein they usually peak at year end, when most people get overextended during the holidays, and then decline over the first few months of each year as homeowners catch up… 
+ below we have a table  taken  from page 22 of the pdf  which gives the actual numbers behind the graphic history, starting yearly with January of 2008 and then monthly since January of 2012… it shows the monthly total loan count, followed by the number of mortgages that were over 30 days delinquent, over 60 days behind on payments, and over 90 days behind, which are considered seriously delinquent mortgages; it also shows the number of home mortgages in foreclosure (FC) in each month, and the number of new foreclosure starts during each month, which are  now trending at the lowest rate since 2007 …in the 30 day column you can see the June spike to 1,471,134 new delinquencies, and a similar large spike last September, and in the 90 day column note that serious delinquencies have turned up a bit in July after trending down over the previous 7 months…also note the last two columns, which show the number of days that the average seriously delinquent mortgage (90+) has remained seriously delinquent without proceeding to foreclosure, and the average number of days a typical foreclosed has been delinquent and remained in the foreclosure inventory without proceeding to a foreclosure sale…as you can see, those who are delinquent arent being foreclosed on, and those in foreclosure are now remaining there an average of 876 days…this is largely due to the long foreclosure pipelines in judicial states, where foreclosures must be completed in the courts, where the  backlogs in some states, New York and New Jersey in particular, are so extreme that their pipelines would take decades to clear … 
+ 
+ these long foreclosure pipelines are prompting lenders to encourage short sales of distressed properties, which you see in  the next graph , which comes  from page 18 of the mortgage monitor pdf ….in red in each bar for selected states we see the percentage of home sales that are short sales, and in blue in each state are the percentage of homes sold out of REO (real estate owned) inventory, which represents those mortgages that have completed a foreclosure sale… 
+ 
+ the following bar graph ,  from page 13 of the pdf presentation , shows the number of foreclosure starts monthly since the beginning of 2008; each bar representing a month shows the number of first time foreclosures in blue, and the number of repeat foreclosures in red, with the green line tracking the percentage of foreclosure starts in each month that are repeat foreclosures…note that new foreclosure starts have been at a post crisis low so far this year, but that the percentage of repeat foreclosures is now approaching 50%, meaning that a significant number of those earlier foreclosures that were modified, or “cured” by getting caught up on their payments, are in trouble again… 
+ 
+ last we’ll include  the monthly table showing the percentage of loans either delinquent (Del) or in foreclosure (FC) by state , which comes  from page 21 of the mortgage monitor ; the list is ordered from states with the highest total percentage of non-current (NC) mortgages (Florida at 16.0%) to the lowest (N.Dakota at 3.1%); with Florida’s foreclosure inventory percentage dropping to 9.0%, here are no longer any states with more than 10% of their properties in foreclosure, and only New Jersey at 7.1%, New York at 5.7%, Hawaii at 5.6%, and Maine at 5.3% have foreclosure inventories greater than 5% of all mortgages outstanding.. 
+ 
+ 
+ (the above is my weekly commentary that accompanied my sunday morning links emailing, which in turn was mostly  selected from my weekly blog post  __  on the   global glass onion   …if you’d be interested in getting my weekly emailing of selected links that accompanies these commentaries, most coming from the aforementioned GGO posts,   contact me   …) 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- July LPS graphics 
+ August retail & July G19 & JOLTS screenshots -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ global oil supply near December's demand; US distillates exports at a 40 mo low​; gasoline production at a 34 week low​ 
+ December's consumer & producer prices, retail sales, & industrial production; November's business inventories & JOLTS 
+ tables and graphs for January 16 
+ gasoline demand at a 32 week low, gasoline supplies up ​most in 3​5 weeks; distillate​s​ supplies​ up most in 31 weeks​ 
+ December's jobs report; November's trade deficit, construction spending, factory inventories, and wholesale trade.. 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ rjsigmund  on  tables and graphics for Novemb… 
+ 
+ 
+ 
+ 
+ Marsha Boggs on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ godfrey on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ October 2011 
+ September 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ 
+ 
+ 
+ Categories 
+ 
+ mortgage crisis 
+ retail sales 
+ Uncategorized 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  r.j.'s space  
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

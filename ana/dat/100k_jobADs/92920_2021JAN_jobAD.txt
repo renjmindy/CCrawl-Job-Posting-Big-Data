@@ -1,0 +1,179 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Interactive Developer LOCALPERMANENT 
+ Job Description 
+ Elevate is looking for an interactive developer to join our team building e-commerce and content management systems used by premium level global brands. The hired individual will primarily be tasked with front-end javascript development, but also have responsibilities that get into back-end coding and knowledge of particular platforms and tools. 
+ The ideal candidate will have 5-8+ years experience of strong front-end development and a strong knowledge of back-end technologies and systems. You’ll work closely with visual designers, UX designers, and other developers. 
+ Required Expertise 
+ 
+ 
+ Advanced expertise understanding of JavaScript, its quirks, and workarounds. 
+ 
+ 
+ Expertise in developing for e-commerce platforms. (bonus if you have worked with Shopify Plus, Magento, or Salesforce Commerce Cloud). 
+ 
+ 
+ Expertise in developing for content management systems (bonus if you have worked with Craft CMS, Statamic, or similar system). 
+ 
+ 
+ Expertise in developing and testing across multiple browsers, platforms, etc. 
+ 
+ 
+ Expertise in responsive web development, fluid layouts and mobile device optimizations. 
+ 
+ 
+ Expertise working in technical team environments and processes. 
+ 
+ 
+ Expertise working with 3rd-party API integrations (our clients tap into a lot of third parties for implementation and skinning). 
+ 
+ 
+ Specific Skills 
+ 
+ 
+ Knowledge with back-end technology stacks (PHP, MySQL, Nginx, Apache). 
+ 
+ 
+ Excellent skills understanding valid, standards-compliant HTML5 and CSS3 techniques. 
+ 
+ 
+ Experience optimizing front-end performance, by coding practices and tools. 
+ 
+ 
+ Expertise with module builders and task runners (Webpack, Gulp). 
+ 
+ 
+ Expertise with CSS pre and post processors (Sass, PostCSS, etc) 
+ 
+ 
+ Expertise with the Git version control system. 
+ 
+ 
+ Must understand accessibility and security compliance. 
+ 
+ 
+ Bonus, if you are familiar with Docker. 
+ 
+ 
+ Bonus, you have a strong knowledge of command line (bash, zsh, etc). 
+ 
+ 
+ Bonus, if you are proficient in MacOS (most of our tools, licenses, and processes are mac only). Drink the Kool-Aid™. 
+ 
+ 
+ Attributes 
+ 
+ 
+ Extreme passion for detail and technology. 
+ 
+ 
+ Must appreciate good design and know when something feels out of place. 
+ 
+ 
+ Excellent debugging and problem-solving skills. 
+ 
+ 
+ Communicative and clear under tight deadlines. 
+ 
+ 
+ Ability to interact professionally with a diverse group of people. 
+ 
+ 
+ Strong time management and problem-solving capabilities. 
+ 
+ 
+ Enthusiasm to work in a fast-paced and dynamically changing environment. 
+ 
+ 
+ Self-motivated, can work without supervision and be proactive in solving a challenge. 
+ 
+ 
+ Demonstrated ability to accurately estimate and scope development work. 
+ 
+ 
+ Approach technical challenges with an open mind and desire to innovate. 
+ 
+ 
+ Education 
+ Bachelor's degree in related field (preferred). 
+ About Elevate 
+ Elevate is a privately held, Chicago-headquartered agency offering digital commerce design and development for some of the most well recognized brands in the US. 
+ We offer competitive compensation perks including: 
+ 
+ 
+ Subsidized Health, Dental and Vision Insurance 
+ 
+ 
+ 401K Plan 
+ 
+ 
+ Pre-tax Transportation Benefit 
+ 
+ 
+ Flexible Spending Account 
+ 
+ 
+ Term Life and LTD Benefit 
+ 
+ 
+ 15 days paid vacation in your first year 
+ 
+ 
+ Paid Volunteer Time off 
+ 
+ 
+ Flexplace work option 
+ 
+ 
+ Summer hour Fridays 
+ 
+ 
+ A casual and fun work environment 
+ 
+ 
+ Please visit us at www.elevatedigitalcommerce.com 
+ How to Apply 
+ https://www.jsco.re/25pyl 
+ Contact Info 
+ 
+ __ 
+ 
+ Location:  Chicago, IL 
+ 
+ __ 
+ 
+ Phone Number:   3129321104 
+ 
+ __ 
+ 
+ Email Address: 
+ __  Posted September 26, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

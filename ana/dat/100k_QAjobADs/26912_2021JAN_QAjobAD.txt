@@ -1,0 +1,12 @@
+ Qualifications 
+ Prior experience with distributed systems such as BFT consensus algorithms 
+ Familiarity with the Rust programming language 
+ Self-motivated & self-organized 
+ Interested in open-source technology and research applied to DLT 
+ Bonus Qualifications 
+ Bonus Qualifications 
+ Prior experience with large scale distributed systems deployed in practice 
+ Prior experience with network and systems engineering 
+ Prior experience with database design and optimization 
+ Prior experience in blockchain technology 
+ Prior experience implementing cryptography 

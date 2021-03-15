@@ -1,0 +1,171 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Rust and Haskell Software Developer 
+ [ 
+ Serokell 
+ ](/companies/serokell) 
+ 
+ Remote 
+ 15 September, 2020 
+ Apply 
+ More jobs from Serokell About Serokell 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Haskell 
+ Rust 
+ http 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Great tech stack 
+ Internal training 
+ 
+ Contribute to the performance-critical subsystems of our customers’ systems. 
+ Role overview 
+ Become a part of an international, fully remote community! We are searching for a “middle-level” polyglot developer who is comfortable with programming in both Rust and Haskell. If you are passionate about using expressive languages to write effective code, we might be a perfect fit for each other. 
+ As a developer working at Serokell, you will contribute to the performance-critical subsystems of our customers’ systems. Problem domains include, but are not limited to fintech and IoT. 
+ Beyond just flexing your performance-engineering muscles, you’ll be able to enjoy internal product development hackathons where small teams develop fresh new products over a short period of time. 
+ Requirements 
+ Rust 
+ 
+ Solid knowledge of Rust 2018 features.  You are expected not to use obsolete features (be neat with extern, etc.), be able to use lifetimes tightly, understand lifetime elision rules, know how to write and implement custom traits, etc. 
+ Familiarity with the Rust toolchain.  Cargo,  crates.io . Familiarity with the self-profiler of Rust’s compiler is a bonus. 
+ Async programming with Rust.  You should be comfortable with writing multi-threaded code and are expected to be familiar with the concepts of tokio, even though working experience with it is not a requirement. 
+ Application-level integration.  You should be able to integrate your code with a wide variety of other systems, know how to write optimal queries, and, conversely, how to serve data optimally. Have working experience with serde. Familiarity with rust-postgres and rust-rocksdb is a plus. 
+ Unit and property testing.  You are expected to ship tested code, finding invariants and testing those with proptest. Being able to write unit tests is required. Working experience of writing integration tests and functionality (black-box) tests is appreciated. 
+ Logging and tracing.  You must know how to organize logging, tracing, and monitoring. You are expected to be familiar with tracing and slog libraries, familiarity with prometheus is a bonus. 
+ Performance engineering.  You are expected to be able to write performant code. This implies knowing how to benchmark (e.g. criterion) it and profile (e.g. cargo-profile). Familiarity with valgrind, working experience with perf, and being comfortable around disassembled snippets are a bonus. 
+ 
+ Haskell 
+ 
+ Solid knowledge of Haskell 98 features.  You can write your own typeclasses, are comfortable with applicative functors, are comfortable using monad transformers, and know the ins and outs of the most important library ones like ReaderT, StateT, etc. 
+ Familiarity with the modern Haskell ecosystem.  You should be able to use text, mtl, basic lenses, Stack/Cabal, type families, Template Haskell (use existing TH generators, not write your own), QuickCheck/Hedgehog. (If an item is missing, it’s not critical.) 
+ 
+ Overall 
+ 
+ Knowledge of the fundamental algorithms and data structures like binary search tree, DFS, hashtable, quicksort, etc. 
+ Knowledge of computer networks: HTTP, TCP/IP stack, understanding of poll- and push-based data synchronization models and their usage in modern service APIs. 
+ Good coding culture (code structuring and decoupling, patch management with git, code review practices). 
+ Good level of self-organization. 
+ 
+ 
+ [ 
+ Serokell 
+ ](/companies/serokell) 
+ 
+ 50-249 
+ 
+ Serokell is a custom software development and consulting company working with functional programming technologies in spheres such as blockchain. Serokell is fully remote — our diverse background and fast-moving environment make everyday communication and workflow creative and fun. Our international team consists of talent from various spheres: software engineers, computer scientists, mathematicians, and many more inventive individuals. We work flexible hours in small, friendly teams and abide by certain principles: as little bureaucracy as possible (no unnecessary meetings, super detailed reports, etc.), proper management, healthy work/life balance, and continuous improvement. More info at serokell.io. 
+ C++ Technology Private Agda NIX TYPESCRIPT Great tech stack Internal Training 
+ View 1 job 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Serokell About Serokell 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Haskell 
+ Rust 
+ http 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Great tech stack 
+ Internal training 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Haskell DeveloperCompetitiveTypeableRussian Federation 
+ Join us to be a contributor in a technology innovation movement and be on the frontier where Business meets FP 
+ Remote 
+ haskell rust 
+ More Info Apply 
+ Experienced Haskell Developer CompetitiveStack BuildersUnited States of America 
+ (Remote - Full Time) 
+ Remote 
+ haskell 
+ More Info Apply 
+ HaskellerCompetitiveTontineTrustIreland 
+ Help build something seriously important for the world with chilled people 
+ Remote 
+ haskell 
+ More Info Apply 
+ Rust and Haskell Software Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

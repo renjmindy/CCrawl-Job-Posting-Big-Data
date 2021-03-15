@@ -1,0 +1,77 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Frontend Developer at Design Agency - Austin, TX LOCALPERMANENT 
+ Job Description 
+ This position is designed for those who enjoy the frontend development side of site building. Our team is growing and we could use an extra set of hands to help with the design implementation of our sites. We don't use pre-built themes, and Wordpress isn't our go-to option. All work is designed per-project to fit a client's needs. We value communication within the development team to rapidly deploy solutions where needed. In a given day you might be handling smaller changes to multiple client sites, or you might be collaborating with other developers on larger projects. 
+ Frank & Victor is a design agency located in Austin, TX that focuses on building value through design and development. We have a small team of in-house developers to accompany our small team of designers. We don't wear ties or fancy dresses. We go to happy hour every Thursday. Our clients range from local businesses to Fortune 500 companies. 
+ This role is for an in-house developer (preferably local) who has a good working knowledge of  HTML/CSS/JS/Twig  and experience with  Craft CMS . If you've got experience with Shopify or Wordpress that's great, but not required. We value the modularity in development. We also value being able to jump in to any part of a project when specific skills are needed. All code must be clean, legible, and not made of spaghetti or other pasta derivatives. At times you may be the lead developer on a project, but you can rely on other developers for assistance, troubleshooting, or other input when necessary. Additionally, design experience is welcomed but not required. All developers on the team honor the design intent so our designers and clients can sleep better at night. 
+ Requirements (Can/Must/Do) 
+ Look at a static design and understand how that would translate to code. 
+Take that translation, and make the code. (Markup, Styling, Scripting, Integration, Deployment) 
+Work with other developers in a rapid team environment. 
+Willing to learn new frameworks and methodologies depending on the task. 
+Update, troubleshoot, fix existing deployed sites or code. 
+Work with Github to store and retrieve projects. 
+Hit deadlines. 
+Document code for other developers. 
+Document sites for clients. 
+ How to Apply 
+ To apply, send an email to  [email protected]  with the following info: 
+ Previous projects worked on, and the role performed. (Links are appreciated) 
+Resume (Job experience/Education) 
+Availability 
+Location 
+Anything you want to tell us about your expertise as a frontend developer. 
+ Bonus Questions: 
+OS/software preferences? 
+Computer peripherals preferences? 
+If you've done any gaming recently, which games? 
+Tabs or spaces? 
+ http://frankandvictor.com/journal/entry/job-opening-frontend-developer 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Frank & Victor 
+ 
+ __ 
+ 
+ Location:  Austin, TX 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   http://frankandvictor.com/ 
+ __  Posted May 15, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

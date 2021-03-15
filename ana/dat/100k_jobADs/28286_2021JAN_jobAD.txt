@@ -1,0 +1,164 @@
+The Life between C and C 
+ Life's Stuck between Cricket and Computers 
+ Menu 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ Job 
+ __Omie  __June 15, 2011  __7 
+ Hi ! 
+ well.. it all started on 1st of June. I returned from exam. Probability and Statistics.. ashamed.. because of what I had done there and I knew am gonna fail for sure. Provided there is no Mumbai-University-Magic 😛 
+ I was thinking whats next.. a year drop for sure but can't afford wasting an year.. so.. Job ! 
+ What I have right now as qualification is .. well.. pretty much.. Nothing ! I am still a commerce guy till I finish my MCA 😦 but I was confident that there will be something because I can code 😀 
+ I went to punetech.com/apply page once again. Had solved the challenge almost an year ago.. when friend showed it to me. Had done it in vb.net as well.. using interfaces and stuff..  and Haskell too ! 
+ I was browsing punetech.com contents and I noticed that gtalk widget on site started showing Navin as Away. Pinged him, got response really quick.. then had a little chat.. explained whats the problem.. what I want.. why I want etc.. He said fine.. send me your challenge code and resume.. Lets see.. 
+ Then next 3 days went in some basic info communication.. and then he said he wants to talk to me on phone. like a phone interview. If that goes well.. then next step. Actually he had shown my submission to some companies [he figured where can I fit based on my earlier chat and submission, resume]. 
+ Then there was a phone call. Wasn't anything technical in it though. Also.. went well and he asked me when can I meet him. All this happened within 8 days since I first talked to him. Most suitable day to meet was Monday[13th June]. So.. I went to Pune on Saturday itself. Rain and all that you know.. 
+ Finally met him on Monday. There were technical questions at first and then some general talk. and it was really really great. I succeeded impressing him enough 🙂 He had planned my other interviews as well. He told me my schedule and I was off to Coriolis. He dropped me actually, did not go there by myself 😛 
+ In Coriolis.. met Mr. Basant Rajan. CEO of Coriolis. Amazing guy. Didn't ask me anything technical.. he said Navin has done it.. no need anymore.. it was just about company.. type of work etc.. it was cool. 
+ Then I left to  Touchmagix . and that interview did not go well at all ! Very first question was.. there is a ball.. if it gets a hit.. it should move with direction of force applied.. derive the equation for its movement.. I was blank 😐 
+ He gave me a clue.  (y2-y1/x2-x1) * tan^-1  yeah ! equation to get slope of line. but when I saw he wrote tan^-1 there.. I knew I won't getting in this company. I just said I dunno this stuff. Then he asked something about Physics. Meh! Physics ! I dunno that either 😛 Commerce Graduate man.. I was in wrong place. Did not waste time there then. I mean he did not waste time and showed me the door right away 😛 Was polite though.. Genius guy. 
+ anyway.. 
+ I called back Navin.. no. Dr.Navin [by this time I came to know he's done PhD !] He had a meeting.. so he said he'll call back later. Later in the evening I got his call and I told him I think Coriolis seems fit for me. So.. he said.. go ahead.. all the best ! 
+ Then I talked to Mr. Basant once again. Talked about joining date and offer letter etc. and .. that was it ! I had a confirmed job in hands on Monday evening. only 13days after I started seeking for it. 
+ got offer later yesterday. Joining from this Monday.. that is 20th June. 
+ Now about this company. 
+ Its in Aundh. Deals with Kernel stuff.. both Linux and Windows.. and its all about storage. Filesystems.. encrypted filesystems … etc.. Along with that they also have a product developed. and its about virtualization. I won't be working on this stuff from Monday. Thats obvious. I'll be working with Python 🙂 No.. not snakes !!! 😛 [old joke.. I know.. couldn't resist :-P] 
+ and about package.. well.. its alot more than what I need to make nice living in city like Pune 😀 
+ will be staying in Kothrud, with my schoolmate, Tushar,his elder bro and one more friend. Ratnagirikars 😉 and its ~20mins away from job location. 
+ That's all about my first interview and first job ! 
+ oh, I missed.. about MCA. yes, I'll finish my last sem when I am eligible for it. Not gonna let it go 🙂 
+ One more thing I must mention. I can't Thank enough Dr.Navin Kabra for his help. Its really an amazing initiative from  punetech  and really should be followed by more. I know I wouldn't even get through these initial filters like 60% avg marks.. no kts.. no drops and what not. but this way was great. There wasn't even apti ! These people judged me by my code. Yeah ! Thats how it should work. 
+ I remember I had written this job letter during Fy-MCA Communication Skills lecture. 
+ Dear Sir, 
+ I can code, please hire me. 
+ KTHXBYE 
+ 😛 
+ so that works in reality too ! 
+ 
+ Facebook 
+ Twitter 
+ Email 
+ Print 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Best Days Of My Life ,  General  and tagged  first job ,  internship ,  job . Bookmark the  permalink . 
+ Post navigation 
+ <- HNotepad :: Haskell -> Gtk2Hs -> HNotepad () 
+ an update -> 
+ 
+ 7 comments 
+ 
+ vysakh  says:| 
+ 
+  June 15, 2011 at 12:20 pm  
+ congratulations 🙂 
+ Reply 
+ 
+ Madhur  says:| 
+ 
+  June 15, 2011 at 12:31 pm  
+ Congratulations bro 🙂 
+ Reply 
+ 
+ Sathya  says:| 
+ 
+  June 15, 2011 at 11:48 pm  
+ 'grats Omie! 
+ Reply 
+ 
+ AJ says:| 
+ 
+  June 17, 2011 at 12:25 pm  
+ The same guy bro?? I am so happy to know this.. God bless you..!! Hearty Congratulations!!! 
+ Reply 
+ 
+ Priyanka says:| 
+ 
+  June 30, 2011 at 11:02 pm  
+ i vividly remember your application letter 🙂 i can code please hire me…… 
+haha…. 
+ Reply 
+ 
+ Rajesh Pandey  says:| 
+ 
+  January 30, 2012 at 9:08 pm  
+ WTF Man. Things have changed a LOT. We have not talked in ages. I knew you got a job, but this is awesome. 
+ Congrats man (Albeit late :P) 
+ Reply 
+ 
+ Vrushali says:| 
+ 
+  December 3, 2015 at 1:26 pm  
+ Nice 🙂 
+ Reply 
+ 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Categories 
+ 
+ Best Days Of My Life 
+ C# 
+ Code Snippets 
+ Coding Stuff 
+ Computers 
+ Cricket 
+ Friends 
+ Games 
+ General 
+ Haskell 
+ News 
+ Visual Basic 
+ Windows 7 
+ Windows Forms 
+ WTF 
+ 
+ Search 
+ 
+ app.manifest   application settings   ASCII encryption   base64   BindingNavigator   BindingSource   copy folder   DataBinding   DataGridView   Dell   dell customer service   directoryinfo   domaintools api   exploer form   external api   FieldInfo   first job   FlashWindowEx   GetHostAddresses   Gtk2Hs   haskell   Hitman 2   image   internship   interProcessCommunication   ip address   job   Process   progressbar   reflection   screen   SendMessage   setParent   shell32   showWindow   silent assassin   System.Net   Taskbar   twitter   UAC   user32.dll   webbrowser   webclient   xml 
+ 
+ My friend's blogs 
+ 
+ Apurva's Blog 
+ Crap 
+ Madhur Jain 
+ Santosh's Blog 
+ Sathya Says,My life, my thoughts 
+ Slave of Technology 
+ 
+ @omkarnath 
+ 
+ RT @ Tijori1 : Feature Update - Market Monitor Check this for a quick granular view of what's moving in the market today. The performance of…  1 week ago 
+ RT @ Tijori1 : Update - we are now displaying growth values for companies on Tijori. So you can see CAGR change in Stock price, Earnings, C…  1 week ago 
+ RT @ lil_morgy : every day, you can choose 1  https://t.co/E8O8mkxrQa   1 month ago 
+ RT @ viditaatrey : At YC, a partner once told me: "I have never seen a fast growing startup with a burnt-out team" Growth solves "most" probl…  1 month ago 
+ RT @ Tijori1 : Something not many people are highlighting - Tesla actually turned free cash flow positive , with a record $1.8B FCF this Sept…  1 month ago 
+ 
+ Create a free website or blog at WordPress.com. 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

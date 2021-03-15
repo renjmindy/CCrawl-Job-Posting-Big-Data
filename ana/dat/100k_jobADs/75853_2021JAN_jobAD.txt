@@ -1,0 +1,187 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ AWS Software Developer 
+ Memorial Sloan-Kettering Cancer Center 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ AWS Software Developer 
+ Memorial Sloan-Kettering Cancer Center 
+ [](mailto:?subject=AWS%20Software%20Developer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14264569/aws-software-developer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 5, 2021 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full-time 
+ Do you want to join a fast-paced, growing team that will be using and working directly with the latest cloud technologies? If so, the Digital Informatics and Technology Solutions division of MSKCC is seeking a hardworking  AWS Cloud Software Engineer  to join the organization! The ideal candidate will be part of the team enabling the journey from On-Premise to Omni Cloud utilizing Amazon Web Services (AWS) in the areas of architecture, development, security, operations, integration, migration, and managed services. Read and click below to apply! 
+ You Are: 
+ 
+ Self-motivated with a proven track record in architecting & engineering cloud solutions for enterprise environments 
+ Capable of building strong customer relationships and delivering customer-centric solutions 
+ A good decision-maker, with proven success at making timely decisions that keep the organization moving forward 
+ Adept at learning quickly, applying insights from past efforts to new situations 
+ Able to develop automation and apply it practically to enable efficiencies and eliminate manual tasks 
+ Able to document and communicate sophisticated concepts effectively to a diverse group of stakeholders 
+ 
+ You Will: 
+ 
+ Architect, plan, and implement cloud solutions that balance simplicity, standards, scalability, extensibility, supportability, and integrity 
+ Work with MSKCC developers, user community to analyze their needs, then help them design, develop and test solutions in order to meet those needs. 
+ Provide expert guidance on standards for design, best practices, engineering changes, and configuration management across the hybrid cloud infrastructure. 
+ Provide guidance on core AWS services and work with the infrastructure teams with expertise in their respective areas to design, implement and integrate solutions in AWS. 
+ Implement cost optimized solutions (based on usage, business requirements and budget). 
+ Regularly evaluate existing cloud services to find opportunities for improvement. 
+ Provide forward-thinking technology leadership in developing innovative solutions with a strong emphasis on continual improvement in automating our infrastructure, services and software release processes 
+ 
+ You Have: 
+ 
+ Architectural experience in crafting and implementing solutions that run on AWS, including aspects like compute, network, storage, serverless and security. 
+ Experience implementing AWS networking including Direct Connect, VPCs, AWS Transit Gateways, Elastic Load Balancing, & Route53. 
+ Experience with AWS Application delivery services including CloudFront, App Mesh & Cloud Map 
+ Infrastructure automation through DevOps scripting (E.g. shell, Python, Ruby, PowerShell). 
+ Configuration management using CloudFormation, Chef and Puppet. 
+ Proven experience in architecting, implementing, and maintaining highly complex distributed software systems using cloud and infrastructure services. 
+ Experience working in an Agile environment utilizing the SAFe Agile framework. 
+ 
+ #LI-POST! 
+ 
+ 
+ Internal Number: 2020-46116 
+  __  Create a Job Alert for Similar Jobs  
+ About Memorial Sloan-Kettering Cancer Center 
+ As one of the world's premier cancer centers, Memorial Sloan-Kettering Cancer Center is committed to exceptional patient care, leading-edge research, and superb educational programs. The close collaboration between our physicians and scientists is one of our unique strengths, enabling us to provide patients with the best care available today as we work to discover more effective strategies to prevent, control, and ultimately cure cancer in the future. Our education programs train future physicians and scientists, and the knowledge and experience they gain at Memorial Sloan-Kettering has an impact on cancer treatment and the biomedical research agenda around the world. 
+ Connections working at Memorial Sloan-Kettering Cancer Center 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Production Support (DevOps) : Data Analytics - Associate 
+ __  Singapore, Singapore 
+ 
+ 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ Java Software Engineer 
+ __  London, United Kingdom 
+ 
+ 
+ IHS Markit 
+ __Today 
+ 
+ 
+ Merchant Services - Helix, Production Management, Site Reliability Engineer, Associate 
+ __  Singapore, Singapore 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

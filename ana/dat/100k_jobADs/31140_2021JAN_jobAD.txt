@@ -1,0 +1,81 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Data Engineer 
+ Bombardier 
+ __Dorval, QC 
+ Apply Now 
+ Data Engineer-MON16899 
+ Description 
+ BOMBARDIER 
+ At Bombardier, our employees work together to evolve mobility worldwide - one good idea at a time. If you have a good idea, we’ll provide the environment where it will thrive and grow into a great product or customer experience. Your ideas are our fuel. 
+ You will be part of the Aircraft Health Management System (AHMS) team and work with an emerging Digital Products team that is focused on one of the top priorities within the organization by introducing, implementing and sustaining Digital Products for Bombardier Aviation customers. You will work in close collaboration with cross functional teams and stakeholders across the organization such as Product Owners, User Experience UX/UI, Go-To-Market, Sales and Customer Support specialists. Join us and be an integral part of a dynamic and innovative team in one of the largest Business Aviation corporations. 
+ In your role, you will: 
+ 
+ Create and maintain optimal data pipeline architectures 
+ Assemble large, complex data sets that meet functional / non-functional business requirements 
+ Build the cloud-based infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources 
+ Support the Aircraft Health Management System (AHMS) initiatives 
+ 
+ Qualifications 
+ As our ideal candidate, 
+ 
+ You are able to troubleshoot issues quickly and effectively 
+ You have experience working alongside and supporting multiple Agile development teams 
+ You have experience building and optimizing complex data pipelines, architectures and data sets. 
+ You are able to build processes supporting data transformation, data structures, metadata, dependency and workload management. 
+ You have a successful history of manipulating, processing and extracting value from large disconnected datasets. 
+ You have experience supporting and working with cross-functional teams in a dynamic environment. 
+ We are looking for a candidate with 5+ years of experience in a Data Engineer or Data Science role, who has attained a Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field. They should also have experience using the following software/tools: 
+ Experience with relational SQL and NoSQL databases, for example Postgres and Oracle. 
+ Experience with Timeseries data 
+ Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc. 
+ Experience with AWS cloud services: EC2, EMR, RDS, Redshift 
+ Experience with data integration and surfacing via APIs 
+ Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc. 
+ You have the ability to influence others 
+ You have strong oral and written English communications skills and functional French communication skills are desired 
+ 
+ Bombardier is an equal opportunity employer and encourages women, Aboriginal people, persons with disabilities and members of visible minorities to apply. 
+ Whether your candidacy is moving on to the next step of the hiring process or not, we will keep you informed by email or by phone. Join us at careers.bombardier.com 
+ Your ideas move people. 
+ Job:  Applications Specialists 
+ Primary Location:  CA-QC-Montreal Dorval 
+ Organization:  Aerospace 
+ Schedule:  Full-time 
+ Employee Status:  Regular 
+ Job Posting:  13.10.2020, 1:23:12 PM 
+ Unposting Date:  Ongoing 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

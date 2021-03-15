@@ -1,0 +1,83 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Analyst, Enterprise Analytics 
+ Scarborough Health Network 
+ __Toronto, ON 
+ Apply Now 
+ Company Biography: 
+Across our three hospitals and eight satellite sites, Scarborough Health Network (SHN) is shaping the future of care. Our many programs and services are designed around the needs of one of Canada’s most vibrant and diverse communities. We are home to North America’s largest nephrology program, as well as the designated cardiac care and spine centre for Scarborough and surrounding communities to the east. We are proud to be a community-affiliated teaching site for the University of Toronto and partner with a number of other universities and colleges, helping to train the next generation of health care professionals. Learn more at shn.ca 
+ Position Overview: 
+The Scarborough Health Network is reimagining traditional hospital Decision Support. Enterprise Analytics is an innovative and strategic asset to one of Ontario's largest community hospitals. We act as trusted advisors to healthcare leaders and focus on providing them the analytical tools and deep insights that help them make important decisions. This position offers very unique opportunities for learning and career growth as we build up our team. 
+ Company Vacancy/Request for Transfer: 
+The completion of this online form serves as your application and will be used to determine if you meet the requirements of this position. Please ensure that you have provided all pertinent information necessary to be considered for this vacancy by the close date. 
+ Responsibilities:   Here’s what you’ll get to do: 
+ 
+ Think creatively to anticipate and deliver the information that busy healthcare leaders need to make important decisions. 
+ Apply critical thinking to get at "the story" behind the data, and present findings in a manner that answers the business questions that matter. 
+ All of the technical work that goes with an analytical role, from data transformation to building of compelling visual summaries of complex information, to quality assurance. 
+ Constantly challenging yourself to find better, faster, and more reliable ways of doing the work. 
+ Be part of a new and growing team, while learning the ins and outs of how the Canadian healthcare system works. 
+ 
+ What’s in it for you? 
+ 
+ This is a unique opportunity to help shape a new department, and create a new approach to analytics in Canadian healthcare. 
+ This position offers an abundance of opportunities for learning and growth. 
+ You will work closely with healthcare leaders and feel great about helping to improve the system. 
+ 
+ Requirements: 
+Here’s what you will need 
+ 
+ Analytical technical skills, including handling data imports, complex data linking, dealing with data imperfections, and the ability to create visual summaries. 
+ Excellent communication skills, with the ability to create and derive meaning from data. The ability to use data and information to ‘tell the story’. The ability to think about 'the why' behind the question that is being asked. 
+ A proven self-starter, who has no limits in their ability to learn new tools. 
+ Pride in doing great work, a mindset of taking things to the finish line, and attention to detail. 
+ Bachelor’s degree in a related discipline 
+ 
+ Asset: 
+These “nice to have” skills will help you succeed on day one 
+ 
+ Experience in standard data and reporting tools such as SQL Server and SSRS, with advanced Excel skills (pivot tables, filters, formulas, macros etc.) as well as SAS. 
+ Hands-on experience with any BI tool, especially Microsoft Power BI. 
+ Previous healthcare experience including knowledge of CIHI datasets such as DAD, NACRS, CCRS, NRS, OMHRS, HCRS). 
+ Knowledge CIHI/MoHLTC methodologies (HSFR, HSMR, RIW, HIG, MIS Guidelines). 
+ Knowledge of Access to Care/Cancer Care Ontario datasets and Business Intelligence tools (WTIS, ALC, ER, SetP, iPort). 
+ Experience in using advanced tools such as AI, Machine Learning and Predictive/Prescriptive Analytics. 
+ 
+ How to apply: 
+If you are interested in this position, please submit your resume and cover letter with a response to "I feel that I'm the best candidate for this position because ..." 
+ Accommodation Statement: 
+Scarborough Health Network (SHN) embraces and celebrates our community’s unique multicultural heritage and diversity. SHN is an equal opportunity employer, dedicated to a culture of inclusiveness and diversity reflecting our diverse patients, staff and community alike. We are committed to providing barrier-free and accessible employment practices in compliance with the Accessibility for Ontarians with Disabilities Act (AODA). Should you require accommodation through any stage of the recruitment process, please make them known when contacted and we will work with you to meet your needs. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

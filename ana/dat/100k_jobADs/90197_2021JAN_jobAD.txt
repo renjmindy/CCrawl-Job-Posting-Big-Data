@@ -1,0 +1,84 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Senior Release and Change Management Analyst 
+ CIBC Mellon 
+ __Mississauga, ON 
+ Apply Now 
+ Company Information: 
+CIBC Mellon is a leading provider of asset servicing solutions to institutional investors in Canada, including multi-currency accounting, fund valuation, and investment information reporting. We are passionate about providing exceptional client service backed by our culture of innovation and success. Our outstanding employee experience will provide you with opportunities to learn and grow professionally while supporting the communities in which you live and work. 
+ We are a diverse and dynamic workplace where employees take an active role in delivering on strategic objectives while advancing their individual career goals. We encourage innovative thinking and give our employees the support and resources they need to turn great ideas into actions. 
+ We’re always looking for talented people who can make a meaningful difference for our clients, our company and our communities. To learn more about why our employees love coming to work each day, visit www.cibcmellon.com/experience. 
+ Position Overview: 
+The Senior Release and Change Management Analyst is responsible for CIBC Mellon’s Change and Release management framework and associated processes and procedures in support of continuously delivering project releases from the planning phase to deployment and handoff to operational support across multiple service providers. 
+ Responsibilities: 
+ 
+ Accountable to provide support to Tier 1 applications specific release management resources in various business areas and departments, as well as to service providers and vendors, by coordinating and providing release management consultation in a timely and efficient manner 
+ Leads communication and manage expectations from project teams and stakeholders during the planning and implementation of new project releases 
+ Liaises directly with internal Information Technology employees and vendors, participates in release/change vendor meetings Conduct release readiness reviews for project implementations/stakeholders for top tier applications and vendors 
+ Assessing, analyzing and approving all technology changes impacting CIBC Mellon, across multiple service providers 
+ Responsible for all communication of changes and change impact to CIBC Mellon stakeholders as required 
+ Responsible to provide KPI metrics for measuring and reporting on Change & Release activity while identifying opportunities for improvement. KPI metrics includes: 
+ 
+ o Tracking release changes, percentage of success of release changes, use of testing 
+environments, and release calendars across all system applications, service providers and 
+vendors 
+ 
+ Ability to define critical analytics to measure success, drive continuous improvement, and make key data driven decisions 
+ Formalizes and oversees a release plan that covers integration testing, user acceptance testing, documentation and associated operational procedures, such as system management instrumentation, support procedures, run book procedures, service catalog, configuration management database (CMDB) and rollback planning 
+ Peer mentor analysts in the release and change management processes and provide guidance according to the department mandate 
+ Contribute to process improvements within release and change management activities 
+ 
+ Qualifications: 
+ 
+ Bachelor’s degree in Computer Science or equivalent discipline 
+ 4-6 years of in-depth experience in release management of a technology platform 
+ understanding of ITIL Release & Change Management disciplines and Project Management methodologies and lifecycle 
+ Working knowledge of systems development lifecycle 
+ Ability to influence results through decision-making and influencing key stakeholders 
+ Self-starter, very detail oriented and extremely efficient and effective working with and obtaining support from cross-functional teams 
+ Experience in Asset Servicing systems would be an asset 
+ 
+ Working Conditions Unique to Job (i.e. Standard Office Environment) 
+ 
+ Normal office hours, with some requirement for after hours or weekend to support major initiatives 
+ Fast-paced work environment, with multiple competing high priority initiatives 
+ 
+ CIBC Mellon 's Values: 
+ Get it Right Every Day:  Deliver service excellence while always acting with the highest ethical standards 
+ Put Clients at the Centre:  Advocate for clients by listening, sharing knowledge, and bringing the right solutions forward 
+ Be One Family:  Challenge, empower and recognize your colleagues 
+ Take Ownership:  Speak up, speak out, and make things better 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

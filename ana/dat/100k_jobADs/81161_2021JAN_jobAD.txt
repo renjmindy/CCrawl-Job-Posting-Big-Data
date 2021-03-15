@@ -1,0 +1,341 @@
+Skip to primary content 
+ Skip to secondary content 
+ Infrastructure Land 
+ 
+    Search 
+ Main menu 
+ 
+ Home 
+ About Me 
+ VMware PowerCLI useful commands 
+ 
+ Category Archives: career 
+ Languages of Appreciation at Work 
+ Posted on  March 7, 2015  by   IT family 
+ Reply 
+ Source URL 
+ Posted in  career  |  Tagged  career ,  office  |   Leave a reply 
+ Windows 2003 End of Support 
+ No more updates  July 14, 2015 
+ Windows Server 2003 EOL 
+ Blogs I Follow 
+ 
+ MyXenApp 
+ There's More to the Story: a blog about LIFE, chronic illness, and Mental Health 
+ DeployWindows 
+ Mike Pfeiffer 
+ DigitalBamboo's Blog 
+ C7 Solutions 
+ Brent Caskey 
+ IT-Muscle.com 
+ Troubleshooting Exchange 
+ Dirk & Brad's Windows Blog 
+ Ingmar Verheij 
+ citrix24.com 
+ RobinHobo.com 
+ Jack's Server blog 
+ Virtxpert 
+ Virtual to the Core 
+ Infrastructure Land 
+ Jase's Place 
+ Practical System Administration 
+ CloudPundit: Massive-Scale Computing 
+ Virtual Geek 
+ UCSguru.com 
+ Define the Cloud 
+ Chuck's Blog 
+ speakvirtual 
+ JeffSaidSo 
+ itbloodpressure.com 
+ What Would Dan Do? 
+ BrianMadden.com 
+ VROOM! Performance Blog 
+ frankdenneman.nl 
+ Ask the Architect 
+ blog.scottlowe.org 
+ akosijesyang 
+ this is... The Neighborhood 
+ Yellow Bricks 
+ Cisco UC 
+ TechNet Technology News 
+ blogs.technet.com/rss.aspx 
+ Script Center repository feed - Sorted by: Popularity, Sort order: Descending 
+ Windows for IT Pros 
+ Citrix Blogs 
+ | Exit | the | Fast | Lane | 
+ Uploads by YouTube Help 
+ Uploads by YouTube Help 
+ Uploads by YouTube Help 
+ PowerShell Script Repository 
+ xenappblog 
+ My Virtual Vision 
+ Blog – VirtualQube 
+ 
+ Categories 
+ 
+ 10.5  (1) 
+ AI Technology  (1) 
+ Alphabet - NATO Phonetic  (1) 
+ Appliance  (1) 
+ automation  (1) 
+ BGINFO  (2) 
+ BITS  (3) 
+ Boot from SAN  (1) 
+ career  (1) 
+ certificates  (2) 
+ Cisco  (2) 
+ Cisco Datacenter  (2) 
+ Cisco IronPort S170 Web Security Appliance  (1) 
+ Cisco Jabber  (1) 
+ Cisco Licensing  (1) 
+ Cisco Systems  (2) 
+ Cisco UCS  (1) 
+ Cisco VPN  (1) 
+ Citrix  (16) 
+ Citrix 7.6  (6) 
+ Citrix Blog  (1) 
+ Citrix Command line  (1) 
+ Citrix IMA Service Failure to start  (1) 
+ Citrix Provisioning Services  (8) 
+ Citrix Provisioning Services (Server)  (3) 
+ Citrix PVS  (1) 
+ Citrix PVS database migration  (1) 
+ Citrix Universal Print Server 7.6  (1) 
+ Citrix XenAPP 6.0  (5) 
+ Citrix XenApp 6.5  (1) 
+ Clustering  (1) 
+ CLUSTERING SERVER 2012 R2 WITH ISCS  (1) 
+ CONFIGURATION MANAGER CLIENT  (1) 
+ Content Redirection  (1) 
+ Convert PVS images from XenServer to VMware  (1) 
+ Convert VM to VMware  (1) 
+ Create 2008 R2 Template  (1) 
+ Data Migration  (1) 
+ DCPROMO  (1) 
+ Deduplication  (1) 
+ Deployment  (1) 
+ DFS  (1) 
+ DHCP Clustering  (1) 
+ Director 7.6  (1) 
+ Distributed Switch  (1) 
+ DNS  (1) 
+ EMC  (8) 
+ EMC LUN Migration  (1) 
+ EMC VNX  (3) 
+ EMC VNX Best Practices  (1) 
+ EMC VNX LUN Migration  (1) 
+ EMC VNX Replicator  (1) 
+ EMC VNX VSPHERE INTEGRATION  (1) 
+ exchange  (6) 
+ Exchange 2010  (5) 
+ Exchange 2013 SP1  (1) 
+ Fling Labs  (5) 
+ Folder Redirection  (1) 
+ Golden Image  (1) 
+ Google  (1) 
+ Group Policy  (1) 
+ Healthcare  (1) 
+ Horizon Migration  (1) 
+ HP Moonshot  (2) 
+ HP System Management Homepage  (1) 
+ Humor  (1) 
+ I.T>  (1) 
+ I/O Analyzer  (1) 
+ IOPS  (3) 
+ IOT  (1) 
+ iSCSI  (2) 
+ Jabber  (1) 
+ Java  (1) 
+ KMS  (3) 
+ Licensing  (1) 
+ Linux  (1) 
+ LUN Presented to Windows 2008 R2  (1) 
+ Manaagement  (1) 
+ Management  (1) 
+ Meetings  (1) 
+ Microsoft  (3) 
+ Microsoft Licensing via KMS  (1) 
+ Microsoft NTP  (1) 
+ Microsoft Release date  (1) 
+ Microsoft SQL Database Sserver  (1) 
+ Microsoft Technet Videos  (1) 
+ MICROSOFT'S FREE SECURITY TOOLS  (1) 
+ Mirrored LUN  (1) 
+ Monitoring  (2) 
+ MS Clustering 2008 R2  (1) 
+ MS Clustering Storage 2003  (1) 
+ MS SQL Clustering  (1) 
+ NetBIOS Protocol  (1) 
+ Netscaler  (1) 
+ News  (1) 
+ Nexus 1000V  (1) 
+ Podcasts  (1) 
+ PowerCLI  (1) 
+ Powershell  (1) 
+ Prepare vDisk in Citrix PVS  (1) 
+ Problem Solving  (1) 
+ PVS  (3) 
+ PVS 5.6  (1) 
+ PXE  (1) 
+ RDM to VMKD in vCenter  (1) 
+ Replication  (1) 
+ Root Certificate  (1) 
+ SAN  (5) 
+ SCCM  (1) 
+ sccm 2007  (3) 
+ SCCM 2007 PXE error  (2) 
+ Scripting Utility  (1) 
+ Scripts  (2) 
+ Security  (3) 
+ Setup errors  (1) 
+ Sharing Invitation Request  (1) 
+ Shutdown  (1) 
+ Smart phone accessories  (1) 
+ SP1  (1) 
+ SQL 2008  (1) 
+ SQL 2012  (1) 
+ SQL 2014  (1) 
+ SQL High Availability in VMware  (1) 
+ SQL2014  (1) 
+ Storage I/O  (1) 
+ Storage Processor  (1) 
+ Sysprep  (1) 
+ Technology performance comes with a price tag  (1) 
+ Training  (1) 
+ UCS  (4) 
+ UCS and Citrix  (1) 
+ Uncategorized  (325) 
+ Unix  (1) 
+ Update VM for PVS 7.1  (1) 
+ Upgrade to vSphere 5.5  (1) 
+ Utilities  (3) 
+ V2V Conversion  (1) 
+ vCenter Monitoring  (1) 
+ Veeam  (1) 
+ VM application performance  (1) 
+ vMotion  (1) 
+ VMware  (11) 
+ VMware 6.0  (1) 
+ VMware Certifications  (4) 
+ VMware Flash as Local VMFS Datastore  (1) 
+ VMware Flings  (1) 
+ VMware Labs  (1) 
+ VMWARE OS OPTIMIZATION TOOL  (1) 
+ VMware Podcasts  (1) 
+ VMware Resources and Availability  (1) 
+ VMware Storage High Latency  (1) 
+ VMware Storage Troubleshooting  (1) 
+ VMware Template  (3) 
+ VMware Utiiities  (1) 
+ VMware Utilities  (1) 
+ VMware Utility  (9) 
+ VNX  (20) 
+ VNX5300  (1) 
+ vSphere  (1) 
+ vSphere 5.5.  (1) 
+ vSphere 6  (1) 
+ vSphere 6.0 Virtual Volumes  (1) 
+ Windows 2008 R2 Cleanup  (2) 
+ Windows 2012 R2  (1) 
+ Windows 2012 R2 Storage Space and Pools  (1) 
+ Windows 8.1  (1) 
+ Windows Clustering  (3) 
+ Windows Command Line  (1) 
+ Windows Keyboard Shortcuts  (5) 
+ Windows Printers  (1) 
+ Windows Server  (1) 
+ WINDOWS SERVER 2012 TIPS  (1) 
+ Xenapp 6.0  (4) 
+ XENAPP 7.X ARCHITECTURE AND SIZING  (1) 
+ XenDesktop  (2) 
+ Xenserver  (4) 
+ XenServer Repository  (1) 
+ 
+ 
+ 10.5   AI Technology   automation   BGINFO   BITS   Boot from SAN   certificates   Cisco   Cisco Datacenter   Cisco IronPort S170 Web Security Appliance   Cisco Jabber   Cisco Licensing   Cisco Systems   Cisco UCS   Cisco VPN   Citrix   Citrix 7.6   Citrix Blog   Citrix Command line   Citrix Provisioning Services   Citrix Provisioning Services (Server)   Citrix PVS database migration   Citrix Universal Print Server 7.6   Citrix XenAPP 6.0   Citrix XenApp 6.5   Clustering   CLUSTERING SERVER 2012 R2 WITH ISCS   CONFIGURATION MANAGER CLIENT   Content Redirection   Convert PVS images from XenServer to VMware   Convert VM to VMware   Create 2008 R2 Template   Data Migration   DCPROMO   Deduplication   DFS   DHCP Clustering   Director 7.6   DNS   EMC   EMC LUN Migration   EMC VNX   EMC VNX Best Practices   EMC VNX LUN Migration   EMC VNX Replicator   EMC VNX VSPHERE INTEGRATION   exchange   Exchange 2010   Fling Labs   HP Moonshot   IOPS   iSCSI   KMS   Microsoft   Monitoring   PVS   SAN   sccm 2007   SCCM 2007 PXE error   Scripts   Security   UCS   Uncategorized   Utilities   VMware   VMware Certifications   VMware Template   VMware Utility   VNX   Windows 2008 R2 Cleanup   Windows Clustering   Windows Keyboard Shortcuts   Xenapp 6.0   XenDesktop   Xenserver 
+ Follow Infrastructure Land on WordPress.com 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Email Address: 
+ Follow 
+ Top Posts & Pages 
+ 
+ HOW TO RELEASE OR REMOVE LOCK ON A TABLE SQL SERVER 
+ Convert XenServer XVA to VMDK for VMWare ESXi 5.1 
+ Citrix Storefront: Force “full screen mode” when launching Published Desktop. 
+ EMC VNX – NEW SHUTDOWN OPTIONS 
+ DFS Replication 2012 R2 
+ PROACTIVE COPY TO HOT SPARE ON EMC VNX ARRAY 
+ MIGRATE PRINTERS from 2003 to 2012 R2 
+ Clone XenAPP 6.0 VM 
+ 
+ Create a free website or blog at WordPress.com. 
+ MyXenApp 
+ A blog dedicated to Citrix technology 
+ There's More to the Story: a blog about LIFE, chronic illness, and Mental Health 
+ I’m the loud and relentless "patient" voice and advocate they warned you about. I happen to have type 1 diabetes, ADHD, anxiety, OCD, PCOS, endometriosis, thyroid issues, asthma, allergies, lactose intolerance (and more), but there’s more to story. 
+ DeployWindows 
+ Learn Troubleshoot and Manage Windows 
+ Mike Pfeiffer 
+ DigitalBamboo's Blog 
+ Lync Keeper 
+ C7 Solutions 
+ Brent Caskey 
+ IT-Muscle.com 
+ Troubleshooting Exchange 
+ Exchange Log 
+ Dirk & Brad's Windows Blog 
+ Microsoft Platform How To's, Best Practices, and other Shenanigans from Highly-qualified Windows Dorks. 
+ Ingmar Verheij 
+ About Citrix, Remote Desktop, Performance, Workspace, Monitoring and more... 
+ citrix24.com 
+ RobinHobo.com 
+ Jack's Server blog 
+ Virtxpert 
+ Virtual to the Core 
+ Virtualization blog, the Italian way. 
+ Infrastructure Land 
+ Jase's Place 
+ Practical System Administration 
+ CloudPundit: Massive-Scale Computing 
+ the business of Internet infrastructure, cloud computing, and data centers 
+ Virtual Geek 
+ UCSguru.com 
+ Every Cloud Has a Tin Lining. 
+ Define the Cloud 
+ Chuck's Blog 
+ speakvirtual 
+ See no physical, hear no physical, speak no physical - speakvirtual.com 
+ JeffSaidSo 
+ itbloodpressure.com 
+ What Would Dan Do? 
+ BrianMadden.com 
+ VROOM! Performance Blog 
+ frankdenneman.nl 
+ Ask the Architect 
+ My workspace journey 
+ blog.scottlowe.org 
+ The weblog of an IT pro specializing in virtualization, storage, and servers 
+ akosijesyang 
+ a place under control of his big head 
+ this is... The Neighborhood 
+ the Story within the Story 
+ Yellow Bricks 
+ by Duncan Epping 
+ Cisco UC 
+ TechNet Technology News 
+ 
+ Script Center repository feed - Sorted by: Popularity, Sort order: Descending 
+ Windows for IT Pros 
+ Citrix Blogs 
+ | Exit | the | Fast | Lane | 
+ Uploads by YouTube Help 
+ Uploads by YouTube Help 
+ Uploads by YouTube Help 
+ PowerShell Script Repository 
+ xenappblog 
+ My Virtual Vision 
+ My thoughts on application delivery 
+ Blog – VirtualQube 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

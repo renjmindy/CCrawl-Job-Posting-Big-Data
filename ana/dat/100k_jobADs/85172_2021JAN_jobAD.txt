@@ -1,0 +1,134 @@
+ Workday     Blog  
+ 
+ Categories
+ 
+ Workday News & Culture 
+ Finance 
+ Human Resources 
+ Planning 
+ Technology Innovation 
+ Analytics & Insights 
+ Customers & Community 
+ 
+ 
+ Industries
+ 
+ Financial Services 
+ Government 
+ Healthcare 
+ Higher Education 
+ Hospitality 
+ Media and Entertainment 
+ Professional and Business Services 
+ Retail 
+ Technology 
+ 
+ 
+ More
+ 
+  Podcasts  
+  Videos  
+  Authors  
+ 
+ 
+ 
+ Search for: 
+ The Impact of Automation on Jobs: A Conversation with John Boudreau 
+ 
+ Categories 
+  Workday News & Culture  
+  Finance  
+  Human Resources  
+  Planning  
+  Technology Innovation  
+  Analytics & Insights  
+  Customers & Community  
+ Industries 
+  Financial Services  
+  Government  
+  Healthcare  
+  Higher Education  
+  Hospitality  
+  Media and Entertainment  
+  Professional and Business Services  
+  Retail  
+  Technology  
+ 
+ 
+  Podcasts  
+ 
+ 
+  Videos  
+  Authors  
+ 
+ Technology Innovation 
+ The Impact of Automation on Jobs: A Conversation with John Boudreau 
+ As a CIO, how do you lead in an increasingly automated and "boundaryless" world? John Boudreau, research director for USC’s Center for Effective Organizations, explains why CIOs need to stay aware of social issues such as the impact of automation on the workforce, and gives examples of how companies can be more creative in how they source human expertise to create new innovations. 
+   
+ Workday Staff Writers  December 12, 2017 
+ As a CIO, how do you lead in an increasingly automated and “boundaryless” world? John Boudreau, research director for USC’s Center for Effective Organizations and professor of management and organization at Marshall School of Business, talked to CIOs at Workday Rising about the importance of staying aware of the impact of automation on the workforce. He also discussed how companies can be more creative in how they source human expertise to create new innovations. 
+ Boudreau cited the  example  of a Siemens-Disney partnership for children’s hearing aids. Siemens recognized that it had superb technical talent, but lacked expertise when it came to marketing products for children. So, they asked Disney—undeniably skilled when it comes to telling compelling stories to tots—if they could contract with some of their best and brightest for the duration of the project. 
+ The story underlines one of Boudreau’s most important points: It’s time to rethink your employment model when a problem is outside your employees’ core competencies. What’s more, to rethink work without factoring in the future of automation—which promises to offer expert-level virtual talent-on-demand for some of the hardest scientific and business problems—would be to miss one of the biggest societal and economic paradigm shifts of our lifetimes, noted Boudreau. 
+ Here are highlights from our conversation with Boudreau: 
+ We can’t rethink work without a serious conversation about the effects of automation and how it will impact society and the workforce. How do business leaders grasp something that would have been science fiction only 10 years ago? 
+ Tech leaders and CIOs—and other C-level executives but especially the CHRO—have had to stay aware of social issues even when it wasn’t necessary to weigh in on them. But, automation promises to be so disruptive that you can’t deal with it as a business leader without considering the impacts to society. 
+ Also, because the technology behind automation is changing so quickly, we can’t rely on public policy to guide us. IT leaders are starting to realize that some of the decisions they will have to make might be especially disruptive to workers that they care about. 
+ You’ve talked about this idea of return on improved performance. Can you elaborate on that? 
+ I’ve interviewed a lot of people and have found that most people can segment their jobs pretty well. I’ve also found that they have an itch to tell you that some parts of their jobs pay off differently than other parts. 
+ If part of your job is about not making mistakes, there really isn’t an excellent or innovative way to not make a mistake. But there might be other parts of your job where doing better would pay massive dividends. Those payoff curves—what I call return on improved performance—are very interesting to talk about once people understand them. 
+ Could we create an organization where the trust level, and the systems, give your workers a chance to recommend parts of their job that could be automated because there is no real payoff for improved performance? Humans are going to train software using data that’s been created by people—but think of the opportunity to learn from the tools you work with every day. 
+ 
+ “It’s not a matter of a company rethinking work, it’s a matter of where in your company, and what jobs, merit rethinking.” 
+ 
+ Imagine if disaggregating and deconstructing work was something that people learned through the systems they used at work. As an example, if a business leader is creating a job requisition, the system would alert them, “Before you hire someone, let’s take the work apart and consider other options—let’s make sure that traditional employment is best for your needs.” 
+ How do you know when it’s time for your company to rethink employment? 
+ It’s not a matter of a company rethinking work, it’s a matter of  where  in your company, and what jobs, merit rethinking. A lot of the chief HR officers I worked with on the  CHREATE  project believed the tools they were developing about work trends were going to be used by someone trying to understand where their company fits on a continuum. 
+ What we found, however, is that you need to focus on the work, not the company. Within a company, imagine a heat map, where some jobs are great as-is and will be for a long time and other jobs are ripe for change. Those are the jobs to rethink. 
+ Take this example: Somehow, Visa and Apple, two organizations who are experts at what they do and have a deep well of valuable intellectual property, decided it was worth it to go into a room, share trade secrets, and eventually develop ApplePay together. Visa’s not going to attract the personal device technologists that Apple will attract, ever. Apple is not going to attract the kind of payment system experts that Visa attracts and grows. But, both companies understood the vital business importance of playing a big part in mobile payments. 
+ Once you find these areas that are vital to the business but beyond its core competencies, that’s when you can start to unpack the work involved and explore whether temporarily opening up the boundary between two organizations is the best move. 
+ Posted in:   Technology Innovation 
+ Innovation and Technology   Leadership   Workday Rising 
+ More Reading 
+ 
+   
+ 
+     Customers and Community   Technology Innovation 
+ Workday Podcast: Driving Innovation in Healthcare IT 
+ Sarah Richardson, vice president of IT change leadership at Optum, and Joe Wilson, chief technology officer for North America at Workday, discuss how healthcare IT is evolving, the importance of alignment across business functions, and how communication is key for effective digital transformation. 
+   
+ Workday Staff Writers  December 30, 2020 
+ 
+   
+ 
+ Technology Innovation 
+ Reimagining Productivity to Spur Innovation 
+ We’re thinking of common business challenges in fresh ways to help make our customers more productive, collaborative, and informed. Learn more about our built-in Workday Productivity Suite, consisting of Workday Drive, Worksheets, and Slides for early adopters. 
+   
+ Workday Staff Writers  December 18, 2020 
+ 
+   
+ 
+ Technology Innovation 
+ Lessons from 2020: How Agility and Resilience Have Defined Successful Business Leadership 
+ COVID-19 has accelerated the pace of digital transformation for many businesses. Carolyn Horne, our president, EMEA, looks at how a disruptive 2020 has acted as a catalyst for change—and how business leaders are increasing agility and building resilience within their organisations. 
+   
+ Carolyn Horne  December 17, 2020 
+      Blog  
+ 
+  Twitter  
+  LinkedIn  
+  Facebook  
+  YouTube  
+  Instagram  
+ 
+  Workday is powered by 100% renewable energy.  
+ 
+ 
+ 
+ Email Subscriptions 
+ 
+ 
+ Privacy 
+ Legal 
+ 
+ © 2021 Workday, Inc. 

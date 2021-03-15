@@ -1,0 +1,6 @@
+ Required Qualifications 
+ 5+ years of experience architecting and developing mobile (Android and iOS) solutions 
+ 15 years of engineering, programming, and architecture experience 
+ Strong development experience with React Native, Swift, Objective-C, and Java 
+ Experience building scalable, always-on, multi-region systems 
+ Experience with modern frontend JavaScript frameworks like React and Angular for consumer-facing web and mobile applications desired 

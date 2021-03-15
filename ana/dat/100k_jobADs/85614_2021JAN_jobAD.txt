@@ -1,0 +1,357 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ HTML 
+ 
+ HTML Freelance Jobs From Mexico 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelance  HTML Developers  from  Mexico 
+ ](https://www.workana.com/freelancers/mexico/html) 
+ 2 weeks ago 
+ Real Expert on Wordpress/ Elementor + Seo + Speed improvement + Goo... 
+ Published: 2 weeks ago  Bids: 6 
+ Speed up da and pa 
+ranking in serp features 
+good multi-language implementation 
+meta tags and description and also xml sitemaps 
+minimize the page reload time 
+resize of images used 
+css and js files on the website 
+minimizing the http requests. 
+amount of time your DNS lookup 
+Google Crawling 
+Schema mark-ups 
+Keywords 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Setup software bundle 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Part time 
+ API Integrations  : Other (Other APIs) 
+ Published by:  B. Last reply: 2 days ago  Mexico 
+ USD 50 - 100 
+ Last month 
+ Beautify an existing Django-Bootstrap website 
+ Published: Last month  Deadline: 57 Bids: 40 
+ We are looking for an experienced front end web developer that can help us to improve the look and feel of an existing Restaurant administration system based on django in order to provide a superior UX, the developer will be responsible of the implementation of about 11 html templates, we will give completely technical freedom to define the stack to use in the front end 
+ Category  : IT & Programming 
+ Subcategory  : Web design 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Specific need  : Update a website 
+ Published by:  E. 3. Last reply: Last month  Mexico Payment method:  __Verified 
+ USD 1,000 - 3,000 
+ Last month 
+ Weblow website build and implementation 
+ Published: Last month  Bids: 9 
+ We have the website mockups for mobile and desktop. 
+We need to make them a reality and build them both for mobile and desktop. 
+The calculator needs to also be programmed for sure. 
+ Mobile  https://marvelapp.com/prototype/9655d9h 
+Desktop  https://marvelapp.com/prototype/fcggca7 
+They will have to be built and programmed to load into  kriptos.io 
+Using webflow. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.) 
+ Roles needed  : Developer, Designer 
+ Published by:  L. F. Mexico 
+ USD 500 - 1,000 
+ 3 months ago 
+ Create a Marketplace Platform like Airbnb,Amazon 
+ Published: 3 months ago  Bids: 8 
+ I'm looking a team to help me to create a Marketplace platform, something similar Amazon/ Uber,  inicially for a target market but with the option to scale the project 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Roles needed  : Developer, Design a landing page, Designer 
+ Published by:  M. R. Mexico 
+ USD 500 - 1,000 
+ 3 months ago 
+ Business Directory and listing 
+ Published: 3 months ago  Bids: 4 
+ I want something likes this 
+Example:  https://main.mylistingtheme.com. 
+ But i like this with angular 10, and thw future i want an app IONIC 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Promotion - Application to promote your business/company 
+ Similar apps  : Airbnb 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  E. V. Last reply: 3 months ago  Mexico 
+ USD 500 - 1,000 
+ 3 months ago 
+ Project yabla 
+ Published: 3 months ago  Bids: 10 
+ 
+ 
+ need to have my website capable of receiving sign ups and payments. 
+ 
+ 
+ I need help with some of the advanced configuration in pipedrive, example: chat nos, web form, workflow etc. I have configured all of the pipeline applications however. 
+ 
+ 
+ I need help with setting up a campaign using outtunnel integration with pipeline 
+ 
+ 
+ I need help finding a good source of email addresses in Mexico to use for the campaign. 
+ 
+ 
+ This is urgent and need completed by 12 de October 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Create a new store 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Roles needed  : Project manager, Developer, Design a landing page 
+ Published by:  A. S. Last reply: 3 months ago  Mexico Payment method:  __Verified 
+ Over USD 3,000 
+ 4 months ago 
+ Add Camera overlay in web app 
+ Published: 4 months ago  Bids: 4 
+ Hello, 
+ I am developing a mobile web application. In my app I need to take pictures of ID cards. This picture is sent to an OCR engine for text extraction. 
+The OCR engine needs images with good quality to have a high extraction of the text. 
+ I want the users to take picture of only the card frame with minimum background noise. For that, I need to implement a layout over the phone camera, so the user can take the picture of only the card frame. 
+ Once the picture is taken, it must not be resized or altered in its quality. Layout must not block any camera function like autofocus or zoom in. 
+ This layout must be written in javascript and be easily integrated into my project. 
+ I attached an image for reference of the expected layout. It is just for reference, you can implement another layout as long as it is functional. 
+ Thanks. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  L. S. Last reply: 4 months ago  Mexico 
+ USD 100 - 250 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

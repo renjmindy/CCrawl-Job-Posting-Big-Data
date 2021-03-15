@@ -1,0 +1,67 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Zumo Labs (W20) 
+ We generate synthetic data for computer vision models. 
+ 3D Artist 
+ $70k • 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Zumo Labs 
+ We generate synthetic data: diverse, unbiased, high-quality data, and lots of it. 
+ About the role 
+ Zumo Labs is looking for a talented 3D Artist who is comfortable with code. Your day to day will consist of creating and maintaining 3D scenes used to generate synthetic data. 
+ This is a remote-only position! Zumo Labs is a fully remote company. 
+ Tags: 3D, CG, artist, game developer, Blender, Python 
+ Responsibilities: 
+ 
+ Create and maintain 3D scenes 
+ Source and potentially create 3D assets 
+ Build scripts and tools for asset and scene creation 
+ Establish good standards and practices around asset and scene creation 
+ 
+ Requirements: 
+ 
+ Experience with Blender 
+ Experience with Python, especially Blender’s Python API 
+ Experience in node based setups 
+ Experience with one or more of the following: humanoid rigging, animation, lighting, shading, asset building, modeling and uv mapping 
+ Past add-on development experience 
+ Familiarity with game development concepts and processes 
+ Interest in Machine Learning -Interest in procedural generation and animation 
+ Strong communication and organizational skills 
+ Self-driven and comfortable working with a fully remote team 
+ 
+ Compensation: 
+ 
+ Competitive salary 
+ Medical, dental, and vision coverage 
+ Unlimited vacation 
+ Unlimited coffee... 
+ 
+ Technology 
+ We use tools like Blender to create virtual scenes. These virtual scenes are scripted to collect thousands of labeled images. We train computer vision models on these labeled images and compare their performance on real world test datasets. This feedback is used along with optimizers/tuners at scale to design better virtual scenes. We provide API hooks for customers to download these custom datasets. Customers use our customized datasets to improve the performance of their ML solutions. 
+ Other jobs at Zumo Labs 
+ 3D Artist 
+ fulltime 
+ Remote 
+ Full Stack 
+ $70k 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

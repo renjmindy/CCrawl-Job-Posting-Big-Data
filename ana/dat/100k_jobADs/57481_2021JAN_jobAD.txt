@@ -1,0 +1,179 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Engineer - Access Control & Security 
+ Bloomberg 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Engineer - Access Control & Security 
+ Bloomberg 
+ [](mailto:?subject=Senior%20Software%20Engineer%20%2D%20Access%20Control%20%26%20Security&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14259756/senior-software-engineer-access-control-security/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ The Access Control and Security Engineering team is responsible for ensuring proper security measures and risk management throughout the company. We manage a suite of applications, ranging from data classification, data security/protection, incident management, to general physical security such as access control in company facilities. Our team is seeking a self-motivated senior software engineer with an interest in designing solutions for complex development environments and implementing scalable architectures to improve overall security throughout all levels of management in the organization. 
+ In this role, you will work closely with our business partners to identify critical problems and develop robust solutions with high resilience requirements. The business areas include but are not limited to our privileging management and checking system, employee badge system, visitor management system, crisis/incident management, and emergency mass notification system. If you love owning critical systems and are passionate about using the technology that's right for the job, please apply below! 
+ We 'll trust you to: 
+ 
+ Be the owner of the product - you will work closely with the business to build a strong product 
+ Be a solid team player- you can expect to work with others in a highly, collaborative environment 
+ Be innovative - you'll think outside of the box when coming up with technical solutions that deliver business value 
+ Be passionate- you're passionate about our diverse set of users and products 
+ Be proactive- you'll contribute ideas on everything from UI, product, tech stack and our development flow 
+ 
+ You 'll need to have: 
+ 
+ 4+ years of software engineering experience in a strongly-typed object-oriented language (C#, Java, C++) 
+ 3+ years of experience with a relational SQL database. 
+ Strong analytical and creative problem solving skills 
+ BA, BS, MS, PhD in Computer Science, Engineering, or related technology field 
+ 
+ We 'd love to see: 
+ 
+ Professional experience with Python 
+ Familiar with unit testing, CI/CD and Dev-Ops. 
+ Database schema design, performance optimization skills and query tuning 
+ Experience with web services, XSD/WSDL, SOAP, SOA and micro-services architecture 
+ 
+ Bloomberg is an equal opportunities employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+ 
+ Internal Number: 8463308 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Bloomberg 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Prin, Full-Stack Developer-DevOps 
+ __  New York, New York 
+ 
+ 
+ 
+ 
+ BNY Mellon 
+ __Today 
+ 
+ 
+ Controls Software Engineer 
+ __  Upton, New York 
+ 
+ 
+ Brookhaven National Laboratory 
+ __Today 
+ 
+ 
+ Engineer III, Software Engineer 
+ __  Princeton, New Jersey 
+ 
+ 
+ S&P; Global 
+ __Yesterday 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

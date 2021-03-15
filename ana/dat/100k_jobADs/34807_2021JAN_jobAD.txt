@@ -1,0 +1,159 @@
+Jackson Lewis P.C. 
+ __Menu 
+ 
+ Home 
+ About 
+ Services 
+ Contact 
+ Subscribe 
+ 
+ 
+  Workplace Privacy, Data Management & Security Report  
+ 
+ Home  >  Data Security  > High-end Job Recruitment Site Exposes at least 13.7 million Users with Unprotected Server 
+ High-end Job Recruitment Site Exposes at least 13.7 million Users with Unprotected Server 
+ By  Catherine R. Tucciarello  on May 10, 2019 
+ A security lapse has exposed the data of at least 13.7 million user records of the high-end job recruitment site, Ladders. The company left a cloud-hosted search database exposed without a password. Ladders took the database offline less than an hour after the news website TechCrunch alerted the company after learning about the potential breach from a security researcher, Sanyam Jain. 
+ Each record included names, email addresses, addresses, phone numbers, their employment histories and even exact geolocation based off of individual IP addresses. The user profiles also contain information about the industry they’re seeking a job in and their current compensation in U.S. dollars. 
+ A data leak of information such as social security numbers, phone numbers, credit history or other more sensitive information “would be a gold mine for cyber criminals who would have everything they need to steal identities, file false tax returns, get loans or credit cards,” according to Bob Diachenko, online publisher for TechCrunch. In contrast, most of the information affected in the Ladders’ data leak, while personal and sensitive, does not amount to personally identifiable information which could be used for identity theft. 
+ Additionally, an important distinction should be made between data leaks and data breaches: data leaks are usually incidents in which data was unintentionally made public as the result of an accident or misapplication of a system’s features, however the data has not actively been accessed or exfiltrated; data breaches are incidents involving active threats which compromise a database. 
+ The recent abundance of high-profile data leaks as of late emphasize the need for organizations today to be proactive rather than reactive. The legal landscape of the data privacy world also reflects this approach. For example, the  General Data Protection Regulation  (GDPR) enforces a “Privacy by Design” system, which requires any action a company undertakes that involves processing personal data must be done with data protection and privacy in mind at every step. Similarly the much anticipated  California Consumer Privacy Act , requires a business to “implement and maintain reasonable security procedures and practices appropriate to the nature of the information to protect the personal information”, and similar frameworks are mandates in other states such as Colorado, Massachusetts and Oregon. 
+ This wave of data leaks/breaches, combined with the growing public awareness of data privacy right and concerns, and legislative activity in the area, makes the development of a meaningful data protection program an essential component of business operations. 
+ __ 
+ Tweet   Like   Email   LinkedIn 
+ Posted in:  Data Security,   Identity Theft,   Written Information Security Program  Tags:  CCPA,   cloud,   data breach,   data incident,   data leak,   GDPR,   job recruitment site,   personal information,   the Ladders 
+  JacksonLewis.com 
+ Stay Connected 
+ 
+  __ 
+  __ 
+  __ 
+  __ 
+ 
+ Subscribe to this blog by Email 
+ Your website url 
+ 
+ Topics 
+ 
+ ADA 
+ Artificial Intelligence 
+ Background Checks 
+ Big Data 
+ Biometric Information 
+ BYOD 
+ California Consumer Privacy Act 
+ Consumer Privacy 
+ COPPA 
+ COVID-19 
+ Data Analytics 
+ Data Breach Notification 
+ Data Security 
+ e-Communication 
+ e-Discovery 
+ Employee Benefit Plans 
+ Featured 
+ Financial Services 
+ GDPR 
+ GINA 
+ Health Information Technology 
+ HIPAA 
+ Identity Theft 
+ Incident Response Planning 
+ Information Management 
+ Information Risk 
+ International 
+ Internet of Things (IoT) 
+ Monitoring 
+ New York SHIELD Act 
+ Online Privacy 
+ Photos, Videos and Surveillance 
+ Practice Group News 
+ Social Networking 
+ Telephone Consumer Protection Act 
+ Third Party Service Providers 
+ Trade Secrets 
+ Uncategorized 
+ Workplace Investigations 
+ Workplace Privacy 
+ Written Information Security Program 
+ 
+ Editor 
+ 
+ Jason C. Gavejian 
+ Joseph J. Lazzarotti 
+ 
+ Contributors 
+ 
+ Nicky Jatana 
+ Marlo Johnson Roebuck 
+ Damon W. Silver 
+ Jeffrey M. Schlossberg 
+ Nathan W. Austin 
+ Douglas G.A. Johnston 
+ Michael R. Bertoncini 
+ Christopher E. Hoyme 
+ 
+ Recent Updates 
+ 
+ CDC Expands Guidance on Workplace SARS-CoV-2 Testing to Require Informed Consent 
+ ACC Launches Data Steward Program: An Approach to Assessing Law Firm Data Security 
+ CCPA at the One-Year Mark 
+ Want to Know if Your Employees Received the COVID-19 Vaccine? Some Best Practices to Consider 
+ New York Could Become the Next Hotbed of Class Action Litigation Over Biometric Privacy 
+ 
+ Archives 
+ Archives Select Month January 2021  December 2020  November 2020  October 2020  September 2020  August 2020  July 2020  June 2020  May 2020  April 2020  March 2020  February 2020  January 2020  December 2019  November 2019  October 2019  September 2019  August 2019  July 2019  June 2019  May 2019  April 2019  March 2019  February 2019  January 2019  December 2018  October 2018  September 2018  July 2018  June 2018  May 2018  April 2018  March 2018  February 2018  January 2018  December 2017  November 2017  October 2017  September 2017  August 2017  July 2017  June 2017  May 2017  April 2017  March 2017  February 2017  January 2017  December 2016  November 2016  October 2016  September 2016  August 2016  July 2016  June 2016  May 2016  April 2016  March 2016  February 2016  January 2016  December 2015  November 2015  October 2015  September 2015  August 2015  July 2015  June 2015  May 2015  April 2015  March 2015  February 2015  January 2015  December 2014  November 2014  October 2014  September 2014  August 2014  July 2014  June 2014  May 2014  April 2014  March 2014  February 2014  January 2014  December 2013  November 2013  October 2013  September 2013  August 2013  July 2013  June 2013  May 2013  April 2013  March 2013  February 2013  January 2013  December 2012  November 2012  October 2012  September 2012  August 2012  July 2012  June 2012  May 2012  April 2012  March 2012  February 2012  January 2012  December 2011  November 2011  October 2011  September 2011  August 2011  July 2011  June 2011  May 2011  April 2011  March 2011  February 2011  January 2011  December 2010  November 2010  October 2010  September 2010  August 2010  July 2010  June 2010  May 2010  April 2010  March 2010  February 2010  January 2010  December 2009  November 2009  October 2009 
+ Jackson Lewis Blogs 
+ 
+ Affirmative Action Law Advisor 
+ Benefits Law Advisor 
+ California Workplace Law Blog 
+ Collegiate & Professional Sports Law Blog 
+ COVID-19 Workplace Law Advisor 
+ Data Intelligence Reporter 
+ Disability, Leave & Health Management Blog 
+ Drug & Alcohol Testing Law Advisor 
+ Employment Class & Collective Action Update 
+ EPL Risk Mitigation Blog 
+ Healthcare Workplace Update 
+ Immigration Blog 
+ Labor & Collective Bargaining 
+ Litigators at Work 
+ Non-Compete & Trade Secrets Report 
+ OSHA Law Blog 
+ Pay Equity Advisor Blog 
+ The Corporate Compliance & White Collar Advisor 
+ Wage & Hour Law Update 
+ 
+ Workplace Privacy, Data Management & Security Report 
+ Jackson Lewis P.C. 
+ 
+ 44 South Broadway, 14th floor 
+ White Plains, NY 98144 
+ Phone: (914) 872-8060 
+ Fax: (914) 946-1216 
+ 
+ 
+  __ 
+ 
+ 
+  __ 
+ 
+ 
+  __ 
+ 
+ 
+  __ 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Disclaimer 
+ 
+ 
+ About Jackson Lewis 
+ Jackson Lewis P.C. is a law firm with more than 900 attorneys in major cities nationwide serving clients across a wide range of practices and industries. Having built its reputation on providing premier workplace law representation to management, the firm has grown to include leading practices in the areas of government relations, healthcare and sports law. Named the "Innovative Law Firm of the Year" by the International Legal Technology Association, the firm’s commitment to client service and depth of expertise draws clients to Jackson Lewis for excellent value-driven legal advice. 
+ READ MORE __ 
+ Copyright (C) 2021, Jackson Lewis P.C.. All Rights Reserved. 
+ Strategy, marketing & support by LexBlog 

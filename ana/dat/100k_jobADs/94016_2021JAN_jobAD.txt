@@ -1,0 +1,152 @@
+William Gill 
+ I make stuff. 
+ Menu 
+ Skip to content 
+ 
+ home 
+ about 
+ blog 
+ 
+ not my job 
+ A brief memoir of my days as a barkeeper (and why ex-barkeepers make great employees) 
+ Posted on  August 11, 2012  by  will 
+ Cocktail Group - by  kurmanstaff . 
+ Over the years since I finished high school I've had the immense good fortune to work with a handful of remarkable people who have inspired me deeply; who have mentored me and taught me an incredible amount about myself. 
+ The first of these was not a CEO or a VP; he had, in fact, nothing to do with the technical career I was then aspiring to pursue. He was a barkeeper. 
+ A cocktail maker in fact; "Chief Cocktail Maker", if such a title existed. His name was Ted; he was in his mid fifties then and had worked in the same piano bar in Sydney's inner southern suburbs for something like 20 years. 
+ The cocktail bar was part of a large lounge and bar complex, filled to overflowing with glittering poker machines and rowdy teenagers. In the midst of this sea of lights, noise and excitement, Ted's little cocktail bar was an island of quiet and still. 
+ There were many bartenders working at the club; maybe 40 or 50 at any one time. Ted was feared by some, awed by many; and respected by everyone. Something of a legend in the cocktail business, his skill with a boston shaker and hawthorne strainer was renowned. 
+ Ted had worked in that dimly lit bar behind that lotus-green marble countertop for as long as he could remember, and as far as I know he's still there now, mixing up his classic appleseed martini. And yet I learnt from Ted a few fundamental things that have stayed with me through my career as a Product Manager and helped define who I am and how I work. 
+ How? 
+ Firstly, Ted taught me  the value of understanding the customer experience . When you come into his bar, you are not there just for the drinks. What you pay for is the end-to-end experience. This is something any good restaurateur understands: the quality of the meal itself is only as good as the quality of the experience surrounding it. 
+ The same is true of software products. When you pay for a piece of software (either with cash, or with your attention), it's not just the source code that you obtain - it's an  experience . And the experience doesn't end with the user interface of the product. The sales process itself is part of the product, as is the customer support line, the warranty process, the packaging, and so on. And the user's perception of every part of this experience influences their perception of everything else. 
+ Ted taught me about this experience. The guest's experience starts when they enter the bar and see how the room is lit, how the chairs are organised, what music is playing. It continues when they order their drink: the menu, the options. How a cocktail is prepared and presented to the customer is almost more important than how it tastes; in fact, mixing the ingredients in the right way is the easy part - the true artistry comes with the flair with which it's prepared and the quality of the presentation in the glass. (The artistry involved in creating  new  drinks is quite something else, but that's another story). 
+ This brings me to the next critical skill I learned under Ted's tutorage:  attention to detail . 
+ Red Stools - by  Jack Zalium . 
+ Ted was obsessed with orderliness, and every stool and every table needed to be perfectly positioned and perfectly aligned. He was known for walking through various parts of the club with a ruler, measuring the distance between the chairs and tables, as well as rigorously enforcing other standards of excellence, such as ensuring coasters laid out on the table were positioned so the text would be the correct way up for the seated guests, or that every bottled product served to a customer should be served with the label facing the guest (something actually every bartender knows and continues to do intuitively when placing bottles on the table, long after their bartender career has ended). 
+ Details come in all forms great and small, and the ability to keep your eye on the details while maintaining the end-to-end view is, I believe, one of the chief virtues of incredibly successful people. 
+ To understand the impact of these two things, consider the packaging of an Apple product, whether an iPod, MacBook or an iPad. Every aspect of the package has been considered; the colour, the use of images and type. Bold in its modesty, an Apple product stands out among the clutter through its thoughtful minimalism and stark beauty. 
+ Attention has been paid to every aspect of the end-to-end experience, from what the product looks like on the shelf to the experience of taking the product out of the box and using it for the first time. 
+ In every product I work on I come back to that which I learned during those long evenings in the Skyline cocktail bar. But Ted taught me more than that. 
+ Library Bar - by  ZagatBuzz . 
+ Ted's obsession with orderliness didn't end at the alignment of the chairs and tables. If he saw a dirty table, he'd be the first to grab a rag and a spray bottle and he'd be off to clean it. If an ashtray had ash in it, he'd empty it, or if there as litter on the floor, he'd pick it up. 
+ It didn't bother Ted that he was actually the bar manager. He could have called the cleaners; he could have delegated to a more junior bar staff member.  It didn 't matter that it wasn't his job:  if something needed doing, then he'd do it. 
+ Ted, of course, expected nothing less of the people who worked for him, and the result was a culture where "not-my-job" thinking just didn't exist. 
+ Every team has issues that don't get resolved as quickly as they probably should - old, un-refactored code, unanswered customer support queries, lingering bugs. But when these things start to stack up into ever-increasing piles, I've found that it's often due to an established "not-my-job" attitude, and changing this attitude once it's ingrained in a team is very difficult. 
+ On top of all that, my time in Ted's cocktail bar taught me that hard work is rewarding work. It might sound like a socialist slogan, but when I fell into bed at 4am after making cocktails all evening, I fell asleep exhausted, but fulfilled. I'd had fun at work, I'd learned something (which I did nearly every day), I'd met interesting people and helped serve an experience to our guests that they appreciated and told their friends about. 
+ You might not believe it, but it's truly amazing what you can learn in a bar. 
+ Cheers! 
+ 
+ Click to share on Facebook (Opens in new window) 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on LinkedIn (Opens in new window) 
+ Click to share on Google+ (Opens in new window) 
+ Click to email this to a friend (Opens in new window) 
+ 
+ 
+ Posted in  Life at work ,  Product Management  Tagged  attention to detail ,  bar ,  barkeeper ,  cocktails ,  not my job ,  user experience   1 Comment 
+ The most important career skill for this century: fixing what's broken 
+ Posted on  August 13, 2011  by  will 
+ Companies are a complicated beasts. Reporting lines, structures, process, heirarchy,  politics  … finding your way through the corporate maze and working out how to get things done and ship meaningful work can be tough. 
+ If you look around in any company, I'm sure you'll see things that don't make sense. You'll see ineffective managers and inefficient processes. You'll see failures and you'll see waste. 
+ When you look attentively and deliberately at the world around you, you will see so many things that are broken or could be improved. The more you look, the better you will become at seeing. You'll undoubtedly see more things than you'll ever have the time to work on. 
+ Your first responsibility is to look. Your second responsibility is to act. If you see something broken, try to fix it - even if it's  not your job . Avoid ignoring the problem or building a complex workaround - try to fix the problem at it's root. 
+ If you really can't fix the problem, then accept it as a constraint and move on. Leverage the constraint; use it to help you ship meaningful work. 
+ In a world where software continues to automate generic factory-like work the most valuable skill becomes the ability to solve new and evolving problems… So if you have a choice between staring at your email inbox and fixing something that's broken, what do you do? 
+ 
+ Click to share on Facebook (Opens in new window) 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on LinkedIn (Opens in new window) 
+ Click to share on Google+ (Opens in new window) 
+ Click to email this to a friend (Opens in new window) 
+ 
+ 
+ Posted in  Career ,  Life at work  Tagged  career skill ,  not my job ,  ship   1 Comment 
+ Search for: 
+ Archives 
+ 
+ October 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ August 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ July 2016 
+ May 2016 
+ March 2016 
+ February 2016 
+ December 2014 
+ July 2014 
+ April 2014 
+ February 2014 
+ January 2014 
+ November 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ January 2012 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ 
+ Meta 
+ 
+ Log in 
+ 
+ William Gill 
+ Sitemap 
+ 
+ 
+ Home 
+ About 
+ Blog 
+ 
+ Connect 
+ 
+ 
+ LinkedIn 
+ Facebook 
+ Twitter 
+ Instagram 
+ 
+ 
+ © Copyright 2018 William Gill. Site design and development by William Gill.  |   Powered by WordPress . 
+ Send to Email Address Your Name Your Email Address Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 

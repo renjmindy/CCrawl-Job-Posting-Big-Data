@@ -1,0 +1,6 @@
+ Qualifications 
+ 3-5+ years of experience with Python 
+ 3+ years of experience training various NLP and NLU models with modern model architectures 
+ 2+ years of experience with Deep Learning frameworks like PyTorch and TensorFlow 
+ 2+ years of experience training distributed deep learning models on GPUs 
+ Technology 

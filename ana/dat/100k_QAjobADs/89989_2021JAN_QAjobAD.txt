@@ -1,0 +1,6 @@
+ Core Qualifications 
+ 5+ years professional development experience 
+ HTML5/CSS3 (SCSS) 
+ Mobile-first frontend development 
+ Javascript/ES6 
+ Vue.js/React/Node.js 

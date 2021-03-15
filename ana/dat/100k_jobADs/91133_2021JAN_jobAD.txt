@@ -1,0 +1,198 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Remote Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ RemoteWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Software Engineer - Kafka 
+ [ 
+ New Relic 
+ ](/companies/new-relic) 
+ 
+ Remote 
+ 01 November, 2020 
+ Apply 
+ More jobs from New Relic About New Relic 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Go 
+ AWS 
+ Java 
+ Python 
+ Spark 
+ Kakfa 
+ kafka streams 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Parental leave 
+ Flexible parent working 
+ Incredibly competitive medical, dental, vision 
+ 12 week parental leave 
+ 
+ 5+ years of hands-on in Java, Python, Go, or C. Exp. Data Streaming exp with Kafka or Spark required! 
+ Role overview 
+ Your Opportunity 
+ The Kafka Platform team is seeking an experienced DevOps-focused senior software engineer to join our team. We maintain, grow, scale, and automate New Relic’s Kafka and Zookeeper infrastructure. If you are confident and experienced in working with large distributed data systems, have a particular interest in effective patterns and practices for automating their care and maintenance activities, and have a growth mindset, let chat! This diverse team is currently comprised of a mix of both Software Engineers and Site Reliability Engineers, so if you’re interested in contributing and growing at that intersection, this would be a great role for you! We are also migrating to the cloud, starting with AWS/MSK and eventually supporting a multi-cloud environment. Any experience in cloud operations or development with systems at scale would be a bonus. 
+ New Relic's engineering culture emphasizes team autonomy, which means that each team chooses how they do their work and has a say in which projects they work on. It also means that our teams are responsible for their own operational tooling and on-call rotation. We strive to reduce dependencies between teams so that we can work at an efficient velocity without blocking others. 
+ What You’ll Do 
+ 
+ Use your experience with application development to create distributed large scale services that will be used by our client teams. 
+ Engage with architects, team leads, and team members to introduce new patterns for using our shared Kafka infrastructure in ways that increase the efficiency and reliability of our shared platform. 
+ Use your DevOps savvy to operate a large scale Kafka cluster that is the foundation of New Relic's data pipeline. 
+ Maintain and improve the internal Kafka client libraries used by multiple teams at New Relic to add better monitoring and resiliency features. 
+ Contribute to our automation framework that provision repeatable infrastructure and clusters, helping us scale to handle rapid growth and expand into the public cloud. 
+ 
+ Your Qualifications 
+ Must-have: 
+ 
+ 5+years of hands-on experience and proficiency in one or more of these languages: Java, Python, Go, or C. 
+ Experience with streaming in general (e.g. spark streaming) and Kafka in particular. 
+ Development and support of Kafka integrations, including topics, producers, consumers, and streaming applications (Bonus). 
+ Experience with a cloud computing platform such as AWS, Google Cloud, or Microsoft Azure. 
+ Experience with and passion for the operational automation of distributed systems, such as Apache Kafka or Apache ZooKeeper. 
+ Experience writing distributed applications with high availability. 
+ Proven communication skills, both written and oral. 
+ Experience working in Linux systems. 
+ 
+ Nice-to-have: 
+ 
+ Experience writing a Kubernetes operator. 
+ Experience with Configuration and fine-tuning of Kafka for optimal production performance. 
+ Familiarity with AWS MSK. 
+ Familiarity with the Linux shell and a scripting language such as Python or Ruby. 
+ Familiarity with Container Linux, AWS (EC2, S3, etc), and the tools and patterns used to handle repeatable infrastructure at scale (Kubernetes, Terraform, Ansible). 
+ 
+ About Us 
+ New Relic (NYSE: NEWR) is a cloud-based platform that gives developers, engineers, operations, and management a clear view of what’s happening in today’s complex software environments. So they can find and fix problems faster, and deliver delightful experiences for their customers. That's why the world’s best engineering teams rely on New Relic to visualize, analyze, and troubleshoot their software. It’s the simplest, most powerful cloud-based observability platform, built to create more perfect software. All from one place. 
+ Founded in 2008, we’re a global company passionate about building an inclusive culture where all employees feel a deep sense of belonging, where every ‘Relic’ can bring their whole self to work and feel supported and empowered to thrive. We’re consistently recognized as a distinguished employer and are committed to building world-class products and an award-winning culture. For more information, visit newrelic.com. 
+ Our Hiring Process 
+ New Relic takes seriously our stewardship of the data of our thousands of customers worldwide. In compliance with applicable law, all persons hired will be required to verify identity and eligibility to work and to complete employment eligibility verification. 
+ We will consider qualified applicants with arrest and conviction records based on individual circumstances and in accordance with applicable law including, but not limited to, the San Francisco Fair Chance Ordinance. https://sfgov.org/olse/sites/default/files/Document/FCO%20Poster%20Set%20All%20Languages%2010%2001%2018.pdf 
+ Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. New Relic does not accept unsolicited headhunter and agency resumes, and will not pay fees to any third-party agency or company that does not have a signed agreement with New Relic. 
+ New Relic is an equal opportunity employer. We eagerly seek a diverse applicant pool and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities (or disability), age, sexual orientation, veteran status, or any other characteristic protected by law. 
+ 
+ [ 
+ New Relic 
+ ](/companies/new-relic) 
+ 
+ 250+ 
+ 
+ New Relic is a San Francisco, California-based technology company which develops cloud-based software to help website and application owners track the performances of their services. New Relic One is the most powerful cloud-based observability platform built to help customers create more perfect software. Engineering teams around the world rely on New Relic One to improve uptime and performance, achieve greater scale and efficiency, and accelerate time to market. It includes everything organizations need to achieve observability: Telemetry Data Platform to collect, visualize, and alert on all types of application and infrastructure data at petabyte scale. It is designed to be the single source of truth for all operational data. Full-Stack Observability to easily analyze and troubleshoot the entire software stack across APM, infrastructure, logs, and digital customer experience in one connected experience. Applied Intelligence to detect, understand, and resolve incidents faster. 
+ Technology Public AWS Backend DevOps Distributed Systems Parental Leave Flexible Parent Working 
+ View 1 job 
+ Engineers who find a new job through Remote Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from New Relic About New Relic 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Go 
+ AWS 
+ Java 
+ Python 
+ Spark 
+ Kakfa 
+ kafka streams 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Parental leave 
+ Flexible parent working 
+ Incredibly competitive medical, dental, vision 
+ 12 week parental leave 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Remote Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Remote Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Data Engineer CompetitiveFlipside CryptoUnited States of America 
+ Flipside provides business intelligence for blockchain organizations 
+ Remote 
+ go data engineering python scala spark 
+ More Info Apply 
+ Experienced Software Engineer$90K - 190K + EquityTrueAccordUnited States of America 
+ An Experienced Software Engineer would be a Senior, Staff, or Principal Engineer. 
+ Remote 
+ go aws docker distributed systems java python react scala scalability typescript/javascript 
+ More Info Apply 
+ Golang DeveloperBTC20K - 65KSkycoinChina 
+ We are looking for experienced Golang developers! 
+ Remote 
+ go golang python 
+ More Info Apply 
+ Senior Software Engineer - Kafka 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Golang jobs Python jobs NodeJS jobs JavaScript jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Remote articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

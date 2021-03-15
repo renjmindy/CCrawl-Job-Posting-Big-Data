@@ -1,0 +1,138 @@
+Menu 
+ James Goerke 
+ 
+ Skip to content 
+ 
+ Home 
+ Engagements 
+ Rucksack 
+ Resume 
+ 
+ Category Archives: Salesforce Career 
+     James Goerke  1:18 pm  on  May 21, 2018 
+ Hiring your next Salesforce Rockstar - Part 1 of 3 
+ Two points of housekeeping before I kick this blog post off. 
+ 
+ Sorry, it has been so long since I've last blogged. I have several excuses lined up and none of them really measure up to my personal commitment to this blog and that's on me to fix. 
+ The below blog is my personal experience over the last few years of hiring Salesforce professionals and certainly isn't an exhaustive list. Use this as one of several points of research. 
+ 
+ I hate the term Rockstar. Its overused and I'm part of the problem. Rockstar implies that you are the best in your area of expertise, among the entire Salesforce ecosystem. I mean, come on, if everyone is a Rockstar then no one is. By definition, yes, there is A Rockstar out there. There has to be someone that is, indeed, "the best". But you don't need that person and here's why: 
+ 
+ They are super expensive and would only produce marginally better products than, let's say, the Rockstar Understudy 
+ Note the title of this blog is "Your Rockstar" not "A Rockstar" - Talent should be tailored as much as possible to your specific company and situation. 
+ 
+ So, James, you ask with smitten how do I find "My Rockstar" then? 
+ First, we must talk about Defining Your Need. I've made several mistakes over the years which have honed my skill set in defining what type of talent is needed. 
+ Most Frequent Task 
+ In this category, you define what you'll be doing most frequently and then building a list of tasks that are likely to be the day-to-day tasks done most of the time. Then, match these tasks with skill sets needed. Are you writing and/or reviewing Apex code? Then you need development skill sets. Reviewing business requirements and generating customer stories? You need more business Analyst skills then. Here's an actual example exercise I went through for one of our technical roles. This helped me realize that I didn't need a Salesforce Admin skill set but rather more of a Developer/Business Analyst skill set. 
+ Soft Skills 
+ I can't say enough about soft skills. I'll expand this out to ancillary skills as well. Soft skills are skills that are hard to define with things like coding tests and certifications. Being able to work well within teams and communicate clearly to customers and internal resources are almost always needed. But there are several soft skills which you know you need and should always test. Often times these are honed from professional experience. 
+ I'll expand on ancillary skill sets for a moment. You may be an in a situation where you can't find everything you want in candidates or are priced out of that kind of candidates. In that situation, you can look at ancillary skill sets to round out your skill set requirements. For example, if you need Apex/Visualforce experience but found a good candidate with Salesforce Admin experience and some JavaScript and HTML experience but no Apex/Visualforce experience. You can take a risk and this candidate and leverage Trailhead to help them learn the Salesforce side of things. If candidates have coding experience in similar languages or even Admin experience in similar CRM's then learning the Salesforce side of things is exponentially easier. 
+ Gut Check 
+ There's really no replacement for your gut feeling on candidates. Will they fit in with your company culture? Are they committed to your companies mission? Are they looking for the type of role you're looking for or are they settling? These are important questions you need to ask yourself and be honest about your responses. In the end, its better for you and better for the candidate to be open and honest up front. 
+     James Goerke  9:23 am  on  September 3, 2016 
+ How I interview for Salesforce Roles 
+ I originally wrote this as a guest blog post last month for  CRM Marketplace . 
+ Salesforce professionals with a wide range of technical and soft skills can be difficult to find. Often times these are the only things that we look at when hiring an employee or contractor resource. But technical acumen and soft skills aren’t the only thing I look at when hiring a Salesforce professional. That’s certainly not to say those attributes aren’t important, because they are. They just simply won’t be the focus of this post. 
+Whether you are hiring a Consultant, Administrator, Developer, Business Analyst, etc. you can’t just look at Technical ability and soft skills. There are three areas that I also evaluate during the hiring process that are outside of technical ability which I feel gives me a better sense of whether the hire will be successful or not. 
+ Cultural Fit 
+Cultural fit questions are key to a good hire. I work at a startup so things change quickly and that’s part of our culture. When interviewing a candidate, I need to make sure that they prove to me that they adapt to change quickly and thrive in an unstructured environment. Maybe your organization is very structured and some people don’t work well in those environments. If you only restrict yourself to skill based questions you miss out on seeing if this person will “fit” into your organization. 
+Cultural Fit isn’t just your responsibility but it’s also the candidates. Your candidate should be asking you questions about what it’s like to work at your organization and what the culture looks like. If they don’t maybe it’s not that important to them. But do you really want someone on your team that doesn’t care about your organizations culture? 
+ Life-Long Learning 
+I always ask candidates when was the last time they learned something new within the Salesforce ecosystem. Especially for the more senior candidates. As technology continues to expand those that don’t take it upon themselves to self-improve will be left behind. I want people on my team that value life-long learning and understand that you’re never done learning. 
+Sure, you might have gotten your Salesforce Developer certification back in 2008 but do you know anything about Wave Analytics? What’s the last Trailhead badge you earned? Have you attended any Salesforce training webinars recently? 
+In the Salesforce ecosystem we have so many opportunities to learn and continue to learn that we all should be taking advantage of those resources. The level of commitment to self-improvement a candidate shows is a strong indicator of future learning potential within your organization. 
+ Creativity and Critical Thinking 
+Creativity is sometimes hard to gauge as is Critical Thinking. I generally approach this area of evaluation by asking a scenario based question and ask the candidate to walk me through their thought process. I generally hire Salesforce Technical resources that will be troubleshooting technical issues on the Force.com platform. To test this specific position, I give the candidate a scenario where a problem is presented and there are many potential root causes. This allows me to see not only what the candidate knows technically but also how they evaluate the problem and think through it. 
+ For example, I often present candidates with this sort of question: My Visualforce page I just created isn’t visible on my community… Walk me through how you would find the root cause of this issue. 
+This is a good scenario because the question is specific and there are multiple sources for an answer as well as multiple ways to get to those answers. 
+ As you hire Salesforce resources consider adding in questions that evaluate Cultural Fit, Lifelong Learning, and Creativity/Critical Thinking instead of just technical skills. If you do you will likely have a better hiring outcome because you are doing a much more well-rounded evaluation. 
+     James Goerke  8:00 am  on  April 22, 2016 
+ Jump-Start a Salesforce Career – Network, Network, Network! – Part 2 of 5 #ForceFriday 
+ No seriously, network! I mentioned in my  last post  that I'd share my experience on how I started my Salesforce Career. 
+ I started out at Salesforce Premier Support without any Salesforce experience. That's certainly not the norm. In fact, I hadn't even heard of Salesforce before I applied. I had a good friend of mine from my college fraternity who was working for Salesforce at the time. He referred me and the rest is history. But you have to ask yourself, why did he refer me? Why me over someone else? The reason… Simply put, he  knew  me. 
+ My fraternity is just one part of my network. In this instance, it happen to pay dividends. I'm no longer with Salesforce and now with a Salesforce Partner. How did I get this new role? My Network! People want to help other People but the reality is that they like helping people they know. 
+ There are several ways that someone just starting out in the Salesforce World can grow their network. 
+ 
+ Participate in a User Group Meeting -  https://success.salesforce.com/usergroups 
+ 
+ I make it a point to attend my area's User Group and the Non-Profit User Group every month. There's always something interesting to learn at the session and there's time to network with other Salesforce Professionals. But just don't attend - Participate! Offer to give a session on a topic you know. Offer to coordinate a partner to come and give a talk. Being seen as a leader in your group, even if you aren't the user group leader, gets you recognized. 
+ 
+ Be Active on the Salesforce Communities -  https://success.salesforce.com/_ui/core/chatter/ui/ChatterPage 
+ 
+ Salesforce does an excellent job of collaborating people together. Join all of the major chatter groups and the job groups. Be a good community member and the good karma will come your way. 
+ 
+ Join a Salesforce Meetup -  http://www.meetup.com/topics/salesforce/ 
+ 
+ Meetups are even better for networking, in my opinion, because they tend to be smaller than a User Group Meeting. 
+ 
+ Be Active on Social Media 
+ 
+ LinkedIn, Twitter, Facebook, etc. We all have them but are you using them to their full affect. But using your Social Media accounts for something other than wasting hours of your life scrolling down can help you jump-start your career. I recommend joining and being active in the LinkedIn Salesforce Groups and following Salesforce community leaders, MVP's, and Salesforce evangelists on Twitter ( http://www.runconsultants.com/wp-content/uploads/2015/05/Top-50-Salesforce-Influencers-on-Twitter_Run-Consultants1.pdf ). 
+ 
+ Start Blogging or write what you know in a guest blog 
+ 
+ Blogging is easy and essentially cost free unless you count the time you put into it. However, I've found that whatever time I put into blogging I get equal benefits in learning and networking. If you don't want to commit to a full blog then reach out to the blogs that you follow and offer to make a guest post. 
+ 
+ Leverage your Non-Salesforce Networks 
+ 
+ Just because a network is not Salesforce related doesn't mean its not useful. Make time to attend and participate the networking events, speakings, and other learning events for these networking groups. As I mentioned, it was a non-Salesforce related group that connected me to the person that recommended me at Salesforce. It works! 
+     James Goerke  12:00 pm  on  April 15, 2016 
+ Jump-Start a Salesforce Career - Get Some Experience - Part 1 of 5 #ForceFriday 
+ I recently read a post/rant on the Salesforce Community from a frustrated job seeker who was looking for a career change and had chosen to pursue Salesforce. That got me thinking about my own Salesforce career and how that got started. My story is the exception to the rule because I was hired on at Salesforce without any Salesforce experience. The one thing I had going for me was I had a connection with a current employee that worked at Salesforce and recommended me. I'll talk more about having personal connections in the Salesforce world in a future post. 
+ I wanted to put together some detailed posts for those who are looking to transition their careers to Salesforce or are just starting out in the Salesforce world. 
+ My first Pro Tip: Get some experience! 
+ That's a catch 22 since you need to be hired somewhere to get experience but you need experience to get hired! False! 
+ There are several ways to get some Salesforce experience without getting hired somewhere. Here are just a few: 
+ 
+ Volunteer your Time:
+ 
+ http://www.salesforce.org/volunteers/probono/ 
+ https://www.taprootplus.org/nonprofits 
+ https://www.catchafire.org/ 
+ https://linkedinforgood.linkedin.com/ 
+ https://www.taprootfoundation.org/about-probono/global-pro-bono 
+ http://thecommunitycorps.org/ 
+ 
+ 
+ Freelance your time
+ 
+ http://www.guru.com/d/freelancers/q/salesforce/ 
+ https://www.freelancer.com/work/salesforce-projects/1/ 
+ https://www.upwork.com/ 
+ 
+ 
+ Identify Companies you WANT to work for and volunteer your time… Give them a Trial of "You" 
+ 
+ Volunteering your time gives you the ability to do some good in the world as most of the companies looking for volunteers are Non-Profits. This also has the added benefit of getting you some referenceable experience that you can speak to in an interview. There is no replacement for real-world project experience. None. Forget Trailhead, certifications, training courses, online tutorials, community involvement, etc. - (Note: Those are important) - None of those compare to having actual experience in the market place. 
+ Freelance marketplaces provide you with a way to get real world experience on small and short term projects. But these are the perfect type of project for someone just starting out because they teach you engagement skills, sales and customer acquisition skills, scoping, project delivery, and how to deliver customer success. These have the added benefit of also giving you referenceable projects that you can put on your resume. Who knows, it might even turn into a full time consulting gig! 
+ Identify companies you want to work for and volunteer your services Pro Bono as a trial/internship. Be honest and upfront about your experience level and intentions. I have the utmost respect for someone that could say: 
+ "I want to work for you as an X. I don't currently meet the requirements but I'm fixing that. I'm willing to work for you pro-bono to prove I've got what it takes." 
+ This might not be a popular option or even an option at all due to individual circumstances. But if you can do it its certainly an option that differentiates you from all of the other resumes that hit hiring managers every day. 
+ Intellectual Curiosities 
+ 
+ #ForceFriday 
+ Admin Tricks 
+ Backpack 
+ Formula Fun 
+ Frameworks 
+ Mentoring 
+ Salesforce Career 
+ Sandbox 
+ SFDC Checklists 
+ Uncategorized 
+ 
+ The Socials 
+ 
+ View jamesgoerke's profile on Twitter 
+ View jamesgoerke's profile on LinkedIn 
+ 
+ Search The Site! 
+ Search 
+ Website Built with WordPress.com . 
+ Add your thoughts here... (optional) Post to 
+ Cancel
+*[1:18 pm  on  May 21, 2018]: 2018-05-21T13:18:52Z
+*[9:23 am  on  September 3, 2016]: 2016-09-03T09:23:16Z
+*[8:00 am  on  April 22, 2016]: 2016-04-22T08:00:01Z
+*[12:00 pm  on  April 15, 2016]: 2016-04-15T12:00:28Z 

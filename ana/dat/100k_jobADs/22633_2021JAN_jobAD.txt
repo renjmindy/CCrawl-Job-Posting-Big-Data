@@ -1,0 +1,88 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ BlueCargo (S18) 
+ BlueCargo builds software for trucking companies to optimize their dispatch of container from the port terminal to first warehouses. 
+ Senior Python Engineers 
+ $100k - $140k • 
+ Location 
+ Los Angeles 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About BlueCargo 
+ BlueCargo provides real-time information for trucking companies that move cargo from marine ports to first warehouses. We are building a platform that will be a one-stop shop for truckers to dispatch, schedule their workload and move containers efficiently 
+ Our startup was founded by two female entrepreneurs, graduated from Y Combinator (2018 batch), and has raised a 4 million seed round. We are at the beginning of an exciting growth phase where we have already developed product-market fit, a working platform, and hundreds of daily active users. We are looking for a Senior Software Engineer to grow the team and deliver a product to bring us to the next level. 
+ If working to bring technology to the logistics industry sounds exciting, then we’d like to connect with you! We are looking for a highly experienced professional who has created several full stack web applications and has experience with AWS. 
+ About the role 
+ Skills:  Python, Data Analytics, PostgreSQL, Amazon Web Services (AWS) 
+ BLUECARGO 
+ 
+ BlueCargo provides real-time information for trucking companies that move cargo from marine ports to first warehouses. We are building a platform that will be a one-stop shop for truckers to dispatch, schedule their workload and move containers efficiently. 
+ The startup was founded by two female entrepreneurs, graduated from Y Combinator (2018 batch), and has raised a 4 million seed round. We are at the beginning of an exciting growth phase where we have already developed  product-market fit, a working platform, and hundreds of daily active users . We are looking for a Senior Software Engineer to  grow the team and deliver a product  to participate in bringing the company to the next level. 
+ If working to bring technology to the logistics industry sounds exciting, then we’d like to connect with you! We are looking for an  experienced python engineer with a startup mindset . 
+ Our Current Tech 
+ 
+ Technical stack  :  Python  /  Django  (Backend),  React/JS  (Frontend),  AWS  services (Lambda, RDS, S3),  PostgreSQL  (Database),  Node-Red ,  CircleCI  and other continuous integration tools 
+ Technical team  : 4 (objective: x2 in one year) 
+ Location  : Los Angeles 
+ 
+ OPPORTUNITY OVERVIEW 
+ 
+ Mission/Responsibilities 
+ You will be building the platform  technology and infrastructure that drives BlueCargo’s product delivery . It means: 
+ 
+ Collaborate with different players internally: product managers, designers, data scientists and other software engineers 
+ Translate product requirements and technical designs into well-engineered, low-defect, robust code 
+ Research new technologies and methodologies that can improve the architecture, its constituent software components, user experience, and development process 
+ Perform extensive unit testing, system testing and regression testing 
+ 
+ Qualifications 
+ In addition to the following technical skills, we are looking for  PROBLEM SOLVERS  with an entrepreneurial mindset. 
+ 
+ Interested and/or experience in logistics and/or supply chain 
+ 3+ years of python engineering experience, developing and deploying software in a short cycle using Agile methodologies 
+ Experienced in data sourcing technologies (external APIs, web-scraping, EDI files, etc.) and building data management platforms 
+ Interested in building systems based on complex data extraction and creating a user friendly experience out of it 
+ Autonomous in your work, proactive while working with cross-functional team to build creative solutions 
+ Advantaged if interested in data science and machine learning 
+ Advantaged if full-stack capabilities 
+ 
+ Classification 
+ 
+ Salary  : 100k - 140k (depending on seniority level) 
+ Perks  : Medical benefits + unlimited PTO 
+ Fun perks  : flexible and international environment 
+ Support/Community  : Enjoy being a member of a Y Combinator company! 
+ Contact  :  [email protected] ,  [email protected] 
+ 
+ Technology 
+ Our current tech: 
+ Stack: Python/Django (Backend), React/JS (Frontend), AWS services (Lambda, RDS, S3), PostgreSQL (Database), Node-Red, CircleCI and other continuous integration tools Team: 3 engineers 
+ Other jobs at BlueCargo 
+ Lead Full-Stack Engineer 
+ fulltime 
+ Los Angeles 
+ Full Stack 
+ $140k - $170k 
+ 6+ years 
+ Senior Python Engineers 
+ fulltime 
+ Los Angeles 
+ Backend 
+ $100k - $140k 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

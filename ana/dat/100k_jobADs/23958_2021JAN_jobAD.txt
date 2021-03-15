@@ -1,0 +1,135 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Web Developer LOCALPERMANENT 
+ Job Description 
+ We are currently looking to add a talented web developer to our local team. The most important thing for us is to produce great work that makes a real difference and we’d like you to help. 
+ The new team member would be actively involved in the development of new projects as well as helping to maintain existing websites and applications, that range from small CMS brochure sites to extensive and bespoke website applications. 
+ The majority of our projects are built with Craft CMS and often employ Vue.js and JQuery on the front-end. 
+ Extensive knowledge of Craft CMS is not a must, but a willingness to learn and grow your skill set is. 
+ What you can expect 
+ You will be working closely with the rest of the team to craft and deliver complete digital solutions for our clients; right from the initial discovery and scoping phases, to the final delivery and launch of the project. 
+ Your input will be incredibly valuable during the design phases of a project and you’ll be expected to work closely with the design team to ensure that a project transitions smoothly from final design to fully functioning website. 
+ Each week you will be: 
+ 
+ 
+ building new and working with existing Craft CMS websites 
+ 
+ 
+ adding additional functionality to existing websites and applications 
+ 
+ 
+ coding up designs of responsive websites 
+ 
+ 
+ deploying code to multiple servers 
+ 
+ 
+ and occasionally: 
+ 
+ helping to develop internal processes and tools 
+ 
+ We'd expect that you: 
+ 
+ 
+ enjoy working collaboratively 
+ 
+ 
+ have great conversation skills 
+ 
+ 
+ are self-motivated and passionate about your work 
+ 
+ 
+ have a good understanding of HTML5, CSS3, PHP and MySQL 
+ 
+ 
+ have experience with task-runners like Gulp and Grunt 
+ 
+ 
+ write clean, maintainable code that is standards compliant 
+ 
+ 
+ have experience building complex responsive websites 
+ 
+ 
+ have a sense of humour 
+ 
+ 
+ It would be even better if you: 
+ 
+ 
+ are comfortable working with Git 
+ 
+ 
+ can code in plain JavaScript, without the use of JQuery or similar library 
+ 
+ 
+ have used Vue.js 
+ 
+ 
+ have an understanding of fundamental design patterns 
+ 
+ 
+ are comfortable writing tests for your code 
+ 
+ 
+ have some Systems Administration experience 
+ 
+ 
+ have experience working with Laravel 
+ 
+ 
+ How to Apply 
+ Send an email to  [email protected]  with details of your experience, salary requirements, examples of your work and any relevant links (Github profile etc.). We’ll take a look and be in touch to discuss the next steps. 
+ We’re looking forward to hearing from you! 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Club Studio Ltd 
+ 
+ __ 
+ 
+ Location:  Altrincham, Manchester, UK 
+ 
+ __ 
+ 
+ Phone Number:  [+44 (0)161 883 1219](+44 (0)161 883 1219) 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://clubstudio.co.uk 
+ __  Posted October 18, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

@@ -1,0 +1,102 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Instacart (S12) 
+ Same-day grocery delivery and pickup service. 
+ Product Manager 
+ 
+ Location 
+ San Francisco, CA 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Instacart 
+ Instacart is the North American leader in online grocery and one of the fastest-growing companies in e-commerce. Instacart’s same-day delivery and pickup services bring fresh groceries and everyday essentials to busy people and families across the U.S. and Canada in as fast as an hour. Since its founding in 2012, Instacart has become an essential service for millions of families, while also serving as an immediate, flexible earnings opportunity for hundreds of thousands of shoppers across North America. The company partners with more than 350 retailers and delivers from more than 25,000 stores across more than 5,500 cities in North America. Today, Instacart is accessible to more than 85% of households in the U.S. and more than 70% of households in Canada. 
+ About the role 
+ OVERVIEW 
+ Every year, people across the world spend nearly one trillion dollars on groceries. Groceries are a vital part of our lives, but shopping for them hasn’t fundamentally changed since the first supermarket opened 100 years ago. 
+ Food is sustenance, but it’s also much more than that. Food can be a part of a daily ritual or a special moment that resonates with people on a meaningful and emotional level. It can be a much-needed break in a long day, a taste that brings back memories, a creative experiment, a shared meal with loved ones, or even comfort during a hard time. Whether it’s a special occasion or an everyday occurrence, it should always be easy for people to get the ingredients they need. 
+ The Instacart Product Team is dedicated to making grocery shopping effortless for everyone. By helping take care of the shopping, we help people get great food and give them back time so they can do what matters most to them. We’re finding solutions to large-scale challenges that will forever change the way people feed themselves and their loved ones. 
+ We're building a team of incredibly talented product leaders to define and execute on our vision of being the world leader in online grocery. You'll work among star engineers, designers, data scientists, and operators in a fast-growing environment. The role demands a mix of principled thinking, well-honed product sense, and technical depth. 
+ ABOUT THE JOB 
+ Lead a cross-functional team of engineering, design, research, data science, operations, marketing, local markets, and more. You'll drive product definition, strategy, and long term vision for initiatives across audiences of our 4-sided marketplace, connecting customers, shoppers, retailers, and advertisers Identify the biggest problems to solve. Drive new feature development from start to finish Run user research, usability studies, data-driven experiments to inform product direction Build, measure, and iterate rapidly Consistently integrate behavior data and customer feedback into key product decisions Communicate product plans, benefits and results to all audiences - within teams, company, to users, press etc. ABOUT YOU 
+ 4+ years in Product Management at a technology company, ideally working on growth problems Experience building cross-platform experiences (native, mobile web, desktop) Experience delivering impactful products and features that are heavily informed by data as well as user research Demonstrated ability to solve complex problems by creating customer-first solutions and thinking from first principles Strong data drive problem solving skills Passion for building products that unlock value for people who are not power users Experience influencing the Executive Team members on key strategy and cross-functional initiatives ABOUT INSTACART 
+ Founded in 2012, Instacart is the leader in North American online groceries and one of the fastest-growing companies in e-commerce. Our same-day delivery and pickup services bring everyday essentials and fresh groceries to consumers in the U.S. and Canada in as fast as an hour. We have partnered with more than 300 beloved national, regional and local retailers to deliver from more than 20,000 stores across more than 5,500 cities in North America. 
+ We believe that great people are the ingredients for success. We like to think that we are like a potluck—everyone brings something new, different and flavorful to the table. We believe that just as meals are best shared together, success is best shared together. Our mix of thoughtful, inventive and neighborly employees work together to deliver our common goal: to make grocery shopping effortless for everyone. If this resonates with you, then Instacart just might be the place for you. Welcome home. 
+ Technology 
+ From a technology point of view, our platform is complex, rapidly scaling and processing millions of transactions in real-time all of the time. Our technology coupled with operational expertise enables Instacart to deliver fresh groceries in as little as an hour. We use a modern stack including Ruby/Rails, Python, React and many more technologies. 
+ Other jobs at Instacart 
+ Senior Software Engineer 
+ fulltime 
+ San francisco, CA / Remote 
+ Full Stack 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 1+ years 
+ Senior Software Engineer, Customers Back End 
+ fulltime 
+ San francisco, CA 
+ Backend 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 3+ years 
+ Product Manager 
+ fulltime 
+ San Francisco, CA 
+ 3+ years 
+ Senior iOS Engineer 
+ fulltime 
+ San francisco, CA 
+ iOS 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 3+ years 
+ Senior Data Scientist 
+ fulltime 
+ San francisco, CA 
+ Data Science 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 1+ years 
+ Senior Software Engineer, Infrastructure 
+ fulltime 
+ San francisco, CA 
+ Backend 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 3+ years 
+ Android Engineer 
+ fulltime 
+ San francisco, CA 
+ Android 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 3+ years 
+ Senior Software Engineer, Customers, Front End 
+ fulltime 
+ San francisco, CA 
+ Frontend 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 3+ years 
+ Senior Android Engineer 
+ fulltime 
+ San francisco, CA / Remote 
+ Android 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

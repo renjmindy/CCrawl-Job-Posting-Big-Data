@@ -1,0 +1,71 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Replenishment Analyst 
+ Cronos Group Inc. 
+ __Toronto, ON 
+ Apply Now 
+ Cronos Group is an innovative global cannabinoid company with international production and distribution across five continents. Cronos Group is committed to building disruptive intellectual property by advancing cannabis research, technology and product development. With a passion to responsibly elevate the consumer experience, Cronos Group is building an iconic brand portfolio. Cronos Group’s portfolio includes PEACE NATURALS™, a global health and wellness platform, two adult-use brands, COVE™ and Spinach™, and two hemp-derived CBD brands, Lord Jones™ and Happy Dance™ 
+ At Cronos Group, we hire talented people who thrive on solving difficult problems and give them the opportunity to hone new skills and approaches. If you want to play a part in shaping an innovative industry and help build a historically significant company, we want to meet you. 
+ About the Role: 
+If you love finding and telling the story in the numbers, thrive in complex and ambiguous situations, and possess a strong knowledge in data analysis, then this is the job for you! As the Replenishment Analyst you will be transforming large data sets into insightful reporting, and driving increased sales and inventory positions by designing quantitatively-rooted initiatives and processes. You will act as the sales lead on pricing, creating models and analyzing trends from market. You will also work closely with the internal stakeholders within the organization and retailers, communicating key sales data and metrics to support business decisions. The ideal candidate is energetic, collaborative, and forward- thinking. 
+ This position is based out of Toronto, ON. 
+ What you’ll be doing: 
+Support the Manager of Sales Intelligence by providing and equipping the sales team in the retail/recreational channel with best in class insights and analytical support 
+Develop in depth and precise data reporting, KPIs and review processes to contribute actionable and quantified insights of retail performance 
+Help to drive, via quantitatively derived proposals, the optimal replenishment of retail level partners on a reoccurring basis 
+Provide insights supporting sales planning, including volume forecasting and perspectives on pricing, distribution, and promotional activity and their corresponding sales elasticity 
+Build and maintain pricing models, and act as sales lead in cross-functional pricing initiatives, advancing market positioning and profitability 
+Observe application of pricing changes in the sales channel, communicating needs for corrective actions where necessary 
+Support the sales intelligence function by designing, executing, and maintaining general data workflows (Alteryx modules, excel models/reports). 
+Support sales intelligence processes by loading, validating, and transforming data into varied formats 
+ Manage the following weekly and monthly analysis reports:  SKU Velocity Analysis, Competitive Activity Analysis, Replenishment Analysis, Customer Strike Rate Analysis, Distribution Analysis, Territory Analysis (Regional, Provincial, Territory), CRM Analysis/Support (Salesforce preferred), Pricing Analysis 
+Additional ad hoc duties as required 
+ You’ll need to have: 
+Bachelor’s degree required 
+Three years experience in an analytical role supporting a sales organization, CPG experience preferable 
+Able to crunch large and inconsistent data sources into a cohesive data landscape 
+Grasp a strategic level view and develop reoccurring granular processes that track and advise relevant performance 
+Manage multiple priorities and expectations with exceptional time management and collaboration 
+Establish trusted channels of communication, internally and externally, to drive the interests of the organization 
+Experience with any of these tools is a good technical foundation for the role: SQL, Alteryx, Excel Pivot, Excel Power Query, VBA, Salesforce, Tableau, Looker, MATLAB, SPSS, Qlik Sense. Knowledge using Alteryx and advanced Excel skills preferred 
+ Experience with the following relevant tools and practices: 
+ Data intelligence processes:  sourcing, cleaning, mapping, combining, structuring, aggregating, analyzing, reviewing, and presenting data 
+Formulas and Expressions (“if, then, else”, “group by”, imputation, Boolean logic, “replace”, etc.) 
+Table Joins, Unions (left and right joins, dealing with null values) 
+Summary Metrics (time-period comparisons and totals, averages, rankings, quartiles) 
+Visualizations (KPI and graph selection, coloring, clarity) 
+ Cronos Group supports a diverse and inclusive work environment and we will provide reasonable accommodation for qualified individuals in the job application process. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

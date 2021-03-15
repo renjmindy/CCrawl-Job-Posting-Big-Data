@@ -1,0 +1,173 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ React Developer, Marketing 
+ at ScreenCloud Limited 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ Description 
+ Life at ScreenCloud 
+ At ScreenCloud we see the potential where others don't. 
+ Digital screens could one day be as big a part of our lives as the web is today. Our simple digital signage software lifts information out of the places it lives and transforms it into beautiful, screen ready content. Working on everyday consumer hardware, ending clunky digital signage that could only be done by IT. We empower business owners, HR managers and technical teams to create digital signage that changes the way they sell, think and work. It's quite the adventure. 
+ We're very proud of our product, but it is our people, and shared values, which will take us where other companies can't go. We have hubs in London, Belfast, Bangkok and Los Angeles, alongside people working remotely all over the world. This means finding lots of ways to come together, like our annual company retreat, monthly All Hands and weekly WIPs. We treat people like adults as standard, which means freedom to work how, and where, you feel best, and an equal responsibility to do great work. 
+ Coming from different cultural backgrounds (20 nationalities!), we've learned to cherish each other's interests. Some of us enjoy the joy of daily running and looking after our dogs, whilst some of us live for the thrill of boxing, rock climbing or swimming with sharks. 
+ Role 
+ The Marketing Developer will be responsible for turning Marketing ideas into beautiful reality. Working together with the variety of teams, you will have a keen eye for detail, as well as a passion for turning ideas on paper into real life products. Although this will be a stand alone role, reporting into our VP of Marketing based out of LA, you will have an entire office of exceptional engineers to support and work alongside! 
+ Responsibilities 
+ 
+ Take ownership of our flagship site; screencloud.com. Primarily built on Next.js (a React framework for super-fast sites), we also use many 3rd party services to help build a dynamic marketing site that lives up to modern web expectations. 
+ Develop key landing pages as needed, potentially using low-code tools like Instagpage. 
+ Design experiments, then monitor and track their results. What converts better? What gets users the content they're interested in faster? 
+ Input and help on other digital comms, such as newsletters and social media campaigns. 
+ Research and suggest best practices to try next. Our marketing and sales efforts are always evolving, and as a marketing-focused developer, you're in the position to push for the latest and greatest. 
+ Must be able to collaborate with the other members of the marketing team, and be able to communicate effectively to push vital amendments to live 
+ 
+ Requirements 
+ 
+ Strong experience developing pages with HTML & CSS from scratch, to work on a wide range of devices. 
+ Solid experience with a modern JavaScript app framework, ideally React. 
+ Strong experience working with the Adobe Creative Suite 
+ Experience working with Marketing tools such as Google Tag Manager 
+ Investigative nature, with a proven ability trouble shooting, and identifying issues 
+ Familiarity working with GitHub 
+ Able to communicate with team members in other offices, as well as work independently 
+ 
+ Bonus skills/experiences: 
+ 
+ Experience with CRM and marketing automation tools like Salesforce and HubSpot desirable 
+ Experience with webpage performance monitoring tools and techniques. 
+ An interest in modern marketing and conversion optimization. You'll enjoy this role much more if you love seeing the impact of your work reflected back in concrete numbers and analytics. 
+ A hacker's mentality. There are times to invest heavier in our site for the long-term, and others where timing is everything. A creative and open mind to find the options and tools to enable both will serve you well 
+ 
+ Company Values 
+ TRUSTING 
+ We only employ bright, engaged, ambitious grown-ups with a talent for what they do. The upshot of this? We trust our team's integrity at all times, which means no "clocking in and clocking out". We encourage home-working and don't limit ourselves to our employees who are living within a commutable distance from one of our hubs. 
+ TRANSPARENCY 
+ We pride ourselves on this value, whether it's sharing our numbers (warts and all) with our employees or giving open and transparent feedback, we aren't in the market for hidden agendas and elephants in rooms 
+ UNCONVENTIONAL 
+ We want to disrupt the world of digital signage and how physical spaces connect with technology and communicate. We don't conform to what has already been done and we question the status quo - there can be a better way! 
+ BRAVE 
+ In taking on new challenges that might feel uncomfortable, in our thinking and in having open and honest conversations with each other and our customers. 
+ And all of these should be done with utmost   INTEGRITY . We are honest, consistent and fair in everything we do. 
+ So let's have a chat! 
+ If it's not the job you're looking for, at least it will be an enriching experience, we promise. 
+ -------- 
+ Check our founders' podcast for a sneak peek into our culture. 
+ https://www.insidescreencloud.com/ 
+ Benefits 
+ 
+ Unlimited Annual Leave 
+ Remote-friendly working 
+ Flexible working hours 
+ Pension Scheme 
+ Working from Home fund 
+ Cycle to work scheme 
+ Retail discounts 
+ Enhanced Parental Leave 
+ Personal Development fund 
+ Westfield Health Cash Plan 
+ Free Annual Flu Vaccine 
+ 
+ Published at 13 Jan 2021 - Expires on 13 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

@@ -1,0 +1,178 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Python Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ PythonWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Scala Engineer 
+ [ 
+ AvantStay 
+ ](/companies/avantstay) 
+ 
+ Remote 
+ 12 August, 2020 
+ Apply 
+ More jobs from AvantStay About AvantStay 
+ Salary 
+ $50K - 100K 
+ Contract type 
+ Contract 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ Cats 
+ Functional Programming 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 
+ High Impact Scala Backend Engineer 
+ Role overview 
+ **  Who are we: ** 
+ AvantStay is a short-term, attainable luxury property management company looking to provide world class experiential accommodations for group travelers. We create experiences for people who are looking to vacation away from the monotony of a hotel room and towards a much more personal home getaway. We give our customers the opportunity to enjoy idealized, one-of-a-kind vacations while we take care of the details. 
+ Currently, we are looking for a brilliant developer who has the capacity and desire to join the engineering organization on a path to fast product cycles and exciting launches. Ideal candidates will be experienced and passionate with building scalable back-end technologies. 
+ **  When you join AvantStay... ** 
+ You’ll be doing work that matters alongside other talented people, transforming the way people travel and vacation. Your place within both the colossal traveling and real estate industry will leave you with a wealth of opportunities to feel both challenged to innovate and rewarded for your efforts. Of course, we will offer you pay and benefits, but we’re about more than that. AvantStay is a place where you can craft your own path to greatness. Whether you think in code, words, pictures or numbers, find your future at AvantStay. 
+ 
+ Work closely with all teams and fellow developers to improve the existing features; 👨‍💻 
+ Integrate our backend with third party tools;⚙️ 
+ 
+ **  Skills/Tech requirements: ** 
+ 
+ Functional programming experience, preferably with  Scala  and  cats ; 
+ Ability to write clean, well structured, well tested and reusable code; 
+ Proactive 📞 communication; 
+ Support members of a project in delivering backend services with high availability, low latency and scalability; 
+ Architect, design, develop, deploy and operate services that serve AvantStay customers and internal teams; 
+ Experience with good engineering practices; 
+ Challenge yourself to keep growing as a senior developer; 
+ Contribute to the vision and long-term strategy in your domain of expertise; 
+ 
+ **  Responsibilities: ** 
+ 
+ Gather requirements from our teams to create software that drives value to our guests and the company as a whole; 🤖 
+ Align priorities with business goals; 
+ Coordinate with management and the  frontend  team on developing and maintaining our software. 
+ 
+ **  Equal Employment Opportunity: ** 
+ We're proud to be an equal opportunity employer- and celebrate our employees' differences,including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better. 
+ 
+ [ 
+ AvantStay 
+ ](/companies/avantstay) 
+ 
+ 
+ 50-249 
+ 
+ 
+ West Hollywood, CA, US 
+ 
+ 
+ Travel with the people you love. Group travel has never been this easy - check out our homes and locations across the country. Collectively, we’ve traveled to over 80 countries and know what matters most - creating an authentic experience. We believe the best travel accommodations are all about delivering an exceptional, unique stay and far too often property managers and hosts fall short on delivering a first-class short-term rental experience. AvantStay is here to change that by setting the new standard for short-term rental experiences. Our team is incredibly passionate about real estate, technology and the arts. We came together to build a revolutionary hospitality brand through the power of virtual tech automation in the short-term rental market. With offices in San Francisco and Los Angeles, we currently operate in 7 markets across the United States. Our proprietary tech algorithm and data experts identify partnership opportunities and automate operations through our virtual management system to maximize efficiencies and improve the overall guest experience. 
+ Remote Working Flexible Working Travel Series A Cats Code Quality Code Reviews Monix 
+ View 2 jobs 
+ Engineers who find a new job through Python Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from AvantStay About AvantStay 
+ Salary 
+ $50K - 100K 
+ Contract type 
+ Contract 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ Cats 
+ Functional Programming 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Scala & Scala.js – Senior Full Stack Engineer$110K - 160K + EquityGoodcoverUnited States of America 
+ Join a small but strong team. Remote, flexible work culture. Interesting challenges all across the stack. 
+ Remote 
+ akka cats functional programming scala event sourcing scala.js 
+ More Info Apply 
+ Scala Backend Developer$80K - 150K + EquityNarrativeUnited States of America 
+ Join an experienced team that is shaping the future of data. 
+ Remote 
+ aws haskell scala 
+ More Info Apply 
+ Scala DeveloperCompetitiveTalenthouseUnited Kingdom 
+ Full-time, permanent Scala Developer 
+ Remote 
+ sql aws heroku java react ruby on rails scala 
+ More Info Apply 
+ Scala Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Python jobs Django jobs Ansible jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Python articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

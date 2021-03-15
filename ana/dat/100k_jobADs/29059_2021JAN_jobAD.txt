@@ -1,0 +1,107 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ FullStack Developer - Craft CMS LOCALPERMANENT 
+ Job Description 
+ We’re going through an exciting growth period and looking for a Full-Stack Engineer with exceptional technical skills and experience of working with Craft to have a lasting impact on one of the UK's leading fintech startups. 
+ Who we are: 
+ Crowdcube is the world's leading equity crowdfunding platform. We enable everyday investors to invest alongside Europe’s venture capitalists and professional investors in start-up, early stage and growth businesses; in doing so we're enabling entrepreneurs to raise funds for their businesses. Watch  this  if you don't believe us! 
+ We have experienced year on year growth since 2011 with over 750,000 registered investors, and over 800 British businesses successfully funded on the platform, including Brewdog, Monzo, Eden Project and many more. 
+ What we are doing: 
+ Our aim as a company is to continue building our product and expand our share of the equity fundraising market. Working closely with the Product/Marketing Teams, we want to enhance the online customer journey by optimising the website and creating an overall more personalised experience. This will involve building out new functionality on the site using Craft CMS, testing for improvements, creating new email templates among others. 
+ Our engineers work in small product focused feature teams where collaboration is key. Our platform is primarily PHP/Nginx/MySQL but we are advocates of using the right tools for the job. We also run React/TypeScript and other technologies depending on the problem we want to solve. 
+ We hire for good judgement and trust you to contribute to discussions and decisions that determine what is being built and how. 
+ Key responsibilities: 
+ 
+ Optimising existing websites and building new functionality 
+ Creating intuitive and user-friendly interfaces 
+ Helping identify improvements to existing builds 
+ Spotting opportunities to use tech to help drive traffic 
+ Using APIs and reporting to help marketing teams 
+ Providing support and fixing bugs on existing projects 
+ Keeping up to date with the latest standards and implementing when beneficial 
+ Understanding of basic DevOps and being the point of contact for the Craft subdomain, and also for deployments 
+ 
+ The ideal candidate will have some or all of: 
+ 
+ Solid experience using the Craft platform or similar template based CMS 
+ Solid understanding of javascript and proficiency in react or other modern framework 
+ Experience with PHP 
+ Proficiency with HTML/CSS 
+ A keen eye for testing, performance and tidy APIs would be great 
+ Understanding of AWS infrastructure and managing high availability server deployments 
+ 
+ You will also be: 
+ 
+ An excellent communicator, who actively listens and shows empathy, with an ability to influence both technical and non-technical audiences 
+ Open-minded and comfortable questioning the status quo, coming up with new solutions and considerate of others' 
+ Enthusiastic and positive, with a bias to action 
+ A team player! We're all in this together so be supportive and understanding 
+ 
+ What we are offering: 
+ We like to nurture talent and ensure members of our team develop and hone their skills through training, conferences, subscriptions to online courses, and participation in hackathons. We’re passionate and hard-working, and we take care of our team: 
+ 
+ £40,000-£50,000 DOE 
+ We provide our engineers with their choice of an engineer-spec Mac/Windows/Linux laptop. 
+ We also offer 25 days holiday each year 
+ Pension Scheme 4% matched 
+ Private Medical Scheme with AXA 
+ Life Insurance Scheme 
+ Cycle to Work Scheme 
+ Company perks such as juices, fruit and of course desk beers (Or cider) 
+ Company trips and activities such as pilates, football, cricket, BBQs, camping and more... 
+ 
+ Our interview process typically consists of an initial phone screen, a take-home code task, and a half-day on-site interview. There aren’t any trick questions and the coding task has been set based on projects the team has actually worked on. 
+ Our policy is to employ the best qualified people and provide equal opportunity for the advancement of employees including promotion and training and not to discriminate against any person because of gender, race, ethnicity, age, sexual orientation, religion, belief or disability. 
+ How to Apply 
+ Please use this  link  to apply 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Crowdcube 
+ 
+ __ 
+ 
+ Location:  Cardiff, UK 
+ 
+ __ 
+ 
+ Phone Number:   00441392241319 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://www.crowdcube.com/ 
+ __  Posted November 4, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

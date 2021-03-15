@@ -1,0 +1,6 @@
+ Qualifications 
+ Experience developing production quality software in  Python ,  Rust ,  Go ,  C++ , or other high-performance languages 
+ Experience building and scaling applications on public cloud infrastructure ( Docker ,  AWS/GCP ,  Kubernetes ,  Mesos , etc..) 
+ Experience with distributed computation frameworks and related technologies such as  Kubeflow ,  Spark ,  TensorFlow ,  Flink , etc. 
+ Bonus Points 
+ Smart contract development experience (e.g.  Solidity ) 

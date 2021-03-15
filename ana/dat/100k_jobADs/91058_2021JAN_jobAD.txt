@@ -1,0 +1,191 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Software Delivery Lead / Development Manager 
+ [ 
+ PitPat 
+ ](/companies/pitpat) 
+ Cambridge, United Kingdom 
+ 07 September, 2020 
+ Apply 
+ More jobs from PitPat About PitPat 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ C# 
+ SCRUM 
+ Agile 
+ C# dotnet 
+ 
+ Benefits & perks 
+ 
+ Pension 
+ Dog friendly 
+ Free coffee 
+ Regular social events 
+ Free food 
+ Dogs / cats very welcome 
+ 
+ Run the processes that enable our software development and delivery. 
+ Role overview 
+ We’re PitPat and we’re connecting dogs to the internet. Yes really, we’re not barking mad. We’re using the latest technology to help owners and pet brands keep dogs happy and healthy. And they love it! Thousands of dog owners use our app every day and we’re growing all the time. 
+ Our iOS/Android app and cloud are developed in-house by a team of 6-8 developers using a rich variety of languages, technologies and frameworks including C#, .NET, Xamarin, and Azure. We depend on an effective process and strong teamwork, both inside our dev team, and with other company functions. 
+ We’re now seeking candidates for the role of  Software Delivery Lead  , who will run the processes that enable our software development, and who will support the dev team and its members to communicate, coordinate and collaborate as effectively as possible. 
+ This is not primarily a software development role. Instead the  Software Delivery Lead  will be successful if as a result of their actions the other members of the dev team can remain fully-focussed on the core technical aspects of their individual roles, with as many as possible of the surrounding leadership, coordination, reporting and other process-oriented tasks lifted from their shoulders. 
+ The  Software Delivery Lead  will: 
+ 
+ Own the overall software development life-cycle within the company, acting as the primary process leader and coordinator for the software development team. 
+ Liaise frequently with key stakeholders including the CEO, CTO, and Product Director, and with technical and non-technical peers in QA, customer support, operations and elsewhere. 
+ Take detailed input from the Product Director and work closely with the CTO and dev team to create, fastidiously maintain and relentlessly execute specific software development plans (ranging from quarter-by-quarter, through sprint-by-sprint, down to JIRA ticket level), resulting in the on-time delivery of committed results. 
+ Schedule, lead and personally execute daily, weekly and sprintly processes and ceremonies including stand-ups, workshops, reviews, ad-hoc meetings and other activities as needed. 
+ Encourage, chase and facilitate the on-time completion of necessary tasks across the team, challenging and supporting team members as appropriate. 
+ Transparently record and report on weekly progress, distilling the details into a big picture, updating forecasts, flagging key risks early, assessing their risk level, and personally contributing to their mitigation. 
+ Facilitate and encourage on-going team and process development/improvement, nurturing a professional approach and a strong work ethic. 
+ 
+ Basic qualifications 
+ We need applicants to have: 
+ 
+ A strong technical software development background, with 7+ years experience, ideally with relevant technologies and applications. 
+ Practical experience of an agile software lifecycle, continuous integration and release management in a commercial setting, with experience across one or more successful projects, actively contributing to their effective planning, execution and delivery. 
+ An obsession with delivering results urgently and on a regular clock tick, being impatient for required outcomes, yet polite, respectful and resourceful in finding the best way forward in any situation. 
+ Natural communication skills and an enjoyment of working closely with people, with an ability to facilitate collaboration between team members and with stakeholders, to minimise the risks of misunderstanding, and to maintain constant alignment of expectations. 
+ Strong analytical skills to support rapid problem diagnosis and resolution. 
+ 
+ Preferred qualifications 
+ It would be of further benefit if applicants also had: 
+ 
+ Previous experience in a team leadership role and/or a track record of successful scrum mastering including potentially as a Certified Scrum Master and/or an Agile practitioner. 
+ A deep understanding of team-based software development as a discipline, including its challenges, pitfalls and the keys to success. 
+ A strong desire to serve as much as to lead, getting satisfaction from enabling the achievements of others and of the team as a whole. 
+ The enthusiasm to champion proven good practice, yet to be pragmatic and flexible enough to break the rules when necessary to unblock progress. 
+ A desire to support and mentor junior team members in developing their professional software development skills. 
+ A keen appreciation of the commercial and practical factors affecting a consumer-facing product company. 
+ Most of all, an active enjoyment of multitasking, unblocking others, and (from time-to-time) a willingness to save the day by doing whatever it takes to get the job done: testing, debugging, reviewing, coding, and anything else that comes up. 
+ 
+ Benefits include 
+ 
+ Competitive experience-based salary, 25 days holiday and company pension scheme. 
+ Pawsome team-mates with great professional and social life / events. 
+ City location with easy train access. 
+ Dog-friendly office with well-stocked kitchen, garden, BBQ etc. 
+ 
+ 
+ [ 
+ PitPat 
+ ](/companies/pitpat) 
+ 
+ 10-49 
+ 
+ We’re PitPat and we’re connecting dogs to the internet. Yes really, we’re not barking mad. We’re using the latest technology to help owners and pet brands keep dogs happy and healthy. And they love it! Thousands of dog owners use our app every day and we’re growing all the time. Our iOS/Android app and cloud are developed in-house by a team of 6-8 developers using a rich variety of languages, technologies and frameworks including C#, .NET, Xamarin, and Azure. We depend on an effective process and strong teamwork, both inside our dev team, and with other company functions. 
+ C# Wellness Series A Azure xamarin C# dotnet Pension  Dog Friendly 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from PitPat About PitPat 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ C# 
+ SCRUM 
+ Agile 
+ C# dotnet 
+ 
+ Benefits & perks 
+ 
+ Pension 
+ Dog friendly 
+ Free coffee 
+ Regular social events 
+ Free food 
+ Dogs / cats very welcome 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Lead Software EngineerCompetitiveMoneticsUnited States of America 
+ Lead Software Engineer with Huge Growth Opportunity 
+ Remote 
+ .net scrum agile 
+ More Info Apply 
+ Functional Software Engineer - Remote in South AmericaCompetitiveBrick AbodeBrazil 
+ Functional programmers with a desire to find an environment to grow exponentially. 
+ Remote 
+ c# f# 
+ More Info Apply 
+ Clojure DeveloperCompetitiveGootenUnited States of America 
+ Can be remote from the US, Canada, or South America! 
+ Remote 
+ angular algorithms c# clojure multi-threading react 
+ More Info Apply 
+ Software Delivery Lead / Development Manager 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

@@ -1,0 +1,341 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ MySQL 
+ 
+ MySQL Freelance Jobs From Mexico 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelance  MySQL Administrators  from  Mexico 
+ ](https://www.workana.com/freelancers/mexico/mysql) 
+ Yesterday 
+ Plugin Wp Hide / Appear Some Fields Before / After Paiement. 
+ Published: Yesterday  Bids: 1 
+ Good day, 
+ plugin wp hide / appear some fields before / after paiement. 
+ Looking for a strong technician wordpress webmaster to develop a tailor-made plugin for Wordpress / Woocommerce. 
+ Your plugin will : 
+ 1. hide some product fields before paiement, when product is published. 
+2. Send all fields details to product's buyer right after paiement is validated. 
+ Your plugin MUST : 
+ - Resist Wordpress / PHP 8 and Later 'core' updates. 
+- Use a language well known around the world. 
+ Hope your proposition. 
+ Regards, 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  O. G. Last reply: 21 hours ago  Mexico Payment method:  __Verified 
+ USD 100 - 250 
+ 2 weeks ago 
+ Real Expert on Wordpress/ Elementor + Seo + Speed improvement + Goo... 
+ Published: 2 weeks ago  Bids: 6 
+ Speed up da and pa 
+ranking in serp features 
+good multi-language implementation 
+meta tags and description and also xml sitemaps 
+minimize the page reload time 
+resize of images used 
+css and js files on the website 
+minimizing the http requests. 
+amount of time your DNS lookup 
+Google Crawling 
+Schema mark-ups 
+Keywords 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Setup software bundle 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Part time 
+ API Integrations  : Other (Other APIs) 
+ Published by:  B. Last reply: 2 days ago  Mexico 
+ USD 50 - 100 
+ 2 weeks ago 
+ Web3js for Launchpad of Erc1440, Erc721, and others 
+ Published: 2 weeks ago  Bids: 1 
+ Hi there, we are looking for some help with a project 
+ Can you make a DeFi project, can you do a platform to connect to web3js/metamask to list, issue, laucnhpad IDO ? 
+ It connect the Metamask (web3js) and can do launchpad, dex, listing, sto, ido. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Published by:  B. Last reply: 4 days ago  Mexico 
+ USD 250 - 500 
+ 23 days ago 
+ Import csv to Db 
+ Published: 23 days ago  Bids: 6 
+ I have a task where  I need to import from csv file into DB using nodejs and MySQL. 
+ My problem is how I handle the way that JS works because there is an async/await stuff that I dont get it properly. The thing is that I have to read the csv and do a select and this is going to return me an id after that do an insert but becasue of the flow of js work i cannot do it. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  T. Mexico 
+ Less than USD 50 
+ Last month 
+ Product Manager 
+ Published: Last month  Bids: 3 
+ You will collaborate with a Fintech company that helps other companies to digitize all their processes. 
+What are we looking for? 
+ We are looking for someone who has the capability to fully understand user needs and come up with the best innovative solution to cover those needs and more. 
+ Portuguese and Spanish required 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs), Payment Processor (Paypal, Stripe, etc.) 
+ Published by:  K. V. Mexico 
+ USD 1,000 - 3,000 
+ Last month 
+ Weblow website build and implementation 
+ Published: Last month  Bids: 9 
+ We have the website mockups for mobile and desktop. 
+We need to make them a reality and build them both for mobile and desktop. 
+The calculator needs to also be programmed for sure. 
+ Mobile  https://marvelapp.com/prototype/9655d9h 
+Desktop  https://marvelapp.com/prototype/fcggca7 
+They will have to be built and programmed to load into  kriptos.io 
+Using webflow. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.) 
+ Roles needed  : Developer, Designer 
+ Published by:  L. F. Mexico 
+ USD 500 - 1,000 
+ Last month 
+ Php Programmer Needed 
+ Published: Last month  Bids: 29 
+ Looking for an experienced PHP Symfony programmer to lead the update of our legacy e-commerce system. Should have extensive experience with e-commerce applications. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.), Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  R. Last reply: 2 weeks ago  Mexico Payment method:  __Verified 
+ Over USD 3,000 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

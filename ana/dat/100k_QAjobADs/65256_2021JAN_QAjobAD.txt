@@ -1,0 +1,6 @@
+ Qualifications 
+ Capable and excited about navigating and contributing to the complete product and project lifecycle from inception. 
+ 5 years or more experience in front-end web development, ideally professionally or a combination of professional and personal experience via open-source projects – please share your portfolio of projects (open-source, hobby, professional projects) and, in case there are projects that are close-sourced, provide a written description. 
+ Previous contributions to personal or third party open-source projects. 
+ Deep understanding or previous professional or personal experience with React and Redux. 
+ Proficiency in modern web or web-based systems development and deployment tools, such as JavaScript, Nuxt.js, Vue.js, TALL stack, TailwindCSS, etc. 

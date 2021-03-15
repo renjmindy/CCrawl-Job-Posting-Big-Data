@@ -1,0 +1,12 @@
+ Qualifications 
+ Prior experience in functional programming in Haskell, Idris, Agda, or Coq 
+ Prior experience in formal verification or formalisation of a language 
+ Self-motivated & self-organised 
+ Interested in open-source technology and research applied to DLT 
+ Bonus Qualifications 
+ Bonus Qualifications 
+ Prior academic work in type theory, PLT, or compiler design 
+ Prior academic work in cryptography, economics, or game theory 
+ Misc . 
+ Competitive compensation in a negotiable mix of salary and equity. 
+ Remote or local (Zürich/Zug, Berlin). When remote, preferred if mostly located within (+/- 7 hours) Central European time zones. Ideally someone who enjoys nature and hiking. 

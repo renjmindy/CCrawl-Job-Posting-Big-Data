@@ -1,0 +1,241 @@
+Loading.... 
+ LOGIN     SIGN UP 
+ 
+ 
+ Hire Experts 
+ Find Work 
+ How it Works 
+ About Us 
+ Blog 
+ 
+ 
+ SIGN UP! 
+ Before you proceed to sign up, 
+Please select one of the following! 
+ I want to Hire 
+ 
+ --OR-- 
+ I want to Work as an 
+ 
+ 
+ 
+ Home 
+ » 
+ Freelance Jobs 
+ » 
+ jQuery 
+ 
+ Project Results 
+ By Job Category 
+ 
+ All  (549) 
+ IT & Programming  (205) 
+ Graphic Design & Multimedia  (73) 
+ Writing, Content & Translation  (137) 
+ Data Entry & Admin  (45) 
+ Sales & Marketing  (44) 
+ Customer Service  (6) 
+ Finance & Accounting  (15) 
+ Others  (24) 
+ 
+ By Budget (INR) 
+ 
+ All  (549) 
+ Less than 5000 Rs.   (170) 
+ Between 5,000 - 20,000 Rs.   (145) 
+ Between 20,000 - 50,000 Rs.   (66) 
+ Between 50,000 - 100,000 Rs.   (33) 
+ Greater than 100,000 Rs.   (30) 
+ Not Sure  (105) 
+ 
+ By Project Type 
+ 
+ All  (549) 
+ Featured  (31) 
+ Full Time  (5) 
+ 
+ By Time Left 
+ 
+ Any 
+ Less than 24 hours left 
+ Less than 3 days left 
+ Less than 7 days left 
+ 
+ By Posted Date 
+ 
+ Any 
+ Posted within 24 hours 
+ Posted within 3 days 
+ Posted within 7days 
+ Posted within 14 days 
+ Posted within 30 days 
+ 
+ By Status 
+ 
+ Any 
+ Hiring Open 
+ 
+ Search Job 
+ JQuery Jobs 
+ ( showing 1 - 6 of 6 results ) 
+ JQuery 
+ Clear 
+ Get Project Updates 
+ PAGE 1 OF 1 
+ SORT BY Sort by Job Name Budget(High) Budget(Low) Time Left(High) Time Left(Low) 
+ Software Development engineer 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Application Interface Design  Posted: 12th Jan 2021 Ends: 26th Feb 2021  6 Proposals 
+ - Primary roles are Backend Developer and module owner, AI & ML Engineer for Web Applications. - Meet regularly with business stakeholders and management to understand and refine business and functional requirements... 
+ - Primary roles are Backend Developer and module owner, AI & ML Engineer for Web Applications. - Meet regularly with business stakeholders and management to understand and refine business and functional requirements and determine project scopes and specifications. - Develop and maintain strategic operational systems, tools, and processes, including participation in tactical and strategic development projects. - Work quickly and carefully to complete small edits requested by customers, develop plans for completing larger projects, collaborate with colleagues, and suggest new solutions to improve existing websites. - Perform coding, creating reusable objects and templates, wireframes for web pages and email templates; manage maintenance, updates, expansions, and scaling of each design. - Bachelor's degree in computer science, engineering, art, or similar discipline. - 5 years of Interactive Web Development experience across multiple products. - years working experience of web applications, programming languages, and web services with Java, JSP, J2EE, SQL, JavaScript, HTML5, CSS, Spring-Boot, Spring MVC, Postgres, PL-SQL, Jquery, React JS, Web Service - Rest, Agile environment, - Additional working experience of Data Structures, Algorithms, AI, Machine Learning is Plus. - Knowledge of Python, Ruby, Scala Programming is a plus. - Excellent communication and presentation skills. - Working experience in Windows and Linux environments - Experience implementing and using modern web development workflows and operations using a variety of tools including GitHub. 
+ Skills:  Hibernate ,  JavaScript ,  jQuery ,  SQL 
+ Client:  lookingforfreelancers 
+ Installation open source software job boarding in to Server  
+ FIXED PRICE : Less than 5000 Rs.   Website Programming  Posted: 10th Jan 2021 Ends: 24th Feb 2021  7 Proposals 
+ Hello, I got an open source PHP Job portal software and i m planning to integrate it with my website. Also need some customization. 
+ Hello, I got an open source PHP Job portal software and i m planning to integrate it with my website. Also need some customization. 
+ Skills:  HTML5 ,  JavaScript ,  jQuery ,  MySQL ,  PHP 
+ Client:  rahul2020 
+ Shopify website Slider issue  
+ FIXED PRICE : Less than 5000 Rs.   Ecommerce  Posted: 08th Jan 2021 Ends: 22nd Feb 2021  14 Proposals 
+ Shopify website has banner slider and product slider that is not working in iphone mobile browser and it works in android mobile browser 
+ Shopify website has banner slider and product slider that is not working in iphone mobile browser and it works in android mobile browser 
+ Skills:  Ecommerce ,  Ext JS ,  jQuery ,  JSP ,  Prototype JavaScript Framework 
+ Client:  deepu07 
+ Custom Payment gateway integration to PHP website 
+ FIXED PRICE : Less than 5000 Rs.   Application Interface Design  Posted: 24th Dec 2020 Ends: 07th Feb 2021  24 Proposals 
+ I am looking for someone who can integrate custom payment gateway in php. Please bid ONLY if you have experience in integrating payment gateway such as Razorpay Also please let me know your fixed quote for this work. ... 
+ I am looking for someone who can integrate custom payment gateway in php. Please bid ONLY if you have experience in integrating payment gateway such as Razorpay Also please let me know your fixed quote for this work. 
+ Skills:  API ,  JavaScript ,  jQuery ,  MySQL ,  PHP 
+ Client:  asifakram33 
+ Shipping web application development - SpringBoot, Java, Bootstrap HTML/CSS 
+ FIXED PRICE : Less than 5000 Rs.   Website Programming  Posted: 13th Dec 2020 Ends: 27th Jan 2021  14 Proposals 
+ Hi, I need to develop a simple Java SpringBoot based web application that can have the below features:- 1. Admin dashboard: use to create shipment packages and enter package details. Once the package is created, a ... 
+ Hi, I need to develop a simple Java SpringBoot based web application that can have the below features:- 1. Admin dashboard: use to create shipment packages and enter package details. Once the package is created, a unique 6 digits package ID should be generated. In this admin dashboard, there should also be an option to add scans for the package by selecting the package ID. 2. Homescreen/welcome page: here we can see the company details, a login for the admin dashboard, an option to track the package by entering the package id. The welcome page should look professional. I have the icon that will be used and would be similar to bluedart.in but fewer details and links. I already have started the application dev and have created a skeleton using maven. I need someone to complete the application. I was someone who has good UI design knowledge too. The budget is fixed at 5k. 
+ Skills:  Database ,  J2EE ,  Java ,  JavaScript ,  jQuery 
+ Client:  sourabh2812  ,  India 
+ UI/UX Developer and Designer 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Website Design  Posted: 03rd Dec 2020 Ends: 14 hours   40 Proposals 
+ Logo Design Responsive HTML Slicing 
+ Logo Design Responsive HTML Slicing 
+ Skills:  jQuery ,  HTML5 ,  HTML ,  CSS 
+ Client:  misarji  ,  India 
+ Next 
+ NAVIGATE 
+ How it Works 
+ Fees & Pricing 
+Register 
+ Blog 
+ Help 
+ Contact Us 
+ FIND FREELANCERS BY EXPERTISE 
+ 
+ 
+ 
+ Developers & Programmers 
+ 
+ PHP Developers 
+ 
+ 
+ 
+ 
+  Graphic Designers 
+ 
+ Photoshop Experts 
+ 
+ 
+ Article Writers 
+ 
+ Creative Writing 
+ 
+ 
+ Data Entry & Admin 
+ 
+ MS Excel Consultants 
+ 
+ 
+ Sales & Marketing 
+ 
+ Internet Marketing 
+ 
+ 
+ Accountants & Legal 
+ 
+ Finance Consultant 
+ 
+ 
+ 
+ FIND FREELANCERS BY LOCATION 
+ 
+ 
+ 
+ Freelancers In India 
+ 
+ Freelancers In New Delhi 
+ 
+ 
+ 
+ 
+ Freelancers in Noida 
+ 
+ Freelancers in Hyderabad 
+ 
+ 
+ Freelancers in Mumbai 
+ 
+ Freelancers in Jaipur 
+ 
+ 
+  Freelancers in Kolkata 
+ 
+  Freelancers in Bhopal 
+ 
+ 
+ Freelancers in Bangalore 
+ 
+ Freelancers in Punjab 
+ 
+ 
+ Freelancers In Ahmedabad 
+ 
+ Freelancers In Chennai 
+ 
+ 
+ 
+ LOOKING FOR FREELANCING JOBS? 
+ 
+ 
+ 
+ Fresher Jobs 
+ Part Time Jobs 
+ IT Jobs 
+ Work from Home Jobs 
+ Online Jobs 
+ 
+ 
+ 
+ 
+ Web Design Jobs 
+ Technical Writing Jobs 
+ Freelance Writing Jobs 
+ Accounting Jobs 
+ Legal Jobs 
+ 
+ 
+ Mobile Development Jobs 
+ Data Entry Jobs 
+ Game Development Jobs 
+ Photography Jobs 
+ Medical Writing Jobs 
+ 
+ 
+ AutoCAD and 3D Jobs 
+ HR Jobs 
+ SEO & Marketing Jobs 
+ Corporate Trainer Jobs 
+ Web Development Jobs 
+ 
+ 
+ 
+       
+ Copyright (C) 2012-2020   WorknHire Technologies Pvt. Ltd. . All Rights Reserved. 
+ To Top 

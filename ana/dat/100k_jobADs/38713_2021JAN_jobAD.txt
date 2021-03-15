@@ -1,0 +1,114 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Expo (S16) 
+ Expo brings together the best of web (development speed, fast iteration cycles, easy deploys, and automatic cross-platform support) and the performance and user experience of native apps. Let's talk if you're planning to build a mobile app. 
+ Expo Platform Engineer (Full-time) 
+ 
+ Location 
+ Palo Alto, CA | US & Canada Distributed / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Expo 
+ Expo helps people create and distribute outstanding application software. With Expo, you can write React and JavaScript to create apps that work natively across the web, Android, and iOS. World-class organizations like Valve, Brex, Cameo, Flexport, the EPA, the Stanford Daily, PrettyLittleThing, Pizza Hut, Blackline, and thousands of others choose Expo to build their apps that are used by millions of people every day. 
+ About the role 
+ Skills:  Android, iOS, Java, JavaScript, Kotlin, Objective-C, React, React Native, Swift, TypeScript 
+ Expo lets developers write React and JavaScript to create apps that work natively across the web, Android, and iOS. We're hiring a full-time engineer to work on the Expo platform. 
+ Responsibilities 
+ Working on the Expo platform means you'll write code in Kotlin, Swift, Java, Objective-C, Objective-C++/C++, and TypeScript that targets iOS, Android, and the web. You'll design the workflow and tools for developing universal apps, including specifications for the way Expo developers write modules for their apps, and contribute to the Expo ecosystem. You'll design APIs that elegantly provide common functionality in a way that feels fully native across the all the Expo target platforms. You'll work on tests and test infrastructure to ensure and improve the robustness and quality of the entire surface area of the platform. You'll talk with developers about what is working for them and what isn't, and what they need and don't have yet that we could provide for them. You'll provide direction to and work with open source contributors from the Expo community. 
+ 
+ Why Work at Expo 
+ We do important work at Expo. Every day, millions of people use apps made with Expo — from COVID symptom trackers to food delivery apps to dating apps to Bitcoin wallets. Great organizations like Valve, Flexport, Brex, Blackline, Cameo, Pizza Hut, and the EPA trust Expo to help them build top-notch application software in record time. When we make improvements to the Expo libraries and tools, hundreds of thousands of developers benefit and build better software faster for millions of their users. 
+ Everyone on the Expo team works on something important because we have a small team and we do a lot of things. We strive to create an environment where everyone is set up to do their best work. Each person on the team has a lot of flexibility and autonomy to work the way that works the best for them. 
+ Where We Can Hire 🇺🇸 🇨🇦 
+ Most of the Expo team works during North American hours. In normal times, about half our team is remote and half our team works from our office in Palo Alto. Because of COVID-19, we're all working remotely right now and until further notice. We are hiring across the United States and Canada (both citizens and permanent residents). In a small number of cases, we may be hire people in other countries who are able to work on a Pacific-time-zone schedule. 
+ Qualities that Make You a Good Fit 
+ 
+ You care a lot about solving problems for people creating applications
+ 
+ You think about these kinds of problems when you're hiking, when you're in the shower, etc... 
+ No one should need to tell you what to do because you are always noticing ways that the process of creating and distributing application software could be better 
+ 
+ 
+ Systems programming mindset
+ 
+ Making Expo is different from making Expo apps 
+ You're familiar with some of the internals of app runtimes like OSes and browsers 
+ 
+ 
+ You're right a lot
+ 
+ Being right is more important than being smart 
+ 
+ 
+ Responsive
+ 
+ To be able to collaborate and move as one team, it helps when any person you message will get back to you quickly and not block you from making progress. 
+ 
+ 
+ Good taste.
+ 
+ Well-designed tools and APIs for building applications give you a warm feeling of satisfaction. Things that are off or waste time or are confusing or broken drive you crazy. 
+ 
+ 
+ High  APM 
+ 
+ You do a lot of stuff, quickly 
+ 
+ 
+ Good at communication, especially in writing
+ 
+ Almost every project at Expo involves extensive collaboration. People who can communicate well are able to work together better too. It's critical to be able to explain ideas clearly and also the underlying thinking behind them. 
+ The quality of our work and our reputation are partly conveyed through our documentation, GitHub comments, blog posts, and other public writing 
+ 
+ 
+ Customer- and user-focused
+ 
+ Our thinking starts with Expo developers and their problems and aspirations 
+ 
+ 
+ Strong experience
+ 
+ We care about quality of experience more than years of experience. We highly value the time and energy that our team has put in to thinking about and solving the problems of building application software and similar challenges. 
+ 
+ 
+ 
+ Benefits 
+ 
+ Competitive compensation (salary, equity) 
+ Healthcare benefits 
+ Flexible schedule and location 
+ $6,000 equipment budget for computers, phones, other equipment you need to be most productive 
+ 
+ About Expo 
+ Expo lets developers write React and JavaScript to create apps that work natively across the web, Android, and iOS. Expo helps people create and distribute outstanding application software. World-class organizations like Valve, Brex, Cameo, Flexport, the EPA, the Stanford Daily, PLT, Blackline, and thousands of others choose Expo to build their apps that are used by millions of people every day. 
+ Technology 
+ We work on the Expo platform and Expo services to help developers build and distribute outstanding apps. 
+ For the Expo platform, we write code in Kotlin, Swift, Java, Objective-C, and TypeScript that targets iOS, Android, and the web. Our team designs the workflow and tools for developing universal apps, including specifications for the way Expo developers write modules for their apps, and contribute to the Expo ecosystem 
+ We write our Expo services code in TypeScript using technologies like React, Next.JS, GraphQL, Node. When working on Expo Services, we think through the needs of the developers using Expo, and build elegant, reliable, sensible services that make their live and jobs easier. Our team makes choices about what services we build and how they work, leaning on our understanding of app developers and developer products. We talk with developers about what is working for them and what isn't, and what they need and don't have yet that we could provide for them. 
+ Other jobs at Expo 
+ Expo Platform Engineer (Full-time) 
+ fulltime 
+ Palo Alto, CA | US & Canada Distributed / Remote 
+ iOS 
+ Any (new grads ok) 
+ Expo Services & Infrastructure Engineer (Full-time) 
+ fulltime 
+ Palo Alto, CA | US & Canada Distributed / Remote 
+ Backend 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

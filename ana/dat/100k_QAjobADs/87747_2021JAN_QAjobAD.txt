@@ -1,0 +1,12 @@
+ Qualifications: 
+• 2-4 years of Quality Assurance and testing experience. 
+• Experience with testing across different devices, browsers, and operating systems (eg. Android, IOS, Windows) 
+• Experience with test case management and defect tracking tools (eg. 
+JIRA, Zephyr) 
+• Familiarity with web content management platforms (Sitecore - certification is a strong plus!). 
+ Qualifications 
+ •    Over 5 years of experience working on Drupal 
+•    Strong understanding of Drupal 7/8 or later version and the differences between those versions 
+•    Hands-on Drupal Lead Developer, heavily invested in the backend design and development on Drupal 
+•    Strong understanding of Drupal content structure, modules and content services that can export Drupal content, somewhat similar to a headless CMS 
+•    Strong understanding of Drupal nodes, content types, page structures, and underlying APIs 

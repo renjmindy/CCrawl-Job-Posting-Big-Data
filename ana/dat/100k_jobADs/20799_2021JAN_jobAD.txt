@@ -1,0 +1,163 @@
+[ 
+ WorkForThem 
+ ](/) 
+ 
+ Blog 
+ RSS 
+ Remote Jobs 
+ Find More Jobs 
+ Post a job 
+ 
+ Menu Close 
+ 
+ Blog 
+ RSS 
+ Remote Jobs 
+ Find More Jobs 
+ Post a job 
+ 
+ Software Engineer - Frontend 
+ Replica 
+ Full time 
+ Remote Remote 
+ Jan 14 
+ Replica is an enterprise data platform that delivers critical insights about the built environment. With better data, human-context and an intuitive design, Replica helps public and private sectors make informed, effective, and responsive decisions. By showing how people live, move and work, we contextualize hard choices, allowing our clients to see around corners and understand the trade-offs surrounding their decisions. Whether for a city planner increasing public transit to underserved neighborhoods or for a grocery chain evaluating where to open a new location, Replica’s insights lets clients make more informed, people-centered decisions. 
+ We spun out of Alphabet in 2019 when we secured series A funding from venture firms such as Innovation Endeavors, Firebrand Ventures, and Revolution’s Rise of the Rest Seed Fund. Today, we are a team of ~30 employees with offices in San Francisco, CA and Overland Park, KS. 
+ We value our customers, believe in being resourceful, and work in service of each other to scale our product. As we build our team, we are committed to pursuing and bringing together a diverse workforce and creating an environment of inclusion. We value our differences and we encourage all to apply. We are committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender identity, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, Veteran status, or any other status protected by the laws or regulations in the locations where we operate. 
+ The Team 
+ The engineering team is currently organized into two teams: data engineering and platform engineering. The platform engineering team owns the application code from database to web client and the infrastructure required to deploy it to our customers. Most of the engineering team is based in San Francisco, but we work with cross-functional teams in Kansas City and New York and customers across North America. 
+ The Role 
+ As our engineering team grows, we are looking for a front-end software engineer with 2+ years of experience to help build our single page web application. As an early member on the team, you will balance speed and quality as you build out new features for our customers. 
+ You will collaborate with engineers, design, research and development, and customers to enable additional methods of querying and create valuable data visualizations for every customer. More specifically, here’s what you can expect to do in the role: 
+ 
+ Build product features to enable our customers to understand changes, evaluate solutions, and make predictions for their residents based on the Replica dataset 
+ Work closely with customers to best understand their needs and respond quickly to their feedback. 
+ Collaborate with cross-functional teams at a fast growing startup. 
+ Translate InVision prototypes to interactive application code. 
+ Contribute to overall testing strategy and JavaScript best practices. 
+ Eliminate bugs and improve application performance using remote logging and observability tools. 
+ Actively contribute to company culture through teaching, contributing to documentation, and actively collaborating with cross-functional groups. 
+ Establish and uphold user experience best practices. 
+ Standardize customer and developer experience through a component library and style guide. 
+ Collaborate with Product to develop requirements and set delivery timelines. 
+ Technologies: 
+ Typescript/Javascript 
+ React/Redux, Jest, Cypress and React Testing Library 
+ Node.JS 
+ Mapbox and deck.gl 
+ CSS-in-JS 
+ 
+ What We Value 
+ 
+ Empathy. You are curious and eager to learn more about our users and understand their needs. 
+ Balance. You weigh speed and quality carefully and understand the tradeoffs. 
+ A collaborative approach to problem solving. You’ve worked with cross functional teams before and you enjoy the process. 
+ Active participation. You jump in and actively engage with the team and customers to build products people use. 
+ Ability to navigate ambiguity. Things get blurry, but you persevere to find clarity and communicate effectively with your teammates to ensure clarity for all. 
+ Passion. You are driven to improve the quality of life in urban environments. 
+ 
+ Benefits 
+ 
+ Our people! We work as a team and are excited to contribute to city planning. 
+ Competitive salary based on experience and potential for impact. 
+ Equity at an early stage startup. 
+ Health benefits including medical, dental, vision, and HSA option. 
+ 401k account + employer contribution. 
+ Offices in San Francisco, CA and Overland Park, KS. 
+ Flexible PTO. 
+ 
+ If you don't think you meet all of the criteria above, but still are interested in the job, please apply. Nobody checks every box, and we're looking for someone excited to join the team. 
+ Apply for this position 
+ Apply 
+ Your application has been successfully submitted. 
+ Please fix the errors below and resubmit. 
+ Something went wrong. Please try again later or contact us. 
+ Personal information 
+ First name * 
+ Last name * 
+ Email * 
+ Address (Optional) 
+ Profile 
+ Summary (Optional) 
+ Resume * 
+ Details 
+ Cover letter * 
+ Submit application 
+   
+ Replica 
+ See your city better. 
+ Website   Twitter 
+ Apply for this position 
+ Share this job 
+ [Tweet](https://twitter.com/share?text=Replica is hiring a Software Engineer - Frontend&url=https://workforthem.com/job/15834-software-engineer-frontend)  Share  [Share](https://www.linkedin.com/shareArticle?mini=true&summary=Replica is hiring a Software Engineer - Frontend&url=https://workforthem.com/job/15834-software-engineer-frontend&source=WorkForThem) 
+ 
+ 
+ WorkForThem 
+ 
+ 
+ Contact us 
+ 
+ 
+ Twitter 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Terms Of Service 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Menu 
+ 
+ 
+ Blog 
+ 
+ 
+ RSS 
+ 
+ 
+ Remote Jobs 
+ 
+ 
+ Find More Jobs 
+ 
+ 
+ Post a job 
+ 
+ 
+ Browse Jobs By 
+ 
+ 
+ Companies 
+ 
+ 
+ Locations 
+ 
+ 
+ Categories 
+ 
+ 
+ Jobs By Type 
+ 
+ 
+ Full time 
+ 
+ 
+ Part time 
+ 
+ 
+ Freelance 
+ 
+ 
+ Internship 
+ 
+ 
+ Contract 
+ 
+ 

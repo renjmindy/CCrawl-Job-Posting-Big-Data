@@ -1,0 +1,6 @@
+ Qualifications: 
+ A degree in a mathematical, scientific or computing subject is desirable. 
+ Developers with alternative relevant qualifications and applicable technology certifications are encouraged to apply. 
+ The Good Stuff: 
+ Good With is committed to training and seeing our team grow and succeed. You’ll have a mentor who will support both your individual and career aspirations 
+ You will gain valuable commercial experience developing applications using Google’s new Flutter framework 

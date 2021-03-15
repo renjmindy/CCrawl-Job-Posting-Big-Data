@@ -1,0 +1,291 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Extract Transform Load (ETL) 
+ 
+ Extract Transform Load (ETL) Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Extract Transform Load (ETL) Expert ? 
+ ](https://www.workana.com/hire/extract-transform-load-etl) 
+ Last month 
+ Administrador Power Bi y Azure 
+ Published: Last month  Bids: 2 
+ Audit and Monitoring 
+Configuration 
+Licensing 
+Security 
+Workspace 
+Power BI Premium 
+Power BI Embedded 
+Visual 
+Mix 
+Deployment Pipelines 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Large 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer, Other 
+ Other roles needed  : Administrador 
+ Published by:  N. Last reply: Last month  Spain 
+ USD 250 - 500 
+ 4 months ago 
+ Etl-Sql /Developer- (se necesita que el des arrollador este radicad... 
+ Published: 4 months ago  Bids: 1 
+ The ETL Developer will be designing, building, and supporting data processing pipelines to transform data using Microsoft technologies.  You will be implementing our Data Integration platform for the Microsoft SQL Server Integration Services 
+ (SSIS) environments. You will be implementing data flow transformation scripts using T-sql and vb or c# scripting. 
+ You will be developing and executing quality assurance and test scripts. You will be work with product owners and business analysts to understand 
+ business requirements and use cases to design reporting solutions using Power BI.  You will lead investigation and resolution efforts for critical/high impact problems, defects, and incidents. 
+ Provides technical guidance to team members. 
+ Skills required 
+Bachelor's degree in Computer Science or related discipline 
+Experience with a structured application development methodology, using any industry standard Software Development Lifecycle, Agile Methodologies is required 
+6+ years of overall experience in I.T. With strong understanding of best practices for building and designing ETL code, Strong sql experience with the ability to develop, tune and debug complex sql applications is required 
+5+ years of experience in etl tools. Specific expertise in implementing SSIS in an Enterprise environment is a plus. 
+Hands-on experience in scripting object-oriented programming in VB or C# (At least 2 years) 
+Hands-on experience with SQL Server in the Azure cloud either with iaas or saas models. 
+ Strong SQL experience with the ability to develop, tune and debug complex SQL applications is required 
+Experience in real time data ingestion into Hadoop is required 
+Experience with Test Driven Code Development, SCM tools such as GIT 
+Experience with DB2 is preferred 
+Strong with SQL Server, DB2, Cosmos database and Managed SQL Server instances (Azure) preferred 
+Excellent analysis, debugging and trouble-shooting skills, and problem-solving skills 
+Good verbal and written communication skills 
+Ability to thrive in a flexible and fast-paced environment across multiple time zones and locations 
+Experience in the Healthcare industry is a plus but NOT required 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Published by:  L. A. T. Argentina 
+ USD 50 - 100 
+ Last year 
+ Support/Training in B2b Data Exchange Informática product 
+ Published: Last year  Bids: 2 
+ We are looking for a freelance to give us 40 hours of support and training of B2B Data Exchange Informática product to start ASAP:  https://www.informatica.com/es/products/data-integration/b2b-data-exchange.html 
+ We are currently using: 
+• Informatica Powercenter 
+• Informatica Data Quality 
+• Informatica B2B Data Exchange 
+• Informatica Managed File Transfer 
+ Buscamos una persona que nos de soporte/formación de 40 horas del módulo B2B Data Exchange del producto Informática para empezar inmediatamente:  https://www.informatica.com/es/products/data-integration/b2b-data-exchange.html 
+ Actualmente usamos: 
+• Informatica Powercenter 
+• Informatica Data Quality 
+• Informatica B2B Data Exchange 
+• Informatica Managed File Transfer 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Experience in this type of projects  : No (I haven’t managed this kind of project before) 
+ Published by:  E. M. Last reply: Last year  Spain 
+ Over USD 3,000 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

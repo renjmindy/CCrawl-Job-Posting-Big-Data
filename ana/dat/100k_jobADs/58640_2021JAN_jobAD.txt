@@ -1,0 +1,61 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Y Combinator 
+ Not your average fixed point combinator. 
+ Recruiting Analyst/Researcher (Contractor), Work at a Startup 
+ 
+ Location 
+ San Francisco, CA 
+ Job Type 
+ Contract 
+ Experience 
+ 3+ years 
+ About Y Combinator 
+ Y Combinator has a small ~6 person team that makes the software that runs YC. Hardly any investors write software, but YC was started by programmers so it's natural for us to solve our problems that way. We believe our software is a key competitive advantage and we are investing aggressively in new software products. 
+ YC has  ambitious plans  to create more innovation in the world, and the only way to reach that level of impact is to scale through software. What we’ve built so far is probably only 10% of what we will eventually need. 
+ For an example of something we’ve worked on, check out Work at a Startup or this  technical blog post  You can read about the daily life at YC, the people on our team, and how we work together on our  Key Values page . 
+ As a member of the software team, you'll get full access to the YC program, just like founders do. You'll learn the ins and outs of how YC works, and you'll get to follow and learn from hundreds of companies. You'll meet some of the most successful people in the startup world and get exposed to the best startup ideas. And of course, if you ever want to start your own company, you’ll learn a lot about that from working at YC. 
+ About the role 
+ About the role 
+ Y Combinator runs workatastartup.com, a free-to-use hiring platform for YC founders to meet and hire great early employees. What started as a lean MVP two years ago has matured into a suite of networking and job-hunting tools that founders and job seekers absolutely love. We’ve helped land key hires across hundreds of YC startups -- from founding engineers to VPs of product and operations -- and we’re now looking to bring on a part-time Recruiting Analyst/Researcher to help us scale our impact even more. 
+ Similar to an in-house recruiter, we need your help to evaluate hundreds of candidates across all functions -- from engineering to marketing to operations, and more. However, unlike an in-house recruiter, you’ll be evaluating candidate fit for 1000s of open roles across hundreds of YC startups that are actively hiring. 
+ In this role, you will: 
+ 
+ Evaluate thousands of candidates on a variety of skills, work history, educational background and other criteria to determine possible fit for open roles at YC startups 
+ Identify, engage, activate and nurture top talent for introductions and placement at YC startups participating in follow-on programs (Series A and Continuity) 
+ Research categories of educational institutions, companies, skills and other criteria -- both in the US and abroad -- to deliver an informed opinion of top criteria for hiring 
+ Apply quantitative skills using tools like Google Sheets and/or Excel to perform analysis on candidate pipeline or to uncover trends in recruitment & hiring. 
+ 
+ What are we looking for 
+ In many ways, YC operates much like a startup itself. We have big ideas of what we want to do, but we always start with a lean prototype (often non-technical) to vet the approach and feasibility. In the context of this role, we’re looking for somebody who is able and willing to do manual review of thousands of candidates, and also be able to observe and quantify trends to help inform future programs and product direction. 
+ The ideal candidate has been a recruiter or sourcer before (either full-time or contract) and has filled and managed a pipeline of talent to successfully fill open roles across an organization. Moreover, the candidate has performed quantitative analysis on their work to iterate and improve on their methods to source and vet candidates for said roles. 
+ This is a good job for someone who is excited about startups and interested in learning more about them. You’ve likely worked at or started a startup, or want to do so in the future. 
+ Because it’s such a small team, you’ll have a lot of access to sensitive information, so we need to hire people we can trust. Your ability to make good trade-offs and exercise good judgement is particularly important to us. 
+ We are an equal opportunity employer and value diversity at Y Combinator. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ Technology 
+ The YC internal software is mostly written in Ruby on Rails and React. It runs on AWS and PostgreSQL. Previous experience developing web apps will be helpful, but we don't care if you've used React or Rails specifically. 
+ Note:  Hacker News  is written in Lisp, but Hacker News is run by a  separate team . 
+ Other jobs at Y Combinator 
+ Product Engineer, Work at a Startup 
+ fulltime 
+ San Francisco, CA 
+ Full Stack 
+ 3+ years 
+ Recruiting Analyst/Researcher (Contractor), Work at a Startup 
+ contract 
+ San Francisco, CA 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,351 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ .NET 
+ 
+ .NET Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance .NET Developer ? 
+ ](https://www.workana.com/hire/net) 
+ 3 days ago 
+ Upgrade our Highcharts to the newest version 
+ Published: 3 days ago  Bids: 5 
+ I have a site that currently uses Highcharts . We would like to upgrade to the newest version, which has smoother scrolling and zooming for the functions we already use. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  J. United Arab Emirates 
+ USD 50 - 100 
+ Last month 
+ Devops engineer needed 
+ Published: Last month  Deadline: 1 Bids: 1 
+ Facing issue with related to jenkins, need help on resolving it. It will take around an hour to solve, issue related to plugins 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  H. India 
+ Less than USD 50 
+ 1 month ago 
+ Real Estate Website (Mobile Friendly) 
+ Published: 1 month ago  Bids: 22 
+ Description: 
+The project involves the design and development of a Mobile-Friendly Real Estate Website that gives agents and property managers the ability to showcase and manage their property listings while providing potential renters and home buyers a concise and structured way of searching for properties, booking an inspection and completing the rental/home buying process online. The web site will be set up in a way that the agents and property managers will have total administrative rights to their listings with the ability to create, modify, or delete listings. 
+ A mobile-friendly website with excellent user experience and the following features: 
+ 
+ A powerful search engine for displaying detailed summary of rental properties and properties for sale 
+ A profile creation feature for prospective renters/homebuyers, property agents and property managers with role-based access controls 
+ A rent/home purchase application form 
+ An online rent payment platform with a remittance feature to multiple beneficiaries 
+ A “property inspection” booking feature 
+ An Agent Portal where property agents and property managers can create property listings and upload pictures of the properties and submit for approval before being published for public viewing with option for paid listings. 
+ A Tenant Portal where existing tenants can file complaints, put in service requests, issue rent renewal/termination notices, etc with backend feature for property managers to take action based on the requests. 
+ A feature that allows a prospective tenant to complete the rental process (rent payment, rental agreement, etc) 
+ 
+ Category: IT & Programming 
+Subcategory: Web development 
+What is the scope of the project?: Create a new custom site 
+Is this a project or a position?: Project 
+I currently have: I have specifications 
+Required availability: As needed 
+Roles needed: Designer, Developer 
+Required platforms: Android 
+I need to: Create an app 
+App type: e-Shop 
+Similar apps: Airbnb 
+Back-end is required: Yes 
+Payment gateway: Yes 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Designer, Developer 
+ Published by:  H. M. Last reply: Last month  Nigeria 
+ USD 1,000 - 3,000 
+ 3 months ago 
+ Billing system for a game zone 
+ Published: 3 months ago  Bids: 0 
+ I need a developer to build a .net mvc web application for game zone billing. It should also include daily, weekly and yearly reports. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  R. S. United States 
+ Over USD 3,000 
+ 3 months ago 
+ C# Wpf Developer 
+ Published: 3 months ago  Bids: 1 
+ We are looking for a C# WPF Developer with the following requirement: 
+ Experience: 
+2+ years of experience in C# development 
+Experience with multithreading patterns in .NET (async/await, threadpool and tasks) 
+Strong understanding of networking, serialization and the concept of protocols and communication between two applications (e.g. NetMQ, kafka, MessagePack). 
+Strong understanding of object oriented programming and knowledge of good programming practices 
+Ability to deal with ambiguity, analytical problem solving and work independently. 
+Experience with agile software development using git for source control 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.) 
+ Published by:  S. India 
+ Less than USD 50 
+ 3 months ago 
+ I need unity game online, similar gta 5 (mobile) 
+ Published: 3 months ago  Bids: 4 
+ I need tps game online, similar gta 5 
+photon or mirror 
+ similar this game 
+ https://play.google.com/store/apps/details?id=com.MadOut.BIG&hl=es 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Game 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  L. L. Last reply: 3 months ago  Spain 
+ USD 1,000 - 3,000 
+ 4 months ago 
+ I want to build a Mt4/5 Client Api with C# or C+ 
+ Published: 4 months ago  Deadline: 11 Bids: 2 
+ Hello, 
+ I need to build or buy existing, MT4/5 Client API which is coded in C#/C++ (preferably C#). 
+I want it to be able to login in to customer MT4/5 accounts of any broker and open trades, get quotes, get account history and other information without opening the MT4/5 platform. 
+ NOTE: I am not looking for an MQL4/5 program that acts as a server and C++/C# program that communicate with it. 
+ Thank You. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Published by:  L. W. Last reply: 2 months ago  United States 
+ USD 100 - 250 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

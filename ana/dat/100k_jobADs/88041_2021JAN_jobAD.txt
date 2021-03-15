@@ -1,0 +1,331 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ iOS 
+ 
+ IOS Freelance Jobs From Argentina 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelance  iOS Developers  from  Argentina 
+ ](https://www.workana.com/freelancers/argentina/ios) 
+ Last month 
+ Google Play Added To Backend 
+ Published: Last month  Bids: 1 
+ My Guardian is completed. I need to add the google play store codes to my backend. The backend is coded in C#. 
+Needs IOS/Android. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ Back-end is required  : No 
+ Payment gateway  : Yes 
+ Published by:  G. S. Argentina 
+ USD 50 - 100 
+ 2 months ago 
+ Design of an application to download synthesis of academic content. 
+ Published: 2 months ago  Bids: 3 
+ We need to create an application that allows access to summaries of academic content through a monthly subscription. Title / essay / papers search engine. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : e-Shop 
+ Back-end is required  : No 
+ Payment gateway  : Yes 
+ Published by:  E. P. Argentina 
+ USD 1,000 - 3,000 
+ 3 months ago 
+ Actualizacion App Cordova 8 por ultimos cambios de Sdk Google y App... 
+ Published: 3 months ago  Bids: 2 
+ Buscamos desarrollador Cordova con solidos conocimientos en actualizar las SDK de Android y iOS segun cambios al corriente de 2020. 
+ Google -> Apps must target API level 29 
+Apple -> Updating Apps that Use Web Views 
+Apple -> Deadline extended for app updates using UIWebView 
+Apple -> Deadline for App Updates Has Been Extended 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : iPhone, Android 
+ I need to  : Modify an existing app 
+ App type  : Utility - Utility application (flash, calculator, etc.) 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  Zeta S. Argentina 
+ USD 100 - 250 
+ 4 months ago 
+ Android Java-Gradle . Deploy , Modifications 
+ Published: 4 months ago  Project duration: 1 - 2 months Bids: 7 
+ i have the app code developed on Java-Gradle and landing page 
+need to deploy the app , build 
+translate spanish language front back 
+test 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Part time 
+ I need to  : Modify an existing app 
+ Published by:  J. J. Last reply: 4 months ago  Argentina 
+ USD 20 - 30 / hour 
+ 9 months ago 
+ App para autorización 
+ Published: 9 months ago  Bids: 2 
+ Authorization app: 
+After some verifications, the app must generate a QR code or a random voice word code. 
+User autentication:  Facebook, google, other accounts or new registration with additional identity confirmation by phone call or text message. 
+You must generate reliable database records of the different phases of the flow. 
+ Allow payment methods (Apple pay, Paypal, credit cards, rapi, mercadoPago,) and manage different beneficiaries of received payments. 
+Generation of customized reports automatically for certain users. 
+ Category  : Design & Multimedia 
+ Subcategory  : Mobile app design 
+ What do you need?  : Create a new custom design 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Similar apps  : Uber 
+ Published by:  E. P. Last reply: 8 months ago  Argentina Payment method:  __Verified 
+ USD 1,000 - 3,000 
+ 9 months ago 
+ Game Development (Remote) 
+ Published: 9 months ago  Bids: 7 
+ You will be working to create a groundbreaking mobile game in the MMORTS space. Send along with your past work for reference. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ Published by:  E. F. Argentina 
+ Open 
+ 11 months ago 
+ Multiplayer game android/Ios developer 
+ Published: 11 months ago  Bids: 8 
+ I need an online multiplayer card game programmer for Android / iOS 
+ I already have the designs of the screens and the cards 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Game 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  N. J. D. Last reply: 11 months ago  Argentina 
+ USD 1,000 - 3,000 
+ Next 
+ 
+ 1 
+ 2 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

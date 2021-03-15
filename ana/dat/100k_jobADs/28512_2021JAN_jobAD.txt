@@ -1,0 +1,663 @@
+The Ancient Gaming Noob 
+ Veni, Vidi, Scripsi 
+ Menu Skip to content 
+ 
+ Home 
+ About 
+ 
+ 
+ The Corrupt Developer Career Path 
+ 28 Replies 
+ In which we see how logic is useless with bad data. 
+ This all started innocuously enough with  Wolfshead angry  about life as video game developer. His ire, deflected momentarily from his usual target of Blizzard, was aimed at the video game industry itself and the fact that being a game dev can be a really crappy career choice. The pay is low, the hours are long, job security is fleeting, and there is a long line of gullible young people willing to take your place if you try to buck the system. 
+ This is not a new tale. Having lived close enough to Electronic Arts for them to be covered by the local paper regularly, word of how shitty the video games industry can be is something I have been aware of since at least the late 1980s. 
+ 
+ Fun created here… on an Orca graveyard! 
+ Wolfshead called it an example of the "worst excesses of capitalism," by which I assume he means supply and demand. Seems legit. Oversupply usually lowers pay and working conditions while scarcity tends to raise them. That is the whole "invisible hand" that Adam Smith was going on about indicating that you should look for work elsewhere. Sort of an invisible middle-finger. 
+ Oddly though he also went off on progressives who run operations where life is not intolerable, which comes off a bit muddled and counter to his main point. He rather ironically denigrates people who care about fair trade coffee, then turns around and says gamers need to demand better working conditions for developers. Progressive ideals are fine when they benefit you I guess. I expect him to follow up with a post calling for fair labor video games. 
+ But the net message is that being a video game developer can suck. Another brick in the wall that should block you from ever wanting to work in the video game industry. You go down that path despite the reality, not because of it. 
+ However Gevlon was  having none of it , even  doubling down  when challenged. 
+ In Gevlon's world, nobody does anything without getting compensated. Young developers don't line up for crappy pay, long hours, and no job security simply for passion or to follow a dream. That whole "do what you love" is bullshit. If you go there, there has to be a payoff! These young developers go into the video games industry intent on lining their pockets by becoming corrupt developers! 
+ 
+ Artist concept of the decision process 
+ This whole idea fails the sniff test almost immediately. It smells like bullshit and defies the logic Gevlon himself lays out. 
+ First, if money is actually the REAL motivator, as opposed to the dream of working in the wonderful fantasy world of video games, then there are a lot better ways to go about it than risking your career, future employment options, and possible legal and tax complications, by becoming a corrupt game developer. 
+ A developer could, for example… and I realize this is a huge stretch… get a job elsewhere in software development. There are many jobs in software available. Most of them pay better than the video games industry. 
+ Basically, ample other opportunities exist. You do not go into video game development as an individual contributor with an eye towards making bank. And doing so with the idea of essentially creating a criminal enterprise is absurd in the extreme. 
+ It isn't as though there are no corrupt devs. Stories do surface now and again about somebody taking advantage of their position. But those are more matters of opportunity rather than somebody's career goal. People are weak. Oh, and their careers got ruined once they get caught. Like a lot of segments of software development, video game development is a small community and word gets around even if you don't make the front page of Kotaku. 
+ That leads us to one of the key arguments against this corrupt developer proposition; the lack of news stories about this. 
+ If being a corrupt developer was a career path people going into video game development were actually, consciously pursuing we should be seeing a lot more news about corrupt developers. His argument pretty much needs this to be taken seriously. 
+ Where are all the stories? Please, post links in the comments if I am wrong, but I've got nothing. 
+ We know all about Kickstarters taking your money and running and about game companies over promising and under delivering. Players complain incessantly about price gouging by greedy companies But the biggest developer "corruption" story of the last few years was an unsubstantiated allegation that a indy developer used personal contacts to get a better review. 
+ The stories just aren't out there and the only way you can explain that away is by turning the whole thing into a conspiracy where management and the industry are in on the corruption and we enter the realm of Dinsdale where players are paying off companies. At that point companies are working against self-interest allowing corrupt devs, since even Gevlon insists that protecting the integrity of a game is vitally important and why would they share the booty with line devs in any case. 
+ Well, that, and the fact that the number of game developer positions where being corrupt would get you paid is probably pretty limited in and of itself. Further evidence that people don't go into this industry with corruption in mind as a career goal. 
+ The only real evidence that Gevlon can produce to support his theory is that bugs in code exist and some of them take longer to get fixed than he thinks they should. 
+ That has an easy response. 
+ Gevlon, as I have noted elsewhere, is an ignorant amateur outsider when it comes to software development in general, and all the more so when discussing the situation involving any particular video game, so his determination as to what should be easy to fix and how long it should take carries exactly zero weight. 
+ This is not an insult, but a statement of fact. 
+ I am an ignorant, amateur, outsider when it comes to treating cancer. It seems like you should just be able to cut that shit out and be done with it. Also, Jesus, doesn't radiation give you cancer? And the chemicals in chemotherapy were derived from mustard gas! Why would you use that on people? 
+ So if you see me hanging out the oncology department at your local hospital, feel free to discount any advice I might give you. 
+ The difference between those two situations is that I know and admit that I am the ignorant amateur outsider and Gevlon does not. He thinks his assessments are meaningful. 
+ They are not. 
+ Which leaves him with very little to support his hypothesis besides his idea that people don't spend time doing things that do not bring them the greatest financial benefit. At that point you have to start asking why he spends time blogging. That is giving something away for free, something that has value. Imagine the page views his posts would get from enraged fan boys on a site like Massively OP! He doesn't even run ads on his own site, so he fails by his own logic. 
+ To summarize: 
+ 
+ The alleged financial motivation to become a corrupt developer is nonsensical and counter productive; there are easier way to make more money and people do value things besides a paycheck. 
+ Positions where being a corrupt game developer would pay off are extremely limited; real money trading has to be involved somehow. 
+ No substantial external evidence exists that anybody is pursuing this career path in any numbers; where are the news stories? 
+ The remaining evidence offered lacks credibility; Gevlon is not in a position to know and his own logic argues against him. 
+ 
+ So while I would not deny that corrupt game developers may be out there, it seems more like something subject to occasional circumstances where opportunity arises and not a career path anybody set out on to offset the poor pay offered by their chosen industry. 
+ The burden of proof lies on Gevlon to prove that that the situation is otherwise and so far he has failed completely on that front. 
+ Share this: 
+ 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on Reddit (Opens in new window) 
+ Click to share on Facebook (Opens in new window) 
+ Click to share on Pinterest (Opens in new window) 
+ Click to share on Tumblr (Opens in new window) 
+ Click to share on Pocket (Opens in new window) 
+ Click to print (Opens in new window) 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  entertainment  and tagged  Corruption ,  Friday Blog Wars ,  Gevlon ,  jet fuel can't melt steel beams ,  Oooh controversy ,  RMT ,  Sarcasm may be evident ,  Wait it's Wednesday ,  Wolfshead  on  July 26, 2017  by  Wilhelm Arcturus . 
+ Post navigation 
+ <- SuperData Research Says Pokemon Go is Back but not in the Top Ten   Two Days to Delve -> 
+ 28 thoughts on "The Corrupt Developer Career Path" 
+ 
+ SynCaine   July 26, 2017 at 5:56 pm 
+ 
+ Don't think you got this part right: 
+ "Gevlon, as I have noted elsewhere, is an ignorant amateur outsider when it comes to software development in general" 
+ Here let me fix it: 
+ Gevlon, as I have noted elsewhere, is an ignorant amateur outsider in general." 
+ You're welcome. 
+ Also it should be noted that not only is Gevlon blogging for free against everything he says he stands for, it's actually counter-productive at this point, as evidence is pretty solid that when Gevlon says something, any dev actually listening and not just laughing would best be served doing the opposite, so he can't even claim he writes for free to get the kind of games he wants made. which we at least could pretend is the case. 
+ And please everyone don't miss Dins expertly explaining  how RMT works  over at my site. It's… something. 
+ Like Like 
+ 
+ Shintar   July 26, 2017 at 6:34 pm 
+ 
+ This is definitely one of the stranger tacks Gevlon has taken - which is saying something, considering that this is Gevlon we're talking about! While he has shown previously that he doesn't really understand many social behaviours, he at least acknowledged their existence in the past. Now he suddenly thinks that all game devs must be goblins (never mind that as you said, even if people  were  purely motivated by money, that still wouldn't work). At least it's fascinating to watch. :P 
+ Like Like 
+ 
+ anypo8   July 26, 2017 at 6:49 pm 
+ 
+ I've been a software developer for almost 40 years now. As a seasoned professional, I can assure you that software has bugs, and they take longer to fix than you (or we) would think. Just so you know. :-) 
+ Like Like 
+ 
+ bhagpuss   July 26, 2017 at 6:52 pm 
+ 
+ Gevlon either genuinely has no concept of normative human psychology or he pretends not to for effect. As you point out, those of us not working in software development have no standards by which to measure the behavior or choices of those who do. So, I'll talk about bookselling, which I have done for a living for nearly twenty years now. 
+ Bookselling is a retail job that pays barely over minimum wage. It offers few prospects for promotion and the ceiling for most booksellers would be Bookshop Manager, the exact equivalent of any other retail management job. By rights the career should attract similar candidates to any other high street retailer. 
+ In fact, the sector not only, routinely, attracts people with degree level educations, often Masters degrees, but there are plenty of would-be booksellers who offer to work for free just to have a chance to prove they could do the job. I have seen the letters and emails. 
+ I, personally, took a pay cut of almost 50% when I left office work to become a bookseller. I'm a bit jaded with the whole thing after nearly two decades but for a dozen years or more I counted that a very good move indeed. Like a lot of lifelong readers, I found the chance to spend all my working day dealing with books was sufficient to counteract the significant loss in pay. I also received a major boost in status among my social circle, all of whom regarded working in a bookshop as far more prestigious than working in an office. 
+ These kinds of considerations are involved in most decisions made by most people when taking on most jobs or careers. For most people it is never ONLY about the money and for many the money is quite a long way down the list. I've known a few software developers and programmers over the years and that would certainly apply to them. 
+ There is no point trying to explain any of this to Gevlon, though. It would be like trying to teach a cat to play chess. 
+ Like Like 
+ 
+ Wilhelm Arcturus  Post author July 26, 2017 at 6:53 pm 
+ 
+ @anypo8 - I am 27 years in software development myself and have an assortment of tales about how things outsiders think ought to be simple to do or fix are anything but. 
+ As for time to fix, a director in our group once told marketing, which was demanding exact dates for fixing specific issues, that bug fixing is a lot like looking for your car keys, you often only know how long it will take after you have found them. 
+ @Bhagpuss - That describes my relationship with being in management. In 2010 I was a director in our division and had several teams reporting to me. Then our whole division was laid off. I got a job as an individual contributor again writing test automation and other such tasks. I make 25% less but I get home earlier and have more time to muck around and do what I want. 
+ Like Liked by 1 person 
+ 
+ SynCaine   July 26, 2017 at 7:24 pm 
+ 
+ @Bhag: Have you written about going from an office to the bookstore on your blog? Would love to read about that, including the eventual becoming jaded and why. 
+ Like Like 
+ 
+ kelly64   July 26, 2017 at 7:37 pm 
+ 
+ Game developers are driven to their profession by dreams of wealth accumulation through corruption? They pursue development because they expect to make money from payoffs related to real money transactions? That makes no sense at all. None. Zero. 
+ I think the real problem with over-worked, under-compensated developers still seeing line-ups to take their jobs can be boiled down to this: creative passion and corporate greed. The people who develop games, with some exceptions, do so because they love games and thought it would be amazingly cool to develop them. 
+ Like an artist, game developers would create even if someone wasn't paying them. Corporations happily take advantage of this: why pay for 80 hours of work when people will accept 40 hours of pay? Why keep paying for someone when the immediate work is finished and you can easily replace them if new work starts? This is baked into their project estimates and financial plans. 
+ The funny thing is: one of the biggest culprits (at least in the news) regarding abuse of game developers is EA. Yet back when they started, they were supposed to be all about treating developers as 'software artists'. I remember reading this on the inside liner of my copies of M.U.L.E. and Bill Budges Pinball Construction Set. It all sounded so good: but then the profit motive took over. 
+ Note that I'm a professional developer, but I do not develop games. My knowledge of the challenges facing a game developer come from a) talking to folks who entered that industry, including former co-workers; b) my own interests in game development; c) reading a lot. 
+ Like Like 
+ 
+ thekoleslaw   July 26, 2017 at 7:47 pm 
+ 
+ Man, I tell ya. I unsubbed from Gevlon's blog a few months ago and it's been great. The posts that I personally appreciated, which were almost exclusively about how in-game economies function and how to exploit the market to your advantage, have all but gone away. All of his posts now seem to fit in one of these categories: 
+ 
+ Every game sucks and I can't find one to play 
+ Remember those people who played EVE and made fun of me? Here's some more stuff about them or EVE, despite the fact I don't care about EVE anymore. 
+ Donald Trump is a brilliant businessman and he'll show those socials how it's done! 
+ 
+ I just don't find any of these topics particularly interesting or entertaining. 
+ Also, as someone who has been working in software and web development for 12+ years now, anytime he tries to talk about the tech industry from that perspective, it's laughably wrong every time. He just doesn't understand that not everyone is motivated solely by money. 
+ Like Like 
+ 
+ bhagpuss   July 26, 2017 at 8:20 pm 
+ 
+ @SynCaine 
+ I drop the odd reference to work into the blog here and there but mostly I try to keep it focused on the games. When I retire (still almost a decade away) I might go into a bit more detail but while I'm still working I prefer to keep it vague. 
+ The jaded part comes mostly from having been doing the same thing for too long - twenty years is a long time to do any job - but the current ownership and central management have an approach I don't find particularly sympathetic. For years the atmosphere used to remind me of being back at University - quite laid-back, a lot of chatting about the sort of stuff English Majors like to chat about. Then the financial crisis hit and over the last few years it's gotten to be a bit more…retail. 
+ Still beats working in an office though! Plus I get literally more free books than I can read and I get them six months before they're published, so not complaining too loudly. 
+ Like Like 
+ 
+ SynCaine   July 26, 2017 at 9:32 pm 
+ 
+ @Bhag: Ah I always thought you owned your own small bookstore for some reason, not that you worked in a larger chain place. Either way I'd be interested in the topic, if only because its so different from what I do (IT Management). 
+ Like Like 
+ 
+ evehermit   July 26, 2017 at 11:44 pm 
+ 
+ I suspect - with no statistics or research to back me up - that corruption in game developers would more often be about social gains - making themselves feel cooler, impressing friends, making friends, ego stroking etc, and less about direct financial gain. If you were after illicit financial gains, you would probably want to pick a different career. 
+ Like Like 
+ 
+ Liore   July 27, 2017 at 4:25 am 
+ 
+ Oh MAN I totally enjoy reading about MMOblog drama, for reals. 
+ Like Like 
+ 
+ Tesh   July 27, 2017 at 4:38 am 
+ 
+ @kelly, that squares with my decade-long career in game dev. I'm an artist, which is worse, I suppose, in that art is a luxury, chronically undervalued, and difficult to quantify. The game industry is broken. There  are  corrupt players, but they tend to gravitate to management. The rank and file production floor people have little chance at promotion and are easily replaced by the next year's worth of starry eyed "passionate" graduates who will accept beer and pizza for overtime, and don't have families to support. 
+ It's not a healthy industry, but neither is film. Creative work tends to be encrusted with a layer (or layers) of money/management people, and then the husk eventually hollows out and dies as the actually productive people get squeezed out, like blood from a stone. 
+ Like Like 
+ 
+ Victor Barreiro Jr. (@vbarreirojr)   July 27, 2017 at 2:26 pm 
+ 
+ Gevlon really needs another hobby, like Bob Ross-styled painting. :( 
+ Like Like 
+ 
+ Krumm   July 27, 2017 at 2:38 pm 
+ 
+ His line of thinking parallels old management theories that people are inherently bad, lazy and only work for money. Quite sad to not truly understand the power of human capital and the complexity of being…human. I myself work in the Department of Defense in contracting. I make contracts for the government and make quite a bit less than I would if I was in the private sector. However my pride as a veteran and love for the country and my patriotism find me firmly implanted as a civil servant. We don't do this job for the money along, As you indicated you could find better paying jobs with the same skill set else where. 
+ Human beings are dynamic and are motivations our a myriad of our own issues outside of work. Some perhaps do work for money above all else but that is not the norm. 
+ Maybe he things himself the modern chasseur …depicting the excesses of the video gamer's world. 
+ Like Like 
+ 
+ Pasduil   July 27, 2017 at 3:25 pm 
+ 
+ Unless young people have changed dramatically in the last few years, I am pretty sure most have little idea how much different career options even pay when they are making the choices in their teens and early 20s that will send them down one path or another. 
+ In my (unfinished)  series on Careers & Hobbies  I discussed some similar topics. 
+ It is not just game devs, a similar thing happens with many fields that people find attractive, like acting, music and sports. 
+ Like Like 
+ 
+ Wilhelm Arcturus  Post author July 27, 2017 at 5:15 pm 
+ 
+ I found a somewhat related quote over at  Coyote blog : 
+ "If people are entering the business for personal, passionate, non-monetary reasons then the business is likely going to suck." 
+ The post itself is about a different business, but the essentials line up with video games. 
+ Like Like 
+ 
+ DDOCentral   July 28, 2017 at 1:07 am 
+ 
+ Reblogged this on  DDOCentral . 
+ Like Like 
+ 
+ Wilhelm Arcturus  Post author July 28, 2017 at 3:03 am 
+ 
+ Gevlon retorts  with more bluster and fantasy and no solid evidence beyond talk about that one software issue he thinks should have been handled differently and some random numbers about how big the RMT market is. He should read up on Trump's advisor Steve Bannon if he wants to know who is getting paid on the RMT front. Ain't no devs or game masters retiring by 30 because of RMT. 
+ Still doesn't pass the sniff test. But I doubt I will ever convince him. He remains on the path of ignorance. 
+ Also, he called SynCaine my side-kick. Ha ha! 
+ Like Like 
+ 
+ SynCaine   July 28, 2017 at 3:12 am 
+ 
+ That sidekick line hurt deep. As did his stating (again) that he doesn't read my blog in a post responding to my blog… 
+ Also I'm amazed it took him until 3/4th of the way down to mention the dark web. Was expecting that a lot sooner. Great logic at the end too, the guy making more than his dad via RMT now signs up for a 'real job' to work long hours for peanuts so he can… get on the RMT train he's already on (in college where everyone has a room of 8 computers running bots 24/7 because certainly the local ISP or electric company won't pick up on that…) 
+ Like Like 
+ 
+ Sally Bowls (@SallyBowls)   July 28, 2017 at 6:38 am 
+ 
+ Yes. 
+In addition, aren't very roughly "95%" of gaming revenue, and thus presumably employment, in non-MMOs? If you are working the same 80 hours a week on Civ 7 or Witcher 4 or Mario Kart or other SPG, then who exactly do you think will be spending RMT to compensate you for your lost wages? and why? 
+ The least pervasive part of this was the "the lack of news stories about this." I think that theft and embezzlement frequently do not get maximum public exposure since that reflects badly upon the company. It would not surprise me if a corrupt dev or corrupt accountant for that matter at a large public company was allowed to quietly resign without news being made. 
+ Like Like 
+ 
+ Gevlon   July 28, 2017 at 7:50 am 
+ 
+ @Syncaine: I don't read your blog. I read your comments here. I doubt if you'll ever provide valuable (even thought-provoking wrong) content, as evidenced here where you add nothing to the conversation, just double on everything that Wilhelm says. 
+ Like Like 
+ 
+ Gevlon   July 28, 2017 at 7:52 am 
+ 
+ Also, he becomes dev to to work for peanuts at day and collect the 50% of a dozen botters. 
+ Like Like 
+ 
+ SynCaine   July 28, 2017 at 12:19 pm 
+ 
+ Sure buddy, that's why devs big and small read my blog, reach out to me, add me to early review/access usergroups, send job offers, and get influenced by what I say/write, while a few read your blog and laugh while completely ignoring you. 
+ But keep moving those goalposts (all dev is now "well maybe not artists, but but corruption!") while blaming anyone but yourself for constantly failing on any goal you set. It's great, consistent comedy content, which is why we all love you. 
+ Like Like 
+ 
+ Wilhelm Arcturus  Post author July 28, 2017 at 2:20 pm 
+ 
+ @Sally Bowls - I agree that we would be unlikely to hear every tale, or even most tales about dev corruption for profit. But if this were anywhere close to as pervasive as Gevlon says, we should have heard something. People gossip. People like to brag. And the customers in the industry are… passionate, to put it nicely, so any rumor gets picked up, thrown about, and ends up as a Kotaku headline. 
+ I mean, you can find tales of those in the RMT business as customers. The book  Play Money  covers RMT in  Ultima Online  and includes people like Markee Dragon, a name that comes up again and again in the world or RMT. No surprise he got busted by CCP for offering ISK rebates for GTC codes a couple years back. There was a good magazine article about the two guys who found the rare pet exploit bug in  EverQuest II  and made a bunch of money. It paid for a house for each of them, which is a lot, but not even in the same country as a "retire at 30" level of result. They, like most in-game accumulators of currency, had to work through third parties in order to sell it, so were making less than half of the end user purchase price. 
+ You can even find tales of devs or GMs abusing their power. The whole T20 scandal in  EVE Online  involved a CCP employee giving in-game items to people he played with. 
+ But a story about a dev who went into game development looking to make bank and pulled it off? Can't find it. Nobody out there bragging. No rumors on Reddit. Nothing but wild theories from people who have other motives for being angry at particular games or the industry in general. 
+ There being no stories is a weak argument on its own, I admit. But the counter is that even ONE such story would give Gevlon's theory legitimacy. Without one, it is just unsubstantiated ranting and tortured logic that cannot offer any proof whatsoever and can be dismissed by logic of a more believable nature and first had experience in software development. 
+ @Gevlon - Actually, I was a bit put out that SynCaine posted, and posted first, because I knew it would undermine my intent of writing a post that tried to look at your argument without being an attack. Granted, I couldn't resist some snark… or a dig at the prickly Wolfshead for letting his principles slip… but I tried to focus on the argument and not the person making them, with the exception of your not being a software dev, which undermines your credibility on that topic. But this post came about because I found the whole thing interesting to think through. 
+ As for a dev collecting half the take of any botters… once a dev gets into a deal with the RMT side of things, the RMT people own him. If they get caught, they just start over. If they sell him out, he loses his job and won't get another in the industry. Said dev might get a small kick back to keep him sweet, but he has more to lose and little real leverage over the botters. The dev isn't retiring at 30. He is maybe buying a better gaming rig than he ought to or expanding his Think Geek T-shirt collection. 
+ The parallel is the drug trade. Who gets rich there? The corrupt policeman? I don't think so. 
+ Like Like 
+ 
+ Gevlon   July 28, 2017 at 5:07 pm 
+ 
+ Hey Syncaine, if you want to convince people that devs aren't corrupted, maybe it's not the best strategy to tell how they reach out to you, give you free stuff and how you can influence them. 
+ Like Like 
+ 
+ SynCaine   July 28, 2017 at 6:07 pm 
+ 
+ Ah so new goalpost position again; now 'corruption' also covers just influencing devs (art devs included in this one or no?) with no money exchanged. Good to know Gevlon, thanks. Guess you are right, all devs ARE 'corrupt', seeing as how I think every game has a suggestion forum where all that dirty 'corrupt' influencing also happens. 
+ Keep posting, you're doing great! 
+ Like Like 
+ 
+ kiantremayne   July 30, 2017 at 5:16 pm 
+ 
+ Here's a few thoughts: 
+ 
+ As has already been pointed out, if you're in it for the money there are much better areas of software development - financial services firms pay more, for example. If you're planning on being corrupt, financial services would DEFINITELY be a better choice - try googling 'Bank of Bangladesh' and 'SWIFT network', a billion dollars in fraudulent transactions is much more than you're going to make with any dodgy RMT scheme. 
+ I'm kind of surprised Gevlon hasn't read 'Freakonomics', as it would be right up his street and the chapter about drug dealers pretty clearly covers what we have here. The vast majority of drug dealers, like games developers, earn peanuts - in the case of drug dealers, less than they would flipping burgers and with a real risk of getting murdered. Nonetheless, people choose to do it because the payoff for the few stars is so high. Young devs dream of being Chris Roberts or Richard Garriott… even if the truth is they'll be lucky to be Derek Smart. 
+ Yeah, development is hard and amateurs are at the wrong end of the Dunning-Kruger effect. I work in banking IT, where we sweat bullets to make sure everything is planned to death, tested to death and defects are hunted down with Schwarzenegger-like precision because the consequences of a bug in a payments system go way beyond the biggest epic fail possible in a game. The fact that we don't always succeed isn't JUST because we're a bunch of witless incompetents… 
+ 
+ Like Like 
+ Voice your opinion... but be nice about it...  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (Address never made public) 
+ Name 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Search 
+ Search for: 
+ Strange Google Magic! 
+   Subscribe in a reader 
+ Follow Blog via Email 
+ Join 2,791 other followers 
+ Email Address: 
+ Email Posts to Me! 
+ Categories 
+ Categories Select Category A Random Post  (1) Ancient Gaming  (69) Blizzard  (425) blog thing  (204) Books  (22) Camelot Unchained  (31) Casual Games  (34) Crowfall  (12) Daybreak Game Company  (143) Diablo II  (53) Diablo III  (140) Dungeons & Dragons Online  (43) Elite: Dangerous  (3) entertainment  (5,203) EVE Online  (1,802)    Null Sec  (682) EverQuest  (601) EverQuest II  (743) EverQuest Next  (47) Facebook  (34) Fantasy Movie League  (106) Feeds  (1) Gaming Industry Trends  (10) General  (53) Guild Wars 2  (46) Hardware  (84) Humor  (237) In Person  (55) Instance Group  (342) iPad  (14) Kickstarter  (91) Landmark  (27) LEGO Products  (35) Lord of the Rings Online  (438) Mail Bag  (16) memes  (9) Minecraft  (134) Misc MMOs  (193) MMO Design  (100) Month in Review  (172) Movies  (117) MUDs  (45) Need for Speed World  (35) Neverwinter  (12) Neverwinter Nights 2  (4) Nintendo  (117) Nintendo DS Hardware  (142) Other PC Games  (148) Pantheon: Rise of the Fallen  (24) Path of Exile  (12) Pirates of the Burning Sea  (32) PlanetSide 2  (25) PlayStation 3  (19) Podcasts  (97) Pokemon  (236) Pokemon Go  (99) polls  (53) Project: Gorgon  (24) Quote of the Day  (122) Random  (8) Rift  (162) RPGs  (9) Runes of Magic  (20) Shroud of the Avatar  (34) Sony Online Entertainment  (343) Star Citizen  (21) Star Trek Online  (76) Star Wars: The Old Republic  (85) Steam  (79) Strategy Group  (28) SuperData Research  (58) Television  (10) The Elder Scrolls Online  (15) Torchlight II  (19) TorilMUD  (74) Vanguard SOH  (136) War Thunder  (16) Warhammer Online  (96) Wii  (62) WildStar  (22) WordPress.com  (24) World of Tanks  (85) World of Warcraft  (1,415) World of Warplanes  (15) World of Warships  (7) WoW Classic  (180) YouTube  (167) Zynga  (24) 
+ Recent Posts 
+ 
+ My Time on Twitch in 2020 
+ Life on the M2 Hell Camp 
+ Diversion to Dire Maul East 
+ What Does LOTRO Need? 
+ Quantum Cores Now Required in Upwell Structures 
+ 27 Weeks of World War Bee 
+ SuperData Reviews 2020 Digital Game Revenue 
+ My Games Played for 2020 and Looking Forward into 2021 
+ World War Bee Six Month Review 
+ Blackrock Depths and Love Potion Run Number Nine 
+ The Imperium Retakes the NJU-QV Constellation in Delve 
+ The End of the Steam Winter Sale with 2020 Stats and Awards 
+ A Timeline of SOE and Daybreak Games 
+ 26 Weeks of World War Bee 
+ PAPI Thwarted at Final M2-XFE Keepstar Timer by the Early Bird Imperium 
+ 
+ Recent Comments 
+ 
+ MagiWasTaken  on  My Time on Twitch in 2020 
+ jim sterner on  Air Warrior - Vague Memories from the Early Days of Virtual Flight 
+ Anonymous on  Life on the M2 Hell Camp 
+ Shintar  on  Diversion to Dire Maul East 
+ Wilhelm Arcturus  on  Life on the M2 Hell Camp 
+ bhagpuss  on  Life on the M2 Hell Camp 
+ Wilhelm Arcturus  on  Diversion to Dire Maul East 
+ Whoom on  What Does LOTRO Need? 
+ Shintar  on  Diversion to Dire Maul East 
+ Ula  on  Diversion to Dire Maul East 
+ 
+   MMO Blog Feed (v.7.5) 
+ 
+ Blessing of Kings: Torghast Beasts 
+ 
+ January 16, 2021 at 08:17PM 
+ 
+ Priest with a Cause - A World of Warcraft (Classic) blog: The Shadowlands Are Interesting 
+ 
+ January 16, 2021 at 06:36PM 
+ 
+ The Nosy Gamer: Ishgard Restoration - Stage 4, Day 4 - Skyworker's Attire 
+ 
+ January 16, 2021 at 05:00PM 
+ 
+ Inventory Full: A Hero Comes Along 
+ 
+ January 16, 2021 at 01:21PM 
+ 
+ Blessing of Kings: Gaming Log - January 15 
+ 
+ January 15, 2021 at 11:16PM 
+ 
+ Going Commando | A SWTOR Fan Blog: Bioware Addresses Darth Malgus Conquest Shenanigans 
+ 
+ January 15, 2021 at 05:41PM 
+ 
+ The Nosy Gamer: Ishgard Restoration - Stage 4, Day 3 - Trike 
+ 
+ January 15, 2021 at 04:50PM 
+ 
+ Cerbs and Scimitars | EVE Online Pictures 
+ 
+ January 15, 2021 at 12:16PM 
+ 
+ » Microsoft Space Simulator (or, Charles Guy’s Galaxy in a Box) The Digital Antiquarian 
+ 
+ January 15, 2021 at 09:24AM 
+ 
+ Inventory Full: Into The Light 
+ 
+ January 15, 2021 at 08:18AM 
+ 
+ When Nothing Happens 
+ 
+ January 15, 2021 at 07:50AM 
+ 
+ Epic Drops Fortnite Crew Emote | MMO Fallout 
+ 
+ January 15, 2021 at 06:48AM 
+ 
+ Game Over: Fort Meow (#PuzzleGameMonth) – Nerd Girl Thoughts 
+ 
+ January 15, 2021 at 06:01AM 
+ 
+ Bless Unleashed Thoughts - Tales of the Aggronaut 
+ 
+ January 15, 2021 at 05:20AM 
+ 
+ Blessing of Kings: Need to Improve My Healing 
+ 
+ January 14, 2021 at 09:11PM 
+ A Random Post 
+ 
+ Roll The Dice at TAGN! 
+ 
+ MMO Commentary 
+ 
+ Aywren Sojourner 
+ Battle Stance 
+ Bio Break 
+ Blessing of Kings 
+ Contains Moderate Peril 
+ Endgame Viable 
+ EVE Online Pictures 
+ Gamer of Passion 
+ Going Commando 
+ Gray's Otome 
+ Growing Up in Azeroth 
+ Hardcore Casual 
+ I HAS PC 
+ Inner Sanctum of the Ninveah 
+ Inventory Full 
+ Keen and Graev's Gaming Blog 
+ Kill Ten Rats 
+ Killed in a Smiling Accident 
+ Kitty Kitty Boom Boom 
+ Knifesedge Blogs 
+ Low Sec Lifestyle 
+ Mail Valtar 
+ Me vs. Myself and I 
+ Nomadic Gamers 
+ Occasional Hero 
+ Psychochild’s Blog 
+ Raph Koster's Website 
+ Stabbed Up 
+ Tales of the Aggronaut 
+ The Nosy Gamer 
+ Tish Tosh Tesh 
+ To Game For Life 
+ Ulalu 
+ Wolf Brothers, Inc 
+ 
+ MMO News & Study 
+ 
+ Blizzard Watch 
+ EVE News 24 
+ Imperium News 
+ Massively Overpowered 
+ MMO Fallout 
+ MMORPG.com 
+ New Eden Post 
+ SuperData Research 
+ Terra Nova 
+ The EQ2 Wire 
+ The EverQuest Show 
+ VirginWorlds MMO News 
+ 
+ The Games I Play 
+ 
+ EVE Online 
+ Pokemon Go 
+ World of Warcraft 
+ 
+ The Games I Watch 
+ 
+ Diablo III 
+ EverQuest 
+ EverQuest II 
+ Games on Steam 
+ Guild Wars 2 
+ Lord of the Rings Online 
+ Minecraft 
+ Path of Exile 
+ Pokemon 
+ Project: Gorgon 
+ Rift 
+ Runes of Magic 
+ Toril MUD 
+ 
+ The Humor Supplement 
+ 
+ Bent Objects 
+ The Bloggess 
+ The Daily WTF 
+ The Tolkien Sarcasm Page 
+ xkcd 
+ Zero Punctuation 
+ 
+ What Else Do I Read? 
+ 
+ Ars Technica 
+ ASCII by Jason Scott 
+ I, Cringely 
+ Popehat 
+ QA Hates You 
+ Register Hardware 
+ TechDirt 
+ The Digital Antiquarian 
+ Totally Legit Publishing 
+ Wait But Why 
+ 
+ Archives 
+ Archives Select Month January 2021  (17) December 2020  (41) November 2020  (33) October 2020  (44) September 2020  (32) August 2020  (36) July 2020  (38) June 2020  (33) May 2020  (34) April 2020  (31) March 2020  (28) February 2020  (27) January 2020  (29) December 2019  (32) November 2019  (38) October 2019  (38) September 2019  (33) August 2019  (49) July 2019  (38) June 2019  (33) May 2019  (34) April 2019  (29) March 2019  (34) February 2019  (26) January 2019  (28) December 2018  (41) November 2018  (37) October 2018  (35) September 2018  (37) August 2018  (40) July 2018  (34) June 2018  (32) May 2018  (31) April 2018  (32) March 2018  (29) February 2018  (27) January 2018  (29) December 2017  (32) November 2017  (33) October 2017  (27) September 2017  (30) August 2017  (38) July 2017  (29) June 2017  (29) May 2017  (30) April 2017  (25) March 2017  (24) February 2017  (26) January 2017  (27) December 2016  (32) November 2016  (26) October 2016  (28) September 2016  (25) August 2016  (36) July 2016  (33) June 2016  (31) May 2016  (29) April 2016  (31) March 2016  (30) February 2016  (29) January 2016  (32) December 2015  (24) November 2015  (30) October 2015  (30) September 2015  (32) August 2015  (42) July 2015  (29) June 2015  (29) May 2015  (29) April 2015  (26) March 2015  (28) February 2015  (31) January 2015  (30) December 2014  (24) November 2014  (29) October 2014  (32) September 2014  (31) August 2014  (39) July 2014  (32) June 2014  (26) May 2014  (30) April 2014  (35) March 2014  (31) February 2014  (31) January 2014  (37) December 2013  (29) November 2013  (31) October 2013  (30) September 2013  (28) August 2013  (28) July 2013  (34) June 2013  (29) May 2013  (33) April 2013  (34) March 2013  (39) February 2013  (28) January 2013  (31) December 2012  (27) November 2012  (37) October 2012  (39) September 2012  (38) August 2012  (42) July 2012  (38) June 2012  (27) May 2012  (41) April 2012  (36) March 2012  (44) February 2012  (33) January 2012  (40) December 2011  (43) November 2011  (42) October 2011  (44) September 2011  (43) August 2011  (32) July 2011  (30) June 2011  (37) May 2011  (47) April 2011  (41) March 2011  (44) February 2011  (47) January 2011  (38) December 2010  (46) November 2010  (37) October 2010  (31) September 2010  (33) August 2010  (33) July 2010  (33) June 2010  (30) May 2010  (19) April 2010  (35) March 2010  (37) February 2010  (35) January 2010  (37) December 2009  (38) November 2009  (28) October 2009  (29) September 2009  (23) August 2009  (35) July 2009  (27) June 2009  (27) May 2009  (26) April 2009  (30) March 2009  (31) February 2009  (27) January 2009  (29) December 2008  (28) November 2008  (35) October 2008  (39) September 2008  (30) August 2008  (30) July 2008  (29) June 2008  (28) May 2008  (31) April 2008  (32) March 2008  (28) February 2008  (28) January 2008  (33) December 2007  (33) November 2007  (35) October 2007  (34) September 2007  (43) August 2007  (45) July 2007  (45) June 2007  (40) May 2007  (38) April 2007  (42) March 2007  (35) February 2007  (41) January 2007  (59) December 2006  (47) November 2006  (53) October 2006  (38) September 2006  (18) 
+ 
+ 
+ 
+ July 2017 S 
+ M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 
+ 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 
+ 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 
+ 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 
+ 
+ 30 
+ 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ « Jun   Aug » 
+ Top Posts 
+ 
+ Life on the M2 Hell Camp 
+ Minecraft and the Search for a Warm Ocean 
+ My Time on Twitch in 2020 
+ SuperData and Wavering WoW Subscriptions 
+ Time to Earn some ISK 
+ Robbing Some Space Banks 
+ Alamo teechs u 2 play DURID! 
+ Pokemon Enigma Stone Download Event 
+ CCP is Just Going to Keep Selling Skill Points for Cash 
+ Do You Need a Level Booster for Shadowlands? 
+ 
+ TAGN Spams Twitter 
+ 
+ RT @ utopianmae : An old one, but a good one. :-)  https://t.co/sEllFXvAxR   21 hours ago 
+ RT @ cjchivers : if washington has a green zone can we next expect playing cards bearing the faces of top american insurgents?  21 hours ago 
+ My Time on Twitch in 2020   tagn.wordpress.com/2021/01/16/my-…   22 hours ago 
+ Cerbs and Scimitars   evepics.wordpress.com/2021/01/15/cer…   1 day ago 
+ RT @ belghast : This is EVERY MMO ever not just Destiny :)   twitter.com/theLLance/stat…   1 day ago 
+ Life on the M2 Hell Camp   tagn.wordpress.com/2021/01/15/lif…   1 day ago 
+ RT @ marcatracy : Have never in my life seen a more obvious meme coming   twitter.com/MichaelBKelley…   2 days ago 
+ RT @ DavidPepper : Stop the steal!   twitter.com/Acosta/status/…   2 days ago 
+ Diversion to Dire Maul East   tagn.wordpress.com/2021/01/14/div…   2 days ago 
+ A Nag pilot decides to test the M2 camp.   zkillboard.com/kill/89944310/   https://t.co/JkVeWBT83y   2 days ago 
+ 
+ Follow @wilhelm2451 
+   Blaugust Test Feed 
+ 
+ An error has occurred; the feed is probably down. Try again later. 
+ 
+   Gaming Company News Feed 
+ 
+ www.eveonline.com 
+ 
+ EVE Online newsNew Abyssal Proving Grounds EventJanuary 15, 2021 at 03:10AM 
+ 
+ www.eveonline.com 
+ 
+ EVE Online newsCreate Your EVE VideoJanuary 7, 2021 at 07:08AM 
+ 
+ Your Year in EVE – Video Data | EVE Online 
+ 
+ EVE Online newsYour Year in EVE – Video DataJanuary 7, 2021 at 04:10AM 
+ 
+ The Second Timer in M2-XFE | EVE Online 
+ 
+ EVE Online dev-blogsThe Second Timer in M2-XFEJanuary 4, 2021 at 05:51PM 
+ 
+ www.eveonline.com 
+ 
+ EVE Online news50% Off 3 Month Omega + 3 Month MCTJanuary 3, 2021 at 03:05AM 
+ 
+ Catacombs of the Bear Cult and Captif d’Yvoire now on Drive-thru rpg! | Deluxe Tunnels & Trolls 
+ 
+ Deluxe Tunnels & TrollsCatacombs of the Bear Cult and Captif d’Yvoire now on Drive-thru rpg!December 31, 2020 at 10:36AM 
+ 
+ Create Your Unique EVE Video | EVE Online 
+ 
+ EVE Online newsCreate Your Unique EVE VideoDecember 29, 2020 at 07:06AM 
+ 
+ EVE Pulse - End of year special | EVE Online 
+ 
+ EVE Online newsEVE Pulse - End of year specialDecember 28, 2020 at 07:07AM 
+ 
+ The EVE Online Ecosystem Outlook | EVE Online 
+ 
+ EVE Online dev-blogsThe EVE Online Ecosystem OutlookDecember 27, 2020 at 06:53AM 
+ 
+ Steam :: Steam Blog :: The Best of 2020 
+ 
+ Steam Blog RSS Feed2020年の年間ベストDecember 26, 2020 at 10:07AM 
+ 
+ 15% Off Omega Sale | EVE Online 
+ 
+ EVE Online news15% Off Omega SaleDecember 24, 2020 at 03:06AM 
+ 
+ 50% Off 3 Month Omega + 3 Month MCT | EVE Online 
+ 
+ EVE Online news50% Off 3 Month Omega + 3 Month MCTDecember 23, 2020 at 03:12AM 
+ 
+ Steam :: Steam Blog :: Announcing the 2020 Steam Winter Sale 
+ 
+ Steam Blog RSS FeedОбъявляем зимнюю распродажу Steam 2020December 22, 2020 at 10:45AM 
+ 
+ Steam :: Steam Blog :: Announcing the 2020 Steam Awards Nominees 
+ 
+ Steam Blog RSS FeedПредставляем номинантов на премию Steam 2020December 22, 2020 at 10:45AM 
+ 
+ www.eveonline.com 
+ 
+ EVE Online news13 Days of NexusDecember 22, 2020 at 07:06AM 
+ Release Flags of All Nations! 
+ 
+   Recent Reading 
+ 
+ The Return of the King (The Lord of the Rings, #3)  January 11, 2021 
+ Farthing (Small Change, #1)  January 11, 2021 
+ The Two Towers (The Lord of the Rings, #2)  January 6, 2021 
+ The Fellowship of the Ring (The Lord of the Rings, #1)  December 19, 2020 
+ Stasiland: Stories from Behind the Berlin Wall  December 19, 2020 
+ Dominion  December 9, 2020 
+ It Was All a Lie: How the Republican Party Became Donald Trump  November 12, 2020 
+ Mogworld  November 3, 2020 
+ A Knife in the Dark: A Science Fiction Noir Thriller  November 3, 2020 
+ Darkness at Noon  October 23, 2020 
+ 
+ Spam Blocked 
+ 1,470,393 spam  blocked by  Akismet 
+ Start a Blog at WordPress.com . 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ %d bloggers like this: 

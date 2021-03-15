@@ -1,0 +1,99 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Senior Data Engineer 
+ BC IMC 
+ __Victoria, BC 
+ Apply Now 
+ DEPARTMENT DESCRIPTION 
+ The Technology department is responsible for developing technology solutions that contribute to the achievement of BCI’s mission and long-term goals. The department manages the Corporation’s business applications and information technology infrastructure, providing support to a large group of financial professionals. The department is also responsible for authoring technology-related directives and conducting disaster recovery planning to minimize risk to the Corporation’s delivery of investment services. 
+ The Data & Analytics function is responsible for the governance, architecture and engineering of BCI’s data assets. It also provides reporting, insights and data science capabilities to its customers. 
+ POSITION DESCRIPTION 
+ Reporting to the Director, Data & Analytics, the Senior Data Engineer is responsible for the design, development and implementation of the data and analytics products and projects that enable data science efforts in the organization. The Senior Data Engineer will deliver business value to multiple business areas across the organization and works closely with internal Technology and business area stakeholders. S/he will drive data modernization and innovation, and contributes to a strong data and analytics competency for BCI. 
+ The position can be based in either Vancouver or Victoria with travel between the two cities. 
+ QUALIFICATIONS 
+ MUST HAVE: 
+Bachelor’s Degree in Technology, Computer Science, Mathematics or a related discipline 
+A minimum of 5 years of experience as a Data Engineer or Software Engineer professional 
+Experience with data warehouse and data lake design, development and sustainment 
+Coding skills and deep proficiency with SQL, Python, etc. 
+Competent with general scripting/software development 
+Understanding of data processing performance concerns and issues (configuring database server/data schema for performance, optimizing SQL) 
+Experience with reporting tools (e.g. Excel, Power BI, Tableau) 
+Experience with version control systems (e.g. Git) 
+Experience with cloud platforms 
+Strong knowledge of data modeling, data architecture and data structures 
+Strong understanding Agile and DevOps, including CI/CD technologies and practices 
+Excellent listening, communication, collaboration and problem-solving skills 
+ PREFERRED: 
+Knowledge of the investment management industry 
+PRIMARY RESPONSIBILITIES 
+Collaborates with team members, other IT teams, and customers to understand the organization’s business objectives, data needs and infrastructure needs 
+Provides technical leadership and creates a culture of customer-centricity, accountability and high performance 
+Designs, develops and implements the data pipelines and ETL tools and workflows that enable data science efforts within the organization 
+Works with Data Architects and Data Scientists on the design, development and implementation of operational, transactional and analytical modeling 
+Proactively identifies risks and issues and proposes solutions to remove barriers 
+Applies knowledge of DevOps practices including continuous deployment, continuous integration, test-driven development and automated testing 
+Mentors junior engineers, follows best practices, performs code reviews and architects resilient infrastructure 
+Solves challenging problems about scale, statistics, infrastructure reliability, latency and more 
+Leads data mining and collections procedures 
+Robustly sources, structures, profiles, validates and transforms data for reporting, analysis and data science purposes 
+Engages with stakeholders to define, design and deliver data sourcing, analysis and reporting solutions 
+Makes recommendations about the methods used to collect, analyse and manage structured and unstructured data to drive outcomes 
+Develops solutions (and code) to automate and productionize data sourcing, data structuring and analytical modelling 
+Analyzes data sources, evaluating and remediating data quality, designing and implementing data sets that can be consumed and re-used by the analytics community across BCI 
+Helping the business interpret the results of analyses to determine the appropriate course of action 
+Proactively identifies opportunities to utilize data and analytics to business advantage and prototyping for ‘proof of value’ 
+Assists in troubleshooting and guiding resolution of data analytics related problems in a timely and accurate fashion 
+Undertakes special projects or assignments as required 
+Performs other related duties as required 
+COMPETENCIES 
+ Learning Agility 
+ Effective performers continuously seek new knowledge. They are curious and want to know “why”. They learn quickly and use new information effectively. They create and foster a culture of interest, curiosity, and learning. 
+ Relationship Building 
+ Effective performers establish and proactively maintain a broad network of relationships (e.g. colleagues, co-workers, vendors, suppliers, etc.). They value these relationships and work effectively across the organization by maintaining positive working relationships with peers and others. 
+ High Standards 
+ Effective performers possess a high inner work standard and shows pride in their work. They consistently strive to ensure work is complete within deadlines and that all work performed is of a high quality. 
+ Organization & Planning 
+ Effective performers have strong organizing and planning skills that allow them to be highly productive and efficient. They manage their time wisely and effectively prioritize multiple competing tasks. They follow through on tasks to ensure changes in technology are communicated effectively. 
+ Results Orientation 
+ Effective performers maintain appropriate focus on outcomes and accomplishments. They are motivated by achievement, and persist until the goal is reached. They convey a sense of urgency to make things happen. They respect the need to balance short- and long-term goals. They are driven by a need for closure. 
+ Communicativeness 
+ Effective performers clearly and articulately convey technical and other information both orally and in writing to others in a manner appropriate to the listener. They write clearly, accurately and concisely, composing project, technical and other required documentation as required. 
+ Change Mastery 
+ Effective performers are adaptable. They embrace needed change and modify their behaviour when appropriate to achieve organizational objectives. They are effective in the face of ambiguity. They understand and use change management techniques to help ensure smooth transitions. 
+ Business Thinking 
+ Effective performers see the organization as a series of integrated and interlocking business processes. They understand how their work connects with and affects other areas of the organization. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

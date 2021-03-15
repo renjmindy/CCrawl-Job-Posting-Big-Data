@@ -1,0 +1,154 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ Full Stack Clojure Developer 
+ Medino 
+ London, United Kingdom 
+ 25 November, 2020 
+ Apply 
+ More jobs from Medino 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ CSS 
+ Clojure 
+ HTML 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ 
+ Come help re-invent pharmacy shopping by joining the #1 pharmacy on Trustpilot 
+ Role overview 
+ About medino 
+ We are the pharmacy in your phone 📱- an e-commerce startup re-inventing pharmacy shopping to suit a high speed online lifestyle 🏥 We’re challenging the old school pharmacies by making an easy to use website, as well as rethinking the supply chain to offer convenient, fast delivery to our customers’ door step. 
+ Founded back in 2017, we’ve shown tremendous growth, sending out over 100,000 orders so far this year, while being ranked the #1 pharmacy on Trustpilot ✅ 
+ We’ve just secured additional funding of over £5m, and as a next step we’re looking to expand further into the market and bring our offering to the masses - creating a new household brand for the pharmacy industry. The goal is simply to give consumers an accessible and convenient one stop shop for all their pharmacy, health and beauty needs. 
+ Now we are looking for a full stack developer to expand our tech team and help medino grow even further 📈 
+ Our tech 
+ Our website as well as all our back-office systems are built in-house, using Clojure, Postgres, HTML, CSS and Javascript. 
+ Being a small team, we’ve focused on building a simple and maintainable code base to make sure we get the highest possible output. That means high test coverage and a focus on simplicity and easy to understand code. 
+ We work lean, building features in small increments, testing features out before spending weeks of development, working with A/B testing and analysing results of the new features as needed. We normally release at least a few times a day. 
+ Generally we as much as possible let the needs of the business drive the priority of development and try to stay very agile. Using Kanban with weekly grooming sessions we rarely plan development work more than a week ahead. 
+ The role 
+ Full stack in the true sense, as a developer at medino you will be working on all aspects of medino - website, warehouse management, packing and logistics, buying, pricing, marketing initiatives, data analysis etc. This is a small startup, so aside from the tech we all pitch in where it’s needed - If we’re having a really busy day you might even have to help with packing a few orders. 
+ Being a young company you will also be a key part in shaping how we work, both with our tech and with the team. 
+ You 
+ Want to work in a lean startup environment  💡 
+ We work as lean as we can, with quick turnarounds - If you have a great idea in the morning you could be releasing it the same afternoon. Hopefully you are someone who thrives working in this high paced environment with very little standing in the way of a good idea. 
+ Want to help shape a growing startup’s tech  💻 
+ We started out as a greenfield project 3 years ago and there is still a lot of opportunity to shape our tech and how we work as a team. We’d like the person joining to be involved in this process, help lead the team to the next level, and put their mark on a quickly growing tech startup. 
+ Have a big picture view and are your own manager  🗣️ 
+ We are a small team (7 people total, and only 2 in the tech team) and there is no one deciding what we should be working on, it will be up to the team. So you should have a keen interest in developing a product - always keeping the end users experience in mind, but can see the importance of the business side of things as well. 
+ You will be asked to run with your own tasks, speaking with the different teams, figuring out what we should be working on, how it should be designed, as well as doing the actual coding to make it happen. So it is important that you have the drive and interest to handle all parts of the product development yourself. 
+ Are user focused and have an eye for design  👀 
+ As we are a small team, there are no in-house designers. Which means that you’ll be doing most of the UX research and UI design of the features you build. You will also be setting up the A/B tests and analyse the results of new features as needed. Extensive design experience is not a requirement but you at least have an interest and want to learn more about it. 
+ See the importance of writing clean, simple and tested code  ⌨️ 
+ You write code that is not just functional, but maintainable as well. We write tests for all features, as well as analysing how each feature will work to be as simple as possible. We also won’t hesitate to spend time fixing technical debt or re-working features that were made too complex the first time around. 
+ Knowledge of Clojure or Postgres is not a requirement but if you haven’t worked with these, you’re keen to learn. 
+ Medino 
+ We are the pharmacy in your phone - an e-commerce startup re-inventing pharmacy shopping to suit a high speed online lifestyle. We’re challenging the old school pharmacies by making an easy to use website, as well as rethinking the supply chain to offer convenient, fast delivery to our customers’ door step. Founded back in 2017, we’ve shown tremendous growth, sending out over 100,000 orders so far this year, while being ranked the #1 pharmacy on Trustpilot. We’ve just secured additional funding of over £5m, and as a next step we’re looking to expand further into the market and bring our offering to the masses - creating a new household brand for the pharmacy industry. The goal is simply to give consumers an accessible and convenient one stop shop for all their pharmacy, health and beauty needs. Now we are looking for a full stack developer to expand our tech team and help medino grow even further. 
+ Flexible Working 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Medino 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ CSS 
+ Clojure 
+ HTML 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Frontend EngineerCompetitiveCleoUnited Kingdom 
+ On a mission to fight for the world's financial health! 
+ Remote 
+ css html javascript react react native 
+ More Info Apply 
+ Software ArchitectCompetitiveMcKinsey & CompanyLondon, United Kingdom 
+ Digital McKinsey brings together the best of McKinsey’s digital capabilities to help our clients 
+ angular aws css docker html javascript kubernetes node.js react 
+ More Info Apply 
+ Clojure(Script) Developer£35K - 60KElcomUnited Kingdom 
+ Help us develop our innovative range of next generation spend management solutions 
+ Remote 
+ css clojure clojurescript html react reagent 
+ More Info Apply 
+ Full Stack Clojure Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

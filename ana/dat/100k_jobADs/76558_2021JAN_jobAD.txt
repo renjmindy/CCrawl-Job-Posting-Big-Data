@@ -1,0 +1,262 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Quality Engineer 
+ IHS Markit 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Quality Engineer 
+ IHS Markit 
+ [](mailto:?subject=Senior%20Quality%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14299677/senior-quality-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 12, 2021 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Who we are: 
+ Our Company was founded on the idea that there are patterns in people's behavior that, with the right logic, can be used to predict future outcomes. We are a small but rapidly growing organization that works in partnership with our customers to create solutions that are simply not found anywhere else. We work in groups rather than in structured corporate hierarchies; our culture is creative and entrepreneurial where everyone contributes to company goals in very real way. We are a hardworking group, but we have a lot of fun with what we do and are looking for new people with a similar mindset to join the organization. 
+ What we do: 
+ Our proprietary software-as-a-service helps automotive dealerships and sales teams better understand and predict exactly which customers are ready to buy, the reasons why, and the key offers and incentives most likely to close the sale. Its micro-marketing engine then delivers the right message at the right time to those customers, ensuring higher conversion rates and a stronger ROI. 
+ What you will do: 
+ 
+ 
+ Participate in and improve the whole lifecycle of services-from inception and design, through 
+ 
+ 
+ deployment, operation, and refinement. 
+ 
+ 
+ Participate in the release planning process to review functional specifications and create release plans. 
+ 
+ 
+ Collaborate with software engineers to design verification test plans. 
+ 
+ 
+ Design regression test suites and review with engineering, applications and the field organization. 
+ 
+ 
+ Produce regular reports on the status and quality of software releases and be prepared to speak to findings in an informative way to all levels of audience. 
+ 
+ 
+ Assess the quality, usability and functionality of each release. 
+ 
+ 
+ Develop and organize QA Processes for assigned projects to align with overall QA goals. 
+ 
+ 
+ Lead and train a dynamically changing team of colleagues who participate in testing processes. 
+ 
+ 
+ Exhibit expertise in handling large scale programs/projects that involve multiple stakeholders (Product, Dev, DevOps). 
+ 
+ 
+ Maintain a leading edge understanding of QA as related to interactive technologies best practices 
+ 
+ 
+ Design and implement test automation strategy for multiple product development teams at the onset of the project. 
+ 
+ 
+ Lead efforts for related automation projects, design and code reviews. 
+ 
+ 
+ Work closely with leadership and IT to provide input into the design and implementation of the automation framework. 
+ 
+ 
+ Work with Architecture, Engineering, Quality Engineering, IT, and Product Operations leaders to create and implement processes that accelerate the delivery of new features and products with high quality and at scale. 
+ 
+ 
+ Develop and contribute to a culture of high performance, transparency and continuous improvement as it relates to the infrastructure services and streamlining of the development pipeline. 
+ 
+ 
+ Participate in a diverse team of talented engineers globally, providing guidance, support and clear priorities. 
+ 
+ 
+ Who you are: 
+ 
+ 
+ Minimum of 5 years of Quality Engineering experience 
+ 
+ 
+ Hands on experience with at least 2 or more of leading testing tools/framework like Selenium, Cypress, Jmeter, blazemeter 
+ 
+ 
+ Strong analytical skills and ability to solve complex technical problems 
+ 
+ 
+ API testing - must have understanding of RESTful design / best practices. Hands on experience testing APIs and test tools 
+ 
+ 
+ Experience with load / stress / performance testing and tools 
+ 
+ 
+ Experience with Azure DevOps (or other similar issue/bug tracking systems) is required 
+ 
+ 
+ Ability to think abstract - to ensure ability to not conform to the norm. Norms do not find bugs quickly 
+ 
+ 
+ Experience working in an Agile software development organization 
+ 
+ 
+ Experience supporting development and product teams 
+ 
+ 
+ Excellent verbal, written, and interpersonal communication skills; ability to interact with all levels of an organization 
+ 
+ 
+ Ability to work in an advisory capacity to identify key technical and business problems, develop and evaluate alternative solutions and make recommendations 
+ 
+ 
+ Nice to have: 
+ 
+ Experience with Mobile automation - must have experience writing automated ui tests for iOS or Android 
+ 
+ Inclusion and diversity are critical to the success of IHS Markit, and we actively encourage applications from people of all backgrounds. We are committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, status as a protected veteran, or any other protected category. For more information on the many ways in which we enthusiastically support inclusion and diversity efforts for both candidates and employees, please access our Inclusion & Diversity Statement here . 
+ We are proud to provide reasonable accommodations to applicants with disabilities. If you are interested in applying for employment with IHS Markit and need special assistance or an accommodation to use our website or to apply for a position, please contact or call +1 212 849 0399. Determination on requests for reasonable accommodation are considered on a case-by-case basis. This contact information (email and phone) is intended for application assistance and accommodation requests only. We are unable to accept resumes or provide information about application status through the phone number or email address above. Resumes are only accepted through the online application process, and only qualified candidates will receive consideration and follow-up. 
+ IHS Markit maintains a substance-free workplace; employees may be asked to submit to a drug test (where permitted by law). In addition, as a federal contractor in the United States, the company participates in the E-Verify Program to confirm eligibility to work. 
+ For information please click on the following links: 
+ IHS Markit Business Code of Conduct 
+Right to Work 
+EEO is the Law 
+EEO is the Law Supplement 
+Pay Transparency  Current Colleagues 
+ If you are currently employed by IHS Markit, please apply internally via the Workday internal careers site. 
+ 
+ 
+ Internal Number: 9763693 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at IHS Markit 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Senior Applications Engineer  
+ __  Irvine, California 
+ 
+ 
+ 
+ 
+ Supply Chain Optics 
+ __1 Week Ago 
+ 
+ 
+ Senior Frontend Developer, AVP 
+ __  Krakow, Poland 
+ 
+ 
+ State Street Corporation 
+ __Today 
+ 
+ 
+ Senior Software Engineer 
+ __  Englewood, Colorado 
+ 
+ 
+ IHS Markit 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

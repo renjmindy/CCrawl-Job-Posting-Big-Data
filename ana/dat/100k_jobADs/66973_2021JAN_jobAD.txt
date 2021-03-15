@@ -1,0 +1,176 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Sr Mobile Engineer, React Native/Android 
+ [ 
+ Paidy 
+ ](/companies/paidy) 
+ Tokyo, Japan 
+ 19 January, 2021 
+ Apply 
+ More jobs from Paidy About Paidy 
+ Salary 
+ ¥7.5M - 10M 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ Android 
+ Java 
+ Kotlin 
+ MOBILE 
+ React Native 
+ 
+ Benefits & perks 
+ 
+ Pension contributions 
+ Diverse management team 
+ Japanese speaking lessons 
+ 2 months relocation/housing 
+ 
+ Change how payments are made in Japan with a real time distributed platform, handling millions of users - 
+ Role overview 
+ Must be locally based for this role and/or a Japanese native - this is until Covid restrictions ease up 
+ 
+ About the team 
+ We’re growing fast and we know that what worked a year ago won’t necessarily work a year from now. This applies to our technology and the organization of our teams. This offers tremendous opportunities for those willing to take ownership and responsibilities. 
+ We believe in honesty & empathy, introspection & collaboration, laughter & relationships, play to your strengths and patch your weaknesses, ask questions at all times, stay open-minded. 
+ About the job 
+ The Paidy product & platform revolves around data. Looking at our future, we need to look at every piece of our business architecture and infrastructure with a detailed and critical eye. You will help us be thoughtful and deliberate about tackling the right bottlenecks, as well as develop new features and support, extend or simplify the existing ones. You’ll have the opportunity to gain a deep understanding of creating simple user experiences for complex products. 
+ As a Senior Developer, you will work directly with engineers, product managers, and designers to build a great experience in various development projects. You will be joining a great collaborative and hands-on team and working with the latest mobile technologies to define and implement robust app architectures and complex user interfaces with security in mind. 
+ Preferred Qualifications 
+ 
+ Experience with React Native 
+ Degree in CS, Engineering or equivalent through experience 
+ Great communication and collaboration skills, and a strong teamwork ethic. 
+ Critical thinking skills and high attention to detail. 
+ Be able to educate and give direction to junior members. 
+ Strong sense of ownership and ability to manage multiple projects and deadlines. 
+ Passion for mobile application development as well as a deep understanding of Android and Google 
+ Play ecosystem and tools and be able to catch up with the latest technology trend. 
+ Familiar with Android application development, Agile development and SDLC, and mobile app 
+ release processes. 
+ Experience with Kotlin, Java, and proficient in Android Studio and GIT. 
+ Experience third-party libraries, RESTful APIs, and local databases. 
+ Highly proficient in the following concepts: OOP, MVVM, LiveData, Automation, and testability. 
+ 
+ Nice To Have Qualifications: 
+ 
+ Good knowledge in asynchronous programming using RxJava or Kotlin coroutines. 
+ Knowledge of Gradle scripting 
+ 
+ 
+ [ 
+ Paidy 
+ ](/companies/paidy) 
+ 
+ 50-249 
+ 
+ Paidy was founded with the mission to create a world of “We remove the barriers, embrace simplicity”, offering its real-time monthly consolidated credit service all across Japan. Paidy started Japan’s first instant post-pay credit service for ecommerce consumers in October 2014. Paidy requires no pre-registration or credit card to use; Paidy consumers purchase products online using only a mobile phone number and email address (verification is established though a four-digit code via SMS or voice pin-code) and settle a single monthly bill for all their purchases, either at a convenience store, by bank transfer or auto debit. Paidy also supports multi-pay installments and subscriptions. There are currently almost 4,000,000 Paidy accounts in use (Oct 2020)!! Paidy has proved a powerful means of persuading first time buyers to transact online. Its proprietary models and machine learning mean that transactions are underwritten in seconds, with guaranteed payment to merchants. Paidy increases merchant revenues by reducing incomplete transactions, increasing conversion rates, boosting average order values, and facilitating easy repeat buying. 
+ Technology Late Stage Venture Relocation Support Typed Functional Programming Akka CI/CD Cassandra Distributed Systems Pension Contributions Diverse Management Team 
+ View 4 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Paidy About Paidy 
+ Salary 
+ ¥7.5M - 10M 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ Android 
+ Java 
+ Kotlin 
+ MOBILE 
+ React Native 
+ 
+ Benefits & perks 
+ 
+ Pension contributions 
+ Diverse management team 
+ Japanese speaking lessons 
+ 2 months relocation/housing 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Software Engineer600K - 960K SEKNexureStockholm, Sweden 
+ Incubated Digital Start Up within Electrolux 
+ java kotlin 
+ More Info Apply 
+ Sr. Android DeveloperCompetitiveLivePersonNew York, NY, US 
+ Work on a cutting-edge app that will be used by millions of consumers 
+ android java 
+ More Info Apply 
+ React Native Mobile Developer$91K - 139K + EquityTailwindNew York, NY, US 
+ You will be leading the charge on building a greenfield project as a core pillar of our growth strategy 
+ mobile react native mobile apps 
+ More Info Apply 
+ Sr Mobile Engineer, React Native/Android 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

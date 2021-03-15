@@ -1,0 +1,664 @@
+Skip to content 
+ Primary Menu 
+ 
+ | HOME PAGE | 
+ | ABOUT ME | 
+ | MY PRESENTATIONS | 
+ | MY WEB LINKS | 
+ | MY NOTES & DISCLAIMERS | 
+ 
+ Search 
+ Search for: 
+ 
+ Mr. Fox SQL 
+ Outfoxing data challenges by being rather damn sneaky… 
+ Career 
+ SQL Saturday 769 Melbourne & 771 Sydney 
+ 31 May 20187 July 2018 Mr. Fox SQL (Rolf Tesmer) Leave a comment 
+ For those not aware there's some excellent local SQL events coming up here in  Melbourne  and  Sydney  … 
+ 
+ SQL Saturday   769  (Sat 30 Jun 2018) Melbourne.  SQL Saturday 771  (Sat 07 Jul 2017) Sydney. For those looking for some great free local SQL / Azure / BI / etc learning, you simply cannot go past a SQL Saturday anywhere in the world! And this one right here in Melbourne will again be no exception. There is a lineup of fantastic local speakers including Microsoft and MVP's as well as international speakers too. 
+ SQL Saturday   Pre-Con Training  (Fri 29 Jun 2018). Melbourne. Leading up to the main event are 3 pre-con training events which cover some very interesting topics around SQL Performance Analysis, Azure SQL Cloud Migrations and Data Science using Azure. 
+ 
+ SQL Saturday 769 - Melbourne 
+ SQL Saturday  is an excellent  free  learning resource for all things SQL Server - all costs are covered by  donations  and  sponsorships . Some of the excellent sponsors this year are  Microsoft ,  Wardy IT ,  SQLBI , and  PASS . 
+ Some of the session focus areas include SQL 2017/19 (many deep dives across almost all facets!), SQL DB/DW in Azure, CosmosDB, Azure Machine Learning, R, Data Lakes, BI, DAX, …  and so much more ! 
+ The event is being held at  Northcote Town Hall  (189 High Street, Northcote, VIC 3070) 
+ For those wanting to come along here are the links you need to know. Please go to the website and  register  to attend. 
+ 
+ **Event Home - ** http://www.sqlsaturday.com/769/EventHome.aspx 
+ **Event Registration - ** https://www.sqlsaturday.com/769/registernow.aspx 
+ Session Schedule  - (  under development, posted soon  ). Sneak peek of submitted sessions here -  http://www.sqlsaturday.com/769/Sessions/SubmittedSessions.aspx 
+ 
+ SQL Saturday 769 Pre-Con Training Options 
+ There's also 3 pre-con training sessions held the day before on Fri 29 Jun 2018. Definitely work a look in… 
+ 
+ Data Science with Microsoft Cloud - Leila Etaati 
+ Move Your Database to The Cloud - Jose Manuel 
+ Practical SQL Server Performance Analysis - Andreas Wolter 
+ 
+ 
+ Session: Building Streaming Data Pipelines in Azure… 
+ For those attending - I am presenting a pretty fun session on  Building Streaming ETL Pipelines Using Azure Cloud Services. 
+ **Session Details here - ** http://www.sqlsaturday.com/769/Sessions/Details.aspx?sid=78630 
+ We'll talk though the various different shape, speed and size of data sources available to modern business today, and discuss various PaaS streaming methods available to ingest data at scale all using the Azure Cloud Platform. I also have a few pretty fun demos which will aim to show how all the Azure services can tie together to perform ETL/ELT! 
+ Feel free to pop in to have a chat! 
+ I hope to see you all in  Melbourne  at  SQL Saturday! 
+ 
+ Disclaimer:  all content on  Mr. Fox SQL  blog is subject to the disclaimer found  here 
+ Share this... 
+ 
+ 
+ 
+ Tweet 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share on Tumblr 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Azure ,  Career ,  General Interest ,  PASS ,  SQL Server 
+ Microsoft Ignite US 2017 - Major Azure Announcements 
+ 10 October 201728 April 2018 Mr. Fox SQL (Rolf Tesmer) Leave a comment 
+ [ read this post on Mr. Fox SQL blog ] 
+ Microsoft Ignite  is probably the  biggest  technical event that Microsoft host yearly with many  major announcements  across the  entire solutions portfolio suite  -  and this year 2017 was certainly no exception to that ! 
+ This year it was held in  Orlando, FL  over  5 days (25 - 29 Sep)  and was  attended by more than 30,000 people  across the two major events of  Ignite  and  Envision.  The event covers all areas of Microsoft solutions including  Azure, Office, Power BI, SQL Server, Windows, Dynamics  , etc, etc and is a  world of technical goodness ! 
+ The announcements across the  Azure Cloud  space in particular are  significant and very exciting  , and provide a  strong lead  as to the direction Microsoft are taking their technologies today - and in the very near future. 
+ I have prepared a  summary deck  of what I think are the  major announcements  specifically across the  Azure Infrastructure and Data  space which are important to be aware of. There are of course  even more  announcements that this across other solutions areas I mentioned above that I haven't covered in this deck. 
+ You can download the **Azure Data & Infra ** announcements  deck from  [MY PRESENTATIONS]  page here on my blog site **Ignite US 2017 Announcements - ** https://mrfoxsql.files.wordpress.com/2017/10/azure_igniteus2017_whatsnew_v0-21.pdf 
+ In addition to all the  technical goodness  -  Satya  also released a new book called "  Hit Refresh  " which outlines the  inside story  of  Microsoft 's own digital transformation . 
+ 
+ Hit Refresh  is about individual change, about the transformation happening inside of Microsoft and the technology that will soon impact all of our lives—the arrival of the most exciting and disruptive wave of technology humankind has experienced: artificial intelligence, mixed reality, and quantum computing. 
+ 
+ You can read about it here - and also grab a copy if interested to learn more -  https://news.microsoft.com/hitrefresh/ 
+ Happy reading! 
+ … AND of course, as I always say,  please review and validate this yourself as your required outcomes may vary! 
+ 
+ Disclaimer:  all content on  Mr. Fox SQL  blog is subject to the disclaimer found  here 
+ Share this... 
+ 
+ 
+ 
+ Tweet 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share on Tumblr 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Azure ,  Career ,  General Interest SQL Server 
+ What Exactly is the "Data Platform" Nowadays? 
+ 19 April 201728 April 2018 Mr. Fox SQL (Rolf Tesmer) 1 Comment 
+ [ read this post on Mr. Fox SQL blog ] 
+ A couple of months ago I was presenting at  SQL Saturday Melbourne (582)  on  Azure Cognitive Services  and got chatting with some of the other presenters about our sessions. 
+ I co-presented with  Krissy Rumpff  from  Microsoft Data Platform Team  ( https://www.linkedin.com/in/krumpff/ ) - and for those interested our session is here -  http://www.sqlsaturday.com/582/Sessions/Details.aspx?sid=56483  …or… **you can look at the recording here - ** https://channel9.msdn.com/Events/Ignite/Australia-2017/DA321 
+ Anyway, whats interesting is that some of the other presenters were asking why we were presenting on  Cognitive Services  , when in fact this was  SQL Saturday ? And,  you know  ,  Cognitive is not the Data Platform? 
+ This is actually an **interesting point - **and since then I have had a pretty good think about what this means - and so  this is the purpose of this blog post! 
+ Continue reading -> 
+ Share this... 
+ 
+ 
+ 
+ Tweet 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share on Tumblr 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Azure ,  Career ,  General Interest ,  SQL Server SQL Server 
+ SQL Saturday 582 Melbourne (11 Feb 2017) and Ignite 2017 (14-17 Feb 2017) 
+ 18 January 201723 February 2017 Mr. Fox SQL (Rolf Tesmer) Leave a comment 
+ For those not aware there are 2 cool local and national events coming to both  Melbourne  and  Gold Coast  … 
+ 
+ SQL Saturday   582  (Sat 11 Feb 2017). Melbourne. For those looking for some great free local SQL (and related!) learning, you simply cannot go past a SQL Saturday anywhere in the world! And this one right here in Melbourne will again be no exception. There is a lineup of fantastic local speakers including Microsoft and MVP's as well as international speakers too.  http://www.sqlsaturday.com/582/EventHome.aspx 
+ Ignite 2017  (14-17 Feb 2017). Gold Coast. For those wanting more than a day and across a wider variety of topics, then Ignite will also be another you simply cannot miss. As above there is a fantastic lineup of both local Microsoft and local MVP/experts as well as an impressive list of international speakers. This is a 4 day back-to-back set of technical sessions.  https://msftignite.com.au/ 
+ 
+ UPDATE: Ignite 2017 has come and gone - and so here's some links! 
+ 
+ For those interested – this is our session on Channel 9 (75 mins)  –  https://channel9.msdn.com/Events/Ignite/Australia-2017/DA321 
+ We also did an interview for SSW which is here (10 mins)  –  https://www.youtube.com/watch?v=jILcbJw1nso 
+ 
+ _I want to focus this short blog post on SQL Saturday 582 as there are some great things happening right here locally in Melbourne … _ 
+ SQL Saturday 582 - Melbourne 
+ SQL Saturday  is an excellent  free  learning resource for all things SQL Server - all costs are covered by  donations  and  sponsorships . Some of the excellent sponsors this year are  Microsoft ,  Wardy IT ,  Idera  and  PASS . 
+ Some of the session focus areas include SQL 2016 (many deep dives across almost all facets!), SQL DB/DW in Azure, Azure Cognitive Services and Machine Learning, R, Agile Methods, Power BI, Powershell, BIML …  and more ! 
+ Furthermore - Some of the top Microsoft product group (PG) speakers will also be attending: 
+ 
+ Lindsey Allen 
+ Sunil Agarwal 
+ Matt Masson 
+ Julie Koesmarno 
+ Ajay Jagannathan 
+ 
+ Sunil will also be helping to run a SQL Clinic on the day where you can talk directly to Microsoft about your biggest pain points or suggestions for the next versions of SQL Server. 
+ For those wanting to come along here are the links you need to know. Please go to the website and  register  to attend. 
+ 
+ **Event Registration - ** https://www.sqlsaturday.com/582/RegisterNow.aspx 
+ Session Schedule  -  http://www.sqlsaturday.com/582/Sessions/Schedule.aspx 
+ 
+ The event is being held at  Monash University  (Caulfield Campus, 888 Dandenong Road, Caulfield East, Victoria) 
+ The Rise of the Machines… 
+ For those attending - I am co-presenting a pretty cool session with the awesome  Krissy Rumpff  (  from local Microsoft SQL Team  ) on  Azure Cognitive Services. 
+ **Session Details here - ** http://www.sqlsaturday.com/582/Sessions/Details.aspx?sid=56483 
+ We'll talk though what they are, why you should care and how to interact with them (via API's). We hope to show some pretty fun demos and draw some relevant use cases - and  if time permits will look for some  un  willing audience participation! 
+ Feel free to pop in and introduce yourself! 
+ I hope to see you all in  Melbourne  at  SQL Saturday! 
+ 
+ Disclaimer:  all content on  Mr. Fox SQL  blog is subject to the disclaimer found  here 
+ Share this... 
+ 
+ 
+ 
+ Tweet 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share on Tumblr 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Azure ,  Career ,  Cognitive Services ,  General Interest ,  SQL Server 
+ PASS - A Business Case for Attendance 
+ 26 April 201628 April 2018 Mr. Fox SQL (Rolf Tesmer) Leave a comment 
+ [ read this post on Mr. Fox SQL blog ] 
+ For those tech professionals who play in the  SQL Server and Business Intelligence  world (  and let me say that 's a huge number! ) the  PASS Summit  provides one of the most fantastic and focused learning and networking experiences available. 
+ I simply  cannot think of any other SQL/BI event  that brings together such a range of deep expertise and learning, open networking opportunities, knowledge sharing and community involvement than that of  PASS . In fact I know of several of my Aussie counterparts whom attend no other training throughout the year except for the complete 5 day immersion that only PASS can offer. 
+ For those new to  PASS  - see here  http://www.sqlpass.org/summit/2016/Welcome.aspx 
+ I have attended a few  PASS  events now (  and have been lucky enough to present in 2015!  ) and each event has been better than the last. With the  Call For Speakers  now closed I can see that this year's  PASS 2016 in Seattle (Oct 25-28)  is shaping up to be yet another fire cracker! 
+ Will I be presenting this year?  Well, I actually didn't submit any extracts. I started a job with  Microsoft  (Azure) and needed to focus on the ever expanding learning curve! 
+ Anyway - I have blogged about my experiences submitting and attending PASS many times… 
+ 
+ **Submitting - ** https://mrfoxsql.wordpress.com/2015/09/01/experiences-of-submitting-a-pass-2015-session/ 
+ **Attending (one of many) - ** https://mrfoxsql.wordpress.com/2015/10/29/pass-2015-session-report-keynote-and-sql-server-on-azure-virtual-machines-features-best-practices-roadmap/ 
+ 
+ Unfortunately  such amazing resources don't always come free and these uncertain financial times can create an uncertain training budget for many organisations and individuals alike. 
+ As such for those attendees whom find themselves in this position I have  prepared a brief below  which can hopefully help you prepare a convincing  business case for attendance . This is one I wrote a few years back after presenting at a few SQL Saturday and PASS virtual chapter sessions and helped me position the key benefits of PASS. 
+ Take from this what you will - and be sure to update this with the most recent content and also to reflect your personal and business circumstances. 
+ GOOD LUCK! And I hope to see you at PASS ! 
+ Continue reading -> 
+ Share this... 
+ 
+ 
+ 
+ Tweet 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share on Tumblr 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Career ,  General Interest 
+ House Price Predictions @ PASS 2015 
+ 8 September 20158 September 2015 Mr. Fox SQL (Rolf Tesmer) Leave a comment 
+ The  PASS speakers  were announced a quite a number of weeks ago now for  PASS 2015  in October - and I felt pretty damn  honored  to be one of the 160 or so selected to speak at the conference (…  and as a quick aside I also note a reasonably large contingent of Aussie & Kiwi presenters too! ). 
+ It will be my 2nd conference, and first time speaking at it. 
+ Exciting?   Absolutely!   Nervous?   Absolutely! 
+ So what is my topic I hear you  think  - and why might it be interesting to  you ? (read on!) 
+ Continue reading -> 
+ Share this... 
+ 
+ 
+ 
+ Tweet 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share on Tumblr 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Azure Machine Learning (ML) ,  Career ,  General Interest ,  SQL Server SQL Server 
+ Experiences of Submitting a PASS Session 
+ 1 September 201528 April 2018 Mr. Fox SQL (Rolf Tesmer) 4 Comments 
+ [ read this post on Mr. Fox SQL blog ] 
+ The  PASS speakers  were announced a quite a number of weeks ago now for  PASS 2015  in October - and I felt pretty damn  honored  to be one of the 160 or so selected to speak at the conference (…  and as a quick aside I also note a reasonably large contingent of Aussie & Kiwi presenters too! ). 
+ It will be my 2nd conference,  but first time speaking at it. 
+ It actually came as a (  welcome !) surprise having attended my first  PASS  in  2014  (actually on recommendation of fellow Aussie  Rob Farley  ) and then to go-on and submit a session for  PASS 2015  (on suggestion of  yet another  fellow Aussie  Victor Isakov  ). 
+ Both guys are also presenting at PASS 2015, checkout their sessions. 
+ So what was my experience of submitting a PASS session, and how did the process unfold ? (read on!) 
+ Continue reading -> 
+ Share this... 
+ 
+ 
+ 
+ Tweet 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share on Tumblr 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Azure Machine Learning (ML) ,  Career ,  General Interest ,  SQL Server Presentation ,  SQL Server 
+ Mr. Fox SQL Blog… 
+ 2 April 201520 June 2015 Mr. Fox SQL (Rolf Tesmer) 
+ So I've decided that its finally time I took a  bite out of the magic apple  and started doing some  Blogging . 
+ Starting a blog has been on my mind for some time (  read years  ), and I never really got onto it mostly due to timing issues. 
+ As a  SQL Consultant  I've read, accessed and joined in on many blogs over the years and its been (quite frankly) invaluable, so this is an opportunity to share some of my own interesting things that I have picked up over the past years (which is  my part  to do), and with some patience and luck (which is  your part  to do) I hope that you find them interesting too! 
+ So this is essentially the first blog post of (hopefully) many! 
+ So stick around and  follow  if interested - ! 
+ Lastly, my personal caveat, SQL is a  large and complex product,  so keep in mind  nothing  can be tested or investigated from every angle 100% of the time and so there may be inaccuracies or limitations.  Constructive feedback is appreciated and I can correct where applicable! 
+ If you want to know a few things  About Me  then go  here 
+ All content on  Mr. Fox SQL  blog is subject to the  Disclaimer  found  here 
+ 
+ Rolf Tesmer (aka  Mr. Fox SQL  ) 
+ -37.814107 144.963280 
+ Share this... 
+ 
+ 
+ 
+ Tweet 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share on Tumblr 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Career ,  General Interest 
+ Top 7 Recent Posts 
+ 
+ The Journey to SQL Server 2019 - where does your own journey start?  31 August 2019 
+ Azure Service Logging in the Modern Data Warehouse  16 July 2019 
+ Machine Learning + DevOps = ML DevOps (Together at Last)  11 June 2019 
+ SQL Saturday 769 Melbourne & 771 Sydney  31 May 2018 
+ Using Elastic Query to Support SQL Spatial in Azure SQL DW  11 April 2018 
+ Azure Cognitive Services API's with SQL Integration Services Packages (SSIS)  13 March 2018 
+ Database Backup Options for SQL on Azure IaaS  29 January 2018 
+ 
+ Post Categories 
+ 
+ Azure  (22) 
+ Azure Event Hub  (4) 
+ Azure Machine Learning (ML)  (7) 
+ Azure SQL Data Warehouse  (3) 
+ Azure SQL Database  (2) 
+ Azure Stream Analytics  (4) 
+ Big Data  (5) 
+ Bug  (1) 
+ Business Intelligence (BI)  (6) 
+ Career  (8) 
+ CDC  (3) 
+ Cognitive Services  (4) 
+ Cortana  (2) 
+ Data Catalog  (1) 
+ Data Compression  (2) 
+ Data Lake  (3) 
+ Data Warehousing  (14) 
+ DBA  (14) 
+ DevOps  (1) 
+ DocumentDB  (2) 
+ General Interest  (11) 
+ HDInsight  (1) 
+ IoT  (2) 
+ Partitioning  (8) 
+ PASS  (5) 
+ Performance & Tuning  (4) 
+ Power BI  (1) 
+ SQL Integration Services  (1) 
+ SQL Reporting Services  (1) 
+ SQL Server  (31) 
+ SQL Spatial  (1) 
+ Twilio  (1) 
+ Virtualisation  (1) 
+ 
+ Post Archives 
+ 
+ August 2019  (1) 
+ July 2019  (1) 
+ June 2019  (1) 
+ May 2018  (1) 
+ April 2018  (1) 
+ March 2018  (1) 
+ January 2018  (1) 
+ November 2017  (1) 
+ October 2017  (1) 
+ September 2017  (1) 
+ August 2017  (1) 
+ July 2017  (1) 
+ May 2017  (1) 
+ April 2017  (1) 
+ March 2017  (1) 
+ February 2017  (1) 
+ January 2017  (1) 
+ September 2016  (1) 
+ July 2016  (1) 
+ June 2016  (1) 
+ May 2016  (1) 
+ April 2016  (1) 
+ March 2016  (1) 
+ February 2016  (1) 
+ January 2016  (2) 
+ November 2015  (2) 
+ October 2015  (4) 
+ September 2015  (2) 
+ July 2015  (1) 
+ June 2015  (2) 
+ May 2015  (4) 
+ April 2015  (2) 
+ 
+ Search This Blog 
+ Search for: 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 33 other followers 
+ Email Address: 
+ Follow Blog 
+ Follow Blog via RSS 
+   RSS - Posts 
+ Website Powered by WordPress.com . 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ %d bloggers like this: 

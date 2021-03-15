@@ -1,0 +1,6 @@
+ Responsibilities and Duties Design overall architecture of the web application. Maintain quality and ensure responsiveness of applications. Collaborate with the rest of the development team to design and launch new features. Designing and developing API’s. Maintain code integrity and organization. Hands on experience with Laravel and codeigniter Framework (Latest version) Exposure of LINUX and Windows development environment. Front End Technologies: Html5, Css3, Jquery, Javascript, Angular JS, Bootstrap3, Bootstrap4 Back End Technologies: NodeJs, React JS, Cakephp . Databases: MySQL, MongoDB. Understanding and implementation of security and data protection. Required Experience, Skills and Qualifications Strong understanding of object-oriented PHP back-end development. Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, Laravel,CI,Back-end web development,Front-end web development. Experience developing plugins and building themes for WordPress Multisite. 
+ Wishlist   Apply 
+ Quick Links 
+ Find Job 
+ Job Seekers 
+ Employer Zone 

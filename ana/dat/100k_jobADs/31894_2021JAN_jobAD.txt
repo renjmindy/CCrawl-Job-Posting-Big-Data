@@ -1,0 +1,217 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Development Engineer 
+ Capital Group 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Development Engineer 
+ Capital Group 
+ [](mailto:?subject=Senior%20Software%20Development%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14229528/senior-software-development-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 19, 2020 
+ Location: 
+ United States 
+ __ Show Map 
+ Salary: 
+ Open 
+ Req ID:  35083 
+ Location:  Los Angeles , CA 
+ Other location(s):  Los Angeles (CA); Seattle (WA) 
+ Relocation benefits offered:  No 
+ Travel required:  None 
+ "I can be myself at work." 
+ You define yourself by more than just a job title, and we want you to feel comfortable bringing your true self to work. We value your talents, your traditions and your take on the world everything that makes you unique. We're working hard to advance diversity, equity and inclusion in our organization and our communities because we know that what makes us different makes us better. 
+ We want you to feel a strong sense of belonging. We value and welcome your experiences, ideas and identity. Over 40 employee resource groups unite our people and help to develop our collective empathy through unfiltered conversations about race, ethnicity, gender, gender identity, sexual orientation, faith, disabilities, mental health and so much more. 
+ "I can influence my income." 
+ You want to feel recognized at work. Your performance will be reviewed annually, and your compensation will be designed to motivate and reward the value that you provide. You'll receive a competitive salary, bonuses and benefits. Your company-funded retirement contribution will be the equivalent of 15% of your annual pay (including bonuses). 
+ "I can lead a full life." 
+ You bring unique goals and interests to your job and your life. Whether you're raising a family, you're passionate about where you volunteer, or you want to explore different career paths, we'll give you the resources that can set you up for success. 
+ 
+ Enjoy generous time-away and health benefits from day one, with the opportunity for flexible work options 
+ Receive 2-for-1 matching gifts for your charitable contributions and the opportunity to secure annual grants for the organizations you love 
+ Access on-demand professional development resources that allow you to hone existing skills and learn new ones 
+ 
+ COVID-19 HIRING: Our recruiting and onboarding activities are virtual during the pandemic and we've transitioned to a work-from-home environment until further notice. We are offering generous work-from-home benefits to improve our associate's ability to work remotely. 
+ Do you want to drive global impact through a company with nearly $2 trillion assets under management? Do you want to help millions of families reach their financial goals? Do you want to help build our next generation investment platform? Would you like to leverage the latest open source software running in AWS? 
+ We are seeking several Software Development Engineers to help build data services and applications that our investment professionals use to make better investment recommendations and decisions. This role will collaborate directly with senior investment professionals and technology associates, creating and implementing detailed quality technical designs using existing and emerging technology platforms. The ideal candidate will be passionate about our mission and will drive for superior long-term investment results. The ideal candidate will apply modern engineering and analytical methods to deliver customer-focused value. 
+ 
+ Responsibilities: 
+ 
+ You will independently implement new features in a highly collaborative work environment alongside product managers and fellow engineers. 
+ You will write legible, resource-efficient, and performant code. 
+ You will collaborate with business partners and internal customers. 
+ You will share technical solutions and product ideas through team planning, design review, pair programming, code review, and technical discussions. 
+ You will take on projects and make software enhancements that improve team software and processes, including design and documentation. 
+ While you are an agent of change with a sense of urgency, you are respectful of what came before. 
+ 
+ Requirements: 
+ 
+ 
+ 5+ years' experience with at least one modern programming language such as Java, Python, C++ or C#. Strong OO or Functional design skills with understanding of common design patterns. 
+ 
+ 
+ Computer Science fundamentals including data structures, algorithms, and complexity analysis. 
+ 
+ 
+ Excellent knowledge of software engineering best practices (e.g. Agile software development, test-driven development, unit testing, code reviews, design documentation, etc...) 
+ 
+ 
+ Willingness and ability to own all stages of the development process: design, testing, implementation, operational support. 
+ 
+ 
+ Strong communication skills, ability to establish and maintain a close working relationship with distributed team members and business partners. 
+ 
+ 
+ Knowledge of data stores, SQL and No-SQL preferred. 
+ 
+ 
+ Experience with AWS services (S3, containers - ECS & EKS, ElasticSearch, Lambda) preferred. 
+ 
+ 
+ "I can apply in less than 4 minutes." 
+ You've reviewed this job posting and you're ready to start the candidate journey with us. Apply now to move to the next step in our recruiting process. If this role isn't what you're looking for, check out our other opportunities and join our talent community. 
+ "I can learn more about Capital Group." 
+ At Capital Group, the success of the people who invest with us depends on the people in whom we invest. That's why we offer a culture, compensation and opportunities that empower our associates to build successful and prosperous careers. Through nine decades, our goal has been to improve people's lives through successful investing. We know that our history is a testament to the strength of the people we hire. More than 7,800 associates in 30+ offices around the world help our clients and each other grow and thrive every day. Find us on LinkedIn, Glassdoor, FairyGodBoss, DiversityJobs and Instagram. 
+ We are an equal opportunity employer, which means we comply with all federal, state and local laws that prohibit discrimination when making all decisions about employment. As equal opportunity employers, our policies prohibit unlawful discrimination on the basis of race, religion, color, national origin, ancestry, sex (including gender and gender identity), pregnancy, childbirth and related medical conditions, age, physical or mental disability, medical condition, genetic information, marital status, sexual orientation, citizenship status, AIDS/HIV status, political activities or affiliations, military or veteran status, status as a victim of domestic violence, assault or stalking or any other characteristic protected by federal, state or local law. 
+ #GD-Tech 
+ #blackistech 
+ Nearest Major Market:  Los Angeles 
+ Job Segment:  Developer, Social Media, SQL, Database, Technology, Marketing, Research 
+ 
+ 
+ Internal Number: 35083 
+  __  Create a Job Alert for Similar Jobs  
+ About Capital Group 
+ At Capital Group, the success of the people who invest with us depends on the people in whom we invest. That’s why we offer a culture, compensation, and opportunities that empower our associates to build successful and prosperous careers. Through nine decades, Capital Group’s goal has been to improve people’s lives through successful investing. We know that our history is a testament to the strength of the people we hire. Private ownership allows us to keep our eyes on the long term while more than 7,800 associates in 30+ offices around the world help our clients and each other grow and thrive every day. 
+ Connections working at Capital Group 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Transmission Engineer III or Senior 
+ __  Moore, Oklahoma 
+ 
+ 
+ 
+ 
+ WFEC 
+ __Yesterday 
+ 
+ 
+ Senior Full Stack Java Developer, Wholesale Payments Tech, Associate 
+ __  Singapore, Singapore 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ Portal Engineering Technical Lead 
+ __  Glasgow, United Kingdom 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

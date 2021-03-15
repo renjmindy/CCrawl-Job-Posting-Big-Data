@@ -1,0 +1,195 @@
+[ 
+ WorkForThem 
+ ](/) 
+ 
+ Blog 
+ RSS 
+ Remote Jobs 
+ Find More Jobs 
+ Post a job 
+ 
+ Menu Close 
+ 
+ Blog 
+ RSS 
+ Remote Jobs 
+ Find More Jobs 
+ Post a job 
+ 
+ Head of Infrastructure 
+ Doist 
+ Full time 
+ Anywhere 
+ Jan 8 
+ At Doist, our mission is to inspire the workplace of the future by creating simple yet powerful productivity tools that promote a more fulfilling way to work and live. 
+ We're a multidisciplinary, fully-remote, team that’s passionate about creating products, like  Todoist  and  Twist , that improve people’s lives. We thrive on innovating new solutions to old productivity challenges and we seek to rethink how productivity tools are made. 
+ Our Core Values 
+ They are few, but they are mighty. From creating processes to decision-making and recruiting, we build our five core values into nearly every single thing we do. 
+ 
+ Independence. Others can trust that you’ll deliver on time and your teammates don’t need to worry about you keeping your word. 
+ Mastery. You love what you do and care deeply about the quality of your work, down to the smallest details. You’re continuously learning and pushing yourself to the limits of your ability. You're never satisfied with the status-quo. 
+ Communication. Your communication is clear, concise, and engaging whether you're explaining a complex idea or providing feedback to a teammate. 
+ Ambition & Balance. You aspire to put a dent in the universe. To do this, you set high standards for yourself and those around you. The time you spend on work isn’t measured by quantity, but by quality. 
+ Impact. You're able to take a bird's eye view to pinpoint and then solve issues that have a high impact on our customers, our team, and our company. You're committed to the health and success of both your teammates and Doist as a company. 
+ 
+ We invite you to  visit our blog  to learn more about us, our values, and how we work. 
+ About the Role 
+ We are looking for a leader for our Infrastructure team of 2 engineers, who is passionate about creating and maintaining high-quality software. In this role, you will: 
+ 
+ Grow a world-class team of infrastructure engineers who feel autonomous, productive, and fulfilled. You will set them up for success while coaching and providing guidance along the way. 
+ Revamp the team and its processes as context changes. You will ensure that tooling and workflows are appropriate. You will be critical of the status quo. 
+ Lead our operations, from long-term strategy to short-term implementation. You will monitor availability, reliability, and performance of Doist's systems. You will do this at scale, serving hundreds of millions of users and billions of data items. 
+ Champion and supervise the development and maintenance of systems for CI/CD, observability, monitoring, automation, and tools that improve overall developer productivity. 
+ Oversee security, incident response, and related matters, including our bug bounty program. You will collaborate with other teams on the product changes and implementations, ensuring that operational and security characteristics are front and center. You will communicate with users and regulators for most security-related matters. 
+ Foster a culture of full service ownership that empowers the broader engineering organization. You will enable others to independently yet safely self-provision for common scenarios. 
+ Encourage a widespread understanding and documentation of our systems so that nothing is a black box. You will ensure that Doist embraces a culture of operational independence through proactive collaboration and education. 
+ Collaborate with other Engineering leaders around shared values, standards, and processes, and ultimately help shape Engineering at Doist as a whole. You will report to the CTO. 
+ Help plan each internal work cycle by reviewing priorities, availability, and optimal matching of people to projects. You will balance ongoing operational responsibilities with work in support of the development and product roadmaps. You will periodically share updates, so that everyone is aware of what's going on behind the scenes. 
+ 
+ About you 
+ We expect you to have experience in building resilient teams that support reliable platforms that are continuously evolving and being modernized. We expect you to be a technical leader who has experience and deep understanding of technologies, challenges and best practices when operating in a cloud environment such as AWS. We expect you to be ambitious and driven in leading a technical team at scale. 
+ You are proficient in growing reliable and ambitious teams based on trust, autonomy, and transparency. You provide long-term vision and are able to distill it down into actionable steps, while inspiring your team to pursue it. You support and mentor your colleagues while investing in their personal growth. You realize that leadership comes with responsibility and restraint, and that your topmost priority is the well-being of your team. 
+ You understand that engineering management is a technical discipline that requires you to engage in technical decision making. You realize that technical instincts, honed over many years, are vital for guiding that process. 
+ You want to join a remote-first company that's multi-cultural and distributed worldwide, uncompromising in commitment to its values and mission and focused on the long-term. You can commit to this challenge for many years, and you don't hop around from job to job. 
+ Challenges 
+ An ongoing challenge in working on Doist's infrastructure is that the work in this area is not always transparent and accessible to others, and this will become harder as the team grows and becomes more independent. To achieve our cultural and tactical goals, we'll need to improve how we plan and communicate our work, how we collaborate across teams, and how widespread is the understanding of our systems, their health, and how to operate them. 
+ On the organizational level, our infrastructure team accumulates diverse responsibilities besides operations, such as leading and coordinating efforts around security, incident response, or observability. Ensuring that all teams pay adequate attention to these areas and execute well in them can be tricky. Documentation and automation are fundamental, but not a holistic approach to this challenge. 
+ Also, fostering automation and self-service without compromising security and best practices is not trivial. Embracing shared service ownership will require strengthening the culture and practices of the engineering organization as a whole. 
+ Lastly, we are becoming more intentional about our long-term vision, our systems and their design, documentation, what processes and workflows we use, what tooling we rely on, or how we define quality and success. Maturing on so many fronts is exciting, but it comes with challenges around prioritization and focus. 
+ Requirements 
+ A complete application includes: 
+ 
+ A resume or manually entered experience (you can choose your preference). 
+ Thoughtful, thorough responses to all the application questions. No cover letter needed! 
+ 
+ The process will be as follows: 
+ 
+ Applications will be accepted until January 4, 2021 at 2:00 PM UTC 
+ Each candidate will receive an update on their application status by January 11, 2021 at 11:00 PM UTC 
+ Interview with Roman, our Head of Backend. 
+ We'll ask you to complete a test project. 
+ Interview with Artyom, a member of our Backend team. 
+ Interview with Gonçalo, our CTO. 
+ 
+ Benefits 
+ Our perks and benefits are designed to provide the freedom and support you need to grow personally and professionally. Here’s what that looks like: 
+ The basics 
+ 
+ Work from anywhere in the world. We never place restrictions on locations. 
+ Design your own schedule. Work no more than 40 hours/week. 
+ Competitive pay. Our formula-based salary calculation provides a highly competitive rate based on your skills and location. 
+ 
+ Expand your professional skills 
+ 
+ Pursue personal projects. All Doisters get one month per year to spend on a work-related project they’re passionate about 
+ Attend conferences. You’ll have a recurring budget to spend on attending conferences that grow your professional knowledge, skills, and network. 
+ Company retreats. Our annual company-wide retreats are unforgettable. 
+ 
+ Craft your ideal work environment 
+ 
+ Cozy up at a coworking space. Find a coworking space that’s right for you and Doist will cover the expense. 
+ Apps and services budget. You’ll have a monthly budget to spend on services that help you do your job. 
+ Hardware budget. You’ll have access to a recurring budget to spend on work-related equipment. 
+ 
+ Focus on your well-being 
+ 
+ Generous time off. Doisters get 8 weeks (40 days) of PTO/year to use as they wish on vacations and national holidays. 
+ Parental leave. New parents receive 5 weeks of paid parental leave in addition to 13 weeks of paid pregnancy-related medical leave. 
+ Invest in your health and wellness. You’ll have a monthly budget to spend on things like gym membership, healthy snacks, massages, health insurance, etc. 
+ 
+ --- 
+ All information collected through this application is stored in Workable, Doist’s Applicant Tracking System, where it will be used for recruitment purposes only. For more information on how we handle candidate data at  Doist, we invite you to review our   recruitment privacy notice   . For questions, please contact us at careers@doist.com (managed by Andrew G. & Mitch from People Operations). 
+ [Apply for this position](mailto:careers@doist.com?subject=Applicant for Head of Infrastructure (WorkForThem)) 
+ Apply 
+ Your application has been successfully submitted. 
+ Please fix the errors below and resubmit. 
+ Something went wrong. Please try again later or contact us. 
+ Personal information 
+ First name * 
+ Last name * 
+ Email * 
+ Address (Optional) 
+ Profile 
+ Summary (Optional) 
+ Resume * 
+ Details 
+ Cover letter * 
+ Submit application 
+   
+ Doist 
+ Inspiring the workplace of the future. 
+ Website   Twitter 
+ [Apply for this position](mailto:careers@doist.com?subject=Applicant for Head of Infrastructure (WorkForThem)) 
+ Share this job 
+ [Tweet](https://twitter.com/share?text=Doist is hiring a Head of Infrastructure&url=https://workforthem.com/job/14581-head-of-infrastructure)  Share  [Share](https://www.linkedin.com/shareArticle?mini=true&summary=Doist is hiring a Head of Infrastructure&url=https://workforthem.com/job/14581-head-of-infrastructure&source=WorkForThem) 
+ 
+ 
+ WorkForThem 
+ 
+ 
+ Contact us 
+ 
+ 
+ Twitter 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Terms Of Service 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Menu 
+ 
+ 
+ Blog 
+ 
+ 
+ RSS 
+ 
+ 
+ Remote Jobs 
+ 
+ 
+ Find More Jobs 
+ 
+ 
+ Post a job 
+ 
+ 
+ Browse Jobs By 
+ 
+ 
+ Companies 
+ 
+ 
+ Locations 
+ 
+ 
+ Categories 
+ 
+ 
+ Jobs By Type 
+ 
+ 
+ Full time 
+ 
+ 
+ Part time 
+ 
+ 
+ Freelance 
+ 
+ 
+ Internship 
+ 
+ 
+ Contract 
+ 
+ 

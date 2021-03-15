@@ -1,0 +1,69 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Shelf Engine (S18) 
+ Reducing food waste through automation. 
+ Software engineer 
+ $140k - $160k • 0.00% - 0.00% 
+ Location 
+ Seattle, WA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 1+ years 
+ About Shelf Engine 
+ At Shelf Engine, we replace the buyer at grocery stores. Buyers have a complicated job - they have hundreds or even thousands of SKUs to manage, and they have to determine how much of each type to order for each day of the week. This job is so difficult that most retailers have 30% waste for their highly perishable items! At Shelf Engine, we can halve that waste. In fact, we do such a good job determining quantities to stock, we'll buy back whatever doesn't sell. Interested? Get in contact - come help us cut food waste in half! 
+ About the role 
+ Skills:  C#, JavaScript, TypeScript, SQL, Python, Angular, Docker 
+ 
+ Be one of the first to join our rapidly growing, well-funded startup in Downtown Seattle 
+ Help us reduce the cost and ecological impact of food waste 
+ Make a big contribution across our entire product in this small, passionate team 
+ 
+ At Shelf Engine, we’re harnessing the power of AI to provide real-time, intelligent forecasting for food retailers like grocery stores, food service, and cafes across the United States. We’re able to drastically reduce the amount of shrink (food waste) which in turn drives profit for retailers, lowers costs for consumers, and reduces the ecological impact of waste. We’re using technology to solve a globally-relevant problem that both creates a positive environmental impact and an exciting (and potentially massive) commercial opportunity. 
+ We are hiring a Fullstack Software Engineer who will play an integral part in designing a system that allows us to scale up our customer base while maintaining an ability to quickly engineer and deploy new features. You will develop solutions across broad areas, from mobile and desktop UX for our end users, to automated integration with other customer data systems, to our core storage systems and business logic. Our engineering team is small (you’ll be #4), so we’ll need you to flex your skill-set, working across the stack (TypeScript/C#). 
+ As a Fullstack Engineer at Shelf Engine you will: 
+ Write scalable/high-performance code on both the frontend and backend, understanding complex technical areas along the way Build efficient and reusable systems that drive complex web and mobile applications Create software features that are robust, reliable, and user friendly for both internal teams and our customer base Run the full software development lifecycle - problem definition, design, development, testing, demoing, and supporting production use of the features you own Be able to balance immediate business objectives against long-term architectural vision 
+ And our Ideal with Fullstack Engineer will have: 
+ 
+ 3+ years of production level engineering under your belt 
+ Experience developing and interfacing with REST APIs 
+ Experience building both web applications and mobile applications 
+ Familiar with the Microsoft stack: TypeScript/C#, Azure, MSSQL, etc. 
+ Knowledge of the following frameworks: Angular, Iconic (front end) and ASP.NET, EntityFramework (back end) 
+ Strong analytical and quantitative problem solving ability 
+ Bonus Points: Experience in distributed systems, payments systems (e.g. Stripe, Dwolla, etc), logistics, warehousing, or the food (grocery, etc.) industry 
+ 
+ About Us: 
+ At Shelf Engine, you will join a small, powerful Product team that’s hungry for change in an untapped industry. Our founders are well versed in the food industry and have successfully built Product and Engineering teams. We’re not only solving complex technical problems at scale, but tackling key initiatives with large environmental impacts a well. We're a tight-knit and passionate team, determined to disrupt an industry with wide-ranging impact, and creating a significant commercial opportunity. 
+ We’re looking to add you - a Software Engineer who is passionate about marketplaces, demand forecasting, and reducing waste! APPLY NOW and get in early on a team that's changing food distribution for the better, or learn more about us at  http://shelfengine.com 
+ Shelf Engine is an equal opportunity employer and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ Technology 
+ We're taking on arbitrage risk for perishable goods. We do daily demand forecasting based on a number of factors, including historical information, product margins, etc. We have an operationally sophisticated product for automatically managing, dispatching and recording orders, and tracking sales and waste information. Domain areas range from ML and statistical forecasting, to full stack web services and mobile apps. For front end we use Angular for desktop and Ionic for mobile. Backend we are running a C# stack, with a SQL storage layer and utilizing CQRS and event sourcing patterns. For forecasting and ML we use R and python. 
+ Other jobs at Shelf Engine 
+ Data Scientist 
+ fulltime 
+ Seattle, WA 
+ Data Science 
+ $140k - $160k 
+ 3+ years 
+ Software engineer 
+ fulltime 
+ Seattle, WA / Remote 
+ Full Stack 
+ $140k - $160k 
+ 0.00% - 0.00% 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,226 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Elixir Software Engineer (Mid-Senior) 
+ [ 
+ Gartner Digital Markets 
+ ](/companies/gartner-digital-markets-getapp) 
+ Barcelona, Spain 
+ 16 November, 2020 
+ Apply More jobs from Gartner Digital Markets About Gartner Digital Markets 
+ Salary 
+ €50K - 65K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Docker 
+ Elixir 
+ Erlang 
+ Functional Programming 
+ JavaScript 
+ Ruby 
+ Agile 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health insurance 
+ Paid sick days 
+ Generous pto 
+ Gym passes 
+ Pension contributions 
+ Games room 
+ Equal pay policy 
+ Diverse management team 
+ Snacks 
+ Product impact 
+ 
+ Internationalisation project 
+ Role overview 
+ What we are looking for: 
+ Gartner Digital Markets International expansion program is looking for a passionate Senior Software Engineer to work with our small and highly skilled technology team located in Barcelona. Some experience with Elixir programming language is required, but we are specifically looking for an experienced all round developer that will help us shape the future of the platform. 
+ This position will make an impact on the design of the backend architecture of our applications, whilst working closely with our designers and engineers to build a compelling product and implement exciting new features - all with the goal of ensuring a great experience for website users. 
+ Why you will want to come to the office everyday: 
+ 
+ Your primary responsibility will be the development and maintenance of the international marketplace web platform architecture ensuring the highest quality experience for our users. 
+ Responsible for the timely development of well-defined, larger product features/changes, expected to use judgement & apply functional knowledge of methodology/best practices; Develop code documentation as a reference. 
+ Become an active participant in the technical design process, expected to contribute own ideas for changes/new features; Capable of owning independent medium-to-big features all the way through from technical design to launch. 
+ Improves operations by conducting systems analysis; recommending changes in policies and procedures. 
+ Challenging projects: Elixir/Phoenix infrastructure, denormalized data model to support multiple catalogs and translations in the same platform, one LiveView page and willing to expand its usage, Elasticsearch based search engine, business analytics, front end applications and many other projects. 
+ Modern technologies: Elixir is our language of choice, but we love exploring and using the best tools for the job. We actively use Docker and Kubernetes to power our infrastructure. 
+ 
+ What you will bring to the team: 
+ 
+ Knowledge of: Elixir or Erlang. 
+ 5+ years’ experience. 
+ A passion for technology and development, a hunger to learn, a desire to meet challenges, a commitment to applying engineering best practice to produce top quality solutions. 
+ Knowledge of some of the following: JavaScript, Postgresql, MySQL, Elasticsearch, Apache Solr. 
+ Knowledge of software development methodology, techniques & standards. 
+ Understanding of software design concepts, patterns, tools, best practices. 
+ Verbal English skills (we work in English!). 
+ 
+ Check out our video to learn about who we are, and what we do: 
+   vid.gartner.com/digitalmarkets 
+ What we offer: 
+ 
+ Limitless growth and learning opportunities. 
+ A collaborative and positive culture — join a diverse team of professionals that are as smart and driven as you. 
+ A chance to make an impact — Your work will contribute directly to our strategy. 
+ Frequent social activities such as movie night, laser tag, bowling, escape room, summer beach party, hiking & bbq, and more! 
+ Modern approach to work - Flexible hours, Friday afternoons free, remote work, and more. 
+ New offices (to be inaugurated soon) close to Glòries and the beach in the fantastic, “innovation and tech” 22@ district of sunny Barcelona. 
+ Fresh fruit, snacks, selection of teas, fair trade organic coffee and a fridge full of beer for our Beer O’Clock on Friday afternoons. 
+ Relocation Assistance - A specialist to help you with all the appointments and paperwork. 
+ 
+ What you will get: 
+ 
+ Competitive compensation. 
+ 23 days annual holiday, and additional days off for your birthday, 24th & 31st of December. 
+ Private Medical and Dental Care. 
+ Life and Disability Insurance. 
+ Public Transport Subsidy. 
+ Ticket Restaurant Card. 
+ Childcare Vouchers (Ticket Guarderia). 
+ Pension Scheme. 
+ Employee Stock Purchase Plan. 
+ Employee Assistance Program. 
+ Gartner Gives Charity Match. 
+ 
+ Who we are: 
+ 
+ Action Oriented  - Deliver fast, get great results. We embrace the vision, roadmap to success and the action it takes to make it happen. 
+ Intellectually Curious  - Seek to learn, love to teach. We’re humble and embrace respectful, radical candor with a mindset of ongoing professional and personal development. 
+ Collaborative  - One team, shared mission. We welcome feedback and understand the value of working together to accomplish more than what is possible individually. 
+ 
+ PLEASE NOTE: 
+ - Applications must be submitted in English. 
+ - A valid EU visa/passport is required for this position. 
+ Explore diversity, inclusion and engagement at Gartner: 
+   jobs.gartner.com/inclusion 
+ 
+ [ 
+ Gartner Digital Markets 
+ ](/companies/gartner-digital-markets-getapp) 
+ 
+ 50-249 
+ 
+ Gartner Digital Markets is a business unit within Gartner. Our mission is to help small businesses make the right technology decisions and find the tools they need to grow, optimize, and become more effective at what they do. The business is comprised of three leading brands—Capterra, Software Advice, and GetApp. For candidates interested in taking their next career step in the technology space, Gartner Digital Markets offers the fast pace and excitement of working for a startup, the stability and resources of a large, established organization, and the opportunity to be on the front lines of innovation in an industry that is always growing and transforming. 
+ Technology Public AWS ElasticSearch KUBERNETES Kafka Paid Sick Days Generous PTO 
+ View 1 job 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from Gartner Digital Markets About Gartner Digital Markets 
+ Salary 
+ €50K - 65K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Docker 
+ Elixir 
+ Erlang 
+ Functional Programming 
+ JavaScript 
+ Ruby 
+ Agile 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health insurance 
+ Paid sick days 
+ Generous pto 
+ Gym passes 
+ Pension contributions 
+ Games room 
+ Equal pay policy 
+ Diverse management team 
+ Snacks 
+ Product impact 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Technical Team Lead€60K - 75KDerivcoBarcelona, Spain 
+ Are you an experienced Software Developer looking to move into a lead position whilst remaining hands on? 
+ elixir erlang ruby 
+ More Info Apply 
+ Elixir Developer€40K - 65KDerivcoBarcelona, Spain 
+ World leading Sportsbook provider 
+ go elixir erlang ruby 
+ More Info Apply 
+ Senior Software Engineer601K - 900K SEKThe RealRealStockholm, Sweden 
+ As a Senior Software Engineer, you’ll design and build software for automating critical operation processes. 
+ elixir erlang ruby 
+ More Info Apply 
+ Elixir Software Engineer (Mid-Senior) 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

@@ -1,0 +1,132 @@
+ Workday     Blog  
+ 
+ Categories
+ 
+ Workday News & Culture 
+ Finance 
+ Human Resources 
+ Planning 
+ Technology Innovation 
+ Analytics & Insights 
+ Customers & Community 
+ 
+ 
+ Industries
+ 
+ Financial Services 
+ Government 
+ Healthcare 
+ Higher Education 
+ Hospitality 
+ Media and Entertainment 
+ Professional and Business Services 
+ Retail 
+ Technology 
+ 
+ 
+ More
+ 
+  Podcasts  
+  Videos  
+  Authors  
+ 
+ 
+ 
+ Search for: 
+ Getting the Right People in the Right Jobs 
+ 
+ Categories 
+  Workday News & Culture  
+  Finance  
+  Human Resources  
+  Planning  
+  Technology Innovation  
+  Analytics & Insights  
+  Customers & Community  
+ Industries 
+  Financial Services  
+  Government  
+  Healthcare  
+  Higher Education  
+  Hospitality  
+  Media and Entertainment  
+  Professional and Business Services  
+  Retail  
+  Technology  
+ 
+ 
+  Podcasts  
+ 
+ 
+  Videos  
+  Authors  
+ 
+ Human Resources 
+ Getting the Right People in the Right Jobs 
+ With the gift-giving season in full swing, many of us are using online search to find the right cameras, toys, watches, and other goodies for those near and dear. And in a few weeks it’ll be the New Year, which is expected to bring an upswing in hiring nationwide, and the pressure to find the right people to fill new jobs. Yet why is it so easy—as consumers—to search online for cameras and watches by desired features and functionality, when it’s so difficult—as employers—to search for people in traditional HR systems based on desired talents, experiences, and skills? 
+   
+ Leighanne Levensaler  December 14, 2010 
+ With the gift-giving season in full swing, many of us are using online search to find the right cameras, toys, watches, and other goodies for those near and dear. And in a few weeks it’ll be the New Year, which is expected to bring an  upswing in hiring  nationwide, and the pressure to find the right people to fill new jobs. Yet why is it so easy—as consumers—to search online for cameras and watches by desired features and functionality, when it’s so difficult—as employers—to search for people in traditional HR systems based on desired talents, experiences, and skills? 
+ The answer to the above question is that many business systems haven’t kept up with innovations and expectations found in consumer technologies. When looking internally to fill an opening or make an organizational change, managers are still likely to rely on “tribal knowledge,” basing decisions on bits and pieces of information about employees that come from conversations, emails, and personnel records. 
+ At Workday, we’ve made it our mission to help customers get smarter about finding the right talent within their organizations. In the  Workday 12 release , which all customers upgraded to last week, we introduced  Faceted Search . We received a ton of extremely complimentary feedback on Faceted Search, and more broadly Workday 12, from the analysts, customers, and prospects we briefed at the HR Demo and Dreamforce conferences this month. (In fact, Workday  won top honors at the HR Demo show! ) Just one example is this great tweet from analyst  Dennis Howlett  following a briefing: “[the] stuff they’re doing reminds me of a swan…lots of action under the surface but elegant on top.” 
+ More specific to Faceted Search was this observation from Steve Boese, an HR technology consultant and instructor, in his Nov. 22 blog, “ Workday 12—Working for You ”: 
+ 
+ “With Faceted Search, Workday provides the ability for … anyone with the responsibility for finding, assessing, and deploying the ‘right’ people to the ‘right’ roles, projects, and assignments; to flexibly and with a high degree of personalization locate, tag, and take relevant actions on a group of resources. These groups can be created on the fly, in real-time, and shared as needed and desired across the organization… This is cool and noteworthy not just because of the slick user interface and the powerful functionality, but because it allows the talent planner to make the system adapt to the way he/she needs it to work, and not the other way around.” 
+ 
+ How does Faceted Search work in action? Here’s one drinking-our-own-Kool-Aid example: All Workday employees who are recent college graduates are in a talent pool called Generation Workday. Members are from all departments across the organization, yet share the common trait of being recent out-of-college hires. We know it’s important for these employees to successfully transition into the working world, be excited about what they’re doing, and find the right roles for their skills and talents. That’s why we developed special development and incentive plans only for those members of Generation Workday. We also monitor this group to gain our own insights, such as which universities are turning out grads who are proving to be a great fit for Workday. 
+ All of these capabilities might be a bit mind boggling for organizations saddled with legacy HR systems. I’ll share one more observation from Boese: 
+ 
+ “There are numerous reasons why (for most users) traditional enterprise systems suck. Having to change the way you want to work to adapt to an inflexible, rigid process and structure is certainly chief among said reasons. Rigidity and repeatability is great when the process is paying bills or calculating quarterly taxes; it isn’t so great when the question to be answered is how to find, deploy, and reward the ‘right’ people to the ‘right’ place at the ‘right’ time. The answer to that question changes every day, and tools like Workday’s Faceted Search are a step towards providing solutions that can help talent professionals come up with the right answers.” 
+ 
+ That’s right Steve— traditional HR systems fail miserably  at helping managers utilize their most valuable asset: their people! Nor do they give employees the opportunity to raise their hands. In Workday, for example, employees can update their profiles with new skills and certifications, leading to a possible promotion should a manager run a search on that particular attribute. We’ve also built sophisticated security and control processes around Faceted Search, so people can view only the workers and information they’re authorized to view. 
+ In  another nice blog  by lauded HR technology analyst Jon Ingham following a Workday 12 briefing: 
+ 
+ “There’s so much here that for most businesses, there’s going to be more opportunity here than they currently allow their people. The issue is no longer just about technology catching up with business needs. It’s also increasingly going to be about businesses giving the freedom to their people to take advantage of the technology. There are going to be some exciting times ahead.” 
+ 
+ Indeed, transparency and visibility is an issue, Jon. Yet the innovative  companies we serve  realize that managers should be able to search for the right talent as easily as they can go online to find the right watch, camera, or pair of shoes, since it’s blaringly obvious that the right people in the right roles make for the most successful organizations. And we agree on your other point, too: There are  very exciting times  ahead. 
+ Posted in:   Human Resources 
+ HR Transformation 
+ More Reading 
+ 
+   
+ 
+ Human Resources   Workday News and Culture 
+ Employee Resource Groups Are a Must-Have to Drive Greater Diversity and Lasting Change 
+ Employee resource groups are affinity groups aimed at creating a sense of community in the workplace, but they can be utilized for so much more—especially as strategic partners in advancing corporate social responsibility and deepening cultural competency. 
+   
+ Jillian Ogawa  December 22, 2020 
+ 
+   
+ 
+ Human Resources   Technology Innovation 
+ How We Can Collaborate to Empower the Future Workforce 
+ The COVID-19 pandemic has damaged local economies and led to high unemployment. We believe there is an innovative solution to help address these challenges: the creation of skills-based talent marketplaces. 
+   
+ Aneel Bhusri  December 07, 2020 
+ 
+   
+ 
+     Customers and Community   Human Resources 
+ Workday Podcast: VMware’s Holistic Approach to the Virtual Workplace 
+ What does the future workplace look like at VMware? Amy Gannaway, vice president of global compensation, benefits, and HRIS, discusses how the company is supporting its employees’ productivity while prioritizing their overall well-being. 
+   
+ Workday Staff Writers  December 03, 2020 
+      Blog  
+ 
+  Twitter  
+  LinkedIn  
+  Facebook  
+  YouTube  
+  Instagram  
+ 
+  Workday is powered by 100% renewable energy.  
+ 
+ 
+ 
+ Email Subscriptions 
+ 
+ 
+ Privacy 
+ Legal 
+ 
+ © 2021 Workday, Inc. 

@@ -1,0 +1,206 @@
+Skip to primary content 
+ Skip to secondary content 
+ Jobius 
+ Home of Jobius Technologies, Bernal Heights, San Francisco 
+    Search 
+ Main menu 
+ 
+ Home 
+ About 
+ 
+ Author Archives:  Jobius (Joe Thomas) 
+ Post navigation 
+ <- Older posts 
+ Newer posts -> 
+ Ho Hum, Another Moonrise 
+ Posted on  February 9, 2012  by   Jobius (Joe Thomas) 
+ Reply 
+ Back in October, I almost got a perfect  moonrise time-lapse  shot. Last night I improved on the camera-pointing accuracy: 
+ Moonrise, February 8. Note that the camera remains pointed at the same place, and the moon rises in-frame. I had a pretty good idea that an 84.4° azimuth was aligned with the antennas down by the bay shore, and sure enough, the moon popped up right between them. 
+ Of course, where this video falls short, relative to the October shoot, is that the sky was already dark. Just a few days earlier, I got an even better nightfall shot… 
+ Nightfall, February 4. Quick, look at the top of frame: the moon's there for a second! It's bad luck that the only storm we've had in weeks had to spoil Monday and Tuesday's moonrise, either of which would have been pretty good for a combo nightfall/moonrise shot. I won't complain too much. We need the rain. 
+ But I expect better weather scheduling for the March full moon. 
+ Posted in  Uncategorized  |   Leave a reply 
+ Trees, Counted 
+ Posted on  February 9, 2012  by   Jobius (Joe Thomas) 
+ Reply 
+ Last year, Google bought the historic  Pacific Press , site of a former Seventh Day Adventist publishing house, and a Mountain View landmark for over a century. It's also currently home to an office of Microsoft. It used to be Tellme Networks, but Microsoft  bought Tellme  in 2007. Now they're  selling off  part, but that's another story. 
+ 
+ Number tags appeared on every tree in the campus in January, or was it December? 
+ So Google is now Microsoft's landlord here. I've worked here since 2004. It's a lovely little campus, full of trees. There are tall palms and redwoods, side by side. 
+ 
+ Tall palm trees grow beside redwoods. 
+ I'm not sure I would have guessed there were several hundred trees, though, before the number tags appeared. 
+ 
+ Tree 273. 
+ Every tree, even the little ones (but not the shrubberies) sprouted little numbered tags sometime in the last month or so. Nearby trees have sequential numbers, so it's clearly some sort of inventory system. 
+ 
+ Tree 337. 
+ The former Tellme bits that are staying with Microsoft will  be moving to Sunnyvale  soon, when the lease is up. Was Google worried that their tenants were going to abscond with the trees? 
+ 
+ Tree 338. 
+ Inside, work continues as the final months of the office lease count down. Twelve years' worth of memorabilia and swag are hauled out of a store room. There'll be no room for this on the moving truck. 
+ 
+ McWho? (Sorry.) 
+ Posted in  Uncategorized  |   Leave a reply 
+ A Glimpse of Caltrain from Bernal 
+ Posted on  February 9, 2012  by   Jobius (Joe Thomas) 
+ 1 
+ 
+ Caltrain 324, southbound to Silicon Valley, February 9, 2012 
+ A quick pic from out my back door, inspired by a  Bernalwood  post yesterday. This is approximately the opposite view as the first picture in that post, Bernal looking back at the morning Silicon Valley commuters headed south on Caltrain. See you back in the 'Wood. 
+ Posted in  Uncategorized  |   1  Reply 
+ Star Trek IV: The Glimpse of Bernal? 
+ Posted on  January 10, 2012  by   Jobius (Joe Thomas) 
+ 1 
+ Via  Burrito Justice  and  Bernalwood , a beautiful infrared photo of the Bay Area on Christmas Eve, 2011, with a helpful arrow pointing to  Bernal Heights . 
+ But did you know that back in the 80s, another visiting spacecraft captured a glimpse of Bernal in this night-time shot, using visible light? 
+ Posted in  Uncategorized  |   1  Reply 
+ Bernalrama 360 
+ Posted on  January 8, 2012  by   Jobius (Joe Thomas) 
+ 3 
+ I'm a fan of our little  Sutrito Tower , but the fact that it's fenced off makes it impossible to take in the full 360° panorama of gorgeous views we have at the top of Bernal Hill. So I thought I'd try to create a synthetic panorama from pictures taken just outside of the fence, and stitch them together with software.  My first effort , using the  Autostitch  app for iPhone, didn't turn out too well -- lots of double-vision blurriness at the seams. Still, that was better than Photosynth, which refused to even try stitching when it thought I'd moved too far between shots. 
+ Via  Twitter , I learned that Burrito Justice  had the same idea a few years back , and had good results with  Panorama . I tried it. Frustrating UI. I ended up just taking a bunch of pictures in the Camera app, working my way around the hill. Also via  Twitter , I'd gotten a suggestion to try Microsoft's  Image Composite Editor  -- a panorama-making desktop app for Windows. I have to say, it did a pretty nice job stitching together the 30 pictures I took around the hill: 
+ 
+ Impossible 360° panorama from the top of Bernal Hill. Click for larger view. 
+ This is slightly edited from what ICE produced -- there was a ghostly half-Sutro that I had to get rid of, and a couple of other small patches where I thought there was a better shot than the one the software chose. And though Burrito Justice  got there first  with the whole impossible panorama idea, he stopped at 270°. This new panorama goes all the way around, including the southern view of Holly Park and San Bruno mountain. 
+ Of course, I'd rather just climb up to the top of the tower and shoot from there. Hmm… Sutrito Tower Observation Deck… Bernal Heights would be overrun with tourists! Where would they all park? 
+ Posted in  Uncategorized  |   3  Replies 
+ Sutrito Model: Accepted 
+ Posted on  November 5, 2011  by   Jobius (Joe Thomas) 
+ Reply 
+ 
+ As seen in Google Earth. 
+ I tweaked the Sutrito tower model a little since I last posted -- mostly removing imaginary antennas on the east side -- and I just got word from Google that it's been accepted and is now live in Google Earth! 
+ More screenshots to come, probably, and a link that sends Google Earth to the location, if such a thing is possible. Update: try  this one . You may need to tell your browser to associate Google Earth with .kmz files. 
+ Posted in  Uncategorized  |   Leave a reply 
+ Modeling Sutrito Tower 
+ Posted on  October 23, 2011  by   Jobius (Joe Thomas) 
+ 2 
+ Google Earth has a representation of  Sutrito  Tower  contributed by user "kirschbaum" here . 
+ 
+ Whoa, trees! When did GE add those? They really help sell the scene. Without them… 
+ 
+ Something's not quite right here. 
+ I don't want to be mean to someone who's giving away his creation for free to the rest of us… but this really won't do. The trees can help hide the misalignment at the bottom -- which is really the Google elevation model's fault, not the model maker's. 
+ 
+ Trees help sell the scene. 
+ But the tower itself still kind of looks like a bunker. 
+ It's possible to create models in Google Earth using photo textures with an "alpha channel," so you can see through parts of the building. That's exactly what we want here, so I went out to take a few pictures on this beautiful blue-sky weekend. The blue made it easy to "chroma-key" out the background. I only had a good angle on the southwest-facing side of the tower, so I cloned that onto the other sides. I think this exaggerates the number of antennas, but I'm okay with that.  Voila : 
+ 
+ Oh , that's much better. I've  submitted this  to GE, but you can download it now. Let's see it against the scene up top. 
+ 
+ Aw yeah! 
+ Hey, I can see my house from here: 
+ 
+ Now  zoom in … 
+ 
+ …and  enhance : 
+ 
+ And  download  if you want to. 
+ It seems like you always have to fudge something to get alignment with the terrain model in GE. The virtual terrain here falls away much more steeply on the right than it does in reality, hence the odd stilt-like configuration. The Street View photo texture helps hide it if you don't look too close. 
+ This view  may look familiar : 
+ 
+ Hmm… actually, that's too many antennas on the east side. I'll have to fix that later. I could also probably use lower resolution photo textures. I just noticed that the Sutrito model is 4 MB! Almost all of that is texture; the geometry is dead simple. 
+ While I'm recreating  time-lapse videos  in Google Earth, I noticed a missing spire here, and had to do something about it: 
+ 
+ That's the steeple of  All Hallows Church  in the Bayview. As with all of these models, I started building it in  Building Maker , imported it into  SketchUp , and then threw away the original model, keeping only the aligned-photo "scenes." SketchUp can use those photos/scenes, and gives you much more control about how to apply the photos as textures, and to which surfaces. 
+ I'm definitely still learning, and would welcome any suggestions or questions in the comments. 
+ Posted in  Uncategorized  |   2  Replies 
+ Sutro v Clouds, Adventures in Time-Lapse Photography 
+ Posted on  October 17, 2011  by   Jobius (Joe Thomas) 
+ 2 
+ I've been shooting time-lapse video of bits of the San Francisco skyline and sky for a couple of months now.  Bernalwood  has been kind enough to  feature  a  few  of  them  on that fine local blog. The video above, "Sutro v Clouds," is just about my favorite (maybe tied with  Wednesday night's moonrise ). In this video, you're looking at the following "layers," front to back: 
+ 
+ 1500 block of Oakdale 
+ All Hallows Church spire 
+ Bernal Hill 
+ Sutrito Tower 
+ Twin Peaks 
+ Sutro/clouds 
+ Clouds/Sutro 
+ 
+ It's amazing how little equipment it takes to do these, if you've already got an iPhone. The mini-tripod, telephoto lens, and iPhone case with threads that you screw the lens into, are just  $35 total from photojojo.com . Yes, I mentioned this in the last post, and no, I'm not getting any personal financial reward from mentioning them. I just think it's a fantastic deal! The time-lapse app I've been using lately is  iMotion HD , which is free to try but costs a few bucks if you want to export anything (in-app purchase). 
+ 
+ Did I mention $35 at photojojo.com 
+ That's an old t-shirt/windshield cleaning rag propping up the back legs of the tripod. The slope of the dashboard made the tripod want to tip over backwards, so I improvised. On  another shoot , I could only get the shot from the driver's side, where there wasn't enough room to stand up the tripod. I had to lay it down flat and use the weight of an external iPhone battery to hold it in place. 
+ 
+ Tripod is collapsed, held in place by the weight of an external battery 
+ I shoot at 1 frame per second, and set the video to play back at 30 fps. So for a one-minute video like "Sutro v Clouds," above, I'm sitting in my car for 30 minutes. I try not to look like a stalker, but once a neighbor stopped by and asked if I was on a stakeout. 
+ 
+ Wider view of the time-lapse scene 
+ I was really pleased with the conjunction of various towers and peaks from this location, and couldn't believe my luck when the clouds started putting on a show. I got home and threw it up on the big screen with the Apple TV to admire it. 
+ 
+ Cat has a suggestion 
+ My cat was also interested, but she had a suggestion on composition. 
+ 
+ NEEDZ 2 MOAR PEAKS 
+ Posted in  Uncategorized  |   2  Replies 
+ The October 2011 Thomas Brothers IPA is ready 
+ Posted on  October 14, 2011  by   Jobius (Joe Thomas) 
+ 1 
+ 
+ Thomas Brothers IPA, October 2011 edition, is ready to drink 
+ It's still pretty young, but it's now fizzy enough to be drinkable. This edition of the Thomas Brothers IPA was brewed on 9/10/11, racked and dry-hopped On 9/18, bottled 10/1, opened 10/14. Yum. The glass is from  Speakeasy brewery , which you'd be able to see in the background if Bayview wasn't in the way. (BTW, Speakeasy, please replace your Flash-only website with something usable on iOS devices. Thanks.) 
+ 
+ Time-lapse rig with IPA 
+ Homebrew posing with time-lapse rig. Lens, iPhone case, and tripod available for only $35 from  photojojo.com ! 
+ Posted in  Uncategorized  |   1  Reply 
+ Sometimes Bernalwood frightens me 
+ Posted on  October 13, 2011  by   Jobius (Joe Thomas) 
+ Reply 
+ 
+ Sometimes Bernalwood  frightens me . Fortunately, there are  doggies . 
+ Posted in  Uncategorized  |   Leave a reply 
+ Post navigation 
+ <- Older posts 
+ Newer posts -> 
+ Search 
+ Recent Posts 
+ 
+ In New "Murder in the First" TV Show, Hollywood Cops Live in Real Bernal Heights 
+ Sutrito Spin 
+ How Tall is Bernal Hill? Scatter Plot References 
+ Eclipse rehearsal 
+ Moonrise, April 5, 2012 
+ 
+ Archives 
+ 
+ June 2014 
+ July 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ January 2012 
+ November 2011 
+ October 2011 
+ 
+ Categories 
+ 
+ Uncategorized 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Twitter 
+ 
+ Heard what I hoped were fireworks a few minutes ago, but now police and ambulance rolling in to east Bernal Heights...  5 days ago 
+ RT @ Popehat : [At a naturalization hearing] Immigration Judge [going through checklist]: Mr. Giuliani, does your client advocate the overt…  1 week ago 
+ How much damage could a malignant narcissist lame duck president do in 320 hours? Jesus, what if he had any organiz…   twitter.com/i/web/status/1…   2 weeks ago 
+ RT @ tedlieu : Let me be very clear: if all we do is accept the certified Electoral College results and go home, we would have failed our cou…  2 weeks ago 
+ RT @ chris_labarthe : MAGA the last 2 weeks: HEY GANG LETS CARPOOL TO BERLIN TO BURN DOWN THE REICHSTAG MAGA this morning: CHECK OUT MY SELF…  2 weeks ago 
+ 
+ Follow @Jobius 
+ Create a free website or blog at WordPress.com. 
+  Jobius  
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

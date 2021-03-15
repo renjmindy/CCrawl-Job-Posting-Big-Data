@@ -1,0 +1,65 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Help us improve our Craft-based website REMOTECONTRACT 
+ Job Description 
+ We need some help making changes to our already live craft-based website. These changes include basic layout changes, custom element changes, enacting a CAPTCHA for our contacts field to eliminate spam, etc. This will be an ongoing project where we will start with a scoped project to determine fit and then expand from there. We are willing to pay for a talented individual who can do what we need who can also bring some suggestions to the table. Some helpful requirements are below: 
+ 
+ Should be comfortable with the terminal: adding SSH keys, running commands 
+ Should be comfortable using git for source control 
+ Experience with Amazon Elastic Beanstalk or Heroku a big plus 
+ You will be working with a slightly customized Craft 2 installation, so you should be comfortable enough with PHP and Craft to navigate around and see how things are done 
+ Should be based within 2 hours time-zone of Pacific Time 
+ 
+ How to Apply 
+ Please send us your (1) resume as well as (2) some examples of past things you have worked on (a portfolio if you have one). Please also confirm that you meet all of the requirements listed in the JD, or if you do not, please explain. 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Instrumental, Inc. 
+ 
+ __ 
+ 
+ Location:  Palo Alto, CA 
+ 
+ __ 
+ 
+ Phone Number:   6503971281 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   instrumental.com 
+ __  Posted October 2, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

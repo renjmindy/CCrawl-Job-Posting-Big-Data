@@ -1,0 +1,209 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Python Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ PythonWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Data Engineer 
+ [ 
+ WeFarm 
+ ](/companies/wefarm) 
+ London, United Kingdom 
+ 11 August, 2020 
+ Apply 
+ More jobs from WeFarm About WeFarm 
+ Salary 
+ £50K - 85K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ SQL 
+ Big Data Infrastructure 
+ Clojure 
+ Kafka 
+ Python 
+ PostgreSQL 
+ SQS 
+ snowflake 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Team lunches 
+ Daily stand up 
+ Stock options 
+ Casual dress 
+ Stocked kitchen 
+ Training 
+ Diversity dedicated staff 
+ Parental leave 
+ 25 days holiday 
+ Bike friendly 
+ Laptop 
+ 
+ Enabling farmers to share and access data around the globe 🌍 
+ Role overview 
+ About us 
+ Wefarm, the world’s largest farmer-to-farmer digital network, enables farmers to connect with each other and key partners over SMS to solve problems, share ideas, obtain vital products and services, and spread innovation, through utilising the latest machine learning technology. 
+ Small-scale agriculture is the biggest industry on earth, with more than a billion farmers globally supplying 70% of the world's food and commodities, yet remaining digitally unconnected. Until Wefarm, no other had built a digital platform for these farmers to share their vital insights, without having to go online! 
+ Since our launch in 2015 we have  grown to serve 2.1 million farmers across the world  , who share more than 30,000 Qs & As per day. Wefarm has recently secured  $13 million in Series A funding  from some of the world’s leading VCs, including True Ventures in Silicon Valley, and we are looking to add to a world-class team based across London, Nairobi, Kampala and Dar-es-Salaam. 
+ Join us and be a part of our mission to build an ecosystem for global agriculture, with the farmer at the centre! 
+ The role 
+ We are looking for a Data Engineer to join our growing technical team, as our first full-time hire in this field. You will have responsibility for architecting and managing new data management processes, including data schemas and ELT (extract-load-transform) data pipelines. You will lead on greenfield projects, owning research and development, as well as having the remit to optimize our existing infrastructure. 
+ The role sits within Wefarm’s Technology team and will report directly to the CTO. 
+ Wefarm currently sends and receives millions of SMS per month, leading to tens of millions of independent system events. You will be responsible for the storage and transfer of this unique dataset. You must be self-directed, and comfortable supporting the data needs of multiple teams, including developers, BI, and data scientists, enabling Wefarm to use data to build insight, grow the company, and support the needs of our farmers. 
+ There is a rich, vibrant, and open culture within Wefarm. Even though we are separated geographically, we maintain a highly collaborative and communicative outlook and are keen to maintain this as we expand into new roles and new territories. 
+ Essential Duties: 
+ 
+ Build and maintain ELT (extract-load-transform) pipelines to get data from various systems and databases into our existing Snowflake data lake 
+ Build and maintain SQL (and non-SQL) data transformations to enrich our data, including using DBT as the transformation step within our data lake 
+ Enable stakeholders, including the BI, Product, and Growth teams, to get access to the data they need to perform their duties 
+ Collaborate with Product Development teams to research and develop new data infrastructure projects, and architect reliable, accurate, and useful data schemas which can work for both operational and reporting purposes 
+ Work across the company on data-related technical issues, and monitor database usage and performance to maximise efficiency 
+ Ensure data security and data protection regulatory compliance by implementing optimal access policies and following industry best practice 
+ Razor-focused on personal and team OKRs to ensure work is aligned with company goals 
+ 
+ Job requirements 
+ 
+ 3+ years experience working in a Data Engineer role (or equivalent experience in a backend engineering role) 
+ A successful history of manipulating and processing large disconnected unstructured datasets, and enabling others to use data to build value 
+ Advanced SQL (PostgreSQL and Snowflake) 
+ Working knowledge of Git and GitHub 
+ Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores (e.g. SQS, Kafka, Snowflake) 
+ Strong project management and organizational skills 
+ Experience supporting and working with cross-functional teams in a dynamic environment 
+ Able to clearly articulate and communicate with non-technical team members 
+ Desirable: Clojure, Python and/or R 
+ Excited about Wefarm’s mission 
+ 
+ 
+ [ 
+ WeFarm 
+ ](/companies/wefarm) 
+ 
+ 
+ 10-49 
+ 
+ 
+ London, United Kingdom 
+ 
+ 
+ Over 1 billion smallholder farmers produce 80% of the world's food, and four of the five most traded commodities on earth, yet the vast majority lack access to the internet and even basic information to help them solve problems or share ideas. No one has built a platform for these farmers. Until Wefarm. Wefarm is already the world’s largest farmer-to-farmer digital network, with more than 1 million farmers using our ecosystem in Kenya and Uganda alone. Our farmers share more than 40,000 questions and answers every day. Farmers connect with one another to solve problems, share ideas, and spread innovation, for free, and without needing an internet connection (Wefarm works even through SMS). Utilising the latest machine learning technology, Wefarm’s service gets bespoke, crowd- sourced information to help farmers increase yields, gain insight into pricing, tackle the effects of climate change, source the best quality seeds, fertiliser, and loans and diversify their agricultural interests. With the smallholder global agricultural market valued at over 400 billion USD, our vision is to create a digital online/ offline ecosystem for global smallholder agriculture. WeFarm has won Google’s prestigious Impact Challenge Award, the MEFFYS Award for Innovation in Technology, the Messaging and SMS World Awards’ Best SMS Solution, Business Rocks’ Global Startup Pitch Battle, Chivas Regal’s The Venture Competition’s UK prize, and 2nd place in their Global final and the European Union Commission’s Ideas from Europe Prize. 
+ Technology Seed AWS Code Quality Code Reviews KUBERNETES Team Lunches Daily Stand Up 
+ View 3 jobs 
+ Engineers who find a new job through Python Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from WeFarm About WeFarm 
+ Salary 
+ £50K - 85K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ SQL 
+ Big Data Infrastructure 
+ Clojure 
+ Kafka 
+ Python 
+ PostgreSQL 
+ SQS 
+ snowflake 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Team lunches 
+ Daily stand up 
+ Stock options 
+ Casual dress 
+ Stocked kitchen 
+ Training 
+ Diversity dedicated staff 
+ Parental leave 
+ 25 days holiday 
+ Bike friendly 
+ Laptop 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Clojure Engineer £60K - 85KFunding CircleLondon, United Kingdom 
+ Use Clojure at this globally recognised, peer to peer lending marketplace - 
+ aws clojure kafka ruby 
+ More Info Apply 
+ Clojure Engineer£25K - 60K + EquityStatsBombUnited Kingdom 
+ Clojure developers of all levels to support back end data processing pipelines and ClojureScript web apps. 
+ Remote 
+ clojure clojurescript kafka postgresql react re-frame kafka streams 
+ More Info Apply 
+ Data Engineer (Remote)€50K - 85KQontoFrance 
+ Data Engineer position for one of the most exciting banks for SME businesses 
+ Remote 
+ sql aws docker elasticsearch kubernetes python redshift snowflake 
+ More Info Apply 
+ Data Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Python jobs Django jobs Ansible jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Python articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

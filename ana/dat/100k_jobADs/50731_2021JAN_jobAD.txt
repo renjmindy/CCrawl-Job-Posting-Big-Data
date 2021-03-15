@@ -1,0 +1,161 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Co-Founder and Chief Technology Officer 
+ at bikerbnb 
+ go back to Co-Founder Roles 
+ 
+ 
+ __Edinburgh 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤20000 - ₤30000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __Edinburgh 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤20000 - ₤30000 per year 
+ 
+ 
+ apply now 
+ 
+ Co-Founder and Chief Technology Officer 
+ BIKERBNB | EDINBURGH, SCOTLAND or REMOTE 
+ Overview 
+ Bikerbnb is an early-stage digital booking platform designed to connect motorcyclists with biker-friendly accommodation. We hope to hire a full-time Co-Founder and Chief Technology Officer (CTO) with experience as a full stack developer to help scale our Ruby on Rails booking platform. 
+ Bikerbnb's vision is to serve riders globally as the one-stop platform for motorcycle travellers. It is also a community where riders can plan the trip of a lifetime, connect with likeminded hosts, join and share rides and support the world's most beautiful riding destinations. Bikerbnb aims to be the world's largest digital booking platform that features properties that only offer secure parking, drying facilities and access to nearby catering so riders can travel more easily and safely. 
+ We are currently building a digital platform to help millions of motorcyclists across the world plan and book their next motorcycle adventure using a dynamic web and mobile application. We differentiate ourselves from competitors by expediting the time and effort it takes to find rider-approved housing in an over saturated marketplace. Our customers can relax knowing they have access to secure parking, drying facilities and the world's best riding routes. 
+ Bikerbnb's 800+ accommodations are vetted to help users plan the trip of a lifetime through an online interface and search engine with just a few clicks. Our platform also aims to allow riders from across the world to network and share their experiences and unique stories that inspire us to ride the world with confidence. Bikerbnb also offers motorcycle hire, gear and leads the popular Highland Scramble events series every summer from its headquarters in Edinburgh and Inverness. 
+ We are now positioned to grow our core team, expand our technical capacity and develop the next iteration of our platform. The company is searching for an exceptional individual to lead technical development of the Ruby-based booking platform and help realise bikerbnb's global vision. 
+ Skills and Experience 
+ Ideally, you are a self-starter who can provide leadership, strategy and technical solutions across all aspects of the bikerbnb technology stack. You will be part of our core team and will work with bikerbnb's Co-Founders to grow the Rail's platform, implement new features, integrations and maintain day-to-day technical operations. You will be suitably experienced to contribute and dive into the codebase and conduct a broad and varied range of technical duties independently. 
+ The CTO will fit the following description: 
+ 
+ Full stack developer with qualifications in Ruby on Rails 
+ Proven proficiency in Node, JavaScript, React and experience and or desire to learn how Sharetribe uses the bikerbnb tech stack to support its two-sided marketplace 
+ Experience designing APIs, API-first web applications and or iCal integrations 
+ Knowledge and working experience with backend databases, e.g., PostgreSQL, MySQL and or AWS services 
+ Front-end PHP development using a modern CMS like WordPress 
+ Strong knowledge of web authentication mechanisms and security threats 
+ Relevant experience either working in a start-up, Fintech / Proptech / ecommerce or experience building a customer-facing product is a plus 
+ Experience in software development - knowledge of system / information architecture, software design and programming 
+ Interest in the technology, travel and tourism sector 
+ Bonus points if you are a motorcyclist or have links to riding community 
+ 
+ Responsibilities 
+ The CTO will excel in the following responsibilities: 
+ 
+ Coordinate with bikerbnb's Co-Founders to develop and implement a technology roadmap to help the booking platform scale globally 
+ Lead technical development and management of bikerbnb's ecommerce platform, mobile application and digital user experience 
+ Maintain bikerbnb's technical internal change capacity allowing it to carry out customisations and feature developments using both internal and external resources independent of previous suppliers 
+ Ensure the existing version of bikerbnb's booking platform (Sharetribe Go Community Edition) remains up-to-date and has a mechanism by which new versions of Sharetribe can be incorporated into the platform by internal or external resources in a straightforward manner 
+ Develop and maintain features to allow calendar synchronisation across all major and relevant booking platforms 
+ Oversee the day-to-day management of an Android and iOS mobile application to ensure an improved user experience 
+ Conduct routine quality assurance tests and maintenance 
+ Oversee secure application development and information security 
+ Guarantee third-party vendor management and procurement as needed 
+ Manage projects and technical talent/teams 
+ Share knowledge of the current technologies and emerging trends 
+ 
+ What We're Offering  _ 
+ _In addition to a full-time salary and enterprise management incentive scheme benefits like share options, we offer: 
+ 
+ The chance to have a major impact on a growing and exciting start-up 
+ Flexible working hours to suit you - we trust each other to find a working pattern that suits the team and our production pipeline 
+ Opportunities to work remotely around the world (or from your bike / trail / road) 
+ Full support for any side projects or self-development - we want to foster an ethos of self-development and support proactive learners to invest in their future 
+ UK Skilled Worker visa sponsorship 
+ 
+ If you are interested in the opportunity, please send a cover letter and CV to the Hiring Manager / Programme Director ( steve@bikerbnb.com ). 
+ Thank you for your interest in joining bikerbnb. 
+ Published at 6 Jan 2021 - Expires on 6 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

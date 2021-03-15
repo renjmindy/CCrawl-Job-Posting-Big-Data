@@ -1,0 +1,78 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Request Network (W17) 
+ Request is a decentralized network for payment requests. Sort of Paypal 2.0 
+ Full Stack Engineer 
+ 0.00% - 1.00% 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 1+ years 
+ About Request Network 
+ The Request Network Foundation promotes the adoption of Blockchain by providing a framework which allows everyone to develop their own financial solutions based on this technology. The Foundation creates and sustains an ecosystem of builders, the so called “Request Network Hub”, that empowers everyone to disrupt the way we do business tomorrow. 
+ Request is a decentralized network that allows anyone to request a payment (a Request Invoice) for which the recipient can pay in a secure way. All of the information is stored in a decentralized authentic ledger. This results in cheaper, easier, and more secure payments, and it allows for a wide range of automation possibilities. To become the backbone of world trade, Request integrates a general ledger (in the accounting sense of the term), which is: 
+ 
+ Universal because it is designed to support 100% of global transactions, regardless of currency, legislation or language. Request is built to last. 
+ Smart because unlike an existing standard accounting book, Request is at the origin of the exchanges and integrates a computerized trade code, as well as the management of a multitude of payment terms. 
+ 
+ Request can be seen as a layer on top of Ethereum, which allows requests for payments that satisfy a legal framework.It is also possible to see currencies as tools to complete Request transactions. In this sense, Request is more global than any currency. 
+ Please see  https://request.network  for further details. 
+ About the role 
+ At Request, our mission is to interconnect isolated financial systems to create more efficient and inclusive economies. We are accomplishing this by building a completely decentralized and open network for transaction requests. 
+ WE BUILD THE FUTURE OF INVOICING AND BUSINESS 
+ Our core technology is an open-source protocol. It allows records of transactions to be easily stored and accessed. This shared network gives financial systems a shared language to communicate. 
+ On top of this, we are building Request Invoicing, the biggest crypto-friendly invoicing application. Request users benefit from our unique payment detection solution: the reconciliation of invoices payments is 100% automated. CFOs, accountants and auditors have the clearest financial view they could imagine. 
+ Our upcoming priorities may include: integration of more blockchains and currencies, improvement of the payers’ UX with different kinds of wallets (for example: multisig wallets), decentralized escrow system embedded within the smart invoice, fiat on-ramps & off-ramps, mobile app etc. 
+ THE ROLE 
+ We are looking for an experienced Full-stack Engineer to join the development team, used to development on solutions with high usage (2000-5000 monthly users), to support our scaling phase. 
+ YOUR RESPONSIBILITIES 
+ Participate in the Request Invoicing development Keep yourself up-to-date with our stack: Typescript, Node, React, Mongo, Kubernetes, Docker, NPM, Circle CI. Participate in the continuous improvement of the Request Network library, make it easy to pay and get paid on Ethereum and other public blockchains with open source packages: request-client.js, payment-processor, payment-detection etc. Propose functional and design improvements, challenge the infrastructure, the development & release process. Design and implement integrations with partners (Invoicing REST API, payment detection on other blockchains, accounting software etc.) Optionally gain knowledge and responsibility over our decentralized framework: ethers.js, IPFS, Solidity, Infura. 
+ QUALIFICATIONS 
+ Solid knowledge of computer science fundamentals: algorithms, data structures, databases, distributed systems, operating systems, networking Strong interest in blockchain technology, and the future of payments Strong knowledge of Typescript and Node.js Used to open-source development Understanding of API design (REST, RPC) Good understanding of git and continuous integration tools Self-motivated, innovative and proactive Ability to take responsibility for projects and the willingness to learn and grow professionally in a team environment Willingness to improve by giving and asking for feedback Team spirit above personal results 
+ Bonus - this makes you stand out 
+ Good knowledge of Ethereum: frequent dapp usage or smart-contract development Familiarity with kubernetes, Helm, Google Cloud Platform, CircleCI Mobile development (architecture, design, development framework) Cryptography Monitoring of stability and performances 
+ WHY WORK WITH REQUEST ? 
+ Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward! You will have the opportunity to work in a highly ambitious team that wants to have a lasting impact on the way we experience finance tomorrow Work in an informal and friendly environment that is very open to new initiatives and ideas The team is inclusive, with inspirational and international colleagues that like to participate in team events Unlimited vacation days with a mandatory minimum of 20/year. We all work remotely (even without pandemic) but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible. 
+ Technology 
+ ES6, Typescript, NodeJS, Solidity, Web3JS library 
+ Other jobs at Request Network 
+ Blockchain developer 
+ fulltime 
+ Remote 
+ Full Stack 
+ $0 
+ 0.00% - 1.00% 
+ Any (new grads ok) 
+ Full Stack Engineer 
+ fulltime 
+ Remote 
+ Full Stack 
+ 0.00% - 1.00% 
+ 1+ years 
+ Digital Marketing and Acquisition Specialist 
+ fulltime 
+ Remote 
+ 0.00% - 1.00% 
+ 3+ years 
+ Full Stack Engineer - Payments 
+ fulltime 
+ Remote 
+ Full Stack 
+ 0.00% - 1.00% 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

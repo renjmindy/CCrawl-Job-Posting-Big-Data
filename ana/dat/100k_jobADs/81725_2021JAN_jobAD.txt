@@ -1,0 +1,76 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Pathmind (W16) 
+ Pathmind helps industrial engineers and simulation modelers achieve 10-20% gains in performance for industrial operations, supply chains and mining. 
+ Product Manager 
+ 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Pathmind 
+ Pathmind helps industrial engineers optimize simulations for operational problems concerning supply chains, manufacturing and logistics using deep reinforcement learning. Its headquarters are in San Francisco. 
+ About the role 
+ Company Objectives 
+ 
+ Help businesses make smarter decisions to assure their continued operations, serve their customers, and rebuild for renewed success 
+ Enable the creation of more resilient supply chains using AI technology embedded into operational systems 
+ Create software for industrial engineers and simulation modelers that is simple to use with the latest AI technology seamlessly integrated 
+ Deliver customer success at a high satisfaction level from simulation model creation to production deployment 
+ Build a company filled with people solving hard problems, embracing the good and bad, and sweating the details 
+ 
+ About the Job 
+ As one of our first Product Managers, you’ll own large and company-critical product initiatives end-to-end. We’re seeking user experience experts to enable modern industrial engineering and simulation teams through our core Pathmind Web application, and platform-minded technologists to scale our growing ecosystem of integrations and partners. You’ll tackle everything from strategic planning to product development and public launch. You’ll be talking to our customers, partners, and internal teams such as Sales and Customer Success to get input and build world class products. Best of all, you’ll be joining a company of smart, driven, and low-ego people from places like Twilio, Intuit, Samsung, and The New York Times. 
+ Responsibilities 
+ 
+ Understand the needs of Pathmind’s users better than anyone (including the users themselves). 
+ Identify market opportunities and define product strategy. 
+ Establish shared vision across the company by building consensus on priorities and product roadmap. 
+ Lead the end-to-end ideation, development, and launch of amazing products. 
+ Define and analyze metrics that inform product prioritization and decision-making. 
+ 
+ Qualifications 
+ 
+ 4+ years product management experience (ideally with experience in enterprise SaaS) 
+ Clear communicator 
+ BA/BS in Computer Science, Math, Engineering, Statistics or equivalent experience 
+ Curiosity and enthusiasm for talking to end users and understanding their world 
+ Recognized as a collaborative and influential leader; a great partner to all functions, especially engineering 
+ Strong track record of owning end-to-end initiatives and launching impactful products 
+ Took at least one product to $1M ARR 
+ Exceptional product sense and strategic thinking 
+ Strong organizational and analytical skills 
+ 
+ Perks 
+ 
+ Competitive compensation 
+ Health, dental, and vision insurance 
+ Take what you need vacation policy 
+ Generous parental leave for both primary and secondary caregivers 
+ 
+ About the Company 
+ Pathmind drives operational efficiency in supply chains, mining and manufacturing with the power of AI. Using reinforcement learning, Pathmind enables simulation modelers to discover better strategies in the face of unexpected events such as supply and demand shocks. Pathmind’s dynamic and powerful predictive models are easy to embed in operational settings to impact actual business decisions. Pathmind is used by global engineering and strategic consulting firms like Accenture and GHD. 
+ Pathmind is based in San Francisco and backed by TransLink Capital, Y Combinator, SV Angel, Tencent, Presidio Ventures, ServiceNow, and Greatpoint Ventures. 
+ Technology 
+ We use deep reinforcement learning to find optimal decisions within simulations. We train the RL agents on AWS with RLlib and Ray. Our Web app combines a Java web framework called Vaadin with various JS components. 
+ Other jobs at Pathmind 
+ Product Manager 
+ fulltime 
+ Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

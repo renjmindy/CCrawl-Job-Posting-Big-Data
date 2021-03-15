@@ -1,0 +1,193 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Sr Platform DevOps Engineer 
+ [ 
+ Paidy 
+ ](/companies/paidy) 
+ 
+ Remote 
+ 19 January, 2021 
+ Apply 
+ More jobs from Paidy About Paidy 
+ Salary 
+ ¥8.0M - 12.1M 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ CI/CD 
+ Cassandra 
+ DevOps 
+ Kafka 
+ TERRAFORM 
+ CloudFormation 
+ low latency systems 
+ 
+ Benefits & perks 
+ 
+ Pension contributions 
+ Diverse management team 
+ Japanese speaking lessons 
+ 2 months relocation/housing 
+ 
+ Take responsiblity of the production platforms for one of the fastest growing fintechs in Japan (remote/Tokyo) 
+ Role overview 
+ Must be locally based for this role and/or a Japanese native - this is until Covid restrictions ease up 
+ Paidy Engineering 
+ The Engineering organization consists of more than 60 people divided in Product Engineer, Merchant Engineering, Front End Engineering, Platform Services, Data Engineering, Operations, Information Security and IT and Back-end Engineering. 
+ Position Overview 
+ As a platform develops engineer you will be responsible to design, evolve and maintain developer and production platforms in Paidy. That includes CI/CD pipelines, test and production environments. 
+ You will design and help drive platform alignment of solutions across Paidy. Candidates will be involved in hands-on activities including POCs, design, documentation, development and test of infrastructure and automation. Must be flexible and willing to switch tasks based on the team's needs. 
+ We are looking for strong technologists who are passionate to solve large scale computer engineering problems, in a repeatable and maintainable way. 
+ Responsibilities 
+ 
+ Define, design, and automate complex infrastructural tasks 
+ Work with developers to continuously improve platform automation, monitoring, alerting and stability to meet market needs with respect to functionality, performance, availability, scalability and reliability 
+ Ability to find and help fix infrastructure, performance, scalability, and other live issues in a very time critical environment 
+ Help the team recognize potential infrastructure or security issues, and create a plan to solve them 
+ Work with developers and platform engineers to continuously refine and improve our Change Management and Incident Management processes 
+ Participate in Level 2 production support. 
+ Effectively communicate status, issues, and risks in a precise and timely manner. 
+ 
+ Your skills and experience 
+ 
+ (Mandatory) Experience in creating, maintaining and optimizing CI/CD pipeline 
+ Experience in managing and supporting production environments 
+ Experience in managing the infrastructure of microservice based, highly distributed, scalable, concurrent and low latency systems 
+ (Mandatory) Excellent knowledge of AWS - networking, IAM, EC2 
+ (Mandatory) Excellent knowledge of **at least  one  **of the following:- 
+ Infrastructure definition with Terraform 
+ Infrastructure definition with CloudFormation 
+ Apache Cassandra 
+ Apache Kafka 
+ Monitoring system with Datadog and Pagerduty 
+ Infrastructure security 
+ 
+ ﻿ 
+ 
+ Good troubleshooting skills of cloud infrastructure 
+ Excellent communication and writing skills 
+ Demonstrate a high level of curiosity, pride of ownership and strive for excellence Experience supporting a high-volume operations environment 
+ 
+ 
+ [ 
+ Paidy 
+ ](/companies/paidy) 
+ 
+ 50-249 
+ 
+ Paidy was founded with the mission to create a world of “We remove the barriers, embrace simplicity”, offering its real-time monthly consolidated credit service all across Japan. Paidy started Japan’s first instant post-pay credit service for ecommerce consumers in October 2014. Paidy requires no pre-registration or credit card to use; Paidy consumers purchase products online using only a mobile phone number and email address (verification is established though a four-digit code via SMS or voice pin-code) and settle a single monthly bill for all their purchases, either at a convenience store, by bank transfer or auto debit. Paidy also supports multi-pay installments and subscriptions. There are currently almost 4,000,000 Paidy accounts in use (Oct 2020)!! Paidy has proved a powerful means of persuading first time buyers to transact online. Its proprietary models and machine learning mean that transactions are underwritten in seconds, with guaranteed payment to merchants. Paidy increases merchant revenues by reducing incomplete transactions, increasing conversion rates, boosting average order values, and facilitating easy repeat buying. 
+ Technology Late Stage Venture Relocation Support Typed Functional Programming Akka CI/CD Cassandra Distributed Systems Pension Contributions Diverse Management Team 
+ View 4 jobs 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Paidy About Paidy 
+ Salary 
+ ¥8.0M - 12.1M 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ CI/CD 
+ Cassandra 
+ DevOps 
+ Kafka 
+ TERRAFORM 
+ CloudFormation 
+ low latency systems 
+ 
+ Benefits & perks 
+ 
+ Pension contributions 
+ Diverse management team 
+ Japanese speaking lessons 
+ 2 months relocation/housing 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Clojure Engineer £60K - 85KFunding CircleLondon, United Kingdom 
+ Use Clojure at this globally recognised, peer to peer lending marketplace - 
+ aws clojure kafka ruby 
+ More Info Apply 
+ Backend Engineer€50K - 85KQontoParis, France 
+ Software Engineering position for one of the most exciting banks for SME businesses 
+ Sponsorship 
+ aws golang kubernetes kafka ruby 
+ More Info Apply 
+ Backend Engineer (Remote)€50K - 85K + EquityQontoFrance 
+ Software Engineering position for one of the most exciting banks for SME businesses 
+ RemoteSponsorship 
+ aws golang kubernetes kafka ruby 
+ More Info Apply 
+ Sr Platform DevOps Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

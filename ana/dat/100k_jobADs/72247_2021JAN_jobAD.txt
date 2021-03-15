@@ -1,0 +1,37 @@
+  
+ Laboratory of Neuroinformatics 
+ Nencki Institute of Experimental Biology, Warsaw, Poland 
+ Menu 
+ Skip to content 
+ 
+ Home 
+ People 
+ Research 
+ Publications 
+ Jobs 
+ Group calendar 
+ Events 
+ 
+ Postdoc kESI 
+ OPEN POSITION 
+ POSTDOCTORAL POSITION IN COMPUTATIONAL NEUROSCIENCE: 
+ kESI - kernel-based method of electrophysiological source imaging 
+ The  Neuroinformatics Laboratory  at the  Nencki Institute of Experimental Biology , invites applications for a  postdoctoral position . 
+ The goal of the project is to develop, implement and investigate,  a new technique of source localization  of specific events in neural activity, such as a seizure, from multimodal imaging data, including ECoG (strip and grid electrodes), depth electrophysiological recordings, and MRI data from humans. The method will be validated with ground truth model data and tested on clinical data obtained from epilepsy patients. The fellow will build on already existing  tools and techniques developed in the lab , see especially  Potworowski et al. 2012 and Ness et al. 2015 . 
+ The ideal candidate will have a strong computational background, experience in numerical solutions of PDEs, electrodynamics, computational neuroscience, or brain imaging. We can only accept candidates 0 to 7 years after reception of PhD (+1,5 year per child for mothers). You can apply before obtaining the degree if you have submitted your PhD thesis for review, however, the job can commence only after obtaining the PhD degree. 
+ If you have a solid background in physics, maths, computer science, or engineering, and want to apply it to understanding or curing the brain, this position might be for you. Funding is available for 2-3 years. The gross yearly salary ("duże brutto") is up to 120 000 PLN (~28 000 EUR) depending on employment time and experience. To find out its worth check out  here  and  here . 
+ To apply or inquire send email to d.wojcik@nencki.gov.pl .  Applications should include a CV, statement of research interests, and the names and full contact details of one to three referees. To demonstrate your prowess in Python provide your github account or solutions to problems 1-4 provided  here  (at least two, the more the better). If you cannot satisfy these conditions but still think we should hire you, convince us. 
+ The deadline for application is December 31st, 2018. 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

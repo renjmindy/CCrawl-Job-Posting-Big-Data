@@ -1,0 +1,237 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Computational Research Scientist 
+ Lawrence Berkeley National Laboratory 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Computational Research Scientist 
+ Lawrence Berkeley National Laboratory 
+ [](mailto:?subject=Computational%20Research%20Scientist&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14231435/computational-research-scientist/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 20, 2020 
+ Location: 
+ Berkeley, United States 
+ __ Show Map 
+ Salary: 
+ Open 
+ Berkeley Lab's Advanced Light Source Division has an opening for a Computational Research Scientist. 
+ The Advanced Light Source (ALS) at Berkeley Lab is seeking a Career-Track Research Scientist to work on the development of algorithms and software for the Advanced Light Source. ALS is a U.S. Department of Energy Office of Science national scientific user facility whose excellent scientific reputation, expert staff, and capabilities in the soft x-ray, hard x-ray, and infrared regimes attract more than 2,000 academic and industrial users each year in disciplines spanning physical, chemical, materials, biological, energy, and Earth sciences. It is one of five Berkeley Lab user facilities that serve a combined 11,000 users annually. The co-location of these user facilities - including the Molecular Foundry Nanoscale Science Research Center and the National Energy Research Scientific Center, as well as Berkeley Lab's outstanding programs in materials and chemical sciences among others - offers a prime environment for collaborative science. The ALS has been a global leader in soft x-ray science for more than two decades and is currently undertaking a new project (ALS-U) that will endow the facility with state-of-the-art x-ray capabilities. It's an exciting time to join our growing team! 
+ What You Will Do: 
+ The Career-Track Research Scientist will join in the design, development, and optimizations of a user-friendly software development for scientific data, instrumentation and analysis at the ALS. 
+ 
+ 
+ Work closely with ALS scientists to develop, deploy and customize new software solutions. 
+ 
+ 
+ Develop applications for loading facility data sets and incorporate them into a multi-modal technique database. 
+ 
+ 
+ Collaborate with computing efforts across DOE scientific user facilities to enhance management frameworks, query processed and analyzed data, access data from multiple instruments and facilities in a unified way, and relate these data to one another in support for multi-modal analyses. 
+ 
+ 
+ Provide technical leadership in the area of scientific data analysis based on computing. 
+ 
+ 
+ Provide training to colleagues and write excellent documentation, to elevate the work from a proof of concept to maintainable, long-lasting production ready software. 
+ 
+ 
+ Lead and/or supervise the work of postdoctoral scientists, technical staff, graduate and undergraduate students participating in this position's work 
+ 
+ 
+ What is Required: 
+ 
+ 
+ Ph.D. degree in the Physical Sciences, Material Science, Applied Mathematics, Computer Science or related discipline and 1 year of relevant postdoctoral experience and/or professional scientist/engineer experience, or equivalent combination of education and experience 
+ 
+ 
+ Experience creating data analysis methods and procedures. 
+ 
+ 
+ Experience in python programming. 
+ 
+ 
+ Experience and a strong interest in scientific software development or research software engineering. 
+ 
+ 
+ Demonstrated record of scientific excellence through publications, talks, talks, or software deliverables. 
+ 
+ 
+ Experience contributing to a scientific software project in a team environment, which might include co-developing an internal project or contributing to community-based open source software 
+ 
+ 
+ Demonstrated ability to conduct and perform collaborative research and effectively work with colleagues with diverse scientific backgrounds 
+ 
+ 
+ Desired Qualifications: 
+ 
+ 
+ Experience with neutron and or X-ray techniques. 
+ 
+ 
+ Contributions to open source scientific software projects. 
+ 
+ 
+ Demonstrated record in collaborative software development, especially in distributed teams. 
+ 
+ 
+ Experience in data acquisition and analysis at a synchrotron light source, neutron source or other major scientific user facilities. 
+ 
+ 
+ This position will remain open until filled. For full consideration, please apply by February 1, 2021. 
+ Notes: 
+ 
+ 
+ This is a full-time, 3 year, career-track term appointment that may be renewed to a maximum of five years and that may be converted to career based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs. 
+ 
+ 
+ This position may be subject to a background check. Any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position. Having a conviction history will not automatically disqualify an applicant from being considered for employment. 
+ 
+ 
+ Diversity, equity, and inclusion are core values at Berkeley Lab. Our excellence can only be fully realized by faculty, students, and staff who share our commitment to these values. Successful candidates for our faculty positions will demonstrate evidence of a commitment to advancing equity and inclusion. 
+ 
+ 
+ Work will be primarily performed at: Lawrence Berkeley National Lab, 1 Cyclotron Road, Berkeley, CA. 
+ 
+ 
+ Equal Employment Opportunity: Berkeley Lab is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. Berkeley Lab is in compliance with the Pay Transparency Nondiscrimination Provision under 41 CFR 60-1.4. Click here to view the poster and supplement: "Equal Employment Opportunity is the Law." 
+ Lawrence Berkeley National Laboratory encourages applications from women, minorities, veterans, and other underrepresented groups presently considering scientific research careers. 
+ 
+ 
+ Internal Number: 91714 
+  __  Create a Job Alert for Similar Jobs  
+ About Lawrence Berkeley National Laboratory 
+ In the world of science, Lawrence Berkeley National Laboratory (Berkeley Lab) is synonymous with excellence. Thirteen scientists associated with Berkeley Lab have won the Nobel Prize. Fifty-seven Lab scientists are members of the National Academy of Sciences (NAS), one of the highest honors for a scientist in the United States. Thirteen of our scientists have won the National Medal of Science, our nation's highest award for lifetime achievement in fields of scientific research. Eighteen of our engineers have been elected to the National Academy of Engineering, and three of our scientists have been elected into the Institute of Medicine. In addition, Berkeley Lab has trained thousands of university science and engineering students who are advancing technological innovations across the nation and around the world. Berkeley Lab is a member of the national laboratory system supported by the U.S. Department of Energy through its Office of Science. It is managed by the University of California (UC) and is charged with conducting unclassified research across a wide range of scientific disciplines. Located on a 200-acre site in the hills above the UC Berkeley campus that offers spectacular... views of the San Francisco Bay, Berkeley Lab employs approximately 4,200 scientists, engineers, support staff and students. Its budget for 2011 is $735 million, with an additional $101 million in funding from the American Recovery and Reinvestment Act, for a total of $836 million. A recent study estimates the Laboratory's overall economic impact through direct, indirect and induced spending on the nine counties that make up the San Francisco Bay Area to be nearly $700 million annually. The Lab was also responsible for creating 5,600 jobs locally and 12,000 nationally. The overall economic impact on the national economy is estimated at $1.6 billion a year. Technologies developed at Berkeley Lab have generated billions of dollars in revenues, and thousands of jobs. Savings as a result of Berkeley Lab developments in lighting and windows, and other energy-efficient technologies, have also been in the billions of dollars. Berkeley Lab was founded in 1931 by Ernest Orlando Lawrence, a UC Berkeley physicist who won the 1939 Nobel Prize in physics for his invention of the cyclotron, a circular particle accelerator that opened the door to high-energy physics. It was Lawrence's belief that scientific research is best done through teams of individuals with different fields of expertise, working together. His teamwork concept is a Berkeley Lab legacy that continues today. 
+ Show more 
+ Show less 
+ Connections working at Lawrence Berkeley National Laboratory 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Postdoctoral positions in Biomedical Optics 
+ __  Boston, Massachusetts 
+ 
+ 
+ 
+ 
+ Optical Micromechanics Lab -Wellman Center at Harvard Medical School and Massachusetts General Hosp 
+ __1 Week Ago 
+ 
+ 
+ Optical Systems Scientist 
+ __  Santa Barbara, California 
+ 
+ 
+ Thorlabs, Inc. 
+ __1 Week Ago 
+ 
+ 
+ Postdoctoral Fellow (Modeling & Simulation) 
+ __  Berkeley, 
+ 
+ 
+ Lawrence Berkeley National Laboratory 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

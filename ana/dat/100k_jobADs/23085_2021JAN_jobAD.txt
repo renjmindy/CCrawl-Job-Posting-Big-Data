@@ -1,0 +1,192 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Principal Frontend Software Engineer 
+ CBRE 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Principal Frontend Software Engineer 
+ CBRE 
+ [](mailto:?subject=Principal%20Frontend%20Software%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14297119/principal-frontend-software-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 11, 2021 
+ Location: 
+ Memphis, United States 
+ __ Show Map 
+ Salary: 
+ Open 
+ Team The real estate industry is undergoing significant and exciting change, increasingly driven by data and technology. At CBRE, the world's premier commercial real estate services company, we empower teams to take ownership over that technology and shape it, offering both nimble, research-driven product design and the resources of a Fortune 500 business. We approach culture with intention, valuing camaraderie, collaboration, inclusivity and a healthy work/life balance. 
+ Role We are looking for a Principal Software Engineer who specializes in frontend web applications and architecture, a beacon for technology talent and an advocate for engineering best practices. You will be part of an agile team, influence technology decisions across the organization, and help deliver solutions to world-class, global platforms. 
+ Responsibilities 
+ 
+ Implement best practices in code quality and security 
+ Architect single page micro-frontends using modern JavaScript frameworks 
+ Expert in frontend frameworks (React preferred) 
+ Leverage AWS cloud services 
+ Collaborate with a team of engineers, designers, product managers and researchers to refine and build products 
+ Identify, prioritize and implement platform improvements in a data-driven way 
+ Define, scope and estimate large scale projects 
+ Mentor other engineers 
+ 
+ Qualifications 
+ 
+ 
+ Bachelor's degree (BA/BS) in a related field such as information systems, mathematics, or computer science or equivalent work experience. Consideration given to equivalent combination of education and experience. 
+ 
+ 
+ Minimum of 5 - 7 years of experience as a professional software engineer 
+ 
+ 
+ Fluent in JavaScript, TypeScript, CSS and SCSS 
+ 
+ 
+ Experience composing large-scale applications 
+ 
+ 
+ Experience with asynchronous and functional programming techniques 
+ 
+ 
+ Experience with module bundling, code splitting (webpack preferred) 
+ 
+ 
+ Experience with frontend cloud deployment and routing 
+ 
+ 
+ Thorough understanding of object-oriented programming, multiprocessing, multithreading, domain modeling, RESTful and GraphQL interfaces, OAuth2 and public-key cryptography 
+ 
+ 
+ Comfort with Agile/Scrum software development cycles 
+ 
+ 
+ Effective collaboration, communication, and leadership skills 
+ 
+ 
+ Our team & what we offer 
+ 
+ A competitive compensation package including medical/dental/vision/401(k)/disability 
+ Parental leave 
+ Dedication to your career through coaching and learning and development plans 
+ Remote work during heightened COVID-19 risks 
+ Based in Richardson, TX as office life resumes 
+ 
+ 
+ 
+ Internal Number: 20025897 
+  __  Create a Job Alert for Similar Jobs  
+ About CBRE 
+ With broader and deeper capabilities than any other company, CBRE is the leading full-service real estate services and investment organization in the world. CBRE Group, Inc. is the world’s largest commercial real estate services and investment firm, with 2017 revenues of $14.2 billion and more than 80,000 employees (excluding affiliate offices). CBRE has been included in the Fortune 500 since 2008, ranking #214 in 2017. It also has been voted the industry’s top brand by the Lipsey Company for 17 consecutive years, and has been named one of Fortune’s “Most Admired Companies” in the real estate sector for six years in a row. Its shares trade on the New York Stock Exchange under the symbol “CBRE.” CBRE offers a broad range of integrated services, including facilities, transaction and project management; property management; investment management; appraisal and valuation; property leasing; strategic consulting; property sales; mortgage services and development services. 
+ Connections working at CBRE 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Sr. Full-Stack Developer, Studio 
+ __  New York, New York 
+ 
+ 
+ 
+ 
+ BNY Mellon 
+ __4 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

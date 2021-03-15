@@ -1,0 +1,227 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Engineer - Spark Runtimes 
+ Bloomberg 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Engineer - Spark Runtimes 
+ Bloomberg 
+ [](mailto:?subject=Senior%20Software%20Engineer%20%2D%20Spark%20Runtimes&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14260462/senior-software-engineer-spark-runtimes/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Bloomberg runs on data. It's our business and our product. From the biggest banks to the most elite hedge funds, financial institutions need timely, accurate data to capture opportunities and evaluate risk in fast-moving markets. With petabytes of data available, a platform to transform and analyze data is critical to our success. 
+ Bloomberg has always focused on providing tenants with secure, reliable, and scalable solutions for their ETL pipelines. The Spark Runtimes team aims to provide scalable compute, specialized hardware, and first-class support for a variety of Apache Spark workloads and runtimes on top of Kubernetes. This platform is built leveraging containerization, container orchestration, and cloud architecture and built on top of 100% open source foundations. 
+ The Spark Runtimes team additionally functions as a single-window clearinghouse for evaluating use-cases, determining fit, and assisting teams with using Spark, the way it's meant to be used. In joining this team of Spark experts, you will help define best practices around infrastructure management, software deployments, and security as we provide support for a powerful, flexible, and centralized compute infrastructure; address feature gaps across similar use cases through Spark core contributions, and commit to Kubernetes as the future for compute. On a daily basis, team members consult on projects in a wide variety of application domains and help provide design and implementation guidance as well as build self-service tooling to help with the instrumentation, profiling, and optimization of distributed financial applications. 
+ The platform is poised for enormous user growth this year and has an ambitious roadmap in terms of new features as well as improved user experience. That's where you come in. As a member of the multi-disciplinary Spark Runtimes team, you'll have the opportunity to make key technical decisions to keep this platform moving forward. 
+ Our team makes extensive use of open-source (e.g. Spark, Kubernetes, Istio) technologies and is deeply involved in a number of communities. As part of that, we regularly upstream features we develop, present at conferences, and collaborate with our peers in the industry. For Spark, we recently have implemented a scalable and resilient external shuffle service for dynamic resource allocation, a pluggable interface for secure worker creation, in a Kubernetes environment, and a token renewal service that handles privacy and security across Spark jobs, all in line with our effort to improve security and elasticity for Spark on Kubernetes. We have also contributed code for topology-aware RDD block replication as well as Spark ML bug fixes. Open source is at the heart of our team. It's not just something we do in our free time, it is how we work. 
+ We 'll trust you to: 
+ 
+ Interact with application teams who use our platform (or are looking to use it) to understand their requirements and workflows, in order to inform the next set of features 
+ Design solutions for problems such as elastic load distribution, GPU sharing, and guaranteed scheduling 
+ Automate the operation and improve the telemetry of Spark components in our infrastructure stack 
+ Contribute to the development of Spark core infrastructure, its integration with a variety of key Bloomberg data sources and services, as well as tooling to improve the platform user experience. 
+ Guide engineers across Bloomberg with leveraging Spark and distributed data processing idioms to bring scale and capacity to some of the most complex and demanding financial applications in the organization. 
+ 
+ You 'll need to be able to: 
+ 
+ Troubleshoot and debug run-time issues 
+ Provide developer and operational documentation 
+ Provide performance analysis and capacity planning for clusters 
+ Be organized and multi-task in a fast-paced environment 
+ Have a passion for providing reliable and scalable infrastructure 
+ 
+ You 'll need to have: 
+ 
+ 
+ Experience designing and implementing low-latency, high-scalability systems. 
+ 
+ 
+ 3+ years of experience programming in Java, Scala, Go, or Python. 
+ 
+ 
+ A good understanding of Apache Spark programming models and constructs. 
+ 
+ 
+ Experience with distributed systems eg. Kubernetes, Kafka, Zookeeper and its fundamentals
+We'd love to see: 
+ 
+ 
+ Proficiency in Java / Scala and functional programming idioms. 
+ 
+ 
+ An expert-level understanding of Apache Spark (your work may involve modifying its internals). 
+ 
+ 
+ Open source involvement such as a well-curated blog, accepted contribution, or community presence 
+ 
+ 
+ Experience with Kubernetes and its broader ecosystem (custom operators, service meshes etc.) 
+ 
+ 
+ Experience working with authentication & authorization systems such as Kerberos and LDAP 
+ 
+ 
+ Experience working with GPU compute software and hardware 
+ 
+ 
+ Linux systems experience (Network, OS, Filesystems) 
+ 
+ 
+ Ability to identify and perform OS and hardware-level optimizations 
+ 
+ 
+ Experience with configuration management systems (Chef, Puppet, Ansible, or Salt) 
+ 
+ 
+ Experience with continuous integration tools and technologies (Jenkins, Git, Chat-ops) 
+ 
+ 
+ If this sounds like you, submit an application and watch our Spark Summit / KubeCon talks to learn more about some of the ideas that underpin our infrastructure offering: 
+- https://spark-summit.org/east-2016/events/spark-at-bloomberg/ 
+- https://www.techatbloomberg.com/events/spark-summit-east-2017/ 
+- https://databricks.com/session/apache-spark-on-k8s-and-hdfs-security 
+- https://kccnceu19.sched.com/event/MPal/scaling-and-securing-spark-on-kubernetes-at-bloomberg-ilan-filonenko-bloomberg 
+ Bloomberg is an equal opportunities employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+ 
+ Internal Number: 8744405 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Bloomberg 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Senior Software Engineer, WIN 
+ __ 
+ 
+ 
+ 
+ 
+ Verizon 
+ __3 Days Ago 
+ 
+ 
+ Senior Software Engineer 
+ __ 
+ 
+ 
+ Verizon 
+ __1 Week Ago 
+ 
+ 
+ Senior Software Engineer - C++ Infrastructure 
+ __  Frankfurt am Main, Germany 
+ 
+ 
+ Bloomberg 
+ __3 Weeks Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

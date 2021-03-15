@@ -1,0 +1,317 @@
+The SQL Pro 
+ (Ayman El-Ghazali - www.thesqlpro.com) 
+ 
+ Home 
+ 
+ Database Administration 
+ Database Development 
+ SQL Server BI 
+ 
+ 
+ Presentations 
+ 
+ Code &Slides for Presentations 
+ 
+ 
+ Videos 
+ 
+ SQL Server 2016: A Comprehensive Introduction – Arabic 
+ SQL Snacks! 
+ Arabic SQL Server Videos – تعليم باللغة العربية 
+ Arabic SQL Server BI Videos – تعليم باللغة العربية 
+ 
+ 
+ SQL Snacks! 
+ SQL Server FCI Virtual Lab 
+ 
+ SQL Server Virtual Lab Section 1 
+ SQL Server Virtual Lab Section 2 
+ SQL Server Virtual Lab Section 3 
+ 
+ 
+ SQL Server Installation Guide 
+ About 
+ 
+ RSS 
+ <- SQL Server Backup and Recovery Fundamentals Presentation 
+ SQL Server 2012 Virtual Lab with Clustering using Hyper-V -> 
+ SQL Agent and the case of the missing job owner… 
+ 20 Feb 
+ One fine morning as I'm sitting at my desk doing my work I review some emails about cleaning out some old data from a table that stored webpage session information. I'm given hints about first checking out a job that supposedly purges the data automatically. With my first clue, the wheels were turning on this investigation. To my astonishment, I would fine something terrifying… almost unspeakable… 
+ It was a SQL Server job with no owner! 
+ You may think to yourself "what is the big deal, a SQL Server job with no owner no one got hurt." Well it's a bit more complicated than that. Sure, the job had failed probably 1000 times since there was no owner to have permission to run the script in the job. In all honestly, there weren't enough job history records for me to determine when the job had started failing. 
+ Again, it may not seem like a big deal but let me just say this. The table that stores these webpage session was supposed to have expired sessions expunged regularly. Instead the table had accumulated tons of rows. How many exactly? Oh around 80 million rows on a table that only has one index (PK clustered index) on column that is not used in the delete statement that is in the job, and no other indexes on the table. Basically, the query had to scan the entire table to find the correct records to remove. Also, since the job would execute a delete statement it was logging every single delete in the transaction log. 
+ I gave the poor job an owner and after a few minutes realized that the job was set to run every minute. So you may have already guessed what happened next. If you haven't let me just say this. The job ran successfully after I gave it an owner. And it kept running, and running, and running, and running… you get the idea. I had to kill the job. It was freezing our website. With some pain and frustration, I was able to remove the unnecessary data from the table. 
+ So as you can see, this job failed consistently because it had no owner. But why did it have no owner, did someone delete the owner? Probably not. My guess is that the person that created the job left the company and thus his/her account was removed from the server logins. In general, when a job is created its owner is its creator, unless someone consciously changes it at creation time. 
+ Let me paint an ugly picture to drive my point across. Imagine if someone created a job or maintenance plan to back up all your databases. That person left, and his/her server login was deleted. The job fails everyday and no error messages are sent out and then one of your databases crashes. No backups = No Restores = Time to find a new job. Also, this particular database and its log just kept growing unnecessarily so our drive was filling with rubbish data which maybe another scenario if you had a similar setup for cleaning out old data. 
+ Here is the error message in the job history log: 
+ 
+ Date 2/1/2013 8:29:00 PM 
+Log Job History (ASPState_Job_DeleteExpiredSessions) 
+ Step ID 1 
+Server ProductionServer 
+Job Name VeryImportantJob 
+Step Name If the Job fails you will be in trouble!! 
+Duration 00:00:00 
+Sql Severity 14 
+Sql Message ID 916 
+Operator Emailed 
+Operator Net sent 
+Operator Paged 
+Retries Attempted 0 
+ Message 
+'EXECUTE AS LOGIN' failed for the requested login 'LoginName'. The step failed. 
+ 
+ By the way, my job history lied no operators were received any emails 🙂 
+ And now the code to find jobs without owners 
+ USE msdb SELECT p.name,j.* FROM dbo.sysjobs j LEFT OUTER JOIN sys.server_principals p ON j.owner_sid = p.sid ORDER BY p.name 
+ At this point you have one of two choices. You can find each job without an owner and assign it a good Server Login (SQL or Windows). Or you can do a bulk update (warning you are doing this at YOUR own risk) of the dbo.sysjobs table in MSDB. When you pick a good server login make sure it is one that you know will never get removed from the server and has enough permission to execute all the job steps. Once you have a good server login, update the owner_sid column (dbo.sysjobs table) to a good sid value from your sys.server_principals table where the value for owner_sid is null. Alright fine, I'll provide the code for you! 
+ USE msdb UPDATE dbo.sysjobs SET owner_sid = [TheSidValue] WHERE owner_sid is NULL 
+ T-SQL Code for killing a job 
+ USE msdb EXEC dbo.sp_stop_job 'YOUR JOB NAME' 
+ Share this: 
+ 
+ LinkedIn 
+ Twitter 
+ Reddit 
+ WhatsApp 
+ Facebook 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ 5 Comments 
+ Posted by  Ayman El-Ghazali  on February 20, 2013 in  Database Administration 
+ Tags:  sql agent ,  sql server jobs ,  sqlserverpedia 
+ <- SQL Server Backup and Recovery Fundamentals Presentation 
+ SQL Server 2012 Virtual Lab with Clustering using Hyper-V -> 
+ 5 responses to "  SQL Agent and the case of the missing job  owner… " 
+ 
+ Brian Elink-Schuurman-Laura 
+ 
+ February 21, 2013 at 2:27 AM 
+ This is exactly why I don't let users on my network utilize admin roles or have permissions to create tasks and jobs. I assign them a pseudo account that has the permissions necessary to run jobs but won't do so unless the account they are tied to exists or still has login permissions. If they leave the company, with the user account deleted, the pseudo account won't run any tasks and then notifies admins of it's failed jobs. 
+ It takes some planning and work, but I make sure every network I supervise runs like this. 
+ Like Like 
+ Reply 
+ 
+ sqlchad 
+ 
+ February 22, 2013 at 3:09 PM 
+ If the job owner is granted access to SQL Server through an AD group, sys.server_principals will return falso or no information. To get around this you need to not join to sys.server_principals and use SUSER_SNAME(owner_sid) from sysjobs 
+ Like Like 
+ Reply 
+ 
+ sqlchad 
+ 
+ February 22, 2013 at 3:11 PM 
+ If the job owner is granted access to SQL Server through an AD group, sys.server_principals will return false or no information. To get by this, instead of joining to sys.server_principals, just select from sysjobs and use SUSER_SNAME(owner_sid) to get the job owner 
+ Like Like 
+ Reply 
+ 
+ Chad Churchwell 
+ 
+ February 22, 2013 at 3:17 PM 
+ After checking again, it returns NULL if you join to sys.server_principals and access was granted theough an AD group, possibly making you think it is not a valid job owner but it really could be a valid user that was just granted access to SQL Server through an AD group. 
+ Like Like 
+ Reply 
+ * [Ayman El-Ghazali](http://www.thesqlpro.com)
+ 
+ February 22, 2013 at 4:48 PM 
+ Thanks for your input, this will certainly help out for folks that have jobs attached to AD Groups as opposed to users. 
+ Like Like 
+ Reply 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ 
+ 
+ 
+ Search Site 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ Subscribe 
+ 
+ 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 1,453 other followers 
+ Email Address: 
+ Follow 
+ 
+ 
+ 
+ 
+ 
+ Follow @thesqlpro 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recent Posts 
+ 
+ Azure Security Group Automation [Guest Post] 
+ The Power of DevOps and Deploying Power BI reports to different Environments [Guest Post] 
+ A COVID19 Story with Azure Databricks 
+ Introduction to Azure Databricks Presentation - Video Recording 
+ Introduction to Azure Databricks 
+ 
+ 
+ 
+ Favorites 
+ 
+ Brent Ozar 
+ Gethyn Ellis 
+ Katie & Emil (Video Training) 
+ Microsoft Virtual Academy 
+ SQL Authority 
+ SQL Server MCM Videos 
+ 
+ 
+ 
+ Categories 
+ 
+ Database Administration 
+ 
+ Backup & Recovery 
+ Disaster Recovery 
+ High Availability 
+ Security 
+ SQL Server Performance 
+ 
+ 
+ Database Development 
+ Other 
+ Other Administration 
+ power bi 
+ Presentations 
+ SQL Server 2012 
+ SQL Server 2016 
+ SQL Server BI 
+ 
+ Analysis Services (SSAS) 
+ Integration Services (SSIS) 
+ Reporting Services (SSRS) 
+ 
+ 
+ Uncategorized 
+ Videos 
+ 
+ SQL Snacks! 
+ 
+ 
+ Virtualization 
+ 
+ Hyper-V 
+ 
+ 
+ 
+ 
+ 
+ Archive 
+ 
+ 
+ 
+ 
+ 
+ February 2013 M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 
+ 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 
+ 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 
+ 
+ 25 
+ 26 
+ 27 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ « Jan   Mar » 
+ 
+ 
+ 
+ 
+ Ayman El-Ghazali 
+   Islam El-Ghazali 
+ 
+ 
+ 
+ Blog at WordPress.com. 
+ Entries (RSS)  and  Comments (RSS) 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

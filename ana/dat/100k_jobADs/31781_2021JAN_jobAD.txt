@@ -1,0 +1,132 @@
+  
+ Mac Fervor 
+ The rants of a son, husband, father, product manager and Apple Fanboy 
+ Menu 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ Category Archives: career 
+ The oldest guy in the room… 
+ I spent this past week interviewing in person at 3 companies in San Francisco. All of these companies were similar in the following ways: 
+ 
+ Startups ( approximately 5 years old )
+ 
+ filled with young brilliant people (20s and 30s) 
+ bullpen type environments 
+ bursting at the seams 
+ 
+ 
+ They were trying to solve a problem that I had encountered in my career and therefore were interesting to me 
+ None were profitable but well funded 
+ 
+ In all cases during the many interviews I went through ( 3 at the first, 4 at the second, and 1 at the 3rd) I was always the oldest person in the room. In the last interview I was basically 2x the age of the CTO and really if I had been more careless in my youth I could have been his father. 
+ I really didn't start to worry that my age was going to be an issue until I went to the second set of interviews. In one of the sessions the interviewer looked at me and said: 
+ " Don't you think this will be to low a position for you? Won't you get bored?'" 
+ " You would have to be here everyday - do you really want to do that commute? (meaning the 4 hour daily back and forth commute)" 
+ Somehow there felt like there was a veiled implication that I maybe: 
+ 
+ Overqualified 
+ Too old for the position 
+ And not energetic enough to survive the commute 
+ 
+ I now have the impending feeling of doom about the outcome of these interviews and also what I have to look for in the future. Is 48 too old to be starting up in a new company? Do I need to look for more senior positions? Or is this the time in ones life when the only thing that you can do is to startup a new company if I want to do something interesting and stay in tech? 
+ Lots of questions and my head hurts. I have no control over what others do so I am going to have to let it go and come up with a new game plan. I have always had the confidence that I can handle whatever is thrown at me and that my greatest strength is that I love a good problem to solve and I think is one of greatest strengths of a Product Manager. 
+ Posted on  September 4, 2015  by  macfervor .  Posted in  career ,  product management  |   Leave a comment 
+ Bam! All of a Sudden I am getting interviews… 
+ The summer went by and all I got were rejection emails… 
+ There is nothing more depressing than seeing email after email of generic rejection letters piling up in your inbox. 
+ For those of your unfamiliar with what these look like (because you are in a lifelong job or because you never get rejected) here are a select few for your viewing pleasure: 
+ "Thank you for your interest in Koding . After a careful review of your background, we have elected not to pursue your candidacy at this time. 
+ Although we did not see an exact match with your background for this position, we encourage you to visit our website often to explore other opportunities. We will also keep your resume on file so that if new opportunities open up in the future for which you are a match, we may reach out to you and initiate a dialogue. 
+ In the meantime, thank you again for your interest – we wish you the best of luck with your search." 
+ and another: 
+ "Thanks for submitting your resume/CV to the Salesforce Marketing Cloud. 
+ Not only are we passionate about helping our customers achieve phenomenal results, we're also passionate about ensuring candidates are thoroughly evaluated and matched with the positions that will provide the greatest mutual benefit for the company, customers, and you. 
+ We sincerely appreciate your interest in the Product Manager, Contacts opportunity and after careful consideration, we have decided to pursue other candidates." 
+ Sigh. Generic rejection hell… 
+ Then all of a sudden about 3 weeks ago… I got a bite, then another bite, then another… I have had phone calls with 4 different companies, 3 of which seem really interested in me and two of which would be jobs that I would really be excited working at. So what changed? 
+ I have isolated 3 possibilities: 
+ 
+ Pure dumb luck 
+ I changed my linkedin.com picture to the one on the left 
+ I started declining to identify my race, sex, veteran status and any disabilities. 
+ 
+ So lets analyze each on these. 
+ Pure dumb luck: I am sure that someone can come back to me with some kind of statistical breakdown for X amount of interviews submitted you will get X amount of responses and I could accept that as a logical answer, but what really gets to me is the clumping of these responses. Maybe I need to factor in the end of summer and the approaching school year as a factor, but I am not sure how to calculate that. 
+ Linkedin.com  picture change: On a whim I decide to get a cartoon of me drawn on fiverr ( https://www.fiverr.com/amy_arts ) because 1) I always wanted one and 2) I didn't have a professional photo and I couldn't get my talented middle child to take one 3) I saw an advertisement on Facebook and it caught my eye. Could it be that having the cartoon maybe me appear more interesting to recruiters and possible employers? Are they looking for people who stand out? I do see that recruiters and others are looking at my linkedin.com page, but in one phone interview it was clear that the person interviewing me had not checked linkedin. I also should mention that I added a header image to my linkedin.com so maybe that was an additional factor. 
+ Declining to identify: Honestly this always bothered me in the application process and about 3 weeks ago I said "screw it", I wasn't going to identify anymore (it is optional). They way I saw it, I was just being automatically shuffled into the white guy pile ( if such a thing exists ) and didn't want to be prejudged in that manner. Who knows how applications are sorted automatically before they get in front of recruiters or hiring managers? 
+ I am sure there are other factors that are involved here that I am just missing (like the type of companies that I was applying for) but for now I am happy that I am moving out the rejection zone and into the face to face interview zone. I can only hope that it all will turn out all right. 
+ Posted on  August 27, 2015  by  macfervor .  Posted in  career ,  product management  |   Leave a comment 
+ Todays Fun! Applying for jobs of Glassdoor 
+ This is what it looks like when I looking at potential job positions on glassdoor.com. 
+ 
+ Glassdoor uses an iFrame (yuck) to pull in jobs from various sites: 
+ 
+ For whatever reasons the iFrame today is set to 300×150 pixels… 
+ I used the chrome developers tools to set the iframe to 1024×768 so that I could apply for the jobs i was interested in.. 
+ 
+ This kind of sloppiness drives me nuts and it seems to highlight my experience with applying for jobs online. I am surprised by the lack of quality control. Sending this to glassdoor.com so they are aware of what is happening. 
+ Running: Chrome Version 44.0.2403.155 (64-bit) - OS X 10.10.5 
+ Posted on  August 14, 2015  by  macfervor .  Posted in  career ,  product management  |   Leave a comment 
+ Exercise in futility: I have a cold and I am applying to jobs online. 
+ Nothing seems more futile than trying to be productive while being sick (sneezy with a runny nose) and also there is nothing more futile then applying to jobs online. Ok so they both just seem futile, at the moment, and are magnified by working in conjunction to double the futile feeling I have in my chest… 
+ 
+ Bananas mixed with strawberries and an avocado (salt and peppered) 
+ This morning as I made breakfast and a  paleo berry crisp  for later, I was listening to part 2 of the  History of Howard Stern  on Sirius Radio. Howard was talking about being fired from WNBC in New York and the feelings that arose in its aftermath. As he discussed his pain and his worry about his future career, I could not help but empathize. I have been out of work (but gratefully doing  contract work ) since the end of May (2015). I was let go (by a man that I have approved to be the replacement CEO for my original partner back in 2008) from an iteration of a company ( GTxcel ) that I had founded in 2004, Godengo. 
+ Eleven years is a long time to be working at the same place nowadays (especially when you are a startup founder). In my parents time you pretty much worked at the same place your whole life but in todays market most of my friends resumes have stints that last no longer 2 - 3 years. My resume features just 2 just jobs spanning 16 years. It feels empty and I wonder if recruiters and prospective employers see it that way too. 
+ The reality is that in 16 years, I went from being a guy who knew some HTML to COO of my own company that now, in its current iteration, generates more than $10 million in revenue each year and has 90+ employees. During that time I created a Software as a Service Content Management System targeted to magazine publisher that has been used by 400+ customers worldwide. I hired, managed and worked with some incredibly talented people and could not have done any of it without them. 
+ When I was let go, I was not surprised. The writing was, as they say, on the wall and I knew my time was short. But it end it doesn't change the feeling of a loss of purpose and mostly a loss of connection from the community I was a part of. 
+ So now a new chapter begins and I am blessed with contract work (from a customer who contacted me 1 week after hearing I was let go - she said she wanted to give me time to mourn) and once again I get to hire an old friend and colleague (who is super talented) to work with me on this project. 
+ The future is still uncertain of course but like this stupid summer cold I know it will eventually change course… 
+ Posted on  August 9, 2015  by  macfervor .  Posted in  career ,  health ,  product management  |   Leave a comment 
+ To rant or not to rant that is the question… 
+ 
+ rant: late 16th century (in the sense ‘behave in a boisterous way’): from Dutch  ranten  ‘talk nonsense, rave.’ 
+ 
+ I have not ever considered myself a "ranter" but as I find myself entering a new phase in life and career, some bit of passion has started to boil up that has been held in check by having a steady job, a healthy family, and kids locally in elementary and high school. 
+ This "passion" needs some focus so I am going to be using this  macfervor  blog as an outlet (lucky you!) for the rants I feel bubbling inside. As a rule I am going to try not use this as a place to whine but as a place to vent and come up with some internal solutions. I will try to make this about me, but I guessing that there will be some shrapnel in the process and well - shit happens. 
+ Topics worth ranting about.. 
+ Fair warning on the upcoming rants that I am sure you will see fill these posts: 
+ 
+ Kids in college 
+ Aging parents 
+ Job Search 
+ Software Product Management related topics 
+ Apple 
+ Getting older 
+ Family 
+ 
+ Posted on  August 6, 2015  by  macfervor .  Posted in  career ,  family ,  health ,  kids ,  product management ,  rants  |   Leave a comment 
+ Search 
+ Recent Posts 
+ 
+ Interviews but still no love… 
+ The oldest guy in the room… 
+ Bam! All of a Sudden I am getting interviews… 
+ Todays Fun! Applying for jobs of Glassdoor 
+ Exercise in futility: I have a cold and I am applying to jobs online. 
+ 
+ Recent Comments 
+ Archives 
+ 
+ October 2015 
+ September 2015 
+ August 2015 
+ 
+ Categories 
+ 
+ career 
+ family 
+ health 
+ kids 
+ product management 
+ rants 
+ Uncategorized 
+ 
+ Create a free website or blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

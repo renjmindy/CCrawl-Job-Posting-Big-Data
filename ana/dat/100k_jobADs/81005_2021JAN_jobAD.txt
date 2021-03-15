@@ -1,0 +1,107 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Decentro (S20) 
+ API platform for banking integrations (Plaid for India and APAC) 
+ Senior Front-End Ninja 
+ $20k - $30k • 0.00% - 0.30% 
+ Location 
+ Bengaluru / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Decentro 
+ Almost all the fin-tech companies face a number of hidden challenges - 
+ 
+ Making the choice of the first bank for integration and the APIs within. 
+ Lack of a single POC in the banks / financial / KYC institutions to avoid running around between departments to get APIs and solutions. 
+ Testing and reaching product-market fit quickly & cheaply 
+ The choice of banking/financial license (if any) to go to market 
+ 
+ Imagine the possibilities in Fin-tech if we remove >90% of the friction in the flow of money and financial data. Imagine the amazing innovations that can happen! 
+ We want to be the go-to the platform where all of you can come, plug in the data, play around and launch with the desired APIs and modular SDKs to go live within days (instead of months). No need to run around and waste 5-6 months to integrate with banking/legacy BFSI / government partners. Not only that, but we also take care of the upcoming fixes, iterations, and updates without breaking any flow. 
+ About the role 
+ Skills:  CSS, HTML, JavaScript, jQuery, React 
+ What is expected of you  - 
+ 
+ Design and implementation of the overall frontend architecture 
+ “Pixel-perfect” implementation of our approved user interface 
+ Ensuring the entire stack is designed and built for speed and scalability 
+ Interface and integrate with our RESTful APIs 
+ Design and implementation of continuous integration and deployment 
+ 
+ What we are looking for  - 
+ 
+ At least 2+ years of experience writing HTML, CSS, and JavaScript. Being up to date on the latest practices is a must, e.g., HTML5, CSS3. 
+ Familiarity with a relevant and globally supported framework—e.g., React, VueJs. 
+ Ideally, familiarity with CSS preprocessors, bundlers, and associated languages/syntaxes/libraries - e.g., Sass, Less, and web-pack. 
+ Thorough understanding of user experience and product strategy 
+ Experience implementing testing platforms and unit tests 
+ Proficiency with Git / Version control. 
+ Appreciation for clean and well-documented code 
+ 
+ What we offer  - 
+ 
+ The ability for you to make an impact and lay a foundation for the upcoming financial innovations. 
+ A multicultural and diverse team of colleagues from different Asian countries that speak on average 3 global languages. 
+ Progressive and flexible work hours that match your personality and lifestyle. 
+ 
+ Technology 
+ We are doing the initial hard work of all those legacy integrations to customize and make the desired resources available in an extremely simple format with the highest possible automation. 
+ Think of us like a custom AWS type underlying infrastructure enabling your innovations and product launches at a rapid pace. 
+ What we are looking for - 
+ 
+ At least three years’ experience with writing HTML, CSS, Python / PHP, and JavaScript. Being up on the latest practices is a must, e.g., HTML5, CSS3, Python 3. 
+ 3+ years of database design and management, including being up on the latest practices and associated versions 
+ 2+ years of server management and deployment for the relevant environment 
+ Familiarity with a relevant and globally supported framework—both front-end and back-end, if necessary—e.g., React, Vue, Laravel, and Flask. 
+ Ideally, familiarity with CSS preprocessors, bundlers, and associated languages/syntaxes/libraries 
+ Thorough understanding of user experience and product strategy 
+ Experience implementing testing platforms and unit tests 
+ Proficiency with Git / Version control. 
+ Appreciation for clean and well-documented code 
+ 
+ Other jobs at Decentro 
+ Compliance & Security Engineer 
+ fulltime 
+ Bangalore, India 
+ Full Stack 
+ 3+ years 
+ Developer Evangelist 
+ fulltime 
+ Bangalore, India 
+ Full Stack 
+ 3+ years 
+ Director of Engineering 
+ fulltime 
+ Bangalore, India 
+ Engineering Manager 
+ 6+ years 
+ Senior Back-End Ninja 
+ fulltime 
+ Bengaluru / Remote 
+ Backend 
+ $25k - $35k 
+ 0.00% - 0.30% 
+ 3+ years 
+ Senior Front-End Ninja 
+ fulltime 
+ Bengaluru / Remote 
+ Frontend 
+ $20k - $30k 
+ 0.00% - 0.30% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,180 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Haskell Developer 
+ [ 
+ Scrive 
+ ](/companies/scrive) 
+ 
+ Remote 
+ 25 November, 2020 
+ Apply More jobs from Scrive About Scrive 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Elm 
+ Haskell 
+ JavaScript 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 30 days vacation 
+ 
+ “Come help us build the digitisation platform powering successful businesses across Europe.” 
+ Role overview 
+ “Come help us build the digitisation platform powering successful businesses across Europe.” 
+ Jonathan Jouty, eID Team Lead 
+ JOB DESCRIPTION 
+ At Scrive you will work in a fast and innovative environment and you will join an entrepreneurial and great-positioned company, growing at an exciting pace. Our aim is, that a few years from now, you will be able to say; “We did that, I was a part of the Scrive Story.” 
+ For us to keep on delivering the best product on the market and always be a step ahead on new features we will now strengthen our Platform Engineering team with a Haskell Developer. We believe that the person that we are looking for wants to conquer the world and defeat the old, slow giants of enterprise software. 
+ We have several backend services written in Haskell using Servant and Happstack, interfacing to PostgreSQL using the hpqtypes library, and using the consumers library for managing jobs and queues. We have a dedicated frontend team for larger projects, but the Platform Engineering team also maintains a legacy React application, along with a minimal frontend and demo application written in Elm for some newer parts. Our code is pragmatic and uses language features that solve business needs, we don’t have rules on what can and cannot be used, as long as it satisfies a practical need. 
+ You will join one of our backend teams, either focusing on our eID Hub, or the rest of our Platform. Rotating between teams is encouraged. Our teams are currently small and you will directly contribute to the continuous and iterative improvement of the code quality, tests, system monitoring and all other areas of the system. 
+ The position is remote, available to anyone living in the EU, but if you are located in Stockholm you can also come to work at our wonderful HQ office in central Stockholm (subject to Covid-19 restrictions, of course). In this role you will report to your team lead and the Head of Platform. 
+ JOB DUTIES 
+ As Haskell Developer within Platform Engineering you will be responsible for maintaining and developing new features and integrations. You will contribute to the quality of the product by participating in code reviews, testing new features, reproducing bug reports and fixing bugs. 
+ What you will do: 
+ 
+ Develop code for the one of the Platform Engineering teams using pragmatic Haskell, Elm, PostgreSQL, and when required React and JavaScript or any other technologies. 
+ Participate constructively in the collaborative code review process 
+ Deploy new releases 
+ Participate in identifying system problems and incident management 
+ Contribute to the improvement of internal processes (regarding everything from development, product backlog, deployment,  etc.  ) 
+ 
+ WHO ARE YOU? 
+ To succeed in the role as a Haskell Developer, we expect you to meet the following minimum qualifications: 
+ 
+ Minimum two years experience in Haskell either from personal or commercial use 
+ Has an understanding of the current best practices for writing production quality code 
+ Knows how to optimise Haskell code for performance 
+ Fluent in English, both written and spoken 
+ Contribute to the success of the Platform Engineering team and product, through good engineering practices, constructive teamwork, and a supportive team environment. 
+ 
+ Big bonus points if you have previous experience of: 
+ 
+ Being a computer language polyglot - the more languages and frameworks you are comfortable with, the better 
+ High growth start up or scale up environment 
+ Working remotely 
+ 
+ To succeed in the role as Haskell Developer in the Platform Engineering team we will need you to be  self-reliant . You are able to independently choose work methods and make necessary decisions to drive work forward, also when there are no given routines or guidance. You will join a small team that works closely together so it will be crucial for you to be highly  co-operative . Where you pay attention to others opinions, competence and performance and make an effort to adjust your own behaviour in order to create good working relationships with others. This role is all about finding and delivering the best solution, therefore you need to be  solution oriented  , you have the ability to break down problems, do an analysis and take action to prevent problems and find the best solution. Scrive is in a growing phase where we are moving fast forward, this means that your prioritized list could change quickly. We therefore believe that you are a  flexible  person that quickly adjusts to new circumstances. 
+ 
+ [ 
+ Scrive 
+ ](/companies/scrive) 
+ 
+ 50-249 
+ 
+ Founded in 2010, Scrive is the Nordic market leader for e-signing, providing agreement lifecycle workflows and digital identity solutions for all channels from online to in-store. We have 2000+ customers in over 40 countries across several industries, with a strong presence in telecom, finance and automotive. As of June 2020, via the entering of new owners Vitruvian Partners and substantial capital injection, we are taking even quicker and greater steps towards becoming a European market leader. 
+ Haskell Elm Flexible Working JavaScript Technology Private PostgreSQL 30 days vacation 
+ View 1 job 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from Scrive About Scrive 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Elm 
+ Haskell 
+ JavaScript 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 30 days vacation 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Experienced Haskell Developer CompetitiveStack BuildersUnited States of America 
+ (Remote - Full Time) 
+ Remote 
+ haskell 
+ More Info Apply 
+ HaskellerCompetitiveTontineTrustIreland 
+ Help build something seriously important for the world with chilled people 
+ Remote 
+ haskell 
+ More Info Apply 
+ Functional Developer for Smart Contracts (No Smart Contract Experience required)CompetitiveEMURGOUnited States of America 
+ Join a team using functional programming to build the future of Blockchain in Cardano. 
+ Remote 
+ haskell scala 
+ More Info Apply 
+ Haskell Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

@@ -1,0 +1,119 @@
+  
+ Presented by 
+ __ Secondary Menu 
+ __ The Human Face of Digital Transformation   LinkedIn Owns the Market on Jobs. Are Recruiters Still Needed?  __ 
+ How will Automation Affect IT Security Jobs? 
+ by  Working Capital Review  on  March 26, 2020  in  Technology 
+ Are IT security jobs in danger as automation evolves? It’s a fair question, given that automation is shaking up a multitude of industries, from IT to manufacturing to banking and more. In fact, there’s  an overwhelming 51% of experts  who believe that automation will soon reshape hiring trends in the UK and U.S. 
+ As a general rule, the role of the IT security specialist is in constant flux as new threats and technology become available. But these changes are also adding new layers of complexity to creating and maintaining a secure IT infrastructure — one that is becoming increasingly difficult for human minds to properly execute. 
+ Automation is poised to step in to give the field of IT security a much-needed boost, particularly in terms of data processing. Here’s what machine learning and automation may look and function like in the near future of IT: 
+ Job Growth Looks Healthy — Too Healthy 
+ IT Security jobs are in demand by companies more so than workers. 
+ According to the  U.S. Bureau of Labor Statistics , job growth for IT security professionals is an estimated 32% between 2018 and 2028, much faster than average job growth for all industries. Salaries are also substantial, averaging $98,350 per year for individuals with less than five years of experience. 
+ Still, it could be safe to say that robots will start filling some of these roles. Unemployment remains at an all-time low, and cybersecurity is heading into  a recruitment crisis , according to multiple resources. There are currently  three million individuals  filling roles in the field, but another four million are needed to take on current and future security roles. 
+ The shift to automation may not be one because it’s a better solution, but rather as an answer to fill critical roles when human talent is scarce. 
+ How IT Security Can Benefit from Automation 
+ Automation takes the guesswork out of IT security. 
+ By definition, IT security automation is designed to take the decision-making process out of the equation, thereby relieving accountability from the user. Increasingly, companies looking to boost their IT security desire to make higher-level security decisions that don’t rely on the judgment or processing of the human mind, but rather make objective assessments and take immediate action to resolve threats. 
+ Most importantly, automation in security can reduce operational error and risk, both of which carry a high potential for human error. 
+ In addition, automation tools can bring similar benefits to IT security as other industries, including reduced overhead and payroll costs, higher efficiency, and better redundancy. 
+ The human capacity for processing and analyzing security issues is limited. While one asset may have a multitude of vulnerabilities, the operator may only be aware of a few. Introducing machine learning can help achieve a broader level of protection and bring dramatic changes to how threats are assessed and resolved. 
+ What Automation Means for the IT Security Job Market 
+ Though automation may replace some roles in IT security, it will change the nature of others. Overall, humans and machines will ultimately work together to make the most from each of their strengths and fill in each others’ weaknesses for a more robust security program. 
+ Share this: 
+ 
+ Facebook 
+ LinkedIn 
+ Twitter 
+ 
+ 
+ Share This Post:   __ [ ](https://twitter.com/intent/tweet?text=How will Automation Affect IT Security Jobs?&url=https%3A%2F%2Fworkingcapitalreview.com%2F2020%2F03%2Fhow-will-automation-affect-it-security-jobs%2F "Twitter") __ [ ](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fworkingcapitalreview.com%2F2020%2F03%2Fhow-will-automation-affect-it-security-jobs%2F&media=https://workingcapitalreview.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-18-at-9.53.37-AM.png&description=Are IT security jobs in danger as automation evolves? An overwhelming 51% of experts who believe that automation will soon reshape hiring trends in the UK and U.S. "Pinterest")[__](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fworkingcapitalreview.com%2F2020%2F03%2Fhow-will-automation-affect-it-security-jobs%2F&title=How will Automation Affect IT Security Jobs?&summary=Are IT security jobs in danger as automation evolves? An overwhelming 51% of experts who believe that automation will soon reshape hiring trends in the UK and U.S.&source=Working Capital Review "LinkedIn") 
+ Tags: 
+ Subscribe to Our Daily Briefing 
+ Working Capital Conversations 
+ Subscribe to our podcast on  iTunes ,  Google Play ,  Stitcher ,  TuneIn  or via  RSS . 
+ Subscribe to feed 
+ __ 
+ Follow Us 
+ 
+ Categories 
+ 
+ Competitiveness 
+ Conversations 
+ Economy 
+ Employees 
+ Innovation 
+ Investing 
+ Law 
+ Leadership 
+ Management 
+ Marketing 
+ Media Training 
+ Operations 
+ Presentations 
+ Public Policy 
+ Risk 
+ Social Responsibility 
+ Strategy 
+ Technology 
+ Uncategorized 
+ 
+ Related Posts 
+ 
+ [ 
+ 
+ Ensuring the Security of Your Remote Workforce 
+ June 30, 2020](https://workingcapitalreview.com/2020/06/ensuring-the-security-of-your-remote-workforce/) 
+ 
+ [ 
+ 
+ The Rise of Nation-State Hacker Threat in 2020 
+ May 25, 2020](https://workingcapitalreview.com/2020/05/the-rise-of-nation-state-hacker-threat-in-2020/) 
+ 
+ [ 
+ 
+ The Potential Drawbacks to Digital Identification 
+ May 13, 2020](https://workingcapitalreview.com/2020/05/the-potential-drawbacks-to-digital-identification/) 
+ 
+ [ 
+ 
+ Zoombombers - The Latest Hacker Threat 
+ May 12, 2020](https://workingcapitalreview.com/2020/05/zoombombers-the-latest-hacker-threat/) 
+ 
+ [ 
+ 
+ The Voice Assistant Is Everywhere 
+ May 5, 2020](https://workingcapitalreview.com/2020/05/the-voice-assistant-is-everywhere/) 
+ 
+ [ 
+ 
+ Downsizing the Workforce? It's a Mistake to Skimp on Cyber Security 
+ April 22, 2020](https://workingcapitalreview.com/2020/04/downsizing-the-workforce-its-a-mistake-to-skimp-on-cyber-security/) 
+ 
+ [ 
+ 
+ Why You Should Ramp Up Your Digital Transformation 
+ April 15, 2020](https://workingcapitalreview.com/2020/04/why-you-should-ramp-up-your-digital-transformation/) 
+ 
+ [ 
+ 
+ Trends Affecting the Data Center Industry 
+ April 9, 2020](https://workingcapitalreview.com/2020/04/trends-affecting-the-data-center-industry/) 
+ 
+ [ 
+ 
+ Your Business Continuity Planning Is No Longer a Drill 
+ April 6, 2020](https://workingcapitalreview.com/2020/04/cloud-cost-management-strategies-2/) 
+ 
+ [ 
+ 
+ Top 10 Questions CEOs Should Ask CIOs 
+ April 2, 2020](https://workingcapitalreview.com/2020/04/top-10-questions-ceos-should-ask-cios/) 
+ 
+ (C) Copyright 2021  Working Capital Review . Proudly designed by  Theme Junkie . 
+ Style Switcher 
+ Predefined Colors 
+ 
+ Background Image 
+ 
+ Reset 

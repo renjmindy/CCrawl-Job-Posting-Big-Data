@@ -1,0 +1,206 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Sr Engineer HPC, Scientific Computing 
+ Dana-Farber Cancer Institute 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Sr Engineer HPC, Scientific Computing 
+ Dana-Farber Cancer Institute 
+ [](mailto:?subject=Sr%20Engineer%20HPC%2C%20Scientific%20Computing&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14217134/sr-engineer-hpc-scientific-computing/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 16, 2020 
+ Location: 
+ Brookline, Massachusetts 
+ __ Show Map 
+ Salary: 
+ Open 
+ The HPC Sr. Engineer will serve the Dana-Farber Cancer Institute (DFCI) and its patients within the Computational Solutions team under the Chief Health Information Office. The successful candidate supports production grade development and operation of computational workloads such as NGS pipelines within a high-performance computing (HPC) environment. 
+ Cancer is a disease of the genome; effectively fighting cancer will depend on the successful application of genomics to the understanding, diagnosis, and treatment of cancer. A significant component of our HPC environment is devoted to our strategic Cancer Genomics program, encompassing centers such as CCGD and programs such as PROFILE in collaboration with Brigham and Womenâ€™s Hospital, to facilitate genome discoveries in human cancer through basic and translational research and generation of reports of medically actionable genetic alterations in a CLIA-certified laboratory. These cancer genomic profiles are being used to guide patient treatment and/or stratification for clinical trials of novel anticancer agents. 
+ The role requires a strong technical background with hands-on experience in bringing a research computational pipeline from prototype to production with regards to error handling, stability, reliability, usability, scalability and performance. The process may include refactoring of existing code and redesign of how data is processed in a scalable HPC environment. The ideal candidate understands how hardware and software go hand in hand and only the ideal combination of compute resources and software components deliver the optimal result; can take a prototype computational workload off a scientistâ€™s computer and run it productively on HPC resources. 
+ Located in Boston and the surrounding communities, Dana-Farber Cancer Institute brings together world renowned clinicians, innovative researchers and dedicated professionals, allies in the common mission of conquering cancer, HIV/AIDS and related diseases. Combining extremely talented people with the best technologies in a genuinely positive environment, we provide compassionate and comprehensive care to patients of all ages; we conduct research that advances treatment; we educate tomorrow's physician/researchers; we reach out to underserved members of our community; and we work with amazing partners, including other Harvard Medical School-affiliated hospitals. 
+ 
+ Serves as subject matter expert and scientific computing solutions designer, leveraging deep understanding of both the scientific domain as well as the computing technology. 
+ Overall responsible for the productionization and the reliable operation of HPC workloads (NGS pipelines and others). 
+ Acts as primary contact for the research community with respect to high performance computing applications and resources. 
+ Directly performs and coordinates monitoring and troubleshooting of production HPC workloads and implementation of fixes when necessary. 
+ Researches, finds and implements optimal runtime conditions for HPC workloads. 
+ Act as a cluster scheduler power user and works with system administration to align configuration of compute resources with computational workloads. 
+ Collects metrics and provides input on how to optimally utilize available compute resources. 
+ Is fully knowledgeable of informatics services and resources offered by Research Computing or Partners HealthCare and proposes solutions to optimally address concrete computational needs through a combination of different services. 
+ Maintains the flow of information for end-to-end service delivery and provides updates where needed. 
+ Performs other related duties as assigned / needed. 
+ 
+ SUPERVISORY RESPONSIBILITIES: 
+ 
+ 
+ Level of supervisory responsibility will depend on the seniority of the successful candidate. 
+ 
+ 
+ Number of direct reports up to 6. 
+ 
+ 
+ Bachelorâ€™s degree in Computer Science, Software Engineering or a related field.Â Masterâ€™s degree may substitute for experience. 
+ 
+ 
+ 5+ years of experience in a similar role; experience may substitute for degree. 
+ 
+ 
+ KNOWLEDGE, SKILLS, AND ABILITIES REQUIRED: 
+ 
+ Good working knowledge of Java or C/C++ programming or equivalent. 
+ Can build software from sources including knowledge of build systems (Make, CMake, Maven, Gradle etc.). 
+ Solid knowledge ofÂ computer architectures and multi-threaded/parallel processing applications. 
+ Strong knowledge of local and distributed I/O performance tuning. 
+ Hands-on knowledge of network- and distributed filesystems (e.g. NFS, BeeGFS) and knowledge of ZFS. 
+ Extensive experience with HPC or cloud scheduling, such as GridEngine, SLURM or LSF. 
+ Fluency in at least one scripting language (Python preferred), bash and knowledge of parallel shell. 
+ Working knowledge of containerization (e.g., Docker) 
+ Hands-on experience with system administrative task in Linux environments. 
+ Knowledge of collaboration tools such as Jira, Confluence, SharePoint and others. 
+ Exceptional service orientation, excellent problem-solving abilities; keen attention to detail. 
+ Excellent analytical, organizational and time management skills. 
+ Ability to work under pressure with minimal supervision in a complex environment. 
+ Demonstrated ability to work effectively in a highly collaborative technical team. 
+ Strong interpersonal skills - ability to interact productively with users and colleagues of diverse seniority levels and professional backgrounds. 
+ Ability to communicate technical topics to technical and non-technical audiences appropriately. 
+ Ability to serve both hands-on and in a management capacity, as needed. 
+ 
+ Dana-Farber Cancer Institute is an equal opportunity employer and affirms the right of every qualified applicant to receive consideration for employment without regard to race, color, religion, sex, gender identity or expression, national origin, sexual orientation, genetic information, disability, age, ancestry, military service, protected veteran status, or other groups as protected by law. 
+ 
+ 
+ Internal Number: 2021-21255 
+  __  Create a Job Alert for Similar Jobs  
+ About Dana-Farber Cancer Institute 
+ Located in Boston and the surrounding communities, Dana-Farber Cancer Institute brings together world renowned clinicians, innovative researchers and dedicated professionals, allies in the common mission of conquering cancer, HIV/AIDS and related diseases. Combining extremely talented people with the best technologies in a genuinely positive environment, we provide compassionate and comprehensive care to patients of all ages; we conduct research that advances treatment; we educate tomorrow's physician/researchers; we reach out to under-served members of our community; and we work with amazing partners, including other Harvard Medical School-affiliated hospitals. 
+ Connections working at Dana-Farber Cancer Institute 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Sr. Maintenance Technician, Thin Film Coating 
+ __  Newton, New Jersey 
+ 
+ 
+ 
+ 
+ Thorlabs, Inc. 
+ __5 Days Ago 
+ 
+ 
+ Sr. Software Engineer 
+ __  Englewood, Colorado 
+ 
+ 
+ IHS Markit 
+ __Today 
+ 
+ 
+ Australian Permanant Residency Provided! - Sr Software Engineer (C++) High Frequency Trading, Market Making, Low Latency 
+ __  Sydney, Australia 
+ 
+ 
+ Westbury Partners 
+ __2 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

@@ -1,0 +1,69 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Torch (W18) 
+ Sr. Engineer, Full Stack 
+ 
+ Location 
+ Buffalo, NYC or Remote / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Torch 
+ Torch is a leadership development platform that combines software and experienced coaches to help high performers reach their full potential. Our service helps our clients build self-awareness, and integrates ongoing feedback from colleagues so clients can track their progress. We are a mission driven company made up of people who believe strongly in human potential. Torch is a YC company (winter '18 batch). This is an early opportunity at a fast growing startup that's helping professionals lead more meaningful, purpose-driven lives. 
+ About the role 
+ Skills:  React, TypeScript, Ruby on Rails, Elasticsearch, PostgreSQL, Amazon Web Services (AWS) 
+ Objectives 
+ 
+ Collaborate with product teams to design and build creative solutions, enabling the personal growth of our clients 
+ Help to create a scalable, high performance, media-rich web application for consumption across various device form factors 
+ Work across the stack, creating reusable components with modern, maintainable and testable code 
+ Identify opportunities for rapid innovation using PaaS or Open Source components wherever possible 
+ Take part in peer code review processes 
+ Design and communicate coding standards and contribute to architecture plan 
+ Become a contributor to various technology communities and meetups 
+ 
+ Competencies 
+ 
+ A degree in Computer Science, a related STEM field or equivalent professional experience 
+ Server-side programming skills with a modern language, preferably Ruby on Rails - Python, Java, or C# a plus 
+ High competence with ES6 (preferably using React/Redux) and Unit Testing 
+ Expert knowledge of CSS styling and layouts 
+ Familiarity with front-end and back-end performance optimization techniques 
+ Intimate knowledge of RESTful web services 
+ Knowledge of distributed application design patterns and asynchronous programming models 
+ Experience with several database technologies (both RDBMS & NoSQL) 
+ Experience with cloud technologies is a plus! (preferably AWS, Containers and Serverless) 
+ 
+ Benefits 
+ 
+ Fully covered medical, dental, and vision 
+ 401k Retirement Plan 
+ Paid parental leave 
+ Flexible vacation and remote work policies 
+ Generous professional development stipend 
+ Commuter stipend for public transportation 
+ 
+ Apply here 
+ Technology 
+ N/A for this position 
+ Other jobs at Torch 
+ Sr. Engineer, Full Stack 
+ fulltime 
+ Buffalo, NYC or Remote / Remote 
+ Full Stack 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

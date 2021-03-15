@@ -1,0 +1,185 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Python Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ PythonWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ Principal Engineer 
+ Shift 
+ 
+ Remote 
+ 06 November, 2020 
+ Apply 
+ More jobs from Shift 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Golang 
+ Python 
+ Ruby 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Dental insurance 
+ Vision insurance 
+ 401(k) 
+ Medical insurance 
+ Maternity & paternity leave 
+ 
+ Opportunity to join a fantastic team at a hi-tech fast-paced company which is transforming an entire industry! 
+ Role overview 
+ Open to remote candidates but only within the US*** 
+ **  About Shift ** 
+ We believe car buying should be fun, fair, and accessible to everyone. We’ve set out to transform an industry, using technology to bring transparency and convenience to the car buying process. And we aren’t stopping there. We seek to bring that same openness and simplicity to car ownership too, with payments, maintenance, and insurance in one easy app. At Shift, we’re building the tools that empower people to buy, own, and sell the cars that make life go. 
+ **  About The Role ** 
+ Engineers at Shift build things that matter and have a material impact to the company’s bottom line and the customer’s experience. In this role, you will drive exciting, meaningful projects, and help define our technical and product strategy. We move fast, have fun, and help each other out. 
+ We’re looking for an experienced Principal Engineer to help us build the world's best e-commerce and operations platform to drive car sales. As a senior technical leader, you are critical to our business and technical prowess. You will work directly with technical management at the company and raise the bar for Engineering, in code, quality and system design. You lead by example and foster a culture of technical excellence, humility and lifelong learning. 
+ This is an opportunity to join a fantastic team at a hi-tech fast-paced Silicon Valley company which is transforming an entire industry. You will report to the SVP of Engineering. We’d love to talk to you about what great things you’ll do here. 
+ **  What You'll Do: ** 
+ 
+ Be a key contributor to Shift’s tech stack and technical processes, working with engineers throughout the organization, partnering with Data Science and TechOps. 
+ Demonstrate best practices by delivering high quality testable maintainable code. 
+ Provide technical leadership for engineers with supportive but candid feedback in code reviews and architecture documents. 
+ Get core technology projects on the company roadmap. 
+ Drive cross-team decisions to advance the tech stack and improve development velocity, quality, performance, and security. 
+ Participate in build v buy decisions. 
+ Participate in technical design, project planning and lead development of critical projects. 
+ 
+ **  What We Ask For: ** 
+ 
+ An undying passion for computers, web technologies and an optimistic attitude to make things better. 
+ 10+ years building technically complex software for the web. 
+ Experience with Go is a must. Varied experience with functional and object oriented programming in many languages such as Ruby, Python, C/C++, Java, PHP. 
+ Experience developing SPAs and server-side rendered web-apps. You should know when to use which approach and be able to teach others. Experience with React and jQuery is a must. Typescript experience will set you apart. 
+ Strong experience with Postgres. 
+ Experience with deploying to AWS, GCP and using CDNs. 
+ Experience with monitoring and instrumentation tech and vendors such as Segment, New Relic, Datadog, Pingdom and PagerDuty. 
+ MS or PhD in Computer Science. 
+ 
+ **  Nice To Have: ** 
+ 
+ Experience working in e-commerce. 
+ Experience building a platform. 
+ Familiarity with CRMs such as Salesforce Sales Cloud. 
+ Familiarity with frameworks such as Ruby on Rails or Revel. 
+ Experience working at a startup. 
+ 
+ **  On diversity ** 
+ Our company depends on balance and equality — between buyers and sellers, among employees, and in our relationships with customers. 
+ Our mission to evolve car ownership and transform an industry is a challenging one. It can only be achieved by a team of diverse problem-solvers — engineers, designers, business people — from the same broad demographics as our customers. 
+ **  Why join now? ** 
+ We’ve built a small but highly talented team backed by >$275 million in funding from investors like DFJ, Goldman Sachs, BMW, and Nissan. In October 2018 we announced a deep partnership and a $140m round led by the third largest auto retailer in the US, Lithia Motors. With strong product-market fit and a great business in California, the next two years will be focused on scaling the business nationally. 
+ Shift is the Bay Area’s #1 seller of used cars with $150 million in cars sold per year. We’re serving most of California and are gearing up to scale to new markets. With a solid business model and no clear winner in our space yet, this is a hugely exciting time to join the team. 
+ **  Shift is an Equal Employment Opportunity Employer ** 
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law. 
+ Shift 
+ We believe car buying should be fun, fair, and accessible to everyone. We’ve set out to transform an industry, using technology to bring transparency and convenience to the car buying process. And we aren’t stopping there. We seek to bring that same openness and simplicity to car ownership too, with payments, maintenance, and insurance in one easy app. At Shift, we’re building the tools that empower people to buy, own, and sell the cars that make life go. 
+ Dental Insurance Vision Insurance 
+ View 1 job 
+ Engineers who find a new job through Python Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Shift 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Golang 
+ Python 
+ Ruby 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Dental insurance 
+ Vision insurance 
+ 401(k) 
+ Medical insurance 
+ Maternity & paternity leave 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Golang DeveloperBTC20K - 65KSkycoinChina 
+ We are looking for experienced Golang developers! 
+ Remote 
+ go golang python 
+ More Info Apply 
+ Backend Engineer (Remote)€50K - 85K + EquityQontoFrance 
+ Software Engineering position for one of the most exciting banks for SME businesses 
+ RemoteSponsorship 
+ aws golang kubernetes kafka ruby 
+ More Info Apply 
+ Senior Software Engineer$140K - 180K + EquityPoint Digital FinancePalo Alto, CA, US 
+ Fast growing startup! Doubling our engineering team this year! 
+ ruby ruby on rails 
+ More Info Apply 
+ Principal Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Python jobs Django jobs Ansible jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Python articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

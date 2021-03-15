@@ -1,0 +1,88 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Daybreak Health (S20) 
+ Online counseling, designed for teens 
+ Frontend Lead Eng 
+ $80k - $130k • 0.50% - 1.50% 
+ Location 
+ / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Daybreak Health 
+ Daybreak Health provides online counseling built for teens. Our mission is to ensure that every adolescent has access to high quality mental health care. Our counseling is designed for teens dealing with mild to moderate levels of anxiety, depression, stress and burnout, as well as other conditions. Our licensed therapists deliver evidence-based therapy to teens through video and messaging on our mobile app -- all enabled through our managed marketplace. 1 in 3 teens struggle with anxiety or depression and there has never been a better time to solve this problem. 
+ About the role 
+ Skills:  React, React Native 
+ The Mission 
+ Build mental fitness in young people by creating universal access to effective mental health care. 
+ The Company 
+ Daybreak Health is a digital mental health clinic built to help millions of adolescents access effective mental health care. Our clinical program is designed for teens in particular and our digital platform gives teens access to high-quality therapists. 
+ We're actively serving patients in California and operating as a remote first company; we do not have an office and do not currently have any plans to change that. 
+ The Job 
+ You'll be joining a small team of 6 as our Lead Frontend engineer. 
+ Your first few projects will revolve around cleaning up our React Native application and setting up the foundation required to allow us to deliver on our Technical Vision. In the next couple of months we're also planning to roll out a React JS app and you will take point on setting that foundation and ultimately owning the application. After that you'll collaborate directly with the CTO and CEO to define Technical Proposals in response to Product Requirements. You'll then take point on implementing the frontend components you spec'd out in the Technical Proposal on the timeline you estimated. For large projects with a backend heavy work ratio you'll be asked to take on some jr level backend work to accelerate overall feature delivery. 
+ You are expected to have opinions on API design, but are not expected to be a full stack developer. These opinions and the ensuing discussions will help the company drive towards better implementations. 
+ You are expected to be interested in the business itself and have opinions on how Engineering can best support and grow the business. These opinions and the ensuing discussions will help the company drive towards better features and resource allocations. 
+ You will also help Engineering as a whole to deliver on our Technical Vision, which we believe will provide the opportunity for the business to succeed. 
+ We generally believe this job is doable by someone with four to six years of industry experience including two to three years of React Native / React JS experience and two or three years of additional experience with different frameworks/ecosystems. 
+ Growth Opportunities 
+ While we're a small company, we are on a growth path and can help you grow your skills. Depending on your interest and the growth of company we can help you pursue one of the following growth paths: 
+ Progress to Full Stack Engineer Transition into management with company growth 
+ Tech Stack 
+ 
+ React Native for our mobile app 
+ Rails 6.x.x for our API / Business Logic 
+ PostgreSQL for to store all the things 
+ AWS for misc services 
+ ReactJS App (planned) 
+ A bunch of vendors & service providers all glued to our Rails backend via webhooks & APIs 
+ 
+ Compensation 
+ 
+ Salary Range: 80-130k/year 
+ Equity Range: 0.5-1.5% 
+ 
+ We cannot provide visa sponsorship or hire outside the USA at this time. 
+ The Hiring Process 
+ Our hiring process is designed to emulate our day to day processes and give us an understanding of how you'll operate in the role. This process will take place over 2-3 calendar weeks and take roughly 15-20 hours of your time. 
+ 
+ An hour long phone call based on our meeting process. We'll discuss the role, the company, and dig into some key skills at a high level. 
+ A short essay prompt where you'll answer six questions (1-2 hours). These questions will give us a bit more understanding of how you approach technical problems and provide some insight into you might communicate in our remote first company. 
+ An Architectural Challenge where you'll translate product requirements into an actionable Technical Proposal with estimates. 
+ A code challenge where you'll build the system you defined in your Technical Proposal and show off your React Native skills. (~6 hours) 
+ A Zoom Call "Onsite" where you'll meet the founding team and we'll get to know each other a bit and feed you lunch. (3.5 hours) 
+ 
+ If all this sounds exciting, please send us your resume! 
+ Technology 
+ Tech Stack 
+ 
+ ReactJS for our internal tooling/client facing features 
+ React Native for our mobile app 
+ Rails 6.x.x for our API / Business Logic 
+ PostgreSQL for to store all the things 
+ AWS for misc services 
+ A bunch of vendors & service providers all glued to our Rails backend via webhooks & APIs 
+ 
+ Other jobs at Daybreak Health 
+ Frontend Lead Eng 
+ fulltime 
+ / Remote 
+ Frontend 
+ $80k - $130k 
+ 0.50% - 1.50% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

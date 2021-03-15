@@ -1,0 +1,179 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Distributed Systems Research Engineer 
+ [ 
+ Metastate 
+ ](/companies/metastate) 
+ 
+ Remote 
+ 16 November, 2020 
+ Apply More jobs from Metastate About Metastate 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Distributed Systems 
+ Rust 
+ consensus 
+ Rustlang 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 
+ Blockchains do not scale to a global user-base of seven billion people. 
+ Role overview 
+ Role overview 
+ Distributed systems research engineering at  Metastate  focuses on designing, building, extending, and maintaining decentralized, permissionless, and censorship-resistant protocols. We are looking for experienced distributed systems engineers that are interested in applying novel research to create high-quality open-source technology and solve outstanding problems in the blockchain space. 
+ As a member of the core protocol engineering team, you will be working on distributed ledger technology implemented in Rust, with a particular focus on distributed systems: consensus algorithms and peer-to-peer networking layers. You’ll work both on the research and implementation side to ensure that our protocols are both theoretically sound and correctly realized in code. 
+ This role offers the chance to work closely on compelling cross-disciplinary problems in computer science, systems engineering, cryptography, and economics, and enjoy a high degree of independence in working conditions and prioritization. 
+ Responsibilities 
+ 
+ Produce technical specifications of BFT consensus algorithms and peer-to-peer systems in coordination with other team members 
+ Analyze consensus protocols for safety, liveness, incentive compatibility under a rational actor model, asymptotic and concrete efficiency, and implementation difficulty 
+ Implement protocols in performant and cleanly abstracted Rust code 
+ Comprehensively document and test protocols and protocol changes 
+ Benchmark implementations and adjust both high-level architecture and low-level details in order to optimise for performance while retaining semantic correctness 
+ Conduct code reviews in coordination with other team members and help maintain a high standard of quality across the codebase 
+ 
+ Qualifications 
+ 
+ Prior experience with distributed systems such as BFT consensus algorithms 
+ Familiarity with the Rust programming language 
+ Self-motivated & self-organized 
+ Interested in open-source technology and research applied to DLT 
+ 
+ Bonus Qualifications 
+ 
+ Prior experience with large scale distributed systems deployed in practice 
+ Prior experience with network and systems engineering 
+ Prior experience with database design and optimization 
+ Prior experience in blockchain technology 
+ Prior experience implementing cryptography 
+ 
+ Misc. 
+ Competitive compensation in a negotiable mix of salary and equity. 
+ Remote or local (Zürich/Zug, Berlin). When remote, preferred if mostly located within (+/- 7 hours) Central European time zones. Ideally someone who enjoys nature and hiking 🏔️. 
+ 
+ [ 
+ Metastate 
+ ](/companies/metastate) 
+ 
+ 10-49 
+ 
+ Metastate is a research and engineering team focused on implementing cutting-edge research from numerous disciplines (distributed systems, PLT, zero-knowledge cryptography) and deploying them to solve hard problems in the blockchain space, such as scalability, secure smart contract languages, secure randomness or privacy. Metastate is a remote-first team, currently composed of 15 cross-disciplinary researchers and engineers located around the world. Our work culture is characterized by open-allocation, where team members have a high degree of freedom and autonomy in choosing when to work, what to work on, and whom to work with. Metastate was founded in early 2019 by @adrian_brink, @awasunyin and @cwgoes, with extensive experience in the blockchain space and who previously co-founded Cryptium Labs, a security-oriented proof-of-stake validator from the Swiss Alps. 
+ Haskell OCaml Rust Remote Working Flexible Working Blockchain Early Stage Venture Idris 
+ View 7 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from Metastate About Metastate 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Distributed Systems 
+ Rust 
+ consensus 
+ Rustlang 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Rust EngineerCompetitiveMetastateSwitzerland 
+ Blockchains do not scale to a global user-base of seven billion people. 
+ Remote 
+ rust 
+ More Info Apply 
+ Blockchain Engineer (Rust) for a cryptocurrency startup$75K - 110K + EquityChorus OneSwitzerland 
+ Build infrastructure for the Internet of Blockchain 
+ Remote 
+ blockchain rust 
+ More Info Apply 
+ Haskell DeveloperCompetitiveTypeableRussian Federation 
+ Join us to be a contributor in a technology innovation movement and be on the frontier where Business meets FP 
+ Remote 
+ haskell rust 
+ More Info Apply 
+ Distributed Systems Research Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

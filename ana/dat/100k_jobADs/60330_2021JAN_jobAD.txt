@@ -1,0 +1,123 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Culture Biosciences (W18) 
+ We grow cells for biotech companies. 
+ Summer Software Engineer Intern 
+ 
+ Location 
+ South San Francisco / Remote 
+ Job Type 
+ Internship 
+ Experience 
+ About Culture Biosciences 
+ Culture Biosciences grows organisms for biotech companies. We've built the first cloud bioreactor facility. Here’s how it works: 
+ 
+ Our customers are experts in DNA design -- they send us their genetically engineered organisms for testing. 
+ We grow their cells in our bioreactors to examine the efficacy of different protocols and their effect on yield and productivity. 
+ Our customers monitor the state of things live via our website. At the end we send them some samples for storage or more custom analysis. 
+ 
+ Our customers genetically modify organisms to produce new therapeutics, materials, fuels and foods. We help them quickly run experiments and develop manufacturing processes so they can get their products to market faster. We've built proprietary software and automation systems to make operating our bioreactors more efficient than existing systems. We also provide customers with new software tools that help them analyze and contextualize their data. We are currently serving a number of biotech customers and scaling out our infrastructure. 
+ We are a Bay Area company backed by leading venture funds including YCombinator and Verily Life Sciences. We are made up of mechanical, software, biomedical and chemical engineers who worked previously at Google X, Facebook, MIT, CalTech, Bristol Myers Squibb, and Lawrence Berkeley National Labs. Our team is passionate about enabling high-throughput, reproducible science. We value curiosity, clear communication, kindness, and collaboration. We're also committed to building a diverse team. 
+ About the role 
+ About the Company 
+ Culture Biosciences grows organisms for biotech companies. We've built the first cloud bioreactor facility. 
+ Here’s how it works: 
+ Our customers are experts in DNA design -- they send us their genetically engineered organisms for testing. We grow their cells in our bioreactors to examine the efficacy of different protocols and their effect on yield and productivity. 
+ Our customers monitor the state of things live via our website. At the end we send them some samples for storage or more custom analysis. 
+ Our customers genetically modify organisms to produce new therapeutics, materials, fuels and foods. We help them quickly run experiments and develop manufacturing processes so they can get their products to market faster. We've built proprietary software and automation systems to make operating our bioreactors more efficient than existing systems. We also provide customers with new software tools that help them analyze and contextualize their data. We are currently serving a number of biotech customers and scaling out our infrastructure. 
+ We are a Bay Area company backed by leading venture funds including YCombinator and Verily Life Sciences. We are made up of mechanical, software, biomedical and chemical engineers who worked previously at Google X, Facebook, MIT, CalTech, Bristol Myers Squibb, and Lawrence Berkeley National Labs. Our team is passionate about enabling high-throughput, reproducible science. We value curiosity, clear communication, kindness, and collaboration. We're also committed to building a diverse team. 
+ About the Internship 
+ We're looking for two software engineer interns for the summer of 2021. Right now we have the capacity to take on two interns who are between their Junior and Senior years. 
+ What will you get out of this internship experience? 
+ 
+ Work at a YC startup as fully contributing member of a fast moving team 
+ Get the "startup experience" without the risk 
+ Technical mentorship from our several senior software engineers 
+ Build things customers will love, no dead end projects 
+ Have fun 
+ 
+ We'll support you in this by... 
+ 
+ Only giving you work that matters 
+ Providing a safe environment to try things and fail 
+ Making ourselves available for collaboration 
+ Caring about you as a whole person, not a “resource" 
+ 
+ Projects you might work on 
+ 
+ Building out the "Google Docs" for fermentation data 
+ Automated email flow system that delight our customers 
+ The "turbo tax" for fermentation planning data 
+ A slack bot to enable seamless communication between customers and lab staff 
+ An idea that you came up with on your own 
+ 
+ About You: 
+ 
+ You are between your junior and senior years in a university or college 
+ Or you are a masters student between years 
+ You've done some SW development before, perhaps at another internship 
+ You’re proactive and enjoy thinking about the big picture 
+ You're ready to embed yourself into as fast moving team 
+ You’re kind, curious and enjoy learning new things 
+ You’re product focused - you think about the perspectives of end users even when it might not be expected of you 
+ You value communication and connection with a multidisciplinary team 
+ You care that you’re building something that solves a problem and helps end users 
+ 
+ This internship will most likely be remote, but there is a chance we'll be able to return to the office sometime during the summer. 
+ Culture Biosciences provides equal employment opportunities to all employees and applicants. We seek to build a company that promotes inclusion and expands the diversity of our industry as a whole. We encourage people with identities underrepresented in biotech and technology to apply. 
+ Technology 
+ Our tech stack: 
+ 
+ Typescript / React / GraphQL 
+ Python backend services, control systems, state estimation, statistical analyses 
+ C++ embedded systems 
+ AWS, Docker, Github 
+ Fusion360, Altium 
+ 
+ Interesting problems we're tackling: 
+ 
+ Flexible and interactive protocol development 
+ High fidelity, accelerated simulation of biological systems 
+ Robotic execution of wetlab assays 
+ 
+ Other jobs at Culture Biosciences 
+ Software Engineer 
+ fulltime 
+ 269 E. Grand Ave, South San Francisco, CA 94080 
+ Full Stack 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 3+ years 
+ Mechanical Engineer 
+ fulltime 
+ South San Francisco 
+ Robotics 
+ 6+ years 
+ Senior Cell Culture Engineer 
+ fulltime 
+ South San Francisco 
+ 6+ years 
+ Senior Frontend Engineer 
+ fulltime 
+ South San Francisco, CA, USA / Remote 
+ Frontend 
+ 6+ years 
+ Summer Software Engineer Intern 
+ intern 
+ South San Francisco / Remote 
+ Full Stack 
+ Junior and above 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

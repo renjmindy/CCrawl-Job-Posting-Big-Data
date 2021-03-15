@@ -1,0 +1,162 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Mid-Senior Software Engineer - do something that matters 
+ at Mendelian Genetics 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤65000 - ₤80000 per year 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤65000 - ₤80000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ Mission 
+ Our mission is to help doctors diagnose rare disease patients faster. 
+ Faster diagnosis is key to the future of the NHS and healthcare abroad, from improving the lives of chronically sick people to reducing inefficiencies in overburdened hospitals. We are deploying early detection systems for rare diseases, some of the most difficult and protracted diagnoses for doctors to make. 
+ We believe that delayed diagnosis is an information challenge and that technological innovation is central to achieving our mission. Founded by computer scientists, we've held our technology to high standards from the beginning. 
+ If you want to learn more about our mission, and about how rare diseases aren't that rare at all, then check out our publication  Why we do what we do . 
+ Team 
+ We are a small team of clinicians, health economists, data scientists and software engineers based in Shoreditch. We work flexible hours, boast membership to a great co-working space, and, on Thursdays, take turns making a surprisingly high quality lunch. Do you have any culinary delights you want to share? 
+ Role 
+ We've successfully deployed our solution into clinics, scanning and reviewing hundreds of thousands of electronic medical records for symptoms of rare disease. Over the next year we need to scale up our systems and processes in order to process millions more. We're hiring another software engineer as we need more skilled hands and expertise in order to achieve this goal. 
+ While this is a full-stack role, you will mostly work with backend technologies with some light frontend work. We're looking for software engineers who have solid experience and can follow and lead on best practices in   one or more   of the following areas: 
+ 
+ Writing backend APIs with Python, Golang or NodeJS 
+ Working with data, e.g. relational databases (we use Postgres) and data pipelines/analysis (Python/Pandas) 
+ Leveraging public cloud infrastructure (we use AWS) 
+ Writing lightweight and simple frontend apps using React or a similar framework 
+ 
+ Here are some examples of what you'll work on: 
+ 
+ Building tools for our in-house clinical team. 
+ Creating data pipelines to add new data sources. 
+ Integrating with third-party health care systems. 
+ Empowering our data scientists and health economists with knowledge, data and tooling. 
+ Encouraging good software development processes and practices. 
+ 
+ Our stack is always evolving, but here's what it looks like right now: 
+ 
+ Data pipelines written in Python. 
+ Backend APIs written in Python and Go. 
+ Web apps written in JavaScript and React. 
+ Data stored in PostgreSQL, Elasticsearch and high performance networked file systems. 
+ Systems developed, tested and deployed with Docker, Kubernetes and Jenkins. 
+ Cloud infrastructure hosted on AWS, provisioned with Terraform, monitored with ELK and administered with Samba. 
+ 
+ Here's what we expect from a software engineer: 
+ 
+ Great practical knowledge of software engineering. 
+ Fluency in Python and/or Golang and JavaScript. 
+ Experience with Git. 
+ Familiarity with some of our stack. 
+ Experience fully owning a project, from gathering requirements through to deployment. 
+ 
+ Other requirements: 
+ 
+ Have the right to work in the UK. 
+ 
+ Come help us turn data into diagnoses for the 1 in 17 people that suffer from a rare disease. 
+ Published at 6 Jan 2021 - Expires on 6 Feb 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

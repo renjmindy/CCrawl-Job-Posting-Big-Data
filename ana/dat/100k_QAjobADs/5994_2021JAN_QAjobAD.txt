@@ -1,0 +1,6 @@
+ Qualifications 
+ As our ideal candidate, 
+ You have a bachelor's degree in Mathematics, Statistics, Computer Science, Information Science or relevant field of study 
+ You have 7 years hands-on experience responding to cyber-attacks and significant experience in the following areas: Network security monitoring, host-based live response & analysis, event log-based detection & analyse, 
+ You have advanced knowledge of common attack methods and their detection techniques. 
+ You have advanced knowledge of network traffic analysis, related tools 

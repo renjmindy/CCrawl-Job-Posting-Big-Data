@@ -1,0 +1,90 @@
+  
+ What:  job title, keywords or skills 
+ Where:  country, city or area 
+ 
+  HOME  
+ REGISTER 
+ SEARCH 
+ LOGIN 
+ BROWSE 
+ DIRECTORY 
+ INFO 
+ CONTACT 
+ 
+ Job Highlights 
+ 
+ Location:  Uxbridge, England 
+ Rate:  £50000 - £65000 per annum + £5.8K Car Allowance + 10% bonus 
+ Type:  Permanent 
+ 
+ This job has been posted for more than 30 working days and has expired. 
+ Data Scientist 
+ Data Scientist, Uxbridge, £50-65K + £5.8K Car Allowance + 10% bonus + bens. 
+ You must have a solid background in Data Science with demonstrable practical experience in big data analytics and machine learning. 
+ The core mission of the Data Science team is to deliver strategic data-driven innovation to help the business make timely decisions and product innovations, contributing to retention, acquisition and member experience goals. 
+ Our team works with stakeholders across the business including marketing, commerce, community and product teams. 
+ The role involves delivering advanced analytics using a variety of modelling techniques, while ensuring we are utilising all our data to maximise business impact and to help the business achieve substantial growth. 
+ Responsibilities 
+Design and run experiments to collect and process relevant data for training and building predictive models addressing core business challenges 
+Implement advanced analytics solutions to support product managers in understanding how members interact with our products and delivering data-driven features 
+Automate and deploy the end-to-end analytics pipelines to deliver timely and actionable insights to stakeholders 
+Effectively communicate complex analytics results to key stakeholders and ensure the work and recommendations drive the business strategy forward 
+ Key Skills/Experience 
+ Degree in computer science, engineering or related fields at 2:1 or above. 
+ Specialisations in Data Science or Machine Learning are a plus. 
+ Experience with a variety machine learning and data modelling techniques (e.g. 
+ predictive analytics, anomaly detection, natural language processing), ideally with some knowledge about deep learning/AI models and frameworks Strong technical skills in SQL and Python (core libraries: sklearn, numpy, pandas, scipy, matplotlib, sklearn, tensorflow, keras), ideally with some knowledge of agile development methodologies (CI/CD) Experience with big data technologies, such as AWS cloud infrastructure, Spark, stream processing 
+ This Data Scientist position is based in Uxbridge but can be remote working and is paying c£50-65K + £5.8K Car Allowance + 10% bonus + Bens, depending on relevant experience. 
+ 
+ 
+ Start:  ASAP 
+ 
+ 
+ Rate:  £50000 - £65000 per annum + £5.8K Car Allowance + 10% bonus 
+ 
+ 
+ Location:  Uxbridge, England 
+ 
+ 
+ Type:  Permanent 
+ 
+ 
+ Industry:  IT 
+ 
+ 
+ Recruiter:  Definitive 
+ 
+ 
+ Tel:  01895 457 455 
+ 
+ 
+ Email:  to view click here 
+ 
+ 
+ Posted:  2020-11-06 00:50:17 - 
+ 
+ 
+ View all Jobs from Definitive  
+ 
+ 
+ 
+ More Jobs from Definitive 
+ 
+ DevOps Engineer 
+ Site Reliability Engineer - SRE 
+ Senior Java Software Engineer  
+ Tech Lead 
+ Data Engineering Tech Lead 
+ Data Engineering Tech Lead 
+ DevOps Engineer 
+ Java Software Engineer 
+ Junior Data Engineer 
+ Tech Lead 
+ Data Engineering Tech Lead 
+ Data Engineer 
+ Data Engineer Team Lead 
+ Senior Java Developer 
+ Principal Software Engineer 
+ 
+ Terms of Use  |  Login  |  Register  |  RSS Feed 
+ Copyright (C) 2001-2021 Forgroup Internet Limited. All Rights Reserved. 

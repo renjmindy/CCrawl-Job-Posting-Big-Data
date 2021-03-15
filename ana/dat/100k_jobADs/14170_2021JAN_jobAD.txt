@@ -1,0 +1,177 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Engineer - Enterprise Data License (Consultant) 
+ Bloomberg 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Engineer - Enterprise Data License (Consultant) 
+ Bloomberg 
+ [](mailto:?subject=Senior%20Software%20Engineer%20%2D%20Enterprise%20Data%20License%20%28Consultant%29&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14261363/senior-software-engineer-enterprise-data-license-consultant/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ The world's largest financial institutions require vast amounts of data to help their clients manage their portfolios, execute their trades and analyze the markets. Bloomberg Enterprise Data provides these institutions a platform to make hundreds of thousands of requests for data spanning the full range of the financial industry each day. Supporting this translates to billions of data points that flow through our system daily, including Equities, Commodities, Bonds, Pricing, Corporate Actions, Regulatory and Reference Data ( https://www.bloomberg.com/professional/product/reference-data/ ). To meet the demand, the Data License department is responsible for gathering, transforming, and delivering all the data our clients request through a distributed workflow platform, microservices, and web integrations. 
+ Backend and Full-Stack Software Engineers design and implement services and highly distributed workflows that are used across Data License to gather, transform, and deliver data to Enterprise clients for billions of financial data points daily. Workflows are built using Python, RabbitMQ, Celery, PySpark, cloud storage via Ceph developed in Docker containers. Our teams leverage Semantic Web concepts and open standards such as RDF/CSVW that allows our clients to understand how our data is connected. We expose Self-Service controls using Flask web server and React-based Web Apps. 
+ This consultant role will be a member of our engineering team to help develop complex workflows in code, build robust microservices, build tools to transform data in a fast-evolving market environment, and scale distributed architectures to handle massive data pipelines. 
+ You 'll need to have: 
+ 
+ 3+ years of experience in software development writing object-oriented code in a high level programming language, designing large-scale applications, and writing high-quality tests 
+ Experience with languages such as Python, C++, or Java 
+ Developing software in a Linux environment 
+ Demonstrated ability to complete projects that required significant problem solving, communication skills, and the ability to collaborate with multiple teams in a fast-paced environment 
+ Ability to learn new skills and technologies and adapt quickly 
+ 
+ We 'd love to see: 
+ 
+ Experience working with low-latency, high-volume, and highly-availability distributed systems including deployment, monitoring, and building robust fault-tolerant systems 
+ Proficiency with development tools such as debuggers and memory profilers 
+ Experience with application monitoring tools or services 
+ Experience in an agile or iterative software development process 
+ Contributions to Open Source projects 
+ BA, BS, MS, PHD in Computer Science, Engineering or related technical field 
+ 
+ At Bloomberg we are extremely proud of our diverse, open, and inclusive culture. We value diversity of thought and perspective in every form. We're looking for engineers with a real passion for writing reusable, efficient solutions to complex problems, who can adapt to an ever-changing market landscape, and who can collaborate and work effectively on small teams to develop software that impacts thousands of financial institutions and decision makers around the world. 
+ If this sounds like you, please apply! 
+Bloomberg is an equal opportunities employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+ 
+ Internal Number: 9103192 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Bloomberg 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Transmission Engineer III or Senior 
+ __  Moore, Oklahoma 
+ 
+ 
+ 
+ 
+ WFEC 
+ __Yesterday 
+ 
+ 
+ Transmission Engineer III or Senior 
+ __  Moore, Oklahoma 
+ 
+ 
+ WFEC 
+ __Yesterday 
+ 
+ 
+ Transmission Engineer III or Senior 
+ __  Moore , Oklahoma 
+ 
+ 
+ WFEC 
+ __5 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

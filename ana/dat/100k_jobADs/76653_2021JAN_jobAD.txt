@@ -1,0 +1,70 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Apollo (S11) 
+ We make Apollo, the leading GraphQL implementation. (We are also the team that built Meteor, the JavaScript framework.) 
+ Sr Product Manager 
+ 
+ Location 
+ Remote / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Apollo 
+ Apollo is a developer tools company focused on GraphQL. Our mission is to simplify app development by combining APIs, databases, and microservices into a single data graph that you can query with GraphQL. We are proud of our culture that encourages caring & inclusivity, supports distributed workers, and recruits people who have a history of delivering the highest caliber results. 
+ We are backed by Andreessen Horowitz, Matrix Partners, Y Combinator, and individual investors 
+ About the role 
+ Overview 
+ What's in it for you? In a word, impact. Apollo’s first-ever hire of a Senior Product Manager is a unique opportunity to be at the vanguard of a massive new shift in how the world’s most innovative companies deliver their platform value. 
+ You will be part of the effort to invent a category and teach the world new ways to build their platforms. This is an opportunity to be part of the team pioneering the future of GraphQL and the coming wave of industry-changing economics surrounding its adoption. 
+ We are a few dozen people today, growing at a strong clip. If you crave a chance to join a fast-paced startup just as it accelerates into a rapid growth stage, and have an outsized impact on the culture and practices of a new product management organization, we should talk to see if this is right for you. 
+ What you'll do 
+ You'll own the shape and prioritization of delivery in one or two teams, working closely with engineering managers and the members of the team to instill a strong sense of the “why” that operationalizes our corporate mission. 
+ You'll represent the voice of your customer by conducting qualitative and quantitative analysis and immersing yourself in your large and growing community of users. 
+ You'll model, track, and report on success metrics that build confidence among our various internal stakeholders that you’re learning valuable lessons, selecting the right priorities, and succeeding at your part of our broader mission. 
+ About you 
+ You have a desire to create something from nothing, both in the product surface area you are responsible for shipping and in the organization around you. This is a dynamic environment that will grow and change a lot in your time here and that excites you. 
+ You have the demonstrable ability to drive the delivery of released software products, from concept to launch-ready, preferably for technical users and/or solving a complex business problem. 
+ You’ve got a knack for prioritization and politely saying no to perfectly good ideas because they aren’t the most important thing to achieve the goals of your team. 
+ You have experience climbing learning curves to become an expert in a category and help everyone around you become aligned and informed about how to match what people need with what your team can ship. 
+ You have enough hands-on software experience to have empathy for what developers face every day. You don’t need to be a skilled coder, but you’ve done at least some software engineering or been close to developers for long enough to build an understanding of the day-to-day challenges in a software team. 
+ You have an ability to influence and inspire a variety of audiences, internal and external and have a willingness to advocate for ideas that aren’t always popular at first. You have experience (or keen willingness to learn) working with distributed teams without losing cohesion and quality. 
+ Other Info 
+ Apollo is a company that takes a long view, not just of our business, but of the lives of our people. We embrace flexible hours, remote-friendly work styles, and investments in self-care and family life. We are in this for the long haul and want to make it possible for you to be, too. We offer competitive compensation and benefits, including medical, 401K, and a stock option program for US based employees. 
+ Apollo is a company driven by conviction about the future of the global graph as a new way to do business. We are buoyed by a huge head start in adoption of our open source packages, where we enjoy a dominant share of the servers and clients implementing GraphQL today. We think big and see truly significant opportunities in front of us. 
+ You can do this work from anywhere within the United States, Canada, & Latin America. 
+ Apollo is proud to be an equal opportunity workplace dedicated to pursuing and hiring a talented and diverse workforce. 
+ California residents applying for positions at Apollo can see our privacy policy here 
+ Technology 
+ We build both client and server side tech in languages like JavaScript and Kotlin. We create both open source and commercial software. Our open source software averages more than 1.5 million downloads per week. On the commercial server side, we work with large customers that require billions of queries per day, and more. 
+ Other jobs at Apollo 
+ Senior Open Source Engineer - Client 
+ fulltime 
+ San francisco, CA / Remote 
+ Frontend 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 6+ years 
+ Apollo Solutions Architect 
+ fulltime 
+ remote / Remote 
+ Full Stack 
+ 6+ years 
+ Sr Product Manager 
+ fulltime 
+ Remote / Remote 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,43 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Heron Data (S20) 
+ We categorise and label bank transaction data 
+ Founding Engineer 
+ $70k - $100k • 0.50% - 1.50% 
+ Location 
+ London / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 1+ years 
+ About Heron Data 
+ Heron Data is a Y Combinator-backed technology start-up based in Farringdon, London. We are a team of three founders on a mission to accelerate innovation in fintech, initially by helping companies make sense of their customers' bank transaction data to generate insights and powerful features. We have seen more customer interest than we can handle on our own. Hence, we're looking to hire a founding engineer to help us scale our solution. Working with us is an opportunity to be the first hire at a fast-growing technology start-up, solving problems as part of an established team backed by prominent investors. 
+ About the role 
+ Skills:  Flask, Python, Machine Learning, Natural Language Processing 
+ As the first hire outside of the three co-founders, this role is as close to being a founder of a company as you can get without starting one yourself! Your role will be to define and deliver features, fully own parts of our stack, and ultimately do whatever is needed to help our customers be happy. If you enjoy taking responsibility, have lots of ideas for improving product & process, and maybe have thought about starting a company yourself, this role could be for you. 
+ You'll be joining a team of experienced operators - Dom was previously Head of Data Science at Revolut, Jamie ran a business unit at Alphasights, and Johannes was founding CEO of remittance company Taptap Send. 
+ This role is based in London - working from home is generally possible for some part of the week, and potentially mandatory for the immediate future. As the first employee, you will receive substantial equity compensation and get all the excitement of a fast-growing company! 
+ Technology 
+ Our back-end is in Python/Flask, and our (internal) web app uses Svelte. We deploy our software on Heroku/AWS, using Kubernetes. We are working on tangible, real-world problems that can profit from machine-learning approaches. We see large (and increasing) amounts of transaction data, and are employing a heuristics and ML-based model to efficiently label this data. If you're interested in bringing modern ML techniques to real-world problems, we'd love to speak to you. 
+ Other jobs at Heron Data 
+ Founding Engineer 
+ fulltime 
+ London / Remote 
+ Full Stack 
+ $70k - $100k 
+ 0.50% - 1.50% 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

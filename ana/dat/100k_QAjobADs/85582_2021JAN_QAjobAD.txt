@@ -1,0 +1,6 @@
+ Minimum Qualifications: 
+A degree in Computer Science or a combination of equivalent experience with a college diploma 
+1-2 years of engineering management experience 
+5+ years of active software development experience in Java 
+1-2 years of experience with ElasticSearch 
+Solid experience with building and maintaining RESTful APIs 

@@ -1,0 +1,518 @@
+Skip to content 
+ 
+ The Intangible Economy 
+ Exploring the I-Cube Economy: Information, Innovation, and Intangibles 
+   
+ Which jobs got hit in the COVID crash: tangible versus intangible 
+ The Great Recession fundamentally changed the labor market mix between tangible and intangible-producing jobs. The COVID crash may shift that realignment again as tangible and intangible-producing jobs react differently to the downturn. Both declined significantly but only tangible-producing employment rebounded in May. 
+ First, a little background. Intangibles are increasingly important as both inputs and outputs of economic activities. Intangibles are both major inputs to the production process of most other industries (such as research and development) and an important part of direct personal consumption (for example, of financial services). To understand the importance of intangibles in the U.S. labor market we need to go beyond the traditional (and outmoded) division between goods and services. 
+ To better capture the structure of the labor market, I have divided it into tangible and intangible as well as goods and services,  as described in my earlier analysis . Tangible activities are primarily physical activities (involving atoms); intangibles are primarily information/analytical activities (involving bits). Production of goods is almost exclusively a tangible activity. Services can be divided into tangible and intangible activities. Tangible services involve physical activities such as cutting hair, ringing up a sale at a cash register, cooking and serving a meal, and transporting someone or something. Designing a poster, negotiating a deal, writing an article, and approving a loan are examples of intangible services. (See below for more on the methodology.) 
+ Of course, many tangible services involve the use of intangibles as inputs. The hair dresser needs to understand how to make the cuts to achieve a certain look. The chef relies on their knowledge of cooking to produce the perfect meal. The gardener brings a knowledge of plants to their task. But while intangibles are an input (as there are for almost any economic activity), the defining factor of these services is the tangible nature of the output. 
+ My earlier analysis of employment data showed an historic turnaround during the Great Recession, with intangible employment slightly greater than tangible employment. This shift occurred because employment in tangible-producing industries fell more than in intangible-producing industries. And in the post-recession recovery both tangible and intangible-producing industries grew at the same rate. As a result, the mix between tangible and intangible employment shifted from 54%-46% in 2000 to roughly 50%-50% by 2009. That fifty-fifty split has remained relatively unchanged for the past decade and a half. 
+ Analysis of  BLS data  from the past four months shows a change in the relationship between tangible and intangible-producing employment. Between February 2020 and May 2020, employment in both tangible and intangible industries declined dramatically. However, the loss of tangible-producing jobs was almost twice as large as intangible-producing jobs. Importantly, the May employment bounce-back is all in tangible-producing industries. Employment in intangible-producing industries did not significantly change in May. 
+ [Note that changes in employment in intangible services was uniform across industries. The decreases in government employment and in employment in the Information sector were offset by an increase in employment in the intangible-producing parts of the Educational and Health Services sector. Employment in the other sectors of intangible services were essentially flat.] 
+ In some respects, this is not unexpected. 
+ Generally speaking, the production process for both tangible goods and tangible services are likely to involve physical contact. Intangible-producing jobs are more easily done remotely and without physical contact. Thus, it is not surprising that tangible jobs declined more than intangible jobs during the COVID-19 lockdown. Likewise, as businesses mitigate (or ignore) the COVID-19 physical contact problem, workers in tangible-producing industries are being called back. This is most evident in the tangible-producing service sector of “Accommodation and Food Services” where employment in April dropped by almost 7 million compared to what it was in February but grew by 1.2 million in May. 
+ In other words, employment in tangible-producing industries (both goods and services) is generally a function of supply-side constraints. Employment dropped because of a decline in production due to lockdowns—both formal government mandates and informal due to customer and worker fears. As the physical reopening continues and production resumes, there is an expectation that employment will increase in these industries. Should the easing of the public health and safety induced lockdown reverse, these jobs will likely take an immediate (and potentially devastating) hit. 
+ In contrast, employment in intangible-producing industries appears to be more of a function of demand-which is a derivative of the slowdown in the tangible-producing part of the economy. Many of these jobs continued by shifting to remote locations and without physical contact, thus were not directly hit by the lockdown. Employment declines in these activities are a result of a drop in revenue (actual or expected) not a production shutdown. 
+ [It should be noted that one part of the decline in intangible-producing industries was directly due to the lockdown. The largest loss in intangible-producing employment was in Art, Entertainment, and Recreation—an industry heavily dependent on physical contact. Employment in May was about half of what it was in February—and May saw only negligible recovery from the low in April.] 
+ It remains to be seen if and when we will see a significant increase in employment in intangible-producing industries. Since these jobs depend on an increase in demand spurred by a reopening of production in tangible-producing industries, they may lag behind any such reopening. The May drop in government employment is a worrisome indicator of this reliance on other sectors. While some government jobs are clearly tangible services (e.g. police, fire, EMT, sanitation), they are considered essential and not affected directly by the lockdown. Nor were the intangible-producing parts of government activities. Thus, government services saw only a modest drop in employment (relative to other intangible services) between February and April. However, as tangible-producing industries pull back, tax revenues for state and local governments are coming under financial pressure, resulting in a significant decline in government employment in May. 
+ Looking at the long run, it is also unclear whether demand for these intangible services will increase as rapidly in the post-pandemic era as in pre-pandemic times. It is unclear whether the experience of the crash will alter the supply relationship between industries. For example, will companies find they can get by with a lesser degree of intangible inputs (of, for example, lawyers or accountants)? Or on the other hand, will a spurt of production of tangible goods and services spark an increase in production of intangibles? 
+ The bottom line is that I suspect the next few months will see a gradual rise in employment in tangible-producing industries as the lockdown is gradually lifted—barring the very real possibility of a rekindling of the coronavirus and a re-imposing of formal and/or informal lockdowns. Increases in employment in intangible-producing industries is much more problematic. 
+ [Note that BLS and Census have stated that there was an error in how some individuals’ employment status was reported in the household survey, which affected the overall unemployment rate in April and May. My analysis uses data from the establishment data and is not affected by this error.] 
+ Methodology 
+ The analysis starts with the  U.S. Bureau of Labor Statistics (BLS) major industry groups . Each industry group or their constituent subcategories is assigned to either tangible producing or intangible producing. In some cases, such a Trade, Transportation & Utilities (tangible) and Financial Activities (intangible), the entire group is assigned. In others, the group is divided, such as Leisure and Hospitality being divided into Arts, Entertainment, & Recreation (intangible) and Accommodation & Food Services (tangible). In some cases, the tangible part of the industry group (such as Professional & Business Services) is calculated from subcategories and the intangible part is the remainder. 
+ The tangible sector is made up of the following industries: Construction & Mining; Manufacturing; Trade, Transportation & Utilities; Accommodation & Food Services; Repair & Maintenance; Personal & Laundry Services; Telecommunications; Tangible business services (specifically Waste Management & Remediation Services, Services to Buildings & Dwellings and the U. S. Postal Service); and Tangible Educational & Health Services (specifically Nursing & Residential Care Facilities and Child Day Care Services). 
+ The intangible sector consists of Membership associations & organizations; Arts, Entertainment, & Recreation; Information (excluding telecommunications); Financial Activities; Professional & Business Services (excluding tangible services); Educational & Health Services (excluding tangible services); and Government (excluding Postal Service). 
+ Construction & Mining and Manufacturing are assigned completely to the tangible-producing industry. Since we are using nonfarm payroll employment data from the BLS Current Employment Survey (CES), agriculture is not included as a tangible-producing industry. This may change in future revisions. 
+ The major industry group of Trade, Transportation & Utilities contains industries that involve physical activities and/or the movement of physical products in one form or another. These include retail trade, wholesale trade, transportation & warehousing and utilities. The entire group is assigned to the tangible-producing category. 
+ Telecommunications is treated as a tangible-producing industry and split off from Information. According to BLS, this category contains industries involved in operating the physical telecommunications infrastructure. 
+ The remainder of the Information industry group is categorized as intangible-producing. 
+ Accommodation & Food Services also involve physical activities. They are split off from the Leisure and Hospitality group and treated as tangible-producing industries. 
+ The industry group of Arts, Entertainment & Recreation is other half of Leisure and Hospitality. For the most part, these involve intangible-producing industries even though the activities may by physical. For this analysis the entire group is treated as intangible-producing. Future revisions may involve a more detailed breakdown of this group. 
+ Financial Activities are all classified as intangible-producing. 
+ Professional & Business Services are divided into tangible and intangible-producing. Waste Management & Remediation Services and Services to Buildings & Dwellings are broken out of the major industry group and assigned to a new category of Tangible Business Services. These industries are physically based, such as janitorial services, and are very different from other business services, such as accounting. 
+ The remainder of the Professional & Business Services group is categorized as intangible-producing. 
+ The new category of Tangible Business Services also contains the U. S. Postal Service. This is considered a physical activity similar to transportation and warehousing. 
+ All other Government employment is classified as intangible-producing. Some parts of government might be similar to the Postal Service in being tangible-producing, such as law enforcement. However, data on that level of employment within the various level of government is difficult to find. The BLS publishes a specific breakout of Postal Service employment which allows us to categorize those jobs separately as tangible-producing. 
+ The major industry group of Educational & Health Services is also divided into tangible and intangible-producing. Specifically Nursing & Residential Care Facilities (part of Health Services) and Child Day Care Services (part Social Services) are classified as tangible-producing as they involved mostly physical activities. They are assigned to a new category of Tangible Education and Health Services 
+ All other parts of Health Services and Social Services and all of Education Services are considered intangible-producing. 
+ The BLS major industry group of Other Private Services is broken down by its constituent parts. Repair & Maintenance and Personal & Laundry Services are classified as tangible-producing. Membership Associations & Organizations are intangible-producing industries. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Author   intangibleeconomy Posted on  June 11, 2020 Categories  Articles 
+ 2 thoughts on "Which jobs got hit in the COVID crash: tangible versus intangible" 
+ 
+ 
+ Pingback:  Don't be fooled by today's employment numbers for June: a look at tangible and intangible jobs - The Intangible Economy 
+ 
+ 
+ Pingback:  Pandemic hits front-line tangible and intangible employment - The Intangible Economy 
+ 
+ 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Post navigation 
+ Previous Previous post: COVID-19 hits IP trade hard - other intangibles, not so much 
+ Next Next post: Don't be fooled by today's employment numbers for June: a look at tangible and intangible jobs 
+ Search for: Search 
+ Recent Posts 
+ 
+ Pandemic hits front-line tangible and intangible employment 
+ New data on adoption advanced information technologies 
+ A new narrative for rural America 
+ The convoluted path of innovation: the COVID-19 vaccine 
+ A bad November for the labor market 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ Pandemic hits front-…  on  Which jobs got hit in the COVI… 
+ 
+ 
+ 
+ 
+ 
+ Trade in Intangibles…  on  Declining IP trade balanc… 
+ 
+ 
+ 
+ Trade in Intangibles…  on  COVID-19 hits IP trade hard… 
+ 
+ 
+ 
+ What ever happened t…  on  You say tomato, I say …… 
+ 
+ 
+ 
+ More on beyond the E…  on  The Endless Frontier Act and c… 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ December 2019 
+ February 2016 
+ November 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ January 2012 
+ December 2011 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ October 2008 
+ September 2008 
+ August 2008 
+ July 2008 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+ February 2005 
+ January 2005 
+ October 2004 
+ September 2004 
+ July 2004 
+ June 2004 
+ May 2004 
+ April 2004 
+ October 2003 
+ June 2003 
+ May 2003 
+ January 2003 
+ June 2002 
+ May 2002 
+ February 2002 
+ November 2001 
+ October 2001 
+ September 2001 
+ May 2001 
+ April 2001 
+ December 2000 
+ September 2000 
+ February 2000 
+ November 1999 
+ March 1999 
+ 
+ Categories 
+ 
+ Articles 
+ Events 
+ Papers & Presentations 
+ Policy Forums 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Search for: Search 
+ Recent Posts 
+ 
+ Pandemic hits front-line tangible and intangible employment 
+ New data on adoption advanced information technologies 
+ A new narrative for rural America 
+ The convoluted path of innovation: the COVID-19 vaccine 
+ A bad November for the labor market 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ Pandemic hits front-…  on  Which jobs got hit in the COVI… 
+ 
+ 
+ 
+ 
+ 
+ Trade in Intangibles…  on  Declining IP trade balanc… 
+ 
+ 
+ 
+ Trade in Intangibles…  on  COVID-19 hits IP trade hard… 
+ 
+ 
+ 
+ What ever happened t…  on  You say tomato, I say …… 
+ 
+ 
+ 
+ More on beyond the E…  on  The Endless Frontier Act and c… 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ December 2019 
+ February 2016 
+ November 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ January 2012 
+ December 2011 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ October 2008 
+ September 2008 
+ August 2008 
+ July 2008 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+ February 2005 
+ January 2005 
+ October 2004 
+ September 2004 
+ July 2004 
+ June 2004 
+ May 2004 
+ April 2004 
+ October 2003 
+ June 2003 
+ May 2003 
+ January 2003 
+ June 2002 
+ May 2002 
+ February 2002 
+ November 2001 
+ October 2001 
+ September 2001 
+ May 2001 
+ April 2001 
+ December 2000 
+ September 2000 
+ February 2000 
+ November 1999 
+ March 1999 
+ 
+ Categories 
+ 
+ Articles 
+ Events 
+ Papers & Presentations 
+ Policy Forums 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ The Intangible Economy   Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ %d bloggers like this: 

@@ -1,0 +1,184 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Software Engineer - FICC SMM Execution Svcs, Global Markets, Associate, London 
+ Goldman Sachs 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Software Engineer - FICC SMM Execution Svcs, Global Markets, Associate, London 
+ Goldman Sachs 
+ [](mailto:?subject=Software%20Engineer%20%2D%20FICC%20SMM%20Execution%20Svcs%2C%20Global%20Markets%2C%20Associate%2C%20London&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14262197/software-engineer-ficc-smm-execution-svcs-global-markets-associate-london/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ London, United Kingdom 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ MORE ABOUT THIS JOB 
+SECURITIES 
+Our core value is building strong relationships with our institutional clients, which include corporations, financial service providers, and fund managers. We help them buy and sell financial products on exchanges around the world, raise funding, and manage risk. This is a dynamic, entrepreneurial team with a passion for the markets, with individuals who thrive in fast-paced, changing environments and are energized by a bustling trading floor. 
+ Our team of engineers build solutions to the most complex problems. We develop cutting-edge systems and processes that form the core of our key business and care about every microsecond. We provide real-time access to critical information and crunch billions of data points each day to provide insights and execute strategies on exchanges across the world. Team members have the opportunity to work at the forefront of technology innovation alongside industry leaders and make significant contributions to the field. 
+ The FICC Systematic Market Making Execution Services team provides execution services across the firm. We partner with the firms' sales and trading desks as well as our client to provide training, advice to clients, manage risk and identify market opportunities. The team looks after order management, execution algorithms and exchange connectivity. Almost every trader in the firm uses our software which gives a unique and exciting opportunity to work across almost every asset class. 
+ At Goldman Sachs, our culture is one of teamwork, innovation and meritocracy. We often say our people are our greatest asset and we take pride in supporting each colleague both professionally and personally. From collaborative work spaces and ergonomic services to wellbeing and resilience offerings, we offer our people the flexibility and support they need to reach their goals in and outside the office. 
+ RESPONSIBILITIES AND QUALIFICATIONS 
+Job Summary and Responsibilities: 
+ 
+ 
+ Develop low latency order execution algorithms and run them on cutting edge, latency tuned hardware 
+ 
+ 
+ Use statistical techniques to conceive, design, analyse, and measure strategies 
+ 
+ 
+ Acquire, clean, maintain and analyse data sets to identify trends & patterns 
+ 
+ 
+ Work as part of a global team 
+ 
+ 
+ Implement software using GS-proprietary technologies, C++ and Java 
+ 
+ 
+ Partner with experts to provide excellent tools for our clients and traders 
+ 
+ 
+ Basic Qualifications: 
+ Successful members of our team hold Bachelors, Masters and Doctoral degrees in a STEM (Science, Technology, Engineering and Maths) discipline. We are interested in bright individuals who have advanced mathematical and c omputational backgrounds, a willingness to learn about finance and who possess skills in the following areas: 
+ 
+ 
+ Technology: experience building large-scale distributed systems, implementing fundamental algorithms and working with different programming languages - C / C++ / Java 
+ 
+ 
+ Finance: understanding of market dynamics and conventions, and of different products' behaviours and specifications 
+ 
+ 
+ Mathematics: understanding of time series analysis, statistics, data mining and numerical techniques 
+ 
+ 
+ Excellent communication skills 
+Preferred Qualifications: 
+ 
+ 
+ At least 5 years of experience with an object oriented programming language in a commercial role 
+ 
+ 
+ Top candidate from a leading academic institution 
+ 
+ 
+ Experience in the front office environment 
+ 
+ 
+ ABOUT GOLDMAN SACHS 
+ABOUT GOLDMAN SACHS 
+ At Goldman Sachs, we commit our people, capital and ideas to help our clients, shareholders and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities and investment management firm. Headquartered in New York, we maintain offices around the world. 
+ We believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. Learn more about our culture, benefits, and people at GS.com/careers . 
+ We're committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. Learn more: https:// www.goldmansachs.com/careers/footer/disability-statement.html 
+ © The Goldman Sachs Group, Inc., 2020. All rights reserved. 
+Goldman Sachs is an equal employment/affirmative action employer Female/Minority/Disability/Veteran/Sexual Orientation/Gender Identity 
+ 
+ 
+ Internal Number: 9249730 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Goldman Sachs 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

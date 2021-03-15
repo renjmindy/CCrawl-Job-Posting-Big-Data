@@ -1,0 +1,89 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ BuildZoom (W13) 
+ BuildZoom is a better way to remodel. We connect homeowners to the most reliable general contractors in their area and make remodeling simpler, cheaper and more predictable. 
+ Full Stack Engineer (Staff / Principal) 
+ 
+ Location 
+ Union Square, San Francisco, CA 94108, USA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About BuildZoom 
+ We're leveraging data, ML, and web-based workflow tools to dramatically improve the construction and remodeling experience for homeowners, architects, and contractors. 
+ About the role 
+ Skills:  React, Ruby on Rails 
+ BuildZoom is a managed marketplace that is modernizing the $1.2 trillion remodeling and construction industry. We guide clients with medium-to-large residential and light commercial projects through the construction process and help them turn vision into physical reality. Our platform ensures accountability and transparency throughout the process, enabling us to deliver great outcomes in a historically challenging industry. Last year, we managed over $150M in construction projects and are on track to double this year. 
+ We're looking for an experienced software engineer that is ready for a bigger role. Join BuildZoom to be a hands-on contributor that leads by example, establishes the architectural vision, and inspires his colleagues to strive for self-improvement. Work closely with our founders and CTO to drive strategy and execution of key initiatives. 
+ We’re a data company at heart, ingesting vast volumes of construction and real estate data to gain deep insight into the construction marketplace. Our bleeding-edge data ingestion framework has helped us accumulate the most complete and timely data sets in the industry. On top of that wealth of data, we've built analytics capabilities and a recommendations engine that (we hope) will redefine the industry. Data and analytics alone won't cut it though; we need help building sophisticated UX that harnesses the power of our unique assets via data visualizations and workflow tools. Come help us! 
+ Requirements: 
+ 
+ 6+ years of hands-on software engineering experience in a professional team-based environment. 
+ Interest in wearing multiple hats to influence product strategy and UX design, implement sophisticated web-based tools and provide technical mentorship. 
+ Experience with some of our technologies: ReactJS, GraphQL, Ruby on Rails, Redis, Elasticsearch 
+ Exceptional written/verbal communication and emotional intelligence. 
+ 
+ Values: 
+ 
+ Drive. A passionate desire to improve the construction and remodeling industry. 
+ Self Improvement. A dedication to personal growth, achievement, and self-actualization. 
+ Collaboration. Our team is stronger than the sum of its parts. 
+ Quantitative. Our business decisions are made with data. 
+ Scrappy and Tenacious. Win in the face of seemingly insurmountable obstacles. 
+ 
+ Technology 
+ ReactJS, GraphQL, Ruby on Rails, Python, Redis, Aurora, MySQL, Postgres, Snowflake, Elasticsearch, AWS. 
+ Other jobs at BuildZoom 
+ Full Stack Engineer (Staff / Principal) 
+ fulltime 
+ Union Square, San Francisco, CA 94108, USA / Remote 
+ Full Stack 
+ 6+ years 
+ Project Engineer  
+ fulltime 
+ Scottsdale, AZ, USA 
+ 1+ years 
+  Data Product Manager 
+ fulltime 
+ Scottsdale, AZ, USA or San Francisco, CA, USA 
+ 1+ years 
+ Business Operations Manager 
+ fulltime 
+ Scottsdale, AZ, USA 
+ 3+ years 
+ Growth Operations Manager 
+ fulltime 
+ United States / Remote 
+ 3+ years 
+ Growth Operations Specialist 
+ fulltime 
+ United States / Remote 
+ 1+ years 
+ Business Intelligence Analyst 
+ fulltime 
+ Scottsdale, AZ, USA 
+ 1+ years 
+ Operations Coordinator 
+ fulltime 
+ Scottsdale, AZ, USA 
+ 1+ years 
+ Technology Operations Associate  
+ fulltime 
+ Scottsdale, Arizona 
+ $60k 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

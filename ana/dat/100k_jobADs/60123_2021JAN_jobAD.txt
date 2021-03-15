@@ -1,0 +1,185 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Full-Stack Engineer, Scala/React 
+ [ 
+ Quantemplate 
+ ](/companies/quantemplate) 
+ London, United Kingdom 
+ 06 January, 2021 
+ Apply 
+ More jobs from Quantemplate About Quantemplate 
+ Salary 
+ £50K - 85K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Akka 
+ AWS 
+ CSS3 
+ HTML5 
+ JavaScript 
+ React 
+ REDUX 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Pension 
+ Health care 
+ Bonus 
+ Free gym membership 
+ Share options 
+ 
+ Self-service data integration and analytics powered by machine learning 
+ Role overview 
+ We are looking for full-stack software engineers with a passion for building complex web applications. The ideal candidates will have the opportunity to build out a sophisticated data manipulation and visualisation framework accompanying a cloud-based RESTful middleware system as well as a suite of high-performance analytics and data manipulation subsystems. This software drives the groundbreaking data management platform Quantemplate. 
+ Quantemplate is a self-service data management and analytics platform, initially targeted at the needs of the insurance market. Its sophisticated yet easy-to-use front-end empowers end users to import, clean and normalise data from disparate, loosely-structured sources and then configure reports with a range of analyses that are executed in real time, providing an immersive user experience. 
+ The Role 
+ You'll be a key part of the development team, working with other software engineers, UX designers and data scientists to enhance the QuanTemplate platform, you'll be working to: 
+ 
+ Make it smarter by improving its machine learning capability 
+ Ensure it scales out to ever increasing numbers of customers 
+ Make it faster and able to handle increasingly vast quantities of data 
+ Continually improve usability and responsiveness, making it the most intuitive and easy to use data platform in existence. 
+ Improve our development and deployment processes, creating a platform that is a joy to develop against. 
+ 
+ The successful candidates will join a growing team of expert computer scientists and engineers with a vast amount of advanced cloud and web application delivery experience. The candidates will be required to work full time at our office in the heart of London’s vibrant Shoreditch. Remuneration is at the top end of the spectrum for the qualification level as we reward talent and expect high quality results. 
+ Key skills 
+ 
+ Proficient at writing efficient  JavaScript  code for feature and data rich web clients.  React/Redux  experience would be advantageous. 
+ Proficient at delivering systems with  Scala  and  Akka . 
+ Sophisticated knowledge of  HTML5 ,  CSS3 ,  ECMAScript 6+  standards and RESTful web services. 
+ Understanding and appreciation of software architecture and design principles. 
+ Practical experience with ‘cloud’ based architectures, ideally  AWS 
+ Some appreciation of both the aesthetic and usability requirements of good front-end design. 
+ Experience with agile software development methodologies. 
+ 
+ Soft Skills 
+ 
+ Able to lead work within a team, working closely with other senior engineers to design and build solutions. Happy taking full technical ownership of delivered solutions. 
+ Able to work independently on tasks and and maintain focus. 
+ Comfortable working in an intense, delivery focused environment. 
+ 
+ Expected Experience 
+ 
+ At least 3 years full-time commercial experience of engineering software in either a full-stack or back-end focused role using Scala. 
+ 
+ 
+ [ 
+ Quantemplate 
+ ](/companies/quantemplate) 
+ 
+ 10-49 
+ 
+ Quantemplate's mission is to create the easiest and most intuitive, data integration and analytics platform in existence, and in doing so transform how the insurance industry utilises and gets value from the huge quantities of data that is coursing through the market. By providing tools that are self-service, and can be used by all business users within an organisation we are democratising the use of data, and making its use pervasive. We're a high-calibre but friendly team working out of a slick office in a co-working space in the heart of London's Old Street. If you're smart, determined, and want to help build a genuinely ground-breaking software platform, then come join us! 
+ Technology Series A flexible working Remote Working AWS Ansible Github REDUX Pension  Health care 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Quantemplate About Quantemplate 
+ Salary 
+ £50K - 85K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Akka 
+ AWS 
+ CSS3 
+ HTML5 
+ JavaScript 
+ React 
+ REDUX 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Pension 
+ Health care 
+ Bonus 
+ Free gym membership 
+ Share options 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Front End Developer£50K - 100K + EquityAnyJunkLondon, United Kingdom 
+ Develop in React + Redux in an innovative and award winning company 
+ javascript react redux react native typescript 
+ More Info Apply 
+ Full-Stack Software Developer£35K - 75KCytera CellWorksLondon, United Kingdom 
+ Our solutions are going to transform the way every biotech works. Join us and help us get there! 
+ aws docker javascript node.js react typescript 
+ More Info Apply 
+ Full Stack Developer CompetitiveMcKinsey & CompanyLondon, United Kingdom 
+ Digital McKinsey brings together the best of McKinsey’s digital capabilities. 
+ angular aws docker javascript kubernetes mongodb node.js react 
+ More Info Apply 
+ Full-Stack Engineer, Scala/React 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

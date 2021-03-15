@@ -1,0 +1,163 @@
+  
+ _ _ 
+ 
+ 
+ 
+ 
+ 
+ 
+ __ 
+ 
+ 
+ Homepage 
+ 
+ 
+ About Us 
+ 
+ 
+ Career 
+ 
+ 
+ Blog 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Job description 
+ Senior Full Stack Developer (RoR/React.js) 
+ Location : 
+ Kyiv / Ukraine (Remote) 
+ We are ready to offer : 
+ 
+ Modern Ruby (2.6.3), modern Rails (6.0.3.2), constantly upgrading and using modern language and framework features 
+ Custom DDD-alike architecture on top of Rails (operations, view models, decorators) 
+ RSpec-based BDD (with a lot of custom matchers and add-ons), close to 100% test coverage 
+ Strict style agreements, validated by Rubocop 
+ Tough yet pragmatic code quality control, enforced by code reviews 
+ Lots of non-trivial algorithmic tasks with large and fuzzy texts processing 
+ Lots of non-trivial third-party APIs integrations 
+ Clear vision for upcoming “big” system features and path towards them 
+ Working at the product company where our people are at the heart of what we do 
+ Opportunity to work at a start-up environment and international team 
+ Competitive salary 
+ 15 working days paid vacation, paid sick leaves 
+ Health insurance 
+ Free drinks and fruits (daily) 
+ Happy hours (pizza, beer and board games) 
+ Corporate leisure activities 
+ Sponsored training/certification opportunities 
+ 
+ About the project : 
+ The product is an artificial intelligence platform that uses contextual data, specific acoustic models and current events to provide each client with an adapted model that is constantly improving over time. 
+ Technical stack: Ruby on Rails, PostgreSQL, Sidekiq, CoffeeScript, Docker, AWS (EC2, ECS, S3, AutoScaleGroup), Heroku. 
+ Requirements : 
+ 
+ 3-5+ years of experience in software development 
+ Experience with Ruby on Rails is a must 
+ Has experience in HTML5, CSS, JS 
+ Experience in writing complex database queries 
+ Great interpersonal skills and team player 
+ Fast learner, motivated and independent 
+ Passion for making a great product and taking it to the highest level of quality 
+ 
+ As an advantage : 
+ 
+ Good English (Reading/Writing) 
+ Bachelor’s Degree in computer science or related field 
+ Prior startup experience 
+ 
+ Expectations : 
+ As a Ruby on Rails developer, you will be responsible for developing the web platform which enables to revolutionize the transcription and translation industry. 
+ You will work in a dynamic, agile environment with highly talented team members delivering content that is implemented in production environments very rapidly. 
+ our office life 
+ WHAT WE OFFER 
+ 
+ _ _ Beautiful and 
+comfortable offices 
+ _ _ Convenient work 
+schedule "Good morning" 
+ _ _ Opportunity to manage 
+your work time independently 
+ _ _ English speaking club, tea day, 
+pizza day and many other events in office 
+ _ _ Interesting projects 
+and opportunity for career growth 
+ 
+ keep in touch 
+ _ _ Herzliya Pituach, Israel 
+Kharkiv, Ukraine 
+Kyiv, Ukraine 
+  _ _ WorkNest  
+  _ _ info@Work-Nest.com  
+  _ _ 1-700-555-384  
+ contact us 
+ Attach file 
+   
+ 
+ 
+ Homepage 
+ 
+ 
+ About Us 
+ 
+ 
+ Career 
+ 
+ 
+ Blog 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ __ 
+ Copyright 2021, All rights reserved to WorkNest Technologies L.T.D 
+ 
+ 
+ Homepage 
+ 
+ 
+ About Us 
+ 
+ 
+ Career 
+ 
+ 
+ Blog 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CLOSE 
+ 
+ 
+ 

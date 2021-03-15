@@ -1,0 +1,75 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Automation Integration Engineer 
+ CIBC 
+ __Toronto, ON 
+ Apply Now 
+ We’re building a relationship-oriented bank for the modern world. We need talented, passionate professionals who are dedicated to doing what’s right for our clients. 
+ At CIBC, we embrace your strengths and your ambitions so you feel empowered at work. Our team members have what they need to make a meaningful impact and feel truly valued for who they are and what they contribute. 
+ To learn more about CIBC, please visit CIBC.com 
+ Job Description 
+ What You’ll Be Doing 
+ As a member of CIBC’s Automation Integration team, you’ll play a crucial role in increasing our capability in DevOps for our Infrastructure products. You will be joining a team of individuals that are passionate about innovation and solving business problems by using automation. You will collaborate with product owners to understand product specific priorities and execute on plans. You will develop and drive continuous integration to achieve delivery strategies and work with the Automation Platform team in support of DevOps automation framework and environments. You will provide technical leadership, standards and best practices to Technology teams during design, build, configuration, testing, implementation and maintenance phases of initiatives/projects involving automation and level 3 support to troubleshoot malfunctions of hardware, software applications, and security systems to resolve operational issues and restore services 
+ How You’ll Succeed 
+ Leadership & Communication – Collaborate with senior leaders across the company and make informed recommendations to enhance automation related solutions. Weigh business needs against technology offerings, security concerns and provide recommendations to improve automation, which are practical and achievable 
+ Governance – Proactively contribute to governance initiatives in the development of company policies, audit requirements etc. Provide technical or business guidance to clients within and outside your own department. 
+ Engineering – Lead evaluation, selection, design and implementation of new and emerging products and techniques; support the development of business/technology proposals by estimating implementation costs and evaluating options; provide comprehensive senior level technical consulting to other IT senior management and senior technical teams; provide subject matter expertise on specific existing technologies. Manage the ongoing vitality of the technology throughout its lifecycle. 
+ Automation - Create test automation frameworks with continuous integration and continuous deployment to production. Engage resources within CIBC or CIBC partners to understand manual tasks to translate and break down into smaller work packages to be addressed during SCRUM sprints. 
+ Who You Are 
+ You can demonstrate experience in:  design, implementation and support of technologies and technology-based solutions dealing in automation. You have a clear understanding of application/product lifecycle. You have the knowledge and understanding of marketplace experience, developments and trends as the relate to automation. You are skilling with the following scripting languages and utilities: Ansible, Chef, Puppet, PowerShell, Python, PERL, and BASH. You experience using GitHub, Artifactory, and Jenkins. You are well versed in DevOps best practices. You are experienced in building and configuring infrastructure, databases or middleware products such as VMware, Windows, Linux, Oracle, SQL or JBoss. It is an asset if you have experience with Playbook conversion to Ansible, ServiceNow integration to Ansible, or are familiar with cloud technologies such as Kubernetes, Docker and OpenShift. 
+ You have strong knowledge of:  IT Standards, Policies and Procedures and have the ability to use and administer the organization's technology practices, standards and procedures appropriately to diverse situations 
+ You act like an owner. You thrive when you're empowered to take the lead, go above and beyond, and deliver results 
+ You're digitally savvy. You seek out innovative solutions and embrace evolving technologies. You can easily adapt to new tools and trends. 
+ You look beyond the moment. You make decisions and take actions that will make a difference today and tomorrow. You proactively seek new opportunities to define what's possible 
+ You give meaning to data. You enjoy investigating complex problems, and making sense of information. You're confident in your ability to communicate detailed information in an impactful way 
+ Your influence makes an impact. You know that relationships and networks are essential to success. You inspire outcomes by making yourself heard. 
+ Values matter to you. You bring your real self to work and you live our values – trust, teamwork and accountability. 
+ What CIBC Offers 
+ At CIBC, our people are our greatest asset. You’ll become part of a diverse community that acknowledges everyone’s unique talents, and empowers teams to do what’s right for the client, and to do it well. As part of our team, you will: 
+ Thrive:  Benefit from an open and approachable culture that provides the flexibility and support you need to integrate your life at work and at home 
+ Connect :  Work in a place where the right technology and infrastructure fosters innovation, collaboration and creativity 
+ Develop:  Grow your skills and career through our best-in-class onboarding experience, ongoing learning opportunities, and individual development planning 
+ Prosper:  Share in our collective success with a competitive salary, incentive pay, banking benefits, health benefits program, and employee share purchase plan 
+ What You Need to Know 
+ CIBC is committed to creating an inclusive environment where all team members and clients feel like they belong. We seek applicants with a wide range of abilities and we provide an accessible candidate experience. If you need accommodation during the application or interview process, please contact Mailbox.careers-carrieres@cibc.com 
+You need to be legally eligible to work at the location(s) specified above and, where applicable, must have a valid work or study permit 
+ Job Location 
+ Toronto-483 Bay St. 6th Floor 
+ Employment Type 
+ Regular 
+ Weekly Hours 
+ 37.5 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

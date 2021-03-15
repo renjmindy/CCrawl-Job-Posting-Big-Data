@@ -1,0 +1,100 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Front End Web Developer – £30-35k, remote (UK-based) REMOTEPERMANENT 
+ Job Description 
+ Help us make beautiful and accessible websites for leading arts and cultural organisations. 
+ Salary:  £30-£35k – depending on experience 
+ Location:  Fully-remote team (UK-based) 
+ Type:  Permanent, full-time – with the option to work flexible hours 
+ Apply by:  Friday 12 February 2021 
+ **We're particularly keen to hear from people who're _  currently under-represented in the tech industry. **_ 
+ === 
+ IS THIS YOU? 
+Whether you call yourself a developer, coder, or engineer, you care about writing maintainable, scalable, well-documented code, and build for accessibility and performance. 
+ You’re a problem-solver and a doer. Most at home when elbow-deep in code, you can also communicate clearly with less technical folks. A good communicator over Slack and video chat, working from home suits you nicely – and you have a decent internet connection. 
+ Day-to-day, you welcome new challenges and can work on multiple projects. Comfortable with a level of autonomy – managing your own time and to-do list – you also enjoy talking-through ideas, and being an active  part of a team  focused on building the best possible websites. 
+ You're fluent in spoken and written English, and you live – and have the right to work – in the UK. 
+ === 
+ JOB DESCRIPTION 
+As well as helping to maintain existing websites, you’ll be building new responsive user interfaces – with semantic HTML, CSS, and JS – and wiring them into Craft CMS. 
+ Additionally, you’ll: 
+ 
+ Write tests and document the results 
+ Diagnose and squish bugs 
+ Write clear, useful technical documentation 
+ Take part in code reviews 
+ Keep up-to-date with relevant technologies, and approaches to work 
+ Have an eye for design detail 
+ 
+ Our front end stack includes:  Sass, Vue.js, Twig, Craft CMS, Gulp, Web Pack 
+ === 
+ WORKING AT SUPERCOOL 
+We're an experienced and straight-talking team of problem-solvers, who build websites that make life easier for arts and cultural organisations – and their audiences. 
+ Salary and benefits: 
+ 
+ £30k-£35k  depending on experience 
+ Fully-remote working 
+ Flexible hours 
+ Minimum 31 days holiday – including Bank Holidays and a company-wide  2-week break over Christmas 
+ Additional leave  for long service, from 2 years 
+ NEST Pension  with employee and employer contributions 
+ TOIL  for working outside of regular hours (this should be a given, but isn't always!) 
+ Professional development opportunities  to learn, and attend/speak at conferences 
+ Working with  clients in the charitable sector 
+ Environmentally responsible  employer 
+ 
+ We're committed to being an inclusive, diverse, and welcoming employer – here's our  Manifesto On Inclusivity . As such, we're keen to hear from people who're currently under-represented in the tech industry. 
+ (To reduce unconscious bias, certain information – including your name, date of birth, contact details, and educational qualifications – will be hidden from the hiring panel during the initial CV / Cover Letter review.) 
+ How to Apply 
+ Full details about how to apply, and information about our inclusive hiring process, can be found on our website: supercooldesign.co.uk/about/jobs/front-end-web-developer 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Supercool 
+ 
+ __ 
+ 
+ Location:  UK 
+ 
+ __ 
+ 
+ Phone Number:   n/a 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   http://www.supercooldesign.co.uk/ 
+ __  Posted January 9, 2021 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

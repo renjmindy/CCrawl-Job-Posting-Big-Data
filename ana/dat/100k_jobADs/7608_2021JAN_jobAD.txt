@@ -1,0 +1,187 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Software Engineer 
+ [ 
+ Signal AI 
+ ](/companies/signal-ai) 
+ London, United Kingdom 
+ 04 October, 2019 
+ Apply 
+ More jobs from Signal AI About Signal AI 
+ Salary 
+ £60K - 85K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Clojure 
+ ClojureScript 
+ JavaScript 
+ Python 
+ React 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Stock options 
+ Pension 
+ Fruit bowl 
+ Training 
+ Snacks 
+ Committed to a diverse team 
+ Learning budget 
+ Paid leave 
+ Competitive salary 
+ Child care vouchers 
+ Pension plan 
+ Unlimited holiday entitlement 
+ Company macbook & apple equipment 
+ Monthly team lunch 
+ Flexible holiday entitlement and working hours 
+ Sponsorship available 
+ Flexible budget available to attend learning and development opportunities such as meet-ups and conferences 
+ 
+ Build AI with Clojure, Python, Javascript and Node! 
+ Role overview 
+ A revolutionary  new  technology platform built for analysing text and discovering market intelligence, developed in partnership with the world's leading academics. 🎓 
+ The large-scale text analytics system unlocks 🔓 knowledge and insight from unstructured textual data, enabling organisations to solve complex information challenges and providing a competitive advantage for our clients. 📈 
+ The brilliant and ground breaking contextual engine, knows how to tell (The) Apple 📱, from it's apple's 🍏. 
+ You will be a core player in the  growth of our platform and of the products built on top of it . Areas of work will include our large scale ingestion pipeline, increased automation of our infrastructure and new features to our products 
+ Who you are 
+ You’re an outcome driven, polyglot developer with experience in a variety of languages and domains. We appreciate that exposure to different domains and paradigms can help us solve problems in different ways. 
+ You can work with a high degree of autonomy: you know how to manage your time effectively. 
+ You are comfortable on working on the whole stack: from data ingestion to new product features. You understand that importance of web operations, monitoring and alerting are just part of the way you build and run software. 
+ Our Current Tech Stack 
+ Languages: Clojure/Clojurescript 👌 , Javascript, Python 🐍 
+ Frameworks and tools:Storm 🌩️, Node.js, React, Angular, Compojure 
+ Databases:DynamoDB, Elasticsearch, Postgres, Redis 
+ Platforms: AWS, Docker 
+ 
+ [ 
+ Signal AI 
+ ](/companies/signal-ai) 
+ 
+ 50-249 
+ 
+ Signal is a revolutionary new technology platform built for analysing text and discovering market intelligence, developed in partnership with the world's leading academics. Our large-scale text analytics system unlocks knowledge and insight from unstructured textual data, enabling organisations to solve complex information challenges and providing a competitive advantage for our clients in their respective markets. 
+ Technology Early Stage Venture AWS Code Quality Compojure DynamoDB Stock Options Pension  
+ View 3 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Signal AI About Signal AI 
+ Salary 
+ £60K - 85K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Clojure 
+ ClojureScript 
+ JavaScript 
+ Python 
+ React 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Stock options 
+ Pension 
+ Fruit bowl 
+ Training 
+ Snacks 
+ Committed to a diverse team 
+ Learning budget 
+ Paid leave 
+ Competitive salary 
+ Child care vouchers 
+ Pension plan 
+ Unlimited holiday entitlement 
+ Company macbook & apple equipment 
+ Monthly team lunch 
+ Flexible holiday entitlement and working hours 
+ Sponsorship available 
+ Flexible budget available to attend learning and development opportunities such as meet-ups and conferences 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Full Stack Engineer£65K - 80K + EquityMimicaLondon, United Kingdom 
+ Our software learns to automate work just by observing it 
+ Sponsorship 
+ javascript node.js python react 
+ More Info Apply 
+ Senior or Staff Software Engineer£80K - 110K + EquityGRAILLondon, United Kingdom 
+ Full-stack Engineer (front-end/back-end/distributed systems/Go/React/Cloud) for cancer research at UCL 
+ java javascript python react 
+ More Info Apply 
+ Front-End Software Engineer£60K - 85KSignal AILondon, United Kingdom 
+ Using AI and Machine Learning to Help Your Business Make Smarter, Quicker Decisions 
+ angular clojure javascript node.js react 
+ More Info Apply 
+ Senior Software Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

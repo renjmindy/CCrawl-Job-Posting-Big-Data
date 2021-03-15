@@ -1,0 +1,227 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Ai Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ AiWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Protocol Engineer 
+ [ 
+ O(1) Labs 
+ ](/companies/o-1-labs) 
+ 
+ Remote 
+ 13 January, 2021 
+ Apply 
+ More jobs from O(1) Labs About O(1) Labs 
+ Salary 
+ $140K - 160K + Equity 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Blockchain 
+ Cryptography 
+ Cryptocurrency 
+ Functional Programming 
+ Haskell 
+ OCaml 
+ Smart Contracts 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Unlimited vacation policy 
+ Full healthcare coverage 
+ 401(k) matching 
+ L&d budget 
+ Parental leave 
+ Token equity 
+ 401k 
+ Committed to a diverse team 
+ Lunch & learn 
+ Office library 
+ Healthy snacks 
+ Bike friendly 
+ Equity 
+ Health care 
+ Unlimited pto 
+ Pto 
+ Start-up 
+ Equipment budget 
+ Platinum health coverage 
+ Tokens 
+ 
+ Build a protocol that brings formal verification to the blockchain 
+ Role overview 
+ This small, early-stage, funded Cryptocurrency project is using  OCaml  to make sure the technology behind Cryptocurrency is ready for global, commercial use. This is an opportunity for Functional Engineers to help Cryptocurrency live up to the hype. 🚀 
+ Cryptocurrency is a domain where correctness really counts. 👩‍💻💱 As such, a cornerstone of our approach is a focus on building reliable software through the use of statically-typed functional programming languages. This is reflected in our  OCaml  codebase and style of structuring code around DSLs, as well as in the design of the smart-contracts platform we're developing. 
+ There is  no need to have prior experience in cryptography  , and we're hiring engineers to work on a bunch of exciting projects including: 
+ 
+ Our  OCaml  DSL for writing  zk-SNARKs  (a cryptographic primitive for certified computation). 
+ The design of a virtual machine and higher-level languages for smart contracts (there a lot of interesting challenges here since the  VM  has to be efficient inside  SNARKs ). 
+ Working on the core networking, cryptography, and reliability aspects of the protocol. 
+ 
+ This is a chance to join a small, collaborative team and have a ton of independence while working on fascinating cross-disciplinary problems in computing. We also offer competitive compensation both in salary and equity as well as top-of-the-market benefits. 
+ Looking for: 
+ 
+ functional programming 
+ programming language theory 
+ security 
+ distributed systems 
+ cryptography 
+ cryptocurrency 
+ 
+ There are no hard requirements and we're more interested in learning about your individual background. 
+ 
+ [ 
+ O(1) Labs 
+ ](/companies/o-1-labs) 
+ 
+ 
+ 10-49 
+ 
+ 
+ San Francisco, CA, US 
+ 
+ 
+ O(1) Labs is a small, well-funded startup aiming to develop the first cryptocurrency protocol that can deliver on the promise of supporting real-world applications and widespread use. Our team is based in San Francisco, and we are funded by top investors (including Polychain, Metastable, Max Levchin, and Naval Ravikant). O(1) Labs recently released Coda Protocol, the first cryptocurrency with a constant sized Blockchain. O(1) Labs is committed to building a diverse, inclusive company. People of color, LGBTQ individuals, women, and people with disabilities are strongly encouraged to apply. 
+ OCaml Elm Blockchain Early Stage Venture PureScript ReasonML Unlimited Vacation Policy Full Healthcare Coverage 
+ View 3 jobs 
+ Interested in seeing how O(1) Labs work? Contribute to their Open Source. 
+ Refactor duplicated code idiom to single function on Public_key 
+ Level: Intermediate 
+ 
+ OCaml 
+ 
+ View All Issues 
+ Engineers who find a new job through Ai Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from O(1) Labs About O(1) Labs 
+ Salary 
+ $140K - 160K + Equity 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Blockchain 
+ Cryptography 
+ Cryptocurrency 
+ Functional Programming 
+ Haskell 
+ OCaml 
+ Smart Contracts 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Unlimited vacation policy 
+ Full healthcare coverage 
+ 401(k) matching 
+ L&d budget 
+ Parental leave 
+ Token equity 
+ 401k 
+ Committed to a diverse team 
+ Lunch & learn 
+ Office library 
+ Healthy snacks 
+ Bike friendly 
+ Equity 
+ Health care 
+ Unlimited pto 
+ Pto 
+ Start-up 
+ Equipment budget 
+ Platinum health coverage 
+ Tokens 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Ai Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Interested in seeing how O(1) Labs work? Contribute to their Open Source. 
+ Refactor duplicated code idiom to single function on Public_key 
+ Level: Intermediate 
+ 
+ OCaml 
+ 
+ View All Issues 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Ai Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Engineering ManagerCompetitiveO(1) LabsUnited States of America 
+ Manage the Engineering Team at Coda Protocol 
+ Remote 
+ blockchain cryptography functional programming ocaml 
+ More Info Apply 
+ Smart Contract EngineerCompetitivecamlCaseUnited States of America 
+ Write smart contracts for Tezos 
+ Remote 
+ haskell ocaml 
+ More Info Apply 
+ Senior Technical Product Manager CompetitiveO(1) LabsUnited States of America 
+ We're a software development company and leader in verifiable computation. Currently incubating Mina Protocol 
+ Remote 
+ blockchain cryptocurrency product development product management 
+ More Info Apply 
+ Senior Protocol Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Data Science jobs Data Engineering jobs Machine learning jobs Artificial Intelligence jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Data Science articles Machine learning articles Artificial Intelligence articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

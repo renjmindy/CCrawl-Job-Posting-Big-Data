@@ -1,0 +1,383 @@
+Menu 
+ 
+ Home 
+ PRIS Committee 
+ Contributors 
+ Contributor Guidelines 
+ Terms of Use 
+ 
+ 
+ The Secure Times 
+ An online forum of the ABA Section of Antitrust Law's Privacy and Information Security Committee 
+ Actress Sues Individuals Over Craigslist Job Posting Allegedly In Her Name 
+ April 22, 2008  by  ABA Antitrust   Leave a comment 
+ Unlike many plaintiffs in other Web site posting cases, this one is suing the users who actually posted the content as opposed to the service provider (Craigslist). The causes of action are fraudulent impersonation, appropriation invasion of privacy, false light invasion of privacy, conspiracy to invade privacy, and conspiracy to commit criminal conduct. No separate claim for violation of the right of publicity is stated, although it might be included in appropriation invasion of privacy. 
+ See  law.com's coverage of this suit . 
+ Share this: 
+ 
+ Click to share on Facebook (Opens in new window) 
+ Click to share on LinkedIn (Opens in new window) 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on Reddit (Opens in new window) 
+ Click to print (Opens in new window) 
+ Click to email this to a friend (Opens in new window) 
+ 
+ 
+ Related 
+ Categories:  Expectation of Privacy  |  Permalink . 
+ Author:  ABA Antitrust 
+ Learn more about the ABA Section of Antitrust Law: http://ambar.org/antitrust 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Post navigation 
+ <- Previous Post 
+ Next Post -> 
+ Search for: 
+ Join Us 
+ 
+ Join the Privacy & Information Security Committee  (FREE for Section of Antitrust members only). 
+ Join the Section of Antitrust  (if you're an ABA member). 
+ Join the ABA 
+ 
+ RSS 
+   RSS - Posts 
+ Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Email Address: 
+ Follow 
+ Like Us 
+ 
+ Like Us 
+ 
+ Contributors 
+ 
+   ABA Antitrust 
+ 
+ Start preparing for Canada’s anti-spam legislation 
+ FTC Aggressively Enforcing COPPA Compliance 
+ 
+ 
+   Anna Hsia 
+ 
+ Another Court Limits What Constitutes an ATDS Under the TCPA: Is it Safe to Say a Toaster is Not an Autodialer? 
+ FTC Chairwoman Edith Ramirez Comments on Data Security for the Internet of Things 
+ 
+ 
+   Ben Neumeyer 
+ 
+ Less Than Satisfied with Self-Regulation? FTC Chair Renews Push for Do Not Track 
+ In Step Towards Broader Self-Regulation, Facebook to Allow AdChoices Icon in Ads 
+ 
+ 
+   Bridget Calhoun 
+ 
+ Upcoming 1 Hour Teleseminar on the Amended COPPA Rule - Tomorrow, Wednesday, October 30 
+ Upcoming Program in D.C. on Career Opportunities in Privacy, Advertising, and Consumer Protection Law 
+ 
+ 
+   Ernesto Ballesteros jr, CISSP 
+ 
+ Microsoft’s Xbox One Kinect Consumer Privacy Concerns: “You are fully in control of your personal data.” 
+ 
+ 
+   eblumenfeld 
+ 
+ PHI Whack-a-Mole 
+ The Most Popular Flashlight App Kept Consumers in the Dark about Tracking Them. 
+ 
+ 
+   Elliot Golding 
+ 
+ NIST Eliminates Privacy Appendix from Cybersecurity Framework 
+ Dismissal of $16 Million Class Action Based on Theft of Patient Information Where No Evidence that Data Was “Released” May Provide Ammunition for Defending Breach Class Actions 
+ 
+ 
+   Eric Whisler 
+ 
+ The Third Circuit Rules Consumers May Opt-Out of Autodialed Calls at Any Time 
+ Article 29 Working Party Publishes Letter Criticizing the Proposed Online Behavioral Advertising Self-Regulatory Framework. 
+ 
+ 
+   Emily Tabatabai 
+ 
+ White House releases Big Data Report 
+ New COPPA Compliance Mechanisms Now Available 
+ 
+ 
+   genob 
+ 
+ Important Development in UK Privacy Litigation 
+ New article on email privacy and data collection 
+ 
+ 
+   Heather Enlow-Novitsky 
+ 
+ Snapchat Settles FTC Charges That Promises of Disappearing Messages Were False 
+ PCI Council Releases Version 3.0 
+ 
+ 
+   Janis Kestenbaum 
+ 
+ Ninth Circuit Holds Actual Injury Not Required For Article III Standing under FCRA 
+ GAO Data Broker Report Calls for Comprehensive Privacy Law 
+ 
+ 
+   Jonathan I. Ezor 
+ 
+ Direct Marketing Association Launches "Data Protection Alliance" 
+ Privacy and Data Protection Impacting on International Trade Talks 
+ 
+ 
+   joshtzuker 
+ 
+ California Veto of Electronic Communication Bill Makes Case for Federal Action 
+ Congress: Slowly, Inexorably Moving to Cyber Security Legislation 
+ 
+ 
+   Katherine Britton 
+ 
+ Yesterday at FTC, President Obama Announced Plans for new data privacy and security laws: Comprehensive Data Privacy Law, Consumer Privacy Bill of Rights, and Student Digital Privacy Act 
+ FTC Examines Internet of things, Privacy and Security, in Recent Workshop 
+ 
+ 
+   Kate M. Growley 
+ 
+ The FTC “Pins” Cole Haan on Pinterest Campaign: Disclosure of Contest Driving Endorsement of Products Required 
+ The Growing Transparency Into National Security Letters 
+ 
+ 
+   Kurt Johnson 
+ 
+ California's Proposed Right to Know Act 
+ HHS Issues Final Rule Modifying HIPPA on Same Day Persons are Identified via Anonymous Genetic Information 
+ 
+ 
+   Abigail Slater 
+ 
+ Google Spain Decision - July 2 Discussion 
+ Senate Holds Robocall Hearing 
+ 
+ 
+   Margot Patterson 
+ 
+ Canada's Anti-Spam Law (CASL) - New Guidance on Providing Apps and Software 
+ Canada's Anti-Spam Law (CASL) in force July 1 
+ 
+ 
+   marieandreeweiss 
+ 
+ Senate ‘Malvertising’ Hearing 
+ Google ‘Glasstiquette’ and Other Google Glass Issues 
+ 
+ 
+   msullivan2013 
+ 
+ House Hearing Focuses on Potential Federal Data Breach Notification Legislation 
+ FTC Retains Effective Date for the Amended COPPA Rule 
+ 
+ 
+   Rebecca H. Davis 
+ 
+ FTC Mobile Device Tracking Seminar Highlight – Customer Trust 
+ Reactions to NIST's Final Cybersecurity Framework - The Good and the Bad (but no ugly) 
+ 
+ 
+   Sanjay Nangia 
+ 
+ Caution: Your Company’s Biggest Privacy Threat is…the FTC 
+ Before Liftoff, Drones Must Maneuver Through Privacy Laws 
+ 
+ 
+   apriltabor 
+ 
+ FTC Cracks Down on Webcam Company for Lack of Security 
+ 
+ 
+   Katie Riley 
+ 
+ FTC Announces Settlement with Accretive Health over Data Security Practices 
+ California Continues to Expand Consumer Privacy Protections, Enacting Further Amendments to CalOPPA and the Data Breach Notification Law 
+ 
+ 
+   Sherrie Kim Schiavetti 
+ 
+ U.S. Supreme Court Recognizes Privacy Right in Residents’ Motor Vehicle Records 
+ U.S. Supreme Court Holds that Government’s Use of Trained Police Dogs to Investigate Front Porch is a “Search” within the Meaning of the Fourth Amendment 
+ 
+ 
+   Jeffrey L. Vagle 
+ 
+ Windows XP End of Life Poses Risks to the Significant Percentage of Companies Still Tied to the Platform 
+ 2014 Verizon Data Breach Report Paints a Sobering Picture of the Information Security Landscape 
+ 
+ 
+ 
+ Recent Posts 
+ 
+ Important Development in UK Privacy Litigation 
+ Another Court Limits What Constitutes an ATDS Under the TCPA: Is it Safe to Say a Toaster is Not an Autodialer? 
+ Yesterday at FTC, President Obama Announced Plans for new data privacy and security laws: Comprehensive Data Privacy Law, Consumer Privacy Bill of Rights, and Student Digital Privacy Act 
+ FTC Chairwoman Edith Ramirez Comments on Data Security for the Internet of Things 
+ New article on email privacy and data collection 
+ 
+ Categories 
+ 
+ Anonymity  (1) 
+ Behavioral Marketing  (19) 
+ Breach Response  (14) 
+ Committee Announcement  (5) 
+ Companies  (14) 
+ Computer Fraud and Abuse Act  (7) 
+ Congress  (18) 
+ COPPA  (14) 
+ Data Disposal  (4) 
+ Data Security  (62) 
+ Data Sharing  (21) 
+ Direct Marketing  (12) 
+ Driver's Privacy Protection Act  (2) 
+ Educational Privacy / FERPA  (1) 
+ Employee Acceptable Use Policies  (4) 
+ Enforcement  (16) 
+ EU Data Protection  (19) 
+ Events  (13) 
+ Expectation of Privacy  (16) 
+ Facial Recognition  (2) 
+ FACTA  (6) 
+ Federal Trade Commission  (58) 
+ Financial Privacy  (10) 
+ Fourth Amendment  (6) 
+ HIPAA  (12) 
+ Identity Theft  (9) 
+ International  (30) 
+ Legislation  (36) 
+ Medical Privacy  (10) 
+ Metadata  (3) 
+ No Match Letters  (1) 
+ Peer-to-Peer  (3) 
+ Phishing  (5) 
+ Pretexting  (2) 
+ Privacy  (18) 
+ Privacy / Information Security Insurance  (5) 
+ Privacy Policies  (17) 
+ Privacy Programs  (15) 
+ SMS / Text Messaging  (5) 
+ Spam / Commercial E-mail  (18) 
+ Spyware  (8) 
+ Supreme Court Cases  (5) 
+ TCPA  (8) 
+ The Patriot Act  (2) 
+ Uncategorized  (141) 
+ Upcoming Program  (4) 
+ 
+ Archives 
+ 
+ March 2015  (1) 
+ February 2015  (1) 
+ January 2015  (2) 
+ November 2014  (2) 
+ October 2014  (2) 
+ June 2014  (2) 
+ May 2014  (4) 
+ April 2014  (3) 
+ March 2014  (4) 
+ February 2014  (9) 
+ January 2014  (4) 
+ December 2013  (2) 
+ November 2013  (12) 
+ October 2013  (10) 
+ September 2013  (5) 
+ August 2013  (9) 
+ July 2013  (7) 
+ June 2013  (2) 
+ May 2013  (3) 
+ April 2013  (4) 
+ March 2013  (2) 
+ February 2013  (4) 
+ January 2013  (8) 
+ December 2012  (1) 
+ November 2012  (3) 
+ October 2012  (4) 
+ September 2012  (3) 
+ August 2012  (5) 
+ July 2012  (5) 
+ June 2012  (2) 
+ May 2012  (3) 
+ April 2012  (6) 
+ March 2012  (5) 
+ February 2012  (5) 
+ January 2012  (4) 
+ December 2011  (5) 
+ October 2011  (2) 
+ September 2011  (2) 
+ August 2011  (10) 
+ July 2011  (5) 
+ June 2011  (7) 
+ May 2011  (6) 
+ April 2011  (8) 
+ March 2011  (16) 
+ February 2011  (6) 
+ January 2011  (8) 
+ December 2010  (14) 
+ November 2010  (10) 
+ October 2010  (10) 
+ September 2010  (3) 
+ June 2010  (5) 
+ May 2010  (2) 
+ April 2010  (3) 
+ March 2010  (1) 
+ February 2010  (5) 
+ January 2010  (1) 
+ December 2009  (6) 
+ November 2009  (12) 
+ October 2009  (14) 
+ September 2009  (6) 
+ August 2009  (5) 
+ July 2009  (5) 
+ June 2009  (5) 
+ August 2008  (1) 
+ June 2008  (3) 
+ May 2008  (11) 
+ April 2008  (7) 
+ March 2008  (18) 
+ February 2008  (12) 
+ January 2008  (8) 
+ December 2007  (21) 
+ November 2007  (2) 
+ October 2007  (6) 
+ September 2007  (7) 
+ August 2007  (4) 
+ July 2007  (2) 
+ April 2007  (1) 
+ September 2006  (1) 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Blog at WordPress.com. 
+ Top 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

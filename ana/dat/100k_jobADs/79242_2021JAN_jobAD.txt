@@ -1,0 +1,342 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Python Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ PythonWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ How to Get a Remote Software Development Job 
+ Rebecca Campbell 7 November, 2019 | 5 min read 
+ Remote Working Open Source 
+ Today, it's never been easier to log in for work remotely, and a recent report suggests that clocking in from anywhere in the world could bring in more money than a traditional office job. 
+ According to a  State of Remote Work  report from September 2019, 26% of remote workers earn more than $100,000 per year. This is compared to eight percent of on-site workers who earn over that. Additionally, seven percent of remote workers indicate that they earn over $200,000 a year; however, only one percent of on-site office workers can claim to make that. 
+ This may partly be explained by the top industries represented by remote workers such as healthcare (15%), tech (10%) and financial services (9%). 
+ With 42% of remote workers planning to work more remotely in the next five years and 51% of office workers indicating they want to make the switch, working from anywhere in the world may be the way forward for many. 
+ As one of the fastest growing sectors, with a chronic shortage of qualified individuals, it seems that the tech industry is catching on to this trend. It therefore seems a technical background could pay off when it comes to getting a remote job that pays well. 
+ Remote Works  lists among its job listings, Data Engineer, Go Developer, and DevOps Engineer as a few of the highest-paid remote jobs at the moment. With full benefits packages, the increased flexibility of working from home, and the excellent work-life balance that comes from not being held to a particular region, it’s no wonder that more people are turning to careers in tech. 
+ Of course, while working from anywhere certainly has its perks, doing so can also come at a price. According to the study, remote workers indicated that they work over 40 hours per week, 43 percent more than on-site workers do. One of the reasons why this may be is that it’s harder for remote workers to unplug from work. 
+ So, with the decision set to embrace a remote working lifestyle, how does one go about getting a job as a Software Developer? 
+ Getting the Technical Skills 
+ A 2017 study by  Paysa , a personal careers advisor, confirmed that after analyzing more than 8,200 job postings and 70,000 resumes, the most in-demand job titles were Software Developers. Some of these postings were found at Airbnb, Amazon, Apple, Facebook and Uber. 
+ It also showed that the skill in most demand at technology disruptors (private or public companies with a valuation of over $10 billion) was, understandably, Computer Science. With technology titans (public companies with a valuation of more than $100 billion), the most in demand were Computer Science and Management skills. 
+ When it comes to coding languages, Java, Python, C/C++, C# and JavaScript were some of the  most popular . With some  additional parameters  included such as developer feedback and GitHub activity we have JavaScript, Go, Elixir, Ruby and Kotlin make an appearance. 
+ Software Developers typically have bachelor’s degree level education, usually in Computer Science. Other related subjects are Information Technology, Computing, with frequent cross over into other technical fields such as Math or Physics. 
+ Computer Science degrees are generally the most common, due to the fact that they cover a wide range of topics and typical will dive into the fundamentals of theory as well as practical. When interviewing, having a good grounding in data structures and algorithms is often just as important as the more everyday programming skills. 
+ Yet, that’s not the only way to go about it. This article from  The Guardian  in 2014, for example, shows how a person can become a software developer even if they lack formal qualifications. Other ways of gaining the necessary skills include certain graduate training schemes, online courses, plus a dedicated bootcamp such as  The Recurse Centre  and the  Flatiron School  in the US and UK. 
+ In this  article , it explains the ins and outs of coding bootcamps. For instance, a full-time bootcamp can last anywhere from six to 40 weeks, with the average being just over 12 weeks. Costing between $10,000 and $24,000, some even guarantee a developer job; however, if a person doesn’t get one they don’t have to pay anything apart from the initial deposit. 
+ For those who do not have access to as much free time or funds, the online bootcamps may be the way forward. As this option is more flexible, it also means people won’t have to leave their job, but they will need to be focused on getting the work done. 
+ With 24 coding bootcamps listed, each show whether they are in-person or online, where they’re located for in-person ones, how much they cost, how long they last, the median starting salary someone can expect, and the percentage of students who complete them. 
+ This just goes to show that it’s no longer a requirement for someone to earn a degree if they want to follow a career path as a software developer. For those who are considering a career change, coding bootcamps could be an option rather than spending years at university. 
+ What Other Skills Do You Need 
+ Working as a software developer isn’t just about writing programs, once you gain these skills and start to enter the job market you will quickly find there are a whole host of other skills that will really help you in your career. 
+ Aiming to work remotely in particular will highlight the need for excellent communication skills, the ability to work effectively with teams of people from different cultures and often digitally through messaging apps such as Slack. 
+ Running a phrase search across job descriptions on  Remote Works , we find there are several repeating themes: 
+ 
+ Analytical thinking 
+ Problem-solving 
+ Attention to detail 
+ Reasoning skills 
+ Clear communication 
+ 
+ Alongside the necessary technical skills, to be a successful developer there is a lot of creative work, design decisions and trade-offs to make, paying attention to details, even working with various teams such as product or sales. 
+ You will not be working in a silo, how you write your code, document, track and fix bugs, give and receive feedback, etc. Will all contribute to your effectiveness and ability to work as part of a productive team. 
+ Getting Noticed 
+ As is often the case with many things in life, to get your career going you really will just need that one lucky break. Once you have that critical first year of experience you will find that your career can accelerate much more rapidly than any other. 
+ However, to get that first break you will need to be patient, persistent and present. By present, specifically meaning, in the right places and communities. 
+ You can get involved with  open source communities  through online projects on GitHub, this is a great way to get a real sense of what it can be like to work remotely and the communication and culture differences with distributed global teams. Platforms that utilise this approach to the recruiting process are emerging, where you can find out what companies are working on and you can  engage  with their projects outside of directly applying for a job. 
+ Alongside this, you can also attend events such as Hackathons or Conferences. It is actually very common for non-technical people to attend Hackathons and make significant contributions, such as design, creative and leadership. 
+ By communicating with people in these communities, engaging recruiters and putting yourself out there, it will just be a matter of time until a company is willing to take a gamble on you. 
+ Once onboard, your learning curve will steepen sharply and you will be on your way! 
+ Originally published on  www.linkedin.com 
+ Related Jobs 
+ SW - Data Center Software Architect$170K - 250KNUVIA Inc.Santa Clara, CA, US 
+ open source opensource linux kernel development arm 
+ More Info Apply 
+ Open Source Community ManagerCompetitiveWorksHubUnited Kingdom 
+ Remote 
+ business development marketing open source technical sales community engagement 
+ More Info Apply 
+ Functional Compiler EngineerCompetitiveMetastateSwitzerland 
+ Remote 
+ agda compiler compiler design compilers functional programming haskell idris open source coq agda2 compiler engineering 
+ More Info Apply 
+ Type Theorist & Formal Verification Engineer CompetitiveMetastateSwitzerland 
+ Remote 
+ agda dependent types formal methods haskell idris open source formal verification coq agda2 formal language theory type theory 
+ More Info Apply 
+ Senior Platform Engineer, Fullstack $135K - 210K + EquityBoulevardUnited States of America 
+ Remote 
+ api backend elixir frontend development graphql open source passion for functional programming postgresql react react native full stack phoenix phoenix framework 
+ More Info Apply 
+ Related Articles 
+ Why You Should Learn Functional Programming Marty Stumpf 13 January, 2021 | 3 min read | 34 boosts 
+ Haskell OCaml Blockchain Functional Programming Passion for Functional Programming Typed Functional Programming 
+ JavaScript vs Python for AI apps like ChatBot Nemanja Grubor 3 January, 2021 | 2 min read | 1 boost 
+ Python JavaScript Artificial Intelligence 
+ Working at MotoRefi - Build a Simple Way to Refinance Mihaela Popa 22 December, 2020 | 2 min read | 57 boosts 
+ Scala Clojure Haskell Python Ruby TYPESCRIPT start-up REACT JS 
+ Working at Flipside Crypto - Decode Blockchain Behaviours Mihaela Popa 21 December, 2020 | 4 min read | 75 boosts 
+ Python Go Blockchain Cryptocurrency Kafka STARTUP Spark TYPESCRIPT REACT JS 
+ Ace Your Interview: A Strategy for Coding in Interviews Adam Dangoor 15 December, 2020 | 4 min read | 83 boosts 
+ Coding Interview Preparation Interview Tips 
+ Ace Your Interview: Discussing a Software Project in an Interview Adam Dangoor 26 November, 2020 | 3 min read | 90 boosts 
+ Interview Software Engineer project 
+ Working at Ethyca - Define the Future of Data Privacy Management Mihaela Popa 25 November, 2020 | 3 min read | 61 boosts 
+ Technology startup data privacy 
+ Our Commitment to Diversity and Inclusion at Zalando Andreea Lungulescu 24 November, 2020 | 4 min read | 12 boosts 
+ Management Diverse Management Team Committed to a diverse team  Leadership diversity 
+ What I’ve learned after coding for HFT and Low Latency Systems Ariel Silahian 24 November, 2020 | 2 min read | 1 boost 
+ C++ Quantitative Engineering quantitative trading high performance computing high-throughput 
+ Related Issues 
+ WorksHub / client 
+ WorksHub / client 
+ Embed PDF into company's application view of candidate 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 16 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ $150 
+ 
+ 
+ viebel / klipse-clj 
+ viebel / klipse-clj 
+ Support PREPL format 
+ 
+ 
+ Open 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ How To Build CLJS Cache Files ? 
+ 
+ 
+ Open 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ when hosting Klipse locally, fonts are loaded from the internet 
+ 
+ 
+ Submitted 
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Golang support using Gopherjs or Joy 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 2 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ $80 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Perl support using Perlito 
+ 
+ 
+ Open 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ Advanced 
+ 
+ 
+ Clojure 
+ 
+ 
+ $80 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Klipse cannot be built with shadow-cljs 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 2 
+ 
+ 
+ Advanced 
+ 
+ 
+ Clojure 
+ 
+ 
+ $180 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Import klisp as an object 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Run computation in isolated context 
+ 
+ 
+ Submitted 
+ 
+ 
+ 1 
+ 
+ 
+ 1 
+ 
+ 
+ Advanced 
+ 
+ 
+ Clojure 
+ 
+ 
+ $300 
+ 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ 46 
+ 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Python jobs Django jobs Ansible jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Python articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

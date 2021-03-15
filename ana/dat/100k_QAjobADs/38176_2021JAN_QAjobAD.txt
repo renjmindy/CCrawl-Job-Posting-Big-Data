@@ -1,0 +1,18 @@
+  Qualification  
+ GED  15 
+ Certificate  5 
+ Associate Degree  1 
+ Bachelor Degree  7 
+ Graduate Degree  0 
+ Qualification 
+ __ Qualification GED Certificate Associate Degree Bachelor Degree Graduate Degree Master’s Degree Not Specify 
+ Schedule Preference 
+ Fixed Flexible Weekday Day Night 
+ Experience Level 
+ __ Experience Level Entry Level Mid Level Management Level 
+ __ Qualification GED Certificate Associate Degree Bachelor Degree Graduate Degree Master’s Degree Not Specify 
+ Schedule Preference 
+ Fixed Flexible Weekday Day Night 
+ Experience Level 
+ __ Experience Level Entry Level Mid Level Management Level 
+ Job Start Month 

@@ -1,0 +1,144 @@
+Mesa Sky Services Blog 
+ Web Design And Hosting 
+ 
+ Home 
+ About 
+ 
+ RSS 
+ <- Windows 7 Product Key Checker 1.0.1 
+ 10 things you can do when Windows XP won't boot -> 
+ Delete print job in Windows XP and Vista 
+ 01 Mar 
+ Have you ever run into the situation where you sent a job to the printer, but it just refused to print? You check the print job queue and everything looks fine, but nothing is happening? 
+ So either nothing happens or the print job ends up failing and USUALLY just goes away. If not, you then have to go into the print job queue and manually delete the print job, otherwise it will hold up all the new jobs coming to the printer. 
+ However, there are those few print jobs that really mess with you and simply refuse to delete! You Cancel, Delete, Remove the print job, yet it still remains in the queue. If you cannot delete a print job in Windows, you have to completely stop the print spooler service, delete the print job, and then restart the service. 
+ 
+ Note that when you stop the print spooler service and delete the print jobs, you will have to delete ALL of the current print jobs as there is no way to tell one print job from another. 
+ Step 1  : First go to  Start  , then  Run  and type in  services.msc . Scroll down to the  Print Spooler  service, right-click on it and choose  Stop . 
+ Step 2  : Now that the print spooler service is stopped, we have to go into the Windows folder where all of the print jobs are spooled and delete them. Navigate to the following  directory : 
+ 
+ C:\WINDOWS\system32\spool\PRINTERS 
+ 
+ And delete everything inside this folder. DO not delete the folder itself, just everything inside of it. This will remove all print jobs currently in the print queue. 
+ Step 3  : Now go back to the Services window and right click on the Print Spooler service and choose Start. Go back to the Print Job queue and refresh it. You should now see that all print jobs have been removed and you can start printing again normally. 
+ “Stalled Printer Repair” very useful. It does the same thing, but without having to remember how to do it manually! Works fine on XP and Vista, and can be carried around on a USB stick. It’s here:  http://www.fantasticfreeware.com/applications/stalled-printer-repair/ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Leave a comment 
+ Posted by  Mesa Sky  on March 1, 2011 in  Computers 
+ <- Windows 7 Product Key Checker 1.0.1 
+ 10 things you can do when Windows XP won't boot -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ A Few Clients 
+ 
+ Apex Cleaning & Restoration 
+ Dr. Paul Looney 
+ EZ Home Organizer 
+ Jana Briggs Counseling 
+ Josie Erb, MA, LPC 
+ Primary Builders 
+ UniWebGlobal.Com 
+ Woodlands Spanish 
+ 
+ 
+ 
+ Mesa Sky Links 
+ 
+ Islandflyer Links 
+ Mesa Sky Web Services 
+ WebTheWoodlands.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 2011 S 
+ M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 
+ 
+ 
+ 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 
+ 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 
+ 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 
+ 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 
+ 
+ 
+ 
+ 
+ « Jul   May » 
+ 
+ 
+ Create a free website or blog at WordPress.com. 
+ Entries (RSS)  and  Comments (RSS) 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

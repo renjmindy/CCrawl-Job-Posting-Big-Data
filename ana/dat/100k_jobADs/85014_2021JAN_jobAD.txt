@@ -1,0 +1,133 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ [Contract] Craft CMS Front End Developer REMOTECONTRACT 
+ Job Description 
+ £300-400 / day - Remote 
+ 3-6 month contract (extensions likely to be available) 
+ Who we are looking for 
+ We’re seeking an experienced contract / freelance Front End Web Developer to join our tight-knit agency team, and help us produce high quality, conversion and UX optimised websites for our varied range of interesting clients. 
+ You’ll be part of our remote cross-functional agency team that includes designers, copywriters and data analysts, and will be responsible for modern, best practice front end development. 
+ Our agency is a small but mighty web design and conversion optimisation studio. Rather than mindlessly churning out code, we work on a consultative, proactive basis, which our clients really value. We’ve been careful to pick clients who appreciate the quality of our work, and our friendly, professional insights. 
+ While we don’t expect you to be a fully fledged designer, you must be up to speed with UX principles and have a keen eye for good design, as there won't always be final designs provided when you're working on tweaks to existing sites. 
+ You'll be responsible for... 
+ 
+ 
+ Building  complete  website front ends based on both your UX and design ability and in collaboration with visual designs/wireframes 
+ 
+ 
+ Making  improvements  to existing sites, based on guideline briefs and using your own design ability to implement an attractive and usable solution 
+ 
+ 
+ Developing well-functioning websites, with a focus on page speed optimisation and browser/device compatibility 
+ 
+ 
+ Setting up CMS packages including intuitive and flexible content model design 
+ 
+ 
+ Troubleshooting, debug and upgrade/maintain your code 
+ 
+ 
+ Launching websites and ongoing website maintenance 
+ 
+ 
+ Producing technical documentation and accurate effort estimates for prospective projects 
+ 
+ 
+ Adding creative flair to front end templates, over and above any static designs that may be available 
+ 
+ 
+ On occasion, helping to set up and run User Testing and A/B tests using JavaScript tools 
+ 
+ 
+ You must have... 
+ 
+ 
+ Proven recent experience as a Front End Web Developer delivering the responsibilities as outlined 
+ 
+ 
+ CMS and cloud platform experience, Craft CMS and ideally Shopify 
+ 
+ 
+ Extensive understanding of core languages: JavaScript, HTML5 and CSS3 
+ 
+ 
+ Experience with modern front-end frameworks such as Tailwind, jQuery, SCSS 
+ 
+ 
+ A solid grasp of build tools and package managers (Laravel Mix, Webpack, Node, Composer) 
+ 
+ 
+ Comfortable working with and setting up Git-based push-to-deploy systems (we use DeployHQ with Server Pilot managed DigitalOcean droplets) 
+ 
+ 
+ Ability to faithfully extract designs from design tools such as Sketch and Figma 
+ 
+ 
+ UX skills and a good eye for design 
+ 
+ 
+ Organisational skills and time management to meet deadlines and raise problems at the right time 
+ 
+ 
+ A setup that enables you to work well remotely 
+ 
+ 
+ References we can take up 
+ 
+ 
+ How to Apply 
+ Please apply using the link below, along with a description of your work on your last three project descriptions, plus a covering note detailing why you feel you'd be a good fit for this position. 
+ It also wouldn't hurt to tell us why you like Craft CMS compared to some other, let's say, "popular" options. 
+ https://careers.hallway.agency/make-application?position=268 
+ At this stage we are not looking for recruitment agents or outsourcing firms, sorry if that is you. 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Hallway 
+ 
+ __ 
+ 
+ Location:  United Kingdom 
+ 
+ __ 
+ 
+ Phone Number:   02035198585 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://hallway.agency 
+ __  Posted December 9, 2020 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

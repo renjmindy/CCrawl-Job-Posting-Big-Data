@@ -1,0 +1,116 @@
+Steve Baugh - The CICS Guy 
+ Information, tips, and opinions for those lucky enough to work in a mainframe environment 
+ Skip to content 
+ 
+ Home 
+ Polls 
+ Disclaimer 
+ About 
+ 
+   
+ Tag Archives: jobs 
+ Three Big Questions for Bob Thomas 
+ Posted on  April 14, 2009  |  Leave a comment 
+ I am pleased to present the first in a series of mini-interviews, "Three Big Questions for …" That's it - just three questions to inform you about one of the leaders in today's mainframe world. 
+ Today's mini-interview is with Bob Thomas. Many in our field will recognize the name, but even more recognize his publications. I remember reading Mainframe Journal back in the day. Bob has always kept up with the times, morphing that publication to Enterprise Systems Journal to z/Journal today, and you can now find him on Twitter and LinkedIn, as well as on  his own blog site . 
+ Without further ado, here are … Three Big Questions for Bob Thomas! 
+ _Question #1: For those that may not be familiar with you and your work, can you please fill us in on your current position/responsibilities, how long you 've doing that, and any background information you'd like to share? _ 
+ I am currently publishing two magazines targeted to users of IBM mainframe computer systems: z/Journal and Mainframe Executive. In actuality, these two publications are direct descendents of my first venture into mainframe publishing in 1986 when I launched 4300 Quarterly, which became 4300 Journal when its frequency expanded (What was I thinking, GQ Quarterly is still a monthly!). I changed the name again from 4300 Journal to Mainframe Journal when we extended coverage from VSE/VM systems to include MVS. Then in September 1990, when IBM announced the System/390 (and temporarily killed the term “mainframe” in favor of “enterprise system”, I followed suit and again changed the magazine’s name to Enterprise Systems Journal with the October 1990 issue. Here we are in 2009: It's 23 years later I'm still publishing to IBM mainframe users. 
+ Please excuse the blatant plug here, but subscriptions to both z/Journal and Mainframe Executive are free worldwide. Feel free to read the latest issues at  http://zjournal.tcipubs.com/issues/zJ-DigitalF-M09.html  and  http://zjournal.tcipubs.com/issues/ME/ME.Digidition.Mar-Apr09.html . 
+ Question #2: I understand you are developing a new service to match mainframers looking for jobs with companies in need of mainframers. In these economic times, that sounds like a truly needed service. Can you tell us more about it? 
+ As I say on my LinkedIn page, I am concerned that many experienced mainframe professionals have lost their jobs recently while many mainframe shops need good people. What is frustrating is that these two groups are not finding each other very well. And in my view there is just no good way right now for them to find each other. I don’t think today’s IT recruiters are real good at bringing these two parties together very effectively. I am seriously going to look into providing a good mainframe matchmaking service whereby we bring our mainframe expertise (as well as that of several mainframe gurus) to bear on this situation. At this particular point in time, I am saddened to see so many good mainframers without jobs. I welcome comments and suggestions on this matter to bob@mainframezone.com. 
+ And finally, Question #3: What is something about you that very few people know about? 
+ Because I have been in the publishing business for over 25 years and graduated from the University of Missouri many people assume I was a Journalism major (MU has about the best J-School there is anywhere). Not true, I didn’t take a single journalism course – rather I went on a football scholarship. 
+ Leave a comment 
+ Posted in  Interviews 
+ Tagged  interview ,  jobs ,  mainframe 
+ The Right Kind of Offshoring Activity 
+ Posted on  April 13, 2009  |  Leave a comment 
+ Sallie Mae, the leading provider of student loan programs,  announced last week  that it is returning its overseas operations to the US, creating 2,000 new jobs. The jobs to be created over the next 18 months include call center, IT, and operations support positions in various communities across the country. Just the kind of news we need in this economy. If only more companies would admit it when offshoring does not result in the results desired and bring more IT jobs back to the US. 
+ Leave a comment 
+ Posted in  General 
+ Tagged  jobs 
+ 
+ 
+ I'm "the CICS guy" at our shop. Whether you are the CICS guy (or gal) in your world, a CICS developer, or one of our IBM friends, hopefully you will find something of interest or of value here. 
+ 
+ 
+ Recent Posts 
+ 
+ Another CICS Celebration (maybe) - Congrats, Hursley! 
+ Happy Birthday CICS! 45 Years and Going Strong! 
+ IBM Impact 2014 
+ z/OS Explorer and CICS Explorer 
+ Mobile Mainframe - Check It Out! 
+ 
+ 
+ 
+ Tag Cloud 
+ 
+ 
+ abend codes   abends   apar   asra   Basics   beta   blogs   cedf   CICS   CICSbuzz   cics explorer   CICSPlex   cics tips   cics transaction gateway   cmac   cobol   dst   dynamic scripting   events   EXCI   fix   green   ibm   Impact   interview   intro   IPCS   ISPF   ispf editor   java   jobs   JSON   liberty   loops   mainframe   messages   mobile   modern batch   mq   newcopy   ote   performance   PHP   racf   release information   rexx   share   soa   social networking   sun   supportpac   temp storage   Third Party Products   threadsafe   time change   trial   upgrade   utilities   VSAM   VTOC   webcast   web services   whitepaper   xpediter   z/OS   zap 
+ 
+ 
+ Categories 
+ 
+ Basics 
+ CICS 
+ cobol 
+ Education 
+ General 
+ ibm 
+ Interviews 
+ ISPF 
+ Third Party Products 
+ Uncategorized 
+ z/OS 
+ 
+ 
+ 
+ theCICSguy's Tweets 
+ 
+ Win The Ultimate Horror Fan Signed Collectibles! Including Michael Myers, Friday The 13th & Pinhead Posters & Funko…   twitter.com/i/web/status/1…   2 years ago 
+ 1886 Crescent Hotel & Spa: We enjoyed the Crescent Hotel's charm and history. Well worth ...   flip.to/72OAUm-tw  @ 1886Crescent   4 years ago 
+ @ AndrewMayne  , I just purchased  #publicenemyzero  softcover. How do I get the autographed insert you mentioned on  #weirdthings  ?  5 years ago 
+ Another CICS Celebration (maybe) – Congrats,@ Hursley !   wp.me/pjkoF-6d   6 years ago 
+ Happy Birthday CICS! 45 Years and Going Strong!   wp.me/pjkoF-6a   6 years ago 
+ 
+ 
+ 
+ CICS 
+ 
+ "Did you say mainframe?!" podcasts 
+ CICS Wiki 
+ CICS World 
+ CICS-L Listserv Archives 
+ IBMers' CICS Blog 
+ Mainframe Watch Belgium 
+ Mobile Mainframe 
+ 
+ 
+ 
+ Manuals 
+ 
+ CICS/TS 1.3 
+ CICS/TS 2.2 
+ CICS/TS 2.3 
+ CICS/TS 3.1 
+ CICS/TS 3.2 
+ CICS/TS 4.1 (PDF's) 
+ CICS/TS 4.2 (PDF's) 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

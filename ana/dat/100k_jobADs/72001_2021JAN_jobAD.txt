@@ -1,0 +1,305 @@
+
+ Topics 
+ Essentials 
+ Services 
+ Related Sites 
+ 
+ Close 
+ 
+ 
+ Home 
+ 
+ 
+ Leasing 
+ 
+ 
+ Safety 
+ 
+ 
+ Remarketing 
+ 
+ 
+ Fuel 
+ 
+ 
+ Upfitting 
+ 
+ 
+ Utility Fleet 
+ 
+ 
+ Alt-Fuels 
+ 
+ 
+ Telematics 
+ 
+ 
+ Maintenance 
+ 
+ 
+ Truck Insights 
+ 
+ 
+ News 
+ 
+ 
+ Articles 
+ 
+ 
+ Magazine 
+ 
+ 
+ Blogs 
+ 
+ 
+ Statistics 
+ 
+ 
+ Whitepapers 
+ 
+ 
+ Webinars 
+ 
+ 
+ Photos 
+ 
+ 
+ Videos 
+ 
+ 
+ Events 
+ 
+ 
+ Jobs 
+ 
+ 
+ Directory 
+ 
+ 
+ Subscription 
+ 
+ 
+ Advertise 
+ 
+ 
+ Contact Us 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Bobit Business Media 
+ 
+ 
+ Marketing Solutions 
+ 
+ 
+ Automotive Fleet 
+ 
+ 
+ Business Fleet 
+ 
+ 
+ Fleet Financials 
+ 
+ 
+ Green Fleet 
+ 
+ 
+ Government Fleet 
+ 
+ 
+ Heavy Duty Trucking 
+ 
+ 
+ __ __ __ __ 
+ Search 
+ Search 
+ 
+ News 
+ Articles 
+ Magazine 
+ Blogs 
+ Statistics 
+ Whitepapers 
+ Webinars 
+ Photos 
+ Videos 
+ Events 
+ Advertise 
+ Products 
+ Newsletter 
+ 
+ __ __ __ __ 
+  **** 
+ __ Search   Close   __ Menu 
+ Search 
+ Search 
+ 
+ 
+ __ 
+ 
+ 
+ Leasing 
+ 
+ 
+ Safety 
+ 
+ 
+ Remarketing 
+ 
+ 
+ Fuel 
+ 
+ 
+ Upfitting 
+ 
+ 
+ Utility Fleet 
+ 
+ 
+ Alt-Fuels 
+ 
+ 
+ Telematics 
+ 
+ 
+ Maintenance 
+ 
+ 
+ Truck Insights 
+ 
+ 
+ [ 
+ 
+ 
+ Update Your Address 
+ Where your issues are sent 
+ ](https://bob.dragonforms.com/init.do?pk=ICWT16&omedasite=BOB6029_WQcoa) 
+ Green Fleet 
+ Looking for an Autonomous Truck Driving Job? Waymo Is Hiring In Texas 
+ August 25, 2020  • by  Chris Brown 
+ ** 
+ Waymo divides its autonomous initiatives into two divisions: Waymo Via, focused on goods delivery in both trucking and local delivery formats, and Waymo One, its consumer ride-hailing service. 
+ ** _ 
+ Photo courtesy of Waymo. 
+ _ 
+ " Class A Truck Driver (Dallas, TX) - Autonomous Vehicle Division " the online job listing reads. Did you ever think we'd see the day? It's here. 
+ The listing was posted by Transdev, a global public transport operator. Transdev is managing the hiring for Waymo, the autonomous driving technology company, which is looking for professional drivers for its Waymo Via trucking team in its new Dallas operation. 
+ When it comes to a truck driving job, the post is unremarkable. It contains the usual requirements for a driving position, from license type and endorsements to experience and starting pay ($29 per hour). It has the obligatory "strong culture of safety, professionalism, and personal responsibility" language. 
+ Even the technology requirements -- "Must be able to multitask multiple technologies, including communications devices and vehicle status systems" -- don't give away the true nature of the job. 
+ Among a list of 45 bullet points defining the job, however, three requirements stand out to bring us into this brave, new world: 
+ 
+ Monitor automated driving software systems. 
+ Work closely with engineers, software developers, and technicians. 
+ Interact with the members of the public and educate them on self-driving technology. 
+ 
+ Yes, the traditional trucking industry is continuing to collide with autonomous driving in unique ways that are redefining how we think about the truck driving profession and the business side of autonomous transportation. 
+ Waymo plans to operate on popular Texas commercial routes traversing Interstates 10, 20, and 45. The tests out of Dallas start this week -- though Waymo says it'll gradually grow the personnel base at the Texas operation, including CDL test drivers, over time. 
+ Waymo will use the professionally licensed truck drivers in the driver's seat of Waymo's trucks to monitor the autonomous systems. A software technician who sits in the passenger seat does not require a CDL. 
+ HDT Talks Trucking podcast -   Self-driving Trucks: Savior or Scourge for Trucking ? 
+ The CDL-trained drivers must complete Waymo's standard New Driver Training program in addition to trucking-specific training, including vehicle orientation, trucking specific-lessons, and how to manage the self-driving system, Waymo wrote in response to questions from  Fleet Forward . 
+ The driver must also go through the Allen Berg Defensive Driving school and pass manual driving knowledge and skills assessments before operating the self-driving trucks. Many of the driver hires to date are industry veterans of over 20 years, Waymo wrote. 
+ As the timeline to autonomy shows an eventual transition away from traditional, behind-the-wheel driving jobs, humans will be involved with truck driving tasks surrounding autonomy for a while. 
+ Waymo's Vijaysai Patnaik, trucking product lead at Waymo, said commercially licensed drivers will continue to monitor vehicle performance from behind the wheel. "We have lots of checks and balances to understand that the system is performing as expected," he told  Heavy Duty Trucking 's  Jim Park in a recent interview. 
+ Those drivers are also responsible for pulling the truck over in the event of a law enforcement stop and for weigh station stops or surprise truck inspections, Patnaik said. 
+ These common practices will evolve along with the market. Patnaik said that Waymo and other autonomous companies are working with regulators to figure out new processes. 
+ _(Patnaik and Park will have a "fireside chat" on Waymo's initiatives as the  keynote for the 2020 virtual Fleet Forward Experience . Also, look for Park's full interview with Patnaik _ for an upcoming episode of the HDT Talks Trucking  podcast.) 
+ Texas: New Autonomous Vehicle Testing Hub 
+ For commercial drivers looking to get into opportunities in autonomy, Texas is the place to be. The state has a favorable regulatory environment for AV testing and is on par with California in terms of activity. 
+ "We are fortunate to operate in a region and state where policy officials encourage innovative problem-solving, and decisions from companies like Waymo demonstrate they recognize they can both test their technology and succeed here," wrote Tom Bamonte, NCTCOG senior program manager for the North Central Texas Council of Governments, in a statement. 
+ In January, Waymo began  mapping interstate highways in New Mexico and Texas  and launched initial tests with its long-haul trucks and retrofitted Chrysler Pacificas. 
+ In 2019, Kodiak Robotics started making its  first autonomous commercial deliveries  with a safety driver behind the wheel from a new facility in North Texas. 
+ In July, autonomous trucking technology company TuSimple has teamed up with UPS, Penske Truck Leasing, U.S. Xpress, and McLane to launch the  Autonomous Freight Network . The network's first phase will roll out with service between Dallas, Houston, and San Antonio, as well as Phoenix and Tucson. 
+ TuSimple says the network will lay the groundwork for self-driving autonomous trucks to become commercially available by 2024. Waymo, however, is not releasing a timeline to a commercial launch. 
+ Related:  Waymo Outlines Plans to Integrate Autonomous Trucking in Fleets 
+ Originally posted on  Fleet Forward 
+ __Read more about  Waymo   Autonomous Vehicles   Texas   Driver Qualification   Autonomous Technology   Drivers 
+ 0 Comments 
+ Comment 
+ Please enter a comment. 
+ Name 
+ Please enter your name. 
+ Email Address 
+ Please enter a valid email address. 
+ Post 
+ Please validate that you are human. 
+ See all comments 
+ Part Of The World’s Largest Fleet Network 
+ [ 
+ Serving Car & Truck Fleet Management Professionals 
+ ](https://www.automotive-fleet.com) 
+ [ 
+ Serving Small Fleet Owners & Managers 
+ ](https://www.businessfleet.com/) 
+ [ 
+ Serving Corporate, Executive, & Financial Managers Of Large Commercial Fleets 
+ ](https://www.fleetfinancials.com/) 
+ [ 
+ Serving Leaders In Fleet Mobility & Emerging Technology 
+ ](https://www.fleetforward.com/) 
+ [ 
+ Serving Public Sector Fleet Professionals 
+ ](https://www.government-fleet.com/) 
+ [ 
+ Serving Medium & Heavy Duty Commercial Truck Professionals 
+ ](https://www.truckinginfo.com/) 
+ [ 
+ Serving Transit Bus, Private Motorcoach, & Passenger Rail Professionals 
+ ](https://www.metro-magazine.com/) 
+ [ 
+ Serving School & Pupil Transportation Fleet Professionals 
+ ](https://www.schoolbusfleet.com/) 
+ [ 
+ Serving Vocational & Service Fleet Professionals 
+ ](https://www.worktruckonline.com/) 
+ Don't miss another story 
+ We respect your data and privacy. 
+By clicking the submit button below, you are agreeing with Bobit Business Media’s  Privacy Policy  and this outlined  level of consent . 
+ Email 
+ Submit 
+ __ 
+ __ 
+ __ 
+ __ 
+ __Search 
+ __Menu 
+ Topics 
+ Leasing 
+ Safety 
+ Remarketing 
+ Fuel 
+ Upfitting 
+ Utility Fleet 
+ Alt-Fuels 
+ Telematics 
+ Maintenance 
+ Truck Insights 
+ Essentials 
+ News 
+ Articles 
+ Magazine 
+ Blogs 
+ Statistics 
+ Whitepapers 
+ Webinars 
+ Photos 
+ Videos 
+ Events 
+ Jobs 
+ Directory 
+ Services 
+ Subscription 
+ Advertise 
+ Contact Us 
+ Feedback 
+ Privacy Policy 
+ Bobit Business Media 
+ Marketing Solutions 
+ Newsletter Sign-Up 
+ Connect 
+ __ 
+ __ 
+ __ 
+ __ 
+ (C) 2021 Work Truck Magazine, Bobit Business Media. All Rights Reserved. 

@@ -1,0 +1,74 @@
+Workable 
+ 
+ 
+ Workable is effective recruiting software for teams 
+ 
+ 
+ learn more 
+ 
+ 
+ home 
+ 
+ 
+ subscribe 
+ 
+ 
+ free 15 day trial 
+ 
+ 
+ home 
+ Over 400 job description templates at your fingertips 
+ Engineering team  |  Workable features  | March 21, 2017April 17, 2019 
+ 
+ Hello, I’m Giorgos, Product Manager here at Workable. I’ve been in the Workable team for about a year and my team is responsible for  integrations  with job boards and third party providers (more of which we’ll be talking about soon). 
+ Diverging a bit from our main focus, lately we’ve also been working on a  redesign of the job editor , aiming to make job posting easier and more efficient. 
+ The redesign had two distinct goals: 
+ 1) Increase your job approval rate 
+ Every job board has their own set of  acceptance criteria  which job posts must meet before they can be published. There are two reasons for this. The first is to protect job seekers, by ensuring that only valid and legitimate jobs are posted. The second is to improve job post performance by using the right language and adding the kind of details that will help candidates to find you. 
+ By providing a set of do’s and don'ts inside the product, and offering suggestions automatically as you type, employers can now avoid common pitfalls that might previously have delayed their posts. 
+ 2) Get higher candidate numbers for every job 
+ As we’ve repeatedly seen in the numbers, a richer job description leads to more exposure in job boards and thus more candidates. So I’m pleased to announce the second stage in this redesign. 
+ Knowing how hard it is to get started writing an effective job description, we’re helping you to take advantage of our huge resource of  400+ job description templates  right from inside Workable. They are now available directly from the Workable job editor. 
+ Here’s how it works: 
+ When you create a new job in Workable, look for, and click the link on the right hand side of the job description editor: 
+ 
+ This will bring up a window where you can search, browse and select parts from job templates that are relevant to your job title: 
+ Simply click to import the relevant sections and edit the text to better reflect the goals, values and personality of your own organisation: 
+ 
+ And we haven’t stopped there! We’ve also added two different ways for you to add benefits to your job; either import them from previous jobs you’ve created with Workable or select and import from a list of the most common benefits offered in your country. 
+ These last features wrap up the redesign for the job editor. Hopefully they'll help crush that fear of the blank page, speed things up, and provide some inspiration along the way. As we mentioned in our last post, we've found that 26% of jobs were filled by candidates applying from job boards. Job boards aren’t dead yet, so if you're posting there, make it count. 
+ I hope you enjoy using these new features as much as we've enjoyed building them—and we would definitely love to hear  your feedback ! 
+ _This post was written by  Giorgos Balafoutis. _ 
+ 
+ Useful resources 
+ 
+ How to write a job description : an extract from the  Job Posting Guide 
+ How to write a job ad: seven common mistakes to avoid 
+ Find out more about  job advertising with Workable 
+ 
+ Share 
+ 
+ Looking for an all-in-one recruiting solution? Workable can improve candidate sourcing, interviewing and applicant tracking for a streamlined hiring process. Sign up for our 15-day free trial today. 
+ Get a free trial 
+ Engineering team 
+ Workable’s Engineering team write about product releases, software updates, apps and integrations. Find out how to get the best out of our new developments and why they matter. 
+ Get jargon-free hiring advice 
+ Latest in this category 
+ 
+ Grow stronger engineering teams with HackerRank and Workable 
+ To find and hire in-demand developers with the right skill set for your team, evaluation n... 
+ Read more 
+ 
+ Introducing Workable 2.0 – and the future of hiring 
+ The next time you log in to Workable, if you haven’t already, you'll notice the enti... 
+ Read more 
+ 
+ Five big reasons to put employee referrals back on the radar 
+ The benefits of employee referral programs are well-known. They’re one of the best ways of... 
+ Read more 
+ Recruiting software for ambitious companies 
+ From candidate sourcing to applicant tracking and structured interviews, 
+Workable is trusted by over 6000 companies to streamline their recruiting. 
+ learn more 
+ Get jargon-free hiring advice 
+ from our recruitment experts 

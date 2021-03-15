@@ -1,0 +1,96 @@
+ WORKLOAD AUTOMATION COMMUNITY  
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 
+ What's new in the Workload Automation portfolio. 
+ We're always working on building new features and improving existing ones. 
+Here's where you can learn about all of our changes. 
+ A new dashboard for monitoring file transfer jobs 
+ 12/18/2020 
+ 9.5.0.3 
+ DWC 
+ Engine 
+ 
+ A new dashboard is now available for monitoring file transfer jobs. 
+ In addition to the Optimized file transfer integration, you can now download from  Automation Hub  a separate dashboards for monitoring all your file transfer jobs: 
+ File transfer dashboard: KPI 
+This dashboard is recommended if you have a large number of file transfer jobs in your environment. It contains two gauges with the most relevant statuses for jobs: error and running. The remaining statuses are available in smaller charts. A pie chart is also available for monitoring your file transfer jobs in all statuses. 
+ Double click on any chart to open a  Monitor Jobs  panel listing all file transfer jobs in the specified status. 
+ You can customize the dashboard to match your environment setup and meet all your requirements. 
+ 
+ Comments are closed. 
+ | 
+ Categories 
+ All 
+ 9.5.0 
+ 9.5.0.1 
+ 9.5.0.2 
+ 9.5.0.3 
+ Dwc 
+ Engine 
+ Mainframe 
+ On-cloud 
+ On-cloud 
+ On-premise 
+ On-premise 
+ ---|--- 
+ www.hcltechsw.com 
+ | 
+ **About HCL Software  ** 
+HCL Software is a division of HCL Technologies (HCL) that operates its primary software business. It develops, markets, sells, and supports over 20 product families in the areas of DevSecOps, Automation, Digital Solutions, Data Management, Marketing and Commerce, and Mainframes. HCL Software has offices and labs around the world to serve thousands of customers. Its mission is to drive ultimate customer success with their IT investments through relentless innovation of its products. For more information, To know more  please visit  www.hcltechsw.com .  Copyright (C) 2019 HCL Technologies Limited 
+ ---|--- 
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 

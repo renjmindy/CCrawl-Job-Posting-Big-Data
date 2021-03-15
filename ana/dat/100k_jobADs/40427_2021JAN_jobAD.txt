@@ -1,0 +1,463 @@
+__ 
+ 
+ 
+ Log In 
+ 
+ 
+ Register 
+ 
+ 
+ My Account 
+ 
+ 
+ Log In 
+ 
+ 
+ Register 
+ 
+ 
+ World Airport Codes 
+ 
+ 
+ 
+ 
+ 
+ World Top 30 Airports 
+ 
+ 
+ US Top 40 Airports 
+ 
+ 
+ UK Top 20 Airports 
+ 
+ 
+ Blog 
+ 
+ 
+ World Top 30 Airports 
+ 
+ 
+ US Top 40 Airports 
+ 
+ 
+ UK Top 20 Airports 
+ 
+ 
+ Blog 
+ 
+ 
+ Advertise with us: 
+ advertise@fubra.com   +44 (0)1252 367 218 
+ 
+ 
+ × 
+ Rio Galeão – Tom Jobim International Airport  (GIG) 
+ You can now add favourite airports. Access them in the members area by signing up! __ 
+ Rio De Janeiro, Brazil (BR) Large airport 
+ [+55 (21) 3398 5050](tel:+55 (21) 3398 5050)  Visit official website 
+ METAR 
+ NOTAMS 
+ Contact Details 
+ Runways 
+ Frequencies 
+ Operators and Destinations 
+ IATA Code  GIG 
+ ICAO Code  SBGL 
+ FAA Code 
+ Latitude  -22.8099995 
+ Longitude  -43.2505569 
+ Time Zone  America/Sao_Paulo (GMT -2:00) 
+ Weather Observations 
+ __ 
+ 
+ 
+ Station ID: 
+ 
+ 
+ SBGL 
+ 
+ 
+ Observation Time: 
+ 
+ 
+ 2021-01-17 04:00:00am 
+ 
+ 
+ METAR 
+ Full weather observations and METAR data is available to Premium users.  Register  or  log in  to a Premium account now to access this data. 
+ Notices to Airmen (NOTAMs) 
+ __ 
+ The above are dummy NOTAMs - to view live NOTAMs, please  register  or  log in  to a Premium account. 
+ Contact Details 
+ __ 
+ Phone  +55 (21) 3398 5050 
+ Fax  +55 (21) 3393 2288 
+ Runway Data 
+ __ 
+ 
+ 
+ 
+ Runway 
+ Length (feet) 
+ Width (feet) 
+ Surface Type 
+ 
+ 
+ 
+ 
+ 1 
+ 13,123 
+ 148 
+ CON 
+ 
+ 
+ 2 
+ 10,433 
+ 154 
+ ASP 
+ 
+ 
+ 
+ Frequency Data 
+ __ 
+ 
+ 
+ 
+ Type 
+ Description 
+ Frequency (MHz) 
+ 
+ 
+ 
+ 
+ APP 
+ RIO APP 
+ 119.35 
+ 
+ 
+ ATIS 
+ ATIS 
+ 127.6 
+ 
+ 
+ CLD 
+ CLNC DEL 
+ 121 
+ 
+ 
+ GND 
+ GND 
+ 121.65 
+ 
+ 
+ OPS 
+ OPS 
+ 122.5 
+ 
+ 
+ TWR 
+ TWR 
+ 118 
+ 
+ 
+ 
+ Destinations 
+ __ 
+ Rio Galeão – Tom Jobim International Airport Destinations List 
+ This list shows the 49 locations you can fly to from Rio Galeão – Tom Jobim International Airport 
+ 
+ 
+ 
+ Destination 
+ IATA 
+ Airlines Flying Route 
+ 
+ 
+ 
+ 
+ Leite Lopes 
+ RAO 
+ Changan Airlines 
+ 
+ 
+ Carrasco International /General C L Berisso 
+ MVD 
+ BQB Lineas Aereas 
+ 
+ 
+ Charlotte Douglas International 
+ CLT 
+ American Airlines, US Airways 
+ 
+ 
+ Dallas Fort Worth International 
+ DFW 
+ American Airlines, TAM Brazilian Airlines, US Airways 
+ 
+ 
+ John F Kennedy International 
+ JFK 
+ American Airlines, TAM Brazilian Airlines, US Airways 
+ 
+ 
+ Miami International 
+ MIA 
+ American Airlines, TAM Brazilian Airlines, US Airways 
+ 
+ 
+ Viracopos International 
+ VCP 
+ Azul, City Connexion Airlines, TAM Brazilian Airlines 
+ 
+ 
+ Charles de Gaulle International 
+ CDG 
+ Air France 
+ 
+ 
+ Afonso Pena 
+ CWB 
+ Air France, City Connexion Airlines, TAM Brazilian Airlines, KLM Royal Dutch Airlines 
+ 
+ 
+ Jorge Newbery Airpark 
+ AEP 
+ Aerolineas Argentinas 
+ 
+ 
+ Ministro Pistarini International 
+ EZE 
+ Aerolineas Argentinas, Emirates, City Connexion Airlines, TAM Brazilian Airlines, LAN Airlines, TAM Mercosur 
+ 
+ 
+ El Dorado International 
+ BOG 
+ Avianca - Aerovias Nacionales de Colombia 
+ 
+ 
+ Jorge Chávez International 
+ LIM 
+ Avianca - Aerovias Nacionales de Colombia, Grupo TACA 
+ 
+ 
+ Leonardo da Vinci–Fiumicino 
+ FCO 
+ Alitalia 
+ 
+ 
+ London Heathrow 
+ LHR 
+ British Airways 
+ 
+ 
+ Tocumen International 
+ PTY 
+ Copa Airlines 
+ 
+ 
+ Hartsfield Jackson Atlanta International 
+ ATL 
+ Delta Air Lines, Korean Air 
+ 
+ 
+ Las Américas International 
+ SDQ 
+ Delta Air Lines, City Connexion Airlines 
+ 
+ 
+ Quatro de Fevereiro 
+ LAD 
+ TAAG Angola Airlines 
+ 
+ 
+ Dubai International 
+ DXB 
+ Emirates 
+ 
+ 
+ Guarulhos - Governador André Franco Montoro International 
+ GRU 
+ Ethiopian Airlines, City Connexion Airlines, TAM Brazilian Airlines, Oceanair, United Airlines 
+ 
+ 
+ Santa Maria 
+ AJU 
+ City Connexion Airlines 
+ 
+ 
+ Val de Cans/Júlio Cezar Ribeiro International 
+ BEL 
+ City Connexion Airlines, TAM Brazilian Airlines 
+ 
+ 
+ Presidente Juscelino Kubistschek International 
+ BSB 
+ City Connexion Airlines, TAM Brazilian Airlines, Oceanair 
+ 
+ 
+ Marechal Rondon 
+ CGB 
+ City Connexion Airlines 
+ 
+ 
+ Congonhas 
+ CGH 
+ City Connexion Airlines, TAM Brazilian Airlines 
+ 
+ 
+ Campo Grande 
+ CGR 
+ City Connexion Airlines 
+ 
+ 
+ Tancredo Neves International 
+ CNF 
+ City Connexion Airlines, TAM Brazilian Airlines 
+ 
+ 
+ Hercílio Luz International 
+ FLN 
+ City Connexion Airlines, TAM Brazilian Airlines, Oceanair 
+ 
+ 
+ Pinto Martins International 
+ FOR 
+ City Connexion Airlines, TAM Brazilian Airlines, Oceanair 
+ 
+ 
+ Santa Genoveva 
+ GYN 
+ City Connexion Airlines 
+ 
+ 
+ Cataratas International 
+ IGU 
+ City Connexion Airlines, TAM Brazilian Airlines 
+ 
+ 
+ Presidente Castro Pinto International 
+ JPA 
+ City Connexion Airlines, TAM Brazilian Airlines, Oceanair 
+ 
+ 
+ Eduardo Gomes International 
+ MAO 
+ City Connexion Airlines, TAM Brazilian Airlines 
+ 
+ 
+ Zumbi dos Palmares 
+ MCZ 
+ City Connexion Airlines, TAM Brazilian Airlines 
+ 
+ 
+ Governador Aluízio Alves International 
+ NAT 
+ City Connexion Airlines, TAM Brazilian Airlines 
+ 
+ 
+ Ministro Victor Konder International 
+ NVT 
+ City Connexion Airlines 
+ 
+ 
+ Salgado Filho 
+ POA 
+ City Connexion Airlines, TAM Brazilian Airlines, Oceanair 
+ 
+ 
+ Guararapes - Gilberto Freyre International 
+ REC 
+ City Connexion Airlines, TAM Brazilian Airlines, Oceanair 
+ 
+ 
+ Marechal Cunha Machado International 
+ SLZ 
+ City Connexion Airlines, TAM Brazilian Airlines 
+ 
+ 
+ Deputado Luiz Eduardo Magalhães International 
+ SSA 
+ City Connexion Airlines, TAM Brazilian Airlines, Oceanair 
+ 
+ 
+ Eurico de Aguiar Salles 
+ VIX 
+ City Connexion Airlines, TAM Brazilian Airlines 
+ 
+ 
+ Adolfo Suárez Madrid–Barajas 
+ MAD 
+ Iberia Airlines 
+ 
+ 
+ Frankfurt am Main 
+ FRA 
+ TAM Brazilian Airlines, Lufthansa 
+ 
+ 
+ Comodoro Arturo Merino Benítez International 
+ SCL 
+ TAM Brazilian Airlines, LAN Airlines 
+ 
+ 
+ Amsterdam Schiphol 
+ AMS 
+ KLM Royal Dutch Airlines 
+ 
+ 
+ Lisbon Portela 
+ LIS 
+ TAP Portugal 
+ 
+ 
+ Francisco de Sá Carneiro 
+ OPO 
+ TAP Portugal 
+ 
+ 
+ George Bush Intercontinental Houston 
+ IAH 
+ United Airlines 
+ 
+ 
+ 
+ Rio Galeão – Tom Jobim International Airport Destinations Map 
+ Reviews 
+ Rio Galeão – Tom Jobim International Airport Reviews (2) 
+ Average User Rating __________ 
+ 
+ Jobim 
+ Maria Morales  February 20, 2012 at 6:11 pm 
+ I went there in 2009, it was an old big airport, however it covers all the needs for travelers; one good thing is that they have the hotel and a great restaurant, visit Rio as it is a great place to see. 
+ 
+ Gig Airport 
+ Alex Sousa  February 22, 2006 at 4:53 pm 
+ I was there three months ago. The staff at GIG is very friendly. Although Rio is a relatively dangerous city, they make sure all the access routes to and from GIG are secured. Rio de Janeiro is a Marvelous place to visit! 
+ 
+ Add your own review for Rio Galeão – Tom Jobim International  Cancel reply 
+ Review 
+ 
+ Required field 
+ 
+ Your email address will not be published. 
+ Image Upload Policy:  Images must be less than 2 Megabytes in size. Please use the Upload option for uploading airport images only. All images uploaded to World-Airport-Codes.com should be uploaded with the permission of the photographer or copyright holder. By uploading a photo to World-Airport-Codes.com both yourself and the copyright holder of the image are agreeing to the publishing of the photo on our site. In most cases it is a violation of copyright law to copy and paste an image from another website and upload it to World-Airport-Codes.com. 
+ Name * 
+ Email * 
+ Save my name, email, and website in this browser for the next time I comment. 
+ Image 
+ Rating* 1 2 3 4 5 
+ 500 characters left 
+ Search for an Airport 
+ 
+ About  | 
+ Advertising  | 
+ Private Jet Charter  | 
+ Aviation phrases & data descriptions  | 
+ Problems  | 
+ Related Links  | 
+ Contact 
+ 
+ Map powered by  Leaflet . Flag icons by  IconDrawer . Map data, imagery and information provided by  MapQuest ,  OpenStreetMap  and contributors,  CC-BY-SA . 
+  __    __    __ 
+ © 2003 - 2021  Fubra Limited , all rights reserved. 
+ This website uses cookies to ensure you get the best experience - by continuing to use our site, you are agreeing to our  use of cookies.  Accept and Close 

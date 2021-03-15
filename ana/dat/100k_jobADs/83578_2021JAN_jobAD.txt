@@ -1,0 +1,267 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Scientific Engineering Associate 
+ Lawrence Berkeley National Laboratory 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Scientific Engineering Associate 
+ Lawrence Berkeley National Laboratory 
+ [](mailto:?subject=Senior%20Scientific%20Engineering%20Associate&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14029227/senior-scientific-engineering-associate/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ October 23, 2020 
+ Location: 
+ Berkeley, United States 
+ __ Show Map 
+ Salary: 
+ Open 
+ Berkeley Lab's  Advanced Light Source  (ALS) Division is hiring for a Senior Scientific Engineering Associate (SEA). This is a multidisciplinary position that will report to the Ambient Pressure X-ray Photoelectron Spectroscopy and Chemical Sciences (APXPS & CS) Program Leader within the ALS Division. The SEA will provide complex technical support in synchrotron radiation sciences including the construction, development, and operation of soft, tender, and infrared X-ray beamlines and endstations, as well as the design, development, installation, and commissioning of X-ray spectroscopy and scattering equipment. The SEA will also provide user support, and development of new ex situ, in situ, and operando experimental systems aligned with ALS organizational goals. 
+ The ALS is a U.S. Department of Energy Office of Science national scientific user facility whose excellent scientific reputation, expert staff, and capabilities in the soft x-ray, hard x-ray, and infrared regimes attract more than 2,000 academic and industrial users each year in disciplines spanning physical, chemical, materials, biological, energy, and Earth sciences. It is one of five Berkeley Lab user facilities that serve a combined 11,000 users annually. The co-location of these user facilities - including the Molecular Foundry Nanoscale Science Research Center and the NERSC scientific computing center, as well as Berkeley Lab's outstanding programs in materials and chemical sciences among others - offers a prime environment for collaborative science. The ALS has been a global leader in soft x-ray science for more than two decades and is currently undertaking a new project (ALS-U) that will endow the facility with state-of-the-art x-ray capabilities. It's an exciting time to join our growing team! 
+ The core values of the Advanced Light Source (ALS) reflect a strong commitment to diversity, equity, and inclusion. We seek candidates who will support a culture in which the entire ALS community feels welcomed and valued. An ongoing commitment to recruiting a vibrant, diverse and talented workforce is paramount to promoting a diverse lab community. 
+ What You Will Do: 
+ 
+ 
+ In collaboration with beamline scientists, engineers, and mechanical/electrical engineers/technicians, contribute to the development of new scientific methods through maintaining, developing, and upgrading beamlines and scientific endstations. 
+ 
+ 
+ Manage and implement R&D; projects from beginning to end including planning, scheduling, and coordination of technical support, to solve a wide range of complex or difficult technical problems and improve the operation of the beamline or experiment. 
+ 
+ 
+ Troubleshoot and document beamline issues. 
+ 
+ 
+ Take responsibility for the design and implementation of scientific instrumentation, data acquisition systems, and computer control systems (such as automation) assigned projects. This will include system design, implementation, commissioning, and documentation. 
+ 
+ 
+ In assigned cases, work with the beamline scientists to learn details of the operation of APXPS & CS beamlines in order to provide additional support and backup coverage for beamline scientists and APXPS & CS user programs. 
+ 
+ 
+ Additional Responsibilities as needed: 
+ 
+ 
+ Provide software support for the control, data acquisition, and analysis codes required to operate the experimental system. 
+ 
+ 
+ Disseminate experimental and research results via oral presentations and written reports at internal meetings and when appropriate external conferences and publications. 
+ 
+ 
+ Assume responsibility for tuning, documentation, and operating beamlines or experiments for the success of user programs. 
+ 
+ 
+ Participate in ALS Division or Berkeley Lab committees and working groups as appropriate to your skills and Division needs. 
+ 
+ 
+ Maintain current knowledge of and implement relevant Laboratory, Division, and Program Conduct of Operations and Quality Assurance policies and procedures. 
+ 
+ 
+ Flexibility to perform other duties as assigned/needed. 
+ 
+ 
+ Demonstrate a commitment to the LBL principles of stewardship, safe working practices, and inclusion, diversity, equity, and accountability 
+ 
+ 
+ What is Required: 
+ 
+ 
+ Bachelor's degree or equivalent knowledge in Material Science, Physics, Chemistry, Engineering, or a related field and a minimum of 3 years of related work or educational experience. 
+ 
+ 
+ Ability to work independently, innovative, and design, guide and support users' experiments from initiation to meaningful conclusion in collaboration with a team of engineers, physicists, technical support staff, postdocs, and students. 
+ 
+ 
+ Knowledge and experience in designing, operating, and maintaining scientific instrumentation in multiple types of systems including mechanical, electrical, vacuum, data acquisition, and computer-controlled systems. 
+ 
+ 
+ Experience implementing and managing R&D; projects, including planning, scheduling, and coordinating resources to achieve project goals. 
+ 
+ 
+ Demonstrated experience in the operation of sophisticated research equipment. The core focus will revolve around photoelectron spectroscopy. Thus, experience, knowledge, and/or desire to learn this specific scientific instrumentation will be required. 
+ 
+ 
+ Proficiency in writing software code and computer-aided design (CAD). 
+ 
+ 
+ Ability to effectively document, present, and summarize results of research and development activities. 
+ 
+ 
+ Demonstrated ability to proactively develop and implement solutions to a variety of technical problems. 
+ 
+ 
+ Desired Qualifications: 
+ 
+ 
+ Master's, PhD, or additional experimental experience in Material Science, Physics, Chemistry, Engineering or related field. 
+ 
+ 
+ Knowledge of synchrotron or x-ray radiation experimental techniques and methods in Material Science or Chemistry. 
+ 
+ 
+ Advanced knowledge of the principles and practices of synchrotron radiation beamlines. 
+ 
+ 
+ Machine shop experience. 
+ 
+ 
+ Python and LabView. 
+ 
+ 
+ Experience using scientific software. 
+ 
+ 
+ For full consideration, please apply by November 16th, 2020.   However, this posting will remain open until filled. 
+ Notes: 
+ 
+ 
+ This is a full-time career appointment, exempt (monthly paid) from overtime pay. 
+ 
+ 
+ This position will be hired at a level commensurate with the business needs and the skills, knowledge, and abilities of the successful candidate. 
+ 
+ 
+ This position may be subject to a background check. Any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position. Having a conviction history will not automatically disqualify an applicant from being considered for employment. 
+ 
+ 
+ Work will be primarily performed at Lawrence Berkeley National Lab, 1 Cyclotron Road, Berkeley, CA. 
+ 
+ 
+ Equal Employment Opportunity: Berkeley Lab is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. Berkeley Lab is in compliance with the Pay Transparency Nondiscrimination Provision under 41 CFR 60-1.4. Click  here  to view the poster and supplement: "Equal Employment Opportunity is the Law." 
+ Lawrence Berkeley National Laboratory encourages applications from women, minorities, veterans, and other underrepresented groups presently considering scientific research careers. 
+ 
+ 
+ Internal Number: 91327 
+  __  Create a Job Alert for Similar Jobs  
+ About Lawrence Berkeley National Laboratory 
+ In the world of science, Lawrence Berkeley National Laboratory (Berkeley Lab) is synonymous with excellence. Thirteen scientists associated with Berkeley Lab have won the Nobel Prize. Fifty-seven Lab scientists are members of the National Academy of Sciences (NAS), one of the highest honors for a scientist in the United States. Thirteen of our scientists have won the National Medal of Science, our nation's highest award for lifetime achievement in fields of scientific research. Eighteen of our engineers have been elected to the National Academy of Engineering, and three of our scientists have been elected into the Institute of Medicine. In addition, Berkeley Lab has trained thousands of university science and engineering students who are advancing technological innovations across the nation and around the world. Berkeley Lab is a member of the national laboratory system supported by the U.S. Department of Energy through its Office of Science. It is managed by the University of California (UC) and is charged with conducting unclassified research across a wide range of scientific disciplines. Located on a 200-acre site in the hills above the UC Berkeley campus that offers spectacular... views of the San Francisco Bay, Berkeley Lab employs approximately 4,200 scientists, engineers, support staff and students. Its budget for 2011 is $735 million, with an additional $101 million in funding from the American Recovery and Reinvestment Act, for a total of $836 million. A recent study estimates the Laboratory's overall economic impact through direct, indirect and induced spending on the nine counties that make up the San Francisco Bay Area to be nearly $700 million annually. The Lab was also responsible for creating 5,600 jobs locally and 12,000 nationally. The overall economic impact on the national economy is estimated at $1.6 billion a year. Technologies developed at Berkeley Lab have generated billions of dollars in revenues, and thousands of jobs. Savings as a result of Berkeley Lab developments in lighting and windows, and other energy-efficient technologies, have also been in the billions of dollars. Berkeley Lab was founded in 1931 by Ernest Orlando Lawrence, a UC Berkeley physicist who won the 1939 Nobel Prize in physics for his invention of the cyclotron, a circular particle accelerator that opened the door to high-energy physics. It was Lawrence's belief that scientific research is best done through teams of individuals with different fields of expertise, working together. His teamwork concept is a Berkeley Lab legacy that continues today. 
+ Show more 
+ Show less 
+ Connections working at Lawrence Berkeley National Laboratory 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Controls Software Engineer 
+ __  Upton, New York 
+ 
+ 
+ 
+ 
+ Brookhaven National Laboratory 
+ __5 Days Ago 
+ 
+ 
+ Assessment Management Program Lead 
+ __  Golden, Colorado 
+ 
+ 
+ National Renewable Energy Laboratory (NREL) 
+ __1 Week Ago 
+ 
+ 
+ Electrical Safety Work Practice Expert 
+ __  Upton, New York 
+ 
+ 
+ Brookhaven National Laboratory 
+ __2 Weeks Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

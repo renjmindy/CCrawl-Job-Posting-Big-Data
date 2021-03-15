@@ -1,0 +1,111 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Manager, Software Development - (Search) 
+ Loblaw Digital 
+ __Toronto, ON 
+ Apply Now 
+ At Loblaw Digital, we know that our customers expect the best from us. 
+ Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we're up for the challenge. 
+From our office in Downtown Toronto, we've created leading eCommerce experiences in the online grocery shopping, beauty, and apparel spaces, and we're only just getting started. 
+You will be leading the Search Team that works on software powering Loblaw's 
+online grocery and marketplace search experiences. You will hold responsibility for 
+identifying bottlenecks in the process and roadblocks to success for the team and 
+clearing these roadblocks. 
+Working from our downtown office, you will report to the Director of Software 
+Engineering and will lead the team to build, improve, and maintain a world-class, 
+multi-channel e-commerce platform. 
+This is a rare opportunity to lead a team that 
+will build new technology that will operate at a massive scale and impact the lives 
+of millions of Canadians 
+ About us: 
+We work in cross-functional teams where team members have direct impact on what is being built 
+We simplify our work processes as much as we can and understand distributed work culture and its challenges 
+We choose the tools we use according to the needs of each task 
+We share our knowledge; we discuss what we learn 
+We organize company meet-ups, hackathons and weekly tech-talks 
+ Technologies and tools we use: 
+Java, Spring Framework, Junit 
+ElasticSearch 
+Docker, Kubernetes, Helm 
+CI/CD (GitLab) 
+Prometheus and Grafana 
+ Google Cloud Platform:  Pub/Sub, BigTable, etc. 
+What You'll Do 
+Cultivate a deep understanding of the portfolio of applications we utilize, along with their respective strengths and weaknesses, to provide solutions to existing and future challenges. 
+Construct design documents and documentation to aid in maintenance and code reuse. 
+Lead technical architecture for a whole component and/or cross-functional team. 
+Define the long-term vision for the team's component. 
+Translate project goals and product roadmaps into organized technical tasks. 
+Through your knowledge of industry trends and tools, together with your own experiences, guide the team to improve our software, our environment, and our process 
+Provide guidance and direction to the development team to tear down obstacles and keep initiatives on target and moving forward 
+Coach and mentor developers in the team through technical design sessions, code reviews and pair programming 
+Provide technical guidance and support in resolving critical production issues 
+Collaborate with business and product stakeholders to successfully deliver new features and capabilities. 
+Align the team's work with the company's strategic and tactical goals. 
+Have one-on-one meetings with developers. 
+Conduct performance reviews. Set accountability for team members. 
+Shield the team from distractions. 
+Establish standards for code and systems. 
+Does this sound like you? 
+ Minimum Qualifications: 
+A degree in Computer Science or a combination of equivalent experience with a college diploma 
+1-2 years of engineering management experience 
+5+ years of active software development experience in Java 
+1-2 years of experience with ElasticSearch 
+Solid experience with building and maintaining RESTful APIs 
+ Nice to have: 
+Experience with full-stack development 
+Practical experience with queue managers i.e. RabbitMQ, Pub/Sub, and/or similar 
+Deploying, observing and monitoring production Java applications 
+Experience with NoSQL databases 
+Some understanding of cloud architecture in GCP 
+ Ideally you are someone who: 
+is opinionated about what it takes to produce great software, but remains receptive to other's ideas 
+can develop complex consumer facing software using Java, Spring Framework and cloud technologies 
+cares about ownership. You proactively seek out bugs and fix them. Occasionally, when bugs find you, you don't sweep them under the rug 
+is experienced with software estimation, often confronted with complexity and uncertainty 
+makes decisions based on data. You are well versed with tools to measure every aspect of the application 
+has developed large applications in a team environment and are comfortable working in a very collaborative team setup 
+is a great communicator. You can present complicated solutions to non-technical audience in a simple and logical way 
+has strong understanding of security architecture 
+has solid understanding of how client-server applications interact 
+understands and values modern approaches to code quality 
+How you’ll succeed 
+ At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. 
+ You will get to work with some of the best digital minds and will have the support of world class technologies to craft products our customers will love! 
+ Loblaw Digital recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. 
+In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

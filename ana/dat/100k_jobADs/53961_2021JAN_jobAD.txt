@@ -1,0 +1,178 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Python Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ PythonWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Software Engineer - DAML Application Runtime 
+ [ 
+ Digital Asset 
+ ](/companies/digital-asset) 
+ New York, NY, US 
+ 22 January, 2021 
+ Apply 
+ More jobs from Digital Asset About Digital Asset 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Clojure 
+ Haskell 
+ Java 
+ Kotlin 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Generous pto 
+ Full healthcare coverage 
+ Stock options 
+ Pension 
+ Parental leave 
+ 401k 
+ Competitive salary 
+ 
+ This team is responsible for all software and tooling used in the development of Ledger client applications. 
+ Role overview 
+ The DAML Application Runtime team is responsible for all software and tooling used in the development of Ledger client applications. This ranges from JavaScript code generation and libraries used in UIs, to frameworks that abstract over common tasks and provide simpler APIs to users to services, and APIs to implement and deploy ledger automation. 
+ As a software engineer on the DAML Application Runtime team, you have the unique opportunity to build an ecosystem of tools that enable an exciting new class of smart contract, distributed ledger applications. You’ll develop the tools, APIs and frameworks used in the development of smart contract applications. You will get to extend and improve existing software as well as develop entirely new services to address the issues faced by DAML users in their applications. 
+ Key Responsibilities 
+ 
+ Work on frameworks and tooling used directly by customers in their ledger client applications 
+ Deliver high quality and well-tested code efficiently and at pace in a Scala-focused codebase 
+ Address production requirements from customers by making services more reliable and easier to inspect 
+ Follow a collaborative approach that fosters, embraces, and insists upon diverse perspectives. We are a team where everyone pulls more than their weight, where everyone matters and all opinions are valuable. 
+ 
+ Key Criteria 
+ 
+ Proven history of delivering services running in a production setup. 
+ Excellent programming skills and experience in at least one modern and/or functional programming language, ideally on the JVM, including, but not limited, to Java 8+, Scala, Kotlin, Haskell. 
+ Experience instrumenting applications for production usage, e.g., adding logging, metrics and tracing functionality. 
+ Self reliant and thrives on continuous learning. 
+ Experience working in an open source environment. 
+ 
+ About Digital Asset 
+ Digital Asset helps companies of all sizes and across industries get distributed applications to market faster, and stay there longer. At the core of our service offering is DAML (daml.com), the open source and platform-independent smart contract framework that enables developers to write an application once and deploy it anywhere. Today, we work with some of the largest companies in the world to harness the transformative power of smart contracts - a component of the distributed ledger technology (DLT) stack - and change the way applications are developed, deployed and used to solve real-world business challenges. 
+ Digital Asset is a global company with offices in New York, London, Budapest, Zurich, Hong Kong, and Sydney. 
+ As we grow our team, we will maintain the dynamic, collaborative and pragmatic way of working that has grounded our efforts from the beginning. If you seek to develop solutions others have yet to contemplate, this opportunity may be right for you! 
+ 
+ [ 
+ Digital Asset 
+ ](/companies/digital-asset) 
+ 
+ 
+ 50-249 
+ 
+ 
+ New York, NY, US 
+ 
+ 
+ Digital Asset is on a mission to create the global economic network of seamlessly interconnected businesses. By building a state-of-the-art platform and developer tools and leveraging the best modern infrastructure providers, we can change how businesses interact. Ambitious teams — from startups to the enterprise — are joining the network to build fundamentally new applications that span industries. The changing nature of business Businesses are more interconnected than ever before, and current technologies enable data replication but not shared processing. Inaccessible assets, undifferentiated replication, and incompatible APIs lead to duplicated efforts and siloed infrastructure. There is a better way. Digital Asset’s global economic network enables teams to get to market faster, focus on their core value, and unleash web-paced innovation for all industries. Backed by global innovation leaders Digital Asset is backed by 17 strategic investors, including leading financial and technology companies that are uniquely positioned to help drive the adoption of Digital Asset’s developer tools and DLT solutions on a global scale. 
+ Java C++ JavaScript Technology Early Stage Venture distributed ledger technology DAML Generous PTO Full Healthcare Coverage 
+ View 14 jobs 
+ Engineers who find a new job through Python Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Digital Asset About Digital Asset 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Clojure 
+ Haskell 
+ Java 
+ Kotlin 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Generous pto 
+ Full healthcare coverage 
+ Stock options 
+ Pension 
+ Parental leave 
+ 401k 
+ Competitive salary 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Solutions EngineerCompetitiveDigital AssetNew York, NY, US 
+ Digital Asset is on a mission to create the global economic network of seamlessly interconnected businesses. 
+ daml distributed ledgers haskell java scala agile 
+ More Info Apply 
+ Scala Backend Developer$80K - 150K + EquityNarrativeUnited States of America 
+ Join an experienced team that is shaping the future of data. 
+ Remote 
+ aws haskell scala 
+ More Info Apply 
+ Data Engineer$100K - 175KSpotifyNew York, NY, US 
+ Data driven solutions for millions of music fans across the world 
+ data engineering java scala spark 
+ More Info Apply 
+ Software Engineer - DAML Application Runtime 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Python jobs Django jobs Ansible jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Python articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

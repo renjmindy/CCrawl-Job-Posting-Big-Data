@@ -1,0 +1,55 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ OpenSea (W18) 
+ OpenSea is the first and largest marketplace for digital goods. 
+ Software Engineering Intern 
+ 
+ Location 
+ New York, NYC / Remote 
+ Job Type 
+ Internship 
+ Experience 
+ About OpenSea 
+ We’ve built the first (and largest) peer-to-peer marketplace for crypto assets, which include collectibles, gaming items, digital art, domain names, event tickets, and other assets backed by a blockchain. We're operating in a brand-new market but growing rapidly: we've had over $28 million in trading volume on our site since launch, over 12 million assets listed on our marketplace, 300+ apps using our platform, and we power the crypto asset integration for Coinbase Wallet and Opera. 
+ Our team has backgrounds from Stanford, Palantir, Pinterest, and Google, and is funded by YCombinator, Founders Fund, Coinbase Ventures, 1Confirmation, and Blockchain Capital. 
+ About the role 
+ Skills:  JavaScript, Python, PostgreSQL 
+ We're looking for an detail-oriented software engineer intern with an enthusiasm for building feature-rich, well-tested, and polished web applications using component based frameworks like React. This individual will spearhead building the OpenSea marketplace platform, as well as our developer integrations. 
+ As an early engineering intern, you'll have broad ownership over the OpenSea product. 
+ Here's what you can expect from us: 
+ 
+ A collaborative working environment with a front row seat to an amazing growth story. 
+ A strong culture of authenticity, transparency, and encouragement for personal and intellectual growth. 
+ Prioritization of strategic decision making and long-term value creation, amidst a noisy industry. 
+ Eagerness to run small experiments, iterate quickly, be proven wrong, and update our beliefs on new evidence. 
+ An inside view in the evolving blockchain industry and connections to the NYC crypto startup ecosystem. 
+ 
+ Technology 
+ React, GraphQL, Python, Elasticsearch, Ethereum, Web3 
+ Other jobs at OpenSea 
+ Software Engineering Intern 
+ intern 
+ New York, NYC / Remote 
+ Full Stack 
+ Sophomore and above 
+ Full Stack Software Engineer 
+ fulltime 
+ New York City / Remote 
+ Full Stack 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

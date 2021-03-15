@@ -1,0 +1,36 @@
+Skip to primary content 
+ Giorgi Mekerishvili 
+ The Pennsylvania State University 
+ Search 
+ Main menu 
+ 
+ CV 
+ Research 
+ Contact 
+ 
+ Research 
+ Working Papers 
+ 1. Commitment vs Flexibility in Information Disclosure: The Case of Kickstarter (PDF) 
+ (Job Market Paper) 
+ Abstract:  An important function of a crowdfunding platform is to reduce the asymmetric information between entrepreneurs and investors. But can the platform be trusted? Investors believe the platform only to the extent that it’s incentives align with their own. Using data from Kickstarter, a leading crowdfunding platform, I develop a statistical test confirming that platform’s incentives undermine credibility of its signals, propose regulations that would curb those incentives, and quantify their welfare consequences. These regulations allow the platform to commit to an information disclosure rule and lead to Pareto improvements. Finally, I show that the platform’s reputation could substitute for commitment and provide a rationale for why this does not occur in the real world. 
+ 
+ 2. Optimal Disclosure on Crowdfunding Platforms (PDF) 
+ Abstract:  I study the tradeoff between innovation and investor protection on crowdfunding platforms. Informing investors about the potential risks of a given investment opportunity protects them from failure, but comes at the cost of dissuading innovation. I show that a regulator, who values investor protection, may find it optimal to choose disclosure requirements that are not fully informative about projects. Partial disclosure enables investors to commit to sometimes fund bad projects encouraging further innovation. I provide necessary and sufficient conditions, under which a profit motivated platform would set investor-optimal disclosure requirements. Optimal dynamic regulatory experiment also is studied. 
+ 
+ 3. Microtargeting Rational Voters (PDF) 
+ Abstract  _  : _ Microtargeting refers to collecting information on voters’ characteristics and using it to approach them with personalized messages. In a model of electoral competition, I study implications of microtargeting campaigns for voter turnout and political awareness. I provide conditions on a class of campaigning technologies, under which better informed voters are more likely to vote, but higher political awareness of an electorate (larger size of informed electorate) does not necessarily lead to a higher voter turnout. These conditions can be interpreted as requiring either a sufficiently high political awareness in the electorate, before the campaigning starts, or a low level of elite polarization. To address the debate on the importance of understanding why people vote, I consider two models of voter’s behavior: instrumental and expressive voting. I identify conditions, under which the candidates’ equilibrium campaigning behavior is the same across the two models. 
+ 
+ 4. A Fair Punishment (PDF) 
+ Abstract:  Completion of large-scale public projects require effort from a sequence of office-motivated public officials. Since the effort exerted by each official is often difficult to verify, it is hard to say who is responsible for a project’s outcome. How should a society discipline public officials in such situations? In a dynamic citizen-candidate model with multi-period projects and persistent agency friction, I characterize the unique public official firing rule that achieves the first best, for the highest possible misalignment of interests between society and appointed officials, is Markovian and trembling-hand perfect. The rule completely ignores the midterm project signals and conditions punishment (firing) only on the end of the project outcomes. Under this rule, it is always the case that only one official is in charge of a given project from its commencement to the completion. This eliminates the need for the society to figure out who is responsible for a given project’s outcome. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+  Create a website or blog at WordPress.com  
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

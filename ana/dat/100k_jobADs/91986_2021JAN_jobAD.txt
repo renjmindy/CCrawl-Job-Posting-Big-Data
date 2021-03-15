@@ -1,0 +1,440 @@
+Skip to content 
+ 
+ mymotorwheels 
+ For the auto enthusiasts who are crazy enough to change the world. 
+ Menu 
+ 
+ About 
+ Automotive Jobs 
+ Travel 
+ Spares and Services @Visakhapatnam 
+ 
+   
+ Tag: Automotive Jobs California 
+ [Jobs]Current Openings at AutoVitals Inc California 
+ About AutoVitals: 
+ AutoVitals is an  automotive repair shop management systems  provider based out of Goleta city, California, U.S.A. Founded in 2009, AutoVitals focuses on the Independent Automotive Aftermarket to deliver high-value management and engagement service to thousands of shop owners and service advisers. 
+ Job Postings by AutoVitals: 
+ 1. Systems Administrator 
+ AutoVitals is seeking a System Administrator for both our co-located and cloud based Software as a Service (Saas) infrastructure. You will join our company in growing our team and enhancing our customer service to our clients. 
+ An ideal candidate understands the importance of meeting and exceeding client expectations, and building great relationships with fellow technical support staff and engineering. This position reports to the Head of Operation. Requested skills include close attention to detail, a high level of organization, a positive attitude and a passion for learning. The following skills obtained and honed in at least 3-5 years of running a comparable or bigger system than ours include 
+ 
+ Network Building Architecture Knowledge 
+ Knowledge of applications for the following protocols: TCP/IP (HTTP, FTP, DNS, SMTP) 
+ Knowledge of securing networks and applications on the server 
+ Knowledge of Windows OS family client and server 
+ Administration for Windows Domain and Windows Servers 
+ Knowledge of Hyper-V and cluster management 
+ Writing Scripts for server administration 
+ Knowledge of Windows Server Roles (IIS, FTP and so on) 
+ IIS clustering architecture and management 
+ Certificates for IIS and HTTPS setup and management 
+ Working knowledge with cisco 5505, 5510 through ASDM and console 
+ Server monitoring using Microsoft SCOM or *nix Zabbix 
+ Ability proactively find and fix problems errors or potential issues with all mentioned above. 
+ 
+ Skills/Qualifications: 
+ 
+ Capacity for explaining abstract, technical concepts in various contexts 
+ Ability to quickly adapt and think critically in a dynamic, fast-paced environment 
+ Actively identify indicators of system performance and determine actions necessary to improve/correct performance 
+ Excellent analytical and complex problem solving skills 
+ Self Starting with strong organizational skills, 
+ 
+ To apply for this position upload your resume and cover letter using the form at  www.autovitals.com/contact  or you may email to careers@autovitalsinc.com 
+ 
+ 2. Account Manager 
+ We are currently looking for a motivated, personable Account Manager to join our team. 
+ The Account Manager will serve as the primary point of contact for his/her clients. The position involves building and maintaining relationships with our clients through engaging and interactive training sessions, walking them through implementation and setup, advising on effective business practices utilizing modern technology and tools, and addressing any concerns or questions that may arise. 
+ Duties and Responsibilities include: 
+ 
+ 
+ Assisting clients through setup and provide training to encourage best practices and maximize potential benefits. 
+ 
+ 
+ Interacting with clients to answer questions and identify and resolve any potential issues 
+ 
+ 
+ Manage all inbound and outbound customer inquiries (email chat, phone) 
+ 
+ 
+ Manage communication to both the client and internal teams regarding status of open issues and projects 
+ 
+ 
+ Work with internal teams to provide timely resolution of all client support issues 
+ 
+ 
+ Regularly follow up and serve as the primary point of contact to ensure overall customer satisfaction 
+ 
+ 
+ Conduct customer satisfaction survey collecting data to improve our suite of products and services 
+ 
+ 
+ Desired Skills and Knowledge: 
+ 
+ 
+ At least 1 year of customer service experience and demonstrate an ability to build and maintain positive relationships with clients 
+ 
+ 
+ Excellent written and verbal communication skills, is adept at communicating effectively and professionally 
+ 
+ 
+ Is analytical and a creative problem-solver 
+ 
+ 
+ Ability to adapt and think critically in a dynamic, fast-paced environment 
+ 
+ 
+ Self-starter with strong organization and time management skills 
+ 
+ 
+ Team player with an ability to take charge 
+ 
+ 
+ Interest in web presence development, technology and software a plus, but not required 
+ 
+ 
+ This position is ideal for anyone who understands the importance of building relationships with customers and meeting and exceeding their expectations. If you enjoy interacting with others, thrive in a fast-paced work environment and are eager to tackle challenges, we would love to hear from you! 
+ To apply for this position upload your resume and cover letter using the form at  www.autovitals.com/contact  or you may email to careers@autovitalsinc.com 
+ 
+ 3.Website Authoring Software Developer 
+ Programmer Job Purpose:  Development of website authoring platform for 1,000s of websites. 
+ Programmer Job Duties: 
+ 
+ 
+ Confirms project requirements by reviewing program objective, input data, and output requirements with analyst, supervisor, and senior developer. 
+ 
+ 
+ Edits output of authoring system to keep up to date with changing website layouts. 
+ 
+ 
+ Work closely with web developers to adjust authoring system for new features. 
+ 
+ 
+ Work with SEO experts to develop new SEO elements based on existing data points 
+ 
+ 
+ Create new data points based on SEO and web development needs. 
+ 
+ 
+ Maintains historical records by documenting program development and revisions. 
+ 
+ 
+ Ensures operation of equipment by following manufacturer’s instructions; troubleshooting malfunctions; calling for repairs; evaluating new software and techniques. 
+ 
+ 
+ Contributes to team effort by accomplishing related results as needed. 
+ 
+ 
+ Skills/Qualifications: General Programming Skills, Analyzing Information , Problem Solving, Software Algorithm Design, CSS, HTML, .net,  asp.net , understanding of building blocks of the website 
+ To apply for this position upload your resume and cover letter using the form at  www.autovitals.com/contact  or you may email to careers@autovitalsinc.com 
+ 
+ 4.Product Design & UX 
+ AutoVitals is seeking a Lead Product Designer to join our team building the best shop productivity tools known to the modern world. Do you love tackling large problems and breaking them down into simple solutions? Are you passionate about creating easy-to-use, dynamic and engaging experiences? Does mobile, social, big data and high volume SaaS excite you? 
+ JoinAutoVital’s design team as a Lead Product Designer where you will help envision, define and design the future of all AutoVitals products. By focusing on the user first you will help revolutionize how people connect with their desired brands. We are making big things happen – are up to the task? 
+ Responsibilities: 
+ 
+ Apply user-centered design practices to create simple-to-use and engaging product experiences 
+ Build strong relationships with stakeholders throughout the organization 
+ Partner with product management to define the problems/solutions, requirements and prioritization 
+ Work collaboratively with engineering through pixel perfect implementation 
+ Have broad impact on the entire design team, helping to define process, principles, vision and mission in addition to day-to-day mentoring 
+ Lead end-2-end (concept to prototype to pixel perfect implementation) product design workstream 
+ Thoughtfully rationalize your design decisions taking into account technical limitations and business priorities 
+ Participate in conceptual design of next- and next-next-generation versions of the products 
+ Serve as a product evangelist with Marketing, Sales, and the go-to-market organizations to help them understand the vision, roadmap and best practices 
+ Travel 5-10% to customers and prospects 
+ 
+ Requirements 
+ To be successful in this role, we are looking for someone with: 
+ 
+ Self-motivated and solid conceptual design skills, a broad, artistic view of the world 
+ Excellent listening, oral, and written communication skills; strong interpersonal and persuasion skills 
+ Demonstrate a working knowledge of interaction principles, patterns, and trends 
+ Expert in UI Design, Information Architecture, Human-Computer Interaction and Conceptual Design 
+ Expert in Adobe Creative suite and other prototyping tools 
+ Knowledge of HTML5, CSS3, and some JavaScript is preferred 
+ Experience with Mobile UI and responsive design a big plus 
+ 5+ years of experience in Software Design 
+ Bachelor’s degree or equivalent experience (Design, Human-Computer Interaction, Industrial Design or similar degrees preferred) 
+ 
+ To apply for this position upload your resume and cover letter using the form at  www.autovitals.com/contact  or you may email to careers@autovitalsinc.com. 
+ 
+ 5.Full time Experienced Sales Representativ e 
+ AutoVitals is looking for a dynamic addition to our growing Sales Staff. Candidates with software sales or automotive repair management expertise are highly desirable. AutoVitals provides an integrated suite of tools that support customer acquisition, customer retention and shop workflow process improvement.Candidates with the following experience are highly desirable:Automotive Software Sales, which may include: Point of Sale, Labor scheduling, Inventory, Ordering systems or Payroll services and/or Repair shop management experience, or equivalent. **** Only applicants with the following essential skills and experience will be considered  : 
+ 
+ Applicant must understand or be able to learn repair shop workflow processes, must be curious and comfortable working with shop owners on the phone 
+ Must be a good listener and a natural problem solver. 
+ Strong desire to help business owners succeed. 
+ Must be adept in use of Excel, Word, Internet research and email. Will preferably have experience with WebEx and CRM tools. 
+ Must have excellent communication skills including face-to-face and telephone 
+ Must be self-driven, results-oriented with a positive outlook and a clear focus on high quality performance and business profit 
+ Must be able to effectively work from your home office without distraction. 
+ A natural forward planner who critically assesses own performance 
+ Mature, credible, and comfortable in a fast paced results driven environment 
+ Professional demeanor and appearance 
+ Sufficiently mobile and flexible to travel up to a few days a month within the US if necessary 
+ Keen for new experiences, responsibility, and accountability 
+ 
+ Compensation for this position includes a base salary + commissions: this creates an unlimited earning potential. Expense reimbursement is provided as well. 
+ Please send resumes with the subject line “  Sales Representative Santa Barbara  ” to careers@autovitalsinc.com. Only resumes with this subject will be considered. 
+ 
+ 6.Sales Development Representative 
+ Do you love to talk on the phone? 
+ Do you enjoy helping others? 
+ Are you a confident, curious and ambitious self-starter excited about a career at a fast-growing SaaS company? 
+ AutoVitals is looking to grow our Sales Development team which assists in the creation of new sales pipeline. By consulting with prospects, understanding their needs and making a great first impression, our SDRs help identify the natural next steps that guide our leads towards a partnership that will revolutionize their business. Each SDR that joins AutoVitals is given the tools and opportunity to succeed, and the top performers are put on a career path to become a Sales Representative. 
+ Responsibilities include: 
+ 
+ Outbound prospecting via telephone and email 
+ Maintain call volume of 50 – 75 calls per day to qualify leads and create pipeline for Sales 
+ Update and maintain Sales CRM, including data discovery tied to marketing initiatives 
+ Learn and become proficient with AutoVitals sales process 
+ Consistently achieve monthly goals 
+ 
+ Qualifications: 
+ 
+ Exceptional level of drive and passion for results 
+ Willingness to learn new skills and build a career in sales 
+ Strong verbal and written communications skills 
+ 1-2+ years of work experience 
+ Experience working in software or sales environment desired 
+ BS/BA degree preferred 
+ Experience with use of customer relationship management databases a plus 
+ 
+ Benefits 
+ 
+ Commission structure that allows you to earn upwards of $50k a year 
+ Great Startup company culture 
+ Dog friendly office 
+ Free food and kitchen 
+ large new office in the Goleta tech park 
+ extensive opportunity to grow and excel 
+ 
+ This is a full time position (40/hr a week), hourly + GREAT commission structure. The Sales Development role at AutoVitals is an important component to the success of our sales teams and our business. It is also a great opportunity for people new or early in their technology careers to learn Sales and gain business experience at an exciting and burgeoning SaaS company. 
+ To apply for this position upload your resume and cover letter using the form at  www.autovitals.com/contact  or you may email to careers@autovitalsinc.com. 
+ 
+ 7.SEO Internship 
+ AutoVitals Inc. is currently seeking an SEO Intern to join our Search Engine Optimization team at a fast growing online marketing company. As a background, we provide marketing services for auto repair shops all across the country. 
+ The day to day tasks for the intern will be researching SEO topics, entering businesses in business directories, and improving the automated system to promote businesses. No previous work experience is necessary, the main quality of a successful candidate is the ability to be diligent, document your activities and be a motivated and logical thinker. 
+ 10-40 hours a week 
+ To apply for this position upload your resume and cover letter using the form at  www.autovitals.com/contact  or you may email to careers@autovitalsinc.com 
+ 
+ For more details visit  AutoVitals.com 
+ Share this: 
+ 
+ Facebook 
+ WhatsApp 
+ Twitter 
+ LinkedIn 
+ Print 
+ More 
+ 
+ 
+ 
+ Reddit 
+ Email 
+ 
+ 
+ Skype 
+ 
+ 
+ Tumblr 
+ 
+ 
+ Pinterest 
+ 
+ 
+ Pocket 
+ 
+ 
+ Telegram 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Author   Prasanth Chunduri Posted on  December 5, 2016December 5, 2016 Categories  Automotive Jobs Tags  Account Manager Job ,  Automotive Jobs California ,  Jobs AutoVitals Goleta Califronia USA ,  Product Designer UX Designer job California ,  Sales Representative Job California USA ,  SEO Internship Goleta California USA ,  Software Developer Job California ,  Systems Administrator Job Goleta California USA Leave a comment on [Jobs]Current Openings at AutoVitals Inc California 
+ Search for: Search 
+ Top Posts & Pages 
+ 
+ Have you ever wondered what is 'Drive-by-wire' or 'x-by-wire'? 
+ India's first electric reverse trike: Orxa Energies Mantis 
+ Suzuki's Gujarat plant in India starts operation; Another plant in pipeline which will come into operation by 2019! 
+ 
+ posts by date 
+ 
+ 
+ 
+ January 2021 M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 
+ 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 
+ 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 
+ 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 
+ 
+ 
+ « Jan 
+ Categories 
+ 
+ Automotive Jobs  (34) 
+ automotive supplier  (10) 
+ Autonomous Driving  (6) 
+ Bikes  (59) 
+ cars  (291) 
+ Commercial Vehicles  (42) 
+ Coupons  (2) 
+ electric  (35) 
+ Hybrid Vehicles  (13) 
+ Know your technology  (4)
+ 
+ Automatic Transmission  (1) 
+ 
+ 
+ Polls Surveys Quizzes and Ratings  (1) 
+ railways  (3) 
+ review  (1) 
+ Shared Economy  (5) 
+ startup  (43) 
+ Statistics  (62) 
+ Travel  (20) 
+ Trucks  (37) 
+ Uncategorized  (153) 
+ Videos  (39) 
+ 
+ facebook 
+ 
+ facebook 
+ 
+ Follow me on Twitter 
+ My Tweets 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 673 other followers 
+ Email Address: 
+ Follow 
+   RSS - Posts 
+ Tags 
+ 
+ acquisition 
+ ADAS 
+ bmw 
+ CES 2017 
+ chennai 
+ Consumer Electronics Show 
+ current openings 
+ daimler 
+ Denso Corporation 
+ electric vehicles 
+ EV 
+ ford 
+ general motors 
+ germany 
+ honda 
+ india 
+ job opportunities 
+ Joint Venture 
+ mahindra 
+ make in india 
+ maruti suzuki 
+ maruti suzuki india 
+ mercedes benz 
+ mou 
+ nissan 
+ renault 
+ renault kwid 
+ tata hexa 
+ tata motors 
+ tata tiago 
+ toyota 
+ Travel 
+ uber 
+ usa 
+ video 
+ 
+ Blog Stats 
+ 
+ 65,818 hits 
+ 
+ Follow blog on 
+ 
+ 
+ View mymotorwheels's profile on Facebook 
+ 
+ 
+ View MyMotorWheels's profile on Twitter 
+ 
+ 
+ About 
+ 
+ 
+ Automotive Jobs 
+ 
+ 
+ Travel 
+ 
+ 
+ Spares and Services @Visakhapatnam 
+ 
+ 
+ mymotorwheels   A WordPress.com Website . 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

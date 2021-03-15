@@ -1,0 +1,254 @@
+neuroecology 
+ Main menu 
+ Skip to content 
+ 
+ Home 
+ About 
+ Advice for Academics 
+ Recommended writings 
+ 
+ Post navigation 
+ <- Fight club for flies 
+ Monday open question: does fMRI activation have a consistent meaning? -> 
+ Why is reporting on health and science so bad? Because the reporters can't do their jobs. 
+ Posted on  December 13, 2014  by   Adam J Calhoun (neuroecology) 
+ 8 
+ Imagine this scenario: a sports reporter is asked to cover an emerging conflict in the Middle East. The sports reporter, never particularly keen on international affairs, is on a deadline and looks to see what they can use. There's in-person video of the central events in question, but our journalist friend doesn't have the necessary background or context to fully understand what happened. Is there something else? A press release from the US government and from one side of the conflict in the Middle East? Sounds like our sportsman is good to go! Just copy and paste the exciting bits, add in the little bit of context that our intrepid soul already has, and bingo. News has been reported! 
+ Later, it turns out that our poor reporter has been duped! The press release from the Middle East was nothing but PR, empty words of propaganda to make things seem more important and interesting than they really are! Our friend from the sports section sighs, wishing he had asked someone who knew about this kind of thing who would have known what to look out for. 
+ In a similar vein,  Vox has an article asking why so many articles on health (and, let's admit it, science) are junk . The culprit is identified as clearly as in our example above: coverage by those who don't know, or don't care. See: 
+ 
+ The researchers found that university press offices were a major source of overhype: over one-third of press releases contained either exaggerated claims of causation (when the study itself only suggested correlation), unwarranted implications about animal studies for people, or unfounded health advice. 
+ …When a press release included actual health advice, 58 percent of the related news articles would do so too (even if the actual study did no such thing). When a press release confused correlation with causation, 81 percent of related news articles would. And when press releases made unwarranted inferences about animal studies, 86 percent of the journalistic coverage did, too. 
+ …Unfortunately, however, this isn't a perfect world. Many journalists are often covering science in the morning, and the courts in the afternoon. We are under heavy pressure to meet multiple deadlines every day, and some of us lack the time, sources, or background to properly vet the studies we're reporting on. 
+ So we rely on scientists and on press offices to guide us through research, even though, clearly, we shouldn't. 
+ 
+ Wait -  what ? The problem is the scientists and press offices? Because reporters are too overworked or unqualified to do their job properly? It sounds from the quote above that reporters are just parroting what a press release says  without actually reading the source material . It sounds like  reporters aren 't doing their jobs . But rather than accept the blame, they are trying to avoid the responsibility. 
+ Unless I am mistaken, the job of a journalist is not to overlay press releases with a thin veneer of impartiality. Their job is to synthesize new information with their existing bank of expertise in order to convey to a naive audience what is or isn't novel or important. Conversely, the job of a PR department - which derives from the incentive structure - is quite clearly to hype new research. Does anyone think that a press release from a corporation is written to be as truthful as possible, rather than putting as good of a spin on it as possible? 
+ If the reporter knew enough about the field, they would be able to check whether or not the things they were writing were true. Where in the paper does it say this correlation exists? Is there an exaggeration? How much? 
+ If they are unable to do that, what are they doing? Why should I read science or health journalism if they are unable to discern fact from fiction? 
+ Share this: 
+ 
+ Click to email this to a friend (Opens in new window) 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on Tumblr (Opens in new window) 
+ Click to share on Reddit (Opens in new window) 
+ Click to share on Facebook (Opens in new window) 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Posted in  Thoughts  |  Tagged  health ,  journalism 
+ 8 thoughts on "Why is reporting on health and science so bad? Because the reporters can't do their jobs." 
+ 
+ Thiago Carvalho 
+ 
+  December 14, 2014 at 8:13 am  
+ While I agree that reporters need to fact check science stories, I think it is a sad state of affairs if we just accept that a University or Institute press office should by default behave as if they were selling Oreos or insurance. I'm naive enough to believe that the Press Officers of a research, medical or educational institution should be part of the mission to discover and inform. So if the incentive structure is such that the PO's job is "quite clearly to hype new research", we have reached yet another sad state of affairs- put it up there somewhere between "measuring researcher achievement in grant dollars" & "employing grad students as cheap labor with no intellectual input". I don't think it has to be this way. And I don't think scientists are exempt from the responsibility to care about how their Institution helps shape the public perception of their research. Again, I dont disagree with the point that the reporters do their job badly when they write on Science- in fact, the majority don't actually 'write' at all, they cut and paste the PR or the first AP or Reuters wire they get their hands on. 
+ Reply 
+ * [Adam J Calhoun (neuroecology)](https://neuroecology.wordpress.com)
+ 
+  December 15, 2014 at 6:18 am  
+ Unfortunately for me, I'm a pretty cynical guy. I'd love to think that people in science (and the PR departments at institutions) are great people who REALLY CARE about everyone knowing about The Truth. But scientists are people and people respond to incentives. and the incentives suck. 
+ You're right that it's not great that it's this way, nor does it NEED to be. But incentives need to change - and unfortunately I don't have any great, system changing ideas. I'd love to hear them, though… 
+ But until it changes, journalists need to be journalists and be less gullible. Or care more. Or something. They have their jobs for a reason, I presume. 
+ (Also to clarify: #notalljournalists. Some are GREAT. But what seems like the majority is bringing them all down.) 
+ Reply 
+ 
+ cigarbabe 
+ 
+  December 18, 2014 at 5:55 am  
+ You have to wonder why they don't care? 
+Whom do they owe {if they do!} that they are willing to print absolute junk articles and then infer it's the latest and greatest data to ever come out of A,B,C's office? 
+I find it to be extremely frustrating when the reporters don't even do the minimum basic fact checking. I won't even get started on those in "Public Health" who simply lie about every and anything to support their agenda's even when it flies in the face of logic. 
+C.B. 
+ Reply 
+ 
+ 
+ Pingback:  I've Got Your Missing Links Right Here (20 December 2014) - Phenomena: Not Exactly Rocket Science 
+ 
+ 
+ Pingback:  I’ve Got Your Missing Links Right Here (20 December 2014) | Gaia Gazette 
+ 
+ 
+ Pingback:  Links 12/29/14 | Mike the Mad Biologist 
+ 
+ 
+ Pingback:  University Communication and the Blame Game › The Leap 
+ 
+ 
+ Steve 
+ 
+ 
+  June 28, 2015 at 12:45 am  
+ One problem is that our news organizations are not in the business of reporting.. The y are in the business of selling… Ads or subscriptions. What they want is excitement … And hype sells better than real science. There is little penalty to getting the story wrong. Try reading new scientist. Everything is hyped. But that is what people will pay to read. Science fiction. 
+ Reply 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Post navigation 
+ <- Fight club for flies 
+ Monday open question: does fMRI activation have a consistent meaning? -> 
+ Search 
+ Recent Posts 
+ 
+ 3% of Neuroscientists are here for revenge 
+ #cosyne2020, by the numbers 
+ #CCN2019 by the numbers 
+ An ethology reading list 
+ Please help me identify neuroscientists hired as tenure-track assistant profs in the 2018-19 faculty job season 
+ 
+ Archives 
+ 
+ July 2020 
+ February 2020 
+ September 2019 
+ August 2019 
+ June 2019 
+ February 2019 
+ January 2019 
+ November 2018 
+ September 2018 
+ August 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ August 2016 
+ July 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ November 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ February 2012 
+ 
+ Categories 
+ 
+ Art 
+ Artificial Intelligence 
+ behavior 
+ Behavioral Quantification 
+ Brain regions 
+ Cognitive 
+ Decision-making 
+ Drosophila 
+ Ecology 
+ Economics 
+ Genes 
+ History 
+ Hormones 
+ Learning 
+ Monday Open Questions 
+ monkeys 
+ MRI 
+ Networks 
+ News 
+ Paper roundups 
+ Peptides 
+ Personal 
+ Philosophy 
+ Random 
+ Science culture 
+ Sensory 
+ Social behavior 
+ Social status 
+ Systems Neuroscience 
+ Theory 
+ Thoughts 
+ Uncategorized 
+ Vision 
+ Writing 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Email Address: 
+ Follow 
+ Follow me on Twitter 
+ My Tweets 
+ Create a free website or blog at WordPress.com. 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

@@ -1,0 +1,52 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Job & Workflow Setup 
+ Job Dashboard 
+ 
+ Archiving & unarchiving jobs 
+ Nick DeSimone 
+ 
+ January 13, 2021 15:57 
+ Updated 
+ 
+ Follow 
+ All users   except Reviewers & External Recruiters 
+ All plans 
+ Jobs that have been  unpublished  or are being used internally can be archived. You will not be billed for archived jobs on your Pay As You Go plan. 
+ 
+ Archiving a job 
+ 
+ 
+ Access the job editor by clicking the three dots to the right of the job entry on the main dashboard. Scroll to the bottom of the job editor and click  Archive Job . Confirm that you wish to archive the job. It will be immediately unpublished from job boards and archived on your account. 
+ 
+ 
+ On a job with a  Used Internally  status, click the three dots to the right of the status. An option to archive the job will appear. Select it and then confirm that you wish to archive the job. 
+ 
+ 
+ Archived jobs will appear at the very bottom of the job dashboard. You will not be able to communicate with candidates who are in an archived job, but all candidate data is still accessible on your account. 
+ 
+ Unarchiving a job 
+ Jobs can be unarchived at any time. To unarchive a job, locate it in your list of archived jobs at the bottom of the main dashboard. 
+ Hover over the job and click the option to   Unarchive . (If you are on a Pay As You Go Plan, you will be asked to pay for the job before you continue.) 
+ When you unarchive a job it will be returned to the list of active jobs on the dashboard. The job status will be set to   Used Internally . 
+ You can republish an archived job, but the posting date on job boards will not be refreshed. You'll need to create a new job to refresh the posting date. 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ 
+ Was this helpful? 
+ 24 out of 24 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ Copying/moving candidates to other jobs 
+ What is job scraping? 
+ Hiring Manager: Getting Started  
+ [Video] Offer Letters 
+ Creating and managing requisitions 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 

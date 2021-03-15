@@ -1,0 +1,150 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Java Software Engineer - Bloomberg Query Language (BQL) Team 
+ Bloomberg 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Java Software Engineer - Bloomberg Query Language (BQL) Team 
+ Bloomberg 
+ [](mailto:?subject=Senior%20Java%20Software%20Engineer%20%2D%20Bloomberg%20Query%20Language%20%28BQL%29%20Team&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14259228/senior-java-software-engineer-bloomberg-query-language-bql-team/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Bloomberg runs on data. It's our business and our product. From the biggest banks to the most elite hedge funds, financial institutions need timely, accurate data to capture opportunities and evaluate risk in fast-moving markets. Enabling clients to access Bloomberg's data and perform custom analytics, the Bloomberg Query Language(BQL) and Analytics platform is at the forefront of innovation for our business. 
+ Our team is responsible for developing a low latency Analytics Platform and Screening Engine. We're also working to define and build a domain specific query language, BQL. This will allow users to express complex analytics and quantitative models for execution on the platform. 
+ A core team of 40+ engineers is passionately working on multiple initiatives: 
+- Scaling the Big Data Analytics Platform and Screening through a hybrid of in-memory and distributed computing paradigms. 
+- Providing Unified and consistent access to Bloomberg's rich data through a common API and expression language. 
+- Developing a Metadata frame-work and engine to leverage the unified meta-model. 
+- Building a workload management framework for smart routing of client requests to meet specific SLA requirements 
+ We are looking for Software Engineers with strong Java skills to build out the core Analytics and Screening platform that's critical to our success. That's where you come in. 
+ We 'll trust you to: 
+- Collaboratively design and develop Java components consistent with standard and project specific design principles, leveraging standard frameworks and technologies 
+- Influence architectural decisions and build a performant execution engine which will bring this platform into the future 
+- Be part of a highly motivated team of software engineers with a strong team culture. 
+- Think about bigger picture, take calculated risks and come up with innovative ideas 
+ You 'll need to have: 
+- Advanced Java coding skills (5+ years) with focus on Low Latency computing 
+- 5+ years experience with Design Patterns, Concurrent Programming 
+- 5+ years experience with IOC frameworks like Spring. 
+- Experience with Tuning high performance applications. 
+- Experience with Persistence Frameworks, AVRO/JSON and RESTful Services 
+- Experience with distributed computing 
+- Enterprise system engineering experience (Ability to build scalable systems for large computes on big data) 
+- Experience working in fast paced Continuous Delivery projects 
+ We 'd love to see: 
+- Experience with Scala, Apache Spark and Apache Arrow 
+- Experience working in a Test Driven Development and Agile environment 
+ If this sounds like you, apply! We'll be in touch if we think you're a match. 
+ Bloomberg is an equal opportunities employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+ 
+ Internal Number: 7118754 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Bloomberg 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

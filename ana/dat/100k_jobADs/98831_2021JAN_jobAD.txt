@@ -1,0 +1,76 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Software Development Manager 
+ Loblaw Digital 
+ __Toronto, ON 
+ Apply Now 
+ At Loblaw Digital, we know that our customers expect the best from us. 
+ Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we’re up for the challenge. 
+ From our office in Downtown Toronto, we’ve created leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, and apparel spaces, and we’re only just getting started. 
+ You will be leading the team that works on software powering Loblaw's e-commerce platform experiences. You will hold responsibility for identifying bottlenecks in the process and roadblocks to success for the team and clearing these roadblocks. 
+ You will report to the Director of Software Development and will lead the team to build, improve, and maintain a world-class, multi-channel e-commerce platform. This is a rare opportunity to lead a team that will build new technology that will operate at a massive scale and impact the lives of millions of Canadians. 
+What You'll do 
+Cultivate a deep understanding of the portfolio of applications we utilize, along with their respective strengths and weaknesses, to provide solutions to existing and future challenges. 
+Lead technical architecture for a whole component and/or cross-functional team. 
+Define the long-term vision for your team, aligning with the company's strategic and tactical goals. 
+Translate project goals and product roadmaps into organized technical tasks. 
+Through your knowledge of industry trends and tools, together with your own experiences, guide the team to improve our software, our environment, and our process. 
+Provide guidance and direction to the development team to tear down obstacles and keep initiatives on target and moving forward. 
+Coach and mentor developers in the team through technical design sessions, code reviews and pair programming. 
+Provide technical guidance and support in resolving critical production issues. 
+Collaborate with business and product stakeholders to successfully deliver new features and capabilities. 
+Construct design documents and documentation to aid in maintenance and code reuse. 
+Have one-on-one meetings with your team members. 
+Conduct performance reviews. Set accountability for team members. 
+ Does this Sound like you? 
+A deep understanding of software development with a minimum of 5 years hands-on programming expertise. While you may not code every day, understanding the context of your team’s work is paramount 
+A track record of successfully mentoring and growing other software developers in your previous roles as a direct manager. 
+Opinionated about what it takes to produce great software, but remains receptive to other's ideas. 
+Experienced with software estimation, often confronted with complexity and uncertainty. 
+Makes decisions based on data. You are well versed with tools to measure every aspect of the application and your team. 
+Developed large applications in a team environment and are comfortable working in a very collaborative cross-functional team setup. 
+A great communicator. You can present complicated solutions to non-technical audience in a simple and logical way 
+Open minded, likes to learn and share knowledge and always looks out for “a better way” to do something. 
+Experience working with monoliths and microservices. 
+Develop complex consumer facing software using Java, Spring MVC, Spring Boot and Cloud technologies (Google Cloud Platform) 
+A strong understanding of Security Architecture. 
+Practical experience with event-based architecture, reactive system design, SQL/NoSQL databases. 
+How you’ll succeed 
+ At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. 
+You will get to work with some of the best digital minds and will have the support of world class technologies to craft products our customers will love! 
+ Loblaw Digital recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. 
+In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

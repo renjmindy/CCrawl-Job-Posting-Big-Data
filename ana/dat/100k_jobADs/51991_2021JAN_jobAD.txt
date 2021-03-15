@@ -1,0 +1,342 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Google Cloud Platform Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Google Cloud Platform Administrator ? 
+ ](https://www.workana.com/en/hire/google-cloud-platform) 
+ 27 days ago 
+ It Professional Services 
+ Published: 27 days ago  Deadline: 6 Bids: 0 
+ Project Objective: 
+1. Email Server Migration (G Suite to O365- 40 Users) 
+2. VMware Installation (2 QTY) 
+3. 
+Implementation of Windows Server Update Services 
+4. Installation of Kaspersky in Server 
+ Scope of Work: 
+1. Server Booting & Raid Configurations for Dell 740 Server 
+2. 
+Installation & configuration 2VMware vSphere 7 in Server 2019 Dell 740 
+3. G-suite Mail Server to Office 365 migration 
+4. Installation & Configuration WSUS in Server 2019 
+5. 
+Installation & Configuration Antivirus Kaspersky in Server 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  R. Q. Last reply: 27 days ago  Saudi Arabia 
+ USD 100 - 250 
+ Last month 
+ Api Integration for E-commerce project 
+ Published: Last month  Bids: 2 
+ We are looking to hire freelancers who can work on our project for a duration for minimum 8 hours a day. The total project duration would be 4-6 months. 
+ Required Skills: 
+- Java 
+- Microservices 
+- API Integration 
+- CI/CD 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  O. S. India 
+ USD 500 - 1,000 
+ 2 months ago 
+ Infrastructure / dev ops 
+ Published: 2 months ago  Bids: 4 
+ Looking for an experienced dev ops for some freelancing work around cloud infrastructure, Kubernetes, clusters. Need someone with experience in various cloud tools that can provide recommendations. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Cloud Storage (Dropbox, Google Drive, etc.) 
+ Roles needed  : Other 
+ Other roles needed  : Dev Ops 
+ Published by:  H. United Kingdom Payment method:  __Verified 
+ USD 250 - 500 
+ 4 months ago 
+ Integration google classroom in platform Zend2(php) 
+ Published: 4 months ago  Bids: 2 
+ Hello, some expert in google classroom integration to be able to integrate it with a platform that is developed in zend2 (php) 
+ Our platform is educational management for schools, we also have our virtual classroom, 
+but we don't have live sessions like google classroom with google meet 
+ FUNCTIONALITIES 
+ - In our platform we have our list of teachers, students and courses that we want to integrate 
+with google classroom, all the management (if you register, edit, delete a student, teacher or course) 
+we want it to be done from our platform and synchronized in 
+google classroom 
+ - In our platform we have an agenda and we want that from that option 
+teachers can schedule their classes or live sessions, which will be synchronized in google classroom 
+ - when teachers enter google classroom 
+Their assigned courses and their students who are in charge must already be configured 
+Since that configuration the administrator does it from our platform. 
+ - From our platform, students will have to see the teacher's recorded classes when 
+use the google meet 
+ NOTE: WE ONLY NEED TO DO THE FUNCTIONALITIES THAT HAVE BEEN DESCRIBED, IF THERE IS ANY option 
+WHAT HAS TO BE DEVELOPED TO BE ABLE TO INTEGRATE THAT FUNCTIONALITY OF GOOGLE CLASSROOM'S APIREST, 
+WE WILL BE IN CHARGE 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ API Integrations  : Cloud Storage (Dropbox, Google Drive, etc.) 
+ Roles needed  : Developer 
+ Published by:  M. I. Last reply: 4 months ago  Peru 
+ USD 100 - 250 
+ 5 months ago 
+ Developing web applications with Wordpress on cloud environment 
+ Published: 5 months ago  Bids: 5 
+ - Minimum 2+ years of experience in PHP development, with experience in developing web applications with WordPress on cloud environment; 
+- Knowledgeable in PHP, MySQL, Linux, HTML5, JavaScript and CSS3; 
+- Possess experience with WordPress plugins for Ecommerce, lms, ui design, smtp mail, gamification, currency, booking, google analytics; 
+- possess knowledge of good google cloud (i.G. gcp, cdn, load balancing, api) knowledge & coding standards (to prevent security breaches) will be an added advantage; 
+- highly motivated to excel and pick up emerging technologies; 
+- possess a good command of english, as well as analytical and excellent problem-solving skills; 
+- ability to work independently with minimal supervision; 
+- possess good debugging skills: able to troubleshoot and modify premade plugins; 
+- knowledgeable about seo and sem best practices. 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Setup software bundle 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Published by:  J. L. Malaysia 
+ USD 250 - 500 
+ 5 months ago 
+ Data scraping 
+ Published: 5 months ago  Bids: 9 
+ platform  to Data scraping, breaking captcha, getting data from image, on web 
+platform  to Data scraping, breaking captcha, getting data from image, on web 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  M. Last reply: 5 months ago  Peru 
+ USD 100 - 250 
+ 6 months ago 
+ An app that allows downloading documents 
+ Published: 6 months ago  Bids: 1 
+ Want a simple mobile android app that charges customers for downloading books and documents. Paypal and other Paytm and cashfree payment integration required. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ Published by:  M. F. Sri Lanka 
+ USD 50 - 100 
+ Next 
+ 
+ 1 
+ 2 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

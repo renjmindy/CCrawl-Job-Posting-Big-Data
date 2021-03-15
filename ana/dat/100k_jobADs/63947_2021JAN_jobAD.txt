@@ -1,0 +1,97 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Routable (S17) 
+ We're building the simplest way to send and receive business-to-business payments. If you’re thinking “are they a replacement to Bill.com” then you’re spot on! 
+ Principal Software Engineer 
+ 
+ Location 
+ United States / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 11+ years 
+ About Routable 
+ Routable is simplest way to send and receive business-to-business payments. 
+ ✅ Send payments to vendors with just an email 
+ ✅ Get paid faster and keep track of unpaid invoices 
+ ✅ Automatically update your accounting software of choice 
+ We started Routable due to our personal experiences scaling business payments. 
+ Having built in-house solutions, custom integrations to accounting software, and understanding the importance of payments visibility to entire teams, we decided to devote our time to ensuring that companies can be set up with a solution that works for their finance and accounting needs today and in the future. 
+ About the role 
+ Skills:  Django, Python, Software Architecture, React 
+ 🚝 Engineering at Routable 
+ As a Principal Engineer you will work directly with the product and engineering teams to help shape our product and culture. It’s a unique chance to be an advocate for our incredible coding standards, efficiency and reliability. 
+ 🕵️‍♀️ Who we’re looking for: 
+ • You are a highly knowledgeable and experienced backend engineer. 
+ • You are excited about building and maintaining infrastructure to handle facilitation of thousands of B2B payments. • You are interested in setting direction for the team and help guide engineering vision. • You are comfortable implementing integrations to other pieces of software. • You are dedicated to delivering high quality, impactful software to our system and its general health. 
+ 💻 Need to have: 
+ • 10+ years of experience designing and building SaaS software products from concept to launch 
+ • Tenaciousness about software performance and high availability 
+ • Experience mentoring and training more junior engineers 
+ • Solid coding practices including writing technical specifications, peer code review, and testing (e.g. unit, integration, end-to-end) 
+ • Interest in integrating third-party APIs and the ability to understand them in several formats (e.g. SOAP, REST, GraphQL) 
+ • Desire to architect and build scalable systems, libraries, and frameworks 
+ ➕Nice to have: 
+ • Strong Python and Django experience 
+ • Experience with financial, accounting, or payments systems 
+ • Understanding of payment platforms (ACH, Check, Credit-card, etc.) 
+ ✔️ Benefits & Perks 
+ 🏠 Remote 
+ We are a remote friendly culture! 
+ Rather than restrict ourselves to only find talent in one city, we’d rather find the absolute best people regardless of where they live. One amazing benefit to our remote culture, is that it enables our team to enjoy traveling ✈️ more regularly since they can literally work from wherever! 
+ 🚀 Rendevous 
+ To help foster amazing relationships with our coworkers, we meet up quarterly as a whole team in some pretty awesome cities! 
+ In the past we’ve met up in San Diego, Seattle, and Austin. We’d rather invest money into memorable team events rather than expensive offices. During our meet-up team time, we love to spend time learning a new skill together, and solving problems. Most recently this has taken on the form of a bread-making class and defeating an Escape Room. Yeah.. We love to compete together as a team. 
+ 🧘‍♂️ Recharge 
+ We encourage our team to relax and recharge each weekend. We’ve all been a part of startups before, and know how important it is to take care of yourself so that you can consistently contribute your best. Quality downtime enables quality uptime. Yes, we do have super-humans on the team, but even they need their R&R. 
+ 🏥 Amazing health insurance 
+ 😁 Dental insurance 
+ 👀 Vision insurance 
+ 📈 Stock options 
+ 📅 Unlimited PTO 
+ Technology 
+ 💻 Fronted stack: React / Redux 
+ ⚙️ Backend stack: Python (Django) 
+ Other jobs at Routable 
+ Principal Software Engineer 
+ fulltime 
+ United States / Remote 
+ Backend 
+ 11+ years 
+ Head of Sales (B2B)  
+ fulltime 
+ United States / Remote 
+ 6+ years 
+ Senior Product Designer 
+ fulltime 
+ / Remote 
+ UI / UX 
+ 6+ years 
+ Senior Full-Stack Software Engineer 
+ fulltime 
+ / Remote 
+ Full Stack 
+ 6+ years 
+ Software QA Manager  
+ fulltime 
+ / Remote 
+ Engineering Manager 
+ 6+ years 
+ Senior Technical Product Manager 
+ fulltime 
+ / Remote 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

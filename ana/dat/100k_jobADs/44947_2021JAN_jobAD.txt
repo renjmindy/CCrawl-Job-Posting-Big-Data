@@ -1,0 +1,36 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Job & Workflow Setup 
+ Job Dashboard 
+ 
+ What is job scraping? 
+ Theo 
+ 
+ October 18, 2020 19:49 
+ Updated 
+ 
+ Follow 
+ Job scraping occurs when a job site gathers (or “scrapes”) information about open positions found around the web (for example, on a company’s career page) and posts those jobs on their own website without the consent of your organization. 
+ For positions you’re not actively hiring for,  switch their status  from 'Published' to 'Used Internally' to stop them from being scraped. This will prevent these jobs from being publicly visible and therefore not subject to potential scraping. 
+ Once you've unpublished a job through Workable, candidates will no longer be able to apply through sites that have scraped the post because the original post in your Workable careers page will not be available for redirection. 
+ For published jobs, Workable is not able to completely prevent scraping. If your jobs were scraped and you don’t want these to be shown on those job boards, while still keeping the job public, we recommend you to contact those sites directly and ask them to remove the posts and stop scraping your jobs. 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ 
+ Was this helpful? 
+ 2 out of 2 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ Find more candidates and increase the visibility of your jobs  
+ Jobs dashboard overview 
+ How to add a job tab to your Facebook page 
+ Connecting your LinkedIn Company Page to Workable 
+ Can I disqualify or reject candidates based on their application form answers? 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 

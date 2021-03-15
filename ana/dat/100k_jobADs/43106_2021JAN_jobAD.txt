@@ -1,0 +1,68 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ DreamCraft (S18) 
+ Platform that allows anyone to create and monetize video games. 
+ Software Engineer 
+ 
+ Location 
+ San Mateo, California 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About DreamCraft 
+ We believe games should be created by passionate gamers, regardless of programming knowledge or artistic ability. We are here to make it easier for anyone to create, launch, and earn a living by making games on any platform. 
+ About the role 
+ Skills:  C#, Git, JavaScript, MongoDB, Node.js, React, Unity, OpenGL, Amazon Web Services (AWS) 
+ About Us 
+ DreamCraft creates technology that inspires talented individuals to create all kinds of video games without programming. To do that we must break the existing rules of game development based on funded teams and professional engines, and gear up our creators the most intuitive, easy-to-use, instant-deploy tools and unleash their full potential so that they can create the next "Dota", "PUBG", and "Clash of Clans". 
+ Accepting this challenge means you're going to have an open mind to execute innovative ideas as a team and learn any technology necessary. It means you're going to work day and night so that our creators can have access to a high degree of fame, love, and $$$. 
+ Responsibilities​ 
+ 
+ Research the latest technology and develop solutions to deliver the best gameplay, tooling, and graphics experience to millions of users. 
+ Contribute new ideas to game design 
+ Write robust program and services be used by millions of users 
+ Independently create complete solutions from scratch 
+ 
+ Requirement​ 
+ 
+ Passion for games 
+ Ability to work in a team environment 
+ Wide understanding of different game technology areas (gameplay, graphics, tools etc.) 
+ Strong, professional experience using C++ or C# 
+ Ability to quickly get up to speed with existing code 
+ Bachelor’s degree in Computer Science or closely related field, foreign equivalent education acceptable; 
+ 
+ Please send your resume to  [email protected] 
+ Technology 
+ Professional experience using Javascript Wide understanding of different game technology areas (gameplay, graphics, tools etc.) Strong, professional experience using C++ or C# Good knowledge of HTML5 and CSS3 Familiar with frontend development using ReactJS Knowledge of backend development using NodeJS Bachelor’s degree in Computer Science or closely related field, foreign equivalent education acceptable 
+ Other jobs at DreamCraft 
+ Software Engineer 
+ fulltime 
+ San Mateo, California 
+ Frontend 
+ Any (new grads ok) 
+ UI/UX Designer 
+ fulltime 
+ San Mateo, California / Remote 
+ UI / UX 
+ 1+ years 
+ SOFTWARE ENGINEER, UI 
+ fulltime 
+ San Mateo, CA, USA 
+ Frontend 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

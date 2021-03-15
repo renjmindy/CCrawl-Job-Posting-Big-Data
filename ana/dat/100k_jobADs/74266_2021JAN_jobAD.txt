@@ -1,0 +1,224 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Backend Engineer (Remote) 
+ [ 
+ Qonto 
+ ](/companies/qonto) 
+ 
+ Remote 
+ 03 November, 2020 
+ Apply 
+ More jobs from Qonto About Qonto 
+ Salary 
+ €50K - 85K + Equity 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ Golang 
+ KUBERNETES 
+ Kafka 
+ Ruby 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Parental leave 
+ Lunch tickets 
+ Relocation budget 
+ Gym memberships 
+ Team retreats 
+ Laptop 
+ Extra vacation days 
+ Coffee & snacks 
+ Free meals & snacks 
+ 
+ Software Engineering position for one of the most exciting banks for SME businesses 
+ Role overview 
+ Our mission is to create the most amazing banking experience for SMEs through technology, elegant design, and an outstanding sense of customer care. At Qonto, we believe that great services come from great thinkers, that’s why we strive to provide an environment that will allow you to feel comfortable and help you excel in your work (read more about our method). 
+ Alexandre and Steve launched Qonto in July 2017, and the team reached great achievements since then: 
+ 
+ Market leader for online SME banking in Europe 🏦 
+ 75,000 SME clients 🏢 
+ Outstanding customer satisfaction (App Store | Google Play | TrustPilot) 👍 
+ Recognized as one of the best startups to work at (Wired | LinkedIn) 🤩 
+ €136 million raised 💰 
+ International investors with a solid fintech experience 💵 
+ And 200+ happy Qontoers helping us building the bank of our dreams (just that!) ☁️ 
+ 
+ Our values: 
+ 
+ Ambition | We tackle big challenges no matter what 
+ Teamwork | We create magic by collaborating at the same speed 
+ Mastery | We pursue excellence through continuous learning and by facing challenges humbly every day 
+ Integrity | We are transparent and trustworthy with our clients and each other 
+ 
+ As part of the tech team, you will join a crew of experienced engineers working on crafting the best possible user experience and building a highly scalable code base. Our stacks are  Ruby  and  Go  for the backend;  EmberJS  for the frontend;  Kotlin  and  Swift  for the mobile. Our tools/stack include  Kafka ,  Kubernetes ,  ELK ,  AWS  services and all the good stuffs you could think of! 
+ As a Software Backend Engineer, you will work on improving and scaling the most sensitive piece of Qonto infrastructure. You will ensure the safety and robustness of systems handling hundreds of thousands of complex requests a day. You will also work on shipping innovative new banking features for an exponentially growing user base. 
+ Your responsibilities 
+ 
+ Architect and develop the services: You will enrich our APIs through maximum resilience 
+ Develop the architecture: You will improve microservices architecture of our API 
+ Supervise the technical aspect: You will be responsible for the technical aspect of our backend and participate in complex conception issues 
+ Maintain a high level of quality: You will implement various test suites to ensure the quality of the system. 
+ Improve technical solution: You will make your work very scalable, strongly robust and highly secured 
+ Consolidate data: You will Integrate data coming from different sources (including banking APIs and SaaS APIs) 
+ Share knowledge: You are willing to participate in the development of our open-source and internal tools 
+ 
+ About You 
+ 
+ Experience: You have 5+ years experience as a software engineer and you had exposure to architectural patterns of a large, high-scale web applications and micro-services 
+ Mastery: You have a strong knowledge and experience in  Go, Ruby, Java, Python, C or Scala 
+ Problem solver: You are pragmatic and solution-oriented 
+ Make an impact: You want to build an innovative product to be used by thousands of users 
+ Best Practices: You work in an organized manner with test coverage, and other best practices 
+ Curiosity: You are a curious and open-minded developer 
+ Team player: You have good communication skills and you know how to work with a team 
+ Languages: You are fluent in English. French is a plus. 
+ 
+ What you can expect 
+ 
+ Joining a team of more than 30 highly skilled backend engineers 
+ Contribute to the creation of multiple banking services used by thousands of client in 4 different countries 
+ Take part on creating a scalable Core Banking System that provides stable and secure banking accounts 
+ Work on open source projects to contribute to your stack’s community 
+ Participate and organize numerous events (Meet-ups, Talks, conferences…) to make Qonto’s engineering culture even stronger and recognized around the globe 
+ 
+ Perks 
+ You got it: helping you succeed is our #1 priority. We have put together several perks to make your life easier and more will unlock as Qonto grows further 
+ Qonto’s benefits 
+ 
+ Monthly team events, and yearly offsite (Barcelona, Sicily… what’s next?) ✈️ 
+ Budget allocated to managers for small team events 🍬 
+ The latest in Apple’s equipment 🍎💻 
+ 5 to 10 days off in addition to the legal 25 day 🏖️ 
+ Special parenthood policy (we are part of the Parental Act program) 👶 
+ 
+ 
+ [ 
+ Qonto 
+ ](/companies/qonto) 
+ 
+ 250+ 
+ 
+ The idea of Qonto was born out of frustration: As Alex and Steve were building their first company (Smok.io - bought in 2015) together, they were very frustrated with their own banking experience. It was not only time-consuming and complex but also didn't include modern tools to suit progressive companies. The two founders decided to tackle these frustrations and to create the service they would have loved to use as entrepreneurs. Our ambition is very clear: building the best business banking service by using technology and design, with a fair and transparent pricing! We think that SMEs have been neglected for too long and that traditional institutions have failed to propose a banking experience adapted to the needs of entrepreneurs 👩💻👨💻. Professional banking should be efficient, attractive and affordable. Our mission is to dust off the old banking experience! We are the ideal banking alternative for freelancers, startups and SMEs, in replacement or in addition to your business banking account. Better than a professional bank account, enjoy a fully-fledged solution to manage your company's finances, whether you are operating on your own or within a team. Our professional current account offers everything you need from Mastercard business payment cards 💳 to financial management tools. We're reinventing the business banking experience 🚀 
+ Finance Series A AWS Ember Golang iOS Parental Leave LUNCH TICKETS 
+ View 2 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Qonto About Qonto 
+ Salary 
+ €50K - 85K + Equity 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ Golang 
+ KUBERNETES 
+ Kafka 
+ Ruby 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Parental leave 
+ Lunch tickets 
+ Relocation budget 
+ Gym memberships 
+ Team retreats 
+ Laptop 
+ Extra vacation days 
+ Coffee & snacks 
+ Free meals & snacks 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Backend Engineer€50K - 85KQontoParis, France 
+ Software Engineering position for one of the most exciting banks for SME businesses 
+ Sponsorship 
+ aws golang kubernetes kafka ruby 
+ More Info Apply 
+ Software EngineerCompetitiveWeaveworksUnited States of America 
+ Work with us to help enterprises build better software and operate it reliably, at scale using Gitops workflow 
+ Remote 
+ aws azure golang google cloud kubernetes 
+ More Info Apply 
+ Principal EngineerCompetitiveShiftUnited States of America 
+ Opportunity to join a fantastic team at a hi-tech fast-paced company which is transforming an entire industry! 
+ Remote 
+ golang python ruby 
+ More Info Apply 
+ Backend Engineer (Remote) 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

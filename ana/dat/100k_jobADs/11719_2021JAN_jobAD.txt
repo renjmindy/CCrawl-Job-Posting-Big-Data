@@ -1,0 +1,385 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ WordPress 
+ 
+ WordPress Freelance Jobs From Mexico 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelance  WordPress Developers  from  Mexico 
+ ](https://www.workana.com/freelancers/mexico/wordpress) 
+ 5 days ago 
+ Wordpress rsvp plugin 
+ Published: 5 days ago  Bids: 3 
+ Need a plugin to be built to rsvp 
+Need to add a list o guests, then when this guest rsvp it shouldn't be showed again in the list of possible guests 
+similar to this  https://rsvpproplugin.com/ 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Custom development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Published by:  C. P. Mexico Payment method:  __Verified 
+ USD 50 - 100 
+ 1 week ago 
+ Plugin Wp Hide / Appear Some Fields Before / After Paiement. 
+ Published: 1 week ago  Bids: 4 
+ Good day, 
+ plugin wp hide / appear some fields before / after paiement. 
+ Looking for a strong technician wordpress webmaster to develop a tailor-made plugin for Wordpress / Woocommerce. 
+ Your plugin will : 
+ 1. hide some product fields before paiement, when product is published. 
+2. Send all fields details to product's buyer right after paiement is validated. 
+ Your plugin MUST : 
+ - Resist Wordpress / PHP 8 and Later 'core' updates. 
+- Use a language well known around the world. 
+ Hope your proposition. 
+ Regards, 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  O. G. Last reply: 5 days ago  Mexico Payment method:  __Verified 
+ USD 100 - 250 
+ 3 weeks ago 
+ Real Expert on Wordpress/ Elementor + Seo + Speed improvement + Goo... 
+ Published: 3 weeks ago  Bids: 7 
+ Speed up da and pa 
+ranking in serp features 
+good multi-language implementation 
+meta tags and description and also xml sitemaps 
+minimize the page reload time 
+resize of images used 
+css and js files on the website 
+minimizing the http requests. 
+amount of time your DNS lookup 
+Google Crawling 
+Schema mark-ups 
+Keywords 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Setup software bundle 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Part time 
+ API Integrations  : Other (Other APIs) 
+ Published by:  B. Last reply: 7 hours ago  Mexico 
+ USD 50 - 100 
+ Last month 
+ Leads Distribution Tailor-made Wordpress Plugin 
+ Published: Last month  Project duration: 1 - 4 weeks Bids: 6 
+ Good day, 
+ leads management / leads distribution to third parties btob 
+ looking for a strong technician wordpress webmaster to develop a tailor-made solution into  meilleurlead.pro  Wordpress website. 
+ CONTEXT : 
+ 1. Some Contact-Forms from various websites collect LEADS (Internautes willing to invest money or insure something). 
+2. The New collected lead is published into the BtoB plateform; Some fields are hidden until paiement. 
+3. Buyers/ companies receive alerts via email once lead is published. 
+4. Buyer pays a lead 'one shot' 'live' , or, 
+4 bis. Buyer can also credits its account into the Plateform. 
+5. Buyer receives email with all lead details indicated + invoice PDF after paiement successfull. 
+6. Platform Administrador can accept-create-modifiy Company-buyer. 
+6. Platform Administrador can modifiy price of a lead; this sends an email notification as well. 
+7. Possibility to refund a lead if company-buyer asks. 
+ tailor made wordpress plugin features 'core' 
+(with or without woocommerce) 
+(with or without acf) 
+(with or without easydigitaldownloads) 
+(other solution you webmaster might propose to us). 
+ Ad-Create-Modify leads or companies from the admin area 
+ Accept, reject or delete companies, 
+Only Registered companies can purchase leads into the plateform, 
+Registered companies can see their order history. 
+Plugin sends emails when companies are submitted, accepted or rejected, 
+ Take payments via Stripe, Revolut, Paypal, Others. 
+Take payments ‘on account’ (recharged an account), 
+Set the number of times a leads can be sold, 
+Set the price a lead is sold at, might be different prices, 
+ Plugin hides some lead details BEFORE paiement; 
+Plugin shows all lead details to company who just bought a lead; 
+ Plugin sends email alert when a new lead is submitted-published into the platform, 
+Plugin sends an email alert if the price of an already lead is modify-discounted, 
+ Plugin sends emails when a company purchases a lead, with automatic invoice PDF, 
+ Offer refund to company-buyer if it is asked. 
+ opcional features 
+ simple form builder for creating lead capture forms 'embed' into the leads generators-adcquistions wordpress websites. 
+ Hope your proposition. 
+ Regards, 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Part time 
+ Roles needed  : Developer 
+ Published by:  O. G. Last reply: Last month  Mexico Payment method:  __Verified 
+ Over USD 40 / hour 
+ 3 months ago 
+ Create a Marketplace Platform like Airbnb,Amazon 
+ Published: 3 months ago  Bids: 8 
+ I'm looking a team to help me to create a Marketplace platform, something similar Amazon/ Uber,  inicially for a target market but with the option to scale the project 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Roles needed  : Developer, Design a landing page, Designer 
+ Published by:  M. R. Mexico 
+ USD 500 - 1,000 
+ 3 months ago 
+ Simple Css needs 
+ Published: 3 months ago  Deadline: 2 Bids: 13 
+ My needs require: 
+- change style/fonts in woocommerce pages 
+- add pickup options 
+- delivery radius for 4 restaurants 
+- whatsapp alert setup for each new order 
+- limit capacity of deliveries per the hour per location 
+ Tambien hablo español 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Plugin installation 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  A. Last reply: 3 months ago  Mexico Payment method:  __Verified 
+ Less than USD 50 
+ 3 months ago 
+ Project yabla 
+ Published: 3 months ago  Bids: 10 
+ 
+ 
+ need to have my website capable of receiving sign ups and payments. 
+ 
+ 
+ I need help with some of the advanced configuration in pipedrive, example: chat nos, web form, workflow etc. I have configured all of the pipeline applications however. 
+ 
+ 
+ I need help with setting up a campaign using outtunnel integration with pipeline 
+ 
+ 
+ I need help finding a good source of email addresses in Mexico to use for the campaign. 
+ 
+ 
+ This is urgent and need completed by 12 de October 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Create a new store 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Roles needed  : Project manager, Developer, Design a landing page 
+ Published by:  A. S. Last reply: 3 months ago  Mexico Payment method:  __Verified 
+ Over USD 3,000 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

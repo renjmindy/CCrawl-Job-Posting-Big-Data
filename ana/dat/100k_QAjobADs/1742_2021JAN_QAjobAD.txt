@@ -1,0 +1,6 @@
+ Required Qualifications 
+ 5+ years of relevant industry experience, especially with networking 
+ Knowledge of Firewall and Network technologies (LAN/WAN, Switching, Routing, IP Addressing, Firewall Policy, IDS/IPS, BGP) 
+ Proven track record of delivering incremental value continuously 
+ Proven track record of network automation 
+ Operational experience in high-availability environments 

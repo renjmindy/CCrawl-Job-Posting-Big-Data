@@ -1,0 +1,83 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ adyn (S20) 
+ The first test designed to prevent birth control side effects 
+ Full stack engineer 
+ 
+ Location 
+ / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About adyn 
+ adyn is on a mission to make scientific discovery more inclusive so everyone can live their healthiest life.  ‍ Our vision is to be earth's most inclusive and patient-centric personalized medicine company. We are living in the age of the “medical research gender gap”—a disparity that exists because the vast majority of biological literature is based on single sex studies of males. Research shows that achieving gender equality in science and medicine will improve our standard of care and long-term health outcomes, not just for women, but for everyone. ‍ 
+ Our first product helps individuals identify the best birth control for their unique biology. We do this by integrating two biological readouts: genetics (read one time) and hormone levels (read multiple times throughout your life). By partnering with individuals, adyn provides medically actionable scientific insights and empowers them to proactively optimize their health—from birth control, to fertility, and beyond. 
+ About the role 
+ adyn is on a mission to make scientific discovery more inclusive so everyone can live their healthiest life.  ‍ Our vision is to be earth's most inclusive and patient-centric personalized medicine company. We are living in the age of the “medical research gender gap”—a disparity that exists because the vast majority of biological literature is based on single sex studies of males. Research shows that achieving gender equality in science and medicine will improve our standard of care and long-term health outcomes, not just for women, but for everyone. ‍ 
+ Our first product helps individuals identify the best birth control for their unique biology. We do this by integrating two biological readouts: genetics (read one time) and hormone levels (read multiple times throughout your life). By partnering with individuals, adyn provides medically actionable scientific insights and empowers them to proactively optimize their health—from birth control, to fertility, and beyond. 
+ About the role: 
+ Our first full stack engineer will be a champion of our mission and a leader on our team. The full stack engineer will design adyn’s tech stack from ground up. This person will make strategic and scalable technology decisions while writing elegant code and remaining ever vigilant about security. 
+ In this role: 
+ You are an eager participant of the founding team and a part of all major decisions. You set a high bar for execution, both in terms of quality and speed. You are gratified by refining functionality seamlessly over time. You enjoy hiring, and mentoring new team members. You will collaborate with vendors, marketing, bioinformatics teams to help adyn deliver a new standard of care in both virtual and traditional clinical care settings. 
+ In the first month you will: 
+ 
+ Learn adyn’s existing tech approach and processes—including our scientific approach 
+ Architect the overall structure of a scalable tech stack with an emphasis on efficiency, UX, and data security 
+ Expand product offering by integrating with 3rd party API 
+ Build a system to store consumer health information and track progression as it transits our existing bioinformatic pipelines 
+ 
+ In the first quarter you will: 
+ 
+ Build our front end in collaboration with our award winning design firm 
+ Catalyze our mission by creating dashboards for each team to track its goals 
+ Automate tracking systems for complex operational processes involving multiple 3rd party providers 
+ Collaborate with our marketing team to optimize campaigns 
+ 
+ In the first year you will: 
+ 
+ Establish, document, and maintain engineering processes as the company scales 
+ Build a world class engineering team and provide mentorship as needed 
+ Architect a highly customized and scalable backend infrastructure 
+ Optimize audit trail for HIPAA compliance (Aptible, Heroku, AWS) 
+ Engineer intake surveys with logic jumps to efficiently collect consumer reported health data 
+ 
+ Skills: 
+ 
+ Languages: Fluent with python and modern javascript including React 
+ AWS 
+ SQL 
+ Encryption and data security 
+ HIPAA: Aptible, Heroku, and/or AWS (optional) 
+ Natural Language Processing (optional) 
+ Machine learning (optional) 
+ 5+ years of experience 
+ 
+ To apply: 
+ Please email  [email protected] . Use the subject line formatting: [Careers] Full Stack Engineer: Last Name, First Name. Attach a resume. In the body of your email use 3 - 5 sentences to tell us how you exemplify any of our 6 values and another 3 - 5 sentences to describe the biggest lesson of your engineering career. 
+ Technology 
+ adyn analyzes population health data to generate medically actionable insights. Our precision medicine approach combines genetics and endocrinology for the discovery of pharmacological targets and early diagnostics. Our multidisciplinary approach leverages big data from disparate sources to identify robust associations driving a new standard of healthcare. 
+ Other jobs at adyn 
+ Bioinformatician 
+ fulltime 
+ / Remote 
+ 6+ years 
+ Full stack engineer 
+ fulltime 
+ / Remote 
+ Full Stack 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,268 @@
+Wednesday, January 20, 2021 
+ Latest: 
+ 
+ 
+ Pax8 and Enlyft Announce New Partnership 
+ 
+ 
+ SAP Pre-Announces Strong Fourth Quarter and Full-Year 2020 Results 
+ 
+ 
+ Stramaglio Consulting Welcomes Industry Veteran Hiro Ueda 
+ 
+ 
+ SER Group Receives Highest Product Scores in ‘Digital Business Transformation’ & ‘Information Governance’ Use Cases 
+ 
+ 
+ SER Group Acquires Swiss Firm Interact Digital AG 
+ 
+ 
+ __ 
+ 
+ 
+ __ 
+ 
+ 
+ 
+ Workflow 
+ Business process management. Revolutionized 
+ 
+ 
+ 
+ HOME 
+ NEWS 
+ BLOGS 
+ TOPICS 
+ 
+ AI 
+ ANALYST CORNER 
+ CONTENT INTELLIGENCE 
+ AUTOMATION 
+ SECURITY AND COMPLIANCE 
+ VERTICALS 
+ 
+ 
+ Webinars 
+ COMPANIES 
+ 
+ A-E 
+ 
+ ABBYY 
+ Alaris 
+ Alfresco 
+ Canon 
+ Ephesoft 
+ Epson 
+ eQuorum 
+ 
+ 
+ F-K 
+ 
+ Fujitsu 
+ HP 
+ Hyland 
+ IBM 
+ Ingram Micro 
+ Kofax 
+ Konica Minolta 
+ 
+ 
+ L-N 
+ 
+ Laserfiche 
+ M-Files 
+ Microsoft 
+ MWA 
+ Nintex 
+ Nuance 
+ 
+ 
+ O-S 
+ 
+ OpenText 
+ Panasonic 
+ Psigen 
+ Ricoh 
+ SAP 
+ Square 9 
+ 
+ 
+ T-Z 
+ 
+ Upland 
+ Xerox 
+ 
+ 
+ 
+ 
+ MAGAZINE 
+ 
+ 2020 
+ 
+ November 
+ September 
+ May 
+ March 
+ 
+ 
+ 2019 
+ 
+ November 
+ September 
+ May 
+ March 
+ 
+ 
+ 2018 
+ 
+ November 
+ September 
+ May 
+ March 
+ 
+ 
+ 2017 
+ 
+ November 
+ September 
+ May 
+ March 
+ 
+ 
+ 2016 
+ 
+ November 
+ September 
+ May 
+ March 
+ 
+ 
+ 2015 
+ 
+ December 
+ September 
+ May 
+ March 
+ 
+ 
+ 2014 
+ 
+ December 
+ September 
+ May 
+ 
+ 
+ 2013 
+ 
+ December 
+ June 
+ 
+ 
+ 
+ 
+ SUBSCRIBE 
+ 
+ 
+ AI   AI Slideshow   The Bigger Picture 
+ Robots Are Coming For Your Job Interviews, Too 
+ __ July 19, 2019July 1, 2020  __ Patricia Ames  __ AI 
+ Remember the last time you went on a job interview? You made sure you were looking sharp and well-rested. Came (over)prepared with research on the company and its industry. Did a little recon on the internet, maybe hit up some former employees for the inside scoop. You even distilled all the possible bad answers down to your absolute best bad answer for when the inevitable "what's your greatest weakness" question arrives. 
+ But just like almost everything else in the world, artificial intelligence and deep learning are rapidly changing the way companies will interview and hire (or not) employees in the near future. 
+ We're talking about robots separating the wheat from the chaff throughout just about the entire application, recruitment, interviewing and hiring process. Big Industry's never-ending quest for optimization and efficiency continues unabated – humanity be damned. 
+ AI bots for years now  have been scanning an endless river of resumes , weeding out the ones that didn't have any or enough of the magical "keywords" that propelled applicants to the next stage of the process. 
+ Anyone who has looked for a job in the past few years has or should have spent twice as much time figuring out how to game the algorithms as they have on documenting their professional accomplishments. 
+ That's child's play. 
+ How does an AI interviewer grab you? Oh yeah. Human resource departments are leveling up, turning to AI screening managers that are sophisticated enough to purportedly determine whether your personality and acumen are a fit for the position. Are you conscientious? Are you agreeable? The robot will know. 
+ Engineers from around the world  are already holding contests  to determine who can build the best applicant-screening bot to discern your viability for the job based on facial features, voice intonation and word choices. 
+ Researchers working on this panacea for overworked HR departments say this emerging technology will then be combined with other artificial intelligence systems to create an AI interviewer that learns and absorbs all these visual, social and spoken cues well enough to eventually blow the doors off even the most seasoned manager's hard-earned hiring instincts. 
+ Human resource departments are leveling up, turning to AI screening managers that are sophisticated enough to purportedly determine whether your personality and acumen are a fit for the position.Click To Tweet __ 
+ In their book, " Integrating Vision and Language for First-Impression Personality Analysis ”, researchers from the University of Tartu, the University of Barcelona and the Computer Vision Center delve into how AI interviewing algorithms were able to accurately predict five primary personality traits from a short video. The authors created a model that used a dataset of more than 10,000 video clips. 
+ "Our system estimates a person's  Big Five Personality Trait  scores using visual [individual frames extracted from video], paralinguistic and lexical features," the researchers wrote. "Its performance significantly improves with a large set of different personality aspects. Exceptional cases highlight the importance of multi-modal processing for this task." 
+ After developing their hiring model, researchers then implemented a recurrent neural network called a  long short-term memory cell-based network (LSTM)  through which data is fed to replicas of the same neural network. The algorithm – created with feedback from psychologists, data scientists and software engineers – zips through all the video clips to dial in its prediction capabilities. 
+ Theoretically, as this automated HR gatekeeper gets more and more reps, it can fine-tune its ability to identify and recommend applicants for advancement to the next stage of the hiring process. That is, of course, if companies are keen to use it and applicants are willing to play ball. 
+ It's obvious why this AI use case would be so appealing to companies and HR departments. Putting aside the tedious legwork of collecting and reviewing resumes and applications, having a tool that could eliminate all the time spent on interviewing candidates sounds amazing. At what point, though, would it make fiscal sense for the bosses to just have the robots go all the way and do the hiring, too? Soon enough, those who make their living doing the hiring could be on the other end of the robot interview. 
+ For prospective employees, it doesn't seem like the best opportunity in the world. So much of human dialogue is based on reacting to body language and speech cues from the other participant in the room – especially during a job interview. Then again, society has become conditioned to self-service checkouts at the grocery store and automated phone trees for customer service and automated responses in Gmail. 
+ Proponents point out that using AI interviewers allow applicants to interview at home from their computer from anywhere in the world. Perhaps more valuable, as anyone who has every interviewed and waited and waited and waited for word, applicants would quickly find out if they've been eliminated from consideration. 
+ If this technology does become the norm, some new skills will suddenly become just as important as your work experience, education and professional referrals. Whether you’re a database administrator or a regional sales rep, you might want to enroll yourself in an acting class or get a poker coach. "Impression plays a major role in personality analysis," the researchers said, citing a study that found that 7 percent of a person's impression depends on the spoken word, 38 percent on vocal sounds and a whopping 55 percent on facial expressions. 
+ The following two tabs change content below. 
+ 
+ Bio 
+ Latest Posts 
+ 
+ 
+ Patricia Ames 
+ is president and senior analyst for BPO Media, which publishes The Imaging Channel and Workflow magazines. As a market analyst and industry consultant, Ames has worked for prominent consulting firms including KPMG and has more than 15 years experience in the imaging industry covering technology and business sectors. Ames has lived and worked in the United States, Southeast Asia and Europe and enjoys being a part of a global industry and community. 
+ 
+ Latest posts by Patricia Ames ( see all ) 
+ 
+ Google and KM Work the Cloud Together  - January 17, 2020 
+ IoT Security Lines Are Thin and Dicey  - December 5, 2019 
+ Ransomware Is No Joke  - November 1, 2019 
+ 
+ __Tweet 
+  __Share 
+  __Share 
+ 
+ <- Xerox Wins Multi-Year Intelligent Workplace Services Contract from the Commonwealth of Massachusetts 
+ New Approaches for Waging the Security Battle -> 
+ 
+ __You May Also Like 
+   
+ Insurers Need to Rethink How They Process Documents 
+ __ November 1, 2020  __ Reginald J. Twigg 
+   
+ How Brands Can Spot Bad Data Before It Ruins Their AI Project 
+ __ July 20, 2020  __ Pedro Alves 
+   
+ Is Your Role “Bot-Worthy?” How Automation Can Be Your Secret Weapon 
+ __ May 5, 2020  __ Chris Ellis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current Issue 
+   
+  View the Current Issue  
+ About Us 
+ Contact Us 
+ Privacy Policy 
+ Terms of Use 
+ Site Map 
+ RSS Feed 
+ BPO Media 
+840 S. Rancho Dr.Suite 4-558 
+Las Vegas, NV 89106 
+info@bpomedia.com 
+ Connect With Us 
+ Connect with Workflow Magazine 
+ Advertise 
+ Contribute 
+ Submit Press Releases 
+ Subscribe 
+ Read 
+ Blogs 
+ Digital Magazines 
+ Archives 
+ The Imaging Channel 
+ 
+ __ 
+ __ 
+ 
+ Copyright © 2021  Workflow . All rights reserved. 
+ __ 
+ Read Next __ 
+   
+ Taking the Risk Out of Machine Learning and AI 
+ __ November 1, 2019 
+   
+ Insurers Need to Rethink How They Process Documents 
+ __ November 1, 2020 
+ Do NOT follow this link or you will be banned from the site! 
+ __Tweet 
+  __Share 
+  __Share 
+ This site uses cookies. By continuing to browse this BPO Media site (and/or any other BPO Media website), you accept the use of cookies.Ok 

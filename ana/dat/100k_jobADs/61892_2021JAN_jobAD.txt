@@ -1,0 +1,271 @@
+r.j.'s space 
+ on the economy, energy, & the environment 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ <- August 15 graphics 
+ July consumer prices, new home construction, existing home sales, state jobs, et al -> 
+ July's retail sales, industrial production, and producer prices; June's wholesale sales, business inventories, and job openings, et al 
+ Posted on  August 16, 2015  by  rjsigmund 
+ the past week brought the release of the first handful of major monthly reports for July:  retail sales from the Census Bureau ,  Industrial production and capacity utilization  from the Fed, and  the producer price index  from the Bureau of Labor Statistics; in addition, this week also saw  the Import and Export Price Indexes for July  from the BLS, which we'll use to adjust July's trade figures for price changes when they're released the first week of September, the  June report on Wholesale Trade, Sales and Inventories  (pdf) from the Census Bureau, and two reports that rap up the 2nd quarter data for their sectors:  Manufacturing and Trade: Inventories and Sales for June , covered in the financial press as the business inventories report, and the  June Job Openings and Labor Turnover Survey  (JOLTS), providing the details behind the payroll jobs report of the month before last… 
+ in addition, this week also saw the release of three major quarterly reports:  the 2nd Quarter Report on Household Debt and Credit Report  (pdf) from the NY Fed, which covered mortgages, auto loans, student debt, revolving credit and other forms of credit with 15 large national graphs and 15 state level graphics; the  2nd quarter National Mortgage Delinquency Survey  from the Mortgage Bankers Association (MBA), which reported the delinquency rate on mortgage loans fell to a seasonally adjusted rate of 5.30% of all loans outstanding, down from 5.54% in the first quarter, and  the 2nd quarter report on Labor Productivity and Costs  from the BLS, which indicated that labor productivity, or real output divided by man hours, rose at a 1.3% annual rate in the quarter, while unit labor costs rose 0.5%, reflecting a 1.8% increase in hourly pay and the 1.3% increase in productivity; Robert Oak has a detailed explainer on that report in his post  Labor Productivity Grows By Just 1.3% in Q2 2015  with 13 FRED graphs… 
+ July Retail Sales More Than 1% Higher Than Reported for June 
+ seasonally adjusted retail sales rose more than expected in July, and revisions to May and June sales added another 0.4% to the running total…..the  Advance Retail Sales Report for July  (pdf) from the Census Bureau estimated that our seasonally adjusted retail and food services sales totaled $446.5 billion, which was an increase of 0.6 percent (±0.5%) from June's revised sales of $443.9 billion and 2.4 percent (±0.7%) above the sales of July of last year…June's seasonally adjusted sales were revised from the $442.0 billion first reported to $443.9 billion, while May's sales, which were revised down to $443.3 billion from the originally reported $444.9 billion last month, were revised back up to $443.9 billion with this report….annualized, those revisions would add  $10.6 billion  to the previously reported second quarter personal consumption expenditures, and assuming no change in the price indices for May and June, 0.14 percentage points to real 2nd quarter growth….estimated unadjusted sales in July,  extrapolated from surveys of a small sampling of retailers , indicated unadjusted sales rose 1.8%, from $447,712 million in June to $455,846 million in July , while they were up 2.0% from the $443,153 million of sales in July a year ago… 
+ as usual, we'll include the table of monthly and yearly percentage changes in sales by business type taken  from the Census pdf , as you should all be familiar with this view…..the first double column below gives us the seasonally adjusted percentage change in sales for each type of retail business type from June to July in the first sub-column, and then the year over year percentage change for those businesses since last July in the 2nd column; the second pair of columns gives us the revision of last month’s June advance monthly estimates (now called "preliminary") as revised in this report, likewise for each business type, with the May to June change under "May 2015 revised" and the revised June 2014 to June 2015 percentage change in the last column shown…for your reference,  the table of last month’s advance June estimates before this month's revision is here …. 
+ 
+ as you can see from the above, the 1.4% increase to $92,753 million in sales at vehicle and parts dealers gave a major boost to July sales, but even excluding automotive sales from the total, other retail sales were still up 0.4% to $353,724 million…other types of retailers that saw major sales increases in July included non-store and online retailers, who saw sales increase 1.5% to $40,493 million, specialty stores, such as sporting goods, book and music stores, where sales rose 0.9% to $7,404 million, and furniture stores, where sales rose 0.8% to $8,666 million; on the other hand, electronics and appliance store sales saw sales fall 1.2% to $8,610 million, while department store sales fell 0.8% to $13,769 million… for the past year, the 9.0% increase in sales at restaurants and bars was the largest of any group, while the 15.2% drop in gasoline stations sales was the worst result and obviously due to lower gasoline prices… 
+ there were also major changes to June sales, shown in the 2nd pair of columns above…comparing that data to our  copy of sales as originally reported last month , we first find that sales at car dealers, which were originally reported as down 1.0%, have been revised to show a worse June sales decline of 1.6%…offsetting that, we find that several types of retailers saw their June sales revised up by more than a half a percent; the change in June sales at building material and garden supply stores saw a 15% improvement, as they was revised from a decrease of 1.3% to an increase of 0.2%; gasoline station sales were revised from an increase of 0.8% to an increase of 1.8%; furniture store sales were revised from a decrease of 1.6% to a decrease of 1.0%; clothing store sales were revised from a decrease of 1.5% to a decrease of 0.9%, and sales at drug stores in June are now shown to have increased 0.8%, rather than the 0.2% increase reported in the advance estimate.. 
+ July industrial Production Sees Largest Increase in 8 Months on Jump in Auto Output 
+ industrial production rose 0.6% in July after increasing by a revised 0.1% increase in June  as the data and indexes provided by this report have undergone an annual revision and a major overhaul  since the last time we reviewed this report…notably for us, the base year for the indexes was advanced from 2007 to 2012, which raised the level of each of the indexes by the difference between the two periods…what this means is that we cannot directly compare current data to previous data that we have recorded, but only note revisions as they're reported here…the net of this revision was that industrial production throughout the recovery years was lower than had previously been reported, increasing at a rate less than 2.5% from 2011 through 2013, and not achieving the pre-recession level until May 2014, seven months later than was previously published.. 
+ for July, the Fed's  G17 release on Industrial production and Capacity Utilization  showed that the 0.6% increase in seasonally adjusted industrial production came after the increase in June production was revised from 0.3% to 0.1%, with the June increase seeing an intermediate revision to 0.2% with the annual revision; while a previously recorded decrease of 0.2% in May production was revised to a decrease of 0.3%… the industrial production index, with the benchmark now set for average 2012 production to equal to 100.0, rose to 107.5 in July after the June index was revised from 107.1 to 106.9 and the indexes for April and May were both revised 0.1 lower…..to the extent that this report plays into GDP, the downward revision to April, May and June output would suggest a weaker than originally reported 2nd quarter growth rate when the 2nd estimate of GDP is released two weeks from now… 
+ in July, the manufacturing index increased by 0.8%, the largest monthly increase since November, as the index for manufacturing rose from 104.9 to 105.7, after the the June index was revised down from 105.1…even with the strong increase, however, the revised manufacturing index is now just 1.5% higher than a year ago, vs the 1.8% year over year increase reported last month…the mining index, which is dominated by oil and gas drilling, rose 0.2% in July after rising a revised 0.7% in June; that had originally been reported as a 1.0% increase, and at 117.1, the mining index is now 2.0% below its year ago reading…the utility index, meanwhile, fell 1.0% in July after rising 2.3% in June, as  although July was warmer than normal , it was less so than June, and the corresponding seasonal adjustment thus reduced the index, as air conditioning usage was less above normal in July than in June…at 103.4, the utility index was 4.6% higher than last year, when AC usage was closer to normal… 
+ production for the major market groups was mixed in July, with production of consumer goods rising 1.2% in July as output of consumer durable goods rose 5.6% on a 10.9% increase in production of automotive products, while production of non-durables fell by 0.1% on a 1.3% drop in the output of consumer energy products…production of business equipment rose 0.1%, while production of defense and space equipment fell 0.9%; production of construction materials rose 0.2% and production of business supplies fell 0.2% while output of intermediate materials rose 0.6%…. further details for industrial production by market group, including the changes for each of the last 6 months, 3 quarters and 3 years, can be found on  Table 1  and  Table 4  of the report, with table 1 showing the percentage change from the prior month, quarter or year, and table 4 giving the new index and subindex values for the same… 
+ as you know, this report also gives us  capacity utilization data , which is expressed as the percentage of our plant and equipment that was in use during the month, and which rose from 77.7% in June to 78.0% in July…seasonally adjusted capacity utilization for all manufacturing industries was up 0.5% to 76.2% after the annual revision reduced historical manufacturing capacity utilization from 3/4 percentage points to 2 percentage points lower…capacity utilization for mining fell from 84.5% in June to 84.4% in July, while utilities were operating at 79.1% of capacity during July, down from 79.9% in June…for more details on capacity utilization by type of manufacturer, see  Table 7: Capacity Utilization: Manufacturing, Mining, and Utilities , which shows the historical capacity utilization figures for a dozen types of durable goods manufacturers, 8 classifications of non-durable manufacturers, mining, utilities, and a handful of other special categories…. 
+ Producer Prices Rise 0.2% on Services 
+ wholesale prices moderated in July as the seasonally adjusted  Producer Price Index  (PPI) for Total Final Demand increased by 0.2%, as final demand for services rose 0.4% while wholesale goods prices slipped 0.1%; that followed  a June index increase of 0.4% that was propelled by higher prices for wholesale eggs and energy …the year over year change in producer prices still remains negative, however, as the annual change in the index fell from a negative 0.7% in June to a negative 0.8% in July…. 
+ the index for final demand for goods, aka 'finished goods', fell by 0.1% in July after rising 0.7% and in June 1.3% in May, as the index for energy prices fell by 0.6% as  wholesale prices for home heating oil fell 9.5%  and offset a 1.5% increase in wholesale gasoline prices…the price index for final demand for foods was 0.1% lower, as wholesale fresh egg prices fell by 24.8% after rising by 69.6% in June and 42.9% in May, while wholesale grain prices rose 9.1% ( see table 4 )…..excluding food and energy, the index for final demand for wholesale core goods was unchanged in July after an increase of 0.4% in June, as a 2.4% increase in wholesale industrial chemicals was offset by small decreases in wholesale prices several other goods.. 
+ as we noted, the index for final demand for services rose 0.4% in July after rising 0.2% in June, as the index for final demand for trade services rose by 0.4%, the index for final demand for transportation and warehousing services rose 0.2%, and the index for final demand for services less trade, transportation, and warehousing services was up 0.4%…. margins for computer hardware, software, and supplies retailers increased by 11.6% , and margins for traveler accommodation services rose 8.9%, while margins on recreational activity instruction fees fell 7.3% and the margins of major appliances retailers fell 7.2%… 
+ this month's report also showed the price index for processed goods for intermediate demand fell by 0.2% after rising 0.7% in June and 1.0% in May, while the index for intermediate processed goods slipped to 6.6% lower than in July a year ago….the decrease was precipitated by a 1.5% drop in prices for intermediate energy goods, while the index for processed foods and feeds rose 0.9% and the price index for processed goods for intermediate demand less food and energy rose 0.1%…in addition, the price index for intermediate unprocessed goods fell by 2.9% in July after rising 1.2% in June and 3.3% in May, as prices for crude energy materials were 6.2% lower, the index for unprocessed foodstuffs and feedstuffs fell 1.2%, and the index for other raw materials fell 0.5%…this left the raw materials index 22.7% lower than it was a year ago, as it saw prices fall 10 out of the 11 months prior to April, only eking out a 0.1% increase in September of last year… 
+ finally, the price index for services for intermediate demand rose by 0.2% in July following a 0.4% increase in June, as the index for trade services for intermediate demand rose 0.6%, the index for transportation and warehousing services for intermediate demand rose 0.5%, while the price index for services less trade, transportation, and warehousing for intermediate demand was unchanged…over the 12 months ended in July, the price index for services for intermediate demand has risen 1.1%… 
+ June Wholesale Sales Rose 0.1%, Wholesale Inventories Rose 0.9% 
+ the  June report on Wholesale Trade, Sales and Inventories  (pdf) from the Census Bureau estimated that seasonally adjusted wholesale sales were at $449.9 billion, an increase of 0.1 percent (+/-0.7)* from the revised May level, while they still remained 3.8 percent (+/-1.2%) lower than wholesale sales of a year earlier…the May preliminary estimate was revised down by $0.5 billion, or 0.1%, meaning that the value of wholesale sales reported in June is virtually the same as the $449.8 billion that was reported last month for May…wholesale sales of durable goods fell 1.1 percent (+/-1.1%)* from May and were down 1.5 percent (+/-1.6%)* from a year earlier as wholesale sales of automotive products dropped 2.8% and wholesale sales of machinery and equipment were 2.2% lower than in May…wholesale sales of nondurable goods were up 1.2 percent (+/-0.7%) from May, but were down 5.7 percent (+/-1.8%) from last June, with wholesale sales of petroleum and petroleum products up 3.7%, and wholesale sales of farm products up 3.6% on the month, mostly on higher prices…as an intermediate activity, wholesale sales are not included in GDP except as a trade service, since they do not represent an increase in the output of the goods sold…. 
+ on the other hand, the monthly change in private inventories is a major factor in GDP, as additional goods “on the shelf” represent goods that were produced, and the Census estimated they were valued at $586.2 billion at the end of June, 0.9 percent (+/-0.4%) higher than the revised May level and 5.4 percent (+/-1.4%) above the valuation of last June's inventories, while May's preliminary inventory estimate was revised down by $1.1 billion or 0.2%….wholesale durable goods inventories were up were up 0.1 percent (+/-0.4%)* from May and were 5.4 percent (+/-1.8%) higher than a year earlier, as the value of inventories of vehicles and parts were 2.0% higher than May, while inventories of computers, peripheral equipment and software were down 2.1%…inventories of nondurable goods were valued 2.3 percent (+/-0.5%) higher than in May and 5.5 percent (+/-1.8%) above last June, as the value of inventories of raw farm products were 15.5% higher and inventories of petroleum and petroleum products were up 3.6%…the June change in inventories was only estimated when the GDP advance report was released two weeks ago, and the large jump recorded here has led to widespread  speculation that an upward revision to GDP would be in the offing , some guessing by  as much as 0.5% …however,  the producer price index for goods rose by 0.7% in June  on 2.4% higher energy prices, while intermediate food prices rose 1.4%…combined with the 0.2% downward revision to May inventories, this suggests virtually no improvement in real inventories, and maybe even a decrease in the change in GDP… 
+ Total Business Sales Up 0.2% in June, Business Inventories Up 0.9% 
+ following the release of retail sales report, Census released  the composite Manufacturing and Trade Inventories and Sales report for June , which incorporates the revised June retail data and gives us a complete picture of the business contribution to the economy for the month…according to the Census Bureau, total manufacturer's and trade sales were estimated to be valued at a seasonally adjusted $1,325.5 billion in June, 0.2% (±0.2%) higher than May revised sales, but still down 2.5 percent (±0.4%) from June a year earlier…total May sales were revised down less than 0.1%, from $1,323.6 billion to $1,322,962 million….manufacturer's sales rose by 0.45% to $483,530 million, retail trade sales, which exclude restaurant & bar sales from the retail sales reported earlier, fell by less than 0.1% to $392,010 million, and wholesale sales rose by 0.1% to $449,920 million… 
+ meanwhile, total manufacturer's and trade inventories, a major component of GDP, were estimated to be at a seasonally adjusted $1,812.5 billion at the end of June, 0.9 percent (±0.1%) higher than May and up 3.0 percent (±0.5%) from June a year earlier…seasonally adjusted inventories of manufacturers were estimated to be valued at $653,560 million, a 0.6% million increase over May, inventories of retailers were valued at $572,740 million, 0.9% greater than May, and as we noted earlier, inventories of wholesalers were estimated to be valued at $586,156 million at the end of June, up 0.9% from May…this sharp increase in the nominal value of business inventories led many to speculate that  the previously published inventory contribution to GDP would be revised higher ; however, as we noted last week,  the factory inventory growth was driven by higher prices for refined products , and as we noted earlier, most of the growth in wholesale inventories was also due to higher prices…that leaves only the unexpected 0.9% increase in retail inventories, which will be adjusted for the  0.4% retail commodity price inflation reported with the June CPI , to add any sizable increment to 2nd quarter GDP real inventories…given that inventories are notoriously hard to value (as the portion valued in previous months is unknown), we wouldn't specurate how much, but nonthelsss feel it's less than the consensus estimates.. 
+ Job Openings Drop in June; Hiring and Firing Rises 
+ the number of job openings reported by private businesses and government agencies in June fell from the record high that was set in May…the  June Job Openings and Labor Turnover Survey  (JOLTS) from the Bureau of Labor Statistics estimated that seasonally adjusted job openings fell by 108,000 to 5,249,000 in June after May job openings were revised from 5,363,000 to 5,357,000…nonetheless, June's jobs openngs were still 11.4% higher than the 4,710,000 job openings reported in June a year ago…decreases in openings were spread across most industries, as only job openings in prrofessional and business services and health care and social assistance saw increases for the month ( see table 1 )…like most BLS releases,  the press release for report  is very readable and also refers us to the associated table for the data cited, linked at the end of the release… 
+ the JOLTS release also reports on labor turnover, which consists of hires and job separations, which in turn is further divided into layoffs and discharges, those who quit, and 'other separations', which includes retirements and deaths….in June, seasonally adjusted  new hires totaled 5,177,000 , up 117,000 from the revised 5,060,000 hired or rehired in May, as the hiring rate as a percentage of all employed rose from 3.6% to 3.7%, up from a hiring rate of 3.5% in June a year earlier ( details of hiring by industry are in table 2 )…. total separations also rose , from 4,799,000 in May to 4,931,000 in June, as the separations rate as a percentage of the employed rose from 3.4% to 3.5%, up from a separations rate of 3.3% a year ago ( see table 3 )…subtracting the 4,931,000 total separations from the total hires of 5,177,000 would imply an increase of 246,000 jobs in May, a bit more than  the revised payroll job increase of 231,000 for June reported by the July establishment survey last week , not an unexpected difference considering the large margins of error in both surveys… 
+ breaking down the seasonally adjusted job separations, the BLS finds that  2,748,000 quit their jobs in June , up 18,000 from the revised 2,730,000 who quit their jobs in May, while the quits rate, widely watched as an indicator of worker confidence, was unchanged at 1.9% of total employment ( see details in table 4 )….in addition to those who quit, another  1,791,000 were either laid off, fired or otherwise discharged in June , up 131,000 from the 1,660,000 who were discharged in May, as the discharges rate rose from 1.2% to 1.3% of all those who were employed during the month….meanwhile,  other separations, which includes retirements and deaths, were at 392,000 in June , down from 409,000 in May, for an 'other separations' rate of 0.3%, which was unchanged…both seasonally adjusted and unadjusted details by industry and by region on hires and job separations, and on job quits and discharges can be accessed using  the links to tables at the bottom of the press release … 
+ 
+ _ 
+(the above is the synopsis that accompanied my regular sunday morning links emailing, which in turn was mostly_   selected from my weekly blog post   on the   global glass onion   …if you’d be interested in receiving my weekly emailing of selected links, most from the aforementioned GGO posts,   contact me   …) 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- August 15 graphics 
+ July consumer prices, new home construction, existing home sales, state jobs, et al -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ global oil supply near December's demand; US distillates exports at a 40 mo low​; gasoline production at a 34 week low​ 
+ December's consumer & producer prices, retail sales, & industrial production; November's business inventories & JOLTS 
+ tables and graphs for January 16 
+ gasoline demand at a 32 week low, gasoline supplies up ​most in 3​5 weeks; distillate​s​ supplies​ up most in 31 weeks​ 
+ December's jobs report; November's trade deficit, construction spending, factory inventories, and wholesale trade.. 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ rjsigmund  on  tables and graphics for Novemb… 
+ 
+ 
+ 
+ 
+ Marsha Boggs on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ godfrey on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ October 2011 
+ September 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ 
+ 
+ 
+ Categories 
+ 
+ mortgage crisis 
+ retail sales 
+ Uncategorized 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  r.j.'s space  
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

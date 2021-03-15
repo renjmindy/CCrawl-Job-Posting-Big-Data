@@ -1,0 +1,163 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ Go Jobs 
+ Browse jobs for software engineers and developers 
+ 
+ Show filters 
+ We found 20 jobs matching 'Go Jobs' 
+ Senior Data Engineer CompetitiveFlipside CryptoUnited States of America 
+ Flipside provides business intelligence for blockchain organizations 
+ Remote 
+ scala python data engineering go spark 
+ More Info Apply 
+ Senior Security Engineer CompetitiveGeminiNew York, NY, US 
+ Gemini is a next generation cryptocurrency exchange that allows customers to buy, sell, and store crypto. 
+ scala python java c/c++ golang go security 
+ More Info Apply 
+ Distributed Systems Engineer (Go)CompetitiveDigital AssetNew York, NY, US 
+ Develop distributed ledger technology with Go + Kubernetes 
+ scala haskell docker kubernetes go 
+ More Info Apply 
+ Blockchain Application Security Engineer (Smart Contract Auditor)CompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts - 
+ Remote 
+ rust python c++ go blockchain security cybersecurity 
+ More Info Apply 
+ Site Reliability Engineer, ML Ops551K - 725K SEKTruecallerStockholm, Sweden 
+ Changing the way hundreds of millions of people interact with each other every day 🤝 
+ Sponsorship 
+ linux cloud distributed systems sre kubernetes go machine learning 
+ More Info Apply 
+ Site Reliability Engineer, Platform Team540K - 650K SEKTruecallerStockholm, Sweden 
+ Changing the way hundreds of millions of people interact with each other every day 🤝 
+ Sponsorship 
+ linux distributed systems sre google cloud kubernetes terraform go devops 
+ More Info Apply 
+ Smart Contract Engineer$100K - 170KGauntletUnited States of America 
+ Work with us here at Gauntlet to drive adoption in the financial systems of the future. 
+ Remote 
+ python c++ ethereum go 
+ More Info Apply 
+ Backend Engineer $100K - 170KGauntletUnited States of America 
+ Work with us here at Gauntlet to drive adoption in the financial systems of the future. 
+ Remote 
+ rust python c++ go 
+ More Info Apply 
+ Principal Engineer€80K - 98Ktravel audienceBerlin, Germany 
+ Join the world's leading data-driven travel-ad platform as a Principal Engineer in Berlin - 
+ Sponsorship 
+ scala python go architecture jvm 
+ More Info Apply 
+ Join our newsletter 
+ Join over 111,000 others and get access to exclusive content, job opportunities and more! 
+ your email address 
+ Subscribe 
+ Thanks for signing up. 
+We'll see you soon 👋 
+ Experienced Software Engineer$90K - 190K + EquityTrueAccordUnited States of America 
+ An Experienced Software Engineer would be a Senior, Staff, or Principal Engineer. 
+ Remote 
+ scala python java react docker distributed systems go aws scalability typescript/javascript 
+ More Info Apply 
+ Senior Full-Stack Software EngineerCompetitivePelotechUnited States of America 
+ We're looking for software engineers that want to write great code for real customers 
+ Remote 
+ node.js docker kubernetes kafka go rancher aws / gcp 
+ More Info Apply 
+ Blockchain Engineer, IntegrationsCompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts (Rust/Go) - 
+ RemoteSponsorship 
+ rust javascript go blockchain solidity 
+ More Info Apply 
+ Senior Software EngineerCompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts - 
+ RemoteSponsorship 
+ rust docker go blockchain ethereum solidity typescript 
+ More Info Apply 
+ Golang Engineer£35K - 70KSky Betting & GamingUnited Kingdom 
+ You'll be responsible for building and running the transactions engine that underpins our products 
+ Remote 
+ docker kubernetes kafka go jenkins mysql 
+ More Info Apply 
+ Elixir Developer€40K - 65KDerivcoBarcelona, Spain 
+ World leading Sportsbook provider 
+ erlang elixir ruby go 
+ More Info Apply 
+ Senior Clojure Engineer£70K - 80KuSwitchLondon, United Kingdom 
+ Serve millions of users every month using Clojure 
+ clojure elixir go graphql 
+ More Info Apply 
+ Clojure Engineer£45K - 70KuSwitchLondon, United Kingdom 
+ Serve millions of users every month using Clojure 
+ clojure elixir go graphql 
+ More Info Apply 
+ Senior Software Engineer£55K - 95KuSwitchLondon, United Kingdom 
+ Serve millions of users every month using front end/functional technology 
+ clojure elixir javascript react go 
+ More Info Apply 
+ Lead Engineer - Retail Platform (Go) CompetitiveZalando SEBerlin, Germany 
+ Tech Lead - Retail Platform (Go) - Design & build mission-critical applications 
+ Sponsorship 
+ go 
+ More Info Apply 
+ Elixir Developer€40K - 75KDerivcoStockholm, Sweden 
+ World leading Sportsbook provider 
+ Sponsorship 
+ erlang elixir linux go 
+ More Info Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

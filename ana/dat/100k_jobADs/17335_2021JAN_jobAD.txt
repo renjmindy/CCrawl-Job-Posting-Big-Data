@@ -1,0 +1,403 @@
+  
+ MENU 
+ 
+  Our jobs  
+ 
+  OPEN APPLICATION  
+  Post-doc position to "investigate dynamics and evolution of marine DPANN symbiont and their host populations"  
+  Elektronicus NMF Support  
+  Postdoc position: “Effects of windfarms on the marine ecosystem: Ecosystem productivity and feedback of sessile epifauna on structures”.  
+  PhD position: "Harmful Algal Blooms from the present to the past: a (paleo)ecological and genomic approach"  
+  PhD position: “The long-term relationship between sea-level change and sedimentation in the North Sea”  
+  Postdoc position: “Determining the impact of hydrothermal vent nanomaterials on ocean (bio)geochemistry”  
+  PhD position: “Developing automated image analysis to examine an overlooked link in the North Sea: Zooplankton”  
+  PhD position: “Modelling the drivers of reef microbialization”  
+  PhD position: “Builders on the beach; establishing dynamics of coastal dunes”  
+  Postdoc position: “Identity and concentration of nanoplastic and microbial nanoplastic degradation in the ocean“  
+  PhD-project: “Impact of microphytobenthos on C, N, P and Si cycling in dynamic intertidal systems”  
+  Postdoc position: "Constraining past atmospheric CO2 concentrations using biomarker lipids"  
+  Post-doc or PhD position: “To investigate the origin and diversification of eukaryotic metabolisms in light of Earth history”  
+  PhD position: “The Intermittency of large-scale ocean mixing”  
+  Postdoc position “The role of N2 fixing cyanobacteria in past marine biogeochemical cycles”.  
+  Postdoc position: “Tracing river carbon in marine sediments using organic proxies ”.  
+  Postdoc position: “Understanding large scale spatiotemporal distributions of macrozoobenthos in the Dutch Wadden Sea”  
+ 
+ 
+  The Royal NIOZ  
+  Career  
+  NWO-I Science Jobs  
+  Marine research excellence  
+  The Royal NIOZ Experience  
+ 
+  The Experience  
+  The Royal NIOZ and Texel  
+ 
+  A bit of history  
+  The Potvis / Royal NIOZ Campus  
+  Links on Texel Living  
+  Employee Services  
+ 
+ 
+  The Royal NIOZ and Yerseke  
+ 
+  A bit of history  
+  De Keete / NIOZ Guesthouse  
+  Links on Yerseke living  
+  Employee Services  
+ 
+ 
+ 
+ 
+  Contact HR  
+ 
+  The Royal NIOZ HR Philosophy  
+  Choose your HR Adviser  
+  Apply for a job  
+  Who’s who?  
+  The Newbie Programme  
+  Contact us  
+  AlumNIOZ  
+  Internhip(s)  
+ 
+ 
+ 
+ Post-doc or PhD position: “To investigate the origin and diversification of eukaryotic metabolisms in light of Earth history” 
+ This vacancy is the result of the collaboration between Utrecht University and NIOZ. The Department of Marine Microbiology and Biogeochemistry (MMB) located at the Netherlands Institute for Sea Research (NIOZ) and the Department of Biology / Utrecht Bioinformatics Center at Utrecht University, are looking for a postdoctoral researcher with expertise in phylogenetics, genomics and bioinformatics who is motivated to explore the evolution of metabolism in microbial eukaryotes in relation to earths paleoclimate. The position is offered for four (PhD) or three years (post-doc). 
+ 2020-12-17 11:37:44 
+ LOCATION:            ROYAL NIOZ - TEXEL (THE NETHERLANDS) 
+VACANCY NR.:      2020 - 86 
+CLOSING DATE:    February 10th, 2021 
+ 
+ **BACKGROUND 
+** The candidate will be part of the Department of Marine Microbiology and Biogeochemistry (MMB), as well as at the Utrecht Bioinformatics Center and is funded through a joint grant supporting collaborations between researchers at NIOZ and Utrecht University (UU). Specifically, this project brings together research of Prof. Dr. Snel, who chairs the bioinformatics group at the Department of Biology (UU) as well as of Dr. Anja Spang, who is tenure track scientist at NIOZ. Furthermore, it involves the Co-PIs Dr. Emmanuelle Javaux, an expert in the early eukaryotic fossil record and experts in deep Earth-ocean-atmosphere reconstructions at UU and NIOZ, particularly Dr. Paul Mason (UU) and Rick Hennekam (NIOZ). The combined expertise of Dr. Spang and Dr. Snel spans the earliest aspects of eukaryotic evolution from the microbial ancestors to the vast diversity of extant eukaryotes and brings together expertise in metagenomics, microbial evolution, phylogenetics and molecular dating. 
+ 
+ **THE PROJECT 
+** The origin of eukaryotic life represents a defining and enigmatic event in life's history hypothesized to have occurred in the marine realm through a symbiosis between archaea and bacteria. Importantly, this event has forever changed life on Earth and shaped todays visible biosphere that is dominated by diverse eukaryotic life ranging from algae and protists to plants, animals and fungi. Many crucial questions on the evolution and diversification of the metabolic diversity of eukaryotes throughout Earth and climate history remain unresolved, hampering predictions on the future evolution of ocean life. To shed light on these unanswered questions, we seek to utilize novel bioinformatics, genomics and phylogenetics approaches to be able to combine enzyme evolution with fossil and paleoenvironmental data and in turn bridge eukaryotic diversification with geological records. 
+ 
+ **THE CANDIDATE 
+** We are looking for a researcher who is passionate about bringing hidden histories from genomes into the open. For this we seek a highly motivated PhD student or postdoctoral researcher with a PhD and background in phylogenetics, phylogenomics, metagenomics or related fields willing to learn and apply cross-disciplinary approaches and work in a highly collaborative environment. Experience in the use of the command line and Unix as well as in the application of programming languages such as R and Python are desired. Furthermore, the optimal candidate has a keen interest in evolution and eukaryotic diversity, is a good team player and highly motivated to pursue new avenues of research. Due to the international character of our research, good command of English, spoken as well as written, is a prerequisite. We highly encourage applicants from all members of our research community and of diverse background to join us. 
+ **CONDITIONS OF EMPLOYMENT 
+** Employment of this position at Royal NIOZ is by  NWO  (The Netherlands Organization of Scientific Research). We offer a fulltime position for 3 years (Post-doc) or a period of 4 years (PhD) both fulltime. The PhD position is a offer for a period of 1 year (fulltime). At the end of this first year, the employment will be extended for a fixed-term of a maximum of 4 years, if the first year evaluation held with the employee is positive. The salary is compliant to the  CAO-OI  (Collective Labour Agreement for Dutch Research Institutes), a pension scheme, a holiday allowance of 8% of the gross annual salary, a year-end bonus of 8,3%, flexible work arrangements and 42 days of holiday leave (fulltime position). 
+ You may expect attractive secondary employment conditions. We offer generous relocation expenses for employees coming from abroad and support with finding accommodation. 
+ **MORE INFORMATION 
+** For additional information about this vacancy, please contact:  Dr. Anja Spang  (Tenure track scientist at NIOZ) and  Prof. dr. Berend Snel  (Professor at UU). For additional information about the procedure, please contact:  Valentijn  Tiemensma (senior HR advisor). 
+ Learn more about the Department of Marine Microbiology and Biogeochemistry at NIOZ  here  and the Utrecht Bioinformatics Center (Department of Biology) at UU  here . 
+ Find more information about the UU-NIOZ projects here. 
+ Interviews will be held from January until position is filled and are likely to be virtual due to Covid19-related travel restrictions. 
+ Post-doc or PhD position: “To investigate the origin and diversification of eukaryotic metabolisms in light of Earth history” 
+ APPLY TO JOB HERE 
+ VIEW CURRENT JOB OPENINGS 
+ 
+ Share on: 
+ [Twitter](https://twitter.com/intent/tweet?text=Post-doc or PhD position: “To investigate the origin and diversification of eukaryotic metabolisms in light of Earth history”&url=https://www.workingatnioz.com/our-jobs/post-doc-or-phd-position-“to-investigate-the-origin-and-diversification-of-eukaryotic-metabolisms-in-light-of-earth-history”.html&via=RoyalNioz)  Facebook  [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://www.workingatnioz.com/our-jobs/post-doc-or-phd-position-“to-investigate-the-origin-and-diversification-of-eukaryotic-metabolisms-in-light-of-earth-history”.html&title=Post-doc or PhD position: “To investigate the origin and diversification of eukaryotic metabolisms in light of Earth history”&summary=Royal NIOZ (MMB department) and Utrecht University, are looking for a postdoctoral researcher or PhD-student with expertise in phylogenetics, genomics and bioinformatics who is motivated to explore the evolution of metabolism in microbial eukaryotes in relation to earths paleoclimate. &source=https://www.workingatnioz.com/our-jobs/post-doc-or-phd-position-“to-investigate-the-origin-and-diversification-of-eukaryotic-metabolisms-in-light-of-earth-history”.html) 
+ Share with a friend: 
+ Mail a friend 
+ WORKING 
+@NIOZ TEXEL 
+ Working at the Royal NIOZ Texel 
+ 
+ Working on Texel 
+ Our policies 
+ Benefits 
+ Foreign nationals 
+ Career development 
+ Compensation 
+ Internship(s) 
+ The Potvis / Royal NIOZ Campus 
+ 
+ WORKING 
+@NIOZ YERSEKE 
+ Working at the Royal NIOZ Yerseke 
+ 
+ Working in Yerseke 
+ Our policies 
+ Benefits 
+ Foreign nationals 
+ Career development 
+ Compensation 
+ Internship(s) 
+ De Keete / NIOZ Guesthouse 
+ 
+ NEWS  More news > 
+  NIOZ PODCAST-SERIE VAN DELTA TOT DIEPZEE 
+EEN ZOEKTOCHT NAAR DE STAND VAN DE ZEE >     TEN INTERVIEWS WITH OUR SCIENTISTS AND ENGINEERS 
+THE ANNUAL REPORT GIVES AN INSIDE LOOK INTO THEIR WORK IN 2019 >  
+ Social       SEE WHO YOU KNOW ALREADY? 
+WE LIKE TO LINK WITH YOU >     BEHIND THE SCENES 
+MARINE ORGANIC BIOGEOCHEMISTRY IS SOCIAL >  
+ our jobs   Postdoc position: “Understanding large scale spatiotemporal distributions of macrozoobenthos in the Dutch Wadden Sea” >     Postdoc position: “Tracing river carbon in marine sediments using organic proxies ”. >    View All Jobs > 
+ [ Take a swim 
+ Help our exploration of estuaries, seas and oceans? Join our supporting staff. Send in an open application. 
+ ](our-jobs/open-application.html) 
+ ROYAL 
+NIOZ 
+IN 60 
+SECONDS 
+   
+ The Royal NIOZ, an NWO Institute, is the Dutch national institute for fundamental and applied marine sciences. It is our goal to improve and share our knowledge of estuaries, seas and oceans: for a better understanding of our planet. 
+ 
+ WORKING@NIOZ 
+ 
+ 
+ Policies 
+ 
+ 
+ Benefits 
+ 
+ 
+ Foreign nationals 
+ 
+ 
+ Career development 
+ 
+ 
+ Compensation 
+ 
+ 
+ Internships 
+ Employee Council 
+ 
+ 
+ 
+ 
+ ROYAL EXPERIENCE 
+ 
+ 
+ 
+ Royal NIOZ on Texel 
+ 
+ 
+ 
+ Royal NIOZ in Yerseke 
+ 
+ 
+ 
+ Sail the Pelagia 
+ 
+ 
+ 
+ 
+ Links on Texel Living 
+ 
+ 
+ 
+ Links on Yerseke Living 
+ 
+ 
+ 
+ Video diaries 
+ 
+ 
+ 
+ CONTACT HR 
+ 
+ 
+ 
+ Our HR Philosophy 
+ 
+ 
+ 
+ Choose an advisor 
+ 
+ 
+ 
+ Apply for a job 
+ 
+ 
+ 
+ Who's who? 
+ 
+ 
+ 
+ The Newbie Programme 
+ 
+ 
+ 
+ Leaving Royal NIOZ 
+ 
+ 
+ AlumNIOZ 
+ 
+ 
+ 
+ Royal NIOZ Academy 
+ 
+ 
+ 
+ SERVICE 
+ 
+ 
+ 
+ Job Alert 
+ 
+ 
+ 
+ News 
+ 
+ 
+ Directions & Maps 
+ 
+ 
+ Forms 
+ 
+ 
+ 
+ NWO-I Science jobs 
+ 
+ 
+ 
+ 
+ NVP Code of Conduct 
+ 
+ 
+ 
+ 
+ Privacy Statement 
+ 
+ 
+ 
+ Disclaimer 
+ 
+ 
+ 
+ Contact us 
+ 
+ 
+ 
+ 
+ The Royal NIOZ, an NWO Institute, is the Dutch national institute for fundamental and applied marine sciences. It is our goal to improve and share our knowledge of estuaries, seas and oceans: for a better understanding of our planet. 
+ 
+ WORKING@NIOZ 
+ 
+ 
+ Policies 
+ 
+ 
+ Benefits 
+ 
+ 
+ Foreign nationals 
+ 
+ 
+ Career development 
+ 
+ 
+ Compensation 
+ 
+ 
+ Internships 
+ Employee Council 
+ 
+ 
+ 
+ 
+ ROYAL EXPERIENCE 
+ 
+ 
+ 
+ Royal NIOZ on Texel 
+ 
+ 
+ 
+ Royal NIOZ in Yerseke 
+ 
+ 
+ 
+ Sail the Pelagia 
+ 
+ 
+ 
+ 
+ Links on Texel Living 
+ 
+ 
+ 
+ Links on Yerseke Living 
+ 
+ 
+ 
+ Video diaries 
+ 
+ 
+ 
+ CONTACT HR 
+ 
+ 
+ 
+ Our HR Philosophy 
+ 
+ 
+ 
+ Choose an advisor 
+ 
+ 
+ 
+ Apply for a job 
+ 
+ 
+ 
+ Who's who? 
+ 
+ 
+ 
+ The Newbie Programme 
+ 
+ 
+ 
+ Leaving Royal NIOZ 
+ 
+ 
+ AlumNIOZ 
+ 
+ 
+ 
+ Royal NIOZ Academy 
+ 
+ 
+ 
+ SERVICE 
+ 
+ 
+ 
+ Job Alert 
+ 
+ 
+ 
+ News 
+ 
+ 
+ Directions & Maps 
+ 
+ 
+ Forms 
+ 
+ 
+ 
+ NWO-I Science jobs 
+ 
+ 
+ 
+ 
+ NVP Code of Conduct 
+ 
+ 
+ 
+ 
+ Privacy Statement 
+ 
+ 
+ 
+ Disclaimer 
+ 
+ 
+ 
+ Contact us 
+ 
+ 
+ 
+ 
+ 
+ ‹ › × 
+ × 
+ 
+ __Previous Next __ 

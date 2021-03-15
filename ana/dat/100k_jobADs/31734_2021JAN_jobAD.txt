@@ -1,0 +1,223 @@
+
+ Stay Connected 
+ Blog 
+ Support 
+ Contact Us 
+ 
+ __ 
+ 
+ 
+ 
+ 
+ Connective Automation™ Platform  __ 
+ 
+ Platform OverviewReduce risk, timelines, and costs by connecting all three stages of automation—discovery, testing and RPA—in one seamless, codeless test automation platform. 
+ Automated Process DiscoveryDiscover and visualize end-to-end business processes without interrupting daily routines. 
+ Automated Continuous TestingEasily create, maintain, share and reuse end-to-end automated tests of your exact business processes across enterprise applications at scale. 
+ RPAAutomate production processes to focus on higher value tasks. 
+ 
+ 
+ 
+ Products  __ 
+ 
+ 
+ Process Intelligence 
+ * [Worksoft Analyze®Accelerate automation by visualizing and understanding end-to-end business processes down to the keystroke with Worksoft Analyze®.](https://www.worksoft.com/products/worksoft-analyze)
+* [Worksoft CaptureUnderstand and improve your organization’s end-to-end business processes with automated process discovery designed with every user in mind.](https://www.worksoft.com/products/worksoft-capture)
+* [Worksoft Business Process ProcedureWorksoft Business Process Procedure is a web-based solution, quickly generating comprehensive business process documentation for audit & compliance report standards.](https://www.worksoft.com/products/worksoft-business-process-procedure)
+ 
+ Test Automation 
+ * [Worksoft Certify®Accelerate projects, increase efficiency, and mitigate risk with continuous automated testing of end-to-end business processes with Worksoft Certify®.](https://www.worksoft.com/products/worksoft-certify)
+* [Worksoft Execution ManagerWorksoft Execution Manager lets you schedule remote tests as part of continuous testing cycles to intercept defects and failures before they impact business.](https://www.worksoft.com/products/worksoft-execution-manager)
+* [Worksoft Impact for SAPMitigate risks and accelerate results with automatic identification and analysis of the key system components affected by SAP transports. ](https://www.worksoft.com/products/worksoft-impact-for-sap)
+* [Worksoft Impact for SAP Web TechEasy and automated risk-based testing for all SAP web technologies, including SAP UI5, Web Dynpro, and WEB-GUI.](https://www.worksoft.com/products/worksoft-impact-for-sap-web-tech)
+ 
+ Robotic Process Automation 
+ * [Worksoft RPAAutomate complex processes across applications with a seamless RPA platform built for change.](https://www.worksoft.com/products/worksoft-rpa)
+ 
+ 
+ 
+ Services  __ 
+ 
+ ServicesEmploy our proven methodology & team of experts to help you accelerate project schedules, reduce risk and drive strategic adoption of intelligent automation. 
+ Enablement ServicesGet the most from your investment at every stage of the automation lifecycle.  
+ Managed ServicesTake a hands-off approach to automation while ensuring ongoing project success. 
+ Delivery ServicesAccelerate your company’s adoption of automation. 
+ Training ServicesAccelerate automation success by giving your teams the right training, in the right way, at the right time. 
+ 
+ 
+ 
+ Solutions  __ 
+ 
+ 
+ SolutionsEnsure your success with comprehensive solutions spanning all three stages of automation—discovery, testing, RPA—in one codeless platform. 
+ 
+ 
+ S/4HANA TestingSpeed migrations and reduce risks with proven automation for discovery, documentation, testing and maintenance. 
+ 
+ 
+ Agile+DevOpsDeploy new functionality into production daily and drastically cut regression testing time by up to 90%. 
+ 
+ 
+ End-to-End TestingRun end-to-end business process tests for packaged applications with enterprise level controls and reporting. 
+ 
+ 
+ Web TestingSimplify the complexity of web challenges by testing automatically as updates to web applications as they are released. 
+ 
+ 
+ Cloud TestingCloud testing allows you to run a huge number of tests in parallel, both locally and remotely, facilitating easier and larger-scale deployments. 
+ 
+ 
+ Mobile TestingReuse tests, no matter which mobile platform is used, and maintain one test for multiple browsers and devices. 
+ 
+ 
+ API TestingRun Soap XML, REST and more plus re-use existing SoapUI assets created by development without analysts having to become programmers or developers. 
+ 
+ 
+ Discovery & DocumentationDocument every process function, keystroke, and transaction, giving you greater accuracy and dramatically reducing project timelines. 
+ 
+ 
+ Exploratory TestingExtend the power of exploratory testing by automating the discovery and documentation of as-is business processes. 
+ 
+ 
+ 
+ 
+ Applications  __ 
+ 
+ 
+ ERP 
+ * [SAPChosen by SAP to Test SAP Applications.](https://www.worksoft.com/applications/erp/sap-test-automation)
+  * [S/4HANASpeed migrations and mitigate risks.](https://www.worksoft.com/applications/erp/sap-s4-hana-testing)
+  * [SuccessFactorsBusiness process assurance for your end-to-end HR processes.](https://www.worksoft.com/applications/hr/sap-successfactors-testing)
+  * [ConcurEnsure quality: test every workflow.](https://www.worksoft.com/applications/erp/sap-test-automation#concur)
+  * [HybrisHigh-speed functional testing for digital commerce.](https://www.worksoft.com/applications/erp/sap-test-automation#hybris)
+  * [AribaEnsure crisp execution in eCommerce.](https://www.worksoft.com/applications/erp/sap-test-automation#ariba)
+  * [FioriEnsure the highest-quality user experience.](https://www.worksoft.com/applications/erp/sap-test-automation#fiori)
+* [Oracle CloudEnd-to-End business process testing for even the most complex Oracle application landscapes](https://www.worksoft.com/applications/erp/oracle-testing)
+  * [EBSComplete coverage for your EBS investment.](https://www.worksoft.com/applications/erp/oracle-testing#oracleApplications)
+  * [PeopleSoftKeep pace with system changes and drive agility.](https://www.worksoft.com/applications/erp/oracle-testing#oracleApplications)
+  * [SiebelEnsure quality and high levels of execution end-to-end.](https://www.worksoft.com/applications/erp/oracle-testing#oracleApplications)
+  * [JD EdwardsHandle complexity and mitigate risk for your application modules.](https://www.worksoft.com/applications/erp/oracle-testing#oracleApplications)
+ 
+ CRM 
+ * [SalesforceEnsure every CRM and customer-focused function works the way you need it with automated salesforce testing of end-to-end business processes.](https://www.worksoft.com/applications/crm/salesforce-test-automation)
+* [C/4HANA Deliver consistent user experiences and ensure security and mission-critical business processes function without failure.](https://www.worksoft.com/applications/crm/c4hana-test-automation)
+ 
+ HR 
+ * [SuccessFactorsOur industry-leading automation is designed to validate end-to-end processes, delivering higher levels of QA across applications, technologies, and interfaces.](https://www.worksoft.com/applications/hr/sap-successfactors-testing)
+* [WorkdayYour HR & financial management teams can rest assured that all end-to-end business processes, including those that integrate with other apps, work as intended.](https://www.worksoft.com/applications/hr/workday-testing)
+ 
+ 
+ 
+ Insights  __ 
+ 
+ Resources 
+ Blog 
+ Webinars 
+ Events 
+ Worksoft University® 
+ 
+ 
+ 
+ [ 
+ Metso Outotec Shares The Value of Test Automation for SAP & Beyond 
+ ](https://www.worksoft.com/corporate-blog/metso-outotec-shares-the-value-of-test-automation-for-sap-beyond?hsLang=en) 
+ 
+ Customers & Partners  __ 
+ 
+ Customers 
+ * [Success StoriesExplore how some of the world’s leading enterprises are using the Worksoft to boost efficiency, liberate resources & reduce risk.](https://www.worksoft.com/customer-success-stories)
+* [Industry SpotlightExplore real-world success stories from customers by industry.](javascript:void\(0\);)
+  * [Automation for Automotive](https://www.worksoft.com/industry/automotive)
+  * [Automation for Energy](https://www.worksoft.com/industry/energy)
+  * [Automation for Healthcare](https://www.worksoft.com/industry/healthcare)
+  * [Automation for Manufacturing](https://www.worksoft.com/industry/manufacturing)
+  * [Automation for Technology](https://www.worksoft.com/industry/hightech)
+ 
+ Partners 
+ * [PartnersExperience the power of a best-of-breed technology ecosystem with deep expertise](https://www.worksoft.com/partners)
+* [Request Partner LicensesDemonstrate Worksoft's connective automation to your clients by requesting proof of concept (POC), pilot or project licenses.](https://www.worksoft.com/request-partner-licenses)
+* [Access Partner Training CoursesAccess all of our latest training courses to anything and everything Worksoft and our suite of products and solutions.](https://www.worksoft.com/access-partner-training-courses)
+* [Partner Portal](https://wscommunity.force.com/partner/login)
+ 
+ Training & Support 
+ * [Worksoft University®Training designed to accelerate automation success for you and your organization.](https://www.worksoft.com/worksoft-university)
+* [SupportWe're dedicated to the success of your organization. Take a look at our full list of support options and we'll do our best to assist.](https://www.worksoft.com/support)
+* [Customer Portal](https://wscommunity.force.com/Community/s/login)
+ 
+ 
+ Company Values 
+ Life & Culture 
+ Open Positions 
+ 
+ Join Our Team 
+ The Worksoft team is comprised of innovative individuals who have the drive to revolutionize the automation software industry. 
+  VIEW JOB OPENINGS  
+ Company Values: TRUST 
+ Team 
+ No egos here...just great people, fun, flexibility and trust. 
+ Respect 
+ We welcome, we include, and we respect everyone. 
+ Urgency 
+ Have the courage to take risks. Uncover opportunities and seize the moment. 
+ Success 
+ Take ownership, drive innovation and deliver results. 
+ Truth 
+ Honesty, integrity and ethical behavior are our truths. 
+ Breaking New Ground for Our Employees and Our Clients 
+ Our company culture centers around three categories: innovation, excellence, and collaboration. Innovation is what allows us to distance ourselves from the competition, evolving to meet the needs of our clients through technology and vision. Our focus on excellence means we foster personal and career growth in our employees, ensuring they can maximize their potential and deliver their best to clients, every day. Constant collaboration ensures great ideas become even greater. 
+ Current Career Opportunities 
+ Worksoft is growing! We're adding team members to play important roles in expanding  and enhancing our Connective Automation offerings that empower global enterprises to save time, reduce risk and accelerate change. 
+ Check out our current openings and contact us if you're a great fit! 
+ 
+ Experience Connective Automation 
+ Accelerate project timelines, reduce risk, and increase efficiency with 
+trusted automation. 
+ 
+ 
+ Stay Connected 
+ Join Our Community 
+  __    __    __    __ 
+ 
+ Products 
+ 
+ Platform Overview 
+ Worksoft Certify® 
+ Worksoft Execution Manager 
+ Worksoft Analyze® 
+ Worksoft BPP 
+ Worksoft Impact for SAP 
+ Worksoft Impact for SAP Web Tech 
+ 
+ 
+ About 
+ 
+ Who We Are 
+ Events 
+ Press Releases 
+ Contact Us 
+ Careers 
+ 
+ 
+ Contact 
+ 
+ Contact Form 
+ Request a Demo 
+ +1 (972) 993-0400 
+ info@worksoft.com 
+ 
+ 
+ Support 
+ 
+ +1 (800) 858-0813 
+ support@worksoft.com 
+ Customer Support 
+ Customer Portal 
+ Product Documentation 
+ 
+ 
+ 
+ ©2021 Worksoft, Inc. All Rights Reserved |  Privacy Statement 
+ Stay Connected 
+ Join Our Community 
+  __    __    __    __ 

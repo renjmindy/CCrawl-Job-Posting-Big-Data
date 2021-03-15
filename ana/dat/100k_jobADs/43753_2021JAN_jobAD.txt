@@ -1,0 +1,204 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Elixir Developer 
+ [ 
+ Derivco 
+ ](/companies/derivco) 
+ Stockholm, Sweden 
+ 01 April, 2019 
+ Apply 
+ More jobs from Derivco About Derivco 
+ Salary 
+ €40K - 75K 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ Go 
+ Elixir 
+ Erlang 
+ Linux 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Health insurance 
+ Generous pto 
+ Pension 
+ Performance bonus 
+ Casual dress 
+ Company outings 
+ Stocked kitchen 
+ L&d budget 
+ Conference tickets 
+ Industry subscriptions 
+ Equal pay policy 
+ Flexible parent working 
+ Flexible working for parents 
+ Lunch tickets 
+ Language lessons 
+ Bonus 
+ Pension scheme 
+ 
+ World leading Sportsbook provider 
+ Role overview 
+ Introduction 
+ Would you like to join us on our journey to become a world leading Sportsbook provider ⚽? 
+ We are developing a multi-tier micro services-platform for sports betting and our technology stack includes  Elixir ,  PostgreSQL ,  RabbitMQ ,  Docker  and  Ansible , just to name a few. Our product is enjoyed by tens of thousands of players globally as we live and act in the international market. 
+ Through our investment in collaboration and innovation 💡 we ensure the excellence of our product. With our current expansion into various markets and a host of opportunities in exploring new ideas and technologies, this is an exciting time to become part of our team in  Stockholm . 
+ Job Description 
+ We’re looking for a Backend Software Engineer to our Offer team who handles the events, markets and outcomes, ensure they are published and resulted correctly, annotated with the correct metadata and available in the correct jurisdictions. The offer team also works on initiatives such as regulated markets and domain pricing. 
+ Together with your team-mates, you will be involved in all stages of the development cycle, from the initial idea to get it up and running live. We are passionate about Open Source and our services are written in  Elixir ,  Go  or  Ruby . Other technologies we use are PostgreSQL, RabbitMQ, Elastic, Redis and Memcached. We let the need tailor the solution and choose the right tools 🔨 for the job. 
+ Required skills 
+ 
+ Several years experience in development of various complex systems 
+ Comprehensive understanding of the full Software Development Life Cycle 
+ You have documented experience in  Erlang  and/or  Elixir 
+ Experience with  Linux 
+ Experience with  Agile methodologies  and work processes (scrum, Kanban) 
+ You have good  English  skills, oral and written 
+ 
+ Desirable skills 
+ 
+ You have experience with RabbitMQ, Kafka 
+ You have experience with Elastic, Splunk, InfluxDB, Graphite, Grafana 
+ You have experience with PostgreSQL, Redis, Memcached 
+ You have experience with Ansible, Puppet, Chef 
+ You have experience with Docker, Azure, AWS 
+ 
+ 
+ [ 
+ Derivco 
+ ](/companies/derivco) 
+ 
+ 
+ 250+ 
+ 
+ 
+ Durban, South Africa 
+ 
+ 
+ A typical morning at Derivco starts with stand ups for each team. Our work environment is a place where teamwork, continuous learning, feedback and innovation are encouraged and where all our teams are challenged to create and learn at every opportunity 💻. Working alongside development houses and customers across the globe 🌍, we are a dynamic technology company driven by the investment in our people and a focus on agile development and cutting-edge technology 
+ Betting Public Visa Sponsorship Games AWS Cloud Cloud Technology PostgreSQL Generous PTO Pension  
+ View 4 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Derivco About Derivco 
+ Salary 
+ €40K - 75K 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ Go 
+ Elixir 
+ Erlang 
+ Linux 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Health insurance 
+ Generous pto 
+ Pension 
+ Performance bonus 
+ Casual dress 
+ Company outings 
+ Stocked kitchen 
+ L&d budget 
+ Conference tickets 
+ Industry subscriptions 
+ Equal pay policy 
+ Flexible parent working 
+ Flexible working for parents 
+ Lunch tickets 
+ Language lessons 
+ Bonus 
+ Pension scheme 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Technical Team Lead€50K - 75KDerivcoStockholm, Sweden 
+ Are you an experienced Software Developer looking to move into a lead position whilst remaining hands on? 
+ Sponsorship 
+ elixir erlang 
+ More Info Apply 
+ Senior Software Engineer601K - 900K SEKThe RealRealStockholm, Sweden 
+ As a Senior Software Engineer, you’ll design and build software for automating critical operation processes. 
+ elixir erlang ruby 
+ More Info Apply 
+ Site Reliability Engineer, ML Ops551K - 725K SEKTruecallerStockholm, Sweden 
+ Changing the way hundreds of millions of people interact with each other every day 🤝 
+ Sponsorship 
+ go cloud distributed systems kubernetes linux machine learning sre 
+ More Info Apply 
+ Elixir Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

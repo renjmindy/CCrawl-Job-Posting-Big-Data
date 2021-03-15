@@ -1,0 +1,295 @@
+Loading.... 
+ LOGIN     SIGN UP 
+ 
+ 
+ Hire Experts 
+ Find Work 
+ How it Works 
+ About Us 
+ Blog 
+ 
+ 
+ SIGN UP! 
+ Before you proceed to sign up, 
+Please select one of the following! 
+ I want to Hire 
+ 
+ --OR-- 
+ I want to Work as an 
+ 
+ 
+ 
+ Home 
+ » 
+ Freelance Jobs 
+ » 
+ PHP 
+ 
+ Project Results 
+ By Job Category 
+ 
+ All  (529) 
+ IT & Programming  (202) 
+ Graphic Design & Multimedia  (64) 
+ Writing, Content & Translation  (129) 
+ Data Entry & Admin  (39) 
+ Sales & Marketing  (42) 
+ Customer Service  (8) 
+ Finance & Accounting  (17) 
+ Others  (28) 
+ 
+ By Budget (INR) 
+ 
+ All  (529) 
+ Less than 5000 Rs.   (159) 
+ Between 5,000 - 20,000 Rs.   (139) 
+ Between 20,000 - 50,000 Rs.   (59) 
+ Between 50,000 - 100,000 Rs.   (31) 
+ Greater than 100,000 Rs.   (33) 
+ Not Sure  (108) 
+ 
+ By Project Type 
+ 
+ All  (529) 
+ Featured  (32) 
+ Full Time  (4) 
+ 
+ By Time Left 
+ 
+ Any 
+ Less than 24 hours left 
+ Less than 3 days left 
+ Less than 7 days left 
+ 
+ By Posted Date 
+ 
+ Any 
+ Posted within 24 hours 
+ Posted within 3 days 
+ Posted within 7days 
+ Posted within 14 days 
+ Posted within 30 days 
+ 
+ By Status 
+ 
+ Any 
+ Hiring Open 
+ 
+ Search Job 
+ PHP Jobs 
+ ( showing 1 - 15 of 47 results ) 
+ PHP 
+ Clear 
+ Get Project Updates 
+ PAGE 1 OF 4  
+ SORT BY Sort by Job Name Budget(High) Budget(Low) Time Left(High) Time Left(Low) 
+ Looking for experienced freelance PHP developer 
+ FIXED PRICE : Not Sure  Website Programming  Posted: 17 hours ago  Ends: 09th Mar 2021  5 Proposals 
+ Hi, We are Singapore based web development company. Currently looking for full time freelance experianced PHP developers. Skills required > Laravel > Angular.js > JavaScript > MySQL > API creati... 
+ Hi, We are Singapore based web development company. Currently looking for full time freelance experianced PHP developers. Skills required > Laravel > Angular.js > JavaScript > MySQL > API creation Note: Looking only from Tamilnadu and individuals. Others please don't consider 
+ Skills:  PHP ,  MySQL ,  JavaScript ,  HTML5 
+ Client:  mahadeer2008 
+ Website Design 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Website Design  Posted: 23 hours ago  Ends: 09th Mar 2021  19 Proposals 
+ I am a textile designer. Everyday I make a new high quality digital design and I upload it to my website. The quality of my website is not good, so I want to hire a website designer who can make a good website for us. ht... 
+ I am a textile designer. Everyday I make a new high quality digital design and I upload it to my website. The quality of my website is not good, so I want to hire a website designer who can make a good website for us. http://freedigitaldesignstocks.online/ 
+ Skills:  .NET ,  PHP 
+ Client:  mourya1976 
+  Sell "Grocery App " with Source code.  
+ FIXED PRICE : 5,000 - 20,000 Rs.   Mobile Applications  Posted: 20th Jan 2021 Ends: 06th Mar 2021  3 Proposals 
+ To sell Our "Grocery App " with Source code. You will get :- Customer App :- (Android) Driver App :- (Android) Admin Panel :- (Core PHP) Price :- 20K 
+ To sell Our "Grocery App " with Source code. You will get :- Customer App :- (Android) Driver App :- (Android) Admin Panel :- (Core PHP) Price :- 20K 
+ Skills:  Android ,  API ,  PHP 
+ Client:  jaypataliya52  ,  India 
+ Laravel Expert 
+ FIXED PRICE : Not Sure  Website Programming  Posted: 20th Jan 2021 Ends: 06th Mar 2021  11 Proposals 
+ Looking for a Laravel/composer expert to upgrade my framework from 5.6 to latest ^8. My Budget is 500 inr. 
+ Looking for a Laravel/composer expert to upgrade my framework from 5.6 to latest ^8. My Budget is 500 inr. 
+ Skills:  PHP 
+ Client:  deepak23  ,  India 
+ Node Js developer ( Experienced Freelancer) 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Software Project Management  Posted: 20th Jan 2021 Ends: 06th Mar 2021  6 Proposals 
+ Qualifications: Mathematics or Engineering Degree (or related field) 3+ years experience in software development (JavaScript, HTML5, CSS3) Experience in Node.js Proficiency in SQL; Knowledge of Git; Experience in... 
+ Qualifications: Mathematics or Engineering Degree (or related field) 3+ years experience in software development (JavaScript, HTML5, CSS3) Experience in Node.js Proficiency in SQL; Knowledge of Git; Experience in React JS, experience in any kind of UI components Understanding of Component-Based Design. Willingness to work in an Agile environment Willing to train and mentor junior developers Required Skills: • Node • Angular • Typescript, Microservices, Rest API Experience with API Integration with Cloud/SAS products would be preferable 
+ Skills:  PHP ,  MySQL ,  CSS ,  API 
+ Client:  nimisha99  ,  India 
+ Website developer budget 2000 
+ FIXED PRICE : Less than 5000 Rs.   Website Design  Posted: 19th Jan 2021 Ends: 05th Mar 2021  27 Proposals 
+ hi, i need a developer to set up my website. i had a budget of 2000 inr there was a website earlier but now i am not able to locate it..i couldnt find it, i need my site to be active asap. thanks 
+ hi, i need a developer to set up my website. i had a budget of 2000 inr there was a website earlier but now i am not able to locate it..i couldnt find it, i need my site to be active asap. thanks 
+ Skills:  PHP 
+ Client:  vartikabittu  ,  India 
+ I am looking for full-stack PHP developer for long-term project 
+ FIXED PRICE : Not Sure  Application Interface Design  Posted: 19th Jan 2021 Ends: 05th Mar 2021  32 Proposals 
+ Do you consider yourself reliable, focused and want regular work this year? If so, I am looking for a skilled and experienced full-stack PHP developer for long-term project. Job Requirements • Good written En... 
+ Do you consider yourself reliable, focused and want regular work this year? If so, I am looking for a skilled and experienced full-stack PHP developer for long-term project. Job Requirements • Good written English communication and medium-fast typing skills. • Stable and fast broadband connection with Windows 10 for screensharing apps. Job Description • Proficiency with PHP frameworks, HTML, CSS, JavaScript, AJAX, jQuery and Vue.js • Experience with SQLite and JSON database. Job Responsibilities: • Modifying PHP scripts and applications. • Maintain and add new features on a long-term basis. PLEASE NOTE: This is long-term position. Only independent developers apply. No business/sales/project managers, teams or agencies please. I have full brief and specs for applicants to review. 
+ Skills:  CodeIgniter ,  jQuery ,  JSON ,  PHP ,  SQL Lite 
+ Client:  socialsuite 
+ Matrimony site for Mali community 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Application Interface Design  Posted: 17th Jan 2021 Ends: 03rd Mar 2021  25 Proposals 
+ Need freelance web developer to develop matrimony site. 
+ Need freelance web developer to develop matrimony site. 
+ Skills:  WordPress ,  PHP 
+ Client:  piyudreams  ,  India 
+ PHP Developer 
+ FIXED PRICE : Less than 5000 Rs.   Other - Web Development  Posted: 14th Jan 2021 Ends: 28th Feb 2021  36 Proposals 
+ PHP Developer for WordPres for password-protected content which is developed using elementor plugin 
+ PHP Developer for WordPres for password-protected content which is developed using elementor plugin 
+ Skills:  PHP 
+ Client:  marketsence  ,  United States Of America 
+ Full stack Development 
+ FIXED PRICE : Not Sure  Website Programming  Posted: 13th Jan 2021 Ends: 27th Feb 2021  40 Proposals 
+ Hi All, Looking for freelancers who can work on contract/project basis. I have good clients from which I get regular work. Also I have few products in which sometimes I need modification. Freelancer who are willing to w... 
+ Hi All, Looking for freelancers who can work on contract/project basis. I have good clients from which I get regular work. Also I have few products in which sometimes I need modification. Freelancer who are willing to work with dedication and are passionate to earn more can only apply. Mention this things in your proposal 1.) Past works which you think is best from you 2.) Listout the expertise you have in web or app 3.) Your Name, Location, ma-il, mob-ile 4.) Hours you can work in a day 
+ Skills:  iOS ,  CodeIgniter ,  ASP.NET ,  Android ,  PHP 
+ Client:  harry2015  ,  India 
+ I want to solve Livewire component issue in Laravel 
+ FIXED PRICE : Not Sure  Application Interface Design  Posted: 13th Jan 2021 Ends: 27th Feb 2021  8 Proposals 
+ Anyone who knows about Livewire in laravel please connect with me, I am not able to connect JS and CSS of that component so anyone knows please connect with me 
+ Anyone who knows about Livewire in laravel please connect with me, I am not able to connect JS and CSS of that component so anyone knows please connect with me 
+ Skills:  PHP 
+ Client:  pankajsingh9789  ,  India 
+ Installation open source software job boarding in to Server  
+ FIXED PRICE : Less than 5000 Rs.   Website Programming  Posted: 10th Jan 2021 Ends: 24th Feb 2021  7 Proposals 
+ Hello, I got an open source PHP Job portal software and i m planning to integrate it with my website. Also need some customization. 
+ Hello, I got an open source PHP Job portal software and i m planning to integrate it with my website. Also need some customization. 
+ Skills:  HTML5 ,  JavaScript ,  jQuery ,  MySQL ,  PHP 
+ Client:  rahul2020 
+ Need To Develop A Professional Lyrics Website 
+ FIXED PRICE : Greater than 100,000 Rs.   Website Design  Posted: 09th Jan 2021 Ends: 23rd Feb 2021  36 Proposals 
+ Need To Develop A Lyrics Website in Wordpress Where We Can Post Lyrics in English And Hindi Both Language, Can Add Song Credits, And FAQ's Section. Table of Contents, Youtube Video, Thumbnail and a Paragraph. For Re... 
+ Need To Develop A Lyrics Website in Wordpress Where We Can Post Lyrics in English And Hindi Both Language, Can Add Song Credits, And FAQ's Section. Table of Contents, Youtube Video, Thumbnail and a Paragraph. For Reference You can check Song Lyrics King https://www.songlyricsking.com/ Also There Should Be Category Page And Home Page Just Like Song Lyrics King Where We Can Show Multiple Categories Song List. It should contain contact page, about page , privacy page also. All content we will provide and have to create a logo for that also. 
+ Skills:  PHP 
+ Client:  epictrips 
+ Soap api solution in PHP 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Other - Web Development  Posted: 08th Jan 2021 Ends: 22nd Feb 2021  16 Proposals 
+ Need a freelancer who is good in soap api integration in PHP 
+ Need a freelancer who is good in soap api integration in PHP 
+ Skills:  CodeIgniter ,  PHP ,  SOAP 
+ Client:  user.1453517701634340  ,  India 
+ Need an Angular developer  
+ FIXED PRICE : Not Sure  Other - Web Development  Posted: 08th Jan 2021 Ends: 22nd Feb 2021  13 Proposals 
+ Hi, we are hiring an Angular developer. This is online hiring. The developer should have a minimum of 3+ years of experience. Eligible and interested candidate can send their resume to (removed) 
+ Hi, we are hiring an Angular developer. This is online hiring. The developer should have a minimum of 3+ years of experience. Eligible and interested candidate can send their resume to (removed) 
+ Skills:  PHP 
+ Client:  techstoserve  ,  India 
+ Previous 1  2   3   4   Next   Last 
+ NAVIGATE 
+ How it Works 
+ Fees & Pricing 
+Register 
+ Blog 
+ Help 
+ Contact Us 
+ FIND FREELANCERS BY EXPERTISE 
+ 
+ 
+ 
+ Developers & Programmers 
+ 
+ PHP Developers 
+ 
+ 
+ 
+ 
+  Graphic Designers 
+ 
+ Photoshop Experts 
+ 
+ 
+ Article Writers 
+ 
+ Creative Writing 
+ 
+ 
+ Data Entry & Admin 
+ 
+ MS Excel Consultants 
+ 
+ 
+ Sales & Marketing 
+ 
+ Internet Marketing 
+ 
+ 
+ Accountants & Legal 
+ 
+ Finance Consultant 
+ 
+ 
+ 
+ FIND FREELANCERS BY LOCATION 
+ 
+ 
+ 
+ Freelancers In India 
+ 
+ Freelancers In New Delhi 
+ 
+ 
+ 
+ 
+ Freelancers in Noida 
+ 
+ Freelancers in Hyderabad 
+ 
+ 
+ Freelancers in Mumbai 
+ 
+ Freelancers in Jaipur 
+ 
+ 
+  Freelancers in Kolkata 
+ 
+  Freelancers in Bhopal 
+ 
+ 
+ Freelancers in Bangalore 
+ 
+ Freelancers in Punjab 
+ 
+ 
+ Freelancers In Ahmedabad 
+ 
+ Freelancers In Chennai 
+ 
+ 
+ 
+ LOOKING FOR FREELANCING JOBS? 
+ 
+ 
+ 
+ Fresher Jobs 
+ Part Time Jobs 
+ IT Jobs 
+ Work from Home Jobs 
+ Online Jobs 
+ 
+ 
+ 
+ 
+ Web Design Jobs 
+ Technical Writing Jobs 
+ Freelance Writing Jobs 
+ Accounting Jobs 
+ Legal Jobs 
+ 
+ 
+ Mobile Development Jobs 
+ Data Entry Jobs 
+ Game Development Jobs 
+ Photography Jobs 
+ Medical Writing Jobs 
+ 
+ 
+ AutoCAD and 3D Jobs 
+ HR Jobs 
+ SEO & Marketing Jobs 
+ Corporate Trainer Jobs 
+ Web Development Jobs 
+ 
+ 
+ 
+       
+ Copyright (C) 2012-2020   WorknHire Technologies Pvt. Ltd. . All Rights Reserved. 
+ To Top 

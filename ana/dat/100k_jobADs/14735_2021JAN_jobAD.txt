@@ -1,0 +1,188 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Golang Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ GolangWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Distributed Systems Developer (Infrastructure & Tools) 
+ [ 
+ Pensionera Förmedling i Sverige AB 
+ ](/companies/pensionera-foermedling-i-sverige-ab) 
+ Stockholm, Sweden 
+ 21 December, 2020 
+ Apply 
+ More jobs from Pensionera Förmedling i Sverige AB About Pensionera Förmedling i Sverige AB 
+ Salary 
+ 525K - 700K SEK 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Go 
+ AWS 
+ CI/CD 
+ Docker 
+ Distributed Systems 
+ Infrastructure 
+ KUBERNETES 
+ 
+ Benefits & perks 
+ 
+ Flexible personal budget 
+ 
+ Build investment broker software to invest billions of SEK yearly on behalf of our customers - 
+ Role overview 
+ Distributed Systems Dev: Infrastructure & Tools Team 
+ The Role 
+ The position will let you work in a small team of developers with a focus on building a fund and insurance broker designed for international markets. We currently have two teams: one focused on customer-facing products and one focused on internal tooling and infrastructure. You will join the second team to develop and test services under a data-driven approach to increase the efficiency of our staff as well as our resources. 
+ As a professional, you are probably a full-stack developer leaning toward back-end development who enjoys building robust and consistent systems in an entrepreneurial environment with much freedom under responsibility. You are also a person who enjoys learning new technologies and methodologies and is willing to participate in decisions regarding features design & implementation. Most likely, you spend a lot of your free time reading articles and trying out new things. You understand the trade-offs between technical debt, fast development, and consistent and robust code. Ideally, and strive to reduce accidental complexity as much as possible and enjoy removing code as much as adding new one. You consider that effective programming in a team requires being able to communicate with others effectively through your code. 
+ You also find testing and documentation to be crucial elements in a good system. We are currently looking to overhaul our testing infrastructure and documentation to be able to scale up our development teams and your input will be crucial to that effort. You are a developer who is very comfortable with building large-scale and fast changing systems with a high number of external integrations. 
+ Deeper Tech Breakdown 
+ The position will let you work in a small team of developers with a focus on building a fund and insurance broker Pensionera is a  distributed system built in Go  , with persistence handled by  MariaDB (on AWS Aurora) and MongoDB . Other prominent technologies include  protobuf, CoreOS, Kubernetes, Docker, Prometheus, Loki and Grafana . The system consists of  16 microservices  , plus two graphical interfaces and a mobile application. The front end systems (internal CRM and a public website) are built in  React and VueJS  respectively, and the app in Flutter. CI is handled in GitLab, hosted on AWS on Kubernetes, including a Docker repository. 
+ Must have 
+ 
+ Go, C++, Java, Python, Ruby or corresponding 
+ SQL 
+ Git 
+ 
+ Good to have 
+ 
+ React 
+ Swagger or similar 
+ MongoDB 
+ Open source contributions and/or interest 
+ End-to-end and unit testing know-how 
+ 
+ General knowledge of 
+ 
+ Docker / Kubernetes 
+ Distributed Computing 
+ Continuous Deployment / Continuous Integration 
+ Distributed Monitoring 
+ AWS 
+ 
+ We Offer 
+ 
+ Opportunity to design a product organisation from day one 
+ Free breakfast every morning 
+ Free access to gym 
+ Pension and insurance plan according to ITP1 
+ Private healthcare plan 
+ Flexible working hours 
+ 
+ 
+ [ 
+ Pensionera Förmedling i Sverige AB 
+ ](/companies/pensionera-foermedling-i-sverige-ab) 
+ 
+ 
+ 10-49 
+ 
+ 
+ Stockholm, Sweden 
+ 
+ 
+ Pensionera is a start up working with investment and insurance broking. We are digitizing an otherwise paper-based branch and using technology to help people better invest their pension money. By using a subscription, similarly to services like Netflix and Spotify instead of focusing on kickbacks, we can change how the pension market of today works. We take pride in being completely objective in our advice, with no incentives to recommend certain investments to our customers - we will get the same payment whether you select a governmental index fund, or a high-risk mutual fund. 
+ Technology Early Stage Venture Go AWS CI/CD iOS Flexible personal budget 
+ View 2 jobs 
+ Engineers who find a new job through Golang Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Pensionera Förmedling i Sverige AB About Pensionera Förmedling i Sverige AB 
+ Salary 
+ 525K - 700K SEK 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Go 
+ AWS 
+ CI/CD 
+ Docker 
+ Distributed Systems 
+ Infrastructure 
+ KUBERNETES 
+ 
+ Benefits & perks 
+ 
+ Flexible personal budget 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Distributed Systems Developer (Product)500K - 700K SEKPensionera Förmedling i Sverige ABStockholm, Sweden 
+ Build investment broker software to invest billions of SEK yearly on behalf of our customers - 
+ go aws docker distributed systems kubernetes mongodb 
+ More Info Apply 
+ Site Reliability Engineer, ML Ops551K - 725K SEKTruecallerStockholm, Sweden 
+ Changing the way hundreds of millions of people interact with each other every day 🤝 
+ Sponsorship 
+ go cloud distributed systems kubernetes linux machine learning sre 
+ More Info Apply 
+ Site Reliability Engineer, Platform Team540K - 650K SEKTruecallerStockholm, Sweden 
+ Changing the way hundreds of millions of people interact with each other every day 🤝 
+ Sponsorship 
+ go devops distributed systems google cloud kubernetes linux sre terraform 
+ More Info Apply 
+ Distributed Systems Developer (Infrastructure & Tools) 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Go jobs Golang jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Golang articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

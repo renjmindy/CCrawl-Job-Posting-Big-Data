@@ -1,0 +1,112 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Welcome (W20) 
+ Create jaw dropping virtual events 
+ Software Engineer, Frontend 
+ 
+ Location 
+ Your Home Office / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Welcome 
+ Welcome is a virtual events platform specifically for high end, branded events. Using Welcome, a single person can create an experience that feels like an Apple Product Launch. If you think of virtual platforms (Zoom, Hopin, Google Meet) as real estate, we've created the first 5 star hotel in virtual real estate. 
+ About the role 
+ Skills:  React Native, Ruby on Rails, HTML, JavaScript, CSS 
+ Note: Please apply through Lever here:  https://jobs.lever.co/welcome/8d9ebb52-3e2e-444a-b581-6c021b4deede 
+ Welcome is a virtual event platform for high-end, branded events. Using Welcome, a single person can create a jaw-dropping experience that feels like an Apple product launch. We've built the first five-star virtual event venue and have the product and services to match. Our flagship product allows our customers to create an event that feels like an interactive TV show. There is nothing else like it. 
+ We’re well-funded by top VCs. Within three months of a soft launch we’ve already signed a Fortune 500 company and the world‘s largest investment fund. Over the next few years, we project that we will be the number one player in the space with massive market share, resulting in huge revenue and valuation. 
+ This is an incredible opportunity for the right person to have a massive impact on Welcome’s business. We are growing insanely fast and looking for a strong frontend software engineer to join our world-class team, match the tsunami of demand we are already experiencing, and help us grow even faster. 
+ You want your work to have significant and measurable positive impact. You love bringing people together. Your happiness comes from the joy of others, and you look forward to building stand-out moments of delight into the Welcome experience. You are a keen problem solver and team player. You take pride in the craftsmanship of your work, and appreciate when it is rewarded; our customers are fine with fewer features, but are not okay with broken features. The frontend software engineering role at Welcome encompasses architecture, design, implementation, and testing to ensure we build and release products in a way that upholds the luxury quality of our brand. 
+ Responsibilities 
+ 
+ Be part of an inclusive, collaborative team that embraces healthy discussions and supports each other in their goals 
+ Architect, design, implement, test, and deliver robust and delightful products, continuing to keep the Welcome experience best-in-class. 
+ Master our development process, culture, and code base, then improve it. Continually leave each of these in a better state than when you found 
+ Work closely with our design team to understand the correct tradeoffs and fully execute the UI/UX vision for our applications 
+ 
+ Basic Requirements 
+ 
+ 3+ years of professional software development experience 
+ Deep understanding of web technologies, such as JavaScript, CSS, HTML5, and JSON. Our frontend is built in React.js and Redux 
+ Excellent written and verbal communication skills 
+ 
+ Preferred Requirements 
+ 
+ Experience building with WebRTC or other audio/video technologies 
+ Experience with at least one backend web framework (Spring, Express, Rails, Django, et al.). Our backend is built in Ruby on Rails 
+ Experience building highly concurrent and scalable web applications, understanding of browser/DOM performance 
+ Track record of being a top performer in current and past roles 
+ 
+ Our Investments in You 
+ 
+ Competitive salary and equity compensation 
+ Great medical, dental, and vision insurance options 
+ Fitness, cell phone, and internet reimbursements 
+ Top-of-the-line work computer 
+ $2,000 budget to build your dream home office 
+ Opportunities to attend the most high-end virtual events in the world 
+ 
+ Welcome embraces diversity and is proud to be an equal opportunity employer. As part of our commitment to diversifying our workforce, we do not discriminate on the basis of age, race, sex, gender, gender identity, color, religion, national origin, sexual orientation, marital status, citizenship, veteran status, or disability status. 
+ We are composed of a diverse group of entrepreneurs, dreamers and builders who believe that exceptional, high-quality experiences can seamlessly bring people together, invite collaboration, and provide a meaningful sense of belonging. If you align to these principles and have what it takes we’d love to hear from you. 
+ Technology 
+ We use React + Rails + Postgres + Redis. We are a real time video platform, so there are a lot of interesting things to work on, such as: 
+ 
+ How do you easily test the two dimensional matrix of devices, operating systems, cameras and microphones to make sure anyone can access the platform? 
+ How do you scale live video to millions of users at the same time? 
+ 
+ Other jobs at Welcome 
+ Software Engineer, Full Stack 
+ fulltime 
+ Your Home Office / Remote 
+ Full Stack 
+ 3+ years 
+ Site Reliability Engineer 
+ fulltime 
+ Your Home Office / Remote 
+ Full Stack 
+ 3+ years 
+ Software Engineer, Audio/Video 
+ fulltime 
+ Your Home Office / Remote 
+ Backend 
+ 3+ years 
+ Account Executive 
+ fulltime 
+ Remote / Remote 
+ 1+ years 
+ Software Engineer, Frontend 
+ fulltime 
+ Your Home Office / Remote 
+ Frontend 
+ 3+ years 
+ Software Engineer, Backend 
+ fulltime 
+ Your Home Office / Remote 
+ Backend 
+ 3+ years 
+ Software Engineer, Mobile (React Native, iOS, Android) 
+ fulltime 
+ Your Home Office / Remote 
+ Frontend 
+ 3+ years 
+ Software Engineer, Product 
+ fulltime 
+ Your Home Office / Remote 
+ Full Stack 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

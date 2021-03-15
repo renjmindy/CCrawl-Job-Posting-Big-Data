@@ -1,0 +1,87 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Gerald Technologies, Inc (W21) 
+ Transforming Consumer Bill Pay. 
+ Backend Software Engineer 
+ 
+ Location 
+ India / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Gerald Technologies, Inc 
+ Consumer bill pay sucks! The average consumer makes over 20 recurring payments a year, and has to log in to each biller to manage payments. Gerald is transforming bill pay by providing a solution where you can consolidate all your accounts and pay all your bills on one single app. We are currently focused on insurance and financial bills. 
+ Gerald is pioneering a new realm that combines payments, data, fintech and insurtech to create solutions that empower and reward consumers for doing simple things such as: making timely payments. 
+ About the role 
+ Skills:  Node.js, TypeScript, Amazon Web Services (AWS) 
+ About This Role  As a backend software developer, you will be producing scalable software solutions and will also be responsible for keeping the platform and data service running. You will drive and implement new requirements and improvements into the product, including new feature requests, integrating new technologies into the service, and resolve or mitigate commonly hit operational issues. If you are passionate about solving crucial business problems and enjoy working on them in a small, fast-paced team, this may be for you. 
+ Tech-Stack We Use  Typescript, React, Node(Express), Python, MongoDB with AWS as the primary cloud provider. 
+ How You Will Contribute 
+ 
+ Lead an engineering solution to a business problem end-to-end, and communicate it to engineers and customers 
+ Find scalable solutions to challenging technical problems 
+ Implement high performance pipelines with Python/TypeScript, Docker, CloudFormation and lots of other - modern tools - we are heavy users of AWS and are expanding to other clouds. 
+ Leading and developing best practices for the Engineering team and finding the best tools for the job at hand. 
+ Since we’re always deploying, you will help us move faster and guide our engineering and product. 
+ Partner with our customers and exceptional product leadership to ensure the work we do has impact with our customers and our engineering community. 
+ Create security and data protection settings. 
+ Write technical documentation. 
+ Keeping current with industry trends and developments that can be applied to company needs. 
+ 
+ Technical Expertise That We Believe Will Make You Successful In This Role 
+ 
+ Min 3 years of engineering experience on backend systems 
+ Significant experience designing and implementing fault-tolerant, data-intensive services 
+ Significant experience testing and deploying systems to production 
+ Experience with large-scale event processing pipelines, preferably using streaming technologies 
+ Strong experience working with any NoSQL/SQL databases such as PostgreSQL or MongoDB. 
+ Strong knowledge of building effective APIs in Node.js (Express) 
+ Professional experience with TypeScript and AWS is desirable 
+ Bachelor/Master degree in Computer Science 
+ 
+ Soft-Skills That Will Come Handy 
+ 
+ You know when it’s time to refactor, and when it's time to ship 
+ Excellent written and verbal communication skills 
+ Strong attention to detail 
+ Head for problem-solving 
+ Having a flexible working style 
+ Being a team player 
+ Comfortable with working unsupervised 
+ 
+ Technology 
+ With every single customer that we onboard, it means we are dealing with millions of data records. The challenge is to scale up the product to handle so much data and process it efficiently, while taking all measures to ensure the security of the data. The goal is to make our system learn as quickly as possible so that it can give very accurate predictions when making suggestions related to the insureds. For this, we try to get as many data points as possible from multiple sources. 
+ Other jobs at Gerald Technologies, Inc 
+ UI Engineer 
+ fulltime 
+ / Remote 
+ Frontend 
+ 3+ years 
+ Product Manager 
+ fulltime 
+ / Remote 
+ 6+ years 
+ Platform Engineer (AWS) 
+ fulltime 
+ / Remote 
+ 6+ years 
+ Backend Software Engineer 
+ fulltime 
+ India / Remote 
+ Backend 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

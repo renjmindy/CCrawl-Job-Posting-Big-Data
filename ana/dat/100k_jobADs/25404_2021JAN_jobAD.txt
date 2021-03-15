@@ -1,0 +1,89 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Principal Cloud Architect - Data Analytics 
+ Microsoft 
+ __Mississauga, ON 
+ Apply Now 
+ Microsoft is on a mission to empower every person and every organization on the planet to achieve more. Our culture is centered on embracing a growth mindset, a theme of inspiring excellence, and encouraging teams and leaders to bring their best each day. In doing so, we create life-changing innovations that impact billions of lives around the world. You can help us to achieve our mission. 
+ Microsoft aspires to help our customers achieve their own digital transformation, leveraging the power of Microsoft Cloud solutions and support offerings. To this end, Microsoft invests in a dedicated Customer Success team that will help Microsoft customers successfully realize their business outcomes. 
+ Azure is the most comprehensive, innovative and flexible cloud platform today and Microsoft is hiring professionals that will drive customer cloud adoption within the most important companies in the market. We are always learning. Insatiably curious. We lean into uncertainty, take risks, and learn quickly from our mistakes. We build on each other’s ideas because we are better together. We stand in awe of what humans dare to achieve and are motivated every day to empower others to do more and achieve more through our technology and innovation. Together we make a difference. 
+ To learn more about Microsoft’s mission, please visit:  https://careers.microsoft.com/mission-culture 
+ Check out all of our products at:  http://www.microsoft.com/en-us 
+ This is a principal level customer facing role, owning the overall technical relationships between a subset of customers and Microsoft Azure Infrastructure and Applications Practice. You will own the Cloud Infrastructure and Azure Applications Development technical customer engagements including architectural design sessions, specific implementation projects and/or pilots. You will also help review and develop practitioners in support of their own career progress. 
+ The ideal candidate will have experience in customer-facing roles and success leading deep technical architecture discussions with senior customer executives, Enterprise Architects, IT Management and Developers. 
+ Responsibilities 
+ Key responsibilities include:  · 
+ Understand customers' overall applications portfolio, IT and business priorities and success measures to design implementation data architectures and solutions (Microsoft and 3rd party solutions) using IaaS, PaaS, DaaS, Big Data and other data technologies. 
+ Customer Facing 
+ 
+ Apply technical knowledge and customer insights to create & review solution designs. Architect solutions to meet complex and enterprise scale business and IT needs, ensuring technical viability of new projects and successful deployments, while orchestrating key resources and infusing key Data & AI technologies (e.g. Azure SQL DB, SQL MI, Azure Synapse, ADF, ADLS, Azure Databricks) and complimentary technologies as appropriate 
+ Ensure all solutions exhibit high levels of performance, security, scalability, maintainability, and appropriate reusability and reliability upon deployment 
+ Develop deep relationships with key customer Data decision makers, who drive long-term cloud adoption within their company to enable them to be cloud advocates · Be the Voice of the Customer; Share insights and best practices, and connect with Engineering teams to remove key blockers 
+ Assess the Customers' knowledge of Azure Data platform and overall cloud readiness to support customers through a structured learning plan and ensure its delivery through partners · Collaborate with other Cloud Solution Architects in developing complex end-to-end Enterprise solutions on the Microsoft Azure platform 
+ Maintain technical skills and knowledge of market trends and competitive insights; collaborate and share with the technical community · Be an Azure Platform evangelist with customers, partners and external communities 
+ Support the development of both Microsoft Data Architecture patterns and practices and its practitioners to enable continuous improvement 
+ 
+ Practice-Level Architect 
+ Technical coach to others in the community 
+Thought Leader amongst her/his peers. Thought out for their architectural depth and breadth 
+Architecture Practitioner Exhibits the highest level of Enterprise and Solution level architecture. Disciplined Architect who freely and openly shares their experience and wisdom with other Architect and Engineers 
+ Market Thought Leader:  Viewed as a thought leaders in the marketplace (Canada, US or Globally) in engaging with councils, public events, community based organizations, customer and vendor Panels 
+Architecture Review Board – Participation and support 
+Coaching and Mentoring others 
+ Experience in Data Governance Desired. 
+ Working knowledge in the various Data Integrity and Data Governance domains required including Master Data Management, Metadata, Management, Data Privacy and Security, Policy enforcement, Regulated Industries 
+Qualifications 
+ Experiences Required - Education, Key Experiences, Knowledge and Skills: 
+ Professional Experience -10+ years of success in consultative/complex technical deployment projects, architecture, design, implementation, and/or support of highly distributed data and analytics platforms. 2+ years leading technical teams required 
+ 
+ Relationship Building. Proven track record of building deep technical relationships with senior IT executives in large or highly strategic accounts. Experience in managing various stakeholder relationships to get consensus on solution/projects. required 
+ Problem Solving. Ability to solve customer problems through cloud technologies required 
+ Collaboration and Communication. Acknowledged for driving decisions collaboratively, resolving conflicts and ensuring follow through with exceptional verbal and written communication skills. Ability to orchestrate, lead, and influence virtual teams, ensuring successful implementation of customer projects. Presentation skills with a high degree of comfort with both large and small audiences (Senior Executives, IT management, Database Administrators, Engineers and Architects required) 
+ 
+ TECHNICAL: 
+ 
+ Technical Coach. Ability to help lead and develop technical practitioners preferred 
+ Enterprise-scale technical experience with cloud and hybrid Data platforms, architecture designs, migrations, and technology management required 
+ Experience and understanding of large-scale Data and Analytics portfolios in enterprise-wide environments (including migration of on-premise workloads to the cloud) required 
+ 
+ Subject matter expertise in one or more of the following: 
+Enterprise Level Data Platform and Analytics solutions (e.g. Data Warehouse. Big Data, Hadoop, PaaS, Serverless, API Management); required 
+Data Governance including Data Security, Data Strategy, Data Quality, Master Data Management, Data Catalogs, Data Lineage 
+OSS Data Technologies including Hadoop, Spark, MariaDB, PostgreSQL 
+Competitive Landscape. Knowledge of cloud development platforms preferred 
+ Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form. 
+ Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

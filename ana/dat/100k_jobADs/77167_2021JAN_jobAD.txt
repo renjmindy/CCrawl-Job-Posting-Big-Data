@@ -1,0 +1,79 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Lawn Love (S14) 
+ Modern, on-demand lawn care service. Get a quote in two minutes. 
+ Head of Growth Marketing 
+ 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Lawn Love 
+ We're Lawn Love, a new type of lawn care service. We bring software and data (truckloads of data!) to the sprawling, low-tech lawn care market. We’re hiring experienced full-stack engineers to help us reinvent this $83B/year industry. 
+ Our platform connects hundreds of thousands of lawn-havers with independent gardeners all across the country. We’re currently operating in 100+ cities across 38 states, and are growing quickly. 
+ About the role 
+ We're Lawn Love -- an on-demand marketplace for lawn care and gardening services. We’re looking for a  STELLAR  Head of Growth to run a high performing marketing team. 
+ A little about us: We launched six years ago and we're now operating in over 120 cities across 41 states. We have hundreds of thousands of customers and tens of thousands of lawn care professionals on the platform, and we've raised funding from world-class investors like Y Combinator, Bullpen Capital, Joe Montana, Alexis Ohanian, Barbara Corcoran and others. 
+ This is a marketing leadership role focused on developing a growth strategy and operationalizing it. We're looking for a player/coach, as you'll both be hands-on in specific channels (email marketing, PPC, SEO, etc) while also leading the marketing team. You'll likely spend about 20% of your time on the strategic level planning and building the strategy, and 80% of your time on the ground executing it. 
+ This role reports to the CEO. 
+ Why lawn care? 
+ Lawn Love solves problems for both lawn care consumers (anyone with grass, shrubs, or xeriscaping) and the pros doing the work. We've brought a suite of 21st century tools to a very antiquated industry, including: Online quoting, scheduling, and payments; quantitative analyses to ensure consumers get a great lawn pro, every time; and job routing and clustering algorithms that increase pros' route density and efficiency. 
+ Our company 
+ We're both well-funded and capital efficient. We launched out of YCombinator in 2014, and have raised significant funding from world-class investors over the last few years. We're here to work hard, have fun, and make history. Our goal is to massively improve the lives of millions of small business owners (our lawn pros) and help them better compete and thrive. 
+ Requirements 
+ Here's what we're looking for: 
+ 
+ You have successfully lead a growth team, and achieved impressive results. 
+ You have deep expertise with direct response marketing across a number of paid channels (Google Ads, FB, IG, Tiktok, etc). A core part of your job will be testing and unlocking new paid channels, so recent experience on this front is a must. You'll likely spend a significant amount of your time hands-on in these channels doing whatever needs to be done to drive performance. 
+ You have a working familiarity with other core marketing channels (email, SEO, content marketing, PR, community building, affiliate marketing, etc). 
+ You have set up and managed marketing analytics and BI for a sophisticated marketing organization, and are extremely fluent in marketing attribution, modeling, cohort analysis, and more. You understand how to collect clean, useful data, and drive insights. You are fluent in statistics. 
+ You can work with the product org to come up with new marketing experiments, and build growth levers into the product. You are extremely familiar with A/B testing and CRO. 
+ You can develop annual, quarterly, and monthly strategic plans. 
+ You have experience leading and managing a team, as well as outside vendors, contractors and third parties. You know how to set goals and ensure your team hits them. You can coach people and help them perform and improve. You know how to hire great growth talent. 
+ You love working hard, not just for financial rewards, but for the opportunity to grow personally. 
+ You are intellectually curious and you get stuff done. Results are what matter to you. 
+ 
+ Benefits 
+ Here's what you can expect from us: 
+ 
+ You'll be joining a high-growth startup solving hard problems, with the opportunity to make a huge impact on a very large, thoroughly antiquated industry. 
+ Significant equity. When we say you’ll be an “owner,” we mean that not just in the metaphorical sense. 
+ Unmetered vacation, full health coverage, 401k, and more. 
+ New gear, ergonomic workstations, and whatever else you need to be productive. 
+ All the benefits of a fully remote company. Zero commute, and you can work from anywhere you're productive. 
+ The opportunity to empower tens of thousands of small business owners across the country, and give them the tools to operate their businesses more efficiently. We are direct defenders of the American Dream, and we help small businesses grow, compete, and survive. This has always been a critical part of our mission, but right now it matters more than ever. 
+ 
+ Technology 
+ Our stack + engineering culture 
+ 
+ PHP backend 
+ React Native phone apps. 
+ Running in AWS, using OpsWorks/Chef for one-click deployments straight from Github. 
+ Deep integrations with Twilio, Sendgrid, and Customer.io 
+ Huge fans of continuous integration, one-idea-per-commit, and feature flag philosophies. 
+ 
+ Other jobs at Lawn Love 
+ Head of SEO 
+ fulltime 
+ Remote 
+ 3+ years 
+ Head of Growth Marketing 
+ fulltime 
+ Remote 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

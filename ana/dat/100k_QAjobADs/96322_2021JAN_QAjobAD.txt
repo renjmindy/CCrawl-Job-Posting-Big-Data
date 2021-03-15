@@ -1,0 +1,6 @@
+ Qualifications 
+ A minimum of 2 years of experience designing and developing reports with Business Objects versions Crystal 2008 (version 12) and up. 
+ At least five (5) years of experience as a Web Developer developing web applications with the Microsoft VB.Net framework. 
+ A minimum of 3 years of experience within the last 6 years developing and maintaining scripts, stored procedures, packages and error handling in PL/SQL. 
+ A minimum of 7 years performing unit tests and verification of the results. 
+ A minimum of 3 years of experience within the last 6 years with Oracle databases (versions 8, 9i, 10g, 11g). 

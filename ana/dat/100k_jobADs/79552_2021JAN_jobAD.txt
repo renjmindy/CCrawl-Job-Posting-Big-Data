@@ -1,0 +1,310 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ Engineer your career - Part 2 
+ Nick Maraj 5 March, 2019 | 4 min read 
+ Career advice job seeking 
+ Last week I posted  ‘Engineer your career… part 1’  which discussed one side of the story that I have heard between software engineers and their prospective employers over the years. In this part I will discuss what may be important for applicants to hear. 
+ You may want to change the world with some amazing people but there are criteria you are going to need to meet to ensure you are aligning with your dream company’s needs. Amongst a lot of variables such as each party’s ambitions and goals there has to be some clear overlap that benefits an employer by hiring you. 
+ Remember, it’s you who typically wants to get into  their  company! 
+ What tech companies tell me that they want 
+ We need intellectual firepower! 
+ ‘A grade’ teams strive to continue to hire ‘A grade’ candidates. 
+ Ensuring a baseline of intellectual firepower in all employees will give confidence that as a whole they will continue to be able to face and overcome any novel problems with confidence. Interestingly this doesn’t necessarily come from experience or even from getting top grades at a top school, smart people are just really good at spotting other smart people and they believe that raw talent can learn anything. 
+ An interesting point is that all companies tell me they are an ‘A grade’ team, this of course is not the reality. You may have to accept that your intellectual firepower is fixed within you but so is everyone else’s, if you don’t cut it somewhere you will elsewhere and it is all very subjective. Remember about needing the intellectual balance amongst smart peers! 
+ We need the fundamentals to be understood! 
+ Many of these top end companies have literally built their technical foundations off the back of a deep and broad understanding of Computer Science. This is often what separates the good companies from the great companies in the systems they create. This area is where your education, your ability to pass exams or become top of your class may really help you shine. Can you recall your theoretical undergrad knowledge unflinchingly, tackle your data structures, algorithms and mathematics foundations? 
+ Interviewers will assess your knowledge of the fundamentals as a strong hiring signal regardless of who you are. Don’t forget, you can teach yourself this knowledge and I have seen self-taught software engineers or those from mathematics and physics backgrounds fly through such interviews. 
+ We need candidates to demonstrate what they know! 
+ These companies need demonstrable technical ability that can be assessed. Regardless of how well you understand the fundamentals and can talk the talk, can you walk the walk? 
+ The way you have learnt to code and who has assessed your code over your personal or professional programming career will influence the habits you have got into. I have had dozens of ex-Google and Facebook employees fail interviews due to writing poor or ‘hacky’ code, then super smart coders with excellent fundamental knowledge who just over-engineered solutions. This is the part you really cannot take a short-cut through, you need to put in the hours and have your code reviewed by people whose opinion matters. 
+ The good thing is no matter who you are or where you are in the world, nothing is stopping you from continuing to learn, practice and get your code out there. Blog, dump, fork, share and post wherever you can to ensure you are continually learning, improving and getting your code reviewed. Inevitably you will be sat in a technical interview and you don’t want to let all your awesome theoretical knowledge down by not realizing your code sucks. 
+ We need commercial people who ‘just get it’! 
+ This seems like the most simple and softest of all companies needs but trust me this is where most people fall down. 
+ This is where your dreams, wants and desires that we have dissected come up to bite you on the ass. You are not trying to work in research or for a billionaire’s side project. More often than not, regardless of how well the company PRs itself, you are applying to work at a private company that at the end of the day needs to drive revenue and generate profits to enable it to do what it does day to day. Yes, ideally you will find the companies that want to remain profitable to fund their activity rather than the other way round. 
+ Regardless, these are businesses and you are an employee of that business. You have your part to play in their greater goal which along the way should allow you to realise your ambitions. ‘She just gets it’, ‘he is very commercial’… is the sort of interview feedback that gets me out of bed in the morning. Requiring minimal time investment and attention to be very productive means you will very likely outshine the top achievers across intellectual firepower or fundamental knowledge. Be motivated and pulling in the same direction as the company. Be the employee you would want to hire into your own business. 
+ In Conclusion 
+ Regardless of your perception of your dream company the reality may be quite different, the grass is always greener and you need to think about what will actually make you happy on a day to day basis. There is nothing wrong with having aspirations but there are a lot of factors contributing to happiness and you need to fit into a commercial world. You do need to shape your skills and attributes to ensure you are aligning with the needs of your most desired companies whilst letting your passion and enthusiasm shine. You are being assessed on intellectual potential, your academic study of the topics at hand, your ability to deliver high quality code and to be able to do this in a reliable way as a ‘commercial’ and productive employee. 
+ In return you will get to work with incredible people where you will always be learning. You will get a sense of satisfaction from delivering high quality work, no matter what your company does you will feel proud of this work, this will make you critical to the business’ function, your company will not want to lose you and will compensate you well. 
+ This is a narrow view of some of the most technically advanced firms out there and not representative of the wider market. I hope this insight helps. 
+ Originally published on  www.linkedin.com 
+ Nick Maraj 
+ COO at WorksHub - Building an innovative hiring platform in Clojure. 
+ 
+ Technical Recruiting 
+ Team Leadership 
+ HubSpot 
+ Related Articles 
+ Setting up your first Next.js project with Tailwind and Jest James Calmus 15 January, 2021 | 6 min read | 2 boosts 
+ JavaScript React Beginner Testing jest next.js TailwindCSS 
+ Working at Chainlink - Connect Smart Contracts to the Real World Mihaela Popa 14 January, 2021 | 3 min read | 1 boost 
+ AWS Blockchain Golang Remote TECH STARTUPS TYPESCRIPT 
+ When working remotely, communication is key to productivity bnrosa_dev 8 January, 2021 | 3 min read | 8 boosts 
+ Remote Working 100% remote work 100% remote working Fully Remote 
+ Working at MotoRefi - Build a Simple Way to Refinance Mihaela Popa 22 December, 2020 | 2 min read | 57 boosts 
+ Scala Clojure Haskell Python Ruby TYPESCRIPT start-up REACT JS 
+ Working at Flipside Crypto - Decode Blockchain Behaviours Mihaela Popa 21 December, 2020 | 4 min read | 75 boosts 
+ Python Go Blockchain Cryptocurrency Kafka STARTUP Spark TYPESCRIPT REACT JS 
+ Crypto and Coffee Q&A with Gemini: Aris Agdere, Senior Software Engineer Aris Agdere 18 December, 2020 | 2 min read | 21 boosts 
+ Scala Java Blockchain Cryptocurrency 
+ Why should you use PHP Framework instead of Core PHP? Nemanja Grubor 18 December, 2020 | 5 min read | 1 boost 
+ Laravel software security core php 
+ Ace Your Interview: A Strategy for Coding in Interviews Adam Dangoor 15 December, 2020 | 4 min read | 83 boosts 
+ Coding Interview Interview Preparation Interview Questions Interview Tips Interview guide 
+ React Native Boilerplate 2021  Handi Priyono 12 December, 2020 | 2 min read | 21 boosts 
+ Node.js JavaScript React Android iOS REDUX React Hooks React Native TYPESCRIPT REACT JS iOS Development 
+ Related Issues 
+ WorksHub / client 
+ WorksHub / client 
+ Embed PDF into company's application view of candidate 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 17 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ $150 
+ 
+ 
+ viebel / klipse-clj 
+ viebel / klipse-clj 
+ Support PREPL format 
+ 
+ 
+ Open 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ How To Build CLJS Cache Files ? 
+ 
+ 
+ Open 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ when hosting Klipse locally, fonts are loaded from the internet 
+ 
+ 
+ Submitted 
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Golang support using Gopherjs or Joy 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 2 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ $80 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Perl support using Perlito 
+ 
+ 
+ Open 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ Advanced 
+ 
+ 
+ Clojure 
+ 
+ 
+ $80 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Klipse cannot be built with shadow-cljs 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 2 
+ 
+ 
+ Advanced 
+ 
+ 
+ Clojure 
+ 
+ 
+ $180 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Import klisp as an object 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Run computation in isolated context 
+ 
+ 
+ Submitted 
+ 
+ 
+ 1 
+ 
+ 
+ 1 
+ 
+ 
+ Advanced 
+ 
+ 
+ Clojure 
+ 
+ 
+ $300 
+ 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ 25 
+ 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

@@ -1,0 +1,68 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ NURX (W16) 
+ Medicine or testing kit, prescribed online and delivered to your door. 
+ Senior Software Engineer - Core Services 
+ 
+ Location 
+ Remote / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About NURX 
+ Nurx is reinventing healthcare, by making it easier to get vital medications and tests delivered straight to your door. Learn what it's like to work at Nurx, and check out opportunities in San Francisco, Miami, and Syracuse. 
+ We’re a mission driven company disrupting the healthcare industry. Join us in revolutionizing primary care starting with birth control, HPV testing, PrEP for HIV prevention, and STI testing and treatment. We are growing on a daily basis, expanding our team and offerings. You have the opportunity to make a huge impact that is felt throughout the entire company. New challenges present themselves and we tackle them with rigor and passion. 
+ Our team values autonomy, diversity, happiness, empathy for our users, transparency, curiosity, and health and wellness. 
+ As an early team member, you can shape the way patients throughout the country receive their medication. We are a roll up your sleeves team who is looking for like-minded individuals to join! 
+ About the role 
+ Skills:  Node.js, TypeScript, PostgreSQL 
+ Nurx is looking for an experienced Software Engineer to join the Core Services team. 
+ Company overview: 
+ Nurx is on a mission to change the way healthcare is delivered, making it more accessible and affordable for patients, nationwide. With a specialty in sensitive health, we have built the industry-leading telehealth platform that spans consultation, diagnoses and fulfillment (right to your door!). We are committed to revolutionizing the healthcare industry and that’s where you come in! 
+ Today we have more than 300,000 patients, are growing 90% year-over-year, and operate in 30 states. We are lucky to count Kleiner Perkins and Union Square Ventures as investors and Chelsea Clinton and Regina Benjamin as Board Members. 
+ About the Core Services team: 
+ The Core Services team is responsible for building and maintaining the tools used by Nurx’s engineering team. As the backbone of the Nurx engineering, this team is dedicated to making our engineers as productive as possible. From the api framework to managing our production data to deployment, our impact reaches across the stack to enable a better developer experience. 
+ About the job: 
+ Nurx is looking for experienced Software Engineers to join our growing engineering team. You'll be responsible for technical decisions that impact our whole engineering team. Candidates for this role will be passionate about system design, well written code, and testing, and excel at coming up with simple approaches to complex problems. 
+ Our engineering team values craftsmanship, inclusivity, being data-driven and humble. Although we are a distributed team, we lean on collaboration, transparency and open-communication. 
+ What you'll do: Build and maintain the API framework including model design, engineer throughput, versioning, correctness, and accounting for all edge cases of http. Iterate on our deployment process. Focusing on design, implementation, and debugging issues Scale our test framework to ensure reliability and ease of use Create actionable metric alarming and acknowledgement of alert fatigue Passion for code quality which includes the architecture, general syntax, and styling Make our production issue triage simpler via logging frameworks, error codes, and bug assignment Contribute to our auditing framework that helps alarm on user patterns and sensitive data Improve developer onboarding A bit about you: 4+ years’ experience working for a tech-focused company BS in Computer Science, Math, or equivalent work experience. Experience writing good software is a suitable replacement for a technical degree Mastery in one of our main technologies: PostgreSQL, Node.js, TypeScript Strong architecture and system design skills Writes readable, maintainable, testable, and performant code Passion for software development processes and engineering culture Can evaluate tradeoffs between implementation time, maintainability, and impact You are someone that respectfully challenges the norm and isn’t afraid to voice their opinion Embody and work by our company values: Patient First, Dare to be Better, In This together, Own It, Do the Right Thing 
+ Benefits: 
+ Talented and collaborative team who will both support and challenge you. Market competitive salary and equity. Medical, dental, commuter, wellness, and engineering technology benefits. 401(k) retirement plan. Paid holiday, vacation, and sick leave. Take what you need vacation (and we really mean it!). This position is full-time and based in San Francisco, or can be full-time remote. 
+ Technology 
+ Other jobs at NURX 
+ Senior Software Engineer 
+ fulltime 
+ San Francisco, CA 
+ Full Stack 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 3+ years 
+ Senior Software Engineer - Core Services  
+ fulltime 
+ Remote / Remote 
+ Devops 
+ 6+ years 
+ Senior Product Manager - Patient Experience 
+ fulltime 
+ San Francisco (remote) / Remote 
+ 6+ years 
+ Staff Software Engineer 
+ fulltime 
+ San Francisco Bay Area, CA, USA / Remote 
+ Full Stack 
+ 11+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

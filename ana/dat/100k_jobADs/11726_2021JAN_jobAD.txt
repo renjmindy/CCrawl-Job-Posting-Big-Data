@@ -1,0 +1,283 @@
+Climate Science: Roger Pielke Sr. 
+ Skip to content 
+ 
+ Home 
+ Main Conclusions 
+ Message From R.A. Pielke Sr. 
+ 
+   
+ <- E-Mail Interaction Between Peter Gleick And I On Wolfgang Wagner's Resignation 
+ New Paper "Impact of Global Ocean Surface Warming On Seasonal-To-Interannual Climate Prediction" By Luo Et Al 2011 -> 
+ by  rpielke  | September 4, 2011 * 1:22 pm 
+ Hatchet Job On John Christy and Roy Spencer By Kevin Trenberth, John Abraham and Peter Gleick 
+ There is an opinion article at Daily Climate that perpetuates serious misunderstandings regarding the research of Roy Spencer and John Christy. It also is an inappropriate (and unwarranted) person attack on their professional integrity. Since I have first hand information on this issue, I am using my weblog to document the lack of professional decorum by Keven Trenberth, John Abraham and Peter Gleick. 
+ The inappropriate article I am referring to is 
+ Opinion: The damaging impact of Roy Spencer's science 
+ published on the Daily Climate on September 2 2011. The article is by Kevin Trenberth, John Abraham, and Peter Gleick. 
+ Their headline reads 
+ 
+ In his bid to cast doubts on the seriousness of climate change, University of Alabama's Roy Spencer creates a media splash but claims a journal's editor-in-chief. 
+ The science doesn't hold up. 
+ 
+ I am reproducing the text of the article below with my comments inserted. 
+ The text of their article starts with [highlights added] 
+ 
+ The widely publicized paper by Roy Spencer and Danny Braswell, published in the journal Remote Sensing in July, has seen a number of follow-ups and repercussions. 
+ Unfortunately  this is not the first time the science conducted by Roy Spencer and colleagues has been found lacking.  The latest came Friday in a remarkable development, when the journal's editor-in-chief, Wolfgang Wagner, submitted his resignation and apologized for the paper. 
+ As we noted on RealClimate.org when the paper was published, the hype surrounding Spencer's and Braswell's paper was impressive; unfortunately the paper itself was not.  Remote Sensing is a fine journal for geographers, but it does not deal much with atmospheric and climate science  , and it is evident that this paper did not get an adequate peer review. It should have received an honest vetting. 
+ 
+ My Comment: 
+ The claim that a journal on remote sensing, which publishes paper on the climate system "  but …does not deal much with atmospheric and climate science",  is not climate science is obviously incorrect. This trivialization of the journal in this manner illustrates the inappropriately narrow view of the climate system by the authors. That the paper _" should have received an honest vetting", _I assume means that they or their close colleagues should have reviewed it (and presumably recommended rejection). 
+ The Trenberth et al text continues 
+ 
+ Friday that truth became apparent.  Kevin Trenberth received a personal note of apology from both the editor-in-chief and the publisher of Remote Sensing . Wagner took this unusual and admirable step after becoming aware of the paper's serious flaws. By resigning publicly in an editorial posted online, Wagner hopes that at least some of this damage can be undone. 
+ 
+ My Comment: 
+ My son has posted on this ( see ). I agree; for Kevin Trenberth to receive an apology is quite bizarre. 
+ Their text continues 
+ 
+ Unfortunately  this is not the first time the science conducted by Roy Spencer and colleagues has been found lacking . 
+ Spencer, a University of Alabama, Huntsville, climatologist, and his colleagues have a history of making serious technical errors in their effort to cast doubt on the seriousness of climate change.  Their errors date to the mid-1990s, when their satellite temperature record reportedly showed the lower atmosphere was cooling.  As obvious and serious errors in that analysis were made public, Spencer and Christy were forced to revise their work several times and, not surprisingly, their findings agree better with those of other scientists around the world  : the atmosphere is warming. 
+ 
+ My Comment: 
+ This statement of the history is a fabrication and is an ad hominem attack. The errors in their analysis were all minor and were identified as soon as found. Such corrections are a normal part of the scientific process as exemplified recently in the finding of a substantial error in the ERA-40 reanalysis; 
+ Screen, James A., Ian Simmonds, 2011:  Erroneous Arctic Temperature Trends in the ERA-40 Reanalysis: A Closer Look .  J. Climate  ,  24  , 2620–2627. doi: 10.1175/2010JCLI4054.1. 
+ My direct experience with the UAH-MSU data analysis has been over more than a decade. I will share two examples here of the rigor with which they assess and correct, when needed, their analyses. 
+ First, at one of the CCSP 1.1 committee meetings that I attended [for the report Temperature Trends in the Lower Atmosphere: Steps for Understanding and Reconciling Differences (in Chicago)], an error was brought to the attention of Roy Spencer and John Christy by the lead investigators of the RSS MSU project (Mears and Wentz). 
+ The venue at which this error was brought up (in our committee meeting) was a clear attempt to discredit John and Roy's research as we sat around the table. Roy found a fix within a few minutes, and concluded it was minor. This fix was implemented when he returned to Alabama. 
+ When I saw how this "exposure" of an error was presented (in front of all of us, instead of in private via e-mail or phone call), I became convinced that a major goal of this committee (under the leadership of Tom Karl) was to discredit them. I told John this at a break right after this occurred. At a later meeting (in December 2008), 
+ Protecting The IPCC Turf – There Are No Independent Climate Assessments Of The IPCC WG1 Report Funded And Sanctioned By The NSF, NASA Or The NRC. 
+ I explicitly saw Tom Karl disparage the Christy and Spencer research. 
+ In order to further examine the robustness of the Christy and Spencer analyses, in 2006 I asked Professor Ben Herman, who is an internationally well-respect expert in atmospheric remote sensing, to examine the Christy and Spencer UAH MSU and the Wentz and Mears RSS MSU data analyses. He worked with a student to do this and completed the following study 
+ Randall, R. M., and B. M. Herman (2007),  Using Limited Time Period Trends as a Means to Determine Attribution of Discrepancies in Microwave Sounding Unit Derived Tropospheric Temperature Time Series , J. Geophys. Res., doi:10.1029/2007JD008864 
+ which includes the finding that 
+ 
+ "Comparison of MSU data with the reduced Radiosonde Atmospheric Temperature Products for Assessing Climate radiosonde data set indicates that RSS's method (use of climate model) of determining diurnal effects is likely overestimating the correction in the LT channel.  Diurnal correction signatures still exist in the RSS LT time series and are likely affecting the long-term trend with a warm bias. " 
+ 
+ The robustness of the UAH MSU [the Christy and Spencer analysis] is summarized in the text 
+ 
+ “Figure 5 shows that  10-year trends center on the mid-1994’s through 10 year trends centered on the mid-1995’s indicates the RSS−Sonde trends are significantly different from zero where the Sonde−UAH trends are not .  In addition, for 10-year trends centered on late-1999 through 10- years trend centered on early 2000 the RSS−Sonde trends are significantly different from zero where Sonde−UAH are marginally not . Another key feature in the RSS−Sonde series is the rapid departure in trend magnitude from trends centered on 1995 through trends centered on late-1999 where the Sonde−UAH magnitude in trends is nearly constant. These features are consistent with the diurnal correction signatures previously discussed. These findings [in] the RSS method for creating the diurnal correction (use of a climate model) is [the] cause for discrepancies between RSS and UAH databases in the LT channel.” 
+ 
+ The latest Trenberth et al article is a continuation of this ad hominem effort to discredit John Christy and Roy Spencer. 
+ The Trenberth et al article continues 
+ 
+ Over the years, Spencer and Christy developed a reputation for making serial mistakes that other scientists have been forced to uncover . Last Thursday, for instance, the Journal of Geophysical Research - Atmospheres published a study led by Lawrence Livermore National Laboratory climate scientist Ben Santer. Their findings showed that Christy erred in claiming that recent atmospheric temperature trends are not replicated in models. 
+ This trend continues: On Tuesday the journal Geophysical Research Letters will publish a peer-reviewed study by Texas A&M University atmospheric scientist Andrew Dessler that undermines Spencer's arguments about the role of clouds in the Earth's energy budget. 
+ We only wish the media would cover these scientific discoveries with similar vigor and enthusiasm that they displayed in tackling Spencer's now-discredited findings. 
+ 
+ My Comment: 
+ Roy Spencer is hardly discredited because there are papers that disagree with his analysis and conclusions. This will sort itself out in the peer-reviewed literature after he has an opportunity to respond with a follow on paper, and/or a Comment/Reply exchange. Similarly, John Christy can respond to the Santer et al paper that is referred to in the Trenberth et al article. 
+ What is disturbing, however, in the Trenberth et al article is its tone and disparagement of two outstanding scientists. Instead of addressing the science issues, they resort to statements such as Spencer and Christy making _ "serial mistakes"._ This is truly a hatchet job and will only further polarize the climate science debate 
+ source of image 
+ Share this: 
+ 
+ Share 
+ 
+ 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Reddit 
+ 
+ 
+ Print 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Comments Off on Hatchet Job On John Christy and Roy Spencer By Kevin Trenberth, John Abraham and Peter Gleick 
+ Filed under  Bias In News Media Reports ,  Climate Science Misconceptions 
+ <- E-Mail Interaction Between Peter Gleick And I On Wolfgang Wagner's Resignation 
+ New Paper "Impact of Global Ocean Surface Warming On Seasonal-To-Interannual Climate Prediction" By Luo Et Al 2011 -> 
+ Comments are closed. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Categories 
+ 
+ Academic Departments 
+ Advocacy Masking As Science 
+ Assessment of climate predictability 
+ Bias In News Media Reports 
+ Books 
+ Climate Change Forcings & Feedbacks 
+ Climate Change Forcings & Feedbacks 
+ Climate Change Metrics 
+ Climate Change Regulations 
+ Climate Models 
+ Climate Proposal Review Process 
+ Climate Science Meetings 
+ Climate Science Misconceptions 
+ Climate Science Op-Eds 
+ Climate Science Presentations 
+ Climate Science Reporting 
+ Climate Surveys 
+ Climategate e-mails 
+ Debate Questions 
+ Definition of Climate 
+ Donations 
+ Examples Of Waste Of Funding 
+ Extreme Weather 
+ Guest Weblogs 
+ Guest Weblogs 
+ Interviews 
+ Jobs in Climate Science 
+ Jobs in Climate Science 
+ On The Weblog Scheduling 
+ Politicalization of Science 
+ Q & A on Climate Science 
+ RA Pielke Sr. Position Statements 
+ Research Papers 
+ The Review Process 
+ Twitter 
+ Uncategorized 
+ US Political Process 
+ Vulnerability Paradigm 
+ Vulnerability Paradigm 
+ 
+ 
+ 
+ Pages 
+ 
+ Main Conclusions 
+ Message From R.A. Pielke Sr. 
+ 
+ 
+ 
+ Archives 
+ 
+ July 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ January 2012 
+ December 2011 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ October 2008 
+ September 2008 
+ August 2008 
+ July 2008 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ 
+ 
+ 
+ Links 
+ 
+ Colorado Climate Center 
+ Pielke Research Group 
+ R.A. Pielke Sr.’ House Testimony 
+ Roger A. Pielke Sr.’s Perspective On The Role Of Humans In Climate Change 
+ Summary Of Roger A. Pielke Sr’s View Of Climate Science 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+ Recommended Reading site, as suggested by TheReefTank community 
+ 
+ 
+ TheReefTank 
+and it's 
+ forum members 
+titled this site as 
+Recommended Reading 
+ Vote for us! 
+ Climate Science: Roger Pielke Sr.  * by Roger Pielke Sr. 
+ Blog at WordPress.com. 
+ %d bloggers like this: 

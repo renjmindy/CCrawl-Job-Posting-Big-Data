@@ -1,0 +1,113 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ DeansList (IK12) 
+ Enterprise SaaS software helping schools manage administrative and non-academic data, and improve parent engagement. 
+ Senior Full Stack Engineer - Client Facing 
+ $115k - $140k • 0.10% - 0.30% 
+ Location 
+ New York/Remote / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About DeansList 
+ DeansList is the daily driver app that runs great K12 schools all over the U.S. We make it easy for schools to keep track of the data that matters,, distribute it across the school to all stakeholders, and communicate more frequently and more effectively with families. 
+ We focus specifically on the needs of students and families in underserved communities. Our feature set is designed to improve opportunities for students most affected by the achievement gap, areas like chronic absenteeism, family engagement, and social emotional skills. 
+ Our clients are innovative schools, mission-driven to closing the Achievement Gap, and DeansList is a key tool enabling them help students succeed. 
+ About the role 
+ Skills:  JavaScript, MySQL, PHP 
+ DeansList is hiring its first-ever, dedicated client-facing engineer. 
+ This role will take direct ownership of three of our most important functional areas: 
+ 
+ Integrations:  DeansList is just one piece of a modern school’s tech ecosystem and we believe in supporting interoperability is critical to our mission. We have a robust integration layer and you’ll be responsible for managing that codebase, our library of existing connections, and developing connections to new systems. 
+ Client-Specific Code:  To streamline schools day-to-day-ops we sometimes deploy custom scripts to our enterprise clients. At first you’ll be responsible for owning our existing script library and developing new scripts for clients as needed. As many of these scripts are widely used and solve needs for many clients, you’ll also have the opportunity to develop these into first-class features. 
+ Support Engineering:  You’ll work directly with our rockstar School Success Team to troubleshoot technical issues and to architect creative solutions for our clients. 
+ 
+ Responsibilities include but are not limited to: 
+ 
+ Supporting client-facing teammates and end-users in all of the above areas. 
+ Building processes to improve the way these requests are triaged, prioritized, addressed and closed out. 
+ Designing and building features to scale the above two tasks. 
+ 
+ People who will succeed in this role: 
+ 
+ Love working with end-users and non-technical members of a team, learning about their workflows, and implementing solutions that make their jobs easier. 
+ Are comfortable working with complex relational data models. 
+ Are great at writing scripts and finding innovative ways to hack a solution together, but also enjoy medium and large-scale feature development. 
+ Enjoy working with APIs and get excited making two systems talk to each other. 
+ Are motivated by the challenge of finding a solution to every user’s problem, but also comfortable pushing back when appropriate. 
+ Excellent multi-taskers who don’t mind switching between small and large-scale projects. 
+ Are not scared by the challenge of working on a large pre-existing codebase and your first urge isn’t always to scrap everything and rebuild. 
+ Bonus: have worked with other ed-tech systems and have familiarity with common education data models 
+ 
+ Requirements 
+ And finally, here’s the profile of who we think would thrive in this role. This isn’t an exact science - if you don’t meet everyone of these qualifications but feel you’d succeed in this role we encourage you to apply. 
+ 
+ 4+ years of professional development experience with our core stack: 
+ PHP 
+ MySQL 
+ REST APIs 
+ HTML/CSS/JavaScript 
+ Familiarity with some of the other technologies we use: -- GraphQL -- React / React Native -- Redis 
+ 2+ years experience supporting end-users 
+ Experience in or a connection to education/ed-tech 
+ 
+ Who is DeansList? 
+ 
+ We’re a bootstrapped ed-tech company that creates software that helps schools run better. 
+ Our SaaS platform is used by hundreds of innovative schools across the country. 
+ We’re proud to serve many traditionally underserved communities. 
+ Every school’s needs are different, and our software is highly customizable. 
+ We’re continually solving hard (aka interesting) problems. 
+ We have the footprint and culture of a startup with the stability and resilience of a large company. 
+ We’re used to working remotely; we’ve been doing it for almost five years. 
+ We love delighting our customers with software and service that go beyond expectations. 
+ We believe in work-life balance--an exhausted dev is not a creative dev. 
+ 
+ Technology 
+ Architecture 
+ Our architecture is a mix of tried/tested technologies like PHP and more modern tools like GraphQL and React. Our core platform is a monolith that we're gradually breaking out into individual services. Some of our newer services run on Laravel/Lumen. We have REST and GraphQL APIs for both internal and client-facing use. 
+ Challenges We're Solving 
+ 
+ Our Analysis Tools suite is a world class business intelligence tool tuned specifically for education 
+ Our Messaging Center enables schools to communicate with families across voice, SMS and email - meeting parents at the medium that works for them 
+ Our integration layer makes it easy for us to connect to any third-party data provider via API or flat file 
+ Our internal report IDE lets schools build rich data-filled reports from scratch leveraging GraphQL, HTML and JavaScript 
+ 
+ Additional Technologies 
+ Ansible, ECS, Handlebars, Laravel/Lumen, GraphQL, MySQL, Node.JS, Puppeteer, React, React Native, Redis 
+ Other jobs at DeansList 
+ Senior Full Stack Engineer - Client Facing 
+ fulltime 
+ New York/Remote / Remote 
+ Full Stack 
+ $115k - $140k 
+ 0.10% - 0.30% 
+ 3+ years 
+ Director of School Success 
+ fulltime 
+ New York / Remote 
+ 3+ years 
+ Senior Mobile Developer (React Native) 
+ fulltime 
+ New York / Remote 
+ Frontend 
+ 3+ years 
+ Reporting and Data Associate 
+ fulltime 
+ New York / Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

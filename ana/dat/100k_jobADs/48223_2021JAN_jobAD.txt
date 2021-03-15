@@ -1,0 +1,91 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Software Engineer II 
+ BC IMC 
+ __Victoria, BC 
+ Apply Now 
+ DEPARTMENT DESCRIPTION 
+ The Technology Department is responsible for providing technology solutions that contribute to the achievement of BCI’s vision and long-term goals. The department manages the Corporation’s business applications and technology infrastructure, providing support to a large group of financial professionals. The Technology Department is also responsible for authoring Technology-related directives and conducting disaster recovery planning to minimize risk to the Corporation’s delivery of investment services. 
+ POSITION DESCRIPTION 
+ Reporting to the Manager, Application Services, the Software Engineer II is responsible 
+for software products and projects with a mid-level of complexity. The Software Engineer II collaborates and communicates with members of cross-functional teams and delivers business value to internal customers. She/he will develop customer-focused front-end and back-end applications in an Agile hybrid environment and enable the effective and efficient delivery of quality products. The position can be based in either Vancouver or Victoria with travel between the two cities. 
+ QUALIFICATIONS 
+ Bachelor’s degree in Technology, Engineering, Computer Science, or a related field 
+A minimum of 5 years experience as Developer or Software Engineer with responsibility for development, testing and production support 
+A minimum of 3 years experience with Agile methods (Scrum) and DevOps practices 
+Must have development experience using programming languages such as: VBA, VB.Net, ASP.Net, C#, Python, Perl, JavaScript 
+ Strong knowledge of back-end databases:  MS SQL Server, SSRS and SSIS 
+Must have experience with issue tracking, and product development and version control tools (Git) 
+Must have excellent customer-service, listening, communication and problem-solving skills 
+Experience using ServiceNow, Jira, ActiveBatch and BitBucket would be an asset 
+Professional certifications such as Certified Scrum Developer (CSD), Certified Scrum Professional (CSP), Agile Certified Practitioner (PMI-ACP) or equivalent credentials would be an asset 
+Knowledge of the investment management industry would be an asset 
+Cloud development experience would be an asset 
+ PRIMARY RESPONSIBILITIES 
+ Collaborates with team members, other Technology teams and customers to understand the objectives, needs and issues of assigned customer area(s) 
+Collaborates with Solution Architects and Business Solution Engineers to define business and non-functional requirements and compelling user stories 
+Collaborates with and supports the Solution Architect with detailed solution design to deliver the desired business outcomes with cost-effective sustainment 
+Assesses new technologies through conducting state-of-the-art reviews or proofs of concept and making recommendations to inform application roadmap development and business cases 
+Develops, implements, tests and delivers high quality and industry-standard products that deliver maximum business value to customers 
+Develops test strategies, designs automation frameworks and writes unit/functional tests 
+Presents products to internal and external stakeholders, reviews the work of other engineers and provides feedback in an open, respectful and constructive manner 
+Delivers products in line with schedule commitments and implementation plans 
+Proactively identifies risks and issues and proposes solutions to remove barriers 
+Applies knowledge of Agile methods and participates in team activities, ceremonies and efforts to continuously improve processes including backlog development or grooming, sprint planning and team retrospectives 
+Applies knowledge of DevOps practices including continuous deployment, continuous integration, test-driven development and automated testing 
+Acts as a subject matter expert and provides support, ad hoc training and guidance to others to increase adoption of Agile methods and DevOps practices 
+Contributes to BCI’s reference architecture and the ongoing evolution of DevOps practices 
+Ensures technical artifacts are accurate, accessible, maintained and communicated 
+Undertakes special projects or assignments as required 
+Performs other related duties as required 
+ COMPETENCIES 
+ Learning Agility 
+ Effective performers continuously seek new knowledge. They are curious and want to know “why”. They learn quickly and use new information effectively. They create and foster a culture of interest, curiosity, and learning. 
+ Relationship Building 
+ Effective performers establish and proactively maintain a broad network of relationships (e.g. colleagues, co-workers, vendors, suppliers, etc.). They value these relationships and work effectively across the organization by maintaining positive working relationships with peers and others. 
+ High Standards 
+ Effective performers possess a high inner work standard and shows pride in their work. They consistently strive to ensure work is complete within deadlines and that all work performed is of a high quality. 
+ Influence 
+ Effective performers are skilled at directing, persuading, and motivating others. They are able to flex their style to direct, collaborate, or empower as the situation requires. They have established a personal power base built on mutual trust, fairness, and honesty. 
+ Organization & Planning 
+ Effective performers have strong organizing and planning skills that allow them to be highly productive and efficient. They manage their time wisely and effectively prioritize multiple competing tasks. They follow through on tasks to ensure changes in technology are communicated effectively. 
+ Results Orientation 
+ Effective performers maintain appropriate focus on outcomes and accomplishments. They are motivated by achievement, and persist until the goal is reached. They convey a sense of urgency to make things happen. They respect the need to balance short- and long-term goals. They are driven by a need for closure. 
+ Communicativeness 
+ Effective performers clearly and articulately convey technical and other information both orally and in writing to others in a manner appropriate to the listener. They write clearly, accurately and concisely, composing project, technical and other required documentation as required. 
+ Change Mastery 
+ Effective performers are adaptable. They embrace needed change and modify their behaviour when appropriate to achieve organizational objectives. They are effective in the face of ambiguity. They understand and use change management techniques to help ensure smooth transitions. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

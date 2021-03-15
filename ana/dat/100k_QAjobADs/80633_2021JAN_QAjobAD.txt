@@ -1,0 +1,6 @@
+ Python Developer We are looking for a Python Web/Django Developer responsible for managing the interchange of data between the server and the users.- Your primary focus will be the development of all server-side logic, ensuring high performance and responsiveness to requests from the front-end. Mandatory Requirement: Exp. in Python & Django Responsibilities :- Writing reusable, testable, and efficient code- Design and implementation of low-latency, high-availability, and perform ant applications- Integration of user-facing elements developed by front-end developers with server side logic Skills And Qualifications :- Expert in Python, with knowledge of at least one Python web framework {{Django}}, Good understanding of server-side templating languages {{depending on technology stack}}- Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3 Good mathematical, analytical and communication skills. Good knowledge in Software development life cycle. 
+ Wishlist   Apply 
+ Quick Links 
+ Find Job 
+ Job Seekers 
+ Employer Zone 

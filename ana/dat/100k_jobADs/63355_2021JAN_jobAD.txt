@@ -1,0 +1,376 @@
+Skip to main content 
+ Javascript is disabled on your browser. In order to display this website properly, please enable javascript. 
+  Workiva Workiva.com  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Partners 
+ Connectors 
+ Security 
+ 
+ 
+ Solutions 
+ 
+ Capital Market Transactions 
+ Internal Audit Management 
+ Management Reporting 
+ SEC Reporting 
+ SOX Compliance 
+ Statutory Reporting 
+ + 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ Industries 
+ 
+ Banking 
+ Energy and Utilities 
+ Government 
+ Higher Education 
+ Insurance 
+ Investments 
+ + 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Customers 
+ The nicest thing about the Workiva platform is just feeling in control. 
+ ](/customers) 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Education 
+ 
+ Community 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Off the Books Podcast 
+ Surfing the uncharted waters of accounting, finance, and wherever else the waves take us. 
+ ](/off-the-books-podcast) 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Request Demo 
+ 
+ 
+ Sign In 
+ 
+ 
+ Menu 
+ Workiva Life Blog 
+ Make an impact, every day 
+ Your browser doesn't support HTML5 canvas 
+ 
+ 
+ Workiva Culture 
+ 
+ 
+ Internships 
+ 
+ 
+ Teams and Locations 
+ 
+ 
+ Hiring Process 
+ 
+ 
+ Benefits and Perks 
+ 
+ 
+ Workiva Life Blog 
+ 
+ 
+   
+ Software Architecture as Business Analysis 
+ Learn the eight steps of the software architecture process and how a software architect should act as a bridge between business stakeholders and technical stakeholders. 
+ June 6, 2018 
+ Kevin Sookocheff 
+   
+ DSM Hack 2018 - My Experience 
+ Workiva recently helped sponsor a charity event called dsmHack. It was both fun and fulfilling, and we would like to tell you a little bit about our team's experience—what we made and how we pulled it off. 
+ May 14, 2018 
+ Charlie Strawn 
+   
+ What do Software Development Engineers in Test at Workiva do? 
+ Learn about the the role and daily responsibilities of an Software Development Engineer in Test (SDET) at Workiva. What does a SDET do and what are some of the common misconceptions? 
+ April 18, 2018 
+ Alden Peterson 
+   
+ Kids code the darndest things 
+ Workiva engineers volunteered to help out the next generation of programmers. Read the blog to see highlights from Kids Code Summer Camp. 
+ December 20, 2017 
+ Braeden Young 
+ Sebastian Malysa 
+   
+ Starting my engineering career at Workiva 
+ Find out what valuable lessons one Workiva intern has learned while beginning his engineering career. 
+ October 18, 2017 
+ Sebastian Malysa 
+   
+ Remote collaboration pain? Try a dash of Google Drawings! 
+ July 12, 2017 
+   
+ Take it to the limit—considerations for building reliable systems 
+ March 1, 2017 
+ Tyler Treat 
+   
+ Mentorship in code reviews 
+ Code reviews are more than just a chance to catch bugs before they reach production. They are a mentoring opportunity to spread knowledge and improve our teams and code. Every code review should have two outcomes: improved code and improved engineers. 
+ February 15, 2017 
+ Jeff Read 
+   
+ Neuroeconomics and user interactions 
+ Research shows that each decision we make has a tangible cost. Measuring these costs is not only possible, but highly accurate and relevant to our users. 
+ January 4, 2017 
+ Dustin Lessard 
+   
+ Restraint-Driven Development 
+ Excellent Software Engineering is as much about the code you don't write as it is about the code you do write. 
+ September 28, 2016 
+ Jeff Read 
+ Most Popular 
+ Takeaways from Five Dysfunctions of a Team Training 
+ Workiva One of Fortune Magazine’s 100 Best Companies to Work For 
+ DSM Hack 2018 - My Experience 
+ Popular Categories 
+ Giving Back 
+ Culture 
+ Communication 
+ Leadership 
+ Pagination 
+ 
+ 
+  First page « First  
+ 
+ 
+  Previous page ‹ Previous  
+ 
+ 
+  Page 1 
+ 
+ 
+  Page 2 
+ 
+ 
+  Current page 3 
+ 
+ 
+  Page 4 
+ 
+ 
+  Page 5 
+ 
+ 
+  Page 6 
+ 
+ 
+  Next page Next ›  
+ 
+ 
+  Last page Last »  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Connectors 
+ Partners 
+ Security 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Support 
+ 
+ Community 
+ Customer Support 
+ Developers 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Locations 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Twitter 
+ 
+ 
+ YouTube 
+ 
+ 
+ Select Region 
+ 
+ 
+ 
+ 
+ Legal 
+ Privacy Policy 
+ Sitemap 
+ 
+ (C)2021 Workiva 
+ 2900 University Blvd 
+Ames, IA 50010 
+  AICPA  
+ 
+ __ 
+ In the meantime, visit the resources below. 
+ [ 
+ Handbook: Surviving the New Normal 
+ ](/new-normal) 
+ [ 
+ How Sysco and Blackbaud kept business as usual 
+ ](/resources/how-sysco-and-blackbaud-kept-business-usual) 
+ [ 
+ Connected Reporting and Compliance Brochure 
+ ](/resources/connected-reporting-and-compliance-brochure) 
+ Select Region 
+ 
+ Australia 
+ France 
+ Germany 
+ Netherlands 
+ Singapore 
+ United Kingdom 
+ United States 
+ 
+ Online registration is currently unavailable. 
+ Please email  events@workiva  to register for this event. 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Thank you 
+ A Workiva team member will follow up with you shortly. 
+ Thank you for registering 
+ You'll receive a confirmation email shortly. 
+ Thank you 
+ You are now subscribed to receive blog updates. 
+ Thank you 
+ Your preferences have been updated. 

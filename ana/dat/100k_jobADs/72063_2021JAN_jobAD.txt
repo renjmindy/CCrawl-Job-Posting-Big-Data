@@ -1,0 +1,341 @@
+Scientist Sees Squirrel 
+ Seldom original. Often wrong. Occasionally interesting. 
+ Menu Skip to content 
+ 
+ Home 
+ About 
+ Comment moderation 
+ The Scientist's Guide to Writing 
+ Charles Darwin’s Barnacle 
+ 
+ 
+ Early career researchers make great peer reviewers. How can we get more of them? 
+ 26 Replies 
+ _This is a joint post by Steve Heard and Timothée Poisot ( who blogs over here ). Steve is an Associate Editor for _ The American Naturalist   and for   FACETS   , while Timothée is an Associate Editor for   PLOS Computational Biology   and   Methods in Ecology & Evolution   . However, the opinions here are our own, and may or may not be shared by those journals, by other AEs, or by anyone, really. 
+ Working as an (associate) editor  can be rewarding , but it’s not always easy – in part because finding reviewers can be a challenge. Perhaps unsurprisingly, editors often think first to call on senior scientists; but many of us have learned that this isn’t the only or the best path to securing helpful peer reviews. In our experience, some of the best reviews come from early career researchers (ECRs). ECR reviewers tend to complete reviews on time, offer comprehensive comments reflecting deep familiarity with up-to-date literature, and to be constructive and kind while delivering criticism.  Online survey data  confirm that our positive impressions of ECR reviewers are widely shared among editors (who nonetheless underuse ECRs), while  other surveys  indicate that ECRs are very willing to review, with many even feeling honoured by such requests. [Both sets of surveys mentioned here were particular to ecology and evolution, although we suspect the results apply more widely.] 
+ So there’s a paradox here: we (editors in general) love ECR reviews, but we underuse them. Why?  In a nutshell, ECRs are harder to find. Senior researchers have published more papers, given more talks, pre-populate journal reviewer databases, and have more stable addresses. If one of us is handling a paper close to our own research area, we can generally rattle off half a dozen relevant reviewers – but they’re heavily weighted to the names we’ve been seeing for years. Absent a conscious effort, then, we succumb to the paradox and use a grey-hair-biased set of reviewers. 
+ Which brings us to the meat of this post. How can we match up willing ECRs with willing editors, to the benefit of both? Here are some ideas;  but please help us build the list  using the Replies. 
+ What you can do, if you’re a willing ECR: 
+ 
+ Suggest to your supervisor that you’d like to review, either jointly with them or instead of them. (Such arrangements should always be approved by the inviting editor before they are executed – but such offers are unlikely to be refused.) 
+ Mention your willingness to senior colleagues who are editors. (It’s best to do this at conferences, etc., because senior colleagues in your own department are not likely to use you as reviewers.) 
+ Email the managing editor of journals that interest you, and ask to be added to their reviewer databases. These are often keyword searchable, so be ready to describe your expertise. 
+ Interact with colleagues about their research. All journals will ask authors to suggest reviewers, and if we’ve had an interesting conversation with you, we are likely to suggest you as a reviewer. 
+ Have a look at the  Guide to Peer Review in Ecology & Evolution , from the British Ecological Society. It will help you navigate your own peer review experience, but also suggests some strategies about how to be a good reviewer. Once you do one peer review well, other invitations are sure to follow! 
+ 
+ What you can do, if you’re an editor: 
+ 
+ When inviting an old fogey to review, customize the reviewer invitation letter to encourage the invitee to suggest an ECR instead (for instance, one of their students or postdocs). The ECR might review solo, or as a team with the old fogey. (Again, such arrangements should always be approved by the editor before they’re executed.) 
+ If you have an old fogey in mind, check their web site for postdocs or senior grad students who might make good reviewers. Granted, it’s difficult to predict who’s going to be a good reviewer based on a picture and a research blurb. However, you may be surprised to find an ECR you don’t know already in your journal’s reviewer database (some of which include ratings of past reviews). If not: well, everyone has to be unproven at some point. By the way: you can also use this opportunity to address other inequities in the review process by inviting under-represented minorities. 
+ Find out if there are databases in your discipline that could identify suitable ECRs.  Zimmerman et al. (2011)  suggested the establishment of a formal database of willing student-mentor reviewer teams. We don’t know that any such databases actually exist, but related ones can be co-opted – such as, in ecology and evolution,  DiversifyEEB . 
+ Keep your social network ear to the ground. At least in ecology and evolution, there is a critical mass of ECRs talking about their research on Twitter. Both of us have discovered willing reviewers this way, and received stellar reviews from them. 
+ Don’t forget non-academics. There are plenty of scientists, both ECR and more senior, who don’t work in universities but who nonetheless belong to our scientific community. For some articles, having the particular perspective of government, industry, or NGO scientists may be critical. But for  any  article, there are reservoirs of expertise outside the hallways of university academia. 
+ 
+ Thanks to multiple Twitter folk for suggestions and encouragement for this post, including @BiolumiJEFFence ,  @naupakaz ,  @academchick ,  @KStackWhitney ,  @CalebHasler ,  @gbaucom ,  @SJC_fishy , and others we’ve probably missed. 
+ © Stephen Heard ( sheard@unb.ca   ) and   Timothée Poisot ( timothee.poisot@umontreal.ca ) January 23, 2017 
+ Share this: 
+ 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on Facebook (Opens in new window) 
+ Click to share on LinkedIn (Opens in new window) 
+ Click to share on Reddit (Opens in new window) 
+ More 
+ 
+ 
+ 
+ Click to share on Tumblr (Opens in new window) 
+ Click to share on Pinterest (Opens in new window) 
+ 
+ 
+ Click to email this to a friend (Opens in new window) 
+ 
+ 
+ Click to print (Opens in new window) 
+ 
+ 
+ Click to share on Pocket (Opens in new window) 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  peer review  and tagged  early-career researchers ,  editors ,  publishing  on  January 23, 2017  by  ScientistSeesSquirrel . 
+ About ScientistSeesSquirrel 
+ I'm an evolutionary ecologist and entomologist at the University of New Brunswick. I think about a lot of random things... some of them appear here. 
+  View all posts by ScientistSeesSquirrel ->  
+ Post navigation 
+ <- Universities that did not hire me (a chronicle of absolutely normal rejection)   Wonderful Latin names:  Spurlingia  darwini  -> 
+ 26 thoughts on "Early career researchers make great peer reviewers. How can we get more of them?" 
+ 
+ Pavel Dodonov   January 23, 2017 at 9:30 am 
+ 
+ As an ECR myself, I would also love to receive feedback on the reviews I provide - something like "This was a really helpful review" or "You noticed several things Reviewer 1 didn't notice" or "Dear reviewer, please don't take it personally but did you actually READ the manuscript you reviewed for us?". Not having any sort of feedback makes it hard to improve my reviewing skills and makes me less motivated to accept reviews (but I still accept almost all I receive). Would be more work for the editors, but would probably make ECRs with low self-esteem quite happy! 🙂 
+(For any editors reading this - I'm always willing to review manuscripts, where do I sign?) 
+ Like Liked by 2 people 
+ Reply  ↓ 
+ 1. **[ScientistSeesSquirrel](https://scientistseessquirrel.wordpress.com)** Post author[January 23, 2017 at 9:34 am](https://scientistseessquirrel.wordpress.com/2017/01/23/early-career-researchers-make-great-peer-reviewers-how-can-we-get-more-of-them/#comment-2771)
+ 
+ Pavel - it isn't quite the same thing, but many journals will copy to you the editor's decision letter plus the other review(s). Reading both of those can help - as an AE, I often comment to the author on the reviews (like "Rev 1 really hits the nail on the head about X", or "Although Rev 2 says Y, I'm not sure I agree; but in case other readers do, it's worth addressing". These kinds of comments can give you some feedback on your review. You're right, it will be unusual for an editor to write you separately with feedback mostly because of the "more work" angle. But I will have to keep this in mind, especially when someone self-identifies as a brand new reviewer. 
+ Like Like 
+ Reply  ↓ 
+   1. **[Pavel Dodonov](http://pdodonov.wordpress.com)** [January 23, 2017 at 12:41 pm](https://scientistseessquirrel.wordpress.com/2017/01/23/early-career-researchers-make-great-peer-reviewers-how-can-we-get-more-of-them/#comment-2777)
+ 
+ Yes, looking at the other reviewers' comments and at the decision is quite helpful, but unfortunately not all journals give you this option… But it's a good idea, I'll start checking whether something becomes available after I submit the reviews. 🙂 
+ Like Like 
+ Reply  ↓ 
+     1. **[ScientistSeesSquirrel](https://scientistseessquirrel.wordpress.com)** Post author[January 23, 2017 at 12:43 pm](https://scientistseessquirrel.wordpress.com/2017/01/23/early-career-researchers-make-great-peer-reviewers-how-can-we-get-more-of-them/#comment-2778)
+ 
+ Mostly, I think you will get this in the form of an email. Certainly true for the Am Nat, and for many of the journals that I review for - but you are right, not universal. 
+ Like Like 
+ Reply  ↓ 
+ 
+ Emilie Champagne (@MissEmilieC)   January 23, 2017 at 9:55 am 
+ 
+ Thanks for talking about this! As an ECR, I would like to do more reviews. 
+About your suggestions, I like them, but in my experience, the first seem not to work very efficiently. My advisor has tried to proposed me as a reviewer several times when he had to decline an invitation. I never received invitations following these declines. Maybe it was from editors scared of ECR? As a note, he supervised me once in doing a review, so he now consider that I'm independent in this. 
+Your second suggestion (talk to old fogey 😉 ) worked better for me but I'll try your third suggestion! 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ ScientistSeesSquirrel  Post author January 23, 2017 at 9:59 am 
+ 
+ From Twitter, Lauren Robinson points out a strategy for editors that I've used and should have put in the post: if you have an old fogey in mind, check their Google Scholar/etc profile and find a repeated coauthor you don't recognize - likely to be an ECR. (Thanks, Lauren). 
+ Like Like 
+ Reply  ↓ 
+ 
+ Peter Apps   January 23, 2017 at 11:17 am 
+ 
+ Since old fogeys (OFs) are likely to be last authors, maybe first authors would be as good a target as any when aiming for ECRs. A quick check of the who did what section, if the paper includes it, might confirm a fit to what you need looked at. 
+ One thing that OFs like me are likely to be better at is recognising when a wheel is being reinvented after 30 years or so, or when a claim to be the first ever just means the first since papers were searchable on the internet. This particular added value is becoming less important as the internet horizon gets pushed back further in time, but very often the prior art that rings a bell in the brain below the greying hair will not not come up on a search. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ Chris Mebane   January 23, 2017 at 12:06 pm 
+ 
+ Something not to do, if you’re a senior author: 
+One bad practice that I repeatedly see is the listing of the Senior Author as corresponding author on articles instead of the ECR first author. This compounds the overexposure of the senior researchers and keeps the Early Career Researchers in the shadows longer than need be. In the editorial manager databases, the corresponding author is the one that gets flagged for the article or topic. When I’ve discussed this, the stated reason is usually e-mail stability. There seems to be an idea that listing a portable, non-institutional contact email (the gmails, outlooks, etc.) is somehow poor form. Usually the journal will allow an author to list more than one contact email (“me@Institution.edu;  me@private.com ”), and even if they don’t obviously allow it, I would push it. Sometimes a note to the editorial office has a way of finding workarounds to with the blessed manuscript management software systems. 
+More you can do if you’re an early career author 
+Go to the website for the journal in which you hope to publish your glorious future article in, and click on the “Submit Manuscript” link. (Don’t worry that you don’t actually have a manuscript to submit). This takes you to the manuscript workflow system and database, which is the same database available to editors for hunting down reviewers. This will prompt you to setup an account in their system. Give as much detail on your scholarly activities as it will let you, and tag yourself with every key word that you expect to use in your own future submission. Check recent literature on your topic, and use common key words; don’t think up new clever ones. Then look up the editorial board for your journal of interest, and identify the AEs who might handle articles on your topic. Drop them a short note explaining what you are studying and would be interested in gaining experience as a reviewer and contributing to the peer review system. Rinse and repeat. 
+ If you’ve ever been listed as one of “et. als” on a labmate’s paper, then particularly go into the author database for that journal and fill in the missing information. I for one, seldom search for reviewers by key words because that search function in ManuscriptCentral sucks. Rather, I search for relevant, recent literature and then start hunting down authors. I usually only contact the first or last authors, because unless I recognize the names, the middle authors may be hard to find, or I think they might have only been involved in narrow tasks and not have the breadth I seek. If you’re a middle author or a yet-to-publish-anything author, and do want to be found, you need to make yourself as visible as can be. 
+ One good and/or aggravating feature of the editorial management software systems is that while there are scads of journals appropriate for any given topic, only two editorial management systems dominate the backend of the system. So if you can bear to work through the obtuse structure and workflow for one, you’ve pretty much got it down. ScholarOne’s ManuscriptCentral is probably most common for ecology journals, since it is used by Wiley-Blackwell, who presently has the business end of publishing for many professional societies such as the British Ecological Society, Ecological Society of America, AGU, and many others. EditorialManager is used by PLoS, University of Chicago Press (who publish American Naturalist and Freshwater Science), and all titles in the Springer/MacMillan empire. NRC Canada I think uses this too. Elsevier seems to have their own version of EditorialManager. The good news is they all work similarly. The stupid news is that every journal, even sister titles within a society, seems to have their own author/reviewer profiles so this drill has to be done over and over. 
+ Finally, as Steven mentioned in his book, it’s not just altruistic to review. Reviewing continues to improve my own writing and critical thinking, and it doesn’t hurt to have editors know who you are. It’s a great way of starting a conversation on topics of mutual interest at a conference, and to build ones’ professional network. And thank you for this excellent posting. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[ScientistSeesSquirrel](https://scientistseessquirrel.wordpress.com)** Post author[January 23, 2017 at 12:14 pm](https://scientistseessquirrel.wordpress.com/2017/01/23/early-career-researchers-make-great-peer-reviewers-how-can-we-get-more-of-them/#comment-2776)
+ 
+ Thanks, Chris! Great suggestion on using the "submit MS" thing to get into reviewer databases. Being in there will help (although as you say, many AEs find reviewers in other ways). 
+ I have to admit I've been an offender on the "corresponding author" thing. And yes, it's mostly for contact stability. Those non-institutional emails, by the way, are not necessarily stable - anyone remember "buddy@aol.com"? I wasn't aware that the "corresponding" tag carried any weight in the EM databases - I'll have to check into that. It isn't something I pay much attention to, otherwise; perhaps others do more? Anyway, I think you are probably right that I should relax a bit on this. After all, if the corresponding author reall does disappear, it isn't that hard for someone to find me. 
+ Like Like 
+ Reply  ↓ 
+   1. **[Chris Mebane](http://cmebane.wordpress.com)** [January 23, 2017 at 3:08 pm](https://scientistseessquirrel.wordpress.com/2017/01/23/early-career-researchers-make-great-peer-reviewers-how-can-we-get-more-of-them/#comment-2780)
+ 
+ I imagine the importance of the Corresponding Author tag is journal specific. At mine, the corresponding author is tagged and flagged as a recent author with the suggestion to editors that they prioritize recent authors for reviews. (The pay it forward idea.) But Dr. Big Name then seems to be too busy to actually follow through (Present company excepted I'm sure). 
+ Like Like 
+ Reply  ↓ 
+ 
+ Tim Vines   January 23, 2017 at 12:56 pm 
+ 
+ As someone who spends a lot of time looking for ECR's to review papers, there's another major hurdle - PI's websites. It's fairly good in ecology and evolution, in that the people in the lab are listed with their emails and research area, but sometimes lab members are just in a plain text list with no contact information. This may not be the PI's fault because the institution has a byzantine website and there isn't a separate page to list lab members (hey there, France). However, this makes it all the more important for the ECR to have their own personal site with the key information. It doesn't need to be fancy, just easy to find when someone googles your name. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[Chris Mebane](http://cmebane.wordpress.com)** [January 23, 2017 at 3:09 pm](https://scientistseessquirrel.wordpress.com/2017/01/23/early-career-researchers-make-great-peer-reviewers-how-can-we-get-more-of-them/#comment-2781)
+ 
+ Good point! Things like Google Scholar don’t help until there’s a publication, which is a big first step for an ECR and publication might come through after they’ve moved on. As Stephen pointed out, it’s easy to find the advisor/senior author until they retire. 
+ In theory signing up for ORCID numbers should help with the rolling stone problem, but so far not enough people have them. For instance, I’ve been trying to seek out more Chinese scientists as reviewers since in my field (pollution ecology), they are coming on strong with research but are underrepresented on the reviewer side. Name ambiguity is a real challenge for me, where even in the same department of the same Chinese research institution, there may be more than one name match. We all may be unique people but we don’t all have unique names. But, expanding our thinking and searching/inviting reviewers beyond the Western Europe, Oz/NZ, and NA stable of authors and reviewers is also good. Just has its own challenges. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+   1. **Tim Vines** [January 23, 2017 at 3:34 pm](https://scientistseessquirrel.wordpress.com/2017/01/23/early-career-researchers-make-great-peer-reviewers-how-can-we-get-more-of-them/#comment-2782)
+ 
+ The websites for Chinese institutions could also be dramatically improved - it's often impossible to see who works there, what they do, and what their contact details are. 
+ Like Like 
+ Reply  ↓ 
+ 
+ Naupaka Zimmerman   January 23, 2017 at 4:15 pm 
+ 
+ Posted this on twitter, but also wanted to point out here that the New Zealand Ecological Society has run a mentored peer review scheme for their journal, the New Zealand Journal of Ecology, for a number of years now. More details are here:  http://newzealandecology.org/nzje/nzje-reviewer-mentoring-scheme 
+ There was also talk of setting something like this up with a few of the ESA (America) journals a few years ago (after the Frontiers editorial we wrote came out), and at that time there was support among several Editors-in-Chief, but technical limitations of the publishing software system held it up. The is a possibility that something might work now that the journals are run by Wiley instead of Allen Press. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ chrissiepainting   January 23, 2017 at 4:37 pm 
+ 
+ Great post! I've only just started editing for a journal but try hard to find ECRs to review, and I always nominate one or two when I submit a paper. This ties in nicely with a post I wrote last week on the importance of a strong web profile for ecrs. 
+ https://chrissiepainting.com/2017/01/19/the-importance-of-having-a-strong-web-presence-for-ecrs/ 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ Juan Diego Gaitan Espitia   January 23, 2017 at 6:33 pm 
+ 
+ Great post Steve and Timothée!, I just want to suggest some alternatives finding ECRs. Some months ago I found that some journals give you recognition for peer review contributions using an online community/database called PUBLONS  https://publons.com/home/ 
+I really enjoyed this and it's a good way to keep records of your reviews (including statistics). In addition, PUBLONS has a huge database of reviewers from different journals, areas including their performance (number of reviews x year, journals, main areas and "review merit"), affiliations, research profiles, and ORCID. I found it quite interesting and could be useful for your role as editors. 
+Cheers! 
+ Like Like 
+ Reply  ↓ 
+ 1. **[Brad Duthie](http://bradduthie.wordpress.com)** [January 25, 2017 at 8:59 am](https://scientistseessquirrel.wordpress.com/2017/01/23/early-career-researchers-make-great-peer-reviewers-how-can-we-get-more-of-them/#comment-2787)
+ 
+ Publons has also just introduced a new feature that allows users to register their interest in reviewing for a particular journal. If, for example, you are interested in reviewing for PLoS One, you could go to the Publons journal page ( https://publons.com/journal/70/plos-one ) and hit "click to let them know" (blue button). 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ sleather2012   January 24, 2017 at 3:30 am 
+ 
+ Excellent post - as an Editor totally agree with you - I find ECR reviewers excellent, and our invitation to review letters encourage PIs to suggest members of their group. I do, however, like to include a late career reviewer too, as they have a greater familiarity with the older literature and can point out that key references have been omitted. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ librariangoddess   January 31, 2017 at 5:34 am 
+ 
+ What a superb post! I'd like to suggest another strategy for editors: offer workshops on peer reviewing (and indeed on writing for publication) at conferences and events. I do this for my journal and it is one of the most fulfilling, rewarding aspects of the whole job. 
+ Not only do the workshops put me in touch with ECRs and students soon to be professional practitioners - i.e. prospective peer reviewers who might otherwise be too shy to approach the journal - they also allow experienced referees both to review their practice and share what they do with newer ones. Community of practice FOR THE WIN. 
+ (Here's what our workshop looks like:  http://www.slideshare.net/infolit_group/if-you-cant-be-kind-be-scholarly-constructive-peer-reviewing-emma-coonan ) 
+ Like Like 
+ Reply  ↓ 
+ 
+ 
+ Pingback:  Why I sign (most of) my reviews | Scientist Sees Squirrel 
+ 
+ 
+ Pingback:  An introduction to writing a peer review | Small Pond Science 
+ 
+ 
+ Pingback:  Reviewing with imposter syndrome | Scientist Sees Squirrel 
+ 
+ 
+ Pingback:  How (as an editor) I choose lists of reviewers | Scientist Sees Squirrel 
+ 
+ 
+ Pingback:  Reviewing manuscripts as an early career scientist | Small Pond Science 
+ 
+ 
+ Pingback:  Junior Scientists are Often Underused as Peer Reviewers - Social Science Space 
+ 
+ 
+ Pingback:  Do editors really use those lists of “recommended reviewers”? And who should you suggest? | Scientist Sees Squirrel 
+ 
+ 
+ Comment on this post:  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ This site uses Akismet to reduce spam.  Learn how your comment data is processed . 
+ Search for: 
+ Follow Scientist Sees Squirrel on WordPress.com 
+ Email Address: 
+ Follow Scientst Sees Squirrel via e-mail 
+ Recent Posts 
+ 
+ What if the way Covid-19 forces us to teach is actually better? 
+ Three reasons for the red pen 
+ A year of books comes to an end 
+ 2020 was weird for blogging, too 
+ 
+ Follow me: 
+ 
+  Twitter  
+  Facebook  
+ 
+ My Tweets 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ 
+ Privacy 
+ I participate in the Amazon Services LLC Associates Program, an affiliate advertising program, and its equivalent at Chapters.ca. If you follow a link from my blog to Amazon or Chapters, your origin here will be tracked only for the purpose of paying me a pittance (with no effect on pricing for you). If you prefer not to be tracked, you can always visit an online or bricks-and-mortar bookseller directly. I promise I won't follow you there. 
+ Copyright 
+ Except as otherwise marked, all posts are © Stephen B. Heard (sheard@unb.ca) and all rights reserved. Short extracts may be posted as links to this blog. 
+ Create a free website or blog at WordPress.com. 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

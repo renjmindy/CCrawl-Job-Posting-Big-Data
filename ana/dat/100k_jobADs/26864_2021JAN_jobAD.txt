@@ -1,0 +1,145 @@
+ WORKLOAD AUTOMATION COMMUNITY  
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 
+ Migrate your Cron and Windows Task Scheduler jobs to IBM Workload Automation in a few easy steps! 
+ 5/25/2017 
+  0 Comments  
+ ​Save time and headaches using the new IBM Workload Automation feature "Import definitions" which will allow you to automate the process of migrating your Cron and Windows Task Scheduler tasks to Workload Scheduler. 
+ ​The new feature will help you in this process doing what Workload Automation does best: automating it! 
+ The time where you had to manually convert all your Cron and Windows Task Scheduler definitions into IBM Workload Automation objects is over, releasing you from all the problems and effort spent trying to understand and map correctly all the tasks, triggers and actions. 
+ You can use the  Dynamic Workload Console of IBM Workload Automation  to read Crontab files or Windows Task Scheduler tasks and convert them into IBM Workload Scheduler objects. The jobs are added to your workload with the same specifications as the original jobs. The job streams reflect the time definition of the Cron or Windows Task Scheduler commands. You can then modify, schedule, and monitor them together with all your other objects. Think of the advantages of controlling jobs from one central place and the possibility of scheduling jobs according to complex schedules. 
+ You will just need to import the files from the new section we have created, make few easy choices about where to run your definitions, and that's all! Just by clicking the import button, your definitions will be automatically converted into IBM Workload Automation jobs, jobstreams and runcycles, that will perfom the exact same action you performed before, at the same exact time, but gaining all the power of IBM Workload Scheduler, with thousands of new useful  features. 
+ Check out this video to understand how easy is to convert your definitions: 
+ If you want to try this new feature, you can use the  IBM Workload Automation on Cloud  solution; take a look at the " What's new " section, which offers quick and easy explanations about all the new features. For on-premise customer, the "Import Definitions" feature is also available starting from version 9.3 fix pack. 
+​ 
+Also, don't miss the chance to explore the  Transparent Development community , where you can find more information about the next release of IBM Workload Scheduler. 
+ Click here and let us define for you! 
+​ 
+ | 
+ | 
+ Gabriele Barboni 
+Software Engineer & Developer 
+Workload Automation 
+Connect with me: 
+Twitter  @BarboniGabriele 
+ LinkedIn 
+ ---|--- 
+ 
+ Gabriele Barboni is currently a Software Engineer and developer for Workload Automation since 2013. He has a background in computer science technologies. Gabriele specializes in design and development of web-oriented interfaces, in particular, during his experience in IBM and HCL, he gained strong skills on IBM Workload Scheduler, IBM Dynamic Workload Console and IBM Application Lab. 
+ 
+  0 Comments  
+ Your comment will be posted after it is approved. 
+ Leave a Reply. 
+ Archives 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ Categories 
+ All 
+ Analytics 
+ Business Applications 
+ Cloud 
+ DevOps 
+ Monitoring & Reporting 
+  RSS Feed  
+ www.hcltechsw.com 
+ | 
+ **About HCL Software  ** 
+HCL Software is a division of HCL Technologies (HCL) that operates its primary software business. It develops, markets, sells, and supports over 20 product families in the areas of DevSecOps, Automation, Digital Solutions, Data Management, Marketing and Commerce, and Mainframes. HCL Software has offices and labs around the world to serve thousands of customers. Its mission is to drive ultimate customer success with their IT investments through relentless innovation of its products. For more information, To know more  please visit  www.hcltechsw.com .  Copyright (C) 2019 HCL Technologies Limited 
+ ---|--- 
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 

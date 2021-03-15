@@ -1,0 +1,359 @@
+Skip to content 
+ 
+ Upon Closer inspection 
+ 
+ Menu 
+ 
+ Home 
+ About 
+ 
+ Home Update on the Zavodny Job-Creation Research 
+ Update on the Zavodny Job-Creation Research 
+ February 6, 2015   matloff 
+ In  a post a few weeks ago , I cited the  analysis by R. Davis  on some research conducted by  Professor Madeline Zavodny  of Agnes Scott College. Among other things, she had found that for every 100 immigrant workers with graduate degrees in STEM, 262 jobs (not necessarily in STEM) are created. 
+ Needless to say, the advocates of expansion of foreign tech worker programs like H-1B have been making lots of hay out of Zavodny's findings. This of course is no coincidence, since those same advocates commissioned Zavodny to do the research. 
+ R. Davis, a Silicon Valley engineer who wishes not to use his full name, has done a very impressive job in trying to verify and revisit Zavodny's analysis. This has led to  a very informative  Science Careers article ,  In the last week or so, I've been running some of Davis' code myself to explore Zavodny's data, resulting to the update you are now reading. 
+ I ask the reader's patience, as the issues are as subtle as they are important to the H-1B debate. The details matter. But in outline form, my points will be: 
+ 
+ R. Davis has been able to replicate Zavodny's findings. 
+ Zavodny's findings do not make economic sense. 
+ Zavodny's results have serious methodological and statistical issues. 
+ 
+ Let's get the easy issue out of the way first, the replication of Zavodny's findings. She had generously given R. Davis her data and code (another researcher doing similar work, again funded by the lobbyists, refused to do so), and Davis found that the data had a lot of missing values. Zavodny had coded them as 0s, which seemed wrong, but it turns out that the software she used automatically excluded such values, as she was applying a log transform. Once that was cleared up, Davis was able to replicate all of Zavodny's numbers. 
+ Davis' site has a wealth of interesting findings, which I urge readers to peruse, but here is what I regard as the central issue: Are Zavodny's numbers of any relevance? As far as I can tell, the answer is solidly No. 
+ I always tell my students and consulting clients that one must always check statistical results with what is known qualitatively about the given issue. Do the numbers make sense? 
+ Common sense tells us that for the foreign grad students in STEM to have some sort of special job-creating powers, one of two conditions would have to hold: Either (a) there is a STEM labor shortage or (b) the foreign students are more talented than their American peers. Both (a) and (b) have been shown clearly to be false, using multiple data sources. 
+ Concerning (a), even the H-1B advocates agree that wages in STEM, including in the computer field, have been flat at best. In  a previous blog post , I noted that NACE, the National Association of Colleges and Employers, projects that starting salaries for new computer science graduates (Bachelor's degree level) will be DOWN 9% this year. And NACE's projected CS Master's salary for 2015, $71,140, is down from $73,400 in 2013 (I have been unable to get the 2014 figure), which in turn was down 8.7% from 2012. There really is no room left for legitimate debate on the shortage issue. 
+ As to (b), research by two NBER affiliates, as well as  my own work , shows that the foreign STEM students tend to be, relative to their American peers, (i) graduates of less-selective institutions, (ii) less likely to file patent applications, (iii) less likely to work in R&D (crucial to job creation!), and so on. 
+ So, if the foreign workers are not remedying labor shortages and aren't smarter than the Americans, how can they be creating extra jobs? Zavodny's results counter common sense, and though common sense is sometimes wrong, Zavodny bears the burden of proof to demonstrate that it is wrong. 
+ On the contrary, she herself concedes that the issue of causation is key. Indeed, she writes in  her paper , 
+ 
+ But one of the fundamental challenges when using cross-state comparisons to show a relationship between immigrants and jobs is that immigrants tend to be more mobile and go where the jobs are. As a result, evidence of high immigrant shares in states with strong economic growth and high employment could be the result of greater job opportunities (as immigrants move to jobs), rather than the cause. Cross-state comparisons would then show an artificially high impact of immigrants on the native employment rate. The study avoids “overcounting” the effects of immigrant workers drawn by a recent economic boom by using an estimation technique (known as “two-stage least squares (2SLS) regression estimation”… 
+ 
+ Methodology such as 2SLS is controversial, and highly sensitive to assumptions. Yet almost none of Zavodny's results, including those employing 2SLS, is statistically significant at the standard 0.05 level. Significance testing itself has its problems, but Zavodny's work would be highly questioned by journal reviewers if she had submitted it to academia, rather than writing a paid advocacy report as she did. She also uses clustered standard errors (which are used in the significance testing), another controversial technique. 
+ Indeed, state-by-state comparisons themselves have a long history of controversy. As I wrote in my original post, 
+ 
+ Worse, region-by-region analyses are notorious for being unreliable and misleading. For example, there have been numerous studies on capital punishment, both pro and con, based on comparing states that do and do not have capital punishment., in terms of murder rates and so on. They can’t all be correct. 
+ 
+ There have been similar issues with state-by-state studies of the impact of minimum-wage laws. 
+ To me, the most important flaw in Zavodny's analysis, also related to the causation issue, is that it doesn't ask the obvious question: What job creation rate is associated with hiring  Americans ? If one is going to use Zavodny's data to advocate for expanding the H-1B program (as she does), then why calculate only the foreign job creation rate? Why not calculate the American job creation rate too, and then compare them? Some of you may recall that this was  a major criticism  that I made regarding one of Bill Kerr's papers. 
+ This is crucial. What if those jobs filled by the foreign workers had been filled by Americans? 
+ I do need to make one correction to my original post. I had mentioned how much I liked R. Davis' graph titled, "Foreign STEM Workers, 2000-2007." Actually, I still like it, and in fact intend to use something like that as an illustration in the book I'm writing on regression. But I realize now that my comments about the graph were misleading. I had written that it is a good illustration of Simpson's Paradox, which in fact it is -- IF one's regression analysis does not have terms for the states. Zavodny's analysis does have those terms. 
+ Nevertheless, my comments still hold. Zavodny's coefficients for the states are much larger than for the share of foreign workers, just as the graph shows. Whenever there is such a large disparity in sizes of coefficients, one must be very careful, as the small ones are likely very sensitive to the inevitable violations of the assumptions of the model. Of course, the lack of statistical significance of most of Zavodny's results makes this concern even more acute. 
+ Again, since there is no STEM labor shortage and since the average quality of the foreign workers is lower than that of the Americans, the burden of proof is on Zavodny to make a strong case for her claims. She has not done so. 
+ Finally, I must commend  Science Careers  blogger Beryl Benderley for not only covering this topic, but also especially for pointing to the fact that Zavodny's research was sponsored by an advocacy group. The press almost never mentions this. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Post navigation 
+ <- New CS Grads' Wages Down 9% 
+ The SCE Incident and Its Possible Impact on the H-1B Debate -> 
+ 19 thoughts on "Update on the Zavodny Job-Creation Research" 
+ 
+ Mack  says: 
+ 
+ February 6, 2015 at 11:19 pm 
+ Being a Stem graduate from a well recognized US school and an H1B myself, I do not see a need to increase the H1B cap. Rather I would reduce it . Especially the the H1B's who are direct hires from foreign countries. I have studied in India as well and I am very well aware about the education system there.. I do not see where they can be superior than the average american stem graduate. The only thing about them that companies like I assume is , they are willing to work 12 hours a day with minimum fuss which eventually gets things done for a company quickly and at a lower cost.. 
+ On the other hand, The H1B for STEM graduates from US schools is complicated because schools and government are infact lobbying for tons of international students so that they can pay enormous tuition fees and then when these students stand in the job market, people point finger at them for stealing jobs. I sense some hypocrisy here. 
+ I really like your analysis and have read your previous posts as well. I just feel that the stem field is very generalized here in US. When people talk about STEM they just point to silicon valley and computer science. There are so many other horizons like, Telecommunications (Cellular, IP) , Electrical engineering, Semiconductor technology etc. 
+ Secondly I would like your opinion on this.. why do American people do not pursue Masters/PHD? especially in STEM fields? I have done my Masters from a very reputed school.. However in my 3 years in school I did not come across a single american classmate. Do people feel in today's day and age bachelor's is sufficient in a tech field?? 
+ Lastly I would say if the wage rate is such a concern, why don't the congress provide Green Cards to all Stem graduates from top accredited US schools? Once they get LPR's, they lose the so called advantage of being H1B's as they are not within the firm hold of the company. Secondly they can startup a business (H1B does not allow business) which I am sure by no means can be harmful to American workers. 
+ (Note: I am only talking about H1B's who are at present in USA. So not intending to increase Caps rather reduce it) 
+ Like Like 
+ Reply 
+ * **[matloff](http://matloff.wordpress.com)** says:
+ 
+ February 7, 2015 at 6:28 pm 
+ Thanks for the insightful comments. 
+ The largest occupation by far among H-1Bs is the computer field, particularly software development. But early on, the computer industry lobbyists realized that they needed a broader umbrella, so they started talking about STEM (and, I perceive, they were the ones to invent the term). 
+ The relative lack of American students in MS/PhD programs is because of H-1B. In 1989, an internal NSF report (a) complained that PhD salaries are too high, (b) proposed solving that "problem" by encouraging more foreign students to come to the U.S. and work after graduation, and most important (c) pointed out that the resulting stagnant salaries would DIScourage American students from pursuing doctorates. The NSF lobbied Congress to establish the H-1B program, which Congress did the following year. And of course, (c) is exactly what has happened since then, as you've seen. The effects are there at the Master's level as well. 
+ So, when the industry lobbyists now say they need to hire H-1Bs because not enough Americans pursue graduate work, they have it exactly backwards: H-1B is the  cause  of the problem, not the solution. 
+ Americans do indeed see that a graduate degree is not needed for software development. Just look at Gates, Zuckerberg, Jobs, Ellison etc., all them lacking even a Bachelor's degree, let alone a graduate degree. 
+ Most people don't realize that one of the major factors in H-1B is AGE. By adding a lot of young foreign workers to the labor pool, H-1B enables employers to avoid hiring Americans over age 35. Giving automatic green cards to new foreign grads of U.S. schools has been proposed, but those new grads would still be YOUNG, so the negative impact would still be there. 
+ Starting a new business sounds beneficial to Americans, but in many cases the foreign entrepreneur mainly hires his own co-ethnics, so the effect may not be so wonderful as one might think. 
+ Like Like 
+ Reply 
+   * **Mack** says:
+ 
+ February 9, 2015 at 5:55 pm 
+ I feel that the age factor will always be there. Assuming a situation where the H1B program is eliminated or drastically reduced and all the current H1B's are asked to leave at the end of their terms. Now I believe many young american students would want to pursue Master's and doctorate in the STEM field (Since H1B was the reason for them not pursuing higher education). Now employers will look towards these young higher educated people rather than the Average 35 year old american. 
+ Secondly, Gates, Zuckerberg were unique as they had great ideas if not degrees. No one gave them jobs based on their academic credentials. They are what they are today because of the ideas they had and how they utilized it. Such people will keep emerging even today if they have great ideas. I do not think H1B and all these issues will block such talents from emerging at all. So the belief that Gates did it without a bachelor's so I should always be able to get into Microsoft with a Bachelor's alone is wrong and rather funny because seeking a job is different than having an idea or a plan. 
+ Your arguments on the H1-B reality is entirely valid and there is a large amount of truth in it. However the arguments that the conservatives like Sen. Jeff Sessions is making is ridiculous. They are are trying to say that if there are 500 Americans with Stem degrees and 500 technical high skilled Job openings in the market each should get one job and then seek otherwise.. .. According to them there is no difference between a technical job opening and a Truck driver job opening … every one with a valid license can take it. The point I am trying to make here is there needs to be middle way. 
+ I squared act is way too far fetched. However there are so many other biils. Such as the Startup act or the "Fairness to high skilled" immigrants act". But unfortunately such acts are never discussed, either by immigration activists or critics. 
+ Like Like 
+ Reply 
+     * **[matloff](http://matloff.wordpress.com)** says:
+ 
+ February 9, 2015 at 7:00 pm 
+ What you say about age is true to some degree, but only some. Before the H-1B program was brought in, there was far less age discrimination than one sees today. 
+ I think you're being very unfair to Sessions. He is merely citing the academic research. That research does have the flaws you mention, and I've said so myself, but Sessions is only the messenger. He may not have the details quite right, but I highly admire Sessions' courage for speaking out. 
+ Like Like 
+ Reply 
+       * **Mack** says:
+ 
+ February 9, 2015 at 8:20 pm 
+ He is merely playing politics. Just like democrats are counting on Hispanic votes. Mr sessions and few of his colleagues are urging the rest of the republicans to cater this section of the american population. 
+ I would expect a person of his stature and position to at least suggest solutions rather than merely criticizing. I think he, Grassley and a few other like minded can easily gather and introduce a bill which they feel is appropriate. It could be completely opposite to the I-squared act. But atleast it gives a clear indication to certain section of the immigrants that they are no longer needed. 
+ The fact is that the immigration system is broken and it is broken for the ones who are living right now in US LEGALLY. It is clear from so many posts online that neither the Americans are happy nor the immigrants themselves. Off-course all have different reasons. 
+ It is more of a humanitarian issue than a statistical one. It is unfair to make a legal immigrant to wait for 10 years to get a residency and also not allow his/her spouse to earn a single penny in those 10 years. Based on national interest, they should be either asked to leave or given better conditions. 
+ Like Like 
+       * **[matloff](http://matloff.wordpress.com)** says:
+ 
+ February 10, 2015 at 1:48 am 
+ Sen. Grassley introduced an excellent bill a few years ago. But it was immediately gutted by the industry lobbyists, and ultimately was killed altogether. 
+ Neither Grassley nor Sessions is gaining any political benefit with their stance on H-1B. 
+ Like Like 
+     * **mib8** says:
+ 
+ February 10, 2015 at 10:17 pm 
+ "Gates, Zuckerberg were unique as they had great ideas if not degrees" 
+ I disagree… and that would extend to Schmidt and the Google folks, too. 
+ I've always seen MSFT as of very low quality, software that was never really ready for release. 
+ The others center their business models on privacy violations. 
+ Like Like 
+ Reply 
+     * **mib8** says:
+ 
+ February 10, 2015 at 10:57 pm 
+ "if there are 500 Americans with Stem degrees and 500 technical high skilled Job openings in the market each should get one job and then seek otherwise.." 
+ There are STEM jobs which require people who are highly-skilled and STEM jobs which require people ony mediocre, and STEM jobs which can be done by the low-skilled (just as there are highly-skilled janitors and low-skilled physicists, highly-skilled receptionists and low-skilled professors). 
+ Those need to be examined separately. Certainly, if you have a genius, who is extremely creative, extremely industrious (and his background investigation shows he's unlikely to initiate force or fraud), he should be a candidate for a guest-work visa, and, perhaps eventually for a green card and citizenship. 
+ One of the problems with the H-1B visa program is that the number of visas issued is far far too many, and there are essentially no minimal standards applicants must meet (let alone putting them in the top 0.01% or better as should be required). 
+ If there are 15 million US citizens who are able and willing, knowledgeable, creative, industrious, they should be allowed to get first shot at appropriate STEM jobs in the USA before considering farming them out to guest-workers, 98% of whom are nothing to write home about… 
+ College and university credentials are beside the point. Once again, there are people with PhDs and JDs and MDs who are not competent for real-world work, and there are bright high school students who do very good work in mechanical engineering, civil engineering, electrical engineering, software engineering/SW product development, biological research, biochemistry, EMT, etc. 
+ It is as fair to make a legal immigrant wait for 10 years to get permanent residency as to make a 7th generation US citizen wait 4 years to get a passport. It is fair to require a spouse of a guest-worker which spouse wishes to work in the USA to apply, pass the background investigation, pass the minimal competency requirements, etc., to get his or her own work visa (guest-, LPR, whatever). It would be unfair to be lax on some background investigations, rubber-stamp some work visa applications, simply because the spouse has one already. Fairness means both even-handedness and reasonableness in the context (some things are equally unfair, for instance). 
+ Like Like 
+ Reply 
+       * **Mack** says:
+ 
+ February 11, 2015 at 9:16 pm 
+ H1B is badly exploited these days I totally agree with that and the current Cap itself is too much. But there are exceptional H1B's that definitely exceeds your estimation.. However we can leave that aside because I believe we both might have our own perspectives based on the people we might have come across so far. 
+ However I disagree with you on the LPR part. Offcourse there should be a thorough background check and only deserving candidates should be given LPR.. but that does not justify 10 years, irrespective of what other government process takes. If the government insists that 10 years are required for processing than there should atleast be an alternative status for the candidate at certain stage (Like a Provisional LPR) during which a candidate can change jobs and start a business. Obviously if at any stage there is an issue with the candidate or his background , The LPR process should be stalled and that person should be asked to leave. 
+If you think that is not fair, look around how the world functions. UK and Australia have the similar programs for providing permanent Residencies. UK has recently shut providing LPRs for certain employment based migration. However they have shut the entire immigration process from the scratch. They do not invite candidates on work visa and then tie them up on the same visa for 10 years. The process is simple and efficient, If you work there on Visa for five years with a clean history and good work ex then you get PR. 
+ Lastly, not allowing spouses of potential LPR candidates to work is ridiculous. (FYI I am not talking about all H1B, Only those H1B's whose employers have filed and cleared first stage of LPR). Infact UK and Austrailia consider this against human rights, because if you invite an immigrant to your country you have to also make certain provisions for their dependents.. because immigrants are not machines and they will get married and settle down at some stages in their life. 
+Again the request is not to blindly distribute work permits. A thorough background needs to be run and only then provide an authentication. My wife is an artist, with advanced degrees in Graphic designing. She wants to open a her own art gallery… but unfortunately the current law does not allow her to to do anything career oriented. The worse is she cannot even pursue unpaid internships or do any kind of voluntary work in her field. Basically, she just has to let her Resume rot for the next 7 years or maybe more 
+ Like Like 
+       * **[matloff](http://matloff.wordpress.com)** says:
+ 
+ February 12, 2015 at 5:59 am 
+ You and I don't disagree about LPR at all, at least from what you say here. I don't think the long wait for a green card is justified either. On the contrary, what I have emphasized is that the  employers  are the ones who like that long wait; this is because it means that a foreign worker, unlike an American one, cannot leave the employer in the lurch by going to a different firm in the midst of an urgent project. This is one of the KEY ASPECTS of the foreign tech worker issue. 
+ What I do object to is the special LPR provisions for foreign graduate students in some of the bills in Congress. These provisions, since they would apply mainly to the young, would greatly exacerbate the rampant age discrimination we have in tech. 
+ I sympathize with your wife. I do support letting H-1B spouses work, but in such case they should be counted in the H-1B cap, rather than making a  de facto  expansion of the cap as currently proposed. 
+ I wish you a short wait for LPR status. But I also ask you to think about the future, when it may well be the case that YOU have trouble finding tech work, due to employers hiring H-1Bs instead of you. 
+ Like Like 
+       * **Mack** says:
+ 
+ February 12, 2015 at 4:31 pm 
+ @matloff Thank you for your wishes :). Actually my comment was in response to "MiB8". However I do see your point and I am well aware of the fact that increasing H1B will eventually hurt immigrants like me as well. The current immigrants are also aware of it, so even they do not want H1B. All they want is a much more certain and efficient LPR process. The core issue of immigration is with the immigrants who are currently in the United states. Whether the citizens like it or not.. these immigrants are impacting the economy either in a positive or negative way. An ideal reform would be to keep the positive ones and reduce the negative ones. This is the real issue.. that needs a reform. 
+ How much more you should let in or should you reduce the current flow? is a separate debate and should be handled separately but parallely. Unfortunately the bills debated at this point are mixing all together and nothing is close to being resolved. 
+ There are bills introduced time and again such as "HR213: Fairness for skilled immigrants" .. which might not be perfect but atleast could be worked on if considered by the congress. 
+ Lets hope someone in the congress has the time. 
+ Like Like 
+       * **[matloff](http://matloff.wordpress.com)** says:
+ 
+ February 13, 2015 at 6:51 pm 
+ There is NO "debate." Both major parties are simply following the wish of the tech industry. If not for the connected issue of illegal/alegal immigration, Congress would have increased the H-1B cap long ago. 
+ Like Like 
+ 
+ JRStern  says: 
+ 
+ February 6, 2015 at 11:45 pm 
+ It's all the direction of causality. Occam's Razor suggests that an increase pulls participants, not that any participants have magic beans that suddenly inflate the market. 
+ I despair of the ability of any public debate to honestly and competently utilize numbers. 
+ Like Like 
+ Reply 
+ 
+ Econdataus Admin  says: 
+ 
+ February 7, 2015 at 9:53 am 
+ That's a very clear summary of the issues. The replication was critical and I have to thank you providing suggestions (including the use of the R language) and Beryl and her publisher for contacting Zavodny's and clearing up those last issues which were keeping me from replicating her findings. Without replicating the findings I could not be sure what Zavodny's had done and my analysis just became an alternate (and much less known) study. The replication required two stages. First of all, I had to replicate Zavodny's findings from her data file. However, I then had to replicate her data file from the original sources online. One reason that this second step was needed is that Zavodny's data file was created by filtering through and aggregating a huge amount of Census data. If I wanted to test out any change to this process, I had to be able to replicate it. In fact, I needed to do this to try a change to Zavodny's questionable definition of the native employment rate. It also allowed me to extend the study through 2013. 
+ Doing this replication was an important lesson in how many decisions the researcher must make in setting up the model and methods by which they will reach their findings. There are the obvious ones of which sources to use, which variables to compare, and the basic methods to use. But, beyond that, there are decisions on how to handle missing values in different variables, whether to implement a weighting (which Zavodny's did) and how to calculate it, and which other factors to include and/or control for. Going through the process underlined for me why it is so important for any study that affects public policy to have its data and methods made public so that it can be replicated. There are simply too many places where a researcher can make decisions, purposely or not, that might help to support a predetermined point of view. It's also very easy to miss things as I did on my initial analysis of the study. If a researcher does not wish to release the information necessary to replicate their study, that should be their prerogative. However, I think that such studies should be clearly labeled as unreplicated, treated as thought experiments, and not used for setting public policy. I have released all of the programs necessary to replicate my analysis and I welcome any comments or questions on the programs or the analysis. In fact, I'm still making changes to both. 
+ Norm's final point of making sure that the findings make economic sense is also important. One thing that bothered me about the 262 jobs claim was that it seemed like a free lunch argument. If everyone gains from hiring such people, what rational person could object! Of course, the real world is usually much more complex and most decisions involve benefits and costs. Also, one must study the alternatives. As Norm pointed out, if such foreign workers can create jobs, why can't their native peers? To avoid making mistakes, we need to examine and verify the logic behind each portion of a statistical model. We cannot accept a multi-variable regression as a black box and blindly accept whatever comes out. 
+ Like Like 
+ Reply 
+ 
+ countenance  says: 
+ 
+ February 8, 2015 at 1:00 am 
+ Needless to say, the advocates of expansion of foreign tech worker programs like H-1B have been making lots of hay out of Zavodny’s findings. This of course is no coincidence, since those same advocates commissioned Zavodny to do the research. 
+ Power creates its own truth. 
+ Like Like 
+ Reply 
+ 
+ Econdataus Admin  says: 
+ 
+ February 10, 2015 at 9:38 am 
+ Like many of these studies, the Zavodny's study seems to be a gift that just keeps giving. On February 8th, there was a blog entry on "The Hill" at  http://thehill.com/blogs/congress-blog/education/232021-immigration-reform-for-foreign-stem-graduate-students  that "one foreign STEM graduate helps to create 2.6 jobs". What was really depressing was when I checked the source. It was a June 16, 2014 blog entry on the White House Blog at  http://www.whitehouse.gov/blog/2014/06/16/urgency-immigration-reform-attracting-world-s-best-and-brightest  . It was written by Todd Park, a technology advisor based in Silicon Valley for the Obama Administration who was formerly the second Chief Technology Officer of the United States. In the blog, he states that "[e]very foreign-born graduate with an advanced STEM degree is associated with, on average, 2.6 jobs for American workers". From what I can tell, he didn't even give a source for it. 
+ By the way, both of these bloggers misquoted the claim, leaving out the stipulation that the graduate have an advanced degree from a U.S. university and be working in STEM. Of course, the problem is that a number in a single working paper, funded by a special-interest group, seems to have become an item of political folklore so accepted that it's not even sourced, much less verified. 
+ Like Like 
+ Reply 
+ * **[matloff](http://matloff.wordpress.com)** says:
+ 
+ February 11, 2015 at 4:37 am 
+ Remember,Zavodny's research was funded by the pro-H-1B lobby. Their GOAL was for this to be "the gift the keeps on giving." 
+ Like Like 
+ Reply 
+ 
+ Bill Kennedy  says: 
+ 
+ February 10, 2015 at 11:30 pm 
+ In the executive summary of Zavodny's paper, p. 4, we find regarding the: 
+ "H-2B program for less-skilled nonagricultural workers … 
+ Adding 100 H2-B workers results in an additional 464 jobs for US natives." 
+ Click to access Immigration-and-american-jobs.pdf 
+ Ridiculous! Obviously immigrant workers are drawn to areas where the economy is booming, it's the effect of the boom, not the cause. 
+ Or we could shut down H-1B tomorrow, substitute fast food workers and maids instead, and create almost twice as many jobs for Americans as the measely 262 from H-1B: win - win! 🙂 
+ Like Like 
+ Reply 
+ * **[matloff](http://matloff.wordpress.com)** says:
+ 
+ February 11, 2015 at 4:29 am 
+ Remember, Professor Zavodny is aware of that, but she claims to adjust for that possible effect. See my original posting. 
+ But still, it is rather funny that the agricultural workers supposedly create more jobs than the engineers. 🙂 
+ Like Like 
+ Reply 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Search for: 
+ Recent Posts 
+ 
+ On Trump, Biden and America's Disgrace 
+ The Left, the 2020 Election, and Race 
+ The Unmitigated Chutzpah Act of 2020 
+ Trump Administration Makes Major H-1B Reform 
+ Newsom for President, 2020 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ matloff  on  Trump Administration Makes Maj… 
+ 
+ 
+ 
+ 
+ 
+ matloff  on  Trump Administration Makes Maj… 
+ 
+ 
+ Frank on  On Trump, Biden and America… 
+ 
+ 
+ 
+ 
+ matloff  on  On Trump, Biden and America… 
+ 
+ 
+ Willie Pete on  On Trump, Biden and America… 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ March 2020 
+ January 2020 
+ August 2019 
+ June 2019 
+ April 2019 
+ March 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ 
+ Categories 
+ 
+ Uncategorized 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Create a free website or blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

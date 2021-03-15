@@ -1,0 +1,212 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Frontend Engineer 
+ at causaLens 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ Summary 
+ We are looking for a motivated and high-achieving Frontend Engineer based in London to join our Product team in building a platform to optimise every business on the planet. This is a full-time placement with significant opportunities for personal development. 
+ We offer an intellectually stimulating environment, work within an interdisciplinary team and an inclusive culture. We are a high-calibre, mission-driven team building a technology that improves our world. 
+ Roles and Responsibilities 
+ We are looking for exceptional and ambitious individuals to develop our Causal AI platform for time series. You will work as a frontend engineer in the Product team which is composed of software engineers and scientists. You should have a proven experience programming for front-end development. You should be comfortable and experienced working on software with a team, communicating ideas, and writing code that can be understood by others. You will be required to implement software at a high level of quality and take responsibility for the product and your contributions to it. 
+ You will be expected to work to and feed into development standards & best practices. Experience with collaboration tools and general programming tools is desirable. On the frontend, we use React (with hooks), Typescript and the assortment of modern development methodologies. The rest of the application stack includes Python, Cython, Numpy, Torch, Django, Celery, Postgres, Redis, Ansible, AWS, GCP and other technologies. 
+ Job Requirements 
+ 
+ This role is open for candidates of all seniorities, junior to senior. 
+ Proficient in JavaScript/TypeScript, HMTL/CSS, Node.js, webpack 
+ Experience with React or similar frameworks (VueJS, AngularJS) 
+ Experience with Django and Django template engine or a similar framework 
+ Experience in developing front-end solutions on top of high-performance and distributed backend systems. 
+ Interest in UI/UX, creating a consistent design and responsive user experiences across multiple devices. 
+ Interest in scientific data visualization is a plus 
+ Smart, capable and can write clean code effectively 
+ Development experience in at least one scripting language - preferably Python 
+ Understanding of the full stack is preferable (REST backends and SPA frontends) 
+ Interest in machine learning/big data (prior experience is a plus) 
+ Knowledge of the software development lifecycle (version control, tooling, testing, etc.) 
+ Ideally you should be able to work in London or be able to commute. Candidates outside of London who are interested in relocating will be considered. 
+ 
+ The Company 
+ causaLens is pioneering Causal AI, a new category of intelligent machines that understand cause and effect - a major step towards true AI. Its enterprise platform is used to transform leading businesses in Finance, IoT, Energy, Telecommunications and others. 
+ Current machine learning approaches, including AutoML solutions, have severe limitations when applied to real world business problems and fail to unlock the true potential of AI for the enterprise. For instance, in the case of predictions, they severely overfit and do not adapt when the environment changes. causaLens' Causal AI Platform goes beyond predictions, providing transparent causal insights and suggesting actions that directly improve business KPIs. 
+ causaLens is run by scientists and engineers, the majority holding a PhD in a quantitative field. Contact us on info@causaLens.com or follow us on  LinkedIn  and  Twitter . 
+ We are committed to addressing the diversity problem in the tech industry, and that starts with making sure we have a team where everyone feels at home and can contribute as a peer. 
+ causaLens in the News 
+ 
+ Best Deeptech Company 2019   -  Artificial Intelligence Awards 
+ 'Meet causaLens, a   Predictive AI For Hedge Funds, Banks, Tech Companies  ' - Yahoo Finance 
+ 'The U.K.'s   Most Exciting AI Startups   Race To Scale' -  Forbes 
+ '  AllianzGI Taps Virtual Data Scientists   amid War for Talent' -  Financial Times 
+ 'Machine Learning Companies to watch in Europe' -  Forbes 
+ '  Best Investment in Deeptech  ' award -  UK Business Angels Association awards 
+ '100   Most Disruptive   UK Companies' -  Hotwire 
+ 'causaLens Appoints   Hedge Fund Veteran   and Data Leaders to Advisory Board' -  Newswire 
+ 
+ 
+ Benefits 
+ 
+ The opportunity to join a fast-growing, agile, and international team passionate about innovation and making a difference 
+ Competitive remuneration 
+ Share option scheme 
+ Pension scheme 
+ 32 days paid holiday allowance (incl. bank holidays) 
+ Equipment you need to get the job done (MacBook Pro etc.) 
+ Good work-life balance 
+ Opportunities for continued learning and self-development, including courses, conferences and book budget 
+ Flexible work-from-home and remote days 
+ Cycle to work scheme 
+ Weekly journal club and knowledge sharing presentations 
+ Regular team outings, pizza Thursdays and annual company retreats 
+ Fruits, snacks and soft drinks in the office 
+ Amazing, smart, fun and inspiring colleagues, always there to support your ideas, growth and enthusiasm 
+ 
+ Logistics 
+ Our interview process consists of a coding test, 2 screening interviews and a "Day 0" which is spent with the team. Normally the Day 0 takes place on-site but for the time being they will take place online. 
+ We will do our best to transparently communicate the process with the successful candidates. 
+ Published at 14 Nov 2019 - Expires on 8 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  causaLens 
+ fulltime  Data Scientist - Applied Science  at causaLens in London 
+ __02-09-2019 
+ fulltime  Business Problem Solver (Jared)  at causaLens in London 
+ __06-09-2019 
+ fulltime  Growth Analyst  at causaLens in London 
+ __26-09-2019 
+ fulltime  Research Scientist - Causality Expert  at causaLens in London 
+ __14-11-2019 
+ fulltime  Quantitative Researcher  at causaLens in London 
+ __15-11-2019 
+ fulltime  Director of Applied Data Science  at causaLens in London 
+ __05-02-2020 
+ fulltime  Director Engineering  at causaLens in London 
+ __01-05-2020 
+ fulltime  Research Scientist - Machine Learning  at causaLens in London 
+ __20-05-2020 
+ fulltime  Machine Learning Engineer  at causaLens in London 
+ __13-08-2020 
+ fulltime  Product Manager  at causaLens in London 
+ __06-10-2020 
+ fulltime  Principal Investigator  at causaLens in London 
+ __06-10-2020 
+ fulltime  Director of Causality and Blue Sky Research  at causaLens in London 
+ __06-10-2020 
+ fulltime  Talent Acquisition Lead  at causaLens in London 
+ __13-11-2020 
+ fulltime  Director, People and Talent  at causaLens in London 
+ __02-12-2020 
+ fulltime  Marketing Director  at causaLens in London 
+ __02-12-2020 
+ fulltime  Account Executive  at causaLens in London 
+ __02-12-2020 
+ fulltime  Market Development Director  at causaLens in London 
+ __02-12-2020 
+ fulltime  Backend Engineer  at causaLens in London 
+ __10-12-2020 
+ fulltime  Full Stack Engineer  at causaLens in London 
+ __10-12-2020 
+ fulltime  Quantitative Research Director - Big Data  at causaLens in London 
+ __10-12-2020 
+ fulltime  Office Manager / Operations Assistant  at causaLens in London 
+ __08-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

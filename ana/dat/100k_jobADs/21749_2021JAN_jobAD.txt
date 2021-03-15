@@ -1,0 +1,88 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Centaur Labs (W19) 
+ Labeling medical images at scale 
+ Data Infrastructure Engineer 
+ $80k - $150k • 0.25% - 1.00% 
+ Location 
+ Boston, MA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Centaur Labs 
+ At Centaur Labs, we label data at scale to enable breakthroughs in medical AI. Our novel approach uses collective intelligence to aggregate medical opinions from experts and students all over the world. Our labeling customers include AI startups and prominent research organizations. We are a tight-knit team of 10 headquartered in Boston, and we're funded by Y Combinator, Accel, and GFC. 
+ About the role 
+ Skills:  Amazon Web Services (AWS), Python 
+ At Centaur Labs, we label data at scale to enable breakthroughs in medical AI. Our novel approach uses collective intelligence to aggregate medical opinions from experts and students all over the world. Our labeling customers include AI startups and prominent research organizations. We are a tight-knit team of 10 headquartered in Boston, and we're funded by Y Combinator, Accel, and GFC. 
+ Our ambitious data team transforms datasets (video, image, text, audio, DICOM, NIfTI) into bite-sized, high-throughput labeling tasks anyone can do on their iPhone. We then aggregate millions of data labels per month, including geometric data, to provide our customers with highly accurate medical annotations. 
+ As our Data Infrastructure Engineer, you will take a lead role in architecting, developing, and scaling the Centaur data platform to meet our business objectives. Our ideal candidate is meticulous, highly detail-oriented, and not afraid to take on big engineering challenges. 
+ Objectives: 
+ 
+ Work with business and product teams to understand customer needs and deliver data products to meet them 
+ Develop systems that are future-proof and will scale with the company 
+ Ensure availability and resiliency of data layer 
+ Keep our data private using security best practices 
+ 
+ Requirements: 
+ 
+ Proficient with a modern backend language (Python, Node.js, Golang, etc) 
+ Experience writing complex SQL queries 
+ Familiarity with AWS ecosystem 
+ 
+ Bonus: 
+ 
+ Bachelor's degree in computer science, mathematics, or equivalent 
+ Experience analyzing and optimizing database performance 
+ Understanding of data science concepts, basic probability, and statistics 
+ Experience building or maintaining ETL processes 
+ Experience using PostGIS 
+ Experience using Swift 
+ Experience writing or editing academic papers, articles, or blog posts 
+ 
+ Company Perks: 
+ 
+ Competitive salary and equity 
+ Medical and dental coverage 
+ 20 days PTO plus 11 annual paid holidays 
+ Spacious office at great location on Boylston Street across from the Prudential Tower 
+ Friendly office dog :) 
+ 
+ Technology 
+ We use React.js and Swift on the front end, and Python and Swift (Vapor) on the back-end. Our data stores are PostgreSQL and Redis, and we're hosted on AWS. 
+ Centaur faces a wide variety of difficult technical problems, from efficiently serving millions of images and videos to our users, to ensuring our platform is secure and our valuable data sets remain private, to performing complex analysis on our users' performance and building machine learning models to take our decision making capabilities to the next level. 
+ Other jobs at Centaur Labs 
+ Data Infrastructure Engineer 
+ fulltime 
+ Boston, MA / Remote 
+ Backend 
+ $80k - $150k 
+ 0.25% - 1.00% 
+ 3+ years 
+ Product Engineer 
+ fulltime 
+ Boston, MA / Remote 
+ Full Stack 
+ 6+ years 
+ Growth Marketer (Mobile App) 
+ fulltime 
+ Boston / Remote 
+ 1+ years 
+ Operations and Engagement Manager 
+ fulltime 
+ Bostpm / Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

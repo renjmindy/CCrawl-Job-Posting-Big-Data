@@ -1,0 +1,271 @@
+Andrew Leigh's Archived Blog 2004-2010 
+ An archive of blog entries written as an ANU economist 
+ Skip to content 
+ 
+ Home 
+ 
+ <- Finding Furtive Flutters 
+ Soapbox -> 
+ What happens to junior when mum or dad loses their job? 
+ Posted on  October 25, 2007  by  andrewleigh 
+ What happens to kids' school performanceÂ if their parent becomes unemployed? According to a new study from Norway, the answer depends on whether it's mum or dad. They use plant closings rather than all job losses, since economists generally think that having your firm shut down is more exogenous (ie. more like a random shock) than being fired. 
+ 
+ Parental Job Loss and Childrenâ€™s School Performance 
+Mari Rege, Kjetil Telle and Mark Votruba 
+Using Norwegian register data we estimate how childrenâ€™s school performance is affected by their parentsâ€™ exposure to plant closure. Fathersâ€™ exposure leads to a substantial decline in childrenâ€™s graduation-year grade point average, but only in municipalities with mediocre-performing job markets. The negative effect does not appear to be driven by a reduction in fatherâ€™s income and employment, an increase in parental divorce, or the trauma of relocating. In contrast, mothersâ€™ exposure leads to improved school performance. Our findings appear to be consistent with sociological â€œrole theories,â€ with parents unable to fully shield their children from the stress caused by threats to the fatherâ€™s traditional role as breadwinner, and mothers responding to job loss by allocating greater attention towards child rearing. 
+ 
+ One thing I love about these Scandinavian studies is the data. None of these namby-pambyÂ 1-in-100 samples for them.Â 
+ 
+ Our analysis utilizes a comprehensive, longitudinal register database containing annual records for every person in Norway (FD-trygd), in addition to a database containing the school grades of all graduating secondary students in Norway from 2003 to 2005. Importantly, the two databases contain personal identifiers allowing us to link each childâ€™s educational outcomes to the parentsâ€™ records. This provides us with a unique opportunity to investigate the causal effect of parental job loss on a childâ€™s school performance. 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Economics of the Family ,  From the Frontiers . Bookmark the  permalink . 
+ <- Finding Furtive Flutters 
+ Soapbox -> 
+ 7 Responses to  What happens to junior when mum or dad loses their  job? 
+ 
+ Kevin Cox  says: 
+ 
+  October 25, 2007 at 10:15 am 
+ I am interested to know how of if the information from these sorts of studies ever result in any action on the part of anyone? What now happens. How do they get used. Is it just background information for people making policy for elections? Do charitable organisations set up to help the unemployed use it to help them in deciding what to do? In other words do these studies sit out there waiting to be googled or is there something a bit more proactive that takes place - like the authors automatically emailing organisations around the world who they think may find the information useful. 
+ 
+ conrad says: 
+ 
+  October 25, 2007 at 4:34 pm 
+ I love the sample size of that study too. If its the one all the other info comes from, I think its one of the best data sets in the world. 
+ 
+ derrida derider says: 
+ 
+  October 26, 2007 at 8:07 am 
+ Yep, the Nordics have this interesting attitude to privacy. Their line is that in an open society anything the government knows should be known to the citizenry, with exceptions mainly limited to national security (and even there they take a tightly circumscribed view of what "national security" involves, unlike English-speaking governments) . That's the best way to ensure government remains the citizens' servant, not their master. 
+ So logically anything you tell the government should be publicly available - including, for instance, your tax return. 
+ 
+ backroom girl says: 
+ 
+  October 26, 2007 at 9:24 am 
+ Yes, even though I have no particular desire to be like the Nordics in most ways, their attitude to data privacy (or not) has a lot to be said for it. Speaking as an occasional researcher of course, but I don't think I would have a problem with any administrative data on myself being made available for research. 
+ And once again scientists prove that kids do better at school when mum stays home - though I guess I should be grateful that the effect is only marginally significant and only where the labour market it weaker. But presumably these (average) results could be driven by a relatively small group of individuals - fathers who react particularly badly to job loss and mothers who welcome the opportunity to stay at home and give more time to their children. They don't provide the basis for any kind of policy prescription, in my view. 
+ 
+ Don Arthur says: 
+ 
+  October 26, 2007 at 3:43 pm 
+ The researchers speculate that parental stress reduces children's school performance. 
+ If this is right then you'd expect tough welfare to work policies might also adversely affect children's performance. 
+ If stay-at-home-by-choice single mothers are threatened with loss of income unless they work or participate in welfare to work activities, you'd expect an increase in stress. 
+ The US research I've seen shows that there is little impact on outcomes for younger children but some (small) impact on older children. 
+ It would be interesting to see research which tests hypotheses about the mechanisms involved. If stress is the mechanism then perhaps any major life change will depress children's school performance (eg remarriage, career change, promotion). 
+ 
+ backroom girl says: 
+ 
+  October 29, 2007 at 11:28 am 
+ Don - I have only a passing familiarity with the US research, but I think the main reason that older children show more adverse effects from the US version of Welfare to Work is that they have less parental supervision. 
+ However, I don't think those findings are very generalisable to the Australian context, for a number of reasons. 
+ First, WtW in the US involves full-time work, while here it is 15 hours a week. So the capacity of mothers to supervise their older children should not be adversely affected. 
+ Second, in the US many of the welfare mothers go into minimum wage jobs (ie jobs that pay below the official US poverty line). So their families don't even benefit financially by the movement of the mother into work. In Australia, by contrast, most single parents have access to very generous income support arrangements that enable them to continue to receive top-up income support even in low-paid full-time work and assistance for children is also much more generous here than in the US. So, barring cases with very high work-related costs (which again should be uncommon given the 15 hour requirement is placed only on people whose children are all at school), single parent families in Australia are quite a lot better off if Mum goes into work. 
+ As far as I know, there is a fairly major evaluation of the Australian WtW changes that is under way, though it is not clear how much of its findings will make it into the public arena. 
+ 
+ Patrick says: 
+ 
+  October 29, 2007 at 12:29 pm 
+ '  They use plant closings rather than all job losses,  ' 
+ Does any else think that this is, er,  highly  likely to focus the results on a particular socio-economic group and that that might be really relevant to the results achieved? 
+ '  but only in municipalities with mediocre-performing job markets.  ' 
+ oh, shock, it is (really relevant to the results). 
+ Comments are closed. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ The purpose of this blog 
+ Turning Points 
+ France Wins Clark Medal Again 
+ Of Becker and Mills, Picasso and Friedman 
+ Did the Tampa Stop Beazley Becoming PM? 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ PJD on  Turning Points 
+ 
+ 
+ 
+ 
+ 
+ PJD on  Turning Points 
+ 
+ 
+ 
+ Clinton McMurray on  Turning Points 
+ 
+ 
+ 
+ ChrisPer on  Turning Points 
+ 
+ 
+ 
+ 
+ Daniel Waldenström  on  Turning Points 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+ February 2005 
+ January 2005 
+ December 2004 
+ November 2004 
+ October 2004 
+ September 2004 
+ August 2004 
+ July 2004 
+ 
+ 
+ 
+ Categories 
+ 
+ Australian issues 
+ Australian Politics 
+ Behavioural Economics 
+ Blogging 
+ Book launch stuff 
+ Books 
+ Coming Events 
+ Current Affairs 
+ Development Economics 
+ Eclectic Observations 
+ Econometrics 
+ Economics & Public Policy Course 
+ Economics for Government Course 
+ Economics Generally 
+ Economics of Education 
+ Economics of Elections 
+ Economics of National Security 
+ Economics of the Family 
+ Election 
+ Environmental Economics 
+ Film 
+ Finance 
+ Food and Drink 
+ From the Frontiers 
+ Games 
+ Global issues 
+ Health economics 
+ Indigenous Policy 
+ Inequality 
+ Interesting stuff 
+ Iraq 
+ Jobs 
+ Labour Economics 
+ Law 
+ Low Wage Work 
+ Macroeconomics 
+ Media 
+ Prediction Markets 
+ Randomisation 
+ Religion 
+ Social Capital 
+ Sport 
+ Sports 
+ Tax 
+ Television 
+ Thinktanks 
+ Trade & Development 
+ Travel 
+ Uncategorized 
+ Universities 
+ Urban Economics 
+ US Politics 
+ Web/Tech 
+ Weblogs 
+ What I'm Reading 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  Andrew Leigh's Archived Blog 2004-2010  
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

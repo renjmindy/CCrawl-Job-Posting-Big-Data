@@ -1,0 +1,68 @@
+xmsoft 
+ Home 
+ Links  
+ DSGVO   Impressum 
+ About 
+ 
+ Lenovo ix4-300d SSH, root home directory and cronjobs 
+ Jan 8, 2017  hacking   Homelab   ix4-300d   Lab   Lenovo   NAS   Scripts 
+ Share on:  
+ Couple of weeks ago I got my hands on 3 Lenovo ix4-300d storage boxes. These boxes are no longer produced and sometimes you can get them really cheap. First I had plans to use them as iSCSI storage for my home lab but the performance is not good enough. Therefore I decided to play around with one of the boxes to see what is possible. 
+ I started searching in google about SSH access. Outcome was great blog post which contained a how to enable SSH. 
+ Steven Breuls SSH access ix4-300d 
+ In short just access this page http://[NAS IP]/manage/diagnostics.html and you can enable SSH and set a password for root. 
+ 
+ Attention: 
+ Username : root 
+Password : soho + password (if password = VMware ==> sohoVMware ) 
+ As soon as you have successfully logged in you can change the password by simply running passwd like on any other linux. Afterwards the soho part in the beginning of the password is no longer required. 
+ Next step is to create a home directory for the root user. You have to login to the web interface and go to shares. Now create a new share called root. 
+ Attention: This way ensures that the folder is persistent. If you create it using ssh and mkdir it will be lost after reboot. 
+ 
+ In your SSH session you can go to /nfs there you will find all your shares. 
+ cd /nfs
+ 
+ 
+ Next step is to change the home directory of the root user to /nfs/root. 
+ vi /etc/passwd
+ 
+ You have to adjust the first line like on the screenshot below. 
+ 
+ Save the file and reboot the NAS. 
+ :wq
+ 
+ Restart using the Web interface. 
+ Now login using SSH and check that root has now /nfs/root as home directory. 
+ pwd
+ 
+ 
+ Limitation: SSH key authentication is not working due to the wrong permissions of the home directory. 
+ In the new home directory you can now create folders and file on commandline they will be persistent only the main folder of the nfs has to be created using the web interface. 
+ If you would like to run schedules jobs (cronjobs) you can edit the crontab file in /etc. It is also persistent. 
+ 
+ I’m using the Lenovo 1×4-300d as backup system for my vServers. 
+ Michael Hempel 
+ VMware GSS Staff TSE and Technologist from Germany. 
+ Read More 
+ Recent Posts 
+ 
+ Ovftool 4.4.1 import ova from remote url 
+ Upgrade of VCSA 7.0 to 7.0U1 failed using VAMI 
+ How to use Skyline Health Diagnostics 
+ ESXi on ARM rPI4 failed to add to vCenter 
+ ESXi on ARM fling released 
+ vExpert 2020 
+ Skyline required permissions have changed 
+ Build Photon OS appliance using packer.io 
+ 
+ Categories 
+ UNCATEGORIZED 949   VMWARE 127   VIRTUALISATION 107   VSPHERE 61   ESXI 44   HP 19   POWERSHELL 19   SCRIPTS 19   HOMELAB 18   CLOUD 14   PERSONAL 12   VROPS 10   IDEAS 8   SKYLINE 8 
+ All Categories 
+ APPDEFENSE1   APPLIANCE1   ARDUINO1   ARM2   AUTOMATION1   AWS1   BOOKS2   CENTOS1   CERTIFICATES2   CLOUD14   CLOUD-NATIVE-APPS5   CONTAINERS2   DESK1   DOCS2   DOCUMENTATION4   ESP82661   ESXI44   EUCALYPTUS2   GIT1   GOGS1   GUACAMOLE1   HACKING1   HOMELAB18   HOSTCLIENT2   HP19   IDEAS8   IOT1   IX4-300D1   JOB1   KB1   LENOVO1   MACBOOK1   MONITORING3   NAS1   NSX1   OPENSTACK5   PAPERS2   PATCHES2   PERSONAL12   PHOTON-OS4   POWERSHELL19   PROXMOX5   PSOD1   SCRIPTS19   SECURITY1   SKYLINE8   SOFTWARE-MANAGEMENT1   STORAGE1   SYSLOG-NG1   THEVESI4   TOOLS8   TRAINING2   TROUBLESHOOTING6   UBUNTU5   UNCATEGORIZED949   UPDATE1   VAMI2   VCENTER3   VCLOUD-DIRECTOR1   VCSA6   VDP4   VDR5   VEXPERT1   VIC4   VIDEOS4   VIRTUALISATION107   VMWARE127   VMWORLD2   VRLI1   VROPS10   VSA2   VSPHERE61   WHATS-NEW6   WORK1 
+ [A~Z][0~9] 
+ Tags 
+ VMWARE 113   HP 19   ESXI 18   HOMELAB 14   POWERSHELL 14   VCENTER 14   APPLIANCE 11   PERSONAL 10   SERVER 10   VROPS 10   VSPHERE 10   CLOUD 9   SKYLINE 8   TROUBLESHOOTING 8 
+ All Tags 
+ APD1   APPDEFENSE1   APPLE1   APPLIANCE11   ARDUINO1   ARM2   AWS1   BACKUP1   BELKIN1   BOOKS2   CENTOS4   CENTOS71   CERTIFICATES1   CHECK-MK1   CLOUD9   CLOUD-NATIVE-APPS3   CONTAINERS1   DESK1   DOCS1   DOCUMENTATION1   ESP82661   ESXI18   EXAM1   FLINGS1   GIT1   GOGS1   HA2   HACKING1   HOMELAB14   HOSTCLIENT1   HP19   IOT1   IX4-300D1   KB2   LAB5   LENOVO1   LOG-FILES1   LOGWATCH1   MACBOOK1   MONITORING2   NAS1   NSX1   OPENSTACK5   PAPERS1   PATCHES2   PERSONAL10   PHOTON-OS4   POSTER1   POWERSHELL14   PROXMOX5   PSOD1   SCRIPTS7   SECURITY1   SERVER10   SKYLINE8   SOFTWARE-MANAGEMENT1   STORAGE1   SYSLOG-NG1   THUNDERDOCK1   TOOL5   TRAINING3   TROUBLESHOOTING8   UBUNTU5   UPDATES1   VAMI2   VCA1   VCENTER14   VCSA4   VDP4   VDR3   VEXPERT1   VIC4   VIDEOS4   VIRTUALISATION3   VMWARE113   VMWORLD1   VRLI1   VROPS10   VSA1   VSAN1   VSPHERE10   WEBCLIENT1   WEBDAV1   WHATS-NEW6   WHITEPAPER4   WINDOWS1 
+ [A~Z][0~9] 
+ Copyright (C) 2020 XMSOFT. All Rights Reserved 

@@ -1,0 +1,377 @@
+Skip to main content 
+ Javascript is disabled on your browser. In order to display this website properly, please enable javascript. 
+  Workiva Workiva.com  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Partners 
+ Connectors 
+ Security 
+ 
+ 
+ Solutions 
+ 
+ Capital Market Transactions 
+ Internal Audit Management 
+ Management Reporting 
+ SEC Reporting 
+ SOX Compliance 
+ Statutory Reporting 
+ + 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ Industries 
+ 
+ Banking 
+ Energy and Utilities 
+ Government 
+ Higher Education 
+ Insurance 
+ Investments 
+ + 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Customers 
+ The nicest thing about the Workiva platform is just feeling in control. 
+ ](/customers) 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Education 
+ 
+ Community 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Off the Books Podcast 
+ Surfing the uncharted waters of accounting, finance, and wherever else the waves take us. 
+ ](/off-the-books-podcast) 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Request Demo 
+ 
+ 
+ Sign In 
+ 
+ 
+ Menu 
+ Workiva Life Blog 
+ Make an impact, every day 
+ Your browser doesn't support HTML5 canvas 
+ 
+ 
+ Workiva Culture 
+ 
+ 
+ Internships 
+ 
+ 
+ Teams and Locations 
+ 
+ 
+ Hiring Process 
+ 
+ 
+ Benefits and Perks 
+ 
+ 
+ Workiva Life Blog 
+ 
+ 
+   
+ Giving back: dsmHack 2020 
+ At dsmHack, software developers volunteer their time to build solutions for non-profit organizations. Workiva employee Mark Rusciano shares his experience developing a user-friendly interface for an Iowa food bank. 
+ April 17, 2020 
+ Mark Rusciano 
+   
+  How to Work Effectively from Home 
+ Whether you're a student, intern or full-time employee, check out these tips for working effectively from home. 
+ March 19, 2020 
+ Chad Knight 
+   
+ Workiva One of Fortune Magazine’s 100 Best Companies to Work For 
+ For a second time, FORTUNE magazine has named Workiva to the list. We are grateful to be alongside some of the most successful, forward-thinking companies, many of whom are our customers. 
+ March 5, 2020 
+ Marty Vanderploeg 
+   
+ Takeaways from Five Dysfunctions of a Team Training 
+ Learn what the Workiva Denver R&D team took away from their Five Dysfunctions of a Team training. 
+ October 21, 2019 
+   
+ Validating Dart Dependencies and You! 
+ Let’s get your Dart dependencies in line with the help of an empowering tool called depenency_validator 
+ September 30, 2019 
+ Jace Hensley 
+   
+ Workiva Scottsdale Coding Challenge 2018 
+ Skeletons, necromancers, and ogres oh my! Scottsdale’s Workiva R&D hosted 52 ASU students for a coding challenge event. 
+ August 6, 2019 
+ Brian Reed 
+   
+ There is no production version 
+ We often ask the question “Which version of X is deployed to production?” Learn how the truth is actually a lot closer to “all of them” than you think. 
+ July 25, 2019 
+ Matthew Balvanz 
+   
+ Good Process, Bad Process 
+ A reflection on the costs and benefits of process within teams. 
+ May 1, 2019 
+ MacLeod Broad 
+   
+ Scalable Decision-Making Using RFDs  
+ As an architecture lead at Workiva, I’ve come to realize that technical problems are rarely, if ever, the reason for a project failing. Communication problems, on the other hand, can doom projects to failure from the start. Learn how we counteract these problems using Requests for Discussion (RFDs) to make scalable decisions. 
+ October 24, 2018 
+ Kevin Sookocheff 
+   
+ How to Win at One-On-Ones 
+ One-on-ones are important to our culture at Workiva, with many different expressions depending on several factors. This post sheds light on adding value to these meetings. 
+ July 13, 2018 
+ Jeff Hilleman 
+ Most Popular 
+ Takeaways from Five Dysfunctions of a Team Training 
+ Workiva One of Fortune Magazine’s 100 Best Companies to Work For 
+ DSM Hack 2018 - My Experience 
+ Popular Categories 
+ Giving Back 
+ Culture 
+ Communication 
+ Leadership 
+ Pagination 
+ 
+ 
+  First page « First  
+ 
+ 
+  Previous page ‹ Previous  
+ 
+ 
+  Page 1 
+ 
+ 
+  Current page 2 
+ 
+ 
+  Page 3 
+ 
+ 
+  Page 4 
+ 
+ 
+  Page 5 
+ 
+ 
+  Page 6 
+ 
+ 
+  Next page Next ›  
+ 
+ 
+  Last page Last »  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Connectors 
+ Partners 
+ Security 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Support 
+ 
+ Community 
+ Customer Support 
+ Developers 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Locations 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Twitter 
+ 
+ 
+ YouTube 
+ 
+ 
+ Select Region 
+ 
+ 
+ 
+ 
+ Legal 
+ Privacy Policy 
+ Sitemap 
+ 
+ (C)2021 Workiva 
+ 2900 University Blvd 
+Ames, IA 50010 
+  AICPA  
+ 
+ __ 
+ In the meantime, visit the resources below. 
+ [ 
+ Handbook: Surviving the New Normal 
+ ](/new-normal) 
+ [ 
+ How Sysco and Blackbaud kept business as usual 
+ ](/resources/how-sysco-and-blackbaud-kept-business-usual) 
+ [ 
+ Connected Reporting and Compliance Brochure 
+ ](/resources/connected-reporting-and-compliance-brochure) 
+ Select Region 
+ 
+ Australia 
+ France 
+ Germany 
+ Netherlands 
+ Singapore 
+ United Kingdom 
+ United States 
+ 
+ Online registration is currently unavailable. 
+ Please email  events@workiva  to register for this event. 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Thank you 
+ A Workiva team member will follow up with you shortly. 
+ Thank you for registering 
+ You'll receive a confirmation email shortly. 
+ Thank you 
+ You are now subscribed to receive blog updates. 
+ Thank you 
+ Your preferences have been updated. 

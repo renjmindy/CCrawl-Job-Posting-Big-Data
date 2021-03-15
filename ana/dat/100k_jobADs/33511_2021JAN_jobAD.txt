@@ -1,0 +1,143 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Algorithm Developer 
+ at MeVitae 
+ go back to Internships 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __National Minimum Wage 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __National Minimum Wage 
+ 
+ 
+ apply now 
+ 
+ A Fairer Workplace 
+ We believe in fairness. A world where everyone is given an opportunity to thrive; a position where they feel challenged and valued, where businesses can hire the right people the first-time round. We are here to empower people and businesses to grow together and create a happier and more trustworthy recruitment ecosystem via unbiased decision-making. We are passionate about creating collaborative and inclusive cultures for today and tomorrow. 
+ Founded by two award-winning Oxonians, MeVitae is all about helping companies understand their current workforce and leverage data-driven technology to attract, screen and retain top talent; ensuring that you build diverse and productive teams in the fairest way possible. 
+ About Position 
+ MeVitae is looking for an exceptional go-getter to join the strong team in a vibrant Start-up atmosphere to take the company worldwide. **** This is position is crucial and it is a chance to hone your expertise alongside fellow talented professionals, where you'll develop some of the most exciting Big Data software solutions on the market. 
+ MeVitae is seeking a full-time Algorithm Developer to join our development team, whom will help drive changes through MeVitae by creating insights from data and build AI techniques. The ideal candidate is someone who is particularly interested in using AI to understand language, and enjoys designing new ideas and exploring new applications and modifications of existing algorithms. The role will involve the development of software using test driven methodologies and following software development best practices, and so experience with this is beneficial. 
+ We are looking for scientists who are passionate about technology and want to apply technical techniques to solve real-world open-ended problems that haven't been approached before. You will help develop capabilities for language modelling, predictive modelling, text mining, dimensionality reduction, numerical optimisation, applied mathematical methods and other advanced statistical techniques. You will work on all aspects of the design, development and delivery of enabled solutions including problem definition, data acquisition, data exploration and visualisation, evaluating and comparing metrics, deploying the models, iteratively improving the solution, building the tools for this process etc. You will work with data from diverse structured and unstructured data sources, and various formats including tabular, text and time series. 
+ Duties and Responsibilities 
+ 
+ C# and/or .Net coding, testing, deployment of proprietary web applications 
+ Identify and understand data sources within the MeVitae business, including structured, unstructured and Big Data 
+ Design and test algorithms for the automated scoring/shortlisting system 
+ Guide stakeholders across the group to implement new algorithms and methods based on your work by presenting findings in a clear and confident manner 
+ Write clean code for use by engineers and other analysts in the organisation 
+ Recommend and use a variety of tools to deliver analytics based on the data 
+ 
+ Requirements 
+ 
+ Current pursuing a Computer Science or Engineering degree (or in Science or Maths, if you also have a strong personal interest in software development) 
+ Strong programming skills in one or more language C#/C/C++/Java/Python 
+ Experience with one or more of the well-known machine learning libraries in Python, C#, or C++. e.g., TensorFlow, OpenCV, PyTorch, ML.Net, Keras, CNTK, Scikit-Learn 
+ Interest or experience using natural language processing techniques to clean raw text and extract meaning 
+ Knowledge of word embeddings (such as Word2Vec, GloVe, FastText) 
+ Some SQL database experience 
+ Advanced conceptual, analytical, and problem-solving abilities 
+ 
+ Start date: Flexible 
+ Duration: 2-3 months 
+ Published at 20 Dec 2020 - Expires on 20 Feb 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  MeVitae 
+ parttime  Graduate Partner Integration Lead  at MeVitae in London 
+ __20-12-2020 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

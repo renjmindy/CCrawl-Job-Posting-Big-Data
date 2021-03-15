@@ -1,0 +1,217 @@
+ WORKLOAD AUTOMATION COMMUNITY  
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 
+ Workload Automation and SAP: all you need to know about Dynamic SAP R/3 Jobs and Associated Return Codes 
+ 11/21/2019 
+  0 Comments  
+ There are fundamentally 3 ways to define Standard SAP Batch Jobs in IWS : 
+ 
+ Defining Jobs directly in SM36 and referencing the SAP Job IDs on IWS Side. 
+ Defining SAP Job by directly picking the ABAP, Variant, Step User etc at runtime through DWC, this connects to SM36 and creates the Job on SAP Side. 
+ Dynamically define the SAP Job on IWS Side by defining the Steps on IWS Side itself and at runtime , the Job Instance gets created at SAP end Automatically. 
+ 
+ In this Blog , we would look at the third method of creating an SAP Job and also explore the return Codes Associated with this Job Type . 
+A Dynamic SAP R/3 Batch Job is defined as follows : 
+ XA#TEST 
+SCRIPTNAME "/ -job TEST_5 -sg SERVERGROUP -c a -s1 type=A -s1 program=XXXXXX -s1 variant=YYYYYY -s1 user=STEPUSER -s1 prnew -flag type=exec -flag disable_spoollist -nobdc -nobdcwait" 
+STREAMLOGON maestro 
+DESCRIPTION "Added by composer." 
+TASKTYPE SAP 
+RECOVERY STOP 
+ Where Parameter   sg   is called the Server Group which aids in Load Balancing incase the SAP System is load Balanced using a SAP Message Server . 
+Where parameter   -c a   indicates this is a Class A Job. 
+Where parameter   type=A   indicates it is an ABAP Program. 
+Where Parameter   program   indicates the ABAP Program Name. 
+Where parameter   variant   defines the SAP Variant Name. 
+Parameter   prnew   indicates that this is a New Spool request. 
+Parameter   user   represents the Step User. 
+disable_spoollist disables Spool List . 
+ So, all of these parameters are defined on IWS Side and at runtime the submission of this Job to SAP Side creates an instance of the job on SAP Side and generates SAP Job ID at runtime. 
+ So, in a Dynamic Job , the SAP Job instance gets created only at runtime and is otherwise entirely managed from IWS End .​ 
+ Dynamic SAP Jobs with Printer Parameters : 
+ Printer Parameters are defined to describe the Printer options and Spool options while defining an SAP Job. 
+A sample Job with Printer parameters would look as below : 
+ XA#TEST_1 
+SCRIPTNAME "-job TEST_1 -s1 type=A -s1 report=XXXXXX -s1 variant=YYYYY -s1 prnew -s1 user=STEPUSER -s1 lang=EN -s1 printer=LP01 -s1 prsap=X -s1 paart=X_65_255 -s1 prtxt=XXXXXXX' -s1 pexpi=8 -s1 prcop=001 -s1 primm -s1 armod=2 -s1 sap_object=XXXXX -s1 al_object=XXXXXX -s1 al_report='XXXXX' -s1 arctext='XXXXX' -s1 datum=yyyymmdd -s1 al_printer=XXXX -s1 formular=X_PAPER -flag type=exec" 
+STREAMLOGON fta 
+DESCRIPTION "XXXXXXXX" 
+TASKTYPE SAP 
+RECOVERY STOP 
+ Where , 
+ " prnew"  is for creating a New Spool Request without appending to an existing request. 
+ " printer"  represents the name of the Printer in use 
+ " prsap"  denotes the SAP Cover Page 
+ " paart"  represents Printer formatting 
+ " prtxt"  represents Text for Cover Page 
+ " pexpi"  is the Spool retention period 
+ " prcop"  represents Number of Print out Copies 
+ " primm"  represents Print Immediately option 
+ " al_object"  is the Document type 
+ " al_report"  is the Report Name 
+ " arctext"  is the Archive Text 
+ " datum"  is the Archiving Date 
+ " al_printer"  is the Target printer 
+**" sap_object" **is the Object Type of Business Object 
+ " formular"  represents Output format 
+ **  Dynamic SAP Jobs with Archiving Parameters : ** 
+ Archiving Parameters describe the Archiving options for a Job Definition: 
+XA#TEST 
+SCRIPTNAME "-job SAPJOBNAME -s1 type=A -s1 report=Z_ABAP -s1 variant=var -s1 sap_object=XXX -s1 al_object=XXXX -s1 al_report=XXXXXX -s1 arctext='XXXXX' -s1 arcuser=XXXX -s1 armod=2 -s1 info=XXX -s1 prnew -s1 lang=XX -s1 user=XXXX -flag type=exec" 
+STREAMLOGON fta 
+DESCRIPTION "XXXXXXXXXXX" 
+TASKTYPE SAP 
+RECOVERY STOP 
+ "  arcuser  " is the Archiving user 
+"  arcmod  " represents Archive Mode 
+ " al_object"  is the Document type 
+ " al_report"  is the Report Name 
+ " arctext"  is the Archive Text 
+ " info"  is the info field 
+ Advantages of an SAP Dynamic Batch Job : 
+ 
+ Most Customers prefer to keep the SAP Jobs defined on IWS Side dynamically so as to have a single point from where the Workload is managed and there is no problems while changing any info within the Steps of a Standard SAP Job. 
+ Relieves overhead on SAP Basis Side on the Job Management part. 
+ Most preferred method when Customer wants to manage everything out of IWS while only concentrating on ABAP Development and Variant creation. 
+ 
+ ** 
+SAP Return Codes typically returned during execution of an Dynamic SAP Batch Job :** 
+ Return Codes returned by an Dynamic SAP Job can be easily used to track the error and troubleshoot incase of Abends so as to quickly fix/address an issue . 
+ The Typical Return Codes that come out of an Dynamic SAP Batch job would be as follows: 
+ 1. 124:  RFC Connection Issues are typically captured by this return code , SAP tries to establish an RFC Connection in 5 attempts and if the number of attempts are exhausted then SAP Returns an error that R/3 Batch Connectivity could not be established with an Return Code of 124. 
+ 2. 121:  Return Code of 121 indicates an issue with the connectivity to an SAP System post the execution of an SAP Job , indicating that the Step is executing in SAP Side but IWS has lost visibility on the job and such scenarios can be troubleshooted by checking the final Job Status on SAP Side and matching the same on IWS Side . 
+ 3. 139:  In some cases the RFC Connection loss is also experienced post the connection establishment on SAP Side immediately before the launch of the Job on SAP Side , in such cases return Code of 139 is experienced. 
+** 
+**  4. 11 or 39:  Return Code of 11 or 39 is encountered when a Dynamic SAP Job is defined with a wrong Syntax missing a hyphen in an option etc , in which case the same job can be corrected and rerun from the DB post correction . 
+ 5. 118:  Return Code of 118 can represent many things , but in a Dynamic SAP Job , it is encountered in the below scenarios : 
+ 
+ Variant Locked on SAP Side. 
+ ABAP does not exist on SAP Side. 
+ Variant does not exist on SAP Side. 
+ Step User does no exist on SAP Side. 
+ 
+ Note : Return Code of 118 is also encountered in an SAP Job Defined by linking SAP Job ID on IWS Side with SAP Side , in which case the SAP Job ID Change on SAP Side can cause problems on IWS End. 
+ 6.   40:  Return Code 40 is encountered in cases when an SAP execution Target is not set on a SAP Process Chain Job, however this case is not applicable to a Standard SAP Job. 
+ 
+ | 
+ | 
+ Sriram V 
+ I've been working with Workload Automation for the last 11 years in various capacities like IWS Administrator , SME , India-SME , later joined the Product team supporting Workload Automation on SaaS, recently moved to Tech Sales and Lab Services of Workload Automation. 
+   
+ ---|--- 
+ 
+  0 Comments  
+ Your comment will be posted after it is approved. 
+ Leave a Reply. 
+ Archives 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ Categories 
+ All 
+ Analytics 
+ Business Applications 
+ Cloud 
+ DevOps 
+ Monitoring & Reporting 
+  RSS Feed  
+ www.hcltechsw.com 
+ | 
+ **About HCL Software  ** 
+HCL Software is a division of HCL Technologies (HCL) that operates its primary software business. It develops, markets, sells, and supports over 20 product families in the areas of DevSecOps, Automation, Digital Solutions, Data Management, Marketing and Commerce, and Mainframes. HCL Software has offices and labs around the world to serve thousands of customers. Its mission is to drive ultimate customer success with their IT investments through relentless innovation of its products. For more information, To know more  please visit  www.hcltechsw.com .  Copyright (C) 2019 HCL Technologies Limited 
+ ---|--- 
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 

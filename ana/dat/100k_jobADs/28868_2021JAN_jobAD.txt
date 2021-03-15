@@ -1,0 +1,268 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Frontend Developer 
+ at Uncrowd 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤50000 - ₤70000 per year 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤50000 - ₤70000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ Role  : Frontend developer 
+ Working with  : CTO and Head of Software Development in a close knit startup team 
+ Location  : 
+ 
+ 
+ 7mins walk from Kings Cross Station, London 
+ 
+ 
+ Under current conditions remote working is in operation 
+ 
+ 
+ Long-term; Ideally on average 10 days a month in London with the team where required. 
+ 
+ 
+ Some optional travel possible 
+ 
+ 
+ Salary  : dependant on experience in a range of £50-£70k 
+ Stock options  : significant dependent on the above 
+ Kit  : decent new laptop if yours is almost ready to be sent to the farm 
+ The Story 
+ Uncrowd is a startup. Get ready for something different. 
+ But…developing is developing, right? At a startup or at a big company in the city - same odds surely? 
+ Not even close. Everything about a startup is thrilling, weird, unpredictable, huge, all or nothing. 
+ Uncrowd is currently thriving and well and truly on the "all" side. 
+ Who We Are 
+ Uncrowd are pioneering the next generation of customer intelligence, selling our product B2B and mostly to retailers and brands in the UK and US. It's about people, being able to show a company when and why a customer will come to them instead of a competitor. 
+ We're a startup founded in 2018 and gaining traction every day (hence why you're needed). We're Microsoft's Global Startup Partner of the Year 2020/21, and you'll find that particular partnership helps you significantly in this new role. 
+ Everyone counts here, everyone is part of the success and everyone gets to share in that success. Currently the team is eight-strong, with five of us mostly in the Kings Cross office and the others rolling in and out from remote bases. 
+ Kings Cross is a vibrant area fast becoming a tech hotspot. You will ideally be based here but you can work from home if more remote, meeting in London several chunks at a time in London where necessary. Once we're allowed again there will be loads of UK travel, possibly EU and definitely US. 
+ What Does Uncrowd Actually Do? 
+ The website, www.uncrowd.uk is the right place to start. 
+ Put simply though: we are the only customer intelligence business on the planet able to tell a retailer or brand when and why a customer will choose to shop them instead of a rival. 
+ We do that through Friction/Reward Indexing, via the Uncrowd platform. It's data-driven intelligence like no other. So far ahead of the output from the likes of Qualtrics or Medallia that we have to call it the next generation of customer intelligence. 
+ Who we do it for? 
+ We have extraordinary access to top people in top retailers, CPG and brands, for example our business is currently engaged with the following organisations. We have the ability to go where others fear to go, or simply can't and you're welcome to come too: 
+ 
+ 
+ Three of the top UK FMCG retailers. 
+ 
+ 
+ A global coffee retail business. 
+ 
+ 
+ A global food & fuel on the go brand. 
+ 
+ 
+ A global athleisure retailer. 
+ 
+ 
+ A global IT hardware business. 
+ 
+ 
+ A hugely respected global distillery business. 
+ 
+ 
+ A global QSR brand. 
+ 
+ 
+ A global food service business. 
+ 
+ 
+ A global well respected white goods manufacturer. 
+ 
+ 
+ A UK health and wellbeing retailer. 
+ 
+ 
+ What We Need 
+ We need to accelerate our development game. We are recruiting a handful of driven and talented individuals to slot into our team and help push Uncrowd to be a tech led startup like no other. Currently we are punching above our weight - time to bulk up and punch even harder. 
+ An experienced Frontend Developer is an important part of that bulk-up! 
+ What Will You Actually Do? 
+ The Uncrowd platform development has been a fast moving, agile beast - a proper rollercoaster ride over the last 18 months with real thrills and spills. Now it's time to tighten the bolts and stop the carriage occasionally flying off on that tricky bend after the loop. You will be integral to that. 
+ We are expanding out several roles in the company, and so we need a cracking Frontend Developer. We've written some amazing code and translated some lovely cutting-edge designs along the way, now we need you to make that even better. You will drive the look and feel of the platform; all the way from the UI/UX to the individual data visualisations. Currently the platform looks good, we want you to make it so much better. 
+ Your Life/Career Stage 
+ It's important that we bring a dynamic and experienced person into the team for this role, so we want you to have a decent chunk of road behind you. We'd love to hear about cool projects where you have created amazing front end experiences, exciting companies you've helped along the way and most of all the skills and passions that you bring to the crazy world of frontend development. 
+ This is the most exciting time to be joining our development team, we have built the foundations of the platform from the ground up and are now ready to add the cool stuff in abundance. We want you to be in a stage of your career where that sort of challenge gets you leaping out of bed in the morning (or middle of the night…we are developers after all!) 
+ Frameworks R not Us 
+ We assume you've read ahead and looked at the skills section to see if you fit. Hang on. Where are the frameworks right? Well, that's the thing. We avoid using frameworks wherever possible. For example; we needed a Typeform-like tool for one of our data capture apps. Instead of compromising our needs and vision to wrangle in Typeform, we built our own, which is now a proud part of Uncrowd's assets. 
+ As a startup we pride ourselves as being framework independent and not licenced to anyone. Our customers will all have wild and varied preferences for their tech, so why shouldn't we be flexible? 
+ Everything we build is done from the ground up. From pure code and libraries that we create and maintain. We have documentation (mostly.. cough ) and it's all written in nice clear PHP and Javascript etc… so it's not some obscure collection of nonsense awaiting your first day on the job. 
+ But what about D3 and JQuery? They 're frameworks! 
+ Well  yeah  aside from that, what have the Romans ever done for us? Although to be fair, we use the pure version of JQuery and most of the D3 is custom built, so it sort of counts as no frameworks. Besides, we aren't  anti  frameworks as a weird sort of boast - if you know of or can find a nice way of implementing something that doesn't tie us down and fits our design ideals, then happy days! 
+ Skills 
+ 
+ 
+ Javascript, JQuery 
+ 
+ 
+ HTML5, CSS, PHP 
+ 
+ 
+ Visualisation libraries such as D3 
+ 
+ 
+ Strong knowledge and experience of UI/UX considerations 
+ 
+ 
+ Experience with GIT/Azure repositories 
+ 
+ 
+ Experience with Less for CSS and Webpack would be handy, but not essential 
+ 
+ 
+ As you'll be working alongside the backend and data guys, experience and exposure to the related technologies would be really useful: Cloud, SQL, Ajax, Node.js - that sort of thing. 
+ 
+ 
+ We want you to not only create front end features on spec, we want you to be the sort of person that can see opportunities and cool ways of doing things that we might have missed or didn't know about. 
+ 
+ 
+ Perhaps even more importantly than that, we need you to drive these changes and take full ownership. If that sounds like something you are good at, then that's great. 
+ 
+ 
+ Benefits 
+ 
+ 
+ We're a startup. Startups are weird and fun and thrilling 
+ 
+ 
+ Based in Kings Cross, a fun bit of London 
+ 
+ 
+ You'll have a learning budget to spend however you want 
+ 
+ 
+ There's a pension and a wellness budget 
+ 
+ 
+ A share in the value of our growth 
+ 
+ 
+ Stock options that already hold good value and could go anywhere 
+ 
+ 
+ Flexible working - hours to suit, days to suit 
+ 
+ 
+ International travel if you fancy it 
+ 
+ 
+ 26 days holiday (plus the usual bank holidays) 
+ 
+ 
+ Why we think you 'll like it at Uncrowd 
+ Influence: You'll be one of our core development hires with loads of responsibility and freedom to build and direct as a result. 
+ Stock Options: These could be worth a load or nothing, that's the fun of startups 
+ Healthy: Look after yourself with a wellness budget to spend as you please 
+ Grow: There's also your own budget to learn new things 
+ Purpose: Play a big role in bringing the next generation of customer intelligence to life 
+ Application deadline: January 22nd 
+ We're already receiving lots of applications so we may close the deadline early. Suggest you get yours in as quickly as possible! 
+ We'd love to be able to provide feedback for everyone who applies initially but that simply won't be possible and if you're unsuccessful, we thank you in advance for thinking of us and taking the time to apply. Please follow us as more roles will open up in early 2021. 
+ Published at 1 Jan 2021 - Expires on 22 Jan 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

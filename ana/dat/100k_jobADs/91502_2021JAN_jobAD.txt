@@ -1,0 +1,170 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Python Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ PythonWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Lead Developer, Exchange Technologies Group 
+ [ 
+ Sporttrade 
+ ](/companies/sporttrade) 
+ Philadelphia, PA, US 
+ 16 November, 2020 
+ Apply 
+ More jobs from Sporttrade About Sporttrade 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Java 
+ JVM 
+ Kotlin 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Health insurance 
+ Unlimited vacation policy 
+ Equity 
+ 
+ Co-lead the development and stewardship of the core trading exchange 
+ Role overview 
+ Role is open to people located in NY or Philadelphia 
+   Sporttrade   is a stealth company poised to disrupt the sports betting industry with the first legal sports betting exchange in United States history. Built just like a financial exchange, our venue allows retail and institutional customers alike to trade on sports outcomes by buying and selling sports contracts (bets). 
+ Responsibilities 
+ 
+ Co-lead the development and stewardship of the core trading exchange. 
+ Be an integral part in building a reliable, performant and easy to operate trading platform without accumulating technical debt. 
+ Maximize delivery under time constraints and prioritize features to be able to meet deadlines. 
+ Assume a leading role in the team once the product is launched into production 
+ 
+ Qualifications 
+ 
+ 5+ years of experience building highly performant software applications 
+ Good understanding of threading models and memory management 
+ Familiarity with machine architecture and assembly language 
+ Familiarity with embedded systems 
+ Good understanding of programming language and compilers concepts 
+ Strong written and verbal communication skills 
+ Financial Markets experience a plus, but not required 
+ Java/Kotlin JVM languages experience a plus 
+ Good development hygiene practices. Mainly, continuous Integration and Test Driven Development 
+ Fastidious yet flexible in finding new solutions to problems 
+ 
+ Benefits 
+ 
+ 100% Health Care Contribution 
+ Equity Options 
+ Unlimited PTO and Sick Leave 
+ Remote for foreseeable future 
+ 
+ 
+ [ 
+ Sporttrade 
+ ](/companies/sporttrade) 
+ 
+ 10-49 
+ 
+ Sporttrade is a stealth company poised to disrupt the sports betting industry with the first legal sports betting exchange in United States history. Built just like a financial exchange, our venue allows retail and institutional customers alike to trade on sports outcomes by buying and selling sports contracts (bets) 
+ Finance Early Stage Venture iOS JVM KUBERNETES Kotlin Unlimited Vacation Policy Equity 
+ View 1 job 
+ Engineers who find a new job through Python Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Sporttrade About Sporttrade 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Java 
+ JVM 
+ Kotlin 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Health insurance 
+ Unlimited vacation policy 
+ Equity 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Scala EngineerCompetitiveAxoniNew York, NY, US 
+ Senior Scala Engineer will be responsible for coordinating technical development of our infrastructure. 
+ akka functional programming java jvm scala 
+ More Info Apply 
+ Software Engineer - DAML Application RuntimeCompetitiveDigital AssetNew York, NY, US 
+ This team is responsible for all software and tooling used in the development of Ledger client applications. 
+ clojure haskell java kotlin scala 
+ More Info Apply 
+ Sr. Android DeveloperCompetitiveLivePersonNew York, NY, US 
+ Work on a cutting-edge app that will be used by millions of consumers 
+ android java 
+ More Info Apply 
+ Lead Developer, Exchange Technologies Group 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Python jobs Django jobs Ansible jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Python articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

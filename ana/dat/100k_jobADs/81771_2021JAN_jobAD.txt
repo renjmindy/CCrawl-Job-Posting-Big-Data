@@ -1,0 +1,82 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Tesorio (S15) 
+ Tesorio is the cash flow performance platform that helps finance teams better manage, predict and collect cash. 
+ Senior Product Manager 
+ 
+ Location 
+ San Francisco or Remote / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Tesorio 
+ Tesorio is the world’s first and only cash flow performance platform. It empowers CFOs and finance teams to boost profits by using artificial intelligence to better manage, predict, and collect cash. Our customers include companies like Box, Veeva Systems, and WP Engine. 
+ Our mission is to build financial management technologies that enable the world’s most important companies to grow more quickly in a sustainable way that’s good for people, the planet, and business. 
+ When companies have strong cash flow performance they can shift from short-term acrobatics to long-term growth and innovation. These are the teams that change the world by being freed to optimize for all of their stakeholders, including their employees, business partners, and environment. 
+ About the role 
+ Our mission is to build financial management technologies that enable the world’s most important companies to grow more quickly in a sustainable way that’s good for people, the planet, and business. 
+ When companies have strong cash flow performance they can shift from short-term acrobatics to long-term growth and innovation. These are the teams that change the world by being freed to optimize for all of their stakeholders, including their employees, business partners, and environment. 
+ The Opportunity 
+ Cash flow is the toughest financial statement to understand but it’s fundamental to funding your own growth. We build the most intuitive and actionable tools for companies to optimize cash flow performance. Our platform analyzes billions of dollars of B2B transactions each year, users spend 70% of their workday in Tesorio, and we save finance teams thousands of hours. As a result, they can invest more confidently and anticipate their capital needs further in advance. 
+ We’re growing quickly and working with the world’s best companies and the largest bank in the US. We raised a $10MM Series A led by Madrona Venture Group and are backed by top investors including First Round Capital, Y Combinator, and Floodgate. We’re also backed by tenured finance execs, including the former CFOs of Oracle and NetSuite. 
+ We’re now looking to hire an experienced Product Manager to join our growing team to help us implement a high volume of curated ideas and reinvent how complex financial transactions can be simplified. You'll lead a team of designers and engineers to hone product/market fit and then achieve rapid growth. 
+ We have a small office in the San Francisco Bay Area, and we have a diverse, distributed workforce in five countries. We don’t believe that people need to sacrifice being close to their families and where they’d prefer to live in order to do their best work. 
+ Are you our next Product Manager? 
+ 
+ You have 8+ years of product management experience in high-growth software companies. 
+ You have a background working with financial products. 
+ You have a track record of leading projects from definition to launch, ensuring they succeed for both the user and the business. 
+ You’re a big-picture thinker that has the ability to define and work towards a large strategic vision while sweating the details. 
+ You love spending time with users and with data to uncover opportunities, prioritize concepts, and validate solutions. 
+ You are a low-ego collaborator who can quickly build consensus with leaders from across the organization. 
+ You have experience thriving in a fast-moving agile environment, defining while shipping and always iterating. 
+ 
+ What will I be doing? 
+ 
+ Defining long-term roadmaps for your team and then executing against them 
+ Collaborating with the CEO on the future of the product 
+ Lead a team of designers and engineers through iterative cycles of build and ship, and test and learn. 
+ Manage the entire product development cycle and work cross-functionally to ensure deployments are successful for our companies. 
+ Closely collaborate & support Customer Success, Sales & Marketing throughout the product lifecycles 
+ Work with researchers and designers to understand our customers’ jobs to be done, and validate and de-risk concepts before a line of code is written. 
+ Define success and use qualitative and quantitative data to make informed product decisions. 
+ 
+ What skills do I need? 
+ 
+ Ability to translate concepts into detailed specifications. 
+ Ability to synthesize large amounts of data, both qualitative and quantitative, and provide strong rationale for your decisions. 
+ An ability to build simple and elegant products in a market that requires the ability to design systems that help users manage complexity. 
+ Exceptional organizational skills 
+ Effective communicator - both internally & externally 
+ A technical background 
+ 
+ Technology 
+ Backend 
+ Python/Django, Postgres, Celery, Heroku 
+ Frontend 
+ React/Redux, ES6, Webpack, Gulp 
+ Other jobs at Tesorio 
+ Senior Backend Engineer - LatAm 
+ fulltime 
+ Remote 
+ Backend 
+ 3+ years 
+ Senior Product Manager 
+ fulltime 
+ San Francisco or Remote / Remote 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,176 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Full Stack Developer 
+ [ 
+ McKinsey & Company 
+ ](/companies/mckinsey-and-company) 
+ London, United Kingdom 
+ 02 October, 2019 
+ Apply 
+ More jobs from McKinsey & Company About McKinsey & Company 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Angular 
+ AWS 
+ Docker 
+ JavaScript 
+ KUBERNETES 
+ MongoDB 
+ Node.js 
+ React 
+ 
+ Benefits & perks 
+ 
+ Health insurance 
+ Pension 
+ Performance bonus 
+ Training 
+ Travel opportunities 
+ Free food 
+ 
+ Digital McKinsey brings together the best of McKinsey’s digital capabilities. 
+ Role overview 
+ **  The Role: ** 
+ You’ll work with Digital McKinsey in our London office. Digital McKinsey brings together the best of McKinsey’s digital capabilities to help our clients use digital technology to transform their businesses. 
+ As part of this group, you’ll join a global team working on everything from IT modernization and strategy to agile, cloud, cybersecurity, and digital transformation. You’ll typically work on projects across all industries and functions and will be fully integrated with the rest of our global firm. 
+ You’ll also work with colleagues from across McKinsey & Company to help our clients deliver breakthrough products, experiences, and businesses, both on technology and non-technology topics. 
+ Our office culture is casual, fun and social, with an emphasis on education and innovation. We have the freedom to try new ideas, experiment and are expected to be constantly learning and growing. There is also a strong emphasis on mentoring others in the group, enabling them to grow and learn. 
+ **  What will you be doing? ** 
+ In teams, you will contribute to the architecture across the technology stack, from database to native apps. You will create rapid prototypes, usually in 2 to 3 weeks, as well as full-scale applications (typically within 2 to 3 months), by working collaboratively and iteratively through design and development to deliver fully function web-based and mobile applications that meet business goals. 
+ Our development teams are small, flexible and employ agile methodologies to quickly provide our consultants with the solutions they need. We combine the latest open source technologies together with traditional Enterprise software products. 
+ **  What you need: ** 
+ 
+ Passionate about technology and excited about the impact of emerging/disruptive technologies 
+ 5+ years of programming experience in at least 2 modern programming languages/ frameworks, such as Node.JS, Go Lang, Elixir, C, C++ or Python 
+ Experience working with HTML/ CSS and a modern frontend JavaScript framework, such as ReactJS, AngularJS, EmberJS or Vue.js 
+ Writing and utilizing RESTful API services and performance tuning large scale applications 
+ Experience with cloud providers (e.g. AWS, Azure, GCP), containerisation (e.g. Docker, Kubernetes) and modern architecture patterns (e.g. microservices, reactive architectures, event-driven architectures) 
+ Experience with relational and non-relational data stores (e.g., MongoDB, CouchDB, Cassandra) 
+ Playing an active role in the technology community, ie., contributing to open source projects, speaking at conferences, blogging, etc 
+ First-hand experience with Agile development methodologies 
+ Ability to interact with people at all levels in an organisation 
+ Willing to travel up 50-75% of the time across to clients' sites 
+ 
+ 
+ [ 
+ McKinsey & Company 
+ ](/companies/mckinsey-and-company) 
+ 
+ 250+ 
+ 
+ You’ll work with Digital McKinsey in our London office. Digital McKinsey brings together the best of McKinsey’s digital capabilities to help our clients use digital technology to transform their businesses. As part of this group, you’ll join a global team working on everything from IT modernization and strategy to agile, cloud, cybersecurity, and digital transformation. You’ll typically work on projects across all industries and functions and will be fully integrated with the rest of our global firm. You’ll also work with colleagues from across McKinsey & Company to help our clients deliver breakthrough products, experiences, and businesses, both on technology and non-technology topics.Our office culture is casual, fun and social, with an emphasis on education and innovation. We have the freedom to try new ideas, experiment and are expected to be constantly learning and growing. There is also a strong emphasis on mentoring others in the group, enabling them to grow and learn. 
+ Docker Consulting Private AWS KUBERNETES chef Pension  Performance Bonus 
+ View 3 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from McKinsey & Company About McKinsey & Company 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Angular 
+ AWS 
+ Docker 
+ JavaScript 
+ KUBERNETES 
+ MongoDB 
+ Node.js 
+ React 
+ 
+ Benefits & perks 
+ 
+ Health insurance 
+ Pension 
+ Performance bonus 
+ Training 
+ Travel opportunities 
+ Free food 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Engineering LeadCompetitiveMcKinsey & CompanyLondon, United Kingdom 
+ You’ll be working in London as part of our McKinsey Digital team. 
+ angular aws css docker html javascript kubernetes mongodb node.js react 
+ More Info Apply 
+ Software ArchitectCompetitiveMcKinsey & CompanyLondon, United Kingdom 
+ Digital McKinsey brings together the best of McKinsey’s digital capabilities to help our clients 
+ angular aws css docker html javascript kubernetes node.js react 
+ More Info Apply 
+ Full-Stack Software Developer£35K - 75KCytera CellWorksLondon, United Kingdom 
+ Our solutions are going to transform the way every biotech works. Join us and help us get there! 
+ aws docker javascript node.js react typescript 
+ More Info Apply 
+ Full Stack Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

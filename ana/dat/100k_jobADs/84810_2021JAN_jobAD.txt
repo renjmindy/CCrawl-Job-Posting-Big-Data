@@ -1,0 +1,181 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Engineer - Bloomberg Query Language, Developer Experience 
+ Bloomberg 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Engineer - Bloomberg Query Language, Developer Experience 
+ Bloomberg 
+ [](mailto:?subject=Senior%20Software%20Engineer%20%2D%20Bloomberg%20Query%20Language%2C%20Developer%20Experience&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14284831/senior-software-engineer-bloomberg-query-language-developer-experience/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 8, 2021 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Bloomberg runs on data. It's our business and our product. From the biggest banks to the most elite hedge funds, financial institutions need timely, accurate data to capture opportunities and evaluate risk in fast-moving markets. Enabling clients to access Bloomberg's data and perform custom analytics, the Bloomberg Query Language (BQL) and Analytics platform is at the forefront of innovation for our business. 
+ Our team is responsible for developing a low-latency analytics platform and screening engine. We are also working to define and build a domain-specific query language (BQL). This language allows users to express complex analytics and quantitative models for execution on the platform. 
+ As a member of the continuous integration and developer experience team, you will ensure our codebase remains stable and help increase the efficiency and development of new features. You will automate code and project management to reduce duplication of efforts and minimize time between implementation and deployment. 
+ We 'll trust you to: 
+ 
+ Design and develop CI tooling based around Jenkins, Maven, Docker, and Github 
+ Influence and contribute to the design of firm wide CI/CD systems 
+ Collaborate with a team of highly motivated software engineers to drive an innovative culture 
+ Think critically about the "bigger picture", take calculated risks and come up with creative solutions 
+ 
+ You 'll need to have: 
+ 
+ Advanced Python coding skills with a focus on scripting and extensible frameworks 
+ 5+ years of experience with Continuous Integration and Deployment, as well as IOC frameworks like Spring 
+ Experience integrating Jenkins with existing in-house workflows 
+ Experience with Persistence Frameworks, AVRO/JSON and RESTful services 
+ Experience with scalable build and deployment systems (ability to build scalable systems for large computes on big data) 
+ 
+ We 'd love to see: 
+ 
+ Experience with Docker, Artifactory, and JIRA 
+ Experience working in a test-driven development and agile environment 
+ Experience developing tools for increased operational scale 
+ Experience with integrating Jenkins with existing in-house workflows 
+ 
+ If this sounds like you, please apply! We'll be in touch if we think you're a match. 
+ Bloomberg is an equal opportunities employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+ 
+ Internal Number: 9325388 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Bloomberg 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Senior Data Engineer 
+ __  Nationwide 
+ 
+ 
+ 
+ 
+ Capital Group 
+ __Today 
+ 
+ 
+ Software Engineer 
+ __  Evanston, Illinois 
+ 
+ 
+ Northwestern University 
+ __3 Days Ago 
+ 
+ 
+ Senior Biostatistician 
+ __  Remote, 
+ 
+ 
+ Natera 
+ __4 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

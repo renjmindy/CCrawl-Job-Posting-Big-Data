@@ -1,0 +1,12 @@
+ Qualifications 
+ Prior experience with cryptographic protocols, especially zkSNARKS or zkSTARKs (though not specifically required) 
+ Prior experience in low-level systems programming, ideally in Rust 
+ Self-motivated & self-organized 
+ Bonus Qualifications 
+ Academic research background in mathematics, computer science, economics, and/or game theory 
+ Bonus Qualifications 
+ Academic research background in mathematics, computer science, economics, and/or game theory 
+ Prior experience with distributed ledger (blockchain) technology 
+ Experience in a functional programming language such as Haskell or Ocaml 
+ Experience with a proof assistance such as Idris, Coq, or Agda 
+ Misc. 

@@ -1,0 +1,200 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Director of User Experience 
+ Ogletree Deakins Law Firm 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Director of User Experience 
+ Ogletree Deakins Law Firm 
+ [](mailto:?subject=Director%20of%20User%20Experience&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14305905/director-of-user-experience/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 14, 2021 
+ Location: 
+ United States 
+ __ Show Map 
+ Type: 
+ Full Time - Experienced 
+ Position Summary: 
+ Ogletree Deakins has an opportunity for a Director of User Experience to lead a talented 14-member team of Desktop and Application Engineers that are mostly based in our Administrative office in Greenville, South Carolina. 
+ The Director of User Experience will be responsible for the creation and execution of the overall strategy to assure that all 2000+ employees of Ogletree Deakins – enjoy the most productive computing experience possible. This is, and will be, achieved through the proper selection and integration of applications – largely complimenting the Microsoft Office Suite -- and the delivery of that application experience to the user in a consistent and reliable manner. Many of those applications will be specific to the practice needs of a top 50 law firm. Emphasis will be on the "modern desktop" and related methodologies to take advantage of the most recent cloud-based technology available. 
+ The Director of User Experience will be responsible for the teams that maintain our standard Windows 10 environment as well as the experience people have on their personal devices that include iPhone, Android, MAC and other Windows 10 devices – all controlled with modern mobile device management platforms. These teams are responsible for the quality assurance, and for the change and configuration management of the desktop environment, including image setup/break-fix processes, project management of projects/tasks associated with the end-user PC environment, as well as owning the maintenance, operational stability, and security of the PC environment and the User Experience overall. 
+ In addition to executing the strategy, the Director of User Experience and directed teams are responsible for the day-to-day engineering-level troubleshooting of issues and support of all applications through the company. 
+ The Director of User Experience will have ultimate responsibility for assuring that training delivery is appropriate for any experience change and coordinate training activity with the firm's training department or other resources. Assuring that every part of the experience is appropriately supported is also a critical responsibility. 
+ The Director of User Experience will have the opportunity to work in a very dynamic and innovative environment and will have a chance to contribute to very exciting and cutting edge technology projects. 
+ Essential Functions: 
+ 
+ Responsible for development and management of budget related to applications and endpoint experience. 
+ Responsible for endpoint hardware selection and hardware vendor relationships 
+ Responsible for application vendor relationships 
+ Works with law firm's Technology Strategy Committee (TSC) on changes that affect user experience. 
+ Works directly with technology management, software engineers and other company areas on highly visible technology projects to achieve company’s strategic IT initiatives 
+ Translate the engineering into an optimized user experience that performs on the user workstation/laptop that will allow end-users to work on company-owned equipment, or personally owned, while accommodating the company’s needs for security 
+ Evaluate and select appropriate Azure services 
+ Be the subject matter expert on User Experience. Maintain technical skills and knowledge to keep up with technical trends and trends in the legal application field 
+ Develop and document processes and procedures associated with transformed architecture 
+ Ensure front-line support groups have procedures and tools to reimage, troubleshoot the endpoint environment, and manage PC environment related incidents, problems, and requests 
+ Ensure the PC environment is stable with all other firm systems, which requires coordinated work with other IT Department teams and other firm administrative departments as required 
+ Assists in the inventory of software and PC hardware by developing inventory collection methods in conjunction with other owners of inventory assets 
+ Must be passionate about helping people work more efficiently by utilizing technology with little or no downtime 
+ Must be proactive in ensuring systems are performing and continue to perform at optimal levels 
+ Participates in projects that may require travel to other firm offices 
+ 
+ 
+ 
+ S. in Computer Science or related discipline or equivalent experience 
+ 10+ years' experience with IT engineering 
+ 5+ experience with law firm desktop orchestration and legal applications 
+ Strong project management skills 
+ Strong skills with regards to crafting and managing a $5 million + budget 
+ Experience with Office 365 administration and application delivery 
+ Strong experience with Microsoft SCCM Intune and desktop management, and Microsoft Teams administration and collaboration 
+ Knowledge in core infrastructure components such as DNS, DHCP, Active Directory (AD), AD Group Policies, LDAP, LDAP Integration 
+ Experience with "zero touch" OS deployment 
+ Experience with Exchange online, configuration and account management 
+ Azure Modern Identity and modern multi-factor authentication 
+ High level of experience with Citrix Virtual Apps and Desktops 
+ Microsoft Application Virtualization 
+ Experience with PowerShell scripting; Python a plus 
+ Experience with Windows Defender ATP, PowerApps and PowerBI a plus 
+ Experience with the business of Azure and the management of costs 
+ Experience with OneDrive and OneDrive for Business at a corporate level 
+ Broad exposure to classic and cloud native architectures and technologies, and the ability to articulate benefits and differences to technical architects and development teams 
+ Significant experience with working within an Agile methodology (SCRUM preferred) 
+ Vision to work with IT senior leadership to create a roadmap of the milestones necessary for achieving long term goals and the ability to both do hands-on work and lead team 
+ 
+ Please note, we are not working with outside recruiters for this position. 
+ 
+  __  Create a Job Alert for Similar Jobs  
+ About Ogletree Deakins Law Firm 
+ Ogletree Deakins is one of the largest labor and employment law firms representing management in all types of employment-related legal matters. The firm has a reputation for legal excellence and responsive client service. Ogletree Deakins' labor and employment practice is complemented and supported by related practice groups in the areas of business immigration, litigation, employee benefits, occupational safety and health, and construction law. With offices throughout the United States and in Europe, Canada, and Mexico, the firm represents a diverse range of clients. Our depth of experience in labor and employment law has produced a successful track record for our clients - Fortune 50 corporations to start-up companies. Although the size and scope of our practice has grown over the past quarter century, our core values remain constant. We are committed to personalized attention, innovative solutions and old-fashioned hard work. Our approach to providing clients with the resources to solve today's business challenges is always forward-thinking and strategic. We remain committed to providing our clients with an insider's view of the workplace issues of the day. 
+ Connections working at Ogletree Deakins Law Firm 
+ More Jobs Like This 
+ 
+ 
+ 
+ Data Scientist 
+ __  Santiago, Chile 
+ 
+ 
+ 
+ 
+ European Southern Observatory 
+ __3 Weeks Ago 
+ 
+ 
+ Software Development and Enterprise IT Director 
+ __  Newark, Delaware 
+ 
+ 
+ Frontier Scientific Inc. 
+ __Today 
+ 
+ 
+ Java Developer 
+ __  Pittsburgh, Pennsylvania 
+ 
+ 
+ OpenArc 
+ __5 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

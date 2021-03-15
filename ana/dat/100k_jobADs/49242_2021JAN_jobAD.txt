@@ -1,0 +1,339 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+  E-commerce jobs  
+ 
+ Evaluating bids 
+ Magento ecommerce 
+ Published on the May 19, 2018 in IT & Programming 
+ 
+ Project 
+ Project Insights New 
+ 
+ About this project 
+ it-programming / e-commerce 
+ USD 1,000 - 3,000 
+ Hi Magento Developer! I’m asking a quote for a Magento store. As you are the expert I’ll be open to your suggestions and I want to share what I think our new eComerce site must to meet this minimum criteria: 
+The Store must be developed using Magento Community Edition 
+Our own login and the option of Login with Facebook Setting up Rewards Points 
+Testing & QA 
+Physical and Digital Products 
+View/Download Products user manual View/Download Warranty 
+Abandoned Carts 
+Payments accepted: 
+• Paypal Payment 
+• Payment at Store 
+• Payment by Electronic Transfer • Payment by Bank Deposit 
+In order to up sell / cross sell: 
+Customers also like/bought this products 
+Related Products 
+Any more industry standard accepted to up sell / cross sell 
+How many SKU? 
+I need to use the same sub category under 2 or more categories let me explain: For better organization and easy navigation I need to make categories with the same name for example: 
+Cardio/Treadmills/Heavy-Duty Cardio/Elliptical/Heavy-Duty Cardio/Bikes/Heavy-Duty Cardio/Treadmills/Residential-Use Cardio/Elliptical/Residential-Use Cardio/Bikes/Residential-Use 
+In Magento I can't have the Heavy Duty or Residential Use repeated. As you may see It really help to have the same category name for my products. 
+Is there a way to have resolved this problem in Magento? Thanks! 
+Social Media Integration: I want the user to share a product, his order, his wish list, comments, etc. 
+ Custom shipping label: I need to export the shipping orders in csv in a preformated layout named "todays shipment" the layout need to have some fields like first name, last name, company name, street address, city, postal, country, package dimensions, L, H, D, weight. I'll use this csv file "todays shipment" to upload to our shipping carrier website. When we upload the csv file to the shipping carrier webpage, they respond with another csv named "today tracking" with new info like tracking number and other already know fields like first name, last name, company, street address, city, postal, country, etc. 
+Then I need to upload this "today tracking" to our site with the tracking number info. The Magento store must recognise which line of the csv file match our customer order and then upload the customer order status with the tracking number info, send an email to our customer with the tracking number and send a whatsapp or SMS with tracking info and print a shipping label to attach to the order. 
+In order to print the shipping label, the Magento store must admin the packages this way. 
+ When I add a product to Magento, one of the data needed to enter are the shipping information. The product data must include which kind of container it’s the product shipped like box, envelope, pallet, etc. How many containers are needed for each product and the weight and dimensions of each container. 
+ Lets take an example of a 2 item order. The 1st item takes 2 boxes to ship. The Box A with XYZ dimensions and the Box B with xyz dimensions. 
+The item 2 it's shipped in an envelope with RST dimensions. 
+The shipping data must be included in the CSV named “today shipment” the number of boxes and dimensions of each box / envelope must be included when I setup a new product description in Magento. 
+For this particular order, the Magento store need to print 3 labels, 2 for item #1 and one label for Item #2. 
+ It must print a report with the summary of boxes to be shipped. (One it’s going to be signed for the pickup man for my records and one for us and handed to the pickup man. 
+Shipping estimator: From above, lets take the same example Item 1 it’s a box XYZ dimensions and W weight. 
+I need to calculate if the package it’s going to take volume or actual weight to quote shipping. Then to calculate volume weight i need to run the formula VW=(Height X Large X deep) / Factor and compare with the actual weight W. If VW>W then the ship will cost VW X $kg if vw<w then the sip will cost w x $kg. 
+Magenta needs to run the above formula for container 1 and Container 2 and then ass the 2 shipping cost and get the actual shipping cost for ITEM 1, run the formula for Item 2 and then display the total shipping cost in the order. 
+The $kg will be in function to the zip code in order to differentiate shipping to near locations from far or difficult to reach locations in my country. (Mexico) 
+ Tax estimator we have a 16% sales tax and it must be included in the invoice. 
+ SEO 
+Integration with Mailchimp Integration with CRM 
+Integration with Zopim 
+Integration with Jotform Integration Facebook Pixel 
+Google Search Console Integration Google Analytic Integration Google Rush Indexing of all pages 
+Responsive smartphones/tablets 
+Different Pricing for Wholesale, Partners, and Retail Customers 
+Intelligent search It must be capable to give search result even if the customer misspelled the words. 
+Autocomplete Search Autocomplete search in order to help the customer to make a good search. 
+Warranty Which warranty are you going to offer? 
+Free Support Which kind of support are you going to offer? For how long with support it’s gong to be free. 
+Is this support be available in Skype? 
+Support Payed: How much will cost? What kind of support it’s under this category. Is this support be available in Skype? 
+Test with most used browsers 
+pos (what do you need to integrate with a pos? i don’t have any right now do you may recommend something) 
+integration with our ssl 
+order status 
+inventory 
+easy customer data entry 
+easy to add products and pictures (in opencast it’s a nightmare to add each product and picture) 
+image manager: automatic resize and optimisation images 
+promo codes 
+referring friends 
+affiliate 
+sms / email whatsapp when order status change 
+which extensions do you plan to include? 
+does i need to pay for some extensions? how much? 
+which kind of host does this store needs? 
+easy to configure or automatic rich snippets generator for product description 
+ use of use amp html to accelerate pages in mobile devices.  
+ 
+ Fill the google developers checklist:  https://developers.google.com/search/docs/guides/ 
+developer-checklist 
+Enhance site attributes like:  https://developers.google.com/search/docs/guides/enhance-  site 
+Custom-designed error pages so users don’t reach a dead-end if they encounter problems 
+Site must be future-proof and easily scalable 
+I want to meet the criteria of google webmaster tools for mobile and desktop check the actual data of my site and I’m asking to have a 95%+ 
+ 
+ 
+ Please consider the goal to have a Magento website it’s: 
+Provide an excellent user experience in navigability desktop/movil Increase sells 
+make our daily work more efficient 
+Rank high in google search 
+Up to date with google best practices 
+Easy to add product descriptions and images 
+Help to make us the shipping process quickly and accurately Clean code to eliminate any webmaster tools observations. 
+ Deliverables: 
+Site working in your server 
+A functional site with 20 products fully setting up. (We will provide all the product specs) 2 categories and 2 subcategories and 2 sub-subcategories already setting up (we will provide the categories branches and with products must be installed in each category) We must run tests to check usability and capability 
+Capable to get a 95 or more score in webmaster tools 
+All programing codes required to make the site will be our property 
+XML sitemap 
+ robot.txt  file 
+What exactly are your project deliverables? 
+ Custom-designed error pages so users don’t reach a dead-end if they encounter problems Let me know what else you know we might include in order to fill the above criteria 
+Thanks! 
+Art Garcia Profitnessmx 
+Mexico 
+ Category  IT & Programming 
+Subcategory  E-commerce 
+What is the scope of the project?  Medium-sized change 
+Is this a project or a position?  Project 
+I currently have  I have specifications 
+Required availability  As needed 
+API Integrations  Social media (Facebook, Twitter, etc.), Payment Processor (Paypal, Stripe, etc.), Other (Other APIs) 
+Roles needed  Developer 
+ Deadline: Not specified 
+ Skills needed 
+ HTML5   PHP   WordPress   API   HTML   Magento 
+ Want to start working on this project? 
+ Log into  your Workana account or  Register  today. Boost your freelance work! 
+ Are you looking for a freelancer to do a similar project? 
+ Create your project and get bids from the best freelancers. 
+ Publish your own project   Send your proposal now 
+   
+  A. G.  
+ 2 
+ Published projects 
+ 0 
+ Projects paid 
+ Member since: May 2018 
+ Project activity 
+ 2 
+ Bids 
+ 4 
+ Interested freelancers 
+  __Previous project  
+  __Next project  
+ Other projects posted by A. G. 
+ 
+ Todo el contenido gráfico para Facebook, Instagram y Youtube Relacionado con Fitness  Evaluating bids 
+ 
+ 4 proposals  Fixed price 
+ View project 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

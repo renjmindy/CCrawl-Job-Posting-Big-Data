@@ -1,0 +1,249 @@
+Andrew Leigh's Archived Blog 2004-2010 
+ An archive of blog entries written as an ANU economist 
+ Skip to content 
+ 
+ Home 
+ 
+ <- Public policy by revolving restaurant 
+ I went to a fight and a hockey game broke out -> 
+ A Randomised Trial of the Job Network? 
+ Posted on  June 18, 2008  by  andrewleigh 
+ Don Arthur emails on a topic close to my heart, with a sensible and straightforward proposal that should be extremely appealing to a federal government that has announced its commitment to evidence-based policymaking. 
+ 
+ I'm a big fan of  your op-eds  on randomised control trials. You might be interested to know that Catholic Social Services Australia (CSSA) is lobbying the government to use a RCT approach for projects funded through the new innovation fund for  employment services . 
+ CSSA's latest submission says: 
+ 
+ The innovation fund creates an opportunity for the Department to identify and disseminate information on innovative practices. However, because the impacts of employment programs are typically small, experimental or quasi-experimental methods are needed to accurately measure program impacts. 
+ The Department should ensure that all programs supported by innovation funds are subject to a rigorous impact evaluation. The Department should consider contracting an independent research organisation to evaluate and report on innovative projects. The evaluators should have all necessary access to DEEWR data and other resources. Such an approach would assist comparison of projects under the scheme. 
+ Using the resources of the Department it ought to be possible to conduct randomised control trials with job seekers receiving the ordinary level of service as a control group. 
+ 
+ One of the reasons an experimental approach is feasible with employment services is that Centrelink is  already referring job seekers to Job Network members on an almost random basis . Unless a job seeker states a preference for a particular provider, Centrelink shares out the referrals among providers with spare capacity. 
+ The counterfactual in innovation experiments would be the regular level of service. That would neatly answer the most pertinent policy question -- Is the new approach better than what we're already doing? 
+ The government is planning to hand out $41m in innovation funding. It would be a tragedy if we never found out whether the innovative approachesÂ actually worked. 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- Public policy by revolving restaurant 
+ I went to a fight and a hockey game broke out -> 
+ 3 Responses to  A Randomised Trial of the Job  Network? 
+ 
+ Steve W says: 
+ 
+  June 18, 2008 at 2:36 pm 
+ It would be an intreesting approach, and the whole field of evidence based policy in one that Australia does very badly compared to, for example, the UK. 
+ You do of course have to adjust for the fact that trials generally outperform the full implementation of a programme (indeed you would probably maximise outcome rates by continually running series of trials). There would also be the added difficulty that assignment to a pilot service may not be purely random as there would be an initial point of time at which this pilot service had large excess capacity relative to every other provider as it had only just been set up (which could be solve by gradually ramping it up to full capcity and only evaluating over the period after which it reached full capcity, but that stretches out the timeframe of the evaluation). 
+ Finally, a lot of the discussion of the theoretical benefits of RCTs ignores the agency of those administering the trial. For example, in a large scale trial undertaken in the UK some of the people staffing the call centre which made the random assignments had formed priors as to which service approaches they through were better, and so when a caller was randomly assigned to one of the unfavoured trials they would advise them to call back to get another go at being placed in the 'good' trial. 
+ 
+ Evelyn H says: 
+ 
+  June 19, 2008 at 6:53 am 
+ One of the best studies I have seen using a Centrelink style referral process as a basis for random selection is by David Autor (MIT) and Susan N Houseman (NBER) "Temporary Help Jobs Improve Labor Market Outcomes for Low-Skilled Workers? Evidence from 'Work First'". Abstract at: 
+ http://papers.ssrn.com/sol3/papers.cfm?abstract_id=842477 
+ 
+ A disproportionate share of low-skilled U.S. workers is employed by temporary-help firms. These firms offer rapid entry into paid employment, but temporary-help jobs are typically brief, and it is unknown whether they foster longer-term employment. We exploit a unique aspect of the city of Detroits welfare-to-work program, in which one in five jobs taken is obtained with a temporary-help firm, to identify the effects of temporary-help jobs on the subsequent labor market advancement of low-skilled workers. Welfare participants are assigned on a rotating basis to one of numerous program providers that have substantially different placement rates into temporary-help and regular (direct-hire) jobs but offer otherwise standardized services. This gives rise to variation in job-taking rates that is functionally equivalent to random assignment. Using provider assignments as instrumental variables, we find that temporary-help job placements yield significant short-term earnings gains, but these gains are offset by lower earnings and less frequent employment over the next one to two years. Job placements with direct-hire employers, by contrast, substantially raise earnings over one, two, and three years following placement. The primary observable difference between these types of job placements is their effect on subsequent employment stability. Direct-hire placements roughly double the probability of ongoing employment in each of the first eight quarters following program assignment, while temporary help placements only positively affect the probability of ongoing employment for two quarters and do not facilitate transitions to direct-hire jobs. These results qualify the interpretation of a large experimental literature documenting the benefits of job placement services for labor market outcomes of low-skilled workers. We find that the benefits of job placements derive entirely from direct-hire jobs; placing low-skilled workers in temporary-help jobs is no more effective than providing no job placements at all. 
+ 
+ Here in Australia we have the same high use of temporary job placements by Job Network. Some organisations who started life as a labor hire company are more likely to use labour hire than others. 
+ What do you think of such a study being replicated here? 
+ 
+ Andrew Leigh  says: 
+ 
+  June 19, 2008 at 10:56 am 
+ Evelyn, I'm a big fan of David's, and would love to see his study replicated here. I'm not sure if you have any sway over these programs, but if so, let me know if you can think of clever ways of advancing them. 
+ Comments are closed. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ The purpose of this blog 
+ Turning Points 
+ France Wins Clark Medal Again 
+ Of Becker and Mills, Picasso and Friedman 
+ Did the Tampa Stop Beazley Becoming PM? 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ PJD on  Turning Points 
+ 
+ 
+ 
+ 
+ 
+ PJD on  Turning Points 
+ 
+ 
+ 
+ Clinton McMurray on  Turning Points 
+ 
+ 
+ 
+ ChrisPer on  Turning Points 
+ 
+ 
+ 
+ 
+ Daniel Waldenström  on  Turning Points 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+ February 2005 
+ January 2005 
+ December 2004 
+ November 2004 
+ October 2004 
+ September 2004 
+ August 2004 
+ July 2004 
+ 
+ 
+ 
+ Categories 
+ 
+ Australian issues 
+ Australian Politics 
+ Behavioural Economics 
+ Blogging 
+ Book launch stuff 
+ Books 
+ Coming Events 
+ Current Affairs 
+ Development Economics 
+ Eclectic Observations 
+ Econometrics 
+ Economics & Public Policy Course 
+ Economics for Government Course 
+ Economics Generally 
+ Economics of Education 
+ Economics of Elections 
+ Economics of National Security 
+ Economics of the Family 
+ Election 
+ Environmental Economics 
+ Film 
+ Finance 
+ Food and Drink 
+ From the Frontiers 
+ Games 
+ Global issues 
+ Health economics 
+ Indigenous Policy 
+ Inequality 
+ Interesting stuff 
+ Iraq 
+ Jobs 
+ Labour Economics 
+ Law 
+ Low Wage Work 
+ Macroeconomics 
+ Media 
+ Prediction Markets 
+ Randomisation 
+ Religion 
+ Social Capital 
+ Sport 
+ Sports 
+ Tax 
+ Television 
+ Thinktanks 
+ Trade & Development 
+ Travel 
+ Uncategorized 
+ Universities 
+ Urban Economics 
+ US Politics 
+ Web/Tech 
+ Weblogs 
+ What I'm Reading 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  Andrew Leigh's Archived Blog 2004-2010  
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

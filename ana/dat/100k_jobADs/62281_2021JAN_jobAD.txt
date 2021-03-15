@@ -1,0 +1,403 @@
+Skip navigation 
+ 
+ 
+ Jobs 
+ 
+ 
+ Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cookie Setup 
+ We use the services of Google and Webtrekk for our web analysis and implement cookies for this purpose. We ask you for your consent to do so. Of course, you can also use our website without consent for web analysis. Further information can be found in our data privacy policy. There you can also revoke your consent at any time. 
+ In this overview you can select and deselect individual cookies of a category or entire categories. You will also receive more information about the cookies available. 
+ 
+ 
+ 
+ group 
+ essential 
+ 
+ 
+ 
+ 
+ name 
+ Netzhirsch 
+ 
+ 
+ technical name 
+ _netzhirsch_cookie_opt_in 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Used to determine which cookie was accepted or rejected. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ group 
+ essential 
+ 
+ 
+ name 
+ Contao CSRF Token 
+ 
+ 
+ technical name 
+ csrf_contao_csrf_token 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Serves to protect the website from cross-site request forgery attacks. After closing the browser, the cookie is deleted again. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ group 
+ essential 
+ 
+ 
+ name 
+ Contao HTTPS CSRF Token 
+ 
+ 
+ technical name 
+ csrf_https-contao_csrf_token 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Serves to protect the website from cross-site request forgery attacks. After closing the browser, the cookie is deleted again. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ group 
+ essential 
+ 
+ 
+ name 
+ PHP SESSION ID 
+ 
+ 
+ technical name 
+ PHPSESSID 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 0 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ PHP cookie (programming language), PHP data identifier. Contains only a reference to the current session. There is no information in the user's browser saved and this cookie can only be used by the current website. This cookie is used all used in forms to increase usability. Data entered in forms will be e.g. B. briefly saved when there is an input error by the user and the user receives an error message receives. Otherwise all data would have to be entered again 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ group 
+ Analysis 
+ 
+ 
+ name 
+ Google Analytics 
+ 
+ 
+ technical name 
+ ga-wieland-karriere 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Anonymous evaluation of user behaviour with subsequent improvement of the website. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ 
+ __essential 
+ __Analysis 
+ Save all 
+ Save 
+ info hide  info 
+  Imprint   |    Data Protection  
+   
+ Search 
+ Skip navigation 
+ 
+ 
+ Job Vacancies 
+ 
+ Jobs 
+ Application Process 
+ Application Tips 
+ Contact 
+ 
+ 
+ 
+ Why Wieland? 
+ 
+ Discover Wieland 
+ We unleash potential 
+ International opportunities 
+ Locations in Germany 
+ Enjoy the benefits 
+ 
+ 
+ 
+ Entry Options 
+ 
+ Engineers 
+ Material Scientists 
+ IT Experts 
+ Production Specialists 
+ Commercial Specialists 
+ Students 
+ High School Students 
+ 
+ 
+ 
+ Success Stories 
+ 
+ Overview 
+ Uwe – Production 
+ Noah – Training 
+ Felix – Project Engineering 
+ Franziska – Dual Course of Study 
+ Andy – IT 
+ Anke – Customer Service 
+ Andrea – R&D;, Innovation 
+ Richard – Surface Technician 
+ Rilana – Purchasing & Sales 
+ Fabian – Construction 
+ 
+ 
+ 
+ News 
+ 
+ News & Press 
+ Events 
+ 
+ 
+ 
+ wieland.com 
+ 
+ 
+ EN 
+ 
+ 
+ DE 
+ 
+ 
+ Application process 
+ Getting to know each other quickly and easily 
+ We have created a very streamlined application process. We ask for your patience if it takes longer in individual cases. You will definitely hear back from us. 
+ Your application process 
+Depending on the position and department, the application process may vary and basically consists of the following steps: 
+ **Frequently asked questions 
+** Our  contact partners  will be happy to answer questions you have about your application or the desired position. 
+ FAQ for applicants with work experience 
+ Can I apply for several positions at the same time? 
+Yes, simply apply for the positions that interest you. The application form is largely filled in automatically via the "Upload CV / Resume" button. 
+ What do I do if I cannot find a suitable position? 
+You can always send us an  unsolicited application . Please indicate your field of interest. We will coordinate with the respective department on whether we can offer you the desired position. 
+ How long before the hiring date should I apply? 
+You should apply as soon as you have identified a position you find interesting. Any position we post can be filled immediately. We will take your notice periods into consideration. 
+ Do you also conduct phone interviews? 
+We will conduct phone interviews in the event that, e.g., meeting in person is not possible. 
+ FAQ for entry level applicants 
+ Can I apply for several positions at the same time? 
+Yes, simply apply for the positions that interest you. The application form is largely filled in automatically via the "Upload CV / Resume" button. 
+ What do I do if I cannot find a suitable position? 
+You can always send us an  unsolicited application . Please indicate your field of interest. We will coordinate with the respective department on whether we can offer you the desired position. 
+ How long before the hiring date should I apply? 
+As an entry level applicant, you should apply three or four months before your desired start date. 
+ Do you also conduct phone interviews? 
+We will conduct phone interviews in the event that, e.g., meeting in person is not possible. 
+ FAQ for university students 
+ When can I find opportunities for internships and topics for my final thesis in the job portal? 
+Internships are available at any time throughout the year. For the Winter semester, we publish available opportunities starting in March, and for the Summer semester starting in September. 
+ Topics for final theses are rarely posted. But we are always on the lookout for talent and unsolicited applications are welcome. Please indicate in your cover letter which departments you are interested in (e.g. Quality Management, IT). We will then check with the department as to whether you can write your thesis with us. 
+ Can I apply for several positions at the same time? 
+Yes, simply apply for the positions that interest you. The application form is largely filled in automatically via the "Upload CV / Resume" button. 
+ What should I do if I cannot find a suitable internship or opportunity to write a final thesis? 
+You can always send us your  unsolicited application . Please indicate in your cover letter which departments you are interested in (e.g. Manufacturing/Production, Finance). We will coordinate with the respective department as to whether we can offer you the desired internship or topic for your final thesis. 
+ How long before the desired start date should I apply? 
+Approximately five months before; and we also welcome your application as soon as our openings are posted online. 
+ Which documents do I need for an online application? 
+University students must send us their application documents, a current grade overview and a matriculation certificate. 
+ FAQs for holiday workers 
+ What are the chances of finding a holiday job? 
+We regularly offer jobs during holidays. Particularly during the summer months is when our teams would welcome your support. 
+ How do I apply for a holiday job? 
+Just send us your  unsolicited application , stating your possible period of employment. We do not explicitly post holiday jobs. 
+ When can I expect confirmation for a holiday job? 
+There is no specific time for offer or rejection letters to be sent out. Holiday jobs are awarded on short notice depending on demand. During the summer months, this may happen from one day to the next. 
+ FAQs for trainees and dual students 
+ What should I do if I am interested in two different apprenticeships? 
+If you are interested in two training tracks or degree programs for dual studies, we recommend indicating your second choice in the online form. 
+ How long before the desired hiring date should I apply? 
+Offers for training track or dual studies at Wieland are published in the spring of the previous year, e.g. training track/study begins in 2021 in spring 2020. It is advisable to apply as early as possible. 
+ Which documents do I need for my online application? 
+Please upload your most recent three report cards to the online form. 
+ Declaration of consent of the legal guardian: 
+If you are under 16 years of age, we need the consent of your legal guardian to consider your application. Please submit the declaration directly with your application using the online form. 
+ Skip navigation 
+ 
+ 
+ Job Vacancies 
+ 
+ Jobs 
+ Application Process 
+ Application Tips 
+ Contact 
+ 
+ 
+ 
+ Why Wieland? 
+ 
+ Discover Wieland 
+ We unleash potential 
+ International opportunities 
+ Locations in Germany 
+ Enjoy the benefits 
+ 
+ 
+ 
+ Entry Options 
+ 
+ Engineers 
+ Material Scientists 
+ IT Experts 
+ Production Specialists 
+ Commercial Specialists 
+ Students 
+ High School Students 
+ 
+ 
+ 
+ Success Stories 
+ 
+ Overview 
+ Uwe – Production 
+ Noah – Training 
+ Felix – Project Engineering 
+ Franziska – Dual Course of Study 
+ Andy – IT 
+ Anke – Customer Service 
+ Andrea – R&D;, Innovation 
+ Richard – Surface Technician 
+ Rilana – Purchasing & Sales 
+ Fabian – Construction 
+ 
+ 
+ 
+ News 
+ 
+ News & Press 
+ Events 
+ 
+ 
+ 
+ wieland.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data protection 
+ 
+ 
+ Imprint 
+ 
+ 
+ Sitemap 
+ 
+ 
+ 
+ 
+ 

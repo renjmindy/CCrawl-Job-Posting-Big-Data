@@ -1,0 +1,196 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Data Scientist 
+ [ 
+ Arena 
+ ](/companies/arena) 
+ New York, NY, US 
+ 09 July, 2020 
+ Apply 
+ More jobs from Arena About Arena 
+ Salary 
+ $100K - 175K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ SQL 
+ Data 
+ Numpy 
+ Python 
+ R 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Health insurance 
+ 401(k) 
+ 401k 
+ Equity 
+ Gym membership 
+ Health care 
+ 
+ Using data and predictive analytics to transform health care organizations. 
+ Role overview 
+ We are a small, early stage, high growth company focused on using data science to transform the way people are hired. We seek an inventive, collaborative, methodologically-grounded, experienced, socially-minded data scientist to join our team. Reporting to the Vice President of Data Science, this individual will lead the exploration of applicant and employee data streams that Arena collects and pioneer new development of machine learning and AI methods suited for that data. He/she will also work closely with Arena’s Engineering and Product teams to ensure the successful implementation and refinement of such methods. 
+ **  Mission and culture ** 
+ At Arena our mission is simple: use data to transform the workforce such that people and organizations thrive. If you ask anyone at Arena about our company culture the first word you’ll probably hear is collaborative. While it’s true the people here are all intelligent, hardworking, and capable, we are also people who are open to criticism and check our egos at the door. We are charting new territory, and empathy and humility are critically important to our journey. 
+ This is just the beginning of a revolution in how employers use data to make better HR decisions and how individuals are able to find fulfilling work beyond the bounds of bias. 
+ We enjoy substantial funding and are building out our team as we gain market share. 
+ **  What We Believe In: ** 
+ 
+ Empathy with one another and our users. Inclusiveness, communication and collaboration are core tenets of how we work. 
+ Contribution to the open source community. We are built on open source technologies and we give back. 💻 
+ Small feedback loops are critical to developing product and technology. 
+ Ownership gives individuals the agency to grow and aligns outcomes. 📈 
+ 
+ **  Responsibilities: ** 
+ 
+ Develop innovative solutions to business, product or technical requests using appropriate Data Science techniques. 🧠 
+ Prototype solutions using appropriate machine learning or statistical models and techniques; assist the engineering team in implementing such solutions 📊 
+ Review existing processes, approaches, and models related to data science; propose and initiate solutions and/or improvements 
+ Disseminate knowledge and techniques; solidify best practices by contributing to internal tools or libraries; mentor junior data scientists 🤯 
+ Contribute code and documentation to the company code/knowledge base 
+ 
+ **  Requirements: ** 
+ 
+ 3+ years practical experience in industry product as a  Data Scientist in a production environment 
+ Excellent  Python  ( numpy ,  pandas ,  scikit-learn , etc.) or  R  programming skills, familiar with open source libraries and tools for data science 
+ Track record of speedily and rigorously developing and deploying machine learning models to resolve industry problems 
+ Strong  SQL  skills 
+ Superior communication and data visualization skills 
+ Experience working in an agile development environment 
+ 
+ **  Bonus Skills: ** 
+ 
+ Master’s or PhD in a quantitative field (such as computer science, statistics, a quantitative social, biological, or physical science) is preferred but not required 
+ Experience with Natural Language Processing, deep learning, experimental design and A/B testing, recommended systems or other deployed data products 
+ Experience working in software development 
+ Experience with sophisticated statistical or econometrical models. 
+ 
+ **  Perks: ** 
+ 
+ The mission, the people and the work. 🚀 
+ The mission: work on a project that is making the world a better place. 🌎 
+ The people: work for a high growth company, and learn in an environment where people care about growth and work/life balance. 
+ The work: pragmatically use amazing technology. 
+ Competitive salary, benefits and equity. 
+ 
+ 
+ [ 
+ Arena 
+ ](/companies/arena) 
+ 
+ 50-249 
+ 
+ At Arena we’re using data and predictive analytics to transform health care organizations. We are a small, early stage, high growth company focused on using data science to transform the way people are hired. 
+ Python Technology Early Stage Venture SQL Numpy R 401(K) 401K 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Arena About Arena 
+ Salary 
+ $100K - 175K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ SQL 
+ Data 
+ Numpy 
+ Python 
+ R 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Health insurance 
+ 401(k) 
+ 401k 
+ Equity 
+ Gym membership 
+ Health care 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Software Engineer - BackendCompetitiveHyperscienceUnited States of America 
+ We're looking to grow our Engineering Team with the addition of a Senior Backend Engineer. 
+ RemoteSponsorship 
+ sql api computer science django nosql object-oriented programming python 
+ More Info Apply 
+ Senior Data ScientistCompetitiveMission LaneRichmond, VA, US 
+ leverage data as an asset- building models, performing statistical analyses,& creating data-centric solutions 
+ python 
+ More Info Apply 
+ Software Developer (Backend)CompetitiveProgrammaiLondon, United Kingdom 
+ We are looking for a full-time software developer to help us build a world-class web platform. 
+ sql c++ elixir python ruby 
+ More Info Apply 
+ Senior Data Scientist 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

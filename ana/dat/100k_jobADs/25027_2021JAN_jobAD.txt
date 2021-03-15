@@ -1,0 +1,1127 @@
+Blog Log in 
+ Translate WordPress.com 
+ 
+ Projects 
+ WordPress.com 
+ Calypso Extensions 
+ WP Job Manager  Active 
+ 
+ WP Job Manager 
+ Translations 
+ 
+ 
+ 
+ Locale 
+ % 
+ Translated 
+ Fuzzy 
+ Untranslated 
+ Waiting 
+ Extra 
+ 
+ 
+ 
+ 
+ Romanian  100% 
+ 100% 
+ 98 
+ 0 
+ 0 
+ 0 
+ 
+ 
+ 
+ Albanian  100% 
+ 100% 
+ 98 
+ 0 
+ 0 
+ 0 
+ 
+ 
+ 
+ Lithuanian 
+ 26% 
+ 26 
+ 0 
+ 72 
+ 0 
+ 
+ 
+ 
+ Swedish 
+ 26% 
+ 26 
+ 0 
+ 72 
+ 0 
+ 
+ 
+ 
+ Japanese 
+ 19% 
+ 19 
+ 0 
+ 79 
+ 0 
+ 
+ 
+ 
+ Persian 
+ 19% 
+ 19 
+ 0 
+ 79 
+ 0 
+ 
+ 
+ 
+ French (Switzerland) 
+ 18% 
+ 18 
+ 0 
+ 80 
+ 0 
+ 
+ 
+ 
+ French (Canada) 
+ 18% 
+ 18 
+ 0 
+ 80 
+ 0 
+ 
+ 
+ 
+ French (France) 
+ 18% 
+ 18 
+ 0 
+ 80 
+ 0 
+ 
+ 
+ 
+ French (Belgium) 
+ 18% 
+ 18 
+ 0 
+ 80 
+ 0 
+ 
+ 
+ 
+ Hebrew 
+ 18% 
+ 18 
+ 0 
+ 80 
+ 0 
+ 
+ 
+ 
+ Chinese (Hong Kong) 
+ 18% 
+ 18 
+ 0 
+ 80 
+ 0 
+ 
+ 
+ 
+ Spanish (Mexico) 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Italian 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ German -> German (Formal) 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Indonesian 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Arabic 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Spanish (Chile) 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ German 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Spanish (Spain) 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Chinese (Taiwan) 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Russian 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Norwegian 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Korean 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Dutch 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Turkish 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Portuguese (Brazil) 
+ 17% 
+ 17 
+ 0 
+ 81 
+ 0 
+ 
+ 
+ 
+ Chinese (China) 
+ 16% 
+ 16 
+ 0 
+ 82 
+ 0 
+ 
+ 
+ 
+ Hungarian 
+ 16% 
+ 16 
+ 0 
+ 82 
+ 0 
+ 
+ 
+ 
+ Galician 
+ 15% 
+ 15 
+ 0 
+ 83 
+ 0 
+ 
+ 
+ 
+ Icelandic 
+ 15% 
+ 15 
+ 0 
+ 83 
+ 0 
+ 
+ 
+ 
+ Polish 
+ 15% 
+ 15 
+ 0 
+ 83 
+ 0 
+ 
+ 
+ 
+ Ukrainian 
+ 15% 
+ 15 
+ 0 
+ 83 
+ 0 
+ 
+ 
+ 
+ Greek 
+ 14% 
+ 14 
+ 0 
+ 84 
+ 0 
+ 
+ 
+ 
+ Catalan 
+ 14% 
+ 14 
+ 0 
+ 84 
+ 0 
+ 
+ 
+ 
+ Bulgarian 
+ 14% 
+ 14 
+ 0 
+ 84 
+ 0 
+ 
+ 
+ 
+ English (UK) 
+ 14% 
+ 14 
+ 0 
+ 84 
+ 0 
+ 
+ 
+ 
+ Azerbaijani 
+ 13% 
+ 13 
+ 0 
+ 85 
+ 0 
+ 
+ 
+ 
+ Bosnian 
+ 13% 
+ 13 
+ 0 
+ 85 
+ 0 
+ 
+ 
+ 
+ Czech 
+ 13% 
+ 13 
+ 0 
+ 85 
+ 0 
+ 
+ 
+ 
+ Telugu 
+ 13% 
+ 13 
+ 0 
+ 85 
+ 0 
+ 
+ 
+ 
+ Greek (Polytonic) 
+ 13% 
+ 13 
+ 0 
+ 85 
+ 0 
+ 
+ 
+ 
+ Kabyle 
+ 13% 
+ 13 
+ 0 
+ 85 
+ 0 
+ 
+ 
+ 
+ Croatian 
+ 13% 
+ 13 
+ 0 
+ 85 
+ 0 
+ 
+ 
+ 
+ Slovak 
+ 13% 
+ 13 
+ 0 
+ 85 
+ 0 
+ 
+ 
+ 
+ Esperanto 
+ 13% 
+ 13 
+ 0 
+ 85 
+ 0 
+ 
+ 
+ 
+ Finnish 
+ 13% 
+ 13 
+ 0 
+ 85 
+ 0 
+ 
+ 
+ 
+ Portuguese (Portugal) 
+ 13% 
+ 13 
+ 0 
+ 85 
+ 0 
+ 
+ 
+ 
+ Danish 
+ 12% 
+ 12 
+ 0 
+ 86 
+ 0 
+ 
+ 
+ 
+ Kurdish (Sorani) 
+ 11% 
+ 11 
+ 0 
+ 87 
+ 0 
+ 
+ 
+ 
+ Punjabi 
+ 11% 
+ 11 
+ 0 
+ 87 
+ 0 
+ 
+ 
+ 
+ Estonian 
+ 11% 
+ 11 
+ 0 
+ 87 
+ 0 
+ 
+ 
+ 
+ Thai 
+ 11% 
+ 11 
+ 0 
+ 87 
+ 0 
+ 
+ 
+ 
+ Serbian 
+ 11% 
+ 11 
+ 0 
+ 87 
+ 0 
+ 
+ 
+ 
+ Latvian 
+ 11% 
+ 11 
+ 0 
+ 87 
+ 0 
+ 
+ 
+ 
+ Welsh 
+ 11% 
+ 11 
+ 0 
+ 87 
+ 0 
+ 
+ 
+ 
+ Norwegian (Nynorsk) 
+ 11% 
+ 11 
+ 0 
+ 87 
+ 0 
+ 
+ 
+ 
+ Urdu 
+ 11% 
+ 11 
+ 0 
+ 87 
+ 0 
+ 
+ 
+ 
+ Chuvash 
+ 10% 
+ 10 
+ 0 
+ 88 
+ 0 
+ 
+ 
+ 
+ Malay 
+ 10% 
+ 10 
+ 0 
+ 88 
+ 0 
+ 
+ 
+ 
+ Scottish Gaelic 
+ 10% 
+ 10 
+ 0 
+ 88 
+ 0 
+ 
+ 
+ 
+ Slovenian 
+ 10% 
+ 10 
+ 0 
+ 88 
+ 0 
+ 
+ 
+ 
+ Occitan 
+ 10% 
+ 10 
+ 0 
+ 88 
+ 0 
+ 
+ 
+ 
+ Macedonian 
+ 10% 
+ 10 
+ 0 
+ 88 
+ 0 
+ 
+ 
+ 
+ Irish 
+ 10% 
+ 10 
+ 0 
+ 88 
+ 0 
+ 
+ 
+ 
+ Uighur 
+ 9% 
+ 9 
+ 0 
+ 89 
+ 0 
+ 
+ 
+ 
+ Georgian 
+ 9% 
+ 9 
+ 0 
+ 89 
+ 0 
+ 
+ 
+ 
+ Basque 
+ 9% 
+ 9 
+ 0 
+ 89 
+ 0 
+ 
+ 
+ 
+ Khmer 
+ 9% 
+ 9 
+ 0 
+ 89 
+ 0 
+ 
+ 
+ 
+ Tamil 
+ 9% 
+ 9 
+ 0 
+ 89 
+ 0 
+ 
+ 
+ 
+ Uzbek 
+ 9% 
+ 9 
+ 0 
+ 89 
+ 0 
+ 
+ 
+ 
+ Vietnamese 
+ 9% 
+ 9 
+ 0 
+ 89 
+ 0 
+ 
+ 
+ 
+ Bengali 
+ 9% 
+ 9 
+ 0 
+ 89 
+ 0 
+ 
+ 
+ 
+ Tagalog 
+ 9% 
+ 9 
+ 0 
+ 89 
+ 0 
+ 
+ 
+ 
+ Nepali 
+ 8% 
+ 8 
+ 0 
+ 90 
+ 0 
+ 
+ 
+ 
+ Gujarati 
+ 8% 
+ 8 
+ 0 
+ 90 
+ 0 
+ 
+ 
+ 
+ Myanmar (Burmese) 
+ 8% 
+ 8 
+ 0 
+ 90 
+ 0 
+ 
+ 
+ 
+ Mongolian 
+ 8% 
+ 8 
+ 0 
+ 90 
+ 0 
+ 
+ 
+ 
+ Spanish (Puerto Rico) 
+ 8% 
+ 8 
+ 0 
+ 90 
+ 0 
+ 
+ 
+ 
+ Sundanese 
+ 8% 
+ 8 
+ 0 
+ 90 
+ 0 
+ 
+ 
+ 
+ Malayalam 
+ 8% 
+ 8 
+ 0 
+ 90 
+ 0 
+ 
+ 
+ 
+ Asturian 
+ 8% 
+ 8 
+ 0 
+ 90 
+ 0 
+ 
+ 
+ 
+ Assamese 
+ 8% 
+ 8 
+ 0 
+ 90 
+ 0 
+ 
+ 
+ 
+ Sindhi 
+ 7% 
+ 7 
+ 0 
+ 91 
+ 0 
+ 
+ 
+ 
+ Tibetan 
+ 7% 
+ 7 
+ 0 
+ 91 
+ 0 
+ 
+ 
+ 
+ Swahili 
+ 7% 
+ 7 
+ 0 
+ 91 
+ 0 
+ 
+ 
+ 
+ Afrikaans 
+ 7% 
+ 7 
+ 0 
+ 91 
+ 0 
+ 
+ 
+ 
+ Kyrgyz 
+ 7% 
+ 7 
+ 0 
+ 91 
+ 0 
+ 
+ 
+ 
+ Marathi 
+ 7% 
+ 7 
+ 0 
+ 91 
+ 0 
+ 
+ 
+ 
+ Hindi 
+ 7% 
+ 7 
+ 0 
+ 91 
+ 0 
+ 
+ 
+ 
+ Sinhala 
+ 7% 
+ 7 
+ 0 
+ 91 
+ 0 
+ 
+ 
+ 
+ Armenian 
+ 6% 
+ 6 
+ 0 
+ 92 
+ 0 
+ 
+ 
+ 
+ Belarusian 
+ 6% 
+ 6 
+ 0 
+ 92 
+ 0 
+ 
+ 
+ 
+ Montenegrin 
+ 6% 
+ 6 
+ 0 
+ 92 
+ 0 
+ 
+ 
+ 
+ Kazakh 
+ 6% 
+ 6 
+ 0 
+ 92 
+ 0 
+ 
+ 
+ 
+ Mari (Meadow) 
+ 6% 
+ 6 
+ 0 
+ 92 
+ 0 
+ 
+ 
+ 
+ Kurdish (Kurmanji) 
+ 6% 
+ 6 
+ 0 
+ 92 
+ 0 
+ 
+ 
+ 
+ Lao 
+ 6% 
+ 6 
+ 0 
+ 92 
+ 0 
+ 
+ 
+ 
+ Mirandese 
+ 6% 
+ 6 
+ 0 
+ 92 
+ 0 
+ 
+ 
+ 
+ Chinese 
+ 6% 
+ 6 
+ 0 
+ 92 
+ 0 
+ 
+ 
+ 
+ Pashto 
+ 6% 
+ 6 
+ 0 
+ 92 
+ 0 
+ 
+ 
+ 
+ Aragonese 
+ 5% 
+ 5 
+ 0 
+ 93 
+ 0 
+ 
+ 
+ 
+ Breton 
+ 5% 
+ 5 
+ 0 
+ 93 
+ 0 
+ 
+ 
+ 
+ Faroese 
+ 5% 
+ 5 
+ 0 
+ 93 
+ 0 
+ 
+ 
+ 
+ Catalan (Balear) 
+ 5% 
+ 5 
+ 0 
+ 93 
+ 0 
+ 
+ 
+ 
+ Somali 
+ 5% 
+ 5 
+ 0 
+ 93 
+ 0 
+ 
+ 
+ 
+ Kannada 
+ 5% 
+ 5 
+ 0 
+ 93 
+ 0 
+ 
+ 
+ 
+ Amharic 
+ 4% 
+ 4 
+ 0 
+ 94 
+ 0 
+ 
+ 
+ 
+ Sakha 
+ 4% 
+ 4 
+ 0 
+ 94 
+ 0 
+ 
+ 
+ 
+ Dhivehi 
+ 1% 
+ 1 
+ 0 
+ 97 
+ 0 
+ 
+ 
+ 
+ Aromanian 
+ 1% 
+ 1 
+ 0 
+ 97 
+ 0 
+ 
+ 
+ 
+ Yiddish 
+ 0% 
+ 0 
+ 0 
+ 98 
+ 0 
+ 
+ 
+ 
+ Klingon 
+ 0% 
+ 0 
+ 0 
+ 98 
+ 0 
+ 
+ 
+ 
+ Tigrinya 
+ 0% 
+ 0 
+ 0 
+ 98 
+ 0 
+ 
+ 
+ 
+ Rusyn 
+ 0% 
+ 0 
+ 0 
+ 98 
+ 0 
+ 
+ 
+ 
+ Oromo 
+ 0% 
+ 0 
+ 0 
+ 98 
+ 0 
+ 
+ 
+ 
+ Mari (Hill) 
+ 0% 
+ 0 
+ 0 
+ 98 
+ 0 
+ 
+ 
+ 
+ Javanese -> Javanese 
+ 0% 
+ 0 
+ 0 
+ 98 
+ 0 
+ 
+ 
+ 
+ Chinese (Singapore) 
+ 0% 
+ 0 
+ 0 
+ 98 
+ 0 
+ 
+ 
+ 
+ Yoruba 
+ 0% 
+ 0 
+ 0 
+ 98 
+ 0 
+ 
+ 
+ 
+ 
+ Get Started 
+ 
+ Getting Started 
+ Community Translator Tool 
+ FAQ 
+ What is GlotPress? 
+ 
+ Learn 
+ 
+ Translation Resources 
+ Translation Style Guide 
+ Locale Glossaries and Style Guides 
+ How Theme Translations Work 
+ 
+ Collaborate 
+ 
+ Community Resources 
+ Working with Other Translators 
+ Build a Locale Glossary & Style Guide 
+ 
+ In your language 
+ Translate  WordPress.com .  Proudly powered by  GlotPress . 

@@ -1,0 +1,141 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ Rust Jobs 
+ Browse jobs for software engineers and developers 
+ 
+ Show filters 
+ We found 15 jobs matching 'Rust Jobs' 
+ Functional Software Developer£50K - 75K + EquityMoixaLondon, United Kingdom 
+ Distributed smart energy technology. 
+ haskell rust linux aws functional programming typescript aws lambda 
+ More Info Apply 
+ Blockchain Application Security Engineer (Smart Contract Auditor)CompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts - 
+ Remote 
+ rust python c++ go blockchain security cybersecurity 
+ More Info Apply 
+ Blockchain Engineer (Rust) for a cryptocurrency startup$75K - 110K + EquityChorus OneSwitzerland 
+ Build infrastructure for the Internet of Blockchain 
+ Remote 
+ rust blockchain 
+ More Info Apply 
+ Platforms Engineer for a Cryptocurrency startup$75K - 110K + EquityChorus OneSwitzerland 
+ Build infrastructure for the Internet of Blockchains 
+ Remote 
+ rust ansible golang kubernetes 
+ More Info Apply 
+ Backend Engineer $100K - 170KGauntletUnited States of America 
+ Work with us here at Gauntlet to drive adoption in the financial systems of the future. 
+ Remote 
+ rust python c++ go 
+ More Info Apply 
+ Senior Rust EngineerCompetitiveMetastateSwitzerland 
+ Blockchains do not scale to a global user-base of seven billion people. 
+ Remote 
+ rust 
+ More Info Apply 
+ Distributed Systems Research EngineerCompetitiveMetastateSwitzerland 
+ Blockchains do not scale to a global user-base of seven billion people. 
+ Remote 
+ rust distributed systems consensus rustlang 
+ More Info Apply 
+ Zero-Knowledge Cryptographer & Protocol DeveloperCompetitiveMetastateSwitzerland 
+ Apply the latest zero-knowledge cryptographic protocols to concrete problems in the blockchain space. 
+ Remote 
+ haskell ocaml rust agda cryptography idris mathematics coq applied cryptography discrete mathematics zero-knowledge proofs 
+ More Info Apply 
+ Applied Cryptography Engineer$120K - 160K + EquityLayer1 Technologies San Francisco, CA, US 
+ Applied Cryptography Engineer at Layer1 
+ rust 
+ More Info Apply 
+ Join our newsletter 
+ Join over 111,000 others and get access to exclusive content, job opportunities and more! 
+ your email address 
+ Subscribe 
+ Thanks for signing up. 
+We'll see you soon 👋 
+ Rust and Haskell Software DeveloperCompetitiveSerokellEstonia 
+ Contribute to the performance-critical subsystems of our customers’ systems. 
+ Remote 
+ haskell rust http 
+ More Info Apply 
+ Product EngineerCompetitiveTellerLondon, United Kingdom 
+ Elixir, Erlang or other functional programming language 
+ erlang elixir rust python ruby 
+ More Info Apply 
+ Blockchain Engineer, IntegrationsCompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts (Rust/Go) - 
+ RemoteSponsorship 
+ rust javascript go blockchain solidity 
+ More Info Apply 
+ Senior Software EngineerCompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts - 
+ RemoteSponsorship 
+ rust docker go blockchain ethereum solidity typescript 
+ More Info Apply 
+ Senior Engineer ~ Java/C++CompetitiveEvolved BinaryUnited Kingdom 
+ NoSQL database engineer, building a multi-model db - Documents, Key-Value, and Triples. 
+ Remote 
+ scala rust java c++ typescript 
+ More Info Apply 
+ Haskell DeveloperCompetitiveTypeableRussian Federation 
+ Join us to be a contributor in a technology innovation movement and be on the frontier where Business meets FP 
+ Remote 
+ haskell rust 
+ More Info Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

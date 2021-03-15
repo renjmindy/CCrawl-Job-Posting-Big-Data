@@ -1,0 +1,264 @@
+
+ [ ](kontakt/bewerbung.html) 
+ 
+ 
+ +49 57 31 8 60 01-0 
+ 
+ _ 
+ 
+ Search 
+ _ 
+ wrapsolut 
+ 
+ 
+ Home 
+ 
+ 
+ Applications 
+ 
+ Coil 
+ Sheet formats 
+ Wheels and tyres 
+ Bundled coils 
+ Stack packaging 
+ Large packages 
+ Long goods 
+ Cardboard boxes 
+ Furniture 
+ Pallets 
+ Tray packages 
+ Rolled goods 
+ 
+ 
+ 
+ Technology 
+ 
+ CircleLine 
+ FlexLine 
+ Special machines 
+ 
+ 
+ 
+ Company 
+ 
+ 
+ Service 
+ 
+ Service 
+ Maintenance contracts / Maintenance intervales 
+ Certified electrical testings 
+ Machinery rental 
+ Trainings 
+ 
+ 
+ 
+ Download 
+ 
+ 
+ News & Fairs 
+ 
+ 
+ Contact 
+ 
+ Contact / Inquiry 
+ Partners 
+ Jobs 
+ 
+ 
+ 
+ Bewerbungen 
+ Application 
+ Have we aroused your interest in our company? Can you imagine joining our team in the future? 
+ Then we would look forward if you would send us your application on the following email: 
+ 
+ ►    bewerbung@faeco.de 
+ __ 
+ Affected Information 
+ * [download](fileadmin/user_upload/Stellenprofil_Mechatroniker_Servicetechniker.pdf)
+ 
+ __Stellenprofil_Mechatroniker_Servicetechniker.pdf 
+ We would like to draw your attention to our patient information for affected: 
+ __ 
+ Affected Information 
+ * [download](fileadmin/user_upload/Betroffeneninformation_Bewerber.pdf)
+ 
+ __Betroffeneninformation_Bewerber.pdf 
+ Do you have questions or need more information? 
+ Our employees will be glad to help you any time: 
++49 5731 860 01-0 
+ write us 
+ Contact 
+ wrapsolut 
+Fährenkämper GmbH & Co. KG 
+Kampstraße 35 
+D-32584 Löhne 
+ Fon: +49 (0) 57 31 / 8 60 01-0 
+Fax: +49 (0) 57 31 / 8 60 01-11 
+ info@faeco.de 
+www.wrapsolut.de 
+ Navigation 
+ * [Home](en/home.html "Home")
+* [Applications](en/applications/coil.html "Applications")
+* [Technology](en/technology/circleline.html "Technology")
+* [Company](en/company.html "Company")
+* [Service](en/service.html "Service")
+* [Download](en/download.html "Download")
+* [Contact / Inquiry](en/contact/contact-inquiry.html "Contact / Inquiry")
+* [News & Fairs](en/news-fairs.html "News & Fairs")
+
+* [Imprint](en/imprint.html "Imprint")
+* [Privacy Policy](en/datenschutzerklaerung.html "Privacy Policy")
+* [Cookie Notice](en/cookie-notice.html "Cookie Notice")
+ 
+ Cookie Settings 
+ CLOSE 
+ We are using cookies. 
+ We use cookies on our website. Some are necessary (waconcookiemanagement,TYPO3), while others help us to improve this website and your experience (Google Analytics, Google DoubleClick) 
+ I accept all Cookies 
+ Individual Cookie Settings 
+ Only accept required cookies. 
+ Privacy Notes Imprint 
+ CLOSE 
+ Privacy settings 
+ Here is an overview of all cookies use 
+ Required Cookies 
+ These cookies are needed to let the basic page functionallity work correctly. 
+ Show Cookie Informationen 
+ Hide Cookie Information 
+ fe_typo_user 
+ TYPO3 Frontend Session Cookie 
+ 
+ 
+ 
+ Provider: 
+ TYPO3 
+ 
+ 
+ 
+ 
+ Cookiename: 
+ fe_typo_user 
+ 
+ 
+ Runtime: 
+ Will be removed when the browser is closed 
+ 
+ 
+ 
+ waconcookiemanagement 
+ Saves the settings of the visitors selected in the cookie box. 
+ 
+ 
+ 
+ Provider: 
+ waconcookiemanagement 
+ 
+ 
+ 
+ 
+ Cookiename: 
+ waconcookiemanagement 
+ 
+ 
+ Runtime: 
+ 1 Year 
+ 
+ 
+ 
+ Cookies for Statistics 
+ Statistic cookies anonymize your data and use it. These information will help us to learn, how the users are using our website. 
+ Show Cookie Informationen 
+ Hide Cookie Information 
+ Google Analytics 
+ This cookie is installed by Google Analytics. The cookie is used to calculate visitor, session, camapign data and keep track of site usage for the site's analytics report. The cookies store information anonymously and assigns a randoly generated number to identify unique visitors. 
+ 
+ 
+ 
+ Provider: 
+ Google LLC 
+ 
+ 
+ 
+ 
+ Cookiename: 
+ _ga,_gat,_gid 
+ 
+ 
+ Runtime: 
+ 2 Years 
+ 
+ 
+ Privacy source url: 
+ https://policies.google.com/privacy 
+ 
+ 
+ 
+ Cookies for Marketing 
+ Marketing cookies from thrid parties will be used to show personal advertisment. They use them to track users outside of their own web page. 
+ Show Cookie Informationen 
+ 1P_JAR, ANID, CONSENT, DV, IDE, NID 
+ Contains a randomly generated user ID. Using this ID, Google can recognize the user across different websites across domains and play personalized ads. 
+ 
+ 
+ 
+ Provider: 
+ DoubleClick 
+ 
+ 
+ 
+ 
+ Cookiename: 
+ 1P_JAR, ANID, CONSENT, DV, IDE, NID 
+ 
+ 
+ Runtime: 
+ max 2 Years 
+ 
+ 
+ Privacy source url: 
+ https://policies.google.com/technologies/types?hl=en 
+ 
+ 
+ Host: 
+ doubleclick.net / google.com 
+ 
+ 
+ 
+ Save 
+ BackOnly accept required cookies. 
+ Privacy Notes Imprint 
+ © wrapsolut - Fährenkämper GmbH & Co. KG 
+ × 
+ * [Home](en/home.html "Home")
+* [Applications](en/applications/coil.html)
+  * [Coil](en/applications/coil.html "Coil")
+  * [Sheet formats](en/applications/sheet-formats.html "Sheet formats")
+  * [Wheels and tyres](en/applications/wheels-and-tyres.html "Wheels and tyres")
+  * [Bundled coils](en/applications/bundled-coils.html "Bundled coils")
+  * [Stack packaging](en/applications/stack-packaging.html "Stack packaging")
+  * [Large packages](en/applications/large-packages.html "Large packages")
+  * [Long goods](en/applications/long-goods.html "Long goods")
+  * [Cardboard boxes](en/applications/cardboard-boxes.html "Cardboard boxes")
+  * [Furniture](en/applications/furniture.html "Furniture")
+  * [Pallets](en/applications/pallets.html "Pallets")
+  * [Tray packages](en/applications/tray-packages.html "Tray packages")
+  * [Rolled goods](en/applications/rolled-goods.html "Rolled goods")
+* [Technology](en/technology/circleline.html)
+  * [CircleLine](en/technology/circleline.html "CircleLine")
+  * [FlexLine](en/technology/flexline.html "FlexLine")
+  * [Special machines](en/technology/special-machines.html "Special machines")
+* [Company](en/company.html "Company")
+* [Service](en/service.html)
+  * [Service](https://www.wrapsolut.de/en/service.html "Service")
+  * [Maintenance contracts / Maintenance intervales](https://www.wrapsolut.de/en/service.html#c3587 "Maintenance contracts / Maintenance intervales")
+  * [Certified electrical testings](https://www.wrapsolut.de/en/service.html#c3590 "Certified electrical testings")
+  * [Machinery rental](https://www.wrapsolut.de/en/service.html#c3592 "Machinery rental")
+  * [Trainings](https://www.wrapsolut.de/en/service.html#c3594 "Trainings")
+* [Download](en/download.html "Download")
+* [News & Fairs](en/news-fairs.html "News & Fairs")
+* [Contact](en/contact/contact-inquiry.html)
+  * [Contact / Inquiry](en/contact/contact-inquiry.html "Contact / Inquiry")
+  * [Partners](en/contact/partners.html "Partners")
+  * [Jobs](en/contact/jobs.html "Jobs")
+ 
+ __ 

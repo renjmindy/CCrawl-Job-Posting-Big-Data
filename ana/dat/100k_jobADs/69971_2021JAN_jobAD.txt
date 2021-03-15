@@ -1,0 +1,171 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Mobile App Developer (Flutter) 
+ at GoodWith 
+ go back to Developer Jobs 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤30000 - ₤35000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤30000 - ₤35000 per year 
+ 
+ 
+ apply now 
+ 
+ Lead Mobile Application Developer (Flutter) 
+ **  £30-35,000 plus equity in the business ** 
+ **  Cornwall / Remote UK (only) ** 
+ Good With  is recruiting for a Lead Mobile Application Developer who will work at the heart of a dynamic, multidisciplinary and agile team. Your role, as one of the founding members, will be to develop an engaging, voice-enabled intelligent app for Android and iOS smartphones and tablets. 
+ Good With has chosen Flutter as the framework choice for beautifully crafted, fluid, high-performance cross-platform mobile application development. 
+ Who are Good With? 
+ Good With is an exciting fintech/edtech startup with a mission to develop engaging mobile applications to educate young adults on personal finance. Using cutting edge voice technology and sophisticated real-time algorithms Good With’s applications will help our 18-24 users make savvy financial decisions and develop a robust credit score. 
+ Our passion is to give all young people access to good financial advice, help them develop their own financial intelligence and enable their finances go further. 
+ We’re keen to ensure we’re designing products and services that work for everyone, so we particularly encourage applications from different underrepresented demographics. 
+ We are at the start of an exciting product journey and you will play a key role in developing both the products and the business. 
+ The ambition is for the app to become a trusted financial buddy that meets the highest standards in design and experience expected by modern digitally-native consumers. 
+ Who we’re looking for 
+ Good With are looking for an individual who is motivated to develop beautiful, engaging, fluid and high-performance applications. You will thrive on the chance to adapt and develop the mobile app and your own skills in new directions. 
+ You’ll need to have significant experience developing mobile applications that have been successfully adopted by users. Experience working in an agile team, doing iterative software development, continuous build, test and deployment systems, and monitoring user experience is also a must. 
+ We also need you to have worked with a security function to ensure an application is designed to be secure, assessing and mitigating risks and supporting formal security assurance processes. 
+ The mobile application will be communicating with a cloud-hosted platform for data and application logic, so you will be working closely with a server application developer. 
+ You will be able to demonstrate your passion for technology by, for example, contributions to open source projects, personal projects, learning different languages and frameworks, and giving talks and tutorials on mobile application development. 
+ The role and team is remote for the time being, with visits to HQ in Bude when safe to do so. 
+ You must have the right to live and work in the UK. 
+ Technological skills: 
+ Please don’t be put off applying because you aren’t a perfect match for our job description. If you are excited about the opportunity, think you can achive the outcomes we are looking for, but aren’t sure if tick every box, we’d still love to hear from you. 
+ 
+ Flutter framework for mobile application development. 
+ Demonstrable skills developing mobile applications. 
+ Experience of at least one of the leading languages, eg C/C++, Java, Javascript, Python. 
+ Mobile and server-side APIs and databases. 
+ Continuous build and integration tools such as Jenkins. 
+ Writing and automating unit and UI tests. 
+ User experience monitoring and analytics. 
+ Writing clean, readable, sustainable and reusable code. 
+ Troubleshooting, debugging, and optimising performance. 
+ Developing applications to meet accessibility standards. 
+ Linux and shell script experience is an advantage. 
+ 
+ Team skills: 
+ 
+ Self-motivated 
+ Excellent communication skills 
+ Team player 
+ Happy working in a fast-paced environment 
+ 
+ Qualifications: 
+ 
+ A degree in a mathematical, scientific or computing subject is desirable. 
+ Developers with alternative relevant qualifications and applicable technology certifications are encouraged to apply. 
+ 
+ The Good Stuff: 
+ 
+ Good With is committed to training and seeing our team grow and succeed. You’ll have a mentor who will support both your individual and career aspirations 
+ You will gain valuable commercial experience developing applications using Google’s new Flutter framework 
+ This is a fantastic opportunity to gain experience in the UK’s exciting and growing fintech and edtech sectors 
+ 12 month contract to start and opportunity to earn equity in the business 
+ 
+ Sounds like you? Apply today! 
+ 
+ This role is part funded for seven months by the England European Development Fund as part of the European Structural and Investment Funds Growth Programme. 
+ Published at 19 Oct 2020 - Expires on 31 Jan 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  GoodWith 
+ fulltime  Data Scientist - NLP & Personal Finance  at GoodWith in Bude 
+ __19-10-2020 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

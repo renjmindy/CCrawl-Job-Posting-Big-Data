@@ -1,0 +1,172 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Engineer - DataHub Search 
+ Bloomberg 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Engineer - DataHub Search 
+ Bloomberg 
+ [](mailto:?subject=Senior%20Software%20Engineer%20%2D%20DataHub%20Search&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14259441/senior-software-engineer-datahub-search/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ Princeton, New Jersey 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ The DataHub Engineering team provides a distributed platform for hosting datasets, complete with managed data stores, search, discovery, batch analytics and real-time stream processing capabilities. Our goals: ensure high quality content, which is indispensable to financial markets, is cataloged, standardized, discoverable, distributed and accessible in one place. 
+ Who are you: 
+The ideal candidate is an innovative problem solver who enjoys working in multiple roles and thrives in a fast-paced, collaborative environment. You are curious, kind, continually learning, and happy to share what you learn. You enjoy pursuing complex issues to their root cause. You love search engine internals, performance at scale and engineering for reliability. 
+ What 's in it for you: 
+As a search engineer in the DataHub team, you will build low latency discovery services that scale to address needs of financial datasets at Bloomberg. You will engineer reliable systems, learn unique needs of financial data, innovate on platform services and query patterns. You will also have the opportunity to contribute to open source projects. You'll be surrounded by people who are passionate about distributed computing, and believe that world-class service is critical to customer success. You'll get the chance to work with development teams across Bloomberg and understand their application requirements and build systems together. 
+ You 'll need to have: 
+ 
+ 4+ years of professional experience building reliable high performance services using Java 
+ Experience performance engineering low latency services 
+ Understanding of search engine internals and experience with either Solr or Elasticsearch 
+ Experience in software instrumentation for monitoring and observability 
+ BA, BS, MS, PhD in Computer Science, Engineering or related technology field 
+ 
+ We 'd love to see: 
+ 
+ Ownership, quality, empathy for our users, team, contributions to database community and a bias for action 
+ 
+ If this sounds like you, we hope you apply! 
+ 
+ 
+ Internal Number: 7987807 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Bloomberg 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Senior Application Solution Architect 
+ __  London, United Kingdom 
+ 
+ 
+ 
+ 
+ TEKsystems 
+ __Yesterday 
+ 
+ 
+ Senior Staff Assistant 
+ __  Rochester, New York 
+ 
+ 
+ Rochester Institute of Technology 
+ __2 Days Ago 
+ 
+ 
+ VP, Low-Latency Electronic Trading Java Dev Lead (Greenfield Build-out Initiative) - HK 
+ __ 
+ 
+ 
+ Pinpoint Asia Limited 
+ __2 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

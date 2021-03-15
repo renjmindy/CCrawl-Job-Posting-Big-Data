@@ -1,0 +1,263 @@
+r.j.'s space 
+ on the economy, energy, & the environment 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ <- August retail & July G19 & JOLTS screenshots 
+ census poverty & income screenshots -> 
+ August retail sales eclipsed by July revisions; July's consumer credit; July job openings and job turnover 
+ Posted on  September 15, 2013  by  rjsigmund 
+ the most widely watched economic release of this past week was  the Advance Report on Retail Sales for August  (pdf) from the Census bureau, which estimated that  retail sales grew at a 0.2% seasonally adjusted rate in August, much slower than the expected 0.5% increase over July's sales …but the real surprise was again in the revisions, which showed that  for the 2nd consecutive month, the upward revision to the previously reported monthly sales gain alone was actually greater than the entire sales gain for the reporting month …. 
+ let's look at that revision phenomena first;  retail and food services sales for July were originally reported at a seasonally adjusted of $424,481 million, up just $832 million from June sales ; that has now been revised to show sales of $425 657, a $1.815 billion or 0.42% increase over June sales, which are now shown to be at $423,842 million; hence, this "August" report in effect added $983 million to July's sales…meanwhile,  August sales as estimated at $426,563  were up $901 million from July's $425,657 million….so what looks like a weak report actually shows more than twice as great a sales gain as the headline indicates due to the revisions,  which is virtually the same thing that happened last month … 
+ again, since the revision of the July report actually accounted for more of the increase in August retail sales over what was last reported than the August change, we'll again take a brief look at some of the major changes in July that resulted in that swing… seasonally adjusted sales at motor vehicle & parts dealers, which account for nearly 20% of aggregate retail sales, were originally reported down 1.0% in July , from $81,584 million in June to $80,799; the revision cut that automotive sales decline in half, from $81,476 million in June to $81,071 million in July… sales at building material & garden supply stores, originally reported down 0.4%,  were actually up 1.8% in July, and non-store (online)  sales, who had their July sales reported nearly flat at 0.1% last month, are now seen to have increased sales 1.3% for the month…meanwhile, sales at groceries, which had been reported up 0.8%, were revised down to show just a 0.1% monthly sales gain in July, and general merchandise stores, which had shown a 0.4% increase in July sales, now appear to have only seem a 0.2% uptick…these July results, in addition to the other revisions, can be seen  in the right side columns of the table portion excerpted from this month’s report below , marked as “July preliminary”; recall that for Census reports, the 1st estimate is indicated as an “advance estimate”, while the 2nd estimate is the “preliminary” (p) report, while the 3rd estimate is referred to as the “revised” estimate….if anyone wants more details on this revision, the July preliminary data below can compared to  our screenshot of the Advance July report from a month ago , or  the entire post on that report , wherein we discussed similar revisions to June data in more detail… 
+ 
+ the widely watched August advance report,  extrapolated from a small sampling of approximately 4,900 firms , will be similarly revised when more complete data is available next month; Census reports that seasonally adjusted aggregate retail  sales were at $426.6 billion In August, which was an increase of 0.2 percent (±0.5%)* from the revised July total …the asterisk tells us that the Census Bureau does not have sufficient statistical evidence to determine whether sales rose or not in August, and that ±0.5% means with the data they have at hand, there's a 90% probability that the monthly change in August sales was between a decrease of 0.3% and an increase of 0.7%…unadjusted sales in August have reportedly risen 3.2%, from $429,115 million to $442,847 million, on sales numbers extrapolated from the sampling, as a broad spectrum of retail sectors see a seasonal increase in sales in August… 
+ the  seasonally adjusted data shows that without a big jump in car sales, August retail sales would have appeared even weaker … seasonally adjusted sales at motor vehicle and parts dealers rose 0.9% , from a upwardly revised $85,922 million in July to $88,762 million in August; the adjusted retail sales increase without those car sales was just $201 million, from July's $344,586 million to $344,787 million, or less than 0.1%…several  major retail sectors saw their normal August sales decline : adjusted sales at building material and garden supply stores were off 0.9%, from $26,481 million in July to  $26,234 million in August; sales at clothing and accessory stores were down 0.8%, from $21,159 million to $20,980 million, sales at stores specializing in sporting goods, books or music saw sales decline 0.5%, from $7,535 million to $7,499 million, and sales at general merchandisers were off 0.2%, from $54,879 million in July to $54,747 million in August…offsetting those sales declines, seasonally adjusted sales at furniture stores rose 0.9% to $8,535 million in August, sales at electronics and appliance stores rose 0.8% to $8,503 million, sales at health and personal care stores, most of which are conventional drugs stores, rose 0.6% to $23,917 million, and sales by non-store (online & mail order) retailers increased 0.5% to $37,915 million in August from $37,727 million in July; in addition, seasonally adjusted sales at bars and restaurants were up 0.3%, from $45,720 million in July to $45,976 million in August, and sales at gas stations were statistically unchanged, falling from $45,639 to $45,625 million in August…the  bar graph below, from Robert Oak at the Economic Populist , shows the dollar volume sales for each of these retail sales groups and the relative size of each; also note that the seasonally adjusted changes in August sales compared to those in July and vis-a-vis a year ago for each of the major retail groups covered in this report can be seen  in the left side columns of the table above  under the "August 2013 Advance" header… 
+ 
+ … 
+ another release of this past week should reveal part of the story as to why retail sales ex-autos have weakened over these recent months…the  Fed's G19 Release on Consumer Credit for July , a report which we've tended to watch for ballooning amounts of student debt, showed that credit-card use fell for the 2nd consecutive month in July, and combined with the revised June reduction, amounted to  the largest two month drop in outstanding revolving debt since January 2011 …since we've already seen earlier that  disposable personal income is sill nearly 3.0% below the levels of December  and that  the personal savings rate has been at the lowest levels since 2008 all year , the only way personal expenditures can possibly continue to trend higher is for consumers to borrow…this report indicates that's what's propelling car sales, but not other retail… 
+ 
+ in  credit expansion that was generally 20% below forecasts , the Fed report indicated that aggregate  consumer credit increased by $10.4 billion in July, or at a 4.4% seasonally adjusted annual rate … revolving credit, which is mostly credit cards, fell $1.8 billion, or at a 2.6% annual  rate, while  non-revolving credit, which includes longer term borrowing for tuition and items such as cars and yachts but not real estate, rose by $12.3 billion, a 7.4% rate of increase …this  follows a June report that showed revolving credit increased at a 9.5% rate while revolving credit fell at 5.2% rate … our above FRED graph  shows, for each month since January 2011, the seasonally adjusted annualized change in revolving credit in red, the annualized change in non-revolving credit in green, and the aggregate monthly change in credit outstanding in blue; with monthly increases above the line and decreases below it; it's fairly obvious from that the contraction of credit card debt in red seen over the past two months has been unusually severe, and has pulled down the aggregate totals… 
+ unlike the previous occasions when we've highlighted this release, a large increase in student debt was not a factor in July's increase in non-revolving credit…unadjusted borrowing from the Federal government rose only $2.5 billion in July, from $569.4 billion in June, to $571.9 billion in July, as you can see in  our bastardized table excerpt   from the second table in the Fed report  which we've included below…with much of the new borrowing originating at depository institutions, where non-revolving consumer credit outstanding rose $5.3 billion to 561.5 billion, finance companies, where non-revolving credit outstanding rose $1.2 billion to $608.2 billion, and credit unions, where long term loans rose $2.6 billion to $214.1 billion, most reports indicated that it was a jump in auto loans that propelled the increase in non-revolving credit, which has certainly been borne out by the retail sales reports…what hasn't been getting much media attention, however, is that a  significant portion of that increase in auto loans has been going to subprime borrowers .. 
+ 
+ … 
+another report we want to take a look at this week is the  July Job Openings and Labor Turnover Survey , even though the data is a month older than  the August Employment report we covered last week …mirroring establishment survey, this report, commonly known as JOLTS, breaks down that net job creation figure we see monthly to include estimates of the number and rate of hires, those fired, laid-off, or otherwise separated, and the number of workers who quit their jobs by industry and by geographic region; in addition to the total number of job openings reported to the BLS in conjunction with this survey… 
+ according to the BLS,  a seasonally adjusted 3.689,000 jobs remained unfilled on the last business day of July , which they call "little changed" from the 3,869,000 job openings available at the end of June..although that may look like 180,000 thousand less job openings in July, the use of the phrase "little changed" is BLS code speak for a change that falls within their statistical margin of error; o n an unadjusted basis, job openings actually rose by 58,000 ; nonetheless, this was  the lowest seasonally adjusted number of job openings since February …the largest seasonally adjusted reduction in July job openings occurred in professional and business services, where the number of openings dropped.116,000, from 685,000 in June to 569,000 in July..while job openings in most industries and government declined,  openings in manufacturing and accommodation and food services rose slightly …the job openings rate, or the number of job openings as a percent of total employment, fell from 2.8% in June to 2.6% in July…the largest decline in job openings was in the South, where the job openings rate fell from 3.0% to 2.8%…job openings rose from 789,000 in June to 821,000 in the West in July, where the job openings rate rose from 2.6% to 2.7%…based on the corresponding household survey,  the ratio of officially unemployed to jobs was 3.1 to 1 ; if one includes those working part time who want full time work, there were 6.0 unemployed for every job opening.. .the graph below , from  a BLS pdf supplement to this report , shows the relationship between job openings in blue, with the scale shown on the left, and employment in green (scale right) since January 2003…the number of job openings hit a series high at 4.7 million openings at the peak in March 2007, and fell to  a series low at 2.3 million in July of 2009 ; meanwhile, employment continued to decline to hit a low in February 2010, even as job openings were rising… 
+ 
+ the number of those hired in July, which includes those rehired or called back after a layoff, rose 101,000 to a seasonally adjusted 4,419,000, from 4,318,000 in June, an increase the BLS calls "essential unchanged", again indicative of a wide 90% confidence range on this report, which is o btained from a stratified random sample of 16,400 businesses and government agencies ; the  unadjusted data shows that hiring actually fell 235,000 to 5,087,000 in July , so obviously there's a rather large seasonal adjustment in play between June and July… jobs in health care and social assistance saw the greatest hiring increase , rising 43,000 from 403,000 seasonally adjusted hires in June to 446,000 hires in July, on a  year over year basis, finance and insurance saw the greatest percentage increase in hiring , rising from 119,000 to 158,000 on the other side of the spectrum, there were 33,000 fewer hires in leisure and hospitality, as the total number hired in July slipped to 760,000…hiring rose in every region of the country except the West, where it was seen to fall by 15,000… the seasonally adjusted hiring rate , or those hired in July as a percentage of total employment, was unchanged at 3.2%… 
+ jobs separations are loosely divided into 3 categories; those who were fired or laid off, those who quit, and those separated for other reasons, such as retirement, death or disability…total seasonally adjusted job separations fell 119,000 in July, from 4,228,000 in June to 4,109,000 in July; while  unadjusted separations rose 41,000 to 4,511,000 … the manufacturing, retail trade, and health care sectors all saw small seasonally adjusted increases , while job separations in other industries declined…the separations rates, or the percentage of those who quit or otherwise lost their job in July as a percentage of those employed, fell to 3.0% in July from 3.1% in June…separations decreased on a seasonally adjusted basis in every region of the country except the Northeast, where they rose from 679,000 to 700,000 in July; however, the separations rate in the Northeast, rising from 2.6% to 2.7%, remained the lowest separations rate nationally… 
+ among separations, the number of workers who quit their job in July rose by 63,000, from a seasonally adjusted 2,205,000 quits in June to 2,268,000 who quit in July… the unadjusted data  shows an even larger increase in those who quit, jumping 191,000 in July to 2,608,000…the national quit rate, or those who quit as a percentage of those employed, rose from 1.6% in June to 1.7% in July; an improving quit rate is seen as a sign of worker confidence and hence an improving job market….quit rates are widely varied throughout different industries and areas of employment,  ranging from a low of 0.6% for those working in government to as high as 3.3% for those working in accommodation and food services …there are also considerable regional differences; only 1.2% of workers in the Northeast quit their jobs in July, while the South saw a 1.9% quit rate…quitting rose in finance and insurance, professional and business services, and health care and social assistance in July, but fell in wholesale trade and resource extraction industries… 
+ a seasonally adjusted 1,513,000 workers were either laid off or fired in July, down 89,000 from the 1,602,000 similarly terminated in June;  the unadjusted data shows 47,000 less layoffs and discharges than June  at 1,520,000 in July…seasonally adjusted estimates of layoffs and discharges were not available for individual industries, but  raw data showed the largest percentage jumps in firings and layoffs  in construction, where layoffs and firings rose from 150,000 in June to 180,000 in July, in education services, where such terminations rose from 57,000 in June to 68,000 in July, and in wholesale trade, where 52,000 were either laid off or fired in July, up from 33,000 in June…on the other hand, layoffs and discharges among information workers fell to 21,000 in July from June's level of 35,000…the national layoffs and discharges rate was  unchanged in July at 1.1%; the percentage of the workforce fired or laid off fell from 1.2% to 1.0% in the West, while it was lowest in the Midwest at 0.9% and highest in the South at 1.3%..meanwhile, other workplace separations, ie, retirements, deaths, etc, fell by a seasonally adjusted 92,000 in July to 328,000;  unadjusted data for this category  similarly fell by 103,000 to 383,000 in July;  the seasonally adjusted rate for these other separations  fell from 0.3% in June to 0.2% in July… 
+ the graph below , again from the BLS supplement, shows the track of the number of hires monthly since January 2003 in blue, with the scale on left, and similarly, the number of separations monthly over than span indicated by a dashed red line; in addition, the monthly level of employment is on the right scale and indicated by a green dashed line…obviously, when the blue hires line is above the red separations line, employment is rising, and when separations rose above hiring, generally throughout 2008 and 2009, total employment fell…the number of hires less the total number of separations in any given month from this JOLTS survey should be equal to the increase in non-farm payrolls shown in the establishment survey of the same month…that  was generally true over most of the preceding decade ; however, in the first half of this year  this JOLTS survey has shown an average of 60,000 less net jobs per month than the establishment survey from the monthly jobs report …in July, however, the total hires (4,419,000) exceeded separations (4,109,000) by 310,000, obviously quite a divergence from  the 104,000 revised increase in non-farm payrolls as reported for July last week …so one or both of these surveys is off by quite a bit over this year, and we can expect major revisions at the beginning of next year… 
+ 
+ 
+ (the above is my weekly commentary that accompanied my sunday morning links emailing, which in turn was mostly  selected from my weekly blog post  __  on the   global glass onion   …if you’d be interested in getting my weekly emailing of selected links that accompanies these commentaries, most coming from the aforementioned GGO posts,   contact me   …) 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  retail sales . Bookmark the  permalink . 
+ <- August retail & July G19 & JOLTS screenshots 
+ census poverty & income screenshots -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ global oil supply near December's demand; US distillates exports at a 40 mo low​; gasoline production at a 34 week low​ 
+ December's consumer & producer prices, retail sales, & industrial production; November's business inventories & JOLTS 
+ tables and graphs for January 16 
+ gasoline demand at a 32 week low, gasoline supplies up ​most in 3​5 weeks; distillate​s​ supplies​ up most in 31 weeks​ 
+ December's jobs report; November's trade deficit, construction spending, factory inventories, and wholesale trade.. 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ rjsigmund  on  tables and graphics for Novemb… 
+ 
+ 
+ 
+ 
+ Marsha Boggs on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ godfrey on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ October 2011 
+ September 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ 
+ 
+ 
+ Categories 
+ 
+ mortgage crisis 
+ retail sales 
+ Uncategorized 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  r.j.'s space  
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

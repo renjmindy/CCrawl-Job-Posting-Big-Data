@@ -1,0 +1,6 @@
+ Qualifications 
+ Desired qualifications include: 
+Hands-on experience with key components of Cybersecurity including Penetration Testing, Red teaming, Vulnerability management, Network & Infrastructure security, managed detection and response. 
+ Risk and compliance, security architecture, data protection, privacy, security awareness would be an asset 
+ Undergraduate or masters’ degree preferably in one of the following areas: Information Security, Business Management, Information Systems, Computer Science, Engineering, and other related majors 
+ Expert knowledge and practical experience with common frameworks, standards and methodologies used such as MITRE, OWASP, NIST Cybersecurity, IS 27001/2. 

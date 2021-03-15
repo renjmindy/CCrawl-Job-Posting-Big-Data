@@ -1,0 +1,67 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Software Plugin Developer (Freeform) REMOTEPERMANENT 
+ Job Description 
+ The software side of Solspace is expanding! 
+ We're looking for a full-stack developer who would be responsible for ongoing Craft plugin development, maintenance and providing some assistance with support requests related to the Solspace  Freeform  and  Calendar  plugins. Below are the most important skill requirements: 
+ 
+ PHP  - Yii2 framework, event-driven architecture 
+ MySQL  - intermediate knowledge 
+ Twig 
+ Craft CMS  - experience with plugin development is a bonus 
+ Freeform  plugin - experience with Freeform and/or Calendar is a bonus 
+ ES6+  - the latest in javascript language 
+ React.js  - intermediate knowledge preferred, no large scale application architecture experience necessary, just the overall understanding of how React works.  If no experience, a willingness to learn React. 
+ Node.js  - basic experience with task runners Gulp, Grunt or any of the others, for deployment scripts 
+ SCSS  - or any other CSS pre-processors 
+ Webpack  - for bundling react apps 
+ REST API 
+ Basic knowledge of how integrations with other products work and look 
+ 
+ In addition to that, we're looking for someone that is enthusiastic about the Craft community, takes pride in their work, and helping others! Solspace is a fun and rewarding place to work, and we enjoy listening to the feedback of our customers and continually pushing the boundaries of what our software can do! 
+ This is a full time permanent remote position, however, we are open to applicants that wish to work anywhere between half and full time. 
+ How to Apply 
+ To apply, please send your resume to  [email protected]  along with links to any software/plugins you have developed or samples of your work (if available). 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Solspace, Inc. 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://docs.solspace.com 
+ __  Posted December 9, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

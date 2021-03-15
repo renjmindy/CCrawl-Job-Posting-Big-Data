@@ -1,0 +1,18 @@
+ Required Qualifications 
+ Bachelor's degree in Computer Science, Business Systems, or a related discipline and two years of professional experience working as a software engineer. 
+ Combinations of education and related experience may be considered. 
+ Demonstrated ability to work with enterprise-scale software development. Understanding of common design patterns, service-oriented architecture, test-driven development, and agile methodology. Excellent interpersonal skills and a customer service orientation. Excellent ability to effectively communicate and exchange information. Willingness to work as part of a team in a dynamic and complex environment. Ability to use creativity in identifying complex problems and finding solutions quickly and accurately. Strong attention to detail in communicating technical issues and implementing solutions; mental discipline in resolving software problems. Ability to change priorities as project expands or project needs change. 
+ Preferred Qualifications 
+ Knowledge of identity and access management concepts including single sign-on, SAML, OpenID Connect, OAuth, role-based access and authorizations. Understanding of object-orient programming concepts and skilled in software development using Java. Working knowledge of Kubernetes or Docker. Skilled in developing highly available software solutions. Three or more years of experience. 
+ Preferred Qualifications 
+ Knowledge of identity and access management concepts including single sign-on, SAML, OpenID Connect, OAuth, role-based access and authorizations. Understanding of object-orient programming concepts and skilled in software development using Java. Working knowledge of Kubernetes or Docker. Skilled in developing highly available software solutions. Three or more years of experience. 
+ Working Conditions / Demands 
+ Must be able to work at a computer screen particularly for long periods of time. Must be able to perform detailed work (programs, documents, or reports); interact with staff and clients; handle the stress of performing multiple concurrent tasks with constant interruptions. 
+ Equipment utilized: workstation, printers, copiers, telephones, videoconferencing and other office equipment. 
+ Work Location 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 

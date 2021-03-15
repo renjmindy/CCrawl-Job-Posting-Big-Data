@@ -1,0 +1,179 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Sr Security Automation Planner 
+ Verizon 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Sr Security Automation Planner 
+ __ Verizon 
+ [](mailto:?subject=Sr%20Security%20Automation%20Planner&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14238640/sr-security-automation-planner/ "Email")  
+ Application 
+   
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 23, 2020 
+ Location: 
+ Salary: 
+ Open 
+ ** 
+ 
+ What you’ll be doing... 
+ ** 
+ The Network Security Planning (NSP) team is seeking a Security Automation Planner to plan the requirements, architectures, and roadmaps for automating security controls/capabilities that will protect Verizon’s networks. These capabilities might include OpenSCAP to automate configuration aspects of servers, Ansible scripts to automate how a program integrates with a centralized access control service, or self-service portals where programs can trigger automated vulnerability scanning. The Planner will also support architecture and roadmap development for Verizon’s key systems such as its 4G/5G networks, intelligent Edge Network (iEN), IoT networks and devices, and big data/cloud by ensuring his/her plans for automated capabilities support and protect those systems. The SME will also work with academic and research institutions to identify and mitigate long-term security threats affecting data protection. 
+ As a member of the NSP team, you will work in a fast-paced environment focused on planning and managing security risk for Verizon’s most critical systems. You will interact with the engineers building and operating key systems, security engineering and operations teams, and the Verizon CISO organization to ensure the team’s recommendations address operational considerations. You will ensure the team collaborates with vendors and the broader security community to stay up to speed on the latest security developments and ensure their future capabilities align with Verizon’s needs. 
+ Responsibilities 
+ 
+ As the Service Owner, define objectives, technical work, and timeline for developing architectures, roadmaps, and requirements for automating security controls/capabilities. 
+ Develop architectures, roadmaps for future capabilities/enhancements, and requirements for those automation capabilities. 
+ Research and conduct POCs with new vendors to determine what new capabilities are viable and what could/should be on the roadmap. 
+ Execute RFIs/RFPs when it is time to reevaluate vendors and select the winning vendor. 
+ Document the security automation capabilities and deployments in artifacts such as high-level designs (HLDs) and low-level designs (LLDs). 
+ Shepherd deployments of security automation capabilities through the Network Implementation process. 
+ Collect feedback from stakeholders and users of the capabilities and incorporate that feedback into the roadmap so the service continually improves. Create metrics/KPIs to show how the service is improving security over time. 
+ Support development of security architectures, roadmaps, and requirements for key Verizon systems by documenting how network sensors will support and protect them. 
+ Build relationships with program, engineering, operations, security, and CISO teams to understand how to develop plans that effectively manage Verizon’s security risks. 
+ Communicate progress, findings, and ensure successful handoff of deliverables to program and operational teams. 
+ Build domain knowledge of Verizon’s environment to understand long-term risk areas that will develop as the systems evolve. 
+ Provide thought leadership by participating in network and security forums and collaborating with academic and research institutions. 
+ 
+ ** 
+ 
+ What we’re looking for... 
+ ** 
+ You'll need to have: 
+ 
+ Bachelor’s degree or four or more years of work experience. 
+ Six or more years of relevant work experience. 
+ 
+ Even better if you have: 
+ 
+ Bachelor's degree in a STEM field, (Computer Science, Electrical Engineering, or Computer Engineering preferred). 
+ Familiarity with and practical experience in network (e.g., firewalls, IDS, DDoS protection) or IT security (e.g., access control, Linux hardening). 
+ Familiarity with and practical experience with IT automation and orchestration capabilities such as Ansible. 
+ Familiarity with common Security Policy Frameworks such as NIST 800-53, NIST CSF, and CIS Top-20. 
+ Familiarity with modern DevOps processes along with CI/CD. 
+ Familiarity with cloud technology and architectural patterns, especially related to OpenStack, Kubernetes, and Docker. 
+ Familiarity with key Verizon system areas such as LTE, 5G, routing, switching, optical networks, IoT, big data, artificial intelligence, machine learning, cloud computing, etc. 
+ Familiarity and practical experience building security architectures, roadmaps, and program requirements. 
+ Extremely strong written and oral communication skills. 
+ Ability to work independently on multiple high priority projects. 
+ Ability to manage multiple high-visibility, complex technical projects. 
+ Extremely strong problem-solving skills. 
+ Willingness to travel 25% or less. 
+ 
+ ** 
+ 
+ When you join Verizon 
+ ** 
+ Verizon is a leading provider of technology, communications, information and entertainment products, transforming the way we connect across the globe. We’re a diverse network of people driven by our ambition and united in our shared purpose to shape a better future. Here, we have the ability to learn and grow at the speed of technology, and the space to create within every role. Together, we are moving the world forward – and you can too. Dream it. Build it. Do it here. 
+ Diversity and Inclusion at Verizon 
+ At Verizon, we know that diversity makes us stronger. We are committed to a collaborative, inclusive environment that encourages authenticity and fosters a sense of belonging. We strive for everyone to feel valued, connected, and empowered to reach their potential and contribute their best. Check out our  diversity and inclusion  page to learn more. 
+ ** 
+ 
+ Equal Employment Opportunity 
+ ** 
+ We're proud to be an equal opportunity employer - and celebrate our employees' differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better. 
+ 
+ 
+ 
+ Internal Number: 553842-1F 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at  Verizon 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

@@ -1,0 +1,96 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Demodesk (W19) 
+ Intelligent online meeting tool for inside sales & customer success 
+ Head of People 
+ 
+ Location 
+ Munich 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Demodesk 
+ Demodesk is are building the world's first intelligent online meeting platform for customer interactions - think of Zoom 2.0 combined with Gong/Salesloft. What makes us different from Zoom, Google Meet and alikes is our unique approach to screen sharing. We don’t record the presenter's local desktop screen but use cloud-based virtual displays. By doing that, we can automatically load the right presentation content, assist the presenter in real-time by displaying talk tracks and battle cards without the customer noticing, and have significantly more data to analyze than existing tools. Demodesk seamlessly integrates within a sales process and helps sales teams increase productivity by automating all workflows from meeting scheduling to preparation and CRM logging. We are serving 200 customers today (mostly B2B SaaS in the US and Europe) and are growing at double digit rates every month. We are a hybrid-remote team of 30 international employees with offices in Munich and SF and plan to triple in size over the next 12 months. Our vision is to become the leading online meeting platform for customer interactions. We want to enable anyone to have a great remote customer conversation. Rather than replacing human interactions, we want to augment the seller’s conversation skills by using our disruptive technology. We believe that there is an incredible opportunity to disrupt the way we, as humans, communicate. We like to use the example of self-driving cars – Today, we have cars that analyze endless amounts of data in real-time and help the driver augment his driving skills, up to the point where the car almost drives independently. When you compare this with remote conversations, the opportunity for improvement is astounding. Today, there are only functional communication tools that let us hear someone, see someone, and record a desktop screen. Imagine having this functionality combined with the vast amounts of valuable data flowing through these servers. This data is not yet being harnessed to enable people to have amazing conversations with one-another. We are about to change that. Join us on this incredibly exciting journey! 
+ About the role 
+ // About us 
+ Demodesk is building the world's first intelligent online meeting tool with the vision to enable anyone to have great customer conversations. Web conferencing tools that are being used today are purely functional. They hardly offer anything beyond video calling and local desktop sharing. In a time where almost all companies build web-based software, it's needlessly complicated to route screen sharing through local desktops still. And even though AI and NLP are slowly upgrading call recording, vendors are still having a hard time making sense of sales conversations at scale and tracking meaningful data. We have developed a new approach to screen sharing. Traditional tools only record a video of the presenter's local desktop screen. We set up a 100% web-based virtual display instead, that anyone can access by just clicking a link. By utilizing a virtual display, our software can automatically load the right presentation content at the meeting start, provide real-time conversational guidance on the sales rep's side without the customer seeing it and have significantly more data to analyze than existing tools. Help us redefine web conferencing and be ready to play an essential role in achieving this goal by joining our international team in San Francisco and Munich. 
+ // Mission 
+ As Head of People, you’ll be responsible for building and scaling the Demodesk organization. You have the ambition to build an outstanding company, help craft our story and build all talent and people processes from scratch - from employer branding to the entire recruiting process, from first touch point to close and through onboarding, from culture to retention and through personal development. You have the desire to build the company the way the product team wants to build the product - and build a place where people can feel at home, strive and succeed. 
+ // Goals 
+ 
+ Attract the best talent: To achieve our ambition we need to build the absolute best team in the world. You are responsible for the whole hiring process, from employer branding, to sourcing and recruiting the best candidates for Demodesk. 
+ Grow the team: To make our hiring pipeline more scalable you introduce new HR and Recruiting processes and standards. You will be hiring people from all over the world for our teams in Munich, San Francisco or fully remote. 
+ Build and lead a world-class HR team: As the company grows, you will set up a strategy for the People department and hire your own team of HR and Recruiting specialists to support you. You will introduce metrics to track the success of your area of responsibility. 
+ Support the business: You will introduce a structured feedback process and ensure coherence of career steps, titles and salary structure and set up career development and training plans across all positions. You will act as a trusted advisor to our management in all HR related matters. 
+ Build and maintain a great culture: We all love to work for Demodesk and want to keep the strong connection through our values. With our remote setup your challenge will be to build one consistent culture where everyone feels welcome and is able to do their best work. 
+ 
+ // Your Profile 
+ 
+ Experience in building entire teams and processes from the ground up, optimally 3+ years experience in a fast-growing international tech company 
+ Founder mentality and a strong passion for building organizations, structures and processes as well as heping others succeed 
+ High level of insight into human nature that helps in driving others to improve their performance and achieve their best in current and future roles. 
+ Profound understanding of all HR disciplines (e.g., sourcing and recruitment of tech and business talent, employee relations, talent and performance management, organizational development, HR strategy). 
+ Passion for the Demodesk vision and ability to pitch our story in a genuine way 
+ 
+ // Why us 
+ 
+ Well-funded and backed by Silicon Valley's top investors and angels, including Y Combinator, Kleiner Perkins and Balderton 
+ Fast-growing, diverse and international team of tech enthusiasts and entrepreneurs 
+ Unique proprietary screen sharing technology using a demanding tech stack 
+ Full responsibility from day one and being part of our hierarchy-free and results-driven working environment 
+ Competitive salary plus attractive compensation package 
+ Flexible working hours and annual travel allowance for working remotely 
+ Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, professional development budget of 1.500 € per year 
+ Regular team events like dinners, Oktoberfest, ski trips and much more 
+ 
+ Technology 
+ Our tech is very diverse and ranges from ES2019 in the frontend to C in the backend. Generally we use: 
+ 
+ Frontend: Vue.js, ES2019, Webpack, SCSS 
+ Web backend: Ruby on Rails, Postgres, Redis 
+ Microservices: Node.js, Sinatra, C, X11 
+ Infrastructure: Google Cloud, Kubernetes and GKE for orchestration, Grafana 
+ 
+ Other jobs at Demodesk 
+ Full-Stack Engineer Video Conferencing & Screen Sharing 
+ fulltime 
+ Munich, Germany / Remote 
+ Full Stack 
+ $60k - $90k 
+ 0.10% - 0.80% 
+ 3+ years 
+ Full-Stack Engineer in Assistant Team 
+ fulltime 
+ Munich, Remote / Remote 
+ Full Stack 
+ $60k - $90k 
+ 0.10% - 0.80% 
+ 3+ years 
+ Founding Designer 
+ fulltime 
+ Munich, Germany - San Francisco - Remote / Remote 
+ UI / UX 
+ 3+ years 
+ Head of Marketing 
+ fulltime 
+ Munich, Germany - San Francisco - Remote / Remote 
+ 3+ years 
+ Head of People 
+ fulltime 
+ Munich 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

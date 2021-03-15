@@ -1,0 +1,89 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Senior Developer LOCALPERMANENT 
+ Job Description 
+ webdna is a rapidly growing expert digital marketing consultancy that specialises in helping our clients grow their businesses. We create beautiful and highly effective online experiences for our clients both in the UK and internationally. As we expand we are looking for a Senior Developer to help us deliver great online experiences for our customers. 
+ We believe in delivering great work for great clients and having a great time doing it. We are aware that we all spend a significant amount of our time working together so it is important that we enjoy what we do. 
+ Our team is small and agile, working with two other developers you will be our Senior Developer, you will have the opportunity to influence the build across multiple projects and lead the team. There's also lots of opportunity for professional growth here, as the team expands. 
+ We're looking for a developer with a deep understanding of Craft CMS with proven skills in leading a team and delivering great projects. Someone who cares deeply about quality, and helping to create effective user experiences for our clients. If that sounds like you, get in touch. 
+ Skills/Responsibilities 
+ PHP / Craft CMS Development 
+ One of the key parts of this role will be back end engineering within the Craft CMS space. The ability to create and maintain custom features as well as building integrations with other systems/APIs. 
+ Javascript (ES6, Babel) 
+ A fundamental understanding of JS is required with further knowledge to be able to create and maintain component based JS builds. 
+ Front End 
+ Comfortable with HTML/CSS and have an understanding/overview of front end best practices. 
+ Dev Ops/Build Tools (webpack) 
+ Maintenance and improvement of build tools and deployment systems to ensure best practices and optimal delivery of code with zero downtime. 
+ System Administration 
+ An overview understanding of LEMP and LAMP server architecture. The ability to top level administer VPSs. 
+ Information Architecture 
+ A good understanding of best practices for information architecture relating to web sites/apps. The ability to identify the optimal hierarchy of data to ensure data reuse, performance and DRYness. 
+ UX 
+ The ability to overview a site or application and understand what constitutes good/bad UX practices. Liaise with the design team to deliver optimised solutions that combine the best compromise of design, development, UX while solving a client’s problem. 
+ Team Lead 
+ Work with the development team helping mentor, problem solve and pair program. Working together with the team to provide assistance to the Client Services Team in regards to project planning, deadlines and estimating. 
+ Reporting 
+ Regular reporting to company directors to continue the growth, development and the smooth running of the development side of the business 
+ Clients 
+ You will work with the Client Services Team, to make the complex simple for our clients. You will explain your thinking and possible solutions to clients in the language they understand. 
+ We believe that as the Senior Developer at webdna you will be able to grow with the business and take an active part in any area that you feel will drive business growth. We look for people who do not walk past a problem, if you see there is an area of the business you can improve, we want you to improve it. 
+ About us 
+ We work hard to ensure that the environment is supportive and fun to work in. Of course, we provide all the tea/coffee that you can drink, and back that up with team lunches and drinks on Fridays. 
+ Most of us are sporty so expect to hear about what went so right or wrong in the weekend football, cricket, hockey, netball or cycling. We have an office dog on Fridays and other days that he feels like it. 
+ Salary & benefits 
+ We offer a competitive salary based on experience, flexible working, private medical healthcare, 28 days of holiday a year, plus bank holidays, and a 35-hour working week. 
+ How to Apply 
+ If you are interested, please send us your CV and covering email to  [email protected] . You will be asked to discuss your previous roles at the interview. 
+ Strictly no recruiters or agencies 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  webdna 
+ 
+ __ 
+ 
+ Location:  Nottingham, UK 
+ 
+ __ 
+ 
+ Phone Number:  [(0115) 96 96 083]((0115) 96 96 083) 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://webdna.co.uk/ 
+ __  Posted June 14, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

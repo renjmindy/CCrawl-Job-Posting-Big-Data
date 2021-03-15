@@ -1,0 +1,341 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Ruby 
+ 
+ Ruby Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Ruby Developer ? 
+ ](https://www.workana.com/hire/ruby) 
+ 2 days ago 
+ Development of a Website in Ruby on Rails 
+ Published: 2 days ago  Bids: 16 
+ Hi everyone! 
+ We are looking for a skilled Ruby on Rails Developer to join our remote international team. We are looking for a full-stack developer who has the required experience with RoR on the backend, and additional experience with one Javascript-based framework. This is a full-time, home-based position. 
+ Required Skills: 
+ 3+ years professional experience in software development;  
+Strong experience in Ruby on Rails;  
+Experience in SQL;  
+Experience in JavaScript;  
+Ability to work with JavaScript client side frameworks (e.g. Angular, Ember, React, etc.);  
+Linux system administration experience;  
+Experience with database design, is a plus;  
+Strong English reading, writing, and speaking skills;  
+Ability to work directly with a client;  
+Bachelor’s degree or higher;  
+Stable internet connection and home computer;  
+Dedication and discipline to work remotely from home.  
+ 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  S. R. T. Last reply: 4 hours ago  United States 
+ USD 1,000 - 3,000 
+ 3 months ago 
+ Heroku + Shopify + Api 
+ Published: 3 months ago  Deadline: 1 Bids: 6 
+ I hired a freelancer previously and he developed an app that connects via API a warehouse system with Shopify. Unfortunately, we were able to install the app only on a test store but not on the production one. 
+ My wish: 
+ I give you the code and the access to Heroku (where it is currently deployed). You analyze the problem and make the app run finally. 
+ If you have experience with Heroku + Shopify + API you should make it hours. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  E. U. Colombia Payment method:  __Verified 
+ USD 100 - 250 
+ 4 months ago 
+ Looking for a Ror developer for an Mvp project 
+ Published: 4 months ago  Project duration: 1 - 4 weeks Bids: 1 
+ I need a Ruby on Rails developer to work on an MVP project. Need to be fluent on the platform and speaking English. 
+ Some Javascript flavor is a plus. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Full time 
+ Roles needed  : Developer 
+ Published by:  A. M. O. Argentina Payment method:  __Verified 
+ USD 20 - 30 / hour 
+ 4 months ago 
+ Shopify App Developement 
+ Published: 4 months ago  Bids: 9 
+ Build a Shopify app to streamline our warehouse fulfillment process. 
+Modules include: 
+ 
+ Pick & Pack Orders 
+ Air Way Bill scanning & fulfillment 
+ Integration with 3rd party logistics 
+ 
+ This will be done in stages and a long term job. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  A. A. Last reply: 4 months ago  Malaysia 
+ USD 250 - 500 
+ 6 months ago 
+ We want a Ruby and php programmer to run the Canvas platform 
+ Published: 6 months ago  Deadline: 22 Bids: 4 
+ We want a Ruby and PHP programmer to run the Canvas platform and link it to Wordpress with the premium course system. 
+The implementation period is 21 days for preparing and operating the project. 
+Required * Advance experience in Ruby, PHP and Canvas platform * 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.), Other (Other APIs) 
+ Roles needed  : Developer, Designer 
+ Published by:  H. O. Turkey 
+ USD 500 - 1,000 
+ 8 months ago 
+ Shopify Ecommerce Website Customisation 
+ Published: 8 months ago  Deadline: 10 Bids: 15 
+ Hello, my company will be designing an online marketplace. The current platform we are using is Shopify and we need someone to go into the back-end and customise the website to our needs. Preferably someone based in Kuala Lumpur, Malaysia. 
+ There is a zip folder attached to this post with a html file which has the specifications for this project. 
+ Price is negotiable. 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Create a new store 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  R. S. Last reply: 8 months ago  Malaysia 
+ USD 250 - 500 
+ 8 months ago 
+ Full Stack Developer Ruby/Rails + Postgresql + Bootstrap for develo... 
+ Published: 8 months ago  Project duration: 1 - 2 months Bids: 5 
+ Update: I already found a freelance in another site, so, no needed anymore. 
+I need to port my app (standalone) to a web app using Ruby on Rails + Postgres + Bootstrap. 
+I am looking for a Junior developer who wanted to join me on this mission. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  M. R. Last reply: 5 months ago  United Kingdom 
+ Less than USD 10 / hour 
+ Next 
+ 
+ 1 
+ 2 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

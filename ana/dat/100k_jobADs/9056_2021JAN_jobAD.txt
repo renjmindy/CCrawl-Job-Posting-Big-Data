@@ -1,0 +1,56 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Jerry, Inc. (S17) 
+ Jerry is your personal insurance shopper (car & home). Sign up takes 30 seconds and we shop for you every 6 months to ensure you have the right coverage at the best price. 
+ Software Engineer at Jerry.ai 
+ 
+ Location 
+ Toronto, Canada 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Jerry, Inc. 
+ About the role 
+ Skills:  JavaScript, Node.js, React Native 
+ About Jerry.ai: 
+ Jerry.ai is a machine learning-powered personal finance platform. We are building a platform to deliver the one-click (uber-like) experience for finding and buying highly complex and personalized financial products (e.g., insurance, loans, etc.). We are looking for engineers to join our team in Toronto. Jerry.ai is founded by serial entrepreneurs who previously built and scaled YourMechanic (“Uber for car repair,” the nation’s largest on-demand car repair site). 
+ About the role: 
+ We are looking for experienced software developers who love tackling convoluted problems and coming up with clean, stable solutions that scale. The ideal candidate would be someone who has a genuine passion for designing and implementing elegant software solutions. They would also be intimately familiar (and up to date) with their development ecosystem for making sound decisions when it comes to choosing the right tool or library for the job. We expect our senior engineers to be able to contribute across the entire product stack, as well as collectively oversee the integrity of the codebase. 
+ Our technical stack: 
+ 
+ Javascript (with Flow) codebase: NodeJS (Express), React, React Native 
+ GraphQL API (no REST) 
+ PostgreSQL DB (transactional) 
+ ClickHouse (columnar DB for data warehousing) 
+ Redis (session storage, task queue management) 
+ Sequelize ORM (exploring Prisma as a potential replacement) 
+ Jest test runner 
+ Infrastructure: Docker images orchestrated with Kubernetes, Ksonnet. Currently all hosted on AWS. 
+ 
+ Technology 
+ Other jobs at Jerry, Inc. 
+ Software Engineer at Jerry.ai 
+ fulltime 
+ Toronto, Canada 
+ Full Stack 
+ Any (new grads ok) 
+ Data Engineer 
+ fulltime 
+ Toronto, ON, Canada / Remote 
+ Data Science 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

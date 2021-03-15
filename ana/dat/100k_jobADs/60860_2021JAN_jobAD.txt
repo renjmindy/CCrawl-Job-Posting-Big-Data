@@ -1,0 +1,57 @@
++974 6688 1044  connect@workingwithheart.com 
+ 
+ 
+  Facebook  
+ 
+ 
+  Twitter  
+ 
+ 
+  Instagram  
+ 
+ 
+  Facebook  
+ 
+ 
+  Twitter  
+ 
+ 
+  Instagram  
+ 
+ 
+   
+ 
+ Home 
+ HRO 
+ HRIS 
+ Consulting 
+ BLOG 
+ 
+ Select Page 
+ Closing Analytics Talent Gaps: College to Career 
+ by  mc  | Jun 11, 2020 |  Corporate Culture  |  0 comments 
+ Nearly all organizations are struggling to find top talent and identify best practices for aligning college and career pathways. Moreover, there is a substantial talent gap when it comes to early-career hires. Recent research from  Strada/Gallup  found that while 95 percent of chief academic officers felt graduates were prepared, only 11 percent of business leaders felt that recent hires possessed the necessary skills to be successful at the start of their careers. 
+ The solution lies in getting all the components right, which means aligning the right skills, taught in the right academic programs, to the right students, who are ready to work at the right companies. 
+ The Demand Challenge 
+ For educational institutions, increased interaction with employers will likely better prepare students to enter the labor market. These relationships will help institutions develop programs and curricula designed to prepare students with the most in-demand knowledge and skills to compete in the job market. The ten emerging tech jobs for 2020 — as  forecasted by Emsi , a labor market analytics firm — point to a continually evolving digital landscape. Some of these jobs reflect nascent technologies, while others exemplify how quickly yesterday’s innovations have become standard operating functions today. The list is telling, including Cloud Data Engineer, Site Reliability Engineer/Developer, MVC (Model View Controller) Developer, Data Analytics Specialist, Cyber Defense Engineer, Visual Interaction Designer, and Infrastructure Developer. 
+ As higher education faces declining enrollment (some of which is triggered by the COVID-19 pandemic), ensuring that students receive the training they need for the most in-demand skills is essential. A better connection between educators and employers could mean that curricula are adjusted more quickly to reflect labor market needs. In turn, this could enable educational institutions to not only provide up-to-date training and enablement, but also increase enrollment as a result. 
+ Aligning College and Career Pathways 
+ To close the competency gap and find top early-career talent, it may not be enough for companies to simply post positions in a variety of places and engage prospective employees at college career fairs. Many academic programs partner with workforce organizations who work with a variety of employers to help their students with data projects, internships, and in-demand skill-building to help ensure their students are more competitive on the job market. 
+ In the data science and analytics space, SAS Academic Programs is one of the leading workforce analytics organizations. Recently, I spoke with Lynn Letukas, Director of Global Academic Programs at  SAS , a leading analytics software company, to better understand the tools and strategies that align great early-career talent to top employers. 
+ As Letukas explained, “SAS is uniquely positioned to align college and career pathways because our analytical solutions are used by 90 of the top 100 Fortune 500 companies, so employers look to us to gain a competitive advantage in their hiring needs. Programs at colleges and universities that teach SAS also look to us to help their students obtain those in-demand jobs.” SAS does not just work with large multinational companies, as Letukas explained, “Through our work with Fortune 500 companies, we gained considerable expertise on best practices for building college-career pathways and now, we’re broadening that work through the use of a scalable solution that can help any company fill their early-career talent needs.” 
+ In an effort to offer a more expansive opportunity for prospective employees and employers, SAS recently partnered with  Handshake  to help customers identify top early-career talent. Letukas explained, “We are very excited to work with Handshake on a scalable solution so that nearly any organization looking to find top talent in the analytics and data science space will have more equitable access to the talent pipeline. By expanding the scalability of talent connections, we are helping to facilitate a more unified college and career pathway.” 
+ A New Approach 
+ What’s notable about this new paradigm in talent sourcing is that it returns to an age-old tradition of higher education as the provider of talent — armed with not only the traditional breadth of knowledge, but competencies that remain viable into the future. At the same time it circumvents a rising issue in education: not all students who are aiming for jobs in the technology sector are choosing obvious majors, and a large proportion don’t settle into careers related to their majors at all. 
+ As reported by  CareerBuilder , half of college graduates do not go into the field of their university major and one third never work in the field of their major. Further, an Emsi  report on college students’ early career tracks  indicates that the typical career path is more circuitous than straight — which may mean employers are missing out on attracting the right candidates if they are only hiring from the same academic programs or majors. To put it simply, there is clearly a need to better align supply and demand. 
+ What my conversation with Lynn Letukas brought to light is that companies need to participate in talent acquisition far sooner along the employment journey, which for smaller firms, until recently, may have been somewhat limited. From a talent perspective, being able to quickly engage in a new job has a marked impact on the success of an early hire. For students, that can hinge on receiving an education that has its eye on the market, and gaining access to pre-hire opportunities, such as internships and other early experiences, to not only get a feel for an organization and a role, but also to get a sense of their own competency and potential. The  Strada/Gallup survey  found that for college alumni, “supportive relationships and relevant, engaging learning experiences,” are connected to higher  engagement and wellbeing  in the workplace. 
+ Expanding Opportunity 
+ The SAS/Handshake partnership provides a new roadmap to acquiring early-career talent for all sides — it democratizes opportunities both for companies who may not have the resources of a Fortune 500, and for students who may get lost in the maze of larger talent connection platforms. 
+ This partnership also provides a new resource for recruiters looking for the means to increase talent pools by turning universities themselves into talent pools, and providing ways to make contact, connect, and source. This, in turn, may bring about an effective solution to another pressing need — to  create more diverse teams in the workforce . This is also a new way to find top talent outside of traditional STEM programs, and create more dynamic and ongoing relationships and outreach. That’s exactly what our future talent needs to help them start their careers, and it’s what companies need to close the analytics skills gaps and meet their growing hiring goals. 
+ This post is sponsored by SAS. 
+ Submit a Comment  Cancel reply 
+ Your email address will not be published. Required fields are marked * 
+ Comment 
+ Name * 
+ Email * 
+ Website 
+ ©2021 Working With Heart. All Rights Reserved. Made with ♥ by  Silverfox   Privacy Policy  |  Terms of Use 

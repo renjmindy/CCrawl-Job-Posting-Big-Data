@@ -1,0 +1,69 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Sr. Full Stack Java Developer 
+ CIBC 
+ __Toronto, ON 
+ Apply Now 
+ We’re building a relationship-oriented bank for the modern world. We need talented, passionate professionals who are dedicated to doing what’s right for our clients. 
+ At CIBC, we embrace your strengths and your ambitions so you feel empowered at work. Our team members have what they need to make a meaningful impact and feel truly valued for who they are and what they contribute. 
+ To learn more about CIBC, please visit CIBC.com 
+ Job Description 
+ You’ll be a key part of an innovative, “first to market” technology culture, contributing to CIBC’s digital transformation. As a Sr.Full Stack Developer within CIBC’s Personal and Small Banking Technology department, you’ll lead a development project team in the technical design, development and integration of cross-functional, multi-platform application systems. You’ll build easy, flexible, and personalized banking solutions that enhance client experience and change the way that people bank. 
+ How You’ll Succeed 
+ Design & Develop:  Act as a SME on the analysis and documentation of requirements, estimations for assigned work packages and coordination for end-to-end implementation of program specific solutions. Lead the design and development of cost-effective and innovative solutions to meet business objectives while also maintaining existing applications 
+ Programming Ability:  Perform and coordinate complex application programming activities: develop specifications, code, test, debug, document, and adjust in order to ensure successful implementation and maintenance of programs. Design application's technical infrastructure: specific databases, programming languages, utilities, and testing approaches. 
+ Lead & Influence:  Lead code-review sessions and ensure overall code quality aligns with business and project requirements. Monitor production and user acceptance testing support to troubleshoot complex problems on applications and technologies. Provide support for the organization’s transformation from Waterfall to Agile. 
+ Who You Are 
+ You can demonstrate experience in:  You have 8+ years of hands-on experience in Java, Spring Framework including familiarity with JPA, Spring WS, Spring Boot, Spring MVC, Security. You have technical experience with writing enterprise programs using Java. You have experience working with Microservices and Dev Ops technologies. You have 8+ years experience with web technology in Javascript ES6, HTML, CSS. 8+ years experience with Java and Java frameworks (Spring, JPA), Weblogic, Unix. You have working knowledge of data modeling, database design and programming (T-SQL, Oracle, Stored Procedures), TFS and GIT source control. It would be considered an asset if you have experience with JEE, AngularJS, C# .NET, Redis, OpenShift, Kubernetes, DevOps. 
+Your influence makes an impact. You know that relationships and networks are essential to success. You inspire outcomes by making yourself heard. 
+You're driven by collective success. You know that collaboration can transform a good idea into a great one. You understand the power of a team that enjoys working together to create a shared vision. You are passionate about client service - You want the work you do each day to result in a positive client experience. 
+Values matter to you. You bring your real self to work and you live our values - trust, teamwork, and accountability. 
+ What CIBC Offers 
+ At CIBC, our people are our greatest asset. You’ll become part of a diverse community that acknowledges everyone’s unique talents, and empowers teams to do what’s right for the client, and to do it well. As part of our team, you will: 
+ Thrive:  Benefit from an open and approachable culture that provides the flexibility and support you need to integrate your life at work and at home 
+ Connect :  Work in a place where the right technology and infrastructure fosters innovation, collaboration and creativity 
+ Develop:  Grow your skills and career through our best-in-class onboarding experience, ongoing learning opportunities, and individual development planning. 
+ Prosper:  Share in our collective success with a competitive salary, incentive pay, banking benefits, health benefits program, and employee share purchase plan 
+ What You Need to Know 
+ CIBC is committed to creating an inclusive environment where all team members and clients feel like they belong. We seek applicants with a wide range of abilities and we provide an accessible candidate experience. If you need accommodation during the application or interview process, please contact Mailbox.careers-carrieres@cibc.com 
+You need to be legally eligible to work at the location(s) specified above and, where applicable, must have a valid work or study permit 
+ Job Location 
+ Toronto-750 Law Ave. W., E5 
+ Employment Type 
+ Regular 
+ Weekly Hours 
+ 37.5 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

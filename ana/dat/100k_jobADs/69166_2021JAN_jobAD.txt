@@ -1,0 +1,404 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Testing Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Testing Expert ? 
+ ](https://www.workana.com/en/hire/testing) 
+ 3 weeks ago 
+ Looking for a Qa/Software Tester (with past experience) for a Websi... 
+ Published: 3 weeks ago  Bids: 3 
+ We're developing a confidential website application for computer and mobile. The theme of the website is centered around Traveling and Social Media. The objective is to achieve a bug free and UX friendly website. 
+We need someone with the experience of testing given scenarios on computer, and is also capable of creating their own scenarios from a user's perspective. You should be able to document your work in a report and submit the issues according to the format required by us. You should also be familiar with task management apps such as Trello or Jira. 
+ You should have the basic knowledge of the commonly used social media applications and should be able to communicate and write in English fluently. You will need to dedicate 8 hours a day, 6 days a week. 
+ Once you pass the interview, we'll have you sign an NDA document and then train you on the website. We won't be paying for the hours trained. If training output is favorable, we will then form a contract with you in the coming month. 
+ If you have any other questions, you could ask them in your proposal or during the interview. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Large 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  Z. I. Saudi Arabia 
+ USD 250 - 500 
+ 2 months ago 
+ Easy beta-testing for game-apps 
+ Published: 2 months ago  Bids: 1 
+ I want you to conduct quick-1 minute beta-testing of game apps which I will provide to you. 
+This time the budget is 10USD for 20 apps as total（1 minute testing for each so total 20 minutes）. 
+ You need 
+1. Windows PC 
+2. Google Play account（United States account or Japanese account. 
+Please manage it by yourself.） 
+3. Internet connection 
+ You will test games 1 minute and check if it works without problem and take screenshot as proof. 
+ This task is so easy and exciting if you love games. 
+After completing 20 games and you want to continue, then I will provide you more games to test. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Published by:  T. Japan 
+ Less than USD 50 
+ 4 months ago 
+ Qa Tester  prime client 
+ Published: 4 months ago  Project duration: 3 - 4 months Bids: 5 
+ Please don't apply if you are not fluent in Spanish language. We only consider Fluent Spanish Speakers. 
+ ----- 
+Sirena is the one and only WhatsApp CRM. We develop technology that simplifies sales communications. We help businesses communicate better with their customers in order to improve their sales. 
+ We are one of the fastest-growing Startups in Latinamerica. 
+ -------------------------------- 
+Required Skills and Knowledge: 
+-------------------------------- 
+ Analyze the requirements of the end user to define and document the test plans. 
+ - Execute test cases, debug, detect errors and / or possible improvements, document them and follow up to solve them. 
+ - Generate reports of test results and errors detected. 
+ - Define priorities and plan tests of system requirements. 
+ - Document the functionalities of the systems. 
+ Knowledge of design patterns, scalable architectures and high performance interfaces (ex: RecyclerView using multiple views, custom view, etc) 
+Proactivity (we don't want to spend time pushing people) 
+Amazing remote communication skills 
+ -------------------------------------------------- 
+What I am going to provide (input) 
+-------------------------------------------------- 
+ Full access to our codebase. 
+Access to Slack to communicate with our team. 
+ ------------------------------ 
+How To Quote 
+------------------------------ 
+ For your quote to be considered please include in your proposal: 
+ 
+ 
+ Why are you a great fit for this job? 
+ 
+ 
+ Please describe 2 past projects that are similar to this. 
+What were you hired to do? What did you achieve? How did you know you were successful? 
+ 
+ 
+ Please confirm you understand we always use Workana to pay our team. And that you MUST use Toggl to track your time. 
+ 
+ 
+ NO manual logging will be accepted. 
+ 
+ 
+ Your hourly rate so we know how much it will cost us to keep working with you. 
+ 
+ 
+ Your preferred time frame where you usually be always available (this helps us a lot with the internal team communication): 
+10:00 to 14:00 (gmt-3) 
+14:00 to 18:00 (gmt-3) 
+ 
+ 
+ what is your experience as a developer? describe some tasks you’ve done in the past. 
+ 
+ 
+ In the first phrase of your proposal/quote include the word "IAMAWESOME" so I know that you've read our specs. 
+ IMPORTANT: If you don't include all of the above points, then we won't consider your quotation. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Full time 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Business analyst 
+ Published by:  E. S. Last reply: 4 months ago  United States Payment method:  __Verified 
+ USD 20 - 30 / hour 
+ 6 months ago 
+ Mobile App Qa Tester 
+ Published: 6 months ago  Bids: 3 
+ We're a mobile app built in React Native. It's available for Android and iOS. 
+We are looking for a freelance interested in building a long-term relationship with our small team. 
+ Your task: 
+- Design test scenarios and cases. 
+- Manual testing in Android and iOS. 
+- Document results and report bugs. 
+ - Being REALLY clear and organised with the communication and with your work. 
+ Requirements: 
+- Previous experience in QA & testing mobile apps. 
+- Own physical devices (iPod/iPhone, Mac and Android phone). 
+- Located in Argentina is a nice to have. 
+ - Basic programming knowledge. 
+- Good sense of ux/ui. 
+ At the beginning we expect only around 5-10 hours/week. 
+ Questions for you: 
+1- Please tell us your previous experience with QA/testing mobile apps. 
+2- Please tell us what physical devices do you own. 
+3- Please sign download our app (search "Pura Mente" on stores) and provide a simple report with your suggestions and/or bugs. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Published by:  M. B. Argentina 
+ USD 50 - 100 
+ 7 months ago 
+ Copy of Marketing research of mobile advertising 
+ Published: 7 months ago  Deadline: 5 Bids: 2 
+ To participate in the marketing research of mobile advertising, you must 
+- install app 
+- see the advertising (banner or video) 
+- take a screenshot of the advertising 
+- upload to google drive (to the special link) 
+We pay 2$ for 50 ad views per day 
+IMPORTANT! 
+- Upload the screenshot of the advertisement immediately after it was done 
+- Do not close the application from the background (standby mode) 
+- Do not open the application during the second and subsequent cycles, wait for the automatic opening. 
+The detailed instruction is in the attachment. 
+ Category  : Sales & Marketing 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  M. Russian Federation 
+ Less than USD 50 
+ 9 months ago 
+ Atm code testing (Java) 
+ Published: 9 months ago  Bids: 2 
+ We are about to produce an application similar to ATM machine functionalities so what do we need to have an idea about how to test it , what you have to do is to get an ATM machine code (should be java) from internet and to do certain software testings and then submit the source code , testing code and the used tool with screenshots and test report 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  Y. S. Last reply: 9 months ago  Saudi Arabia 
+ Open 
+ 10 months ago 
+ Senior Load Test Engineer 
+ Published: 10 months ago  Bids: 0 
+ We are looking for a Senior Load Test Engineer to work from home for a challenging project in the US. You will be joining the team of a distributed company in the health, wellness and fitness industry, focused on using the science of behavior change to help people live healthier, happier lives. 
+ By joining our team, you will participate in different projects, building and executing test cases, monitoring performance and analyzing test results, and maintaining performance testing applications and datasets. 
+ The successful candidate will also collaborate and communicate remotely with different cross-functional teams of other Engineers, Product Owners and business stakeholders to improve the performance of the applications, using agile methodologies. 
+ This is a remote, full-time position with a 40-hours workload per week for Latin America only. 
+ Requirements 
+5+ years of professional experience in an engineering role 
+2+ years of work experience in load testing 
+Proficiency with standard performance testing and automation tools 
+Strong written and verbal communication skills 
+Excellent problem solving and analytical skills 
+A trustworthy, goal-oriented team player with organizational and time-management skills 
+Capable of collaborating and communicate efficiently with a distributed team 
+ Desired Skills 
+Understanding of NeoLoad 
+Knowledge of C# 
+Git (Gitflow experience ideal) 
+Experience working with agile methodologies 
+Experience working in remote teams 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Large 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  A. O. Argentina 
+ Over USD 3,000 
+ Next 
+ 
+ 1 
+ 2 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

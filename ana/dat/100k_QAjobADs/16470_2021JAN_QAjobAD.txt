@@ -1,0 +1,6 @@
+ Qualifications: 
+ 2+ years of solid Android development experience 
+ Understanding of material design principles and interface guidelines 
+ Solid knowledge of Android SDK 
+ Working knowledge of Java and Kotlin is a bonus 
+ Have published apps to Google Play 

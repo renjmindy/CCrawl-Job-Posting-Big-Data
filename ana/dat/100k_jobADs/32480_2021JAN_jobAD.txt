@@ -1,0 +1,405 @@
+Schlagwort­bersicht  Search 
+ Generic filters 
+ Hidden label 
+ Exact matches only 
+ Hidden label 
+ Hidden label 
+ Hidden label 
+   
+ 
+ 
+ Our Services 
+ 
+ Organizational 
+Development 
+ 
+ Working Agile 
+ Change & Transition 
+ Coaching in a System 
+ Merger / Post Merger Integration 
+ Team Development 
+ Vision, Mission, Strategy and Culture 
+ 
+ 
+ Human Resource Development 
+ 
+ Development of Competencies in Sales, Marketing, and Distribution 
+ Coaching 
+ Call a Coach 
+ Leadership Development 
+ Management Competencies for Experts 
+ Strategic Human Resource Development 
+ 
+ 
+ Our International Programs 
+ 
+ Key Player Programs 
+ Leadership Core Performance Programs 
+ Pick your focus topics 
+ Talent Programs 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ Career 
+ Blog 
+ Current Topics 
+ 
+ 
+ 
+ CONTRACT 
+ 
+ Spirit 
+ 
+ Mission 
+ How We Work 
+ Services 
+ 
+ 
+ Our Team 
+ 
+ Executive board 
+ Karlsruhe 
+ Cologne 
+ Base Berlin 
+ Cape Town 
+ 
+ 
+ Locations 
+ 
+ Karlsruhe 
+ Cologne 
+ Base Berlin 
+ Cape Town 
+ 
+ 
+ 
+ 
+ 
+ English 
+ 
+ 
+ German 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ Our Services 
+ 
+ Organizational 
+Development 
+ 
+ Working Agile 
+ Change & Transition 
+ Coaching in a System 
+ Merger / Post Merger Integration 
+ Team Development 
+ Vision, Mission, Strategy and Culture 
+ 
+ 
+ Human Resource Development 
+ 
+ Development of Competencies in Sales, Marketing, and Distribution 
+ Coaching 
+ Call a Coach 
+ Leadership Development 
+ Management Competencies for Experts 
+ Strategic Human Resource Development 
+ 
+ 
+ Our International Programs 
+ 
+ Key Player Programs 
+ Leadership Core Performance Programs 
+ Pick your focus topics 
+ Talent Programs 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ Career 
+ Blog 
+ Current Topics 
+ 
+ 
+ 
+ CONTRACT 
+ 
+ Spirit 
+ 
+ Mission 
+ How We Work 
+ Services 
+ 
+ 
+ Our Team 
+ 
+ Executive board 
+ Karlsruhe 
+ Cologne 
+ Base Berlin 
+ Cape Town 
+ 
+ 
+ Locations 
+ 
+ Karlsruhe 
+ Cologne 
+ Base Berlin 
+ Cape Town 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Career 
+ Your Future with CONTRACT 
+ As a company, CONTRACT is open to new ideas, developments and suggestions. Mostly it is people who bring in exactly that. We are looking for contacts that enrich us in this sense, people who are looking for an exchange and who are interested in creating something together that will enable them, their colleagues and their customers to grow. In the ideal case, developments in our company can be linked to your personal life stages. Whether this phase is designed as an internship, as a cooperation or as a permanent position, we will find out together. Come to us. We look forward to discussing this with you in a personal conversation. 
+ You could see our open positions on our german website. 
+ If you are interested in a cooperation with us we are happy if you contact us via phone or mail. 
+ CONTRACT KG 
+Erbprinzenstraße 4-12 
+76133 Karlsruhe 
+ Mail  info@world-of-contract.com 
+ Web  www.world-of-contract.com 
+ Tel +49 (0) 721-92 06 7-0 
+ Fax +49 (0) 721-92 06 7-11 
+ Quick Links 
+ 
+ Current Topics 
+ Aktuelle Themen 
+ Some of our blog articles 
+ 
+ 
+ 
+ 
+ 
+ CONTRACT KG 
+ Erbprinzenstraße 4-12 
+ 76133 Karlsruhe 
+ Mail info@world-of-contract.com 
+ Tel[+49 (0) 721-92 06 7-0](tel:+49 (0) 721-92 06 7-0) 
+ Web world-of-contract.com 
+ Fax[+49 (0) 721-92 06 7-11](tel:+49 (0) 721-92 06 7-11) 
+ Newsletter 
+ Die Hinweise zum  Datenschutz  erkenne ich an. 
+ Leave this field empty if you're human: 
+ 
+ 
+ Contact 
+ 
+ 
+ Newsletter 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Our Team 
+ 
+ 
+ Locations 
+ 
+ 
+ Blog 
+ 
+ 
+ Services 
+                                     WP_Post Object
+ 
+ (
+[ID] => 2243
+[post_author] => 6
+[post_date] => 2018-11-25 20:14:02
+[post_date_gmt] => 2018-11-25 20:14:02
+[post_content] =>
+[post_title] => Services
+[post_excerpt] =>
+[post_status] => publish
+[comment_status] => closed
+[ping_status] => closed
+[post_password] =>
+[post_name] => services
+[to_ping] =>
+[pinged] =>
+[post_modified] => 2018-11-26 01:41:48
+[post_modified_gmt] => 2018-11-26 01:41:48
+[post_content_filtered] =>
+[post_parent] => 0
+[guid] => https://world-of-contract.com//?p=2243
+[menu_order] => 1
+[post_type] => nav_menu_item
+[post_mime_type] =>
+[comment_count] => 0
+[filter] => raw
+[db_id] => 2243
+[menu_item_parent] => 0
+[object_id] => 2014
+[object] => post
+[type] => post_type
+[type_label] => Post
+[url] => https://world-of-contract.com/en/our-services/services/
+[title] => Services
+[target] =>
+[attr_title] =>
+[description] =>
+[classes] => Array
+(
+[0] =>
+) 
+ [xfn] => 
+ 
+ 
+ 
+                             
+ 
+ 
+ 
+ 
+ Organizational 
+Development 
+ Human Resource Development 
+ Our International Programs 
+ 
+ 
+ 
+ CONTRACT 
+                                     WP_Post Object
+ 
+ (
+[ID] => 2011
+[post_author] => 6
+[post_date] => 2018-11-23 15:45:23
+[post_date_gmt] => 2018-11-23 15:45:23
+[post_content] => 
+[post_title] =>
+[post_excerpt] =>
+[post_status] => publish
+[comment_status] => closed
+[ping_status] => closed
+[post_password] =>
+[post_name] => 2011
+[to_ping] =>
+[pinged] =>
+[post_modified] => 2018-11-26 01:41:48
+[post_modified_gmt] => 2018-11-26 01:41:48
+[post_content_filtered] =>
+[post_parent] => 0
+[guid] => https://world-of-contract.com//2011/
+[menu_order] => 5
+[post_type] => nav_menu_item
+[post_mime_type] =>
+[comment_count] => 0
+[filter] => raw
+[db_id] => 2011
+[menu_item_parent] => 0
+[object_id] => 1711
+[object] => post
+[type] => post_type
+[type_label] => Post
+[url] => https://world-of-contract.com/en/uncategorized/contract/
+[title] => CONTRACT
+[target] =>
+[attr_title] =>
+[description] =>
+[classes] => Array
+(
+[0] =>
+) 
+ [xfn] => 
+ 
+ 
+ 
+                             
+ 
+ 
+ 
+ 
+ Spirit 
+ Mission 
+ Services 
+ 
+ 
+ 
+ News 
+                                     WP_Post Object
+ 
+ (
+[ID] => 2249
+[post_author] => 6
+[post_date] => 2018-11-25 20:17:58
+[post_date_gmt] => 2018-11-25 20:17:58
+[post_content] =>
+[post_title] => News
+[post_excerpt] =>
+[post_status] => publish
+[comment_status] => closed
+[ping_status] => closed
+[post_password] =>
+[post_name] => news-2
+[to_ping] =>
+[pinged] =>
+[post_modified] => 2018-11-26 01:41:48
+[post_modified_gmt] => 2018-11-26 01:41:48
+[post_content_filtered] =>
+[post_parent] => 0
+[guid] => https://world-of-contract.com//?p=2249
+[menu_order] => 9
+[post_type] => nav_menu_item
+[post_mime_type] =>
+[comment_count] => 0
+[filter] => raw
+[db_id] => 2249
+[menu_item_parent] => 0
+[object_id] => 2079
+[object] => post
+[type] => post_type
+[type_label] => Post
+[url] => https://world-of-contract.com/en/news/news/
+[title] => News
+[target] =>
+[attr_title] =>
+[description] =>
+[classes] => Array
+(
+[0] =>
+) 
+ [xfn] => 
+ 
+ 
+ 
+                             
+ 
+ 
+ 
+ 
+ Blog 
+ Career 
+ Current Topics 
+ 
+ 
+ 
+ Sitemap  Copyright © 2021 Contract KG 
+ This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPT 
+ Privacy & Cookies Policy 
+ Close 
+ Privacy Overview 
+ This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience. 
+ Necessary 
+ Necessary 
+ Always Enabled 
+ Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information. 
+ Non-necessary 
+ Non-necessary 
+ Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. 

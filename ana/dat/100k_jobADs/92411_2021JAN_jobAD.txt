@@ -1,0 +1,397 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Python Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Python Developer ? 
+ ](https://www.workana.com/en/hire/python) 
+ 11 hours ago 
+ Odoo - Quickbooks Online Conector enhancement  plus client 
+ Published: 11 hours ago  Deadline: 24 Bids: 1 
+ We currently have a module that integrates QBO-Odoo developed by Pragmatic Tech purchased from the Odoo APP store. This development requires adding functionalities to said module. These functionalities are: 
+1. 
+ Automate product creation /update from Odoo <=> QBO 
+2.    Automate customer creation/update from Odoo <=> QBO 
+3.    Automate inventory update Odoo <=> QBO 
+4. 
+ Automate Invoice update Odoo <=> QBO 
+5.    Automate payment informaction Odoo <=> QBO 
+The freelancer must consider the following tips: 
+•    Actually both systems has vital information (Some invoices exist in QBO and not in Odoo) 
+•    We have developer instance for Odoo 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Published by:  A. G. Last reply: 4 hours ago  Peru Payment method:  __Verified 
+ USD 100 - 250 
+ 20 hours ago 
+ Inventory management software for jewelry 
+ Published: 20 hours ago  Bids: 15 
+ I need a custom made inventory management software for jewelry that is able to import my current software database. current software is running on an old system with wamp server and mysql 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Cloud Storage (Dropbox, Google Drive, etc.) 
+ Required platforms  : Windows 
+ Published by:  B. L. Last reply: 20 hours ago  Indonesia 
+ USD 500 - 1,000 
+ 2 days ago 
+ Remote C+3d Developer 
+ Published: 2 days ago  Project duration: 3 - 4 months Bids: 2 
+ Join the world’s largest virtual company! 
+Work from anywhere – Flexible hours – Training & travel opportunities 
+ Scopic is seeking a skilled Remote C++/3D Developer to join our team of 250+ professionals in over 40 countries. The successful applicant will work with a team of talented developers, designers, and project managers to develop industry-leading applications with the latest technologies. This is a full-time, home-based position. 
+ Develop Meaningful Applications for Clients Invested in Your Success 
+All Scopic projects involve working with challenging, innovative applications. When you work with us, you will not just be maintaining old code or wasting time on applications that will never see the light of day. The applications Scopic develops are the cornerstone of our clients’ businesses. 
+Clients and users will rely on you to write quality code and keep mission-critical applications running optimally. 
+ Grow Your Skills and Your Career, Fast 
+We offer training opportunities to keep your skills sharp and encourage you to stay up-to-date with ever-evolving technologies. As your skills grow, you will have opportunities to move up in the company. 
+If you work hard and deliver quality results, you will do very well here. Pay raises and promotions are completely merit-based, so your success is in your hands. 
+ Become a Valuable Part of a Small, Dynamic International Team 
+Unlike huge tech corporations like Google and Microsoft, Scopic employees don’t get lost in bureaucracy or sidelined doing the same boring tasks day after day. 
+Most projects last six months to one year, so our developers have the opportunity to try their skills on a diverse range of applications. Scopic programmers work independently and are entrusted with considerable responsibility. 
+ Why Work With Scopic? 
+•    Flexible working hours, set your own schedule 
+•    Freedom to travel and work from anywhere in the world 
+•    Ability to work wherever you are most comfortable (home, office, park, café, etc.) 
+ •    Reliable, consistent workload 
+•    Salaried and hourly positions available 
+•    Annual pay increases for good performance 
+•    Paid training and other professional growth opportunities 
+•    International travel opportunities (not required) 
+•    Interesting, challenging projects using the latest technologies 
+Requirements: 
+•    3+ years of experience in commercial software development 
+•    Strong C++ programming skills 
+•    Proficiency using Qt and VTK 
+•    Experience with network programming (e.g. Sockets, TCP connection) 
+•    Experience with 2D/3D graphics programming 
+•    Experience with 3D engines,  e.g.Unreal , AWS Lumberyard 
+•    Good algorithm and mathematics skills 
+•    Architecture skills, commitment to code design best practices 
+•    Good English reading and writing skills 
+•    Bachelor's degree or higher 
+•    Stable internet connection and home computer 
+Salary: Negotiable depending on skills and experience. Hourly and salary positions available. Employees are paid monthly via wire transfer. 
+ Please apply online:   https://scopicsoftware.recruiterbox.com/jobs/fk0u3by?source=Workana 
+ About Scopic 
+Scopic is the world’s largest virtual company. Founded in 2006, we have grown consistently by delivering innovative, cutting-edge software products for our clients and creating an empowering environment for our employees. 
+ We build advanced software for clients and users around the globe. 
+With 10+ years in the industry and 1000+ projects under our belt, we’ve developed software for Manufacturing, Media and Entertainment, Fintech, Healthcare, Food and Fitness, and Gaming. Check out our development work on our portfolio:  scopicsoftware.com/portfolio/. 
+ Scopic is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ Learn more about career opportunities at Scopic:  scopicsoftware.com/careers. 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Full time 
+ Required platforms  : Windows, Mac OS, Linux / Unix 
+ Published by:  S. R. T. United States 
+ USD 20 - 30 / hour 
+ 5 days ago 
+ Uart communication with Raspberry Pi 3 
+ Published: 5 days ago  Bids: 1 
+ I need someone to enable UART protocol on Raspberry Pi 3 for communication with a serial relay board and to explain to me exactly how it was done. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Published by:  V. S. G. Brazil 
+ USD 50 - 100 
+ 2 weeks ago 
+ Remote C+3d Developer 
+ Published: 2 weeks ago  Project duration: 3 - 4 months Bids: 2 
+ Join the world’s largest virtual company! 
+Work from anywhere – Flexible hours – Training & travel opportunities 
+ Scopic is seeking a skilled Remote C++/3D Developer to join our team of 250+ professionals in over 40 countries. The successful applicant will work with a team of talented developers, designers, and project managers to develop industry-leading applications with the latest technologies. This is a full-time, home-based position. 
+ Develop Meaningful Applications for Clients Invested in Your Success 
+All Scopic projects involve working with challenging, innovative applications. When you work with us, you will not just be maintaining old code or wasting time on applications that will never see the light of day. The applications Scopic develops are the cornerstone of our clients’ businesses. 
+Clients and users will rely on you to write quality code and keep mission-critical applications running optimally. 
+ Grow Your Skills and Your Career, Fast 
+We offer training opportunities to keep your skills sharp and encourage you to stay up-to-date with ever-evolving technologies. As your skills grow, you will have opportunities to move up in the company. 
+If you work hard and deliver quality results, you will do very well here. Pay raises and promotions are completely merit-based, so your success is in your hands. 
+ Become a Valuable Part of a Small, Dynamic International Team 
+Unlike huge tech corporations like Google and Microsoft, Scopic employees don’t get lost in bureaucracy or sidelined doing the same boring tasks day after day. 
+Most projects last six months to one year, so our developers have the opportunity to try their skills on a diverse range of applications. Scopic programmers work independently and are entrusted with considerable responsibility. 
+ Why Work With Scopic? 
+•    Flexible working hours, set your own schedule 
+•    Freedom to travel and work from anywhere in the world 
+•    Ability to work wherever you are most comfortable (home, office, park, café, etc.) 
+ •    Reliable, consistent workload 
+•    Salaried and hourly positions available 
+•    Annual pay increases for good performance 
+•    Paid training and other professional growth opportunities 
+•    International travel opportunities (not required) 
+•    Interesting, challenging projects using the latest technologies 
+Requirements: 
+•    3+ years of experience in commercial software development 
+•    Strong C++ programming skills 
+•    Proficiency using Qt and VTK 
+•    Experience with network programming (e.g. Sockets, TCP connection) 
+•    Experience with 2D/3D graphics programming 
+•    Experience with 3D engines,  e.g.Unreal , AWS Lumberyard 
+•    Good algorithm and mathematics skills 
+•    Architecture skills, commitment to code design best practices 
+•    Good English reading and writing skills 
+•    Bachelor's degree or higher 
+•    Stable internet connection and home computer 
+Salary: Negotiable depending on skills and experience. Hourly and salary positions available. Employees are paid monthly via wire transfer. 
+ Please apply online:   https://scopicsoftware.recruiterbox.com/jobs/fk0u3by?source=Workana 
+ About Scopic 
+Scopic is the world’s largest virtual company. Founded in 2006, we have grown consistently by delivering innovative, cutting-edge software products for our clients and creating an empowering environment for our employees. 
+ We build advanced software for clients and users around the globe. 
+With 10+ years in the industry and 1000+ projects under our belt, we’ve developed software for Manufacturing, Media and Entertainment, Fintech, Healthcare, Food and Fitness, and Gaming. Check out our development work on our portfolio:  scopicsoftware.com/portfolio/. 
+ Scopic is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ Learn more about career opportunities at Scopic:  scopicsoftware.com/careers. 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Full time 
+ Required platforms  : Windows, Mac OS, Linux / Unix 
+ Published by:  S. R. T. United States 
+ USD 20 - 30 / hour 
+ 2 weeks ago 
+ Experiaenced web scraper needed 
+ Published: 2 weeks ago  Bids: 11 
+ Web specialized in Web Scraping. Experienced web scraper needed. Long term project. 
+Product scraping on e commerce website. each time a product term is entered, scrape / save the complete product information (the text) that is displayed on each of the pages, recording the page number in particular, in a simple database 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  W. B. Last reply: 1 week ago  United States 
+ USD 500 - 1,000 
+ 2 weeks ago 
+ Password management system 
+ Published: 2 weeks ago  Bids: 6 
+ This is not professional but from University. I have done all parts but stuck in coding part, i want to help in code 
+using python I have done 40% and coding part cant solve 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Published by:  H. Last reply: 2 weeks ago  Germany 
+ Less than USD 50 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

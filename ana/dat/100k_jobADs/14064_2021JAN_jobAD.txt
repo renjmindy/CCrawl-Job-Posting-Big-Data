@@ -1,0 +1,74 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Shelf Engine (S18) 
+ Reducing food waste through automation. 
+ Data Scientist 
+ $140k - $160k • 
+ Location 
+ Seattle, WA 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Shelf Engine 
+ At Shelf Engine, we replace the buyer at grocery stores. Buyers have a complicated job - they have hundreds or even thousands of SKUs to manage, and they have to determine how much of each type to order for each day of the week. This job is so difficult that most retailers have 30% waste for their highly perishable items! At Shelf Engine, we can halve that waste. In fact, we do such a good job determining quantities to stock, we'll buy back whatever doesn't sell. Interested? Get in contact - come help us cut food waste in half! 
+ About the role 
+ Skills:  R, SQL, Docker 
+ 
+ Be one of the first to join our rapidly growing, well-funded startup in Downtown Seattle 
+ Apply Data Science best-practices to reducing the cost and ecological impact of food waste 
+ Make a big contribution across our entire product in this small, passionate team 
+ 
+ At Shelf Engine, we’re harnessing the power of AI to provide real-time, intelligent forecasting for food retailers like grocery stores, food service, and cafes across the United States. We’re able to drastically reduce the amount of shrink (food waste) which in turn drives profit for retailers, lowers costs for consumers, and reduces the ecological impact of waste. We’re using technology to solve a globally-relevant problem that both creates a positive environmental impact and an exciting (and potentially massive) commercial opportunity. 
+ We are hiring a Data Scientist to join our growing Engineering and Data team. You will be spearheading projects across the organization to determine what data we collect and how, and which other sources we passively utilize to improve our day to day business processes. Your background in mathematics and business logic will directly impact the accuracy of our forecasting, striking a fine balance between reducing customers food waste, and avoiding understocking situations. Help us solve critical problems related to the following areas: time-series, demand forecasting, continuous models, feature/trend analysis, and probability distributions. 
+ As a Data Scientist at Shelf Engine, you will: 
+ 
+ Work cross-functionally (e.g. Product, Engineering, Operations, etc) to frame problems, both mathematically and within the business context; to measure and optimize products and business processes; to identify opportunities, assess risk potentials and explain trends; to drive customer adoption and revenue growth 
+ Own the end-to-end experience with data, including querying, aggregation, deep analysis, visualization and models; presenting findings/actionable insights to internal and external stakeholders 
+ Design, analyze, and run both simulated and live experiments (A/B and multivariate tests) to drive KPI improvement 
+ Continuously improve the quality and accessibility of our analytical capabilities and framework as well as data reporting infrastructure 
+ Assist in data requirements gathering and data validations to improve data platforms 
+ 
+ And we think you would make a great Data Scientist if you: 
+ 
+ Have a Masters degree in a related quantitative field (Computer Science, Math, Statistics, Engineering, Physics, Economics) 
+ Bring 4+ years of relevant working experience in a similar role, preferably with specific experience in the domain of time series demand or other forecasting 
+ Have production-level experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), and statistical/mathematical programming languages (e.g. R, Matlab) 
+ Expertise with statistical analysis, applying various machine learning techniques, especially predictive modeling, to solve business problems 
+ Bring a proven ability to think creatively, solve problems, learn quickly, work independently, handle ambiguity, and adapt to change in a fast-paced environment 
+ Excellent written, verbal, and interpersonal communication and presentation skills 
+ 
+ About Us: 
+ At Shelf Engine, you will join a small, powerful Product team that’s hungry for change in an untapped industry. Our founders are well versed in the food industry, and have successfully built Product and Engineering teams. We’re not only solving complex technical problems at scale, but tackling key initiatives with large environmental impacts a well. We're a tight-knit and passionate team, determined to disrupt an industry with wide-ranging impact, and creating a significant commercial opportunity. 
+ We’re looking to add you - a Data Scientist who is passionate about marketplaces, demand forecasting, and reducing waste! APPLY NOW and get in early on a team that's changing food distribution for the better, or learn more about us at  http://shelfengine.com 
+ Shelf Engine is an equal opportunity employer and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ Technology 
+ We're taking on arbitrage risk for perishable goods. We do daily demand forecasting based on a number of factors, including historical information, product margins, etc. We have an operationally sophisticated product for automatically managing, dispatching and recording orders, and tracking sales and waste information. Domain areas range from ML and statistical forecasting, to full stack web services and mobile apps. For front end we use Angular for desktop and Ionic for mobile. Backend we are running a C# stack, with a SQL storage layer and utilizing CQRS and event sourcing patterns. For forecasting and ML we use R and python. 
+ Other jobs at Shelf Engine 
+ Data Scientist 
+ fulltime 
+ Seattle, WA 
+ Data Science 
+ $140k - $160k 
+ 3+ years 
+ Software engineer 
+ fulltime 
+ Seattle, WA / Remote 
+ Full Stack 
+ $140k - $160k 
+ 0.00% - 0.00% 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

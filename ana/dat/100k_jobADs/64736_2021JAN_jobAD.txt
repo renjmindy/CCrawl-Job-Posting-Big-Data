@@ -1,0 +1,201 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Research Engineer (Embedded Systems) 
+ Woods Hole Oceanographic Institution 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Research Engineer (Embedded Systems) 
+ Woods Hole Oceanographic Institution 
+ [](mailto:?subject=Research%20Engineer%20%28Embedded%20Systems%29&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14264816/research-engineer-embedded-systems/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 5, 2021 
+ Location: 
+ Woods Hole, Massachusetts 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Regular 
+ Woods Hole Oceanographic Institution is currently searching for a ** Research Engineer (Embedded Systems)  ** to join the Applied Ocean Physics and Engineering Department. This is a regular, full-time , exemptposition, and is eligible for full benefits. 
+ The Applied Ocean Physics and Engineering Department is recruiting qualified candidates for a position in electronic and software engineering in support of applied research and development in underwater robotics, communication, and navigation. The work will involve electronic design, development, and troubleshooting. Additionally, it will require developing embedded firmware for microcontroller-based systems and software for general purpose computers.The position will also involve going to sea to support data collection and experimentation, and post-processing and analysis. 
+ With little supervision, works creatively and independently to establish objectives, meet deadlines, and complete difficult engineering assignments by demonstrating full competency in one or more engineering areas; assists substantively in planning technical aspects of experiments, as well as design, testing, and use of major system components. 
+ Essential Functions 
+ 
+ Develops major portions of electronic or mechanical systems with supervision consisting primarily of milestone progress reviews; frequently acts as Project Engineer on major projects 
+ Conducts hardware developments such as new sensor techniques, autonomous battery-powered instrumentation, control systems for manned and robotic submersibles, etc. 
+ Writes complex computer code for use in instrumentation, system modeling, and electronic design 
+ Develops new sampling methods involving complex mechanical, electrical, or electronic instrumentation 
+ Plays a significant role in report writing and proposal preparation and may single-author results 
+ Interacts with scientific and technical staff colleagues to foster research ideas, develop and hone research/experimental skills 
+ May supervise one or more Engineering Assistants and/or Engineers 
+ 
+ NON-ESSENTIAL FUNCTIONS: 
+ 
+ As deemed necessary by supervisor 
+ 
+ Education & Experience 
+ 
+ Ph.D. in, or Master's degree in electrical engineering or computer science with several years of related experience, or Bachelor's degree in electrical engineering or computer science with more than five years of related experience. 
+ 
+ Required skills of the position include: 
+ 
+ Excellent working knowledge of C and/or C++, Python, and other programming languages such as Matlab, C#, and/or Java 
+ Electronic design skills, including schematic-level design, basic layout, and troubleshooting 
+ Experience with version control within a team software development environment 
+ Experience with programming and debugging embedded systems 
+ Experience working with oceanographic systems, including autonomous underwater vehicles 
+ Experience with field experiment planning and execution 
+ Experience working at sea 
+ 
+ Other skills that are desirable include: 
+ 
+ Experience with FPGAs and Verilog 
+ Experience with data analysis 
+ 
+ Special Requirements 
+ 
+ TWIC 
+ Must be a US Citizen 
+ Must be able to obtain Security Clearance at Secret level or above 
+ 
+ Physical Requirements 
+ Physicalduties for this position include but are not limited to, ability to liftless than 25 lbs independently, 2 times per day;carry 10-25 lbs,2 times per day. Visual abilities to include near, far, peripheral, depth perception, and ability todistinguish basic colors. Hearing requirements include the ability to hear and respond to instructions, communicate effectively in loud areas (pier/dock, warehouse).Other physical tasks include occasional prolonged standing/walking; use of hands for basic /fine grasping and manipulation, repetitive motion, reaching above and below the shoulders, pushing, pulling, kneeling, bending, twisting, and stooping. Other occupational requirements include talking, traveling, working around others, and with others. Will be exposed to dust or other irritants and electrical/mechanical/power equipment hazards.Physicalduties are subject to change. 
+ Sea Duty 
+ May work at least 8 hours per day and, at times in excess of 12 hours per day, 7 days per week. Sleep and work hours can deviate from those on land. May be expected to work on watch schedule (such as 8 hours on and 8 hours off or 12 hours on and 8 hours off) for all or part of a cruise or to work as hours are needed to accomplish the planned work. May need to travel during holidays and for long distances to and from foreign ports. May experience rudimentary living and working conditions, with shared and basic living quarters and laboratories. May experience bad or extreme weather conditions, including heavy seas, winter weather or hot, tropical weather. Work on deck may occur in both hot and cold conditions around the clock. Sea conditions will lead to active ship motion. Should be able to climb steep and vertical ladders and able to enter and exit compartments through hatches, doors, and sills. Should be able to carry heavy gear and participate in the loading and unloading of the ship as well as in the activities on deck and in the labs during the cruise. Shipboard environment may include: confined areas, shared sleeping quarters (berths) and bathroom facilities, small and basic berthing, fixed meal times and basic menus. Modest levels of heating, cooling, ventilation, and illumination, limited or no email and internet access and limited off-duty and recreational facilities (library, lounge, movies). May be exposed to potential allergens and irritants, including paint fumes. May experience constant and intermittent loud noises, and slippery and uneven surfaces. 
+ 
+ 
+ Internal Number: 2020-1374 
+  __  Create a Job Alert for Similar Jobs  
+ About Woods Hole Oceanographic Institution 
+ Woods Hole Oceanographic Institution (WHOI) is the world's leading, non-profit organization dedicated to ocean science and engineering, exploration and education. Come join a diverse organization whose curiosity, creativity, and commitment help improve the world's understanding of the ocean's importance to the plant and to society. Experience a culture of excellence, dedication, innovation and discovery.Please visit https://careers.whoi.edu for a listing of all of our openings and apply today! 
+ Connections working at Woods Hole Oceanographic Institution 
+ More Jobs Like This 
+ 
+ 
+ 
+ Postdoctoral Research Fellowships (Machine Vision/Image Analysis) 
+ __  Boston, Massachusetts 
+ 
+ 
+ 
+ 
+ Guillermo J. Tearney, M.D., Ph.D. 
+ __4 Days Ago 
+ 
+ 
+ Research Assistant for wearable dehydration sensor design 
+ __  Abu Dhabi 
+ 
+ 
+ New York University 
+ __2 Days Ago 
+ 
+ 
+ Java Developer, Officer 
+ __  Krakow, Poland 
+ 
+ 
+ State Street Corporation 
+ __3 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

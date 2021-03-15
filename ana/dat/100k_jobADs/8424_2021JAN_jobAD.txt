@@ -1,0 +1,203 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Software Engineer - IBD - Txb Payments Engineering 
+ Goldman Sachs 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Software Engineer - IBD - Txb Payments Engineering 
+ Goldman Sachs 
+ [](mailto:?subject=Software%20Engineer%20%2D%20IBD%20%2D%20Txb%20Payments%20Engineering&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14299416/software-engineer-ibd-txb-payments-engineering/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 12, 2021 
+ Location: 
+ Singapore, Singapore 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ MORE ABOUT THIS JOB 
+ WHAT WE DO 
+At Goldman Sachs, our Engineers don't just make things - we make things possible. We change the world by connecting people and capital with ideas and solve the most challenging and pressing engineering problems for our clients. Our engineering teams build scalable software and systems, architect low latency infrastructure solutions, proactively guard against cyber threats, and leverage machine learning alongside financial engineering to continuously turn data into action. 
+Engineering, which is comprised of our Technology Division and global strategist groups, is at the critical center of our business. Our dynamic environment requires innovative strategic thinking. Want to push the limit of digital possibilities? Start here. 
+ WHAT WE LOOK FOR 
+Goldman Sachs Engineers are innovators and problem-solvers, building solutions in risk management, big data, mobile and more. We look for creative collaborators who evolve, adapt to change and thrive in a fast-paced global environment. Transaction Banking (TxB) brings innovative solutions to traditional banking activities. We are a global team of lenders, investors, risk managers, skilled marketers, web experts and banking specialists. We provide a suite of solutions to help our customers meet their financial goals. We make direct investments in and manage risk for a portfolio of corporate loans and securities. We help transform distressed communities through investments and loans of private capital. 
+ TRANSACTION BANKING 
+Transaction Banking, a business unit within CCBD, aims to provide comprehensive cash management solutions for corporations. TxB combines the strength and heritage of a 148-year-old financial institution with the agility and entrepreneurial spirit of a tech start-up. Our goal is to provide the best client experience. Through the use of modern technologies centered on data and analytics, we provide customers with powerful tools that are grounded in value, transparency and simplicity to improve cash flow management efficiency. 
+Payments lay at the heart of what we are doing in Corporate Cash Management and our mission is to build a market leading payment platform that meets our corporate client's needs. We are starting with a clean slate and one singular goal in mind: Build a highly scalable, resilient , 24x7 available cloud-based payment platform that our corporate clients can rely on to run their businesses 
+ THE ROLE 
+As part of our global team you will work on various technologies and components as a Software Engineer. Your role includes specification, development, as well as the testing and roll-out of new features focusing on code quality, automation, testability and security. Payment systems, due to their criticality present unique engineering challenges around resiliency, availability and scale.You will have the opportunity to contribute to the vision, understand our product roadmap and contribute to building an engineering culture within our global team. We expect the successful candidate to deliver high quality software and to be passionate about software engineering. You must have a proficient understanding of software development concepts. A good understanding of the Cloud and Container concepts is a plus. You will also be responsible to develop supportable software and liaise with our SRE team to factor in their requirements. This role offers a unique opportunity to be involved in the inception phase of a brand new business within Goldman Sachs and you will be required to contribute to the vision, propose ideas and drive the implementation of our payment platform. Our flat structure requires and enables team members to evolve through the entire spectrum of the software life-cycle and closely collaborate with product owners, business and operations users. We are looking for someone with lots of energy that enjoys engineering challenges and has a passion to deliver high quality technology products and is able to operate in a highly fluid, rapidly changing environment. If that's you, we would like to hear from you. 
+ RESPONSIBILITIES AND QUALIFICATIONS 
+ 
+ Manage multiple tasks and use sound judgment when prioritizing 
+ Collaborate with global cross functional teams in building customer-centric products 
+ Analyze existing software implementations to identify areas of improvement and provide deadline estimates for implementing new features 
+ Update and maintain documentation for team processes, best practices and software runbooks 
+ Establish trusted partnerships with peers, product heads, and executive level stakeholders 
+ Must be passionate about technology and engineering 
+ Exceptional analytical skills and ability to apply knowledge and experience in decision-making to arrive at creative and commercial solutions 
+ Ability to leverage technology to deliver business value 
+ Must be independent and comfortable in a fast paced, ambiguous and often multi-directional work environment 
+ 
+ SKILLS AND EXPERIENCE WE ARE LOOKING FOR 
+ 
+ Minimum 2 years of relevant professional experience using a modern programming language (preferably Java/Scala) 
+ S. or higher in Computer Science (or equivalent work experience) 
+ Experience leveraging test-driven development methodologies 
+ Comfort with Agile operating models (practical experience of Scrum/Kanban) 
+ Team oriented; strong interpersonal and communication skills 
+ Energetic, self-directed, and self-motivated 
+ 
+ Preferred Qualifications 
+ 
+ Experience with BOJ and other Asia Payment Rails 
+ Experience with microservice architectures (SOA) 
+ Experience with Kafka, MongoDB, Hadoop, Cassandra 
+ Experience with Payments systems (understanding of the various payment networks) 
+ Experience with SQL databases (PostgreSQL/Oracle/Sybase) 
+ Experience with AWS/Azure 
+ Experience in Financial Services or Fintech 
+ 
+ ABOUT GOLDMAN SACHS 
+ABOUT GOLDMAN SACHS 
+ At Goldman Sachs, we commit our people, capital and ideas to help our clients, shareholders and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities and investment management firm. Headquartered in New York, we maintain offices around the world. 
+ We believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. Learn more about our culture, benefits, and people at GS.com/careers . 
+ We're committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. Learn more: https:// www.goldmansachs.com/careers/footer/disability-statement.html 
+ © The Goldman Sachs Group, Inc., 2020. All rights reserved. 
+Goldman Sachs is an equal employment/affirmative action employer Female/Minority/Disability/Veteran/Sexual Orientation/Gender Identity 
+ 
+ 
+ Internal Number: 9757945 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Goldman Sachs 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Senior Full Stack Java Developer, Wholesale Payments Tech, Associate 
+ __  Singapore, Singapore 
+ 
+ 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ Cyber Security Software Engineering Lead 
+ __  Glasgow, United Kingdom 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ Merchant Services - Helix, Production Management, Site Reliability Engineer, Associate 
+ __  Singapore, Singapore 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

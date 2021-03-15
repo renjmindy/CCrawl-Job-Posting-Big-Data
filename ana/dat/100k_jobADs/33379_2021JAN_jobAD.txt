@@ -1,0 +1,60 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Senior IT Auditor 
+ The Stars Group 
+ __Toronto, ON 
+ Apply Now 
+ We are looking for a Senior IT Auditor, IT/Compliance to join our busy and dynamic team based in our Richmond Hill, Toronto Office. 
+ Why we need you:  - 
+ You’ll be acting in a leading role in managing the domestic/international internal and external IT audits (e.g. PCI, SOX, ARJEL, DGOJ etc.). You’ll be interfacing with technical teams across different product verticals, external test labs & stakeholders, with an overall objective of maintaining compliance in various regulated markets. We’ll be looking for you to develop and maintain the technical documentation portfolio for policies, standards, processes, procedures, guidelines and diagrams and provide advisory services for IT security, governance, audit and risk areas. 
+ You can expect to play a leading part inthe company's PCI-DSS (a Level-1 Merchant) annual certification audit process, SOX annual certification audit process, ARJEL (French regulator) annual certification audit process and the company’s internal audit process, working with internal audit group from the IOM. 
+ Who are we looking for:  - 
+ You’ll be an expert in facilitating and performing external PCI-DSS and SOX audits. Most likely, you have an extensive background over a number of years in IT risk & audits across all four layers of IT infrastructure (networks, platforms, applications, databases). This includes vulnerability assessment, penetration testing and source code analysis. 
+ We’ll be looking for you to be a strong leader in compliance, governance and risk mitigation management with a proven track record with IT security controls, operational and risk management, compliance frameworks and related systems. 
+ You’ll have exposure to working in Identity and Access Management (IAM) using Sailpoint IdentityIQ / SecurityIQ platform. You’ll also have experience in the following IAM domains: Authentication, Access Request and Provisioning, Privileged Access Management, Reporting. 
+ In terms of certifications, we’re looking for ISACA certifications such as CISA, CISM, CGEIT, CRISC. You may also have ISC2 certifications (CISSP, CSSLP), and/or SANS certifications (GPPA, GCIA). 
+ If you have a working knowledge of COBIT, COSO, ITIL and ISO27002 frameworks including OWASP that’s beneficial, as is a working knowledge of Client-Server architecture, web applications, Red Hat Linux / CentOS, MS Servers 2012 and 2016, DB2, IIS. In addition, knowledge of firewalls, routers, intrusion detection / prevention systems (IDS / IPS) is a big plus. 
+ What's in it for you? 
+ The salary for this job is based on experience, so whilst we are not able to go into detail at this stage, we can say that we offer great salary packages and a discretionary annual performance bonus. 
+ We offer health and dental insurance for you and your dependents plus you can join our company pension scheme. 
+ Our in-house training and development team deliver fantastic support to develop your skills and support you in progressing your career. 
+ We have on-site yoga a few times a week and lunch is on us. We also have fresh fruit, snacks and drinks in the office so you won’t go hungry. 
+ What happens next? 
+ We will aim to get back to you as soon as possible. If you meet the criteria, then we’ll invite you to a phone interview and if that goes well we’ll meet you for a face-to-face interview 
+ The Group 
+ The Stars Group owns or licenses gaming and related consumer businesses and brands, including PokerStars, PokerStars Casino, BetStars, Full Tilt, FOX Bet, BetEasy, Sky Bet, Sky Vegas, Sky Casino, Sky Bingo, Sky Poker, and Oddschecker, as well as live poker tour and events brands. Collectively, these and other brands of The Stars Group have millions of registered customers globally, forming one of the world’s largest and most licensed publicly listed online gaming companies. This role is in the Group’s Richmond Hill, Toronto service office in the IT Infrastructure and DevOps department. 
+ At The Stars Group, we encourage applications from all sections of the community. If you are an applicant with a disability and you require accommodations at any point in our recruitment process, please let our talent acquisition team know when they contact you to invite for interview. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

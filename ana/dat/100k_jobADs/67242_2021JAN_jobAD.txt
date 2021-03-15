@@ -1,0 +1,52 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Full Stack Developer LOCALPERMANENT 
+ Job Description 
+ One Darnley Road is a full-service creative agency with studios in London and Chicago. We are looking for a  full-stack developer  to join our London-based studio. 
+ As a member of our small development team, you will play an integral role in servicing our global client base. We love developing websites (and sometimes apps) powered by Craft CMS. With every project we strive to build semantic, compliant websites that fly, are optimised for SEO, and look gorgeous to boot. We like to say that we  care  about our work - even when the budgets might discourage it. 
+ Our developers and designers collaborate closely on every project. We produce  creatively-led, technically-backed  websites. This means that every team member has at least a "creative eye", and brings positive, constructive opinions to the table. Our work is varied, challenging, and fast-paced. You should be passionate about the work you do, open to learning, and extremely self-motivated. 
+ Additionally, every team member has an opportunity to talk directly with our clients, so communication skills are key. You must know how to communicate in a clear, professional tone, and be able to clearly think, speak or act on the spot. 
+ To successfully fulfill this role you  must  have commercial, working experience with: Craft, PHP, MySQL, Twig, Tailwind, Javascript/ES6, and Vue. You should also be able to extract designs from Sketch and Photoshop. It would be beneficial if you also had experience with: Webpack, Docker, NPM, Mapbox, GSAP, devOps, build pipelines, or testing of any kind. 
+ Salary & Benefits 
+ We offer a competitive salary based on experience, 20 days of holiday, close from Christmas through New Years, pension, and a yearly allowance for training and conferences. 
+ How to Apply 
+ If you are interested, please send us your CV and covering email to  [email protected] . Promising candidates will be contacted for a phone interview, technical test, and at least one in-person interview. 
+ Contact Info 
+ 
+ __ 
+ 
+ Location:  London, UK 
+ 
+ __ 
+ 
+ Email Address: 
+ __  Posted November 14, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

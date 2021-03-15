@@ -1,0 +1,215 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Engineer (Middleware Application Integration Designer), IT - Architecture 
+ Great Eastern Life Assurance Co Ltd 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Engineer (Middleware Application Integration Designer), IT - Architecture 
+ Great Eastern Life Assurance Co Ltd 
+ [](mailto:?subject=Senior%20Software%20Engineer%20%28Middleware%20Application%20Integration%20Designer%29%2C%20IT%20%2D%20Architecture&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14261556/senior-software-engineer-middleware-application-integration-designer-it-architecture/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ Singapore, Singapore 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Job Purpose 
+To support activities in Analysis, Development, Design, Configuration and Testing for new enhancement requests and existing issues in BAU operations for both online (IBM MQ & IIB) and batch (Axway MFT Suite & Host-2-Host, Tectia SSH/SFTP,) integration of the respective sub-system's interconnecting interfaces. 
+ The Job 
+ 
+ 
+ Development and Maintenance of IAA and Sub-system XML Schemas and JSON Schemas. 
+ 
+ 
+ Configuration & Testing of Request and Response Online Message Flows & Batch File Flows. 
+ 
+ 
+ Endpoint Binding Configuration and Routing Configuration for both Online & Batch Flows. 
+ 
+ 
+ Security (SSL / TLS) Configuration for both Online & Batch endpoint sub-systems. 
+ 
+ 
+ Unit Testing and Integration Testing for both Online & Batch configurations. 
+ 
+ 
+ Documentation for the amendments. 
+ 
+ 
+ Raise and Follow-up on Data Center SDP Tickets and ID Management Tickets. 
+ 
+ 
+ DevOps Configuration management and Code Promotion. 
+ 
+ 
+ Support End-to-End Configuration and Testing. 
+ 
+ 
+ Support Quarterly Data Centre Scheduled Shutdown and Yearly Stabilization exercise. 
+ 
+ 
+ Support all of the below day-to-day BAU Operation activities: 
+ 
+ Investigation and Resolution of BAU Issues reported by sub-system 
+ Evaluate Email Alerts from Monitoring scripts and Resolution support 
+ Resolution of Issues raised through SDP tickets by IT-Helpdesk 
+ Code Merging of different branches in BAU for Release and deployment 
+ Patch Management for DB, MQ, IIB, SSH/SFTP, MFT, H2H and OS patches 
+ Hardware EOL upgrade support for DB, MQ, IIB, SSH/SFTP, MFT, H2H and OS 
+ Software EOS upgrade support for DB, MQ, IIB, SSH/SFTP, MFT, H2H and OS 
+ SSL Certificate Renewal Exercise and support 
+ Security Patch Upgrade Exercise and support 
+ Sub-system side Technical stack Upgrade Exercise and support 
+ Network and SPOF Upgrade Exercise and support 
+ JDK version upgrade support 
+ 
+ 
+ 
+ Takes accountability in considering business and regulatory compliance risks and takes appropriate steps to mitigate the risks. 
+ 
+ 
+ Maintains awareness of industry trends on regulatory compliance, emerging threats and technologies in order to understand the risk and better safeguard the company. 
+ 
+ 
+ Highlights any potential concerns /risks and proactively shares best risk management practices. 
+ 
+ 
+ 
+ 
+ Internal Number: 9161919 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Great Eastern Life Assurance Co Ltd 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Transmission Engineer III or Senior 
+ __  Moore, Oklahoma 
+ 
+ 
+ 
+ 
+ WFEC 
+ __3 Days Ago 
+ 
+ 
+ Consultant, Back End Developer (Deloitte Digital), Defence and Security, Consulting, C&M;, London 
+ __  London, United Kingdom 
+ 
+ 
+ Deloitte 
+ __Today 
+ 
+ 
+ UI Standards Developer - Senior Software Engineer 
+ __  London, United Kingdom 
+ 
+ 
+ FACTSET 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

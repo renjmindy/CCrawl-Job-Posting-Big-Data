@@ -1,0 +1,6 @@
+ Qualifications 
+ Post-secondary graduate from College or University in a related field 
+ The ideal candidate will demonstrate most of the following skills: 
+ Experience in software development (Python, Typescript) 
+ Experience deploying containerized workloads with Helm on Kubernetes 
+ Familiarity with Linux command line 

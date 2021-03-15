@@ -1,0 +1,315 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ XML 
+ 
+ XML Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance XML Developer ? 
+ ](https://www.workana.com/hire/xml) 
+ 4 months ago 
+ Scraping content from public groups on Facebook 
+ Published: 4 months ago  Bids: 7 
+ Hi, 
+ I need somebody who can scrape information from Facebook public groups. I deliver the links to the groups. The following content is needed: posts, comments, (comments to comments if possible), pictures, videos. 
+Deliverable is an XML file.  https://bit.ly/2ESgTeg 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  X. Guam 
+ Over USD 3,000 
+ 4 months ago 
+ Wordpress Web Developer  enterprise client 
+ Published: 4 months ago  Project duration: 1 - 4 weeks Bids: 27 
+ We are seeking a WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). 
+ More info will be provided later. 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ Is this a project or a position?  : Project 
+ Required availability  : Part time 
+ Published by:  P. L. Malaysia 
+ Open 
+ 5 months ago 
+ Xml to Csv File Convert and Mapping 
+ Published: 5 months ago  Bids: 6 
+ I have multiple e commerce websites, based on Shopify, Opencart etc.. 
+I also have the XML feeds from my suppliers. 
+I need the xml files to be converted to csv with the mapping that the webites require. 
+ Category  : IT & Programming 
+ Subcategory  : Data Science 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  B. G. Last reply: 4 months ago  Turkey 
+ USD 50 - 100 
+ 5 months ago 
+ Connect odoo V12 addon with basic Api 
+ Published: 5 months ago  Bids: 1 
+ Questions to apply 
+time to start? (inmediatly, next weekend) 
+time to delivery? 
+ description 
+already add-on views and python classes based on diagram. 
+1. OAuth token. 
+2. Assign Category code for odoo products. 
+3.0 Publish basic product. 
+ Python lib exists for auth and publish an item with service. 
+ RESOURCES 
+Class diagram already exist. 
+Case Uses exists. 
+Service documentation 
+Python Lib documentation 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  A. G. Last reply: 5 months ago  Colombia 
+ Less than USD 50 
+ 6 months ago 
+ Importxml _ Scrape Instagram post url - Likes & Comment counts 
+ Published: 6 months ago  Bids: 1 
+ I have work out my ImportXML code, to scrape instagram post data _ likes and comments counts. However, it was not 100% functioning, some post url were still error. Looking for Web scrapper / programmer to solve this. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  J. Last reply: 6 months ago  Malaysia 
+ Less than USD 50 
+ 6 months ago 
+ Cloud Custodian Project 
+ Published: 6 months ago  Bids: 3 
+ Hi All! 
+We are looking for a Cloud Custodian Specialist to join us on a challenging projects! (Implementation and Operations) 
+Thnak you 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Large 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Published by:  B. F. United States 
+ USD 500 - 1,000 
+ 9 months ago 
+ Electronic invoicing using Zoho Finance suite 
+ Published: 9 months ago  Bids: 5 
+ We actually work with Zoho Finance solution to send invoices to our customers. In Colombia is now required to use electronic invoicing. This means that we need to send an XML encripted file to the Colombian Taxes Authority. 
+ This can be done using many other software solutions in Colombia but we want someone to develop the solution to convert our invoice to XML and send it to DIAN (Colombian Taxes Authority) using Zoho Suite and APIs 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Published by:  I. G. Last reply: 9 months ago  Colombia 
+ USD 500 - 1,000 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

@@ -1,0 +1,108 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Front-end Developer LOCALPERMANENT 
+ Job Description 
+ Position: Front-end Developer 
+ Start Date: Immediate 
+ Location: Central Leeds, UK 
+ Salary: In the region of £24—28k pa pro rata 
+ Contract Duration: Permanent with 3 month trial period 
+ Experience: Outstanding portfolio. Ability to demonstrate experience 
+ Hours: Ideally 4 days per week 
+ Boxhead is a design & development studio that helps brands create and maintain meaningful engagements with people by creating websites, apps and digital experiences. Our offering is simple, we design and develop websites, online services, apps and content for ambitious clients. We help long established organisations become agile, digital natives. We help startups scale by implementing robust digital platforms and infrastructure. 
+ Boxhead collaborates and partners with studios and agencies looking to deliver interesting and technically challenging digital products and services. We are a focussed studio of designers and developers working in concert to deliver projects that put values first and make positive impact in communities, both local and global. 
+ About You 
+ We’re looking for someone who’s serious about front-end technologies but also has a keen eye for nice design …and really cares what the end product looks like on screen. We like to challenge ourselves, so we’re looking for someone who’s really open to testing out new technologies when the opportunity presents itself. We won’t count the number of years experience you have. We will judge you on your technical capability, demonstrable experience and ability to integrate into our team well on a trial day. 
+ Working at Boxhead 
+ At Boxhead, employees work no more than a 4 day work week. That extra day can be used to pursue interests, rest or involve themselves in causes of value. We’re not a ‘poster can save the world’ kind of studio. We love design, we love code, we also know that pushing pixels around a screen isn’t going to bring about wholesale positive change in the world we live in. Some of our team choose to get involved with a charity, their local church, train for an epic event, or spend more time with their family. 
+ About that 4 day work week… we don’t just shut up shop on thursday and take friday off, we have team crossover. As a studio, we are open Monday to Friday. 
+ We intentionally describe ourselves as a studio. We have ‘agency’ about us (look it up), but we are not an agency or what a typical digital creative agency has become, or wants to be. At Boxhead, ‘Studio’ is pretty much the collective noun for the individuals that make us who we are… a studio of designers & developers who work on meaningful projects for interesting clients. Not quite as evocative as a ‘Shiver of Sharks’ or ‘Blessing of Unicorns’, but you get the idea. 
+ Essential skills 
+ General web development skills 
+ • You can write semantic, accessible HTML and know the DOM like the back of your hand. 
+ • You care about things like code quality, modularity and performance. 
+ • You can test for compliance and compatibility cross-browser, cross-platform and cross-device. 
+ • You can use Git to version control and manage code. 
+ • You are comfortable with Gulp-based build systems. 
+ • You love to create visually appealing web pages or interfaces. 
+ • You’re quick to adapt to new languages, technologies and relish the chance for solving new problems. 
+ CSS 
+ • You’re into modular, scalable CSS written with the CSS preprocessor Sass (SCSS). 
+ • You’re familiar with the differences between CSS 2 & 3 and know how to use websites like caniuse.com to get an understanding of compatibility cross-browser. 
+ • You’ve got experience building high-quality, responsive layouts and with silky smooth interactions, transitions and animations. 
+ JavaScript 
+ • You feel at right home with JavaScript, and know your way around jQuery when it’s needed. 
+ • You’re competent handling form submissions and handling validation and data submission. 
+ • You’re competent with XHR/AJAX requests and dealing with JSON, XML and HTML responses. 
+ • You’re a capable DOM manipulator 
+ Other desirable knowledge 
+ • You know your way around Photoshop, Illustrator and/or Sketch. 
+ • You’re up to date with JavaScript ES6. 
+ • You know your way around a server (specifically the Plesk server management software). 
+ • You’re not afraid of the command line. 
+ • Experience with the Craft Content Management System. 
+ • Experience with the ExpressionEngine Content Management System. 
+ • Experience with the Drupal Content Management Framework. 
+ • Reasonable understanding and experience working with databases. 
+ Perks 
+ • Flexible working hours. 
+ • 25 days (+ Bank Holidays) annual leave/holiday allowance. 
+ • Extensive training and development. 
+ • Annual conferencing budget. 
+ How to Apply 
+ • Email  [email protected] 
+ • Include links to your 3 best pieces of work. 
+ • Include a link to your portfolio site. 
+ • A link to a nice Codepen you’ve done recently. 
+ • Let us know your salary expectations. 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Boxhead 
+ 
+ __ 
+ 
+ Location:  Leeds, UK 
+ 
+ __ 
+ 
+ Phone Number:  [+44 1133 201 480](+44 1133 201 480) 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   boxhead.io 
+ __  Posted April 19, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

@@ -1,0 +1,325 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Unity 3D 
+ 
+ Unity 3D Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Unity 3D Developer ? 
+ ](https://www.workana.com/hire/unity-3d) 
+ 10 months ago 
+ Unity Frontend android/Ios Application connected to simple Php/Dru... 
+ Published: 10 months ago  Bids: 3 
+ Deliverable: 
+ Unity/C# Application - Simple 2D Scrolling world, with Menu, Settings, user feed of content, leaderboards, as well as access phone with QR scanner and Camera. 
+Drupal/PHP Web Application - Admin CMS Connected to app, can upload bio, text, picture, news, and polls, and feed item. 
+Database to store data. 
+ We will be able to purchase simple assets from the Unity store that will speed up delivery of the product and not come out of your budget. We can discuss the budget if it is reasonable. 
+ Requirements: 
+ Development of Front end Unity Application must be completed first and begin testing with content as first milestone. 
+Second milestone will be the ability to integrate the CMS with the  Front End Unity Application. 
+ Time Frame: 
+2-3 Weeks. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Game 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  J. M. Portugal 
+ USD 1,000 - 3,000 
+ 11 months ago 
+ Realsense D435 + Nuitrack in C# using wrappers (Python, Unity) for ... 
+ Published: 11 months ago  Bids: 0 
+ I need someone in Budapest who would have few hours to explain the basics of how to pass the data of the joint points, so  later I can use it for visuals and trigger events. 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Windows 
+ Published by:  V. B. Hungary 
+ Less than USD 50 
+ Last year 
+ Change networking from mirror to photon in unity game 
+ Published: Last year  Deadline: 10 Bids: 1 
+ I have rts game project made with unity, i'm using mirror for multiplayer. Now i want to change to photon engine for multiplayer. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : Other 
+ Published by:  R. C. Last reply: 11 months ago  Indonesia 
+ Open 
+ Last year 
+ I need to develop a mobile game 
+ Published: Last year  Bids: 2 
+ Creating the app(mobile game) suitable for both iphone/ipad and android. 
+2D assassin games third person 
+I already have an idea. 
+Simple mobile game concept. 
+ Free to play but with in game purchases. Banner ads and interstitial ads (admob, Unity ads ...) 
+If my mobile game becomes a huge success, we may have opportunities to work together again. 
+ Category  : Design & Multimedia 
+ Subcategory  : Mobile app design 
+ What do you need?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Similar apps  : Other 
+ Published by:  A. N. Last reply: Last year  Vietnam 
+ USD 100 - 250 
+ Last year 
+ Interactive architectural game 
+ Published: Last year  Bids: 2 
+ Interactive architectural 3d game that enable people to buy piece of each building component. Each of the component ie bricks, beam, windows, doors, piping, roof, electrical appliance and many more has its own price. People can pick and buy the component until it complete. 
+Its involve payment gateway and real buying process. 
+ Category  : Design & Multimedia 
+ Subcategory  : 3D Models 
+ Published by:  N. Malaysia 
+ USD 500 - 1,000 
+ Last year 
+ Mobile Game Designer 
+ Published: Last year  Bids: 8 
+ I have a developed a mobile game and half way down the Game designer coder seems to not reply. Would like to hire or work together with another game developer on this project. Its 50% completed so far. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone, iPad 
+ I need to  : Modify an existing app 
+ App type  : Game 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  W. C. H. Malaysia 
+ USD 1,000 - 3,000 
+ Last year 
+ 3d Wellness Game App 
+ Published: Last year  Deadline: 28 Bids: 4 
+ Develop a prototype of our idea of a 3D Wellness Game app  that we can show to potential investors in the next 30 days.  Willing to start by first week of December. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ I need to  : Create an app 
+ Published by:  D. C. Singapore 
+ USD 1,000 - 3,000 
+ Previous 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

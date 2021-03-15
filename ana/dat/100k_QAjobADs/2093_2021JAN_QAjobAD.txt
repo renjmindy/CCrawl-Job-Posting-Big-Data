@@ -1,0 +1,12 @@
+ Minimum Qualifications: 
+ 5+ years of directly applicable experience. 
+ Strong Computer Science background and understanding of algorithms and data structures. 
+ History developing and supporting actual applications that have seen production usage with a large userbase. 
+ Complete understanding of how to write secure code and an awareness of common web application security vulnerabilities. 
+ Experience with Ruby and Rails. 
+ Preferred Qualifications: 
+ Participation in open source Ruby gem projects, including ideally being the maintainer for a Gem that sees large usage in the community. 
+ Strong experience working at scale. 
+ Apply for this position 
+ Apply 
+ Your application has been successfully submitted. 

@@ -1,0 +1,105 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Security Engineer 
+ BC IMC 
+ __Victoria, BC 
+ Apply Now 
+ DEPARTMENT DESCRIPTION 
+ The Technology department is responsible for developing technology solutions that contribute to the achievement of BCI’s mission and long-term goals. The department manages the Corporation’s business applications and information technology infrastructure, providing support to a large group of financial professionals. The department is also responsible for authoring technology-related directives and conducting disaster recovery planning to minimize risk to the Corporation’s delivery of investment services. 
+ POSITION DESCRIPTION 
+ Reporting to the Manager, Security & Risk, the Security Engineer is responsible for security operations, processes, products and projects with mid-level of complexity. The Security Engineer will develop security requirements, design and implement security solutions, and directly contribute to security architecture practices. S/he will collaborate and communicate with members of cross-functional teams in an Agile hybrid environment, and enable the effective and efficient delivery of secure, quality products. The position can be based in either Vancouver or Victoria with occasional travel between the two cities. 
+ QUALIFICATIONS 
+ Must Have: 
+Bachelor’s degree in Technology, Engineering, Computer Science, or a related field 
+A minimum of 5-8 years of experience in technical roles with responsibility focused on information security processes, products and projects 
+Strong knowledge in secure systems engineering 
+Demonstrated ability to implement programs and solutions to measure and sustain the security posture of large complex environments 
+Excellent customer-service, communication (verbal, non-verbal, written, listening, and visual communication) and problem-solving skills 
+Experience with developing security reference models, writing security policies and procedures, and able to communicate effectively with technical and business audiences 
+Professional certifications such as Global Information Assurance Certification (GIAC), Certified Information Systems Security Professional (CISSP), Certified Information Security Manager (CISM) or equivalent experience 
+ Preferred: 
+Experience with Agile methods (Scrum) and DevOps practices 
+ TECHNICAL SKILLS REQUIREMENTS 
+ Must have some combination of strong hands on experience with at least 4 or 5 of the following: 
+ Authentication, authorization and encryption solutions 
+Secure coding practices, ethical hacking and threat modeling 
+Windows, UNIX and Linux operating systems security as well as Virtualization technology security 
+Identity and privileged access management for on premise and hybrid cloud-based solutions 
+EDR and/or other Endpoint Security Solutions 
+Firewall and intrusion detection/prevention protocols 
+Application security and encryption technologies 
+Web Application Proxies including SSL Decryption 
+Advanced Anti-Malware Controls at both the network and host level 
+Data Classification and DLP Solutions 
+Penetration and/or vulnerability testing 
+Database platform security 
+Centralized logging and monitoring solutions 
+Ability to conduct formal forensic investigations and mount suitable incident responses 
+Vulnerability Assessment, Remediation and Reporting 
+Subnetting, NAC, DNS, encryption technologies and standards, VPNs, VLANs, VoIP and other network routing methods 
+Phishing and Social Engineering 
+ PRIMARY RESPONSIBILITIES 
+ Development of new and innovative ways to solve existing production security issues as well as evaluate new technologies and processes that enhance security capabilities 
+Develops technical security requirements for new products, tools and services envisioned for implementation at BCI 
+Very Key role in the deployment and maintenance of new security solutions across all BCI systems 
+Collaborates and coordinates with application, operations and product teams to provide guidance on the development of secure product designs that meet security requirements 
+Ability to effectively develop, document and communicate security reference models and security policies and procedures to technical and non-technical stakeholders 
+Ability to communicate security issues and develop security user stories in language that non-technical stakeholders can understand 
+Ability to deliver and test security solutions in alignment with industry security standards 
+Ability to respond to information security issues at each stage of a project’s lifecycle 
+Proactively identifies risks and issues and proposes solutions to remove barriers 
+Performs validation and tuning of security testing tools to provide accurate and actionable results that drive improvements to BCI’s overall security posture 
+Performs security monitoring of solutions and participates as a subject matter expert in security incident response scenarios 
+Ensures that all application and infrastructure solutions are stable, secure, and compliant with security standards and policies 
+Undertakes special projects or assignments as required 
+Ability to document designs as well as produce technical reports in support of security initiatives 
+Performs other related duties as required 
+ COMPETENCIES 
+ Learning Agility 
+ Effective performers continuously seek new knowledge. They are curious and want to know “why”. They learn quickly and use new information effectively. They create and foster a culture of interest, curiosity, and learning. 
+ Relationship Building 
+ Effective performers establish and proactively maintain a broad network of relationships (e.g. colleagues, co-workers, vendors, suppliers, etc.). They value these relationships and work effectively across the organization by maintaining positive working relationships with peers and others. 
+ High Standards 
+ Effective performers possess a high inner work standard and shows pride in their work. They consistently strive to ensure work is complete within deadlines and that all work performed is of a high quality. 
+ Organization & Planning 
+ Effective performers have strong organizing and planning skills that allow them to be highly productive and efficient. They manage their time wisely and effectively prioritize multiple competing tasks. They follow through on tasks to ensure changes in technology are communicated effectively. 
+ Results Orientation 
+ Effective performers maintain appropriate focus on outcomes and accomplishments. They are motivated by achievement, and persist until the goal is reached. They convey a sense of urgency to make things happen. They respect the need to balance short- and long-term goals. They are driven by a need for closure. 
+ Communicativeness 
+ Effective performers clearly and articulately convey technical and other information both orally and in writing to others in a manner appropriate to the listener. They write clearly, accurately and concisely, composing project, technical and other required documentation as required. 
+ Change Mastery 
+ Effective performers are adaptable. They embrace needed change and modify their behaviour when appropriate to achieve organizational objectives. They are effective in the face of ambiguity. They understand and use change management techniques to help ensure smooth transitions. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

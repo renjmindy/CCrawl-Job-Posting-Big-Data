@@ -1,0 +1,96 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Iron Ox (W16) 
+ Robotic greenhouses for cheaper, sustainable farming. 
+ Senior Product Analyst 
+ 
+ Location 
+ San Carlos, CA, USA 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Iron Ox 
+ Iron Ox is building robotic greenhouses to make fresh produce accessible to everyone! 
+ Interested in helping feed people using advanced robotics and machine learning? Come join us. We're a team of ex-Google[x] and Willow Garage engineers developing a fully automated robotic farm to make the highest quality produce accessible to everyone. 
+ About the role 
+ About Us 
+ Iron Ox is reimagining the modern farm, utilizing robotics and AI to grow fresh, consistent, and responsibly farmed produce for everyone. 
+ Our experienced team of growers, plant scientists, engineers, and innovators are passionate about deeply understanding and developing this new wave of technology to feed an ever-growing population. Our mission at Iron Ox is dedicated to addressing some of the most significant issues in food security, now and in the future. We’re focused on sustainable, scalable food production for a changing climate and an ever-growing population. 
+ Who We’re Looking for 
+ Iron Ox is looking for a Senior Product Analyst with excellent product sense, analytical expertise, and interpersonal skills to own the models and analysis for our indoor hydroponic greenhouse farms and produce portfolio. You’ll enable the organization to make data-driven decisions by providing product insights and analysis to help drive business initiatives. 
+ As a member of the product team, you will collaborate across the organization with plant science, engineering, sales, finance, and operations teams to conduct in-depth quantitative analyses that guide strategic decisions. You’ll spend your time building models and tools to gain and provide insight into the business. Your insights will help the product team advocate for our internal and external customers. 
+ What You'll Be Doing 
+ 
+ Business & financial modeling of greenhouse facilities, sales, and our product portfolio 
+ Build and own models, research, and analysis for greenhouse throughput, operations, automation, and facility design 
+ Market research analysis of product seasonality, customer trends, sales, and business opportunities 
+ Work with product management to understand business and stakeholder requirements to scope and drive high impact projects 
+ Contribute to our team and company data culture by sharing an understanding of our internal and external products and by being a data analysis champion 
+ Help departments design and analyze experiments that provide insight and a deeper understanding of our products 
+ Collaborate with stakeholders to build models that provide insight into project roadmap, product selection, and overall business strategy 
+ Define and monitor key metrics that help drive business goals 
+ 
+ What You'll Bring 
+ 
+ Bachelor’s Degree or equivalent 
+ 5+ years of experience as a Product or Financial Analyst, preferably at a startup, management consulting, or in finance 
+ Experience modeling unit economics, cost of goods, gross & operating margin 
+ Experience building tools for internal stakeholders 
+ Expertise building data visualization tools to convey actionable insights to product managers and business leaders 
+ Passion for problem-solving, critical thinking, and data analysis 
+ Strong communication, listening, and interpersonal skills 
+ Resourceful and willing to roll up your sleeves 
+ 
+ Nice-to-Haves 
+ 
+ Experience with agriculture, produce, and farming 
+ Experience with robotics and factory automation 
+ At least 1 year of experience in tech working at a startup 
+ 
+ What We Offer 
+ 
+ Iron Ox is a small startup with a big dream. You’ll be a part of a team founded on transparency, creativity, and impact on our mission to feed people 
+ Competitive compensation and meaningful equity package 
+ Medical, vision, and dental insurance 
+ 401K 
+ 
+ Technology 
+ Python, PostgreSQL, REST, AWS, Robot Operating System, C++ 
+ Other jobs at Iron Ox 
+ Project Manager 
+ fulltime 
+ San Carlos/Gilroy 
+ 3+ years 
+ Senior Facilities Engineer 
+ fulltime 
+ San Carlos 
+ 6+ years 
+ Senior Frontend Engineer 
+ fulltime 
+ San Carlos, CA 
+ Frontend 
+ 6+ years 
+ Senior Software Engineer 
+ fulltime 
+ San Carlos, CA 
+ Robotics 
+ 6+ years 
+ Senior Product Analyst 
+ fulltime 
+ San Carlos, CA, USA 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

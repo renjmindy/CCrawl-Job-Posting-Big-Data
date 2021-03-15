@@ -1,0 +1,89 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Embrace (S19) 
+ We find and fix more mobile errors than anyone else for the apps you know and love 
+ New Grad  Engineer 🎓 🎒🧑‍🚀 
+ 
+ Location 
+ Los Angeles, CA, USA 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Embrace 
+ 📲 Mobile is here whether on our phones in front of the TV, using Zoom on the go, submitting invoices in a work app, or buying products on an iPad point-of-sale system (ex. Toast and Snackpass!) Embrace is right there and focused on only helping mobile teams make your user experiences (and their own lives) the best. 
+ We are the only observability and debugging platform built for mobile. Mobile apps, like Wish, Cameo, OkCupid, Home Depot and Goat, rely on Embrace to proactively find, reproduce and instantly fix all types of errors. 
+ Our team are experts from Scopely, Niantic, Apple, Marco Polo, Upsight and more. Come join us! 
+ About the role 
+ Skills:  Go, Java, React 
+ Embrace is looking for recent graduates who want to dive in and create technology that improves the lives of other devs. You will work on cutting edge features, like time-based databases, distributed on-device AI, deep data insights, and more -- to ensure our customers have the data and tools they need to build amazing applications. Your role will be up to you based on your interests - so Backend, Frontend, DB, or any and all. 
+ You will work with a team of experienced engineers to improve and evolve our current product, which is gathering data from 100M+ devices already from Wish, Goat, Cameo and many other apps. 
+ What We Believe is Important for this role: 
+ 
+ The ability to write rock-solid Java, Python, React, and/or GoLang 
+ A love of Star Wars and Marvel (or DC, I guess) 
+ A desire to always keep improving their code 
+ 
+ What you have: 
+ 
+ A BS or BSE in CS, Engineering or Math 
+ Experience with one of Java, React, Python, GoLang, Objective-C, C#, Swift, or Kotlin 
+ Exceptional communication skills 
+ 
+ Things that would be great, but aren't required: 
+ 
+ You have previously worked on a mobile app 
+ You are active in places where people talk about tech challenges, like Stack Overflow and Reddit 
+ 
+ Technology 
+ Tech Stack: React, Objective-C, Swift, Java, Kotlin, React Native, Unity, Clickhouse, Cassandra, MySQL, Redis, Kafka, nginx, Saltstack, Go, and Python 
+ Other jobs at Embrace 
+ Senior Unity Engineer 🕹️🐱‍🚀 
+ fulltime 
+ / Remote 
+ iOS 
+ 3+ years 
+ 🚀 Senior Front-end Developer  
+ fulltime 
+ Los Angeles, CA, USA / Remote 
+ Frontend 
+ 3+ years 
+ Sales Engineer 💸 
+ fulltime 
+ Los Angeles / Remote 
+ 3+ years 
+ Senior iOS SDK Developer 🚀 
+ fulltime 
+ Los Angeles, CA, USA / Remote 
+ iOS 
+ 3+ years 
+ Lead Android SDK Developer 🦾 
+ fulltime 
+ Los Angeles, CA, USA / Remote 
+ Android 
+ 3+ years 
+ Director of Engineering ⚙️📐🚀 
+ fulltime 
+ Los Angeles, CA, USA or San Francisco, CA 
+ Engineering Manager 
+ $140k 
+ 3+ years 
+ New Grad  Engineer 🎓 🎒🧑‍🚀 
+ fulltime 
+ Los Angeles, CA, USA 
+ Full Stack 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

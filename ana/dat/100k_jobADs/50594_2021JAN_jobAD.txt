@@ -1,0 +1,141 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ CTO - Fermata 
+ at Massa Innovations 
+ go back to Data and Product Jobs 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ FERMATA 
+ "AI Solutions for Agriculture" 
+ Open Position 
+ ** ** CTO 
+ Fermata is an agritech startup that delivers AI-based solutions for greenhouses in Europe and worldwide. Our product uses both visual and climate data to achieve the highest quality of prediction and provide all the necessary information for agronomists. Right now Fermata is rapidly growing and exploring new markets. 
+ We are looking for a CTO who will be responsible for building the software development team, developing our core technologies in machine learning, hardware selection and integration, installation and integration, building integrated ML systems, providing stable operation in production, and delivering clear business value for our clients. 
+ Current technological stack: 
+ ⁃ Python, C++ 
+ ⁃ PyTorch, Darknet 
+ ⁃ git, dvc, Tensorboard, Sacred+Omniboard 
+ ⁃ DigitalOcean, Amazon 
+ ⁃ mongodb, SQLAlchemy 
+ ⁃ Flask, Celery, Redis, FastAPI 
+ ⁃ Vue.js, D3.js 
+ ⁃ docker 
+ ⁃ LoRa, LoRaWAN, ONVIF, ESP32 
+ Main responsibilities: 
+ ⁃ Building and managing the core software development team 
+ ⁃ Coordination of inner teams' work and outsource development 
+ ⁃ Design of scalable system's architecture including software and hardware 
+ ⁃ Building, maintaining and updating infrastructure based on MLOps principles 
+ ⁃ Customer interaction for refining business needs and transformation of this knowledge into solutions 
+ ⁃ Continuous improvement of product's technologies 
+ Experience: 
+ ⁃ Leading of product development and support of stable operation in production 
+ ⁃ Team building and management 
+ ⁃ Deep expertise in machine learning, specifically in statistics, computer vision, neural networks 
+ ⁃ Extensive practice of building and maintaining ML systems 
+ Published at 7 Jan 2021 - Expires on 7 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Massa Innovations 
+ fulltime  Senior Data Scientist - AIMUNO  at Massa Innovations in London 
+ __07-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

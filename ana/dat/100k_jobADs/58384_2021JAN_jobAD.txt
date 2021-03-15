@@ -1,0 +1,79 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Finch (S20) 
+ Finch is the universal API for payroll and HR 
+ Founding Software Engineer - Back-End 
+ 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Finch 
+ 👋  Welcome —   Finch  is on a mission to empower innovators to access the global employment ecosystem and connect the world's employers under a single API. 
+ Finch is the API to access payroll and HR systems. Our platform allows employer admins to grant developers access to their systems in a compliant and secure manner. Finch integrates across providers enabling developers to access a previously closed system and reach the source of truth for employee data and money flow. Our API powers use cases across lending, insurance, benefits, FP&A, and HR applications. 
+ We are a Y-Combinator company backed by top investors like General Catalyst, Menlo Ventures, BoxGroup and angel investors from firms like Plaid, Brex, Digits, Ramp and Mercury. 
+ About the role 
+ Skills:  Node.js, Docker, PostgreSQL, Amazon Web Services (AWS) 
+ Software Engineering at Finch 
+ We are on a mission to empower innovators to access the global employment ecosystem and connect the world's employers under a single API. To do this, we're looking for individuals who think about problems holistically and in-depth, who are relentlessly curious, self-starters, and determined to drive ideas from inception through to completion. 
+ Finch is a Y Combinator company and backed by a fantastic set of firms, angels, and our developers including General Catalyst, Menlo Ventures, Homebrew, BoxGroup, YCombinator, Charley (1st business hire at Plaid), Sima (ex-Head of Biz Dev at Plaid), Henrique + Pedro (co-CEOs at Brex), Jeff + Wayne (co-CEOs at Digits), Immad (CEO at Mercury), Sam (CEO at Vouch Insurance), Karim (CTO at Ramp), and more. 
+ About Our Team 
+ We're a team of problem solvers. We value curiosity, empathy, and diverse perspectives. We're excited about the scope of the problems we're working to solve and the potential impact it has on the world. We realize that the value we provide to the world comes at great responsibilities, and therefore makes security and privacy our highest priority. We have a diverse background and set of skills. We're passionate about our individual crafts, the hobbies we keep, and the relationships that we build. We are excited for you to potentially join us. 
+ What You Will Do 
+ 
+ Responsible for architecting and maintaining large portions of the infrastructure 
+ Working with our developers to scope products and features on our infrastructure 
+ Setting up and maintaining engineering processes as the company scales. 
+ Hiring, cultivating, and mentoring new engineers (and other team members) as they join the team. 
+ Set a high bar for execution, both in terms of quality and speed. 
+ Join the founding team and be a part of all major future decisions 
+ Triage bugs discovered in the API platform through error tracking and performance monitoring 
+ 
+ Who You Are 
+ 
+ 2 - 10 years of experience as an individual contributor with modern programming language like Javascript, Ruby, Python, Elixir, Go, etc. 
+ Have a strong demonstrated ability to ship high-quality products, both at work and outside of work. We love engineers that build side-projects or contribute to open-source repos. 
+ A passion for trying out APIs and a taste for good developer experience. 
+ Able to think through customer requirements and prioritize what is a must-have, nice-to-have, or irrelevant. 
+ Strong ability to design large scale systems and infrastructure. 
+ Have a strong technical skill set but also the willingness and ability to take over tasks outside your core competency. 
+ 
+ Nice to Haves 
+ 
+ Previous founding experience 
+ Experience working at an API company or on an external facing API team. 
+ An itch to start a company in the future. We will invest in you! 
+ 
+ Technology 
+ Node, React, AWS, Postgres, Docker 
+ Other jobs at Finch 
+ Founding Software Engineer - Full-stack 
+ fulltime 
+ San Francisco / Remote 
+ Full Stack 
+ 3+ years 
+ Business Operations 
+ fulltime 
+ San Francisco / Remote 
+ 3+ years 
+ Founding Software Engineer - Back-End 
+ fulltime 
+ Remote 
+ Backend 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

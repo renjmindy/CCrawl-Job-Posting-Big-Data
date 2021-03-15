@@ -1,0 +1,206 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Software Engineer I 
+ MGH Institute of Health Professions 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Software Engineer I 
+ MGH Institute of Health Professions 
+ [](mailto:?subject=Software%20Engineer%20I&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14207706/software-engineer-i/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 12, 2020 
+ Location: 
+ Somerville, Massachusetts 
+ __ Show Map 
+ Salary: 
+ Unpaid 
+ About Us: 
+ As a not-for-profit organization, Mass General Brigham is committed to supporting patient care, research, teaching, and service to the community by leading innovation across our system. Founded by Brigham and Women's Hospital and Massachusetts General Hospital, Mass General Brigham supports a complete continuum of care including community and specialty hospitals, a managed care organization, a physician network, community health centers, home care and other health-related entities. Several of our hospitals are teaching affiliates of Harvard Medical School, and our system is a national leader in biomedical research. 
+ We're focused on a people-first culture for our system's patients and our professional family. That's why we provide our employees with more ways to achieve their potential. Mass General Brigham is committed to aligning our employees' personal aspirations with projects that match their capabilities and creating a culture that empowers our managers to become trusted mentors. We support each member of our team to own their personal development-and we recognize success at every step. 
+ Our employees use the Mass General Brigham values to govern decisions, actions and behaviors. These values guide how we get our work done: Patients, Affordability, Accountability & Service Commitment, Decisiveness, Innovation & Thoughtful Risk; and how we treat each other: Diversity & Inclusion, Integrity & Respect, Learning, Continuous Improvement & Personal Growth, Teamwork & Collaboration. 
+ General Summary/Overview Statement: 
+ The primary role of this position will be to design, develop and support large-scale, mission-critical, multi-site web applications using several modern web technologies like React, NodeJS, VUE, BOOTSTRAP, etc. Responsibilities will include participation in software design sessions with the users, and working in close coordination with PeC Extensions, UI Integration teams, and other MGB innovation groups. Additionally, the position will require being part of the team's on-call rotation. As new projects arise, this person may assume other responsibilities. 
+ Principal Duties and Responsibilities 
+ - Functions as technical leader for multiple, complex applications utilizing demonstrated ability to deliver technical solutions to the problems and challenges inherent in related projects. 
+- Will be involved in all phases of project life cycle, assisting in the technical design, coding, implementation, and maintenance of the assigned systems. 
+- Works with the project team, which includes users and analysts, to develop technical solutions which integrate with the current systems. 
+- Develops project related technical work plans, including technical specifications, delivery schedules, and ensures adherence. 
+- Collaborates with other IS staff (Operations, Network Services, Information Security, etc.) to provide inter-disciplinary technical solutions. 
+- Collaborates with PeC groups for all integrations with Epic. 
+- Collaborates with the team to maintain internal documentation for new and existing applications. 
+- Participate in the groups on-call rotation for support. 
+- Must be a self-starter and stay current on emerging technologies in the industry. 
+- Performs all other duties as assigned. 
+- Uses the Mass General Brigham values to govern their decisions, actions and behaviors. 
+ Qualifications 
+• Bachelor's degree in computer science or related field, or equivalent work experience. 
+• At least 4 years of progressive work experience in developing web applications. 
+• Experience with ASP.NET, .NET Core, C#, React, MVC, HTML/JavaScript/Ajax, and XML required. 
+• Experience with responsive UI design utilizing frameworks like Bootstrap. 
+• Experience with jQuery and AngularJS libraries. 
+• Experience with Relational Database design and development using MS SQL Server. 
+• Experience developing with RESTful and SOAP web services. 
+• Experience with Epic Integration principles and knowledge of Intersystems' Cache is desired. 
+• Proficiency with developing reports using MS SQL Server Reporting Services is desired. 
+• Experience with Visual Studio, Visual Studio Code, Team Foundation Server, Azure Dev Ops, and SharePoint is desired. 
+• Experience with Agile, Scrum or CMMI software development methodologies is desired. 
+ Skills/Abilities/Competencies Required 
+• Understanding of distributed web application development concepts and object-oriented programming. 
+• Experience developing large-scale applications using modern frameworks like React, Bootstrap, etc. 
+• Exposure to systems analysis, application design and testing. Ability to write clear technical documentation. 
+• Able to act independently or under very general direction. 
+• Excellent interpersonal skills to effectively communicate with cross-functional teams, including technical and non-technical staff at all levels of the organization. 
+• Ability to successfully negotiate and collaborate with others with different skill sets, backgrounds and levels within and external to the organization. 
+• Ability to assist developers and analysts in coding, testing, implementing, and maintaining systems. 
+• Desire to learn and stay updated on emerging technologies and trends. 
+ Working Conditions: 
+ MGB has implemented special remote working policies due to COVID-19. These policies are subject to change; however, it is currently expected that this position will work remotely (e.g. from home) full time through June 2021 
+ If onsite: 
+• Open office environment 
+• Participate in team's 24/7 on-call rotation, provide primary support as needed. 
+• Remote home access equipment will be provided as required 
+ Supervisory Responsibility 
+none 
+ Fiscal Responsibility 
+N/A 
+ EEO Statement 
+Mass General Brigham is an Equal Opportunity Employer & by embracing diverse skills, perspectives and ideas, we choose to lead. All qualified applicants will receive consideration for employment without regard to race, color, religious creed, national origin, sex, age, gender identity, disability, sexual orientation, military service, genetic information, and/or other status protected under law. 
+ Partners Healthcare System Inc. is acting as an Employment Agency in relation to this vacancy. 
+ 
+ 
+ Internal Number: 3134613-1435_1607615316 
+  __  Create a Job Alert for Similar Jobs  
+ About MGH Institute of Health Professions 
+ MGH Institute of Health Professions, founded by Massachusetts General Hospital in 1977, is an innovative and independent graduate school in Boston that is a member of Partners HealthCare. A progressive leader in developing comprehensive models of health care education, the MGH Institute prepares advanced practice professionals in the fields of nursing, physical therapy, occupational therapy and communication sciences and disorders through a distinctive combination of academic study, clinical practice, and research. More than 1,200 students are enrolled in graduate level and certificate programs, with an increasing number of courses available online. The Institute is accredited by the New England Association of Schools and Colleges (NEASC). 
+ Connections working at MGH Institute of Health Professions 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Engineer (optical system) 
+ __  Chiang Mai, Thailand 
+ 
+ 
+ 
+ 
+ National Astronomical Research Institute of Thailand (Public Organization) 
+ __3 Weeks Ago 
+ 
+ 
+ Research Data Analyst 
+ __  Stanford, California 
+ 
+ 
+ Stanford University 
+ __Today 
+ 
+ 
+ Solutions Engineering Manager - Integration Technologies 
+ __  Nationwide 
+ 
+ 
+ Capital Group 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

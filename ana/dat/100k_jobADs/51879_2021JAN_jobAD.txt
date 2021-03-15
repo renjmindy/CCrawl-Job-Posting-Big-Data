@@ -1,0 +1,55 @@
+[Contact Me](Workable Wealth/contact) 
+ 
+ 
+ fb 
+ 
+ 
+ linkd 
+ 
+ 
+ pint 
+ 
+ 
+ twit 
+ 
+ 
+ Work With Us 
+ 
+ Financial Planning 
+ What to Expect 
+ 
+ 
+ 
+ About 
+ 
+ 
+ Speaking & Media 
+ 
+ Media 
+ 
+ 
+ 
+   
+ 
+ Work Your Wealth Book 
+ Blog 
+ Podcast 
+ 
+ Select Page 
+ Search for: 
+ Episode 113: Align Your Career With Your Values 
+ Sep 21, 2020 
+ Career, Financial Planning, Goal Planning 
+ Work Your Wealth 
+ Episode 113: Align Your Career With Your Values 
+ Play Episode Pause Episode 
+ Mute/Unmute Episode Rewind 10 Seconds 1x Fast Forward 30 seconds 
+ 00:00 / 
+ Subscribe Share 
+ RSS Feed 
+ Share 
+ [ ](https://www.facebook.com/sharer/sharer.php?u=https://traffic.libsyn.com/secure/workyourwealthpodcast/113._Align_Your_Career_with_Your_Goals.mp3&t=Episode 113: Align Your Career With Your Values "Share on Facebook") [ ](https://twitter.com/intent/tweet?text=https://traffic.libsyn.com/secure/workyourwealthpodcast/113._Align_Your_Career_with_Your_Goals.mp3&url=Episode 113: Align Your Career With Your Values "Share on Twitter")    
+ Link 
+ Embed 
+ /  /   /  /   */  ( function( $ ) { $( document ).bind( 'gform_post_render', function() { var gfRecaptchaPoller = setInterval( function() { if( ! window.grecaptcha || ! window.grecaptcha.render ) { return; } renderRecaptcha(); clearInterval( gfRecaptchaPoller ); }, 100 ); } ); } )( jQuery );  ( function( $ ) { $( document ).bind( 'gform_post_render', function() { var gfRecaptchaPoller = setInterval( function() { if( ! window.grecaptcha || ! window.grecaptcha.render ) { return; } renderRecaptcha(); clearInterval( gfRecaptchaPoller ); }, 100 ); } ); } )( jQuery );  _stq = window._stq || []; _stq.push([ 'view', {v:'ext',j:'1:9.2.1',blog:'57122161',post:'9491',tz:'-8',srv:'workablewealth.com'} ]); _stq.push([ 'clickTrackerInit', '57122161', '9491' ]);  jQuery(document).ready(function($) { jQuery('#query-form-toggle').css('display', 'none'); $('#contact-form-toggle-button').on('click', function(e){ e.preventDefault(); $("#query-form-toggle").slideToggle(1000); $("body, html").animate({ scrollTop: $( $(this).attr('href') ).offset().top }, 1000); }); $('p:empty' ).remove(); });  new WOW( { offset: 150, mobile: true, live: true } ).init();  var jQuery = jQuery.noConflict(); jQuery(document).ready(function($) { $(window).scroll( function(){ $('.hideme').each( function(i){ var bottom_of_object = $(this).offset().top + $(this).outerHeight(); var bottom_of_window = $(window).scrollTop() + $(window).height(); if( bottom_of_window > bottom_of_object ){ $(this).animate({'opacity':'1'},500); } }); }); });  var jQuery = jQuery.noConflict(); jQuery(document).ready(function($) { $("#content-area .podcasts:nth-child(4n)").addClass('showprodcast'); $( ".showprodcast" ).nextAll().addClass('hideprodcast'); $(window).scroll( function(){ $('.hideprodcast').each( function(i){ var bottom_of_object = $(this).offset().top + $(this).outerHeight(); var bottom_of_window = $(window).scrollTop() + $(window).height(); if( bottom_of_window > bottom_of_object ){ $(this).animate({'opacity':'1'},500); } }); }); });  jQuery(document).ready(function($) { jQuery('.sliderfeature .slide1').slick({ slidesToShow: 4, slidesToScroll: 1, autoplay: true, autoplaySpeed: 2000, arrows : false, responsive: [ { breakpoint: 1024, settings: { slidesToShow: 3, slidesToScroll: 3, infinite: true, } }, { breakpoint: 600, settings: { slidesToShow: 2, slidesToScroll: 2 } }, { breakpoint: 480, settings: { slidesToShow: 1, slidesToScroll: 1 } } ] }); $('.category-latest-posts .et_pb_blog_grid div:last').remove(); });  $('ul.expandible').each(function(){ var $ul = $(this), $lis = $ul.find('li:gt(4)'), isExpanded = $ul.hasClass('expanded'); $lis isExpanded ? 'show' : 'hide' ; if($lis.length > 0){ $ul .append($(' ' + (isExpanded ? 'Show Less' : 'Show More') + ' ') .click(function(event){ var isExpanded = $ul.hasClass('expanded'); event.preventDefault(); $(this).text(isExpanded ? 'Show More' : 'Show Less'); $ul.toggleClass('expanded'); $lis.slideToggle(2000); })); } }); jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){ Placeholders.enable(); }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ); jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); 
+ $(document).ready(function($) { var divHeight = $('.email_newsletter').outerHeight(); $('#footer-bottom').css('margin-bottom', divHeight+'px'); }); 

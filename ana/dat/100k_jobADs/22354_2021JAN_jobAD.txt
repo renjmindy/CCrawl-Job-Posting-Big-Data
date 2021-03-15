@@ -1,0 +1,89 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Frontend, Craft CMS, PHP Developer REMOTEPERMANENT 
+ Job Description 
+ Clearfire is searching for a full time front-end web developer to join our team. This position will be tasked with frontend markup (HTML, CSS, Javascript), Craft and other CMS implementation, and backend development. We're looking for a versatile developer who can work within a variety of platforms and languages. 
+ Our projects vary in size and complexity, and often include features and functionality that go beyond traditional brochure sites. We integrate our client’s sites with a variety of systems and APIs, which involve custom CMS plugin development or more complex web applications. 
+ This is a remote position, and we're looking for a full-time team member with daytime availability. 
+ About Clearfire 
+ Clearfire is a small team of creative professionals. We operate with our clients as partners, digital strategists and an extended production team. 
+ We've been at this a long time, and draw from a sizable vault of experience when tasked with solving problems through design and technology. Our clients range from small web startups to Fortune 100 companies, each with their own unique challenges. 
+ Requirements 
+ You should be able to say yes to  **  most **  of the following: 
+ 
+ Do you have experience with Craft CMS or other CMS platforms? 
+ Are you experienced in front-end web development via HTML, CSS and Javascript? 
+ Do you have experience in using CSS pre-processors (SASS, LESS)? 
+ Can you to take provided designs (Photoshop, Sketch, Figma), extract assets, and create front-end markup? 
+ Do you have an eye for detail? 
+ Are you competent or familiar with version control (Git)? 
+ Do you have experience creating front-end markup using web standards, responsive design and cross-browser compatibility? 
+ Have you worked remotely before? 
+ 
+ Nice to haves: 
+ 
+ Experience with frontend CSS and JS frameworks like Tailwind, Vue.js, Alpine.js, etc. 
+ Experience with other CMS or eCommerce platforms like Statamic, Wordpress, ExpressionEngine and Shopify. 
+ Experience with PHP and frameworks like Laravel. 
+ 
+ Benefits 
+ 
+ Health and Dental Insurance 
+ Retirement plan with company match 
+ Paid holiday and vacation time 
+ Distributed team with remote-first working environment 
+ 40 hour max work week with flexible hours 
+ 
+ How to Apply 
+ If you are interested in this opportunity,  please fill out this form  or send an email to  [email protected]  with the following information: 
+ 
+ Introduction and general information about your experience. 
+ Links to a portfolios or samples of your work. 
+ Your location. 
+ What do you enjoy doing outside of work? What are your hobbies and interests? 
+ 
+ More information can be found on our website: 
+ https://clearfirestudios.com/careers/web-developer-craft-cms-full-time 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Clearfire Inc. 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://clearfirestudios.com 
+ __  Posted November 30, 2020 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

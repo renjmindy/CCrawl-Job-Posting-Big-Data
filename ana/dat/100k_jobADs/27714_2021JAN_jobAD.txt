@@ -1,0 +1,300 @@
+NEP-DGE Blog 
+ Discussion about the latest research in Dynamic General Equilibrium theory 
+ 
+ Home 
+ About 
+ 
+ Bad Jobs and Low Inflation 
+ Renato Faccini and Leonardo Melosi 
+ http://d.repec.org/n?u=RePEc:red:sed019:970&r=dge 
+ 
+ Since 2014 the U.S. economy has been characterized by (i) a tight labor market with a record-low unemployment rate and very high job finding rates, (ii) disappointing labor productivity growth, and (iii) low inflation. We propose a model with the job ladder that can reconcile these three facts. In the model inflation picks up only when most jobs are concentrated at the high rung of the ladder: as firms compete for efficiently allocated employed workers, outside offers are declined and matched, triggering an increase in production costs that is not backed by an increase in productivity. The model is estimated using unemployment and quit rates, which allow the model to precisely identify the distribution of the quality of jobs. After the Great Recession, the observed structural drop in the job-to-job rate has slowed down the pace at which the U.S. labor market turns bad jobs into good jobs. As a result, inflation has not escalated even though the labor market appears to be very tight. Furthermore, the model predicts that labor productivity persistently fell by up to 70 bps in the post-Great Recession recovery owing to this protracted misallocation in the labor market. 
+ 
+ This paper addresses an important question that is puzzling many in an elegant way. However, I am still left hungry: what triggered that change in job-to-job transitions that is taken exogenously here? 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ More 
+ 
+ 
+ 
+ Email 
+ Reddit 
+ 
+ 
+ Print 
+ 
+ 
+ Tumblr 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted on Saturday, October 19th, 2019 at 8:21 pm and is filed under  Uncategorized . You can follow any responses to this entry through the  RSS 2.0  feed. You can skip to the end and leave a response. Pinging is currently not allowed. 
+ Post navigation 
+ « Previous Post   Next Post » 
+ One Response to  Bad Jobs and Low  Inflation 
+ 
+ rfaccini says: 
+ 
+ October 28, 2019 at 10:25 am 
+ In our model the key driver of the results is the countercyclical behavior of the rate of on the job search, which we show it can be exactly identified from the joint dynamics of the macro time series for UE and EE flows. This is consistent with the findings of Faberman and Kudliak (2016), the only paper we know of, which measures search intensity at micro levels in a dataset that comprises workers with a job. However, very little is known yet about the reasons for this cyclicality, mainly due to the scarcity of information about on the job search. It may be that workers with a job have more incentives to search in recession, when income risk is higher. Or it may be that after years of recovery, unsuccessful on-the-job seekers search less as they become discouraged. 
+ Reply 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Follow me on Twitter 
+ 
+ 
+ My Tweets 
+ 
+ 
+   NEP Blogs 
+ 
+ NEP-ARA: Economics of the MENA - Middle East and North Africa 
+ NEP-DGE: Dynamic General Equilibrium 
+ NEP-HIS: Business, Economic and Financial History 
+ NEP-INT: International Trade 
+ NEP-LTV: Unemployment, Inequality and Poverty 
+ NEP-OPM: Open Macroeconomics 
+ NEP-PAY: The Cashless Society 
+ 
+ 
+ 
+ Blogroll 
+ 
+ Calls for papers 
+ Christian Zimmermann, your editor 
+ EconAcademics blog aggregator 
+ NEP 
+ NEP-DGE mailing list 
+ QM&RBC 
+ RePEc 
+ RePEc blog 
+ Society for Economic Dynamics 
+ 
+ 
+ 
+ Subscribe 
+ 
+ RSS - Posts 
+ RSS - Comments 
+ 
+ 
+ 
+ Follow Blog via Email 
+ 
+ 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 4,956 other followers 
+ Email Address: 
+ Follow 
+ 
+ 
+ Recent Comments 
+ 
+ Jan-Niklas Brenneisen  on  Monetary policy under imperfect information and consumer confidence 
+ M.H. on  Structuring Mortgages for Macroeconomic Stability 
+ Nigar Hashimzade on  Health versus Wealth: On the Distributional Effects of Controlling a Pandemic 
+ Matthias Meier  on  Supply Chain Disruptions, Time to Build, and the Business Cycle 
+ Nigar Hashimzade on  Endogenous Preferences for Parenting and Macroeconomic Outcomes 
+ Jose Carreno  on  Housing Booms and the U.S. Productivity Puzzle 
+ Normann Rion  on  Waiting for the Prince Charming: Fixed-Term Contracts as Stopgaps 
+ Alexandre Lucas Cole on  One EMU Fiscal Policy for the EURO 
+ Guido Traficante  on  One EMU Fiscal Policy for the EURO 
+ Phitawat Poonpolkul on  Risk-sensitive preferences and age-dependent risk aversion 
+ 
+ 
+ 
+   Latest papers on NEP-DGE 
+ 
+ An error has occurred; the feed is probably down. Try again later. 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021  (4) 
+ December 2020  (4) 
+ November 2020  (4) 
+ October 2020  (4) 
+ September 2020  (4) 
+ August 2020  (4) 
+ July 2020  (3) 
+ June 2020  (4) 
+ May 2020  (4) 
+ April 2020  (4) 
+ March 2020  (5) 
+ February 2020  (4) 
+ January 2020  (4) 
+ December 2019  (4) 
+ November 2019  (4) 
+ October 2019  (14) 
+ September 2019  (4) 
+ August 2019  (6) 
+ July 2019  (2) 
+ June 2019  (1) 
+ May 2019  (4) 
+ April 2019  (4) 
+ March 2019  (7) 
+ February 2019  (3) 
+ January 2019  (2) 
+ December 2018  (4) 
+ November 2018  (3) 
+ October 2018  (15) 
+ September 2018  (3) 
+ August 2018  (4) 
+ July 2018  (3) 
+ June 2018  (4) 
+ May 2018  (5) 
+ April 2018  (4) 
+ March 2018  (4) 
+ February 2018  (4) 
+ January 2018  (3) 
+ December 2017  (5) 
+ November 2017  (5) 
+ October 2017  (5) 
+ September 2017  (7) 
+ August 2017  (2) 
+ July 2017  (5) 
+ June 2017  (4) 
+ May 2017  (5) 
+ April 2017  (5) 
+ March 2017  (4) 
+ February 2017  (4) 
+ January 2017  (5) 
+ December 2016  (3) 
+ November 2016  (6) 
+ October 2016  (7) 
+ September 2016  (1) 
+ August 2016  (4) 
+ July 2016  (6) 
+ June 2016  (5) 
+ May 2016  (4) 
+ April 2016  (4) 
+ March 2016  (7) 
+ February 2016  (6) 
+ January 2016  (3) 
+ December 2015  (4) 
+ November 2015  (5) 
+ October 2015  (4) 
+ September 2015  (7) 
+ August 2015  (5) 
+ July 2015  (7) 
+ June 2015  (1) 
+ May 2015  (6) 
+ April 2015  (5) 
+ March 2015  (5) 
+ February 2015  (5) 
+ January 2015  (5) 
+ December 2014  (9) 
+ November 2014  (4) 
+ October 2014  (5) 
+ September 2014  (5) 
+ August 2014  (5) 
+ July 2014  (5) 
+ June 2014  (3) 
+ May 2014  (7) 
+ April 2014  (3) 
+ March 2014  (4) 
+ February 2014  (3) 
+ January 2014  (5) 
+ December 2013  (5) 
+ November 2013  (5) 
+ October 2013  (5) 
+ September 2013  (6) 
+ August 2013  (3) 
+ July 2013  (6) 
+ June 2013  (2) 
+ May 2013  (5) 
+ April 2013  (5) 
+ March 2013  (6) 
+ February 2013  (4) 
+ January 2013  (6) 
+ December 2012  (5) 
+ November 2012  (4) 
+ October 2012  (5) 
+ September 2012  (4) 
+ August 2012  (2) 
+ July 2012  (6) 
+ June 2012  (5) 
+ May 2012  (6) 
+ April 2012  (5) 
+ March 2012  (3) 
+ February 2012  (3) 
+ January 2012  (3) 
+ December 2011  (3) 
+ November 2011  (5) 
+ October 2011  (3) 
+ September 2011  (3) 
+ August 2011  (5) 
+ July 2011  (4) 
+ June 2011  (5) 
+ May 2011  (4) 
+ April 2011  (5) 
+ March 2011  (4) 
+ February 2011  (4) 
+ January 2011  (5) 
+ December 2010  (3) 
+ November 2010  (4) 
+ October 2010  (4) 
+ September 2010  (3) 
+ August 2010  (5) 
+ July 2010  (3) 
+ June 2010  (6) 
+ May 2010  (4) 
+ April 2010  (5) 
+ March 2010  (5) 
+ February 2010  (4) 
+ January 2010  (3) 
+ December 2009  (3) 
+ November 2009  (5) 
+ October 2009  (4) 
+ September 2009  (2) 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+ Blog at WordPress.com. 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

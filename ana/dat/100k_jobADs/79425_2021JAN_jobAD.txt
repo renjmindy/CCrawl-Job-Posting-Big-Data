@@ -1,0 +1,79 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Talented, enthusiastic back-end developer LOCALPERMANENT 
+ Job Description 
+ Working with the technical director on back-end and CMS development for our projects. You will be involved in every stage of your projects, from planning out and building sites through testing/QA, deployment, delivery and post-launch support. You will typically be working on 2-3 projects at a time and work closely with our front-end developers integrating their template code into content-managed sites and dynamic web applications. 
+ You'll also be working with the team in supporting our catalogue of existing sites and providing ongoing support to our project managers and our clients. 
+ You will be enthusiastic about web development and excited about new tools, techniques and technologies but know when this distracts from Getting Things Done. You must be self-motivated, organised and focused in your work but happy collaborating with others 
+ Necessary skills and requirements 
+ 
+ A passion for web design 
+ Build dynamic sites with PHP 
+ Work with relational databases, ideally MySQL 
+ Experience integrating front-end templates into Content Management Systems 
+ Using version control systems, notably Git 
+ 
+ Nice to haves 
+ 
+ Working with Craft CMS or ExpressionEngine 
+ Configuring and working with LAMP/Nginx server hosting and DNS 
+ Experience developing custom PHP with Yii or similar framework (eg Laravel) 
+ Building and working with eCommerce websites, payment gateways, etc 
+ Working/integrating with third-party APIs 
+ Familiarity with front-end technologies, especially JavaScript/AJAX 
+ 
+ The role will be based in our Bath office. No full-time remote working, sorry. 
+ Further details on our website at  https://ournameismud.co.uk/journal/back-end-developer-position 
+ How to Apply 
+ Please email your CV - outlining your skills, experience (including examples of your work) and interests along with links to Github and Twitter profiles (if relevant) - and a covering letter to  [email protected] 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Mud 
+ 
+ __ 
+ 
+ Location:  Bath, UK 
+ 
+ __ 
+ 
+ Phone Number:  [01225 471465](01225 471465) 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   http://ournameismud.co.uk/ 
+ __  Posted November 15, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

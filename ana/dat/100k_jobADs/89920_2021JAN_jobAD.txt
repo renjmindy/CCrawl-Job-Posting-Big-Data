@@ -1,0 +1,124 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Ambient.ai (W17) 
+ AI-powered environments that are safe, efficient and sustainable. 
+ Senior Software Engineer (Appliance) 
+ 
+ Location 
+ Palo Alto, CA, USA 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Ambient.ai 
+ Ambient.ai is a stealth AI company headquartered in Palo Alto on a mission to enable intelligent environments that are safe, efficient and sustainable. Our breakthrough technology combines cutting edge deep learning with a contextual knowledge model to endow agents with a human-like perception ability. Ambient's flagship product has been deployed by multiple Fortune 100 companies to solve a mission-critical problem in a way that has never been possible. 
+ The company was founded in 2017 by experts in artificial intelligence from Stanford who previously built iconic products at Apple, Google, Microsoft and Dropbox. We are backed by Andreessen Horowitz (a16z), SV Angel, YCombinator, and visionary angels like Jyoti Bansal, Mark Leslie and Elad Gil. 
+ There’s work and there’s your life’s work. We are looking for people who believe in the transformational power of AI, have an insatiable desire to solve customer problems with delightful products and are ready to be a part of something much bigger than themselves to do their life’s work ( [email protected] ). 
+ About the role 
+ Skills:  C++ 
+ Ambient.ai is a stealth AI company headquartered in Palo Alto on a mission to enable intelligent environments that are safe, efficient and sustainable. Our breakthrough technology combines cutting-edge deep learning with a contextual knowledge model to achieve human-like perception ability. Ambient's flagship product has been deployed by multiple Fortune 100 companies to solve a mission-critical problem in a way that has never been possible. 
+ The company was founded in 2017 by experts in artificial intelligence from Stanford University who previously built iconic products at Apple, Google, Microsoft and Dropbox. We are a Series-A company backed by Andreessen Horowitz (a16z), SV Angel, YCombinator, and visionary angels like Jyoti Bansal, Mark Leslie and Elad Gil. 
+ ======== 
+ We're looking for a software engineer passionate about building real-time IoT devices for AI to join the founding engineering team at Ambient. Ideal candidate has an obsession for high-quality engineering, ability to learn new things quickly and the desire to solve challenging problems. You'll take ownership of Ambient's highly scalable enterprise grade appliance for running deep neural networks in the field. 
+ Responsibilities *Massively scaling the video encoding / decoding infrastructure on the appliance with extreme constraints on resources. *Designing and implementing appliance services for recording massive amounts of video data and bandwidth- efficient HD live streaming. *Implementing the infrastructure for software packaging, deployment and OTA updates without service interruption / downtime. *Building tools for monitoring the health and reliability of appliances deployed in the field. 
+ Qualifications *BS/MS in Computer Science or related field with a strong programming background. *At least 3 years of experience shipping enterprise-grade software. *Proficiency in systems programming (C/C++), especially multi-threading, concurrency, operating systems fundamentals such as CPU scheduling, memory management etc. *Strong understanding of computer networks and related technologies, such as HTTP, WebSockets, bandwidth optimization etc. *Strong desire to solve challenging problems, learn new things and wear many hats as part of an early stage company. 
+ Our benefits include: 
+ 
+ Market-competitive salary plus equity 
+ Medical, dental, vision insurance 
+ Generous Paid Time Off 
+ Catered lunches (3 days/week) 
+ Fully stocked kitchen with snacks and drinks 
+ Employee referral bonus program 
+ Quarterly team offsites 
+ Awesome coworkers and prime University Avenue office location 
+ 
+ At Ambient.ai, we respect and admire the builders and the creators. Send us your most incredible project; we'd love to see. 
+ Ambient.ai is proud to be an Equal Opportunity Employer. 
+ Technology 
+ Ambient's tech stack is very extensive. 
+ 
+ For the IoT server and the deep learning infrastructure, we use Python, C/C++, WebRTC and Tensorflow on GP-GPUs (NVIDIA). 
+ The web backend and micro-services are written largely in Python. The frontend is a mix of React and native Javascript. The web infrastructure is supported by a variety of services such as Redis, celery, elasticsearch, Amazon RDS etc. 
+ 
+ We also use a variety of tools such as supervisor, docker, network monitoring tools and performance profilers. 
+ Other jobs at Ambient.ai 
+ Applied Research Scientist (Computer Vision) 
+ fulltime 
+ Palo Alto, CA, USA 
+ Data Science 
+ 1+ years 
+ Senior Applied Research Scientist (Computer Vision) 
+ fulltime 
+ Palo Alto, CA, USA 
+ Machine Learning 
+ 3+ years 
+ Data Infrastructure Manager 
+ fulltime 
+ Palo Alto, CA, USA 
+ Backend 
+ 6+ years 
+ Senior Security Engineer 
+ fulltime 
+ Palo Alto, CA, USA 
+ Backend 
+ 3+ years 
+ Senior Site Reliability Engineer (SRE) 
+ fulltime 
+ Palo Alto, CA, USA 
+ Devops 
+ 3+ years 
+ Senior Software Engineer (Appliance) 
+ fulltime 
+ Palo Alto, CA, USA 
+ Backend 
+ 3+ years 
+ Senior Software Engineer (Appliance) 
+ fulltime 
+ Palo Alto, CA, USA 
+ Backend 
+ 3+ years 
+ Staff Software Engineer (Appliance) 
+ fulltime 
+ Palo Alto, CA, USA 
+ Backend 
+ 3+ years 
+ Senior Software Engineer (Web Infrastructure) 
+ fulltime 
+ Palo Alto, CA, USA 
+ Backend 
+ 3+ years 
+ Staff Software Engineer (Web Infrastructure) 
+ fulltime 
+ Palo Alto, CA, USA 
+ Backend 
+ 3+ years 
+ Senior Frontend Engineer 
+ fulltime 
+ Palo Alto, CA, USA 
+ Frontend 
+ 3+ years 
+ Staff Research Scientist (Computer Vision) 
+ fulltime 
+ Palo Alto, CA, USA 
+ Machine Learning 
+ 3+ years 
+ Software Engineer, iOS 
+ fulltime 
+ Palo Alto, CA, USA / Remote 
+ iOS 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

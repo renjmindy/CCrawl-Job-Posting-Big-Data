@@ -1,0 +1,340 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Google Maps 
+ 
+ Google Maps Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Google Maps Developer ? 
+ ](https://www.workana.com/hire/google-maps) 
+ 6 months ago 
+ Spatial analysis and Gis, remote sensing cartographer required 
+ Published: 6 months ago  Deadline: 13 Bids: 5 
+ You can choose 3 or more of the next projects which we need to assist and help us for carrying out. 
+Technology support of essential public health operations 
+Public health interventions and disaster risk reduction using mobile technologies 
+Serious games and digital storytelling 
+Citizens science, participatory surveillance, and crowdsourcing 
+Internet of Things/sensors 
+Big data modeling and machine learning 
+Preparedness and response to emergencies 
+The utility and application of technology in public health education 
+Application of technology in community engagement 
+Infection control and antimicrobial stewardship 
+Methodological and technological challenges in the reutilization of routine data 
+Methodological and technological challenges in the implementation, transfer, and/or scaling up of e-health 
+Case studies of the application of natural language processing to health care and public health 
+Studies on the effectiveness and safety of e-health 
+Economics of the implementation of e-health – cost-effectiveness, budgetary impact, and opportunity costs 
+ Category  : Writing & Translation 
+ Subcategory  : Proofreading 
+ How many words?  : More than 5,000 words 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  E. Egypt 
+ USD 100 - 250 
+ 6 months ago 
+ Need to develop an App integrating google maps and distance. 
+ Published: 6 months ago  Deadline: 12 Bids: 4 
+ Need a login page and select contacts as  followers.Need  to enter a destination and calulate the duration based on mode of transport selected foot,car,bus etcc.. And once journey is started the followers should get a notification saying jouney is started .Then followers must tract the current location of user and if user is going in wrong route and doesnot reach destination in time warning message has to be sent to followers .If user reaches destination reached home safely message should be sent and few more requirements are there 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ I need to  : Create an app 
+ Published by:  P. R. R. Last reply: 6 months ago  India 
+ USD 50 - 100 
+ 6 months ago 
+ Mobile Health 
+ Published: 6 months ago  Bids: 2 
+ Develop a mobile health app for tracking the health status of a user.  It will include dynamic forms, graphs, audio and video players  with the platform flutter.  No back end work required, everything is done with a web API. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  B. F. Last reply: 6 months ago  United States Minor Outlying Islands 
+ USD 1,000 - 3,000 
+ 7 months ago 
+ Add Gps running tracker to my sports app 
+ Published: 7 months ago  Bids: 6 
+ I have a sports app. It measures the heart rate while you're training, these measurements are uploaded to a webservice. After you finish your session you can see the stats of your training session. 
+ We want to add the feature of 
+ 
+ Show and record your routes using the GPS 
+ Show and Calculate the distance using the GPS and the Google API 
+ Show and record your speed 
+ At the end show the statistics of your running session 
+** Average speed 
+** Total distance 
+** Speed on each kilometer run 
+** Upload this data to the Webservice (if the internet is not available, keep on a local database until the internet is available) 
+ 
+ We need this feature for both Android and iOS. 
+We will have the WebService endpoints ready for you. 
+We need this done in 6 weeks 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Modify an existing app 
+ App type  : Utility - Utility application (flash, calculator, etc.) 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  J. Canada 
+ USD 500 - 1,000 
+ 9 months ago 
+ Google My Business 
+ Published: 9 months ago  Bids: 8 
+ May include developing G Ads to drive traffic from search and display to site and GA to optimize site so that we get better visitors engagement and leads. 
+ Category  : Design & Multimedia 
+ Subcategory  : Web design 
+ What do you need?  : Create a new custom design 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  R. K. Malaysia 
+ USD 100 - 250 
+ Last year 
+ Cesium Designer 
+ Published: Last year  Bids: 1 
+ Requirement: Styling Cesium 3d tileset representing multiple layers in the tile. 
+ Design: Rail Piers with multiple layers. Each layer expected to the styled with colors dynamically on runtime. 
+ Types of Piers: 3 
+ Note: The expected layer is as expected from the following link example: https://cesium.com/blog/2017/07/12/the-next-generation-of-3d-tiles/ 
+ Where, the Nominal vector tileset representing floors in a building showing the 3D nature. 
+ (Or) 
+ like the Point cloud of the Church of St Marie at Chappes, France.  https://cesium.com/blog/2015/08/10/introducing-3d-tiles/ 
+ We will provide examples of piers to be designed. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  L. S. Malaysia 
+ USD 100 - 250 
+ Last year 
+ Fix some issue 
+ Published: Last year  Bids: 10 
+ I need an existing website rebuilt. I need you to build my online store.I want someone who fiz some issues in my existing website fix 2 seo red dots and new Google map api that works 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ Published by:  Z. Q. India 
+ Open 
+ Next 
+ 
+ 1 
+ 2 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

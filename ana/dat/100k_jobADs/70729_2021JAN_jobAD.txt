@@ -1,0 +1,356 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Data Structures 
+ 
+ Data Structures Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Data Structures Expert ? 
+ ](https://www.workana.com/hire/data-structures) 
+ 3 months ago 
+ Create a data base or excell, with information I have on a word file 
+ Published: 3 months ago  Deadline: 10 Bids: 10 
+ I have a word doc with information about some adv agencies tht I have contacted in the past and I would like to make a small database, so it will be easier to look for agencies I have already contacted when need it. Also need to complement some info from their website. 
+ Category  : Admin Support 
+ Subcategory  : Virtual Assistant 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  M. R. Last reply: 3 months ago  Spain Payment method:  __Verified 
+ Less than USD 50 
+ 5 months ago 
+ Senior Java Backend Web Developer w / Micro-services | Full-time pr... 
+ Published: 5 months ago  Project duration: 3 - 4 months Bids: 3 
+ Sr Java Backend Web Developer w / Micro-services 
+ Expert developing Java Enterprise applications 
+Expertise in architecting and developing scalable software solutions with gRPC based microservices in Spring Boot framework 
+Experience with Apache Kafka or Confluent Kafka in high volume environments 
+Working experience on Cassandra and caching solutions (e.g. Redis, ElastiCache). 
+Strong understanding of algorithms and data structures. 
+Knowledge about Databases 
+Good written and conversational English skills are a must. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Full time 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.), Other (Other APIs) 
+ Published by:  S. M. Uruguay 
+ USD 20 - 30 / hour 
+ 5 months ago 
+ Salesforce Pardot Configuration Specialist 
+ Published: 5 months ago  Bids: 1 
+ Responsibilities: 
+ - Review and optimize the existing Pardot instance to identify gaps and opportunities for more efficient use by the organization 
+- Identify opportunities for enhancements to existing tooling and processes (Gmail integration, Einstein Analytics, Lead and Opportunity lifecycles) and new features offered in each Salesforce major release 
+-Support cross-department initiatives by implementing strategic marketing workflows in Pardot, including processes to support lead generation, qualification and management (scoring/grading), plus drip campaigns to prospects 
+- Participate in the planning and analysis of business requirements for configuration changes and managed packages 
+- Translate business requirements into creative and effective technical designs 
+- Customize and set up marketing funnels, prospect segments, lead scoring/grading, nurture paths and reporting, per stakeholder specifications 
+- Effectively use Pardot reports to make data-driven decisions 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  R. E. Last reply: 5 months ago  Philippines 
+ USD 1,000 - 3,000 
+ 11 months ago 
+ Database Creation | need email I'd | number | Us audience 
+ Published: 11 months ago  Bids: 13 
+ Hi, 
+ we are looking for someone who can help us in creating a specific data list for our US audience. 
+ Project deadline can be negotiated but we need it in 3-4days. 
+ To get this work, we will share a small company and designation list. If the accuracy of that data is 80-90% then the work will be awarded to you. 
+ Looking forward to connect with you all soon. 
+ Category  : Admin Support 
+ Subcategory  : Market research 
+ Published by:  G. G. Last reply: 11 months ago  India 
+ USD 50 - 100 
+ Last year 
+ Ds looks spreadsheet walking/marking/filtering 
+ Published: Last year  Bids: 1 
+ Ans7i 
+ans7i 
+Public profile 
+Download the App 
+Dashboard 
+My Projects 
+Browse Projects 
+Browse Freelancers 
+Browse Local Jobs 
+Inbox 
+Deposit Funds 
+Get Support 
+Log Out 
+Copyright 2019 
+Freelancer Technology Pty Limited 
+Switch Account 
+DS Spreadsheet based utility 
+proposals 
+management 
+... 
+project budget (usd) 
+$ 30 
+it's a stand alone ds utility that can be done using any spreadsheet library. 
+ Data is in a tree format. Can be imported via clipboard and should be altered after the import. 
+ Each data can be treated as object and need to add  10 simple property like bg, %, p1 p2 etc ... 
+ After simple data representation & processing. 
+ Provisioning for property selection, row, column, keywords, with or without sub node. 
+ The last task will be depends on budget/time and progress, so it's optional for now, displaying node and provisioning for processing... 
+ Application has main window plus a pop up or otherwise few frames if needed. 
+ Few hotkeys to shuffle the data 
+ It's DS but no tasks like shorting, just marking and filtering. 
+ Open to all technologies, no compatibility or dependency. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  A. Japan 
+ USD 50 - 100 
+ Last year 
+ Microsoft specialist: dabatase, data analytics and Bi 
+ Published: Last year  Project duration: 1 - 4 weeks Bids: 8 
+ Development sprint for a market intelligence startup: 
+ The project consists in developing the cloud infrastructure to process, store and publish information generated through web crawlers.  It includes the following: 
+1-Cloud server 
+2-Data Lake 
+3-Database 
+4-Back-end routines 
+5-Develop embeded Power BI reporting 
+ We are working on the Microsoft platform, so competencies include Azure, DB, Power BI, etc. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Cloud Storage (Dropbox, Google Drive, etc.), Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  R. B. Last reply: Last year  Brazil 
+ Over USD 40 / hour 
+ Last year 
+ Skilled developer in C+ to create financial software 
+ Published: Last year  Bids: 16 
+ I am looking for a talented developer, with proven experience in C++ (at least 3 years). 
+ I want to write a program where I can connect to various financial APIs,  and download many data sets. These data sets will need to be formatted into a tabular format that will be provided. I will be using all this to create and send trading orders. 
+ Project must be completed within one and a half months, the sooner the better (budget will be agreed for total project, so the sooner project is delivered the sooner payment will be released). During this time, this will have to be the developer's primary focus (so do not apply if you only have a few hours availability). 
+ Ideal if freelancer residers in Singapore, or in near time zones. 
+ Interested candidates please send along experience, sites and projects where they have worked before, along as questions you may have for this project. 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Experience in this type of projects  : Yes (I have managed this kind of project before) 
+ API Integrations  : Other (Other APIs) 
+ Required platforms  : Windows 
+ Published by:  A. Singapore 
+ Over USD 3,000 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

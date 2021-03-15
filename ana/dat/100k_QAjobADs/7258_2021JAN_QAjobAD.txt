@@ -1,0 +1,12 @@
+ Basic Qualifications: 
+ 5+ years of non-internship professional software development experience 
+ Programming experience with at least one modern language such as  Java ,  C++ , or  C# including object-oriented design 
+ 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems. 
+ Computer Science fundamentals in object-oriented design 
+ Computer Science fundamentals in data structures 
+ Preferred Qualifications: 
+ Master’s Degree in Computer Science or related field 
+ Experience leading teams or mentoring junior developers 
+ Strong sense of ownership, urgency, and drive 
+ Strong knowledge of data structures, algorithms, and designing for performance, scalability, and availability 
+ Experience with UI frameworks such as  Spring MVC ,  GWT , jQuery ,  Swing , etc. 

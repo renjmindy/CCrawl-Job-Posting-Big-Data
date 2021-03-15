@@ -1,0 +1,257 @@
+r.j.'s space 
+ on the economy, energy, & the environment 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ <- February retail & other graphics 
+ March 22 graphics -> 
+ January inventories and producer prices, February retail sales, January job openings and turnover, and Ohio fracking quakes 
+ Posted on  March 16, 2014  by  rjsigmund 
+ it's been a comparatively slow week for important economic releases, although we did see a couple of reports that are watched for inventory build-up, which is a major component of GDP but which nonetheless is a concern because inventories are goods that have been produced but not yet sold or put to use, such that if they become excessive would lead to a curtailment of further production…on Tuesday, the  Census Bureau released  data on  Wholesale Trade: Sales and Inventories for January , in which they reported that seasonally adjusted wholesale inventories were valued at $521.2 billion at the end of January, which was up 0.6 percent (+/-0.4%) from the revised December level and 3.6 percent (+/-0.9%) higher than last January…this was largely because  wholesale sales posted their largest decline in nearly five years , as seasonally adjusted sales of merchant wholesalers fell 1.9 percent (+/-0.5%) to $432.6 billion from revised December wholesale sales, which themselves were revised down $1.4 billion or 0.3%; that decline in turn was mostly in wholesale sales of non-durable goods, which fell 3.2% from December, led by a 7.5% decrease in sales of petroleum and petroleum products; wholesale sales of durable goods were down as well, by 0.4%, but they were still at a level 3.9% higher than last January…the closely watched inventory to sales ratio of merchant wholesalers, while up from December's 1.18 to 1.21 in January, was still not much changed from the 1.20 ratio of a year earlier… 
+ the main report usually watched for inventory buildup is  Manufacturing & Trade Inventories & Sales for January  (pdf), aka "business inventories",  released by the Census Bureau  on Thursday, which includes wholesale inventories as a subset of the total…the seasonally adjusted value of manufacturers’ and trade inventories were estimated to be $1,715.1 billion at the end of January, up 0.4 percent (±0.1) from December and up 3.9 percent (±0.6) from last January, as the value of manufacturers inventories rose 0.2% to $637,704 million, retailers inventories rose 0.4% to $556,152 million, and wholesale inventories rose 0.6% to $521,201 million…meanwhile, the seasonally adjusted value of trade sales and manufacturers’ shipments was estimated at $1,302.9 billion in January, down 0.9 percent (±0.2) from December, but up 2.5 percent (±0.4) from last January, as retail sales fell 0.6% to $379,641 million, manufactures shipments fell 0.3% to $490,670 million, and wholesale sales fell 1.9% to $432,555 million….here we find that the total business inventory to sales ratio rose to 1.32 in January from 1.30 in December, which was  the highest level for this ratio since late 2009 , which you can see in  the graph below , which was taken  from the pdf report … 
+ 
+ the most widely watched economic release of this past week was  the Advance Retail Sales Report for February  (pdf) from the Census Bureau, which estimated that our seasonally adjusted retail and food services sales for the month totaled $427.2 billion, an increase of 0.3 percent (±0.5%)* from January but now just 1.5 percent (±0.9%) above February a year ago, as year over year sales increases have fallen monthly from 4.1% as recently as November…January's sales were revised down from $427.8 billion to $426.1 billion, a seasonally adjusted 0.6% decline from December, rather than  the 0.4% decline we reported on a month ago …December's sales,  originally reported at $431.9 billion, a 0.2% increase from November , and then revised to a 0.1% decrease last month, were again revised lower to $428.8 billion, a 0.3% month over month decrease…recall that the Census includes the asterisk on this report when they do not yet have sufficient data to determine whether sales actually rose or not in February, and revisions will also be forthcoming to the "advance" data reported here…the unadjusted data extrapolated from a small sampling of retail outlets estimates that sales actually fell in February to $385,143 million, from $389,880 million in January, which of course was lower than December's revised holiday sales of $485,306…the seasonal adjustment program for February sales account for not only normal seasonal retail sales changes but also account for the fact that there are 3 less days than in January, and generate the adjusted data which Census reports from, and which we'll use for the remainder of this coverage… 
+ we'll start by including below  a picture of the table of monthly seasonally adjusted sales percentage changes by business type   from the Census pdf …note that there are two double columns in that table; the first double column shows us the percentage change in sales for each kind of business from January’s revised figure to this February "advance" report in the first sub-column, and then the year over year percentage sales change since last February in the 2nd column; the second double column set below gives us the revision of January's advance estimates (now called "preliminary") as of this report, with the December to January percentage change under "Dec 2013 revised" and the January to January percentage change as revised in the 2nd column of the pair….the major revisions to January's sales change from December were in clothing store sales, which were originally reported as off 0.9% and are now reported as down 1.8%, sporting goods, book and music stores, which were first reported as down 1.4% and which have now been revised to a sharp 4.8% decline, restaurants and bars, where sales were originally reported as down 0.6% and are now marked as down 1.0%, and sales at electronics and appliance stores, which were reported as up 0.4% in the advance report and which have now been revised to show an increase of 2.6%…(contrast the revised January figures below with the picture of  what those January percentages looked like when released last month )… 
+ 
+ in a change from recent months, sales of motor vehicle & parts did not make a significant difference in the month over month retail sales change, as they increased by the same percentage that overall sales did….sales at auto & other vehicle dealers rose 0.3% to $72,847 million from $72,653 million in January, bringing the sales for the entire vehicles & parts group to $79,966 million, also up 0.3% from January and up 2.2% from a year earlier despite the 2.3% drop in January…as you can [see in the table above](https://rjsigmund.files.wordpress.com/2014/03/feb2014retailsalestable.jpg), other retail groups that saw sales increases in February included the specialty shops, such as sporting goods, book and music stores, whose sales rebounded from a 4.8% January decline to rise 2.5% to $7,372 million; there was likewise a turnaround in department stores sales, which grew by 0.7% to $14,103 million, after they were down 2.4% in January…however, the broader category of general merchandise store sales still fell 0.3% to $54,455 million in February, after falling 0.4% in January; both are also down year over year; specialty stores sales were 5.2% lower, while general merchandise store sales were off 0.8% from last February…declining sales are also showing up in layoffs for both; as you may [recall that retail employment has now fallen two months in a row](http://research.stlouisfed.org/fred2/graph/?graph_id=131534&category_id=0), with specialty store employment off 8,600 and general merchandise stores showing 6,600 fewer jobs in [last week's jobs report](http://marketwatch666.blogspot.com/2014/03/februarys-employment-situation-januarys.html)…nonstore, or mostly online sales, where employment has been little changed over the past two months, saw sales rise 1.2% to $38,889 million, after falling 1.0% in January…sales at drug stores also rose by 1.2% in February to $24,510 million, after falling by 0.8% in January…in addition, both clothing stores at $20,910 million in sales and furniture stores with February sales of $8,312 million saw 0.4% sales rebounds from January declines of 1.8% and 0.9% respectively…meanwhile, the two major sectors that saw sales declines in February were those that saw sales rise in January; food and beverage store sales were off 0.2% to $55,400 million after rising 0.1% the preceding month, while electronics and appliance store sales also fell 0.2% to $8,303 million after rising 2.6% in January…the latter, however has now seen sales decline 2.4% from last year, which undoubtedly played into the loss of 12,000 jobs at those stores in February alone…
+ 
+ our modified FRED pie graph for retail sales below  was created to give us a sense of the relative importance of sales for each of the retail groups covered by this report….starting at the 3 o'clock position and reading counterclockwise, it shows motor vehicles and parts sales at 19.2% of total retail sales as a deep blue wedge, general merchandise stores at 13.1% of retail as a red wedge, followed by food and beverage stores in green at 13.3%, restaurants and bars in mauve at 11.2% of sales, gas stations in orange at 11.0%, non-store or online retailers at 9.3% in sky blue, building materials and garden supply stores in light green at 6.3%, drug stores in mustard at 5.9%, clothing stores in pink at 5.0% of sales, electronics and appliance stores at 2.0% of the total in purple, furniture stores in yellow at 2.0%, and stores specializing in sporting goods, books or music in the pale blue wedge representing 1.8% of retail sales…note that  this pie graph  does not include the miscellaneous store retailers indicated in the table above, which account for roughly 2.0% of sales, because FRED limited us to a maximum of 12 pie slices per graph…( click to view larger original graph at FRED ) 
+ 
+ in  our next FRED graph below , we’ve used the same color coding to represent each of the 12 major retail sales categories as was used in the pie above and generated a bar graph to show the monthly percentage sales change for each retail group over the year ending February…each month is represented by a grouping of 12 bars, with the percentage change in each type of retail sales represented by its own color code within each bar group, wherein a monthly increase in sales for that business appears above the ‘0’ line and a percentage decrease below it…from left to right in each group is a deep blue bar representing the percentage change in motor vehicles and parts sales, a red bar indicating the change at general merchandise stores, followed by the percentage change at food and beverage stores in green, the sales change restaurants and bars in mauve, the change at gas stations in orange, the change non-store or online retailers in sky blue, the change at building and garden supply stores in light green, the percentage change at drug stores in mustard, the change in sales at clothing stores in pink , the change at electronics and appliance stores in purple, the change at furniture stores in yellow, and the percentage change in sales at stores specializing in sporting goods, books or music in pale blue…( click to enlarge ) 
+ 
+ on employment, the Bureau of Labor Statistics released the  Job Openings and Labor Turnover Survey Summary for January , which, in addition to the data on job openings, gives us monthly hires and job separations by reason, ie, those who were laid off or fired vs those who quit their job…seasonally adjusted  job openings rose from 3,914,000 in December to 3,974,000 in January , which is 2.8% as a percentage of total employment, unchanged from December but down from 2.9% in November, in keeping with the poor payroll job additions over those two months….there were 2.6 officially unemployed for every job opening in January, and that was also unchanged, and if you include those who are part time who want a full time job, the ratio is  5.1 workers for each job opening ; there were 64,000 additional openings in the health care and social assistance sector, 54,000 more in accommodation and food services, while job openings in professional and business services fell for a second straight month, losing 94,000 openings over the 2 month period… 
+ labor turnover consists of hires and job separations, and the difference between them should be equal to the total change in non-farm payrolls as reported by the establishment survey for January, which was  first reported February 9th  and revised last week.   there were 4,535,000 hired to start new jobs in January , which was down slightly from 4,578,000 million hired in December, while the hiring rate as a percentage of all employed rose was unchanged at 3.3%. .34,000 more were hired for construction jobs in January than were in December, while hires by non-durable manufacturing industries fell from 122,000 to 107,000… total separations in January were also down a bit, to 4,452,000 from 4,468,000 in December , while the separations rate as a percentage of total employment slipped from 3.3% to 3.2%…so hires minus separations would work out to an increase of 83,000 payroll jobs,  less than the originally reported 113,000 or the revised 129,000 for January … 
+ of the seasonally adjusted January job separations,  2,375,000 quit their jobs , down from 2,417,000 in December, as the quits rate fell from 1.8% to 1.7%, considered an indication that workers aren't confident they could find another job…the number who quit work in retail rose by 37,000, and quitters in accommodation and food services rose by 24,000, while quits in health care fell by 15,000…then another  1,736,000 were either laid off, fired or otherwise discharged in January , up from 1,702,000 in December; as a result, the layoffs and firings rate rose from 1.2% to 1.3%… only unadjusted data is given by industry , so unsurprisingly the largest layoffs shown were in retail…meanwhile,  other separations, which includes retirement and death, numbered 341,000 in January , down from 349,000 in December, for an ‘other separations’ rate of 0.2%…. our FRED graph for this report below  shows monthly hires in orange and monthly separations in violet since January 2007…note that when separations in purple were above orange hires we were losing jobs..of the two major components of separations, layoffs and firings are tracked in red, while the number of those quitting their jobs monthly is shown in green..then in blue, we show the history of monthly job openings over that same time period… 
+ then, in a report released Friday, the Bureau of Labor Statistics reported on  the new composite Producer Price Index for February , which now covers selling prices received by producers for finished, intermediate and raw goods, services, and construction sold for personal consumption, capital investment, government purchases, and export…..the seasonally adjusted headline producer price index for final demand fell by 0.1% in February, the first decline in three months, as the index for final demand services fell 0.3% while the index for final demand goods rose 0.4%; core producer prices, which exclude prices for food and energy, fell 0.2%,  the most in 9 months , as  final demand producer prices for food rose 0.6% as wholesale egg prices rose 19.0%  and final demand producer prices for energy rose 0.5%…of core producer prices, textile home furnishings increased by 16.5% while soap and detergent prices were 2.0% lower…on a year over year basis, producer prices for final demand increased just 0.9%, equal to the lowest annual reading of the past year…meanwhile, the producer price index for processed goods for intermediate demand rose 0.7%, the largest increase since a 1.0% increase last February, as prices rose for utility natural gas, diesel fuel, dairy products, plastic resins and LP gas, while wholesale processed poultry prices fell 3.4%; in spite of the February increase, this index shows no price change over a full year…in addition, the price index for unprocessed goods for intermediate demand jumped 5.7%, the most since an 8.1% increase in January 2010, as a 31.5% jump in natural gas prices resulted in a 14.7% increase in the subindex for energy materials and accounted for 60% of the rise in the index, while the index for services for intermediate demand rose 0.2%, largely on a 1.0% increase in transportation and warehousing services… 
+ finally, we were surprised that none of the regular environmental blogs picked up on what happened in Ohio this week, which may turn out to be the first batch of earthquakes directly linked to fracking, rather than to  the well known phenomena of injection well induced earthquakes …on Monday morning we experienced the first two of  five earthquakes in Mahoning County  southeast of here,  the first a 3.0 quake 1.2 miles deep at 2:26 AM 2km S of Lowellville, Ohio , and the second  a 2.6 quake also 2km S of Lowellville , Ohio, deeper but just a few hundred feet away from the first….this is an area of the state with no history of seismic activity before fracking and related injection well disposal of wastes began several years ago, and you might recall  we documented the first series of quakes in that area, which included a 4.0 quake on New Years eve 2011 , definitively proven to be caused by an such an injection well….however, by that Monday afternoon, within 12 hours after the first quake, reports emerged that  the Ohio Department of Natural Resources (ODNR) had ordered Hilcorp Energy, which had fracked wells just above the epicenter, to halt all drilling operations in the area , and also released a statement that there were no injection wells in the area…by way of background, this is  the same ODNR who we learned had partnered with the oil & gas industry to run psych-ops against environmental groups , including the Ohio Sierra Club and similar groups on its enemies list, so their moving against that fracking operation so quickly after the quakes raised some red flags….we came to find that  Hilcorp Energy was drilling seven wells at the site of the Carbon Limestone Landfill , which is in close proximity to the quake epicenters, and that laterals from those wells extended several thousand feet in all directions… here, using google maps, is a picture of the Carbon Limestone Landfill, bordered by Cowden Rd, an area surrounded by state & local routes 231, 630, 195 and US 224 ; here, also using google maps, is  the first earthquake epicenter at 41.017°N 80.537°W, in the same vicinity maybe 800 meters to the NNW of that  (zoom out to see the landfill); here's  the second earthquake epicenter at 41.009°N 80.532°W, which is even closer to the Carbon Limestone Landfill location, roughly 250 meters from the site …and finally,  here is a geological survey picture of the general geology of the east central Ohio area in question, with the profile of a  prototype Utica Shale well drawn in …note that the fracked wells go to a depth of 6000 to 7000 feet, which is  exactly the depth at which the first earthquake occurred at …given all this circumstantial evidence, we find it implausible that anything other than the fracking operation could have been the cause of those earthquakes this past week… 
+ 
+ (the above is the commentary that accompanied my regular sunday morning links emailing, synopses which in turn were mostly  selected from my weekly blog post  __  on the   global glass onion   …if you’d be interested in receiving my weekly emailing of selected links that accompanies these commentaries, most from the aforementioned GGO posts,   contact me  _…)   _ 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- February retail & other graphics 
+ March 22 graphics -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ global oil supply near December's demand; US distillates exports at a 40 mo low​; gasoline production at a 34 week low​ 
+ December's consumer & producer prices, retail sales, & industrial production; November's business inventories & JOLTS 
+ tables and graphs for January 16 
+ gasoline demand at a 32 week low, gasoline supplies up ​most in 3​5 weeks; distillate​s​ supplies​ up most in 31 weeks​ 
+ December's jobs report; November's trade deficit, construction spending, factory inventories, and wholesale trade.. 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ rjsigmund  on  tables and graphics for Novemb… 
+ 
+ 
+ 
+ 
+ Marsha Boggs on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ godfrey on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ October 2011 
+ September 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ 
+ 
+ 
+ Categories 
+ 
+ mortgage crisis 
+ retail sales 
+ Uncategorized 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  r.j.'s space  
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

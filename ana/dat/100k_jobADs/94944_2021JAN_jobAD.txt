@@ -1,0 +1,468 @@
+
+ Home 
+ About WIAS 
+ 
+ Mission 
+ Facts & Figures 
+ Information for Visitors 
+ 
+ Location 
+ How to get to? 
+ 
+ 
+ Organizational Structure 
+ Scientific Advisory Board 
+ Service Units 
+ 
+ Director's Office 
+ Administration 
+ IMU Secretariat 
+ Library 
+ Computing Department 
+ 
+ 
+ Leadership Principles 
+ Equal Opportunity 
+ 
+ Gender Equality 
+ Family and Work 
+ Female Master Students Program 
+ 
+ 
+ Apprenticeship Training 
+ WIAS History 
+ 
+ Forerunner Institutions 
+ WIAS (from 1992) 
+ 
+ 
+ Karl Weierstrass 
+ 
+ Curriculum Vitae 
+ Literature 
+ Commemorative Event Weierstrass 200 
+ Colleagues, Friends 
+ The Lost Portrait 
+ Gravesite 
+ Links 
+ 
+ 
+ 
+ 
+ Contact & People 
+ 
+ Location & Primary Contacts 
+ Staff 
+ Research Fellows 
+ Guests 
+ Nonresident Members 
+ 
+ 
+ Research 
+ 
+ Research Overview 
+ Main Areas of Application 
+ 
+ Conversion, Storage and Distribution of Energy 
+ Flow and Transport 
+ Materials Modeling 
+ Nano- and Optoelectronics 
+ Optimization and Control in Technology and Economy 
+ Quantitative Biomedicine 
+ 
+ 
+ Research Groups 
+ 
+ Partial Differential Equations 
+ Laser Dynamics 
+ Numerical Mathematics and Scientific Computing 
+ Nonlinear Optimization and Inverse Problems 
+ Interacting Random Systems 
+ Stochastic Algorithms and Nonparametric Statistics 
+ Thermodynamic Modeling and Analysis of Phase Transitions 
+ Nonsmooth Variational Problems and Operator Equations 
+ 
+ 
+ Flexible Research Platform 
+ 
+ Modeling, Analysis, and Scaling Limits for Bulk-Interface Processes 
+ Quantitative Analysis of Stochastic and Rough Systems 
+ Numerical Methods for Innovative Semiconductor Devices 
+ Probabilistic Methods for Dynamic Communication Networks 
+ Former Groups 
+ 
+ 
+ Research Topics 
+ Funded Projects 
+ Leibniz Network MMS 
+ 
+ Background 
+ MMS@Leibniz 
+ Events 
+ MMS Seed Money Grants 
+ Network Partners 
+ Cooperations 
+ 
+ 
+ Ethics 
+ 
+ 
+ Software & Transfer 
+ 
+ Knowledge Transfer 
+ WIAS-Software 
+ Cooperation and Consulting 
+ 
+ Overview 
+ Approach 
+ Case Studies 
+ Technology Offers 
+ 
+ 
+ Spin-offs 
+ 
+ m4sim 
+ rDesign 
+ 
+ 
+ 
+ 
+ Publications 
+ 
+ Refereed Publications 
+ WIAS-Publications 
+ External Preprints 
+ Theses 
+ 
+ 
+ Events & Jobs 
+ 
+ Events 
+ Institute's Colloquium 
+ Research Seminars 
+ Workshops 
+ Teaching 
+ Weekly Program 
+ Mathematical Calendar Berlin/Potsdam 
+ Female Master Students Program 
+ Job Offers 
+ 
+ 
+ Staff Only 
+ 
+ Staff Only 
+ __ 
+ 
+ 
+ About WIAS 
+ 
+ Mission 
+ Facts & Figures 
+ Information for Visitors  
+ 
+ Location 
+ How to get to? 
+ 
+ 
+ Organizational Structure 
+ Scientific Advisory Board 
+ Service Units  
+ 
+ Director's Office 
+ Administration 
+ IMU Secretariat 
+ Library 
+ Computing Department 
+ 
+ 
+ Leadership Principles 
+ Equal Opportunity  
+ 
+ Gender Equality 
+ Family and Work 
+ Female Master Students Program 
+ 
+ 
+ Apprenticeship Training 
+ WIAS History  
+ 
+ Forerunner Institutions 
+ WIAS (from 1992) 
+ 
+ 
+ Karl Weierstrass  
+ 
+ Curriculum Vitae 
+ Literature 
+ Commemorative Event Weierstrass 200 
+ Colleagues, Friends 
+ The Lost Portrait 
+ Gravesite 
+ Links 
+ 
+ 
+ 
+ 
+ Contact & People 
+ 
+ Location & Primary Contacts 
+ Staff 
+ Research Fellows 
+ Guests 
+ Nonresident Members 
+ 
+ 
+ Research 
+ 
+ Research Overview 
+ Main Areas of Application  
+ 
+ Conversion, Storage and Distribution of Energy 
+ Flow and Transport 
+ Materials Modeling 
+ Nano- and Optoelectronics 
+ Optimization and Control in Technology and Economy 
+ Quantitative Biomedicine 
+ 
+ 
+ Research Groups  
+ 
+ Partial Differential Equations 
+ Laser Dynamics 
+ Numerical Mathematics and Scientific Computing 
+ Nonlinear Optimization and Inverse Problems 
+ Interacting Random Systems 
+ Stochastic Algorithms and Nonparametric Statistics 
+ Thermodynamic Modeling and Analysis of Phase Transitions 
+ Nonsmooth Variational Problems and Operator Equations 
+ 
+ 
+ Flexible Research Platform  
+ 
+ Modeling, Analysis, and Scaling Limits for Bulk-Interface Processes 
+ Quantitative Analysis of Stochastic and Rough Systems 
+ Numerical Methods for Innovative Semiconductor Devices 
+ Probabilistic Methods for Dynamic Communication Networks 
+ Former Groups 
+ 
+ 
+ Research Topics 
+ Funded Projects 
+ Leibniz Network MMS  
+ 
+ Background 
+ MMS@Leibniz 
+ Events 
+ MMS Seed Money Grants 
+ Network Partners 
+ Cooperations 
+ 
+ 
+ Ethics 
+ 
+ 
+ 
+ Software & Transfer 
+ 
+ Knowledge Transfer 
+ WIAS-Software 
+ Cooperation and Consulting  
+ 
+ Overview 
+ Approach 
+ Case Studies 
+ Technology Offers 
+ 
+ 
+ Spin-offs  
+ 
+ m4sim 
+ rDesign 
+ 
+ 
+ 
+ 
+ Publications 
+ 
+ Refereed Publications 
+ WIAS-Publications 
+ External Preprints 
+ Theses 
+ 
+ 
+ Events & Jobs 
+ 
+ Events 
+ Institute's Colloquium 
+ Research Seminars 
+ Workshops 
+ Teaching 
+ Weekly Program 
+ Mathematical Calendar Berlin/Potsdam 
+ Female Master Students Program 
+ Job Offers 
+ 
+ 
+ 
+ WIAS is one of the leading European research institutes in applied mathematics and is internationally recognized for combining fundamental research in applied analysis and stochastics with complex real-world applications. Situated in the center of Berlin, it offers a highly dynamic research environment. Researchers at WIAS enjoy unique opportunities for mathematical and multidisciplinary collaborations within Berlin and worldwide. 
+ 
+ DE  | 
+ EN 
+ 
+ Diese Seite auf Deutsch 
+ The Weierstrass Institute for Applied Analysis and Stochastics (WIAS) is an institute of the Forschungsverbund Berlin e.V. (FVB). The FVB comprises eight non-university research institutes in Berlin which are funded by the federal and state governments. The research institutes are members of the Leibniz Association. 
+ WIAS invites applications for an 
+ Employee in computer engineering (f/m/d) 
+ (Ref. 20/25) 
+ starting at  the earliest possible date . 
+ Tasks: 
+ 
+ Maintenance and development of WIAS' scientific data and information  management system (including publication management and web server) 
+ Support of macOS computers and respective applications 
+ IT infrastructure acquisition and sourcing 
+ Assistance in user support 
+ 
+ Requirements: 
+ 
+ B.Sc. (or equivalent) degree in computer sciences or related fields (university or university of applied sciences degree) or professional/vocational training in computer sciences or related fields 
+ Very good programming skills (Java proficiency, additional languages desirable) 
+ Know-how in areas of data management systems and storage of scientific data desirable 
+ Knowledge of directory services desirable 
+ Very good command of German, good command of English 
+ User-oriented communication skills 
+ 
+ We offer: 
+ 
+ A range of tasks offering multiple creative opportunities in an international and science-driven area 
+ State-of-the-art servers and challenging tasks in a heterogenous environment 
+ A long-term employment including the option of a life-time position 
+ A family-friendly work environment (WIAS is certified employer having received the  berufundfamilie  ( workandfamily)  certification) 
+ Possibility of further education 
+ Salary according to the German TVoeD scale 
+ Central location in Berlin 
+ 
+ Please direct your queries to Henrik Pletat, Head of IT (henrik.pletat@wias-berlin.de). The initial appointment is limited to two years and is envisioned to be extended. The work schedule is 39 hours per week. 
+ There is equal opportunity for all sexes. When equally suitable in their qualification, severely disabled applicants will receive preferential consideration. We explicitly welcome job applications from people with migration background. 
+ Please upload complete application documents including curriculum vitae, photocopies of certificates including a cover letter via our our  online job-application facility  using the button " Apply online ". 
+ The search for a qualified candidate will start immediately and continue until the position is filled. 
+ We are looking forward to your application! 
+ 
+ Member of the Leibniz Association
+ 
+ Part of the Forschungsverbund Berlin e.V.
+ 
+ Seat of the Secretariat of the International Mathematical Union
+ 
+ Seat of the office of the Deutsche Mathematiker-Vereinigung
+ 
+ Certified by audit berufundfamilie
+ 
+ 
+ About WIAS 
+ 
+ Mission 
+ Facts & Figures 
+ Information for Visitors 
+ Organizational Structure 
+ Scientific Advisory Board 
+ Service Units 
+ Leadership Principles 
+ Equal Opportunity 
+ Apprenticeship Training 
+ WIAS History 
+ Karl Weierstrass 
+ 
+ Contact & People 
+ 
+ Location & Primary Contacts 
+ Staff 
+ Research Fellows 
+ Guests 
+ Nonresident Members 
+ 
+ Research 
+ 
+ Research Overview 
+ Main Areas of Application 
+ Research Groups 
+ Flexible Research Platform 
+ Research Topics 
+ Funded Projects 
+ Leibniz Network MMS 
+ Ethics 
+ 
+ Software & Transfer 
+ 
+ Knowledge Transfer 
+ WIAS-Software 
+ Cooperation and Consulting 
+ Spin-offs 
+ 
+ Publications 
+ 
+ Refereed Publications 
+ WIAS-Publications 
+ External Preprints 
+ Theses 
+ 
+ Events & Jobs 
+ 
+ Events 
+ Institute's Colloquium 
+ Research Seminars 
+ Workshops 
+ Teaching 
+ Weekly Program 
+ Mathematical Calendar Berlin/Potsdam 
+ Female Master Students Program 
+ Job Offers 
+ 
+ Service 
+ 
+ Direktorat 
+ Verwaltung 
+ IMU-Sekretariat 
+ Bibliothek 
+ Rechentechnik 
+ 
+ Weierstraß-Institut fur angewandte Analysis und Stochastik 
+ Mohrenstr. 39 * 10117 Berlin 
+ contact-PleaseRemoveThisText-@wias-berlin.de 
+Tel 030 20372-0 
+Fax 030 20372-303 
+ 
+ 
+ Jobs 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Privacy 
+ 
+ 
+ Impressum & Copyright 
+ 
+ 
+ Weierstraß-Institut fur angewandte Analysis und Stochastik 
+ Mohrenstr. 39 * 10117 Berlin 
+ contact-PleaseRemoveThisText-@wias-berlin.de 
+Tel 030 20372-0 
+Fax 030 20372-303 
+ 
+ 
+ Jobs 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Privacy 
+ 
+ 
+ Impressum 
+ 
+ 
+ Copyright 
+ 
+ 

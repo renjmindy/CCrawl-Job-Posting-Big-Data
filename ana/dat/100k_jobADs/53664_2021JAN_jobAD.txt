@@ -1,0 +1,242 @@
+Western Sydney Wonk 
+ Social policy, economics and politics from a social democratic perspective 
+ Menu Skip to content 
+ 
+ Home 
+ About 
+ 
+ Does the “job guarantee” have a modest cousin? 
+ 12 Replies 
+ I’ve long been a sceptic of a jobs guarantee (JG). A world in which a government department can effectively evaluate the needs and capabilities of every unemployed person and assign them to a suitable individualised job is beyond the scope of plausible reality, in my view. It’s just not my experience of the way bureaucracies work. 
+ Such a program would also bring macro-economic risks, potentially suppress wages in JG worker sectors, and do an injustice to the unemployed by making promises it can’t keep. Unemployed people suffer enough stigma. It would only get worse if the government effectively told the community the unemployed were all there entirely by choice, as would be the implication of claiming jobs were “guaranteed”. A full blown JG would also have a massive fiscal cost – likely tens of billions each year – which just cannot be hand waived away in budget obsessed Australia. 
+ Nevertheless the motivating spirit behind the JG has its attraction. Long-term unemployment is a waste and a tragedy. Human beings, willing to work, sit idle for years when they could be contributing to society through some form of productive labour. And although I think claims about the “dignity of work” can be overstated, it is true that long-term unemployment is profoundly damaging for happiness, health and human capital. Many of us would prefer almost any safe and dignified job to this. Some – not all – of us have a deep need for a reason to get out of bed, duties to perform, a need to feel needed. 
+ What if we could design something  like  a JG, but on a relatively modest scale, capturing its merits while dropping the risks and grandiosity of a universal JG? Let’s call this a “job of last resort” (JLR) program. 
+ Theory 
+ The starting point is that JLR would only target the segment of the unemployed who are relatively unlikely to gain employment in the private sector any time soon. It would not cover someone briefly between jobs. Rather, it would be limited to those who have been substantially underutilised for a very long period. This is to ensure the program does not interfere with transitional unemployment, which is present even in the healthy labour markets described as “full employment”. 
+ A problem with a full blown JG, available to all unemployed, is that it would divert a significant number of people into the program who otherwise would have quickly obtained a regular job. This may harm the individual, whose career progression would probably be better served in regular employment. By crowding out private sector employment, it may also cause inflation. However, to the extent JLR only targets the unemployed who are not on the margin of employment – call them inframarginal unemployed – these concerns should not be overwhelming. 
+ Eligibility 
+ The program would be available to anyone who has received an unemployment (or related) benefit for: 
+ 
+ at least two thirds of the past year  and 
+ at least two of the past three years. 
+ 
+ Also eligible would be a person who has: 
+ 
+ received an unemployment benefit for at least two thirds of the past year, 
+ received an unemployment benefit for at least one of the past three years,  and 
+ had total labour earnings of less than $80,000 over the past three years. 
+ 
+ The latter eligibility method attempts to capture long-term underutilised workers. An earnings threshold is chosen due to administrative difficulties in evaluating hours worked. Modified criteria would exist for people who had spent time as students or carers. 
+ Conditions 
+ JLR participants would be paid at the minimum wage. They could choose between programs of different levels of commitment, for example 35, 25 or 15 hours per week. 
+ Eligible participants would be offered a job in city or regional beautification, for example, gardening, litter collection and landscaping. Those who do not have the required fitness would be eligible for placement on low skill tasks in government agencies. The important point is that they are undertaking work that adds value but which would be unlikely to be performed otherwise, such as in basic staff catering – what used to be called “tea ladies”. They could be hired as door greeters at government agencies. 
+ JLR participants would be held to usual workplace standards and may be dismissed if they fail to complete assigned duties or abide by the code of conduct. In this case, the participant would return to regular unemployment benefits and be eligible to reapply for a JLR position after six months. 
+ Self-directed work plans 
+ After participants successfully complete the first six months of a JLR program, they would have the opportunity to submit a business case to request allocating up to 10% of their working hours to self-directed work. Work options would include arts, culture and sports. The business case would have to satisfy that the activity made a measurable contribution to the community. The threshold would be modest – for example, exhibiting work, publishing articles or even getting hits on a blog post. An approved participant in this arm of the program would be accountable for the delivery of the benchmarks set out in their participation agreement. 
+ Non-completion would result in the loss of the self-directed time and its reallocation to regular JLR activities. 
+ JLR participants who successfully deliver on their self-directed benchmarks over a six-month period may apply to increase the self-directed time to 20% of their working hours. 
+ Job search requirements 
+ The JLR is not intended to be a permanent job. It is a last resort. Participants would be expected to undertake some (reduced) job search activities. The discount on job search requirements, relative to unemployment benefits, would be substantial for 35-hour work week participations. The idea is just that they continue to apply for appropriate jobs, rather than spend their time churning out pointless low-chance applications. 
+ Cost 
+ There are currently around 100,000 people who have been unemployed for at least two years. Program eligibility is considerably broader than this, but only some of those eligible will elect to sign up. So as a rough guess – potentially an underestimate – let’s assume 100,000 people will participate in the JLR. 
+ Let’s assume all participants chose to work the maximum 35 hours per week, an obvious overestimate. 
+ The minimum wage in Australia is currently about $19.50 per hour. On-costs for public servants – including superannuation, office space, training, etc – are typically assumed in government costings to be around 20%-30%. But the figure is likely to be much higher for JLR participants for two reasons. The first is mechanical – the JLR’s wages are lower than those of regular public servants, so a given amount of spending (on accommodation for example) will be greater as a percentage of their income. The second is that management costs of JLR participants will be high due to the participants’ diverse and complex needs and capabilities, which will be affected by their spell of unemployment. Managers will have a challenging task to create effective and integrated teams out of workers who are given to them ad hoc, rather than selected to fill specific roles based on their personal capabilities. I’m going to assume on-costs of 50%. 
+ Based on these assumptions, the gross annual cost of the JLR will be: 
+ 100,000 * $19.50 * 150% * 35 * 52 ≈ $5.3 billion. 
+ The cost will be offset by Newstart savings. The rate of Newstart for a single with no children is $279.50 per week. Let’s assume, conservatively, the average JLR participant would have received half of this due to occasional work and various means testing arrangements: 
+ 100,000 * 279.50 * 50% * 52 ≈ $0.7 billion 
+ In addition, the tax office would claw back some money through personal income tax, but this would not be material for this level of analysis. People on minimum wage just don’t pay much tax, and their spell of unemployment would drag down their year’s tax bill to zero in many cases. 
+ Based on the assumptions above, the net cost of the JLR would be approximately $4.6 billion annually. The estimate is crude – a professional costing would require administrative data and sophisticated modelling – but it gives the order of magnitude. 
+ At around 0.2% of Australia’s GDP, the JLR is eminently affordable in theory. It wouldn’t crack the government’s top 20 most expensive programs. It costs roughly one tenth of the age pension, a quarter of family tax benefit and of disability pensions, a third of funding to private schools and half of unemployment benefits. It is trivial compared to tax concessions on superannuation. 
+ But the issue is political will. In Australia we live in a political culture that is fixated on the budget. The immediate question is whether, given political economic constraints, this is the best use of around $5 billion a year. There are probably other ways we could spend this money to get better bang for our buck in terms of human welfare. On the other hand, perhaps this is more politically feasible than other programs. Voters do love “jobs”. 
+ Should we do it? 
+ I remain concerned about the interlinking of social security with work. I would prefer a clear demarcation between safety net programs and labour requirements. Blurring this distinction is a slippery slope to exploitation. Sure this ship sailed with Work for the Dole, but should social democrats be promoting it as part of our grand vision? 
+ I have no absolute answer to this question. What I can say is that if we do go down this path, we should do so modestly, and with concrete policy proposals, rather dealing in grand rhetoric and sweeping claims that cannot realistically be implemented. 
+ The JLR is my offering, for discussion, to this end. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ This entry was posted in  Uncategorized  on  November 29, 2019  by  davidsligar . 
+ Post navigation 
+ <- Poll: Australians support a universal basic income   Local bureaucracy is still bureaucracy - only worse -> 
+ 12 thoughts on "Does the “job guarantee” have a modest cousin?" 
+ 
+ Nicholas   December 1, 2019 at 12:58 am 
+ 
+ This blog post makes the incorrect assumption that a Job Guarantee would involve a government department assessing each job-seeker and designing a job for them. A well-designed JG would be federally funded, but the administration of it would be highly decentralised. 
+ Pavlina Tcherneva is an economist who has done an immense amount of work on the design of a federally funded, community-administered Job Guarantee that acts as a macroeconomic stabiliser. Here she answers the most frequently asked questions about a Job Guarantee. 
+ https://www.pavlina-tcherneva.net/job-guarantee-faq 
+ Like Like 
+ Reply  ↓ 
+ 1. **[davidsligar](https://westernsydneywonk.wordpress.com)** Post author[December 1, 2019 at 3:00 am](https://westernsydneywonk.wordpress.com/2019/11/29/does-the-job-guarantee-have-a-modest-cousin/#comment-136)
+ 
+ It doesn't matter federal, state or local, the administration is going to involve bureaucrats. The inter-governmental element is an added bureaucratic challenge. 
+ Like Like 
+ Reply  ↓ 
+   1. **Nicholas** [December 1, 2019 at 3:35 am](https://westernsydneywonk.wordpress.com/2019/11/29/does-the-job-guarantee-have-a-modest-cousin/#comment-138)
+ 
+ There is a vast and detailed literature on an MMT-informed Job Guarantee. The people designing the jobs would be the job-seekers themselves in collaboration with employers, who would include NGOs, community-based organizations, cooperatives, local governments, and state governments. It is simply incorrect to say that it would be a top-down bureaucratic process. 
+ I think your comment implies a false assumption that private sector firms don’t have bureaucracy (have you ever worked in one??). 
+ If you want to critique a JG as developed by people by Pavlina Tcherneva, it is necessary to first find out what it is you are critiquing. The first paragraph of this blog post shows that the author is not familiar with the literature. What is the point of critiquing a strawman distortion of what a JG is and how it would operate? 
+ Like Like 
+ 
+ Alastair   December 1, 2019 at 2:10 am 
+ 
+ just so you know this article is being ridiculed in MMT facebook groups as another ill-informed hit piece using a string of strawmen and scarecrows from a macroeconomics challenged UBI fanboi. 
+ Like Like 
+ Reply  ↓ 
+ 1. **[davidsligar](https://westernsydneywonk.wordpress.com)** Post author[December 1, 2019 at 3:02 am](https://westernsydneywonk.wordpress.com/2019/11/29/does-the-job-guarantee-have-a-modest-cousin/#comment-137)
+ 
+ They hate it because some folks have devoted their lives to this stuff and they've been outdone by a 1000 word blog post. 
+ Like Like 
+ Reply  ↓ 
+ 
+ Alastair   December 1, 2019 at 2:20 am 
+ 
+ Of all the false assertions about FJG in this confused piece, this is probably one of the easiest to refute and most egregious: 
+ "I would prefer a clear demarcation between safety net programs and labour requirements" 
+ That would be why proposed that FJGs are participated in on a  voluntary basis  not "required" such as work-for-the-dole. 
+ This reads to me like an agronomist who's discovered this thing called regenerative farming but seeks to improve on it by introducing synthetic fertilizers and herbicides, just to save some money you know? 
+ You'd think if someone involved in treasury decision making was going to bother to write a few hundreds words on a subject he would at least go to the source (not the opponents of FVG) and get the basic facts correct before tearing it down with false logical constructs. 
+ Read Bill Mitchell:  http://bilbo.economicoutlook.net/blog/  Read Pavlina Tcherneva as linked to above. Read Stephanie Kelton and so many other super qualified academics. Or don't and get dismissed. 
+ Like Like 
+ Reply  ↓ 
+ 1. **[davidsligar](https://westernsydneywonk.wordpress.com)** Post author[December 1, 2019 at 2:58 am](https://westernsydneywonk.wordpress.com/2019/11/29/does-the-job-guarantee-have-a-modest-cousin/#comment-135)
+ 
+ Buddy, Bill Mitchell himself has said he would prefer a compulsory JG. 
+ Secondly JG itself is a safety net program, in that it provides an employment level income for people who cannot otherwise get one. The work requirments are conditions of this income. You might not prefer to think of it this way, but others would. 
+ Like Like 
+ Reply  ↓ 
+ 2. **[davidsligar](https://westernsydneywonk.wordpress.com)** Post author[December 1, 2019 at 5:46 am](https://westernsydneywonk.wordpress.com/2019/11/29/does-the-job-guarantee-have-a-modest-cousin/#comment-139)
+ 
+ It's also kind of ridiculous to argue by reference to "qualified academic" authority when the  overwhelmingly  view among academic economists is that MMT is crank bullshit. 
+ Like Like 
+ Reply  ↓ 
+ 
+ Nicholas   December 1, 2019 at 9:24 am 
+ 
+ 
+ A problem with a full blown JG, available to all unemployed, is that it would divert a significant number of people into the program who otherwise would have quickly obtained a regular job. 
+ 
+ This is completely contradictory. If it was so easy and quick for people to get a regular job that pays higher than the minimum wage they would have done so already. Why would they stay in a JG job when there are better jobs available outside the JG? This may go against your modus operandi, but if you read some of the detailed literature about an MMT-informed JG you learn that one of the characteristics of a JG is strong links and communication between the JG employers and mainstream employers. JG employers WANT their workers to be poached by private sector and regular public sector employers who will pay the workers more. They don’t want to displace mainstream employment. 
+ For a detailed discussion of how a JG could be administered in Australia read this 2006 Working Paper by Bill Mitchell and other researchers at the Centre of Full Employment and Equity (CoFEE). 
+ Click to access 06-15.pdf 
+ Like Like 
+ Reply  ↓ 
+ 
+ 
+ Pingback:  Local bureaucracy is still bureaucracy, only worse | Western Sydney Wonk 
+ 
+ 
+ Pingback:  Job guarantee errorism | Western Sydney Wonk 
+ 
+ 
+ Pingback:  Big picture thinking needed to tackle poverty | Western Sydney Wonk 
+ 
+ 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Recent Comments 
+ 
+ 
+ 
+ Gregory Olsen on  Bill Mitchell: job guarantee w… 
+ 
+ 
+ 
+ 
+ 
+ therealnineofclubs on  Bill Mitchell: job guarantee w… 
+ 
+ 
+ 
+ 
+ Links 10/9/2020…  on  Bill Mitchell: job guarantee w… 
+ 
+ 
+ jcmcdonal on  Bill Mitchell: job guarantee w… 
+ 
+ 
+ 
+ 
+ [Reading Lounge 
+ Evo…](https://deland.wordpress.com/2020/10/13/reading-lounge-109/) on  Bill Mitchell: job guarantee w… 
+ 
+ 
+ 
+ Recent Posts 
+ 
+ Big child benefits are indispensable for tackling inequality 
+ Can Australia's privatised social security be more socially democratic? 
+ What to shoot for on welfare and unemployment? 
+ Bill Mitchell: job guarantee will suppress working class power 
+ Even more opportunities for dignity in work 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ October 2020 
+ September 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ August 2018 
+ July 2018 
+ August 2017 
+ August 2016 
+ June 2016 
+ May 2016 
+ March 2016 
+ February 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Follow me on Twitter 
+ 
+ View @DavidSligar's profile on Twitter 
+ 
+ Please follow my blog via email - a progressive perspective on economic policy 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 1,003 other followers 
+ Email Address: 
+ Follow 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

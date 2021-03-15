@@ -1,0 +1,258 @@
+
+ 
+ Technology 
+ 
+ Coating technology 
+ Plant and fixture technology 
+ Research & Development 
+ Equipment 
+__ 
+ 
+ 
+ 
+ Job coating 
+ 
+ Technical coatings 
+ Decorative coatings 
+ Biocompatible coatings 
+ Special solutions 
+__ 
+ 
+ 
+ 
+ One-Stop-Solution 
+ 
+ 
+ Quality 
+ 
+ Measurement and validation methods 
+ Certifications 
+ Sustainability 
+__ 
+ 
+ 
+ 
+ Industries 
+ 
+ Medical 
+ Automotive 
+ Optics 
+ Electronics 
+ Sensors 
+__ 
+ 
+ 
+ 
+ References 
+ 
+ 
+ About us 
+ 
+ History 
+ Corporate philosophy 
+ Team 
+ Locations 
+ Cooperations 
+__ 
+ 
+ 
+ 
+ Contact 
+ 
+ 
+ News 
+ 
+ 
+ Career 
+ 
+ 
+ Downloads 
+ 
+ 
+   
+ 
+ 
+ DE 
+ 
+ 
+ EN 
+ 
+ 
+ DE 
+ 
+ 
+ EN 
+ 
+ 
+ Contact 
+ 
+ 
+ News 
+ 
+ 
+ Career 
+ 
+ 
+ Downloads 
+ 
+ 
+ Technology 
+ 
+ Coating technology 
+ Plant and fixture technology 
+ Research & Development 
+ Equipment 
+__ 
+ 
+ 
+ 
+ Job coating 
+ 
+ Technical coatings 
+ Decorative coatings 
+ Biocompatible coatings 
+ Special solutions 
+__ 
+ 
+ 
+ 
+ One-Stop-Solution 
+ 
+ 
+ Quality 
+ 
+ Measurement and validation methods 
+ Certifications 
+ Sustainability 
+__ 
+ 
+ 
+ 
+ Industries 
+ 
+ Medical 
+ Automotive 
+ Optics 
+ Electronics 
+ Sensors 
+__ 
+ 
+ 
+ 
+ References 
+ 
+ 
+ About us 
+ 
+ History 
+ Corporate philosophy 
+ Team 
+ Locations 
+ Cooperations 
+__ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ Job coating 
+ 
+ 
+ 
+ Job coating – perfection from A to Z 
+ From optical, decorative and technical PVD coatings to sophisticated paint processes: Wohlrab caters to many industries. Our technologies are to be found e.g. as reflective technical layers, in EMC and ESD protection and in medical applications. A particular strength is in surface treatments for hearing aids, where we supply many renowned manufacturers. 
+ Technical coatings 
+ Wohlrab‘s most commonly supplied technical coatings are PVD* or PECVD* based and can be found e.g. in EMC and ESD protection, reflective layers or anti-glare coatings. Miscellaneous special coatings are also available for optics, sensors and medical technology. 
+ *PVD = physical vapour deposition 
+*PECVD = plasma-enhanced chemical vapour deposition 
+ EMC coatings (electromagnetic compatibility) 
+ EMC protection is commonly provided to electronic components or subassemblies by adding a metal coating layer (1…5µm) to its housings. Depending on the application, we offer two different processes: thermal evaporation or sputtering. 
+ Evaporation 
+ Thermal evaporation is a thin-film deposition method, where a pure metal material is evaporated into vapour particles. These in turn condense back into a solid state when reaching the target substrate surface. Typical source materials are e.g. aluminium, copper or gold but depending on the application in question material combinations like Cu/NiCr, Cu/Sn can also be applied. 
+ Sputtering 
+ Sputtering is a process where particles are ejected from a solid target material due to collisions with high-energy argon ions (in a plasma) and condense onto a target substrate, forming a thin layer. Copper and stainless steel alloys are typical target materials. 
+ Optical coatings 
+ Anti-glare layers 
+ Anti-glare layers on display panes improve readability enormously. In the meantime, they are also standard on optical sensors or other optical components (e.g. collimators). 
+ Reflective layers 
+ Wohlrab‘s reflective coatings are tailor made to their specific application with various base materials (e.g. Al, Ag, Au) and can be enhanced with additional protective layers (e.g. dielectric layers as a corrosion inhibitor). Moreover, the reflectivity across specific wavelength ranges can be increased (protected aluminium, protected silver and enhanced aluminium). Typical application for high reflectivity coatings: 
+ 
+ High-tech deflector mirrors for sensors, lasers and optics 
+ Automotive head lights and interior lighting 
+ High-tech reflectors for general lighting applications 
+ 
+ Semi transparent layers 
+ Semi transparent layers are used in automotive interior applications where a chrome-like appearance is desired under daylight but illumination at night is required. This can be achieved with a nanometer thin reflective layer (e.g. Aluminium based), and sealed with an appropriate protective layer. 
+ Easy-to-Clean (nano coating) 
+ Transparent Easy-To-Clean coatings provide anti-adhesion properties to surfaces. Their water and grease repellent characteristics prevent dirt and micro organisms from sticking and therefore make cleaning less arduous. 
+ 
+ Contact angle > 100° 
+ For bulk coatings in a drum or in an individual process 
+ Suitable for high gloss surfaces 
+ 
+ Other technical coatings 
+ ESD protection (ITO coating) 
+ Protection against electrostatic discharge is vital in all fields of the electronics industry. Wohlrab provides transparent, conductive layers (e.g. ITO / Indium-Tin-Oxide) and thin metal layers ranging from 150…1500 Å. 
+ Scratch resistant coatings (sol-gel coatings) 
+ In automotive applications, display panes or head light clusters have to be scratch resistant. Wohlrab provides transparent sol-gel painting systems - with or without UV protection - on temperature resistant plastics. 
+ Corrosion protection (Parylene coating) 
+ Parylene based layers are only a few µm thin and act as a highly efficient diffusion barrier, providing corrosion protection. Its biocompatibility is also favourable for medical applications. 
+ Film coating 
+ Wohlrab supplies all-over coatings on films (> 5 µm) using various materials for sensor applications (e.g. gas detectors) and structured coatings of PVDF films (> 5 µm) for electronic applications (bonding), e.g. in infrared or ultrasonic sensors. 
+ Decorative coatings 
+ We offer decorative coatings in a multitude of variations. From pure paint jobs to sophisticated paint and PVD combinations - Wohlrab has it all. 
+ Applications 
+ 
+ Automotive 
+ Medical 
+ Lighting 
+ Telecommunication 
+ Consumer electronics 
+ Toys and household goods 
+ Decorations 
+ Sensors and optics 
+ Advertising 
+ Furniture 
+ 
+ Combined PVD and paint process 
+ Combined decorative coatings comprise thin metallic reflective PVD layers embedded in paint. The applied paint system has to be specifically selected for a given application. This is of particular importance for the final surface quality (colour, hardness, shininess and chemical resistance). 
+ Paint systems 
+ Wohlrab offers a variety of water and solvent based paints, including special metallic pigmented paints. These are used to give a metal like finish to high quality parts, and provide an alternative to traditional matt zinc coatings. 
+ Automated robotic painting 
+ Wohlrab‘s state-of-the-art robotic painting stations ensure a precise and reproducible high quality surface finish. To eliminate the impact of dust and contamination on the end result we operate with connected interlocked dust-free chambers. We also offer manual paint processes. 
+ Biocompatible coatings: innovative through and through 
+ For more than ten years we have been developing innovative solutions for our customers in the medical industry, e.g. for hearing aids and other medical devices like OR lamps. Our long standing expertise in the development and production of these highly sophisticated coatings and a holistic understanding of the entire process chain allow us to meet even the strictest medical standards. 
+ Our portfolio of biocompatible surface treatments covers technical coatings (masked EMC gold evaporation), decorative two-colour automated robotic painting, 6-colour pad printing, laser engraving and Easy-to-Clean nano coatings. 
+ Take advantage of our extensive experience in this field! 
+ Highest sophistication 
+ Biocompatible coatings have to fulfil complex and partly contradictory requirements. Thereby negative reactions on living organisms are not permissible, even in long term direct contact (e.g. hearing aid to skin). At the same time, a high resistance to sweat and cosmetics and - on top of that - also high abrasion resistance are mandatory. 
+ Paints and shades 
+ Thanks to our close cooperation with our paint suppliers there is almost no limit to the colours we can offer for biocompatible coatings - just contact us. Both top and protective coats meet the highest demands of the hearing aid industry. Our base coats are available in white as well as a wide range of colours. We offer top coats from matt to high gloss and soft touch. 
+ Special solutions - for when it matters most 
+ Whether it is micrometre thin coatings on plastic parts and films, delicate gold plating or high-resistance coatings for the automotive industry - the comprehensive expertise of our engineers pooled with state-of-the-art equipment allows us to tailor our technical solution to your particular challenge, regardless of its complexity. This makes Wohlrab your number one go-to-partner. 
+ Project example: EMC shield on a hearing aid housing cover 
+ 
+ 
+ Masked, selective gold evaporation layer for the very highest requirements on EMC shielding and chemical resistance 
+ 
+ 
+ In-house design, development and masking 
+ 
+ 
+ Specially designed PVD process and equipment for minimum heat impact on the substrate 
+ 
+ 
+ Benefits: rapid development, short delivery times 
+ 
+ 
+ Contact us 
+ 
+ 
+ Privacy 
+ 
+ 
+ Disclaimer 
+ 
+ 
+ (C) 2018-2020 Wohlrab Aufdampftechnik GmbH. 

@@ -1,0 +1,364 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Laravel 
+ 
+ Laravel Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Laravel Developer ? 
+ ](https://www.workana.com/hire/laravel) 
+ 2 weeks ago 
+ Desarrollador Argentino / Argentinian Developer full time 
+ Published: 2 weeks ago  Bids: 3 
+ Buscamos desarrolador argentino con experiencia en al menos una de las siguientes tecnologias 
+API -  Node.JS ,  Express.JS. 
+Database - MongoDB and PostgreSQL. 
+Browser App - AngularJS. 
+ IPhone Mobile App - Swift. 
+Mobile native 
+Mobile stack 
+para trabajar en varios proyectos. Dedicacion full time 
+ We are looking for an argentinian developer with experience in at least one of the next technologies: 
+API -  Node.JS ,  Express.JS. 
+ Database - MongoDB and PostgreSQL. 
+Browser App - AngularJS. 
+IPhone Mobile App - Swift. 
+ Mobile native 
+Mobile stack 
+to work on several proyects. Full time dedication. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  A. D. Last reply: 1 week ago  Argentina 
+ USD 1,000 - 3,000 
+ 3 weeks ago 
+ Full Lamp Stack Developer needed to take over an existing project 
+ Published: 3 weeks ago  Project duration: 3 - 4 months Bids: 22 
+ We are looking for an experienced PHP developer with extensive knowledge of Laravel, multi-tenant applications as well as managing the server architecture on aws  using alb, multiple servers and rds. 
+The candidate must have strong experience with implementing and managing micro-workers, properly schedule crons and avoid throttling issues by implementing a SQS queue system. 
+ The developer will join an existing project and must be able to quickly understand its scope. 
+ The developer must also have experience working with third-party APIs and the front-end framework  Vue.js. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Full time 
+ API Integrations  : Social media (Facebook, Twitter, etc.), Payment Processor (Paypal, Stripe, etc.), Cloud Storage (Dropbox, Google Drive, etc.), Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  L. S. Last reply: 2 weeks ago  Canada Payment method:  __Verified 
+ USD 20 - 30 / hour 
+ Last month 
+ Build subscription website 
+ Published: Last month  Bids: 6 
+ Hello, 
+ I am looking for a web developer who can make/clone a website to create the same functionality as  onlyfans.com.  This is a website where people pay a subscription to see their favourite influencers content and the influencers are then paid by us. The influencers will be able to see instantly if someone has subscribed to them. 
+ Experience in LARAVEL, bootstrap etc or similar is desired. It needs to have the capabilities so fans can sign up, pay premium for special content from their favourite influencer etc. The influencers will be able to add their twitter accounts to their profile and boomerang profile photo and be able to upload content such as photos, video's and music files to their profile. 
+ Essential: 
+- Must have front-end and back-end developer skills to add all functionality to the website i.e API payment integration, video, photo files - I am not looking for a design only. 
+ - Must have experience in framework, clean coding, PHP, etc 
+ - I am looking for someone who has time for the job and doesn't see it as a challenge. 
+ - Experienced in logo design (desired but not essential) 
+ *I have bought domain and hosting already. 
+ I am looking for someone who can make the site user friendly in the backend so removing or adding profiles, editing is easy. 
+ Also being able to see information on each profile such as how much each influencer has earned etc is easy to see and user friendly. 
+ The website has to be social with emoji's easily attachable to profiles and other twitter handles. (When you check out the example websites you will see all the capabilities/functions that need to be added.) 
+ I will edit general footer information myself such as terms and conditions, privacy page. 
+ 1. How long it will take you to make the website? 
+ 2. Are you ready to instantly start the project? 
+ 3. Do you have examples of a website you have made similar or with similar functionalities please add the link in your response? 
+ 
+ 
+ 
+ What you will be using to make the website? 
+ 5. How much will this cost? 
+ I look forward to hearing from you 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.), Payment Processor (Paypal, Stripe, etc.), Other (Other APIs) 
+ Roles needed  : Designer, Developer 
+ Published by:  S. Last reply: 1 week ago  United Kingdom 
+ USD 250 - 500 
+ 2 months ago 
+ Mikart store 
+ Published: 2 months ago  Bids: 3 
+ I want to convert and customize a script in LARAVEL online store with admin included, in a mobile app. 
+Create small new features and changes according to our preferences. 
+The script to optimize, change and convert is in LARAVEL, app is android and ios framework react native. 
+ more information send msg, thanks 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Designer, Developer 
+ Required platforms  : Android, iPhone 
+ I need to  : Modify an existing app 
+ App type  : e-Shop 
+ Payment gateway  : Yes 
+ Published by:  M. Last reply: 3 weeks ago  Portugal 
+ USD 500 - 1,000 
+ 2 months ago 
+ Integrar Meu Site Ao Sistema De Serviço De Terceiros 
+ Published: 2 months ago  Bids: 1 
+ Integrar meu website ao TVBET, tenho especificações de integração. Please see the main integration steps: 1) add our ip to your whitelist 31.186.86.108 2) Integrate TVBET frame to stage environment (clientid=2843) please use api-doc:  https://tvbet.tv/en-technical-documentation/  3) provide us with closed link and test-user login/pass where we can check frame and make test bets on your test site (test-user - *ts=true) 4) when everything ok - integrate frame to production environment (we will create new environments (clientid/api-key) for prod sites) 5) write url(s) where you plan to integrate TVBET 6) closed-link for us & tests on prod site again 7) when everything ok - open games to all players 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Published by:  F. Last reply: Last month  Brazil 
+ USD 50 - 100 
+ 2 months ago 
+ Integração via Api com Tvbet 
+ Published: 2 months ago  Deadline: 2 Bids: 5 
+ Fazer uma integração do meu site com o TVBET. 
+ Please see the main integration steps: 
+ 
+ add our ip to your whitelist 31.186.86.108 
+ Integrate TVBET frame to stage environment (clientid=2843) 
+please use api-doc:   https://tvbet.tv/en-technical-documentation/ 
+ provide us with closed link and test-user login/pass where we can check frame and make test bets on your test site (test-user - *ts=true) 
+ when everything ok - integrate frame to production environment (we will create new environments (clientid/api-key) for prod sites) 
+ write url(s) where you plan to integrate TVBET 
+ closed-link for us & tests on prod site again 
+ when everything ok - open games to all players 
+ 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  F. Last reply: 2 months ago  Brazil 
+ USD 100 - 250 
+ 2 months ago 
+ Ordering Pos system programming 
+ Published: 2 months ago  Deadline: 4 Bids: 4 
+ Looking for a laravel programmer to: [1] Fix bugs [2] Programmer with POS system experience / skills will be an added advantage 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  M. O. Last reply: 2 months ago  Malaysia 
+ Less than USD 50 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

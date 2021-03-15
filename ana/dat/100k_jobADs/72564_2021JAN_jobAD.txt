@@ -1,0 +1,104 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ OpenInvest (S15) 
+ Technology-enabled asset manager providing ESG-focused investments. 
+ Senior Product Designer 
+ $125k - $140k • 0.10% - 0.12% 
+ Location 
+ San Francisco, CA, USA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About OpenInvest 
+ OpenInvest is a YCombinator and Andreessen Horowitz-backed startup delivering the infrastructural layer for the post-fund, customized, transparent future of investing. All investors can now divest-invest, vote shareholder resolutions with a swipe, participate in social campaigns, measure their impact, and exert their influence as the true owners of the economy. 
+ About the role 
+ OpenInvest is a fast growing early stage fintech company backed by major VCs. Our mission is to overhaul financial systems and align capital with social and environmental values. As one of the first companies to combine algorithmic investing with sustainable and responsible investment, we stand apart for the transparency, usability and customizability of the portfolios created on our platform. 
+ Through our values and technology, we plan to create the next great disruption in finance. We are a Public Benefit Corporation and are supported in our mission by some of the biggest names in Silicon Valley. 
+ Location:  OpenInvest is currently operating fully remotely for public health reasons but based in downtown San Francisco. 
+ Ideal Candidate 
+ 
+ Great communicator - verbal and visual 
+ Strong portfolio - case studies of UX/UI work - possibly within fintech space 
+ Team player with a can do attitude to work on projects of all shapes and sizes 
+ 
+ Responsibilities 
+ 
+ Design function lead 
+ Help set the rules of the road with the broader product team around design 
+ Help manage work with contract designers on occasion 
+ 
+ UX 
+ 
+ Translate product requirements and customer/user research into clearly defined design deliverables - sketches, tasks flows, wireframes, mockups and prototypes that lead to a delightful user experience 
+ Help facilitate design thinking and user journey discovery workshops with product management and other stakeholders 
+ Create and iterate rapidly on clickable prototypes 
+ Create and maintain OpenInvest’s first ever glossary of product terms 
+ Coordinate and drive adoption of new Information architecture changes through the rest of the company  Visual/UI 
+ Design beautiful UI 
+ Maintain and improve on our design system and work with developers to translate into code.  User Research 
+ Help maintain a user research participant recruiting funnel 
+ Help conduct user research interviews and usability testing sessions 
+ Collaborate with Product Management on interview scripts 
+ 
+ Nice to Haves 
+ 
+ +5 years of Product Design experience 
+ Strong portfolio of case studies that showcase your end to end design process 
+ Experience being the leader of a design team 
+ Tools of the trade: Figma, Digital Whiteboarding Software, Jira 
+ Self-motivated and ability to execute a project with limited supervision 
+ Ability to understand high level product strategy and vision and clearly communicate design decisions 
+ Experience working cross functionally with stakeholders from multiple teams 
+ 
+ Company Culture 
+ OpenInvest’s core values include: 
+ 
+ Pursuing a challenging mission 
+ Thriving on transparency 
+ Maintaining high standards of integrity 
+ Guaranteeing the right to be heard 
+ Prioritizing personal growth 
+ Prioritizing diversity and inclusion 
+ 
+ We aim to build a culture just as open and accountable as our products. We encourage you to give and receive earnest and constructive feedback. As part of our team, you are willing to work hard, handle various responsibilities as necessary, and be passionate about long-term company-wide goals. 
+ OpenInvest is an Equal Opportunity Employer. We value a diversity of perspectives and backgrounds in our team and culture. We are committed to include these elements in every aspect of our company. 
+ Benefits 
+ 
+ Full medical and dental + dependents 
+ Life and disability insurance 
+ Flexible vacation policy 
+ 12 weeks paid parental leave 
+ Lunch stipend 
+ 
+ Technology 
+ AWS (Aurora, Redshift, EC2, RDS, Lambda, EB, Glue), Node.js, React, React Native, Python, GraphQL, MySQL, Tableau, Segment, Pagerduty, Papertrail 
+ Other jobs at OpenInvest 
+ Lead DevOps Engineer 
+ fulltime 
+ San Francisco, CA, USA / Remote 
+ Devops 
+ $140k - $160k 
+ 0.12% - 0.15% 
+ 3+ years 
+ Senior Product Designer 
+ fulltime 
+ San Francisco, CA, USA / Remote 
+ UI / UX 
+ $125k - $140k 
+ 0.10% - 0.12% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

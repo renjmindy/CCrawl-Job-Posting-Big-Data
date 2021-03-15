@@ -1,0 +1,180 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Blockchain Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ BlockchainWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Blockchain Infrastructure Engineer 
+ [ 
+ Metastate 
+ ](/companies/metastate) 
+ 
+ Remote 
+ 16 November, 2020 
+ Apply 
+ More jobs from Metastate About Metastate 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Ansible 
+ Docker 
+ DevOps 
+ Google Cloud 
+ SECURITY 
+ Amazon AWS 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 
+ Evaluate, deploy, monitor, and maintain the latest generation of proof-of-stake blockchain networks 
+ Role overview 
+ Overview 
+ We are looking for a network engineer interested in distributed ledger technology to build, improve, and scale our physical and cloud-based proof-of-stake validation infrastructure. As a blockchain infrastructure engineer, you will work with us in evaluating, deploying, monitoring, maintaining, and upgrading consensus & validation nodes on the most novel and experimental blockchain networks. 
+ This role offers the chance to work closely with a team on compelling cross-disciplinary problems in computer science, cryptography, and economics, and enjoy a high degree of independence in working conditions and prioritization. 
+ Responsibilities 
+ 
+ Keep track, evaluate, and provide insights into and analysis of novel proof-of-stake distributed ledger protocols 
+ Build, improve, maintain, and upgrade our validator software and hardware infrastructure 
+ Deploy blockchain consensus nodes in testnets and mainnets, monitor proactively for performance bottlenecks and unusual behavior, optimize performance in production 
+ Monitor network traffic and configure physical & virtual minimal-permission access control for fault isolation 
+ Automate and scale infrastructure configuration as networks grow 
+ 
+ Qualifications 
+ 
+ Experience with administrating Linux systems and with configuration management (Ansible, Terraform, Docker) 
+ Experience with cloud platform services and tooling (GCP, AWS) 
+ Experience with metrics collection and monitoring 
+ Working understanding of TCP/IP network stack 
+ Online availability for unforeseen remotely-fixable issues 
+ Travel availability when necessary for in-person fixes 
+ Self-motivated & self-organized 
+ 
+ Bonus Qualifications 
+ 
+ Prior experience and interest in blockchain technology 
+ Experience in building and scaling distributed, highly available systems 
+ Experience in deploying and scaling high-performance database software 
+ Interest in and experience with Hardware Security Modules (HSMs) 
+ 
+ Misc. 
+ Competitive compensation in a negotiable mix of salary and equity. Remote or local (Zürich/Zug, Berlin). When remote, located in Central Europe. 
+ Ideally someone who enjoys nature and hiking 🏔️. 
+ 
+ [ 
+ Metastate 
+ ](/companies/metastate) 
+ 
+ 10-49 
+ 
+ Metastate is a research and engineering team focused on implementing cutting-edge research from numerous disciplines (distributed systems, PLT, zero-knowledge cryptography) and deploying them to solve hard problems in the blockchain space, such as scalability, secure smart contract languages, secure randomness or privacy. Metastate is a remote-first team, currently composed of 15 cross-disciplinary researchers and engineers located around the world. Our work culture is characterized by open-allocation, where team members have a high degree of freedom and autonomy in choosing when to work, what to work on, and whom to work with. Metastate was founded in early 2019 by @adrian_brink, @awasunyin and @cwgoes, with extensive experience in the blockchain space and who previously co-founded Cryptium Labs, a security-oriented proof-of-stake validator from the Swiss Alps. 
+ Haskell OCaml Rust Remote Working Flexible Working Blockchain Early Stage Venture Idris 
+ View 7 jobs 
+ Engineers who find a new job through Blockchain Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Metastate About Metastate 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Ansible 
+ Docker 
+ DevOps 
+ Google Cloud 
+ SECURITY 
+ Amazon AWS 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Blockchain Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Blockchain Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Platform/DevOps Engineer€60K - 75KRisk IdentGermany 
+ Become a real online detective and fight the bad guys using the latest tools and technologies! 
+ RemoteSponsorship 
+ ansible docker devops jvm kubernetes linux 
+ More Info Apply 
+ Full Stack Functional Engineer$80K - 130KCAISUnited States of America 
+ We are a team of productive individuals using FP to change the shape of the business. 
+ Remote 
+ ansible docker elixir elm java 
+ More Info Apply 
+ System's EngineerCompetitiveAndalusUnited Arab Emirates 
+ Design, build, and maintain the core data computation infrastructure used by data scientists 
+ Remote 
+ aws ansible docker kubernetes spark 
+ More Info Apply 
+ Blockchain Infrastructure Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Blockchain jobs Solidity jobs Blockchain product jobs Quant jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Blockchain articles Solidity articles Ethereum articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

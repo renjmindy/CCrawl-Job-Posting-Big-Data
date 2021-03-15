@@ -1,0 +1,82 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Senior Full-Stack Craft CMS Developer / Engineer LOCALCONTRACT 
+ Job Description 
+ OVERVIEW 
+ The Freelance Full Stack Engineer / Web Developer will lead the back-end creation and development of several initiatives for A/D/O that will launch at the end of / beginning of next year. Applicants should have extensive experience building robust websites with experience extensively modifying content management systems at the root level. Applicant will work closely with the content & communications team at A/D/O and MINI as well as an in-house team of creatives and an in-house front-end developer. 
+ CONTRACT TERMS 
+ This position is an hourly/contract role. 
+ Work will begin in October through Feb 2020.Approximately 28 hours per week with a competitive monthly / hourly rate. 
+ Position has the opportunity to grow into a full-time role. 
+ Dedicated desk in our professional co-working space. 
+ Required at least 2 days per week in our office in Brooklyn. 
+ RESPONSIBILITIES 
+ 
+ Optimizing and documenting  a-d-o.com ’s codebase for future development teams 
+ Speeding up load times across the site 
+ Developing infrastructure for the building out of new UX architecture and 
+ Upgrading and streamlining Craft CMS to eliminate time drains for the content team 
+ Building and implementing an image/content optimization plugin or process 
+ Assessing different CDN platforms for speedy global content delivery 
+ Upgrading and updating the asset library for greater utility 
+ Building out a custom calendar implementation to replace current third-party plugin 
+ Making recommendations to content and communications team on latest opportunities for site modernization and updates 
+ Mentoring and supporting front-end developer work 
+ Supporting with new content module build-outs, custom editorial page elements, animations, transitions, and other front-end elements 
+ Improving site responsive loads and designs 
+ Improving general site SEO capability and performance 
+ Upgrading site to Craft 3.0 
+ 
+ REQUIREMENTS 
+ 
+ Minimum 7 years working as an agency / tech full-stack engineer or developer 
+ Extensive experience working with a modular CMS 
+ Experience with PHP/Twig 
+ HTML/JS/CSS/SCSS 
+ HTML/CSS/Canvas animations and transitions a plus 
+ Integration with third-party APIs 
+ Experience with git management (we use BitBucket) 
+ Comfort with presenting to and explaining decision-making to non-technical stakeholders 
+ Love and appreciation of design and design principles a major plus 
+ 
+ How to Apply 
+ Contact us at  [email protected]  with a resume and portfolio of past projects. 
+ Contact Info 
+ 
+ __ 
+ 
+ Location:  Brooklyn, NY 
+ 
+ __ 
+ 
+ Email Address: 
+ __  Posted September 13, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

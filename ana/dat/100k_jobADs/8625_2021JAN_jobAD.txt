@@ -1,0 +1,139 @@
+  
+ 
+ Home 
+ About Us 
+ Services 
+ Job Positions 
+ Job Sectors 
+ Blog 
+ Contact Us 
+ Apply for a position 
+ 
+ Senior Back-End Java Developer 
+ Full Time 
+ 
+ __Post Date: December 15, 2020 
+ __Apply Before: February 28, 2021 
+ 
+ Job Description 
+ Work Channel Recruitment is working closely with a digital services company and they are looking to recruit a Senior Back-End Java Developer to join their team. 
+ Job Responsibilities 
+ 
+ Compile and analyze data, processes, and codes to troubleshoot problems and identify areas for improvement. 
+ Build reusable code and libraries for future use 
+ Manage the whole lifecycle of the applications, development, deployment, maintenance and monitoring: “You build it, you run it” principle 
+ Optimize application for maximum speed and scalability 
+ Collaborating with the front-end developers and other team members to establish objectives and design more functional, cohesive codes to enhance the user experience. 
+ Developing ideas for new programs, products, or features by monitoring industry developments and trends. 
+ Recording data and reporting it to proper parties, such as clients or leadership. 
+ Participating in continuing education and training to remain current on best practices, learn new programming languages, and better assist other team members. 
+ Produce high-quality documentation that meets applicable standards and is appropriate for its intended audience 
+ Create tutorials to help end-users use a variety of applications 
+ Collaborate with other team members and stakeholders 
+ Taking lead on projects, as needed. 
+ 
+ Job Requirements 
+ 
+ BSc in Computer Science, Engineering or relevant field 
+ Proven working experience as a Back-End Developer or similar role 
+ Proven expertise in managing high-volume data in near real time fashion, in a highly concurrent environment (highly parallel distributed/multithreading processing) 
+ Proven working experience in technical writing of software documentation 
+ Knowledge of object-oriented concepts and design patterns 
+ Experience with test-driven development 
+ Good knowledge of relational (SQL) / non-relational databases (NoSQL) including ORM models (Eloquent, Hibernate, etc.) and understanding of database/data modelling concept (Experience with PostgreSQL or similar relational databases will be considered an advantage) 
+ Strong knowledge of database technologies to scale for high volume web sites 
+ Strong knowledge with dealing large system including logging and reporting 
+ Profound insight of Java and JEE internals (Classloading, Memory Management, Transaction management etc.), including relevant mainstream Java frameworks – Spring and Spring Cloud) 
+ Familiarity with continuous integration and build tools such as GitLab, Jenkins, Ant, Maven, and Gradle 
+ Knowledge and experience with RESTful services 
+ Knowledge of Apache Kafka and/or RabbitMQ 
+ Knowledge of Redis 
+ Knowledge of containers management frameworks i.e. Docker, Kubernetes 
+ Knowledge of cloud technologies e.g. Google Cloud/ Amazon AWS 
+ Ability to quickly grasp complex technical concepts and simplify them 
+ Problem solving skills 
+ Good time-management skills 
+ Team spirit; strong communication skills to collaborate with various stakeholders 
+ Fluency in English (written and spoken) 
+ 
+ What our client offers 
+ 
+ Full-time permanent employment contract 
+ Competitive net salary and conditions corresponding to the demands of the position 
+ 13th salary 
+ 22 annual leave days 
+ Private medical insurance (after probation period - 3 months) 
+ Flexible working hours – 7 hours per day with 1-hour break 
+ Work from home policy 
+ Encouragement of innovation and support in personal and professional growth 
+ Opportunity to deal with International customers 
+ Team building activities 
+ 
+ How to Apply 
+ If interested and you match all the requirements, please send your CV to andriana.p@work-channel.com, including the title of the position in the subject line 
+ Please note  that due to the high volume of applications received, only successful candidates will be contacted 
+ __Shortlist    __Apply Now  __Apply with Linkedin 
+ Share 
+ 
+ __ 
+ __ 
+ __ 
+ 
+   
+ ** 
+   ** 
+ 
+ __ 
+ 
+ Email:   info@applabprojects.com 
+ View all Jobs  Contact US 
+ × 
+ __ 
+ __ 
+ __ 
+ You accepts our  Terms and Conditions 
+ Related Jobs 
+ 
+ Back-End Developer in Nicosia 
+ 
+ Posted on 5 days ago, by  Charalambous Valentina 
+ 
+ QA & Customer Service Officer in Nicosia 
+ 
+ Posted on 6 days ago, by  Charalambous Valentina 
+ 
+ Senior Web Application / Back-End Developer in Nicosia 
+ 
+ Posted on 6 days ago, by  Charalambous Valentina 
+ 
+ Web Designer in Limassol 
+ 
+ Posted on 3 weeks ago, by  Charalambous Valentina 
+ 
+ Senior IT Systems/Network Cloud Engineer 
+ 
+ Posted on 1 month ago, by  Charalambous Valentina 
+ 
+ Senior Front-End Developer 
+ 
+ Posted on 1 month ago, by  Charalambous Valentina 
+ 
+ Senior Front-End Developer in Limassol 
+ 
+ Posted on 2 months ago, by  Charalambous Valentina 
+ 
+ Lead Software Engineer in Limassol 
+ 
+ Posted on 2 months ago, by  Charalambous Valentina 
+ 
+ Senior Full Stack Developer in Limassol 
+ 
+ Posted on 2 months ago, by  Charalambous Valentina 
+ 
+ Support Engineer in Nicosia 
+ 
+ Posted on 2 months ago, by  Charalambous Valentina 
+ 
+ © 2019 Work Channel - [License/ Αδεια: 371 |  Privacy Policy  - ]() All rights reserved. Design and Developed by  Applab Projects 
+ Back to top __ 
+ This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.AcceptReject  Read More 

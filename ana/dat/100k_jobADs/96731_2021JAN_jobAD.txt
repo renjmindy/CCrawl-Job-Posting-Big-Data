@@ -1,0 +1,169 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Full Stack Engineer 
+ at Kamma 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ Data Analytics … Automation … Transformative Cloud & API Products … 
+ If that got you excited, you could be the next recruit on Kamma's mission to leverage tech and data to revolutionise the UK Private Rented Sector. Our products are being used by some of the biggest names across myriad sectors in the PRS, but we have a long way to go to accomplish the ambitious vision we've set ourselves! 
+ To help us navigate this journey, we're seeking a full stack engineer, with at least 3 years of experience in PHP and/or NodeJS behind them, to join our engineering team. We're searching for a highly intelligent and capable individual, who's eager for real responsibility and autonomy. Flexibility and adaptability are essential, as we are a rapidly evolving young company with firm aspirations to launch a plethora of cutting-edge products into the market! Our perfect candidate is someone who enjoys problem solving, taking on challenges and finding creative solutions to those challenges. 
+ Social impact is a central pillar here at Kamma. The genesis of our platform is in applying phenomenal data and technological capabilities to expose rogue landlords and ensure that no tenant has to live in unsafe or unsuitable accommodation again. We truly believe that this is a genuinely achievable goal and meaningful work will always be entangled with everything we do. Finding people that share our principles is a crucial part of this pursuit. 
+ If you're looking for a comfortable position with a nicely defined list of tasks, Kamma probably isn't for you. But if the opportunity to combine data and technology, make sense of that data and make a major impact at the heart of a unique tech company exhilarates you, then we'd love to hear from you! 
+ Full Stack Engineer 
+ You will primarily work as part of our engineering team reporting directly to our CTO. 
+ At Kamma, we principally hire on the basis of personality and intelligence above technical skills and experience. For this position, we are looking for someone who wants to contribute to, and be part of, something totally new that will constantly evolve. We are looking for people that take pride and excitement from making a tangible impact both in our industry, and our society. 
+ This role will be a fundamental piece of our growth strategy and as an early member of a young company, you will have the opportunity for rapid growth in whichever areas you excel in. If you're the sort of character that is willing to get stuck into whatever needs doing in order to drive the business forward, we would love to hear from you! 
+ A typical day could involve any of the below: 
+ 
+ Working in an agile team environment with daily stand-ups based on our product backlog 
+ Designing and implementing new product and platform features 
+ Contributing to team design or investigatory meetings 
+ Analysis and integration of new data sets 
+ Making test driven development the heart of our code base 
+ 
+ Our ideal candidate will have: 
+ 
+ At least 3 years demonstrable expertise in PHP 7+ and NodeJS 8.10+ 
+ Ease and deep familiarity with Linux development; we use Ubuntu as our distro of choice but other Linux experience will do just as well 
+ Experience designing, implementing and integrating with RESTful APIs 
+ Real full stack experience, from the front end with HTML, CSS/SCSS and JavaScript, through to data stores including MySQL and MariaDB 
+ Experience with Git as a source control tool and with issue tracking tools; we use Jira but this isn't essential 
+ A degree in Computer Science or a related field, or the proven experience to show that this doesn't matter 
+ A familiarity with cloud infrastructure; if this is with AWS so much the better 
+ A drive to automate everything and make sure everything is fully tested 
+ You're at home with your development environment but the shell prompt on a cloud server holds no fear for you 
+ High energy and an ability to lift people around them 
+ If you are naturally positive, committed and like the idea of being a key component in a tight and growing entrepreneurial team striving for extremely high standards, then this could be the role for you! 
+ 
+ We 'd   really   like to hear from you if you have: 
+ 
+ Knowledge of Laravel, Docker or Kubernetes 
+ Experience of geospatial data formats and processing 
+ Experience of PostgreSQL and - even better - of PostGIS 
+ Experience of Javascript web mapping or geospatial toolkits such as Leaflet or Turf. 
+ 
+ We have: 
+ 
+ Competitive salary; dependent on experience 
+ Matched pension contributions 
+ 2 extra Charity Days of leave to use for whatever charitable endeavour you wish to improve the world through; we really encourage our staff to take these 
+ Regular team events: games night, pub quizzes etc. 
+ A great office in the heart of the Clerkenwell district of London 
+ A founding team who are passionate about what we do and are looking for inspiring people to join our journey 
+ A highly collaborative team giving everyone the opportunity to affect crucial decisions at the heart of the company 
+ Huge ambitions to utilise and develop our data and technology capabilities to move into new areas and markets 
+ 
+ What next? 
+ Get in touch with us with your latest CV and a covering note telling us a little about yourself, why you're interested in joining us and anything else you think we'd like to know and we'll do the rest. 
+ Please note that due to the Christmas, we are unlikely to get back to you before the middle of January. 
+ A company you've always wanted to work with 
+ At Kamma, we believe that diversity is imperative to driving creativity, innovation and value for our clients, and even more importantly, for our people. Inclusion and diversity are fundamental to our culture and as such, we are a committed equal opportunities employer. All applications will receive consideration for employment without regard to ethnicity, religion, gender, gender identity or expression, sexual orientation, nationality, disability, age, or social background. 
+ Published at 12 Jan 2021 - Expires on 12 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Kamma 
+ parttime  Part-time Head of Finance  at Kamma in London 
+ __12-01-2021 
+ fulltime  Customer Success & Ops Manager  at Kamma in London 
+ __14-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

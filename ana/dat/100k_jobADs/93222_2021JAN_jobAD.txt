@@ -1,0 +1,73 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Team Lead, Site Reliability Engineer 
+ Loblaw Digital 
+ __Toronto, ON 
+ Apply Now 
+ At Loblaw, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we’re up for the challenge. From our office in Downtown Toronto, we’ve created leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, and apparel spaces, and we’re only just getting started - our mandate now involves working with teams across the enterprise including supply chain, financial services, stores in migrating them to the cloud and modernizing them. 
+ The impact you’ll make 
+As a Site Reliability Engineer in Loblaw, you will be responsible for the architecture, maintenance, and reliability of our applications. Working as part of the Loblaw Technology SRE Team working closely with the engineering teams across various verticals your primary goal will be to aid adoption of cloud native solutions, build tools and capabilities which helps our dev teams own their systems better. 
+ What you'll do 
+SRE is a shared service team across all Loblaw business lines. We operate in a POD structure which are focussed on business lines in order to allow for product and development teams to have familiarity and consistency. Each SRE POD has 3-4 people (consistently) and another 3-4 SRE's which get added to the POD based on initiatives which the POD is owning. 
+ As a lead you would be responsible for 
+1. Working along side dev and product leads to plan for the focus of the SRE POD 
+2. Understand what are the business goals for the year for the specific business line 
+3. Identify, design, execute points of failure, sources of manual toil for the services; influence and help dev teams to make the systems resilient 
+ Does this sound like you? 
+You are first and foremost a developer/architect who understands ops or aspires to do ops stuff. 
+Overall experience of 8+ years in software engineering and at least 1+ year of managing a team 
+You are someone who enjoys helping people grow and mentoring them 
+Strong communication and interpersonal skills; being empathetic and curious are key. 
+A strong sense of shared ownership and a desire to build something from scratch 
+2-3 Years of hands on experience in one or multiple cloud vendors (AWS, GCP, Azure) 
+The ability to pick up technology quickly - We do not expect you to know everything but being able to explain what you know well and what you do not know is great. 
+We @ Loblaw are embracing 'Dev Run' mindset and that requires everyone in our teams to be on call including developers and SRE's 
+Tech Stack you'll end Up Working with 
+ Cloud:  GCE, GKE, AppEngine, Cloud Functions, CloudSQL, Cloud MemoryStore, Pub/Sub, MIG, Azure 
+ Container Orchestration:  Docker, Kubernetes, Skaffold, Helm, Istio (Gateway & Mesh) 
+ Service Observability:  Prometheus, Grafana, Kiali, AppDynamics, StackDriver, Splunk 
+ Infrastructure Orchestration:  Terraform, Ansible, Gitlab CI 
+ Code Verification:  Sonarqube, Netsparker, Veracode, Gitlab 
+ Languages:  Go, Elixir, Java, JavaScript 
+ Database:  MySQL, PostGreSQL, Oracle 11g, Golden Gate, Data Guard, ProxySQL 
+ Security:  PrismaCloud, TwistLock 
+ Networking Fundamentals:  CloudDNS, Traditional Data Centre Networking Constructs 
+How you’ll succeed 
+At Loblaw, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. 
+You will get to work with some of the best digital minds and will have the support of world class technologies to craft products our customers will love! 
+ Loblaw recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. 
+In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

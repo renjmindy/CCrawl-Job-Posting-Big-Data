@@ -1,0 +1,179 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Engineer - Data Services 
+ Bloomberg 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Engineer - Data Services 
+ Bloomberg 
+ [](mailto:?subject=Senior%20Software%20Engineer%20%2D%20Data%20Services&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14259333/senior-software-engineer-data-services/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ Princeton, New Jersey 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Engineering Data Services group is responsible for core data and analytics services that are used across Bloomberg's application teams. Our service stack currently runs on over 900 machines and serves over 120 billion requests a day. With ever increasing data volumes and growth of Bloomberg's Enterprise products, this footprint has been growing at a rapid pace year over year. Our team also provides multiple foundational services such as meta data and id master for our Bloomberg Query Language (BQL), the next generation analytics and screening engine for financial datasets. 
+ We are building out a suite of tools that help developers support and optimize our data services. One such tool, our data integrity checker, is required to verify 50 billion unique data points daily to detect anomalies. This immense scale requires the use of Hadoop and Spark analytics framework. We are developing a set of brand new services for metadata, security & entity relationships and entitlement. Due to the large volume and explosive growth of underlying data we are looking to leverage Hadoop based storage for these services. We are also building new tools to manage our server farm more efficiently and leverage analytics to ensure high availability, efficient load balancing and fair scheduling. 
+ We are looking for strong C++/Java software engineers who can design and develop low latency, high performance distributed systems. The ideal candidate should have strong programming skills, the ability to work collaboratively and a proven track record of delivering quality engineering solutions to real world problems. Our team is comprised of a small group of technologists passionate about data and pushing the boundaries of technology to deliver innovative solutions. We expect you to be proactive, able to work independently and take ownership in driving the vision and execution of the product. 
+ We'll trust you to: 
+ 
+ Design, implement and own critical applications and components of our services stack 
+ Participate in the full SDLC (Software Development Life Cycle) of various components and systems that are required to be highly efficient, robust and scalable 
+ Enhance our infrastructure to fulfill mission critical SLAs, whether low latency or high throughput data retrieval 
+ Get to know development teams across Bloomberg, understand their application requirements and data access patterns 
+ 
+ You need to have: 
+ 
+ 3+ years of C++ or Java on UNIX/Linux environment 
+ Solid understanding of algorithms and data structures, knowledge of object-oriented design and multi-threading 
+ Excellent problem solving and communication skills, and ability to thrive in a highly collaborative and dynamic work environment 
+ Experience with high volume, high availability distributed systems 
+ Experience working in a test-driven development and agile environment 
+ 
+ We 'd love to see: 
+ 
+ Knowledge of low-level Linux, UNIX networking and C system calls for high performance computing and debugging 
+ Experience with systems level Java or Scala 
+ Experience with Hadoop and/or using a distributed analytics infrastructure like Apache Spark 
+ 
+ Bloomberg is an equal opportunities employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+ 
+ Internal Number: 7727696 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Bloomberg 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Senior Java Engineer 
+ __  Bayswater, United Kingdom 
+ 
+ 
+ 
+ 
+ DWP Digital 
+ __Today 
+ 
+ 
+ Consultant, DevOps Engineer, Deloitte Digital, Consulting, Belfast 
+ __  Belfast, United Kingdom 
+ 
+ 
+ Deloitte 
+ __Yesterday 
+ 
+ 
+ SENIOR EMBEDDED SOFTWARE ENGINEER 
+ __  Katowice, Poland 
+ 
+ 
+ Rockwell Automation 
+ __Yesterday 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

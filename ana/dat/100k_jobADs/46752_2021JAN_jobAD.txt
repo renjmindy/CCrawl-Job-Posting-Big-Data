@@ -1,0 +1,90 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Senior Developer LOCALPERMANENT 
+ Job Description 
+ Pennebaker is a strategic brand agency that uses digital and analog tools to help brands reach their full potential. 
+ We’re looking for a Senior Front-end Developer to join us in building beautiful websites and web applications. The candidate should be an excellent communicator that collaborates well with our staff of developers, designers, and UX professionals. 
+ The Responsibilities 
+ 
+ Able to write front-end and back-end code, and implement and configuring content management systems 
+ Help estimate hours needed to implement responsive designs 
+ Help solve the team’s toughest technical challenges 
+ Mentor Developers I-III and manage the growth of the team 
+ Write code for selected web-based projects 
+ Help manage and optimize DevOps processes as the team grows 
+ Contribute to post-project retrospectives 
+ Work with other departments to ensure the complexity, resources, and scalability of all development efforts are fully understood 
+ 
+ Skills 
+ 
+ Ability to “speak Client” during meetings and to interpret client’s goals into action items 
+ Basic knowledge of analytics packages and how they work, as well as how to implement them 
+ Working knowledge of best UX/UI practices 
+ Excellent communication skills 
+ Strong attention to detail 
+ Highly collaborative 
+ 
+ Technical Requirements 
+ 
+ Advanced knowledge of terminal usage (can shell into Ubuntu servers with ease): MySQL, Bash Scripting 
+ Advanced knowledge of HTML/CSS/JS front-end techniques: HTML5, SCSS, VueJS, Twig 
+ Working knowledge of server-side languages and techniques: PHP, Node.js 
+ Working knowledge of git-related GUI tools (SourceTree, Github) 
+ Basic knowledge of analytics packages and implementing event-specific analytics triggers 
+ Knowledge of advanced web security practices is a plus 
+ Advanced knowledge of Craft CMS a major plus 
+ 
+ Experience 
+ 6-8 years 
+ Benefits 
+ 
+ Health, vision, and dental insurance 
+ 401(k) with an employer match 
+ Paid vacation and sick time 
+ 
+ Pennebaker is a strategic branding & marketing communications firm in Houston, Texas. For 35 years, we’ve been helping companies reach their full potential. Today, our team includes 27 full-time employees and a tested group of talented strategic partners. Passionate about our work, we take our clients’ success personally. We hire smart, creative people to tackle the difficult challenges our clients face. We’re excited about adding another team player to our growing firm. 
+ How to Apply 
+ [email protected] 
+ Contact Info 
+ 
+ __ 
+ 
+ Location:  Houston Texas 
+ 
+ __ 
+ 
+ Phone Number:   713-341-5440 
+ 
+ __ 
+ 
+ Email Address: 
+ __  Posted August 21, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

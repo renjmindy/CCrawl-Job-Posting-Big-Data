@@ -1,0 +1,130 @@
+  
+ 
+ Company
+ 
+ About us 
+ Competences 
+ Innovation 
+ Partners 
+ Tools 
+ Podcast & Youtube 
+ 
+ 
+ Services
+ 
+ Tool Chain Analysis 
+ Qualification 
+ Tool Usage 
+ Tool Configuration 
+ Test Automation 
+ AUTOSAR 
+ 
+ 
+ Products
+ 
+ TCA 
+ QST 
+ QKits 
+ QKit IBM DOORS 
+ QKit IBM ELM 
+ QKit Math Libraries 
+ Safety Plan 
+ Qualification Database 
+ 
+ 
+ Career 
+ Contact 
+ De   En 
+ 
+ Menu 
+ 
+ Company
+ 
+ Back 
+ About us 
+ Competences 
+ Innovation 
+ Partners 
+ Tools 
+ Podcast & Youtube 
+ 
+ 
+ Services
+ 
+ Back 
+ Tool Chain Analysis 
+ Qualification 
+ Tool Usage 
+ Tool Configuration 
+ Test Automation 
+ AUTOSAR 
+ 
+ 
+ Products
+ 
+ Back 
+ TCA 
+ QST 
+ QKits 
+ QKit IBM DOORS 
+ QKit IBM ELM 
+ QKit Math Libraries 
+ Safety Plan 
+ Qualification Database 
+ 
+ 
+ Career 
+ Contact 
+ De   En 
+ 
+ 
+ 17 July 2017 
+ Java-Programmer (m/f/d) for Java/Eclipse-Development of an Inhouse-Tool 
+ Are you familiar with Eclipse, EMF, RCP, ...? Is it not a foreign concept for you? 
+ Your tasks 
+ The Tool Chain Analyzer (TCA) is a tool to analyse software and hardware development toolchains and to create qualification-kits for tools, see  TCA . 
+ The TCA was developed with the development framework Eclipse (EMF, RCP, …). In the context of a working student position, an internship or a Bachelor or Master thesis, you are responsible for different assignments in the development process of the TCA. 
+ 
+ Implementation of expansion requests, for example new document generators or graphical editors 
+ Maintenance of the existing tool 
+ Creation of test cases 
+ Implementation of architectural changes (switch to Luna, Maven-Build, Jenkins,…) 
+ Creation and realization of tool demonstrations 
+ Advice and support the users in the handling of TCA 
+ 
+ We offer you 
+ Validas AG is a young und continuously growing consulting company in the field of quality assurance for software-intensive embedded systems. In our work, we use constantly use and develop the latest state of the art technology. An attractive remuneration, uncomplicated and customizable working hours and a well-equipped workplace in a spacious office in the heart of Munich awaits you! 
+ You collaborate in the conception, adaptation and use of methods of software engineering, software validation and software testing. You work independently in demanding projects - always supported by an experienced and highly qualified team. 
+ You have the following 
+ 
+ University degree (Bachelor, Master or Diploma) in Computer Science or a comparable course of study. 
+ Experience in object-oriented programming with Java and possibly other languages ​​are advantageous 
+ Experience in GUI development is a plus 
+ Experience with test automation platforms (Jenkins, …) 
+ Good to have - knowledge on the safety standards and maturity models for software development, like for example ISO 26262, IEC 61508, DO-178B/C, DO-330, CMMI, (Automotive) SPICE, … 
+ 
+ You have the following skills 
+ 
+ Independent and methodical work 
+ Quality awareness 
+ Excellent communication and willingness to work in a team 
+ Enjoy the development and presentation of concepts 
+ Very good written and spoken German and very good English 
+ 
+ Apply at 
+ Dr. Peter Braun 
+Tel  +49 (89) 5388669-0 
+E-Mail 
+ This website uses cookies to ensure you get the best experience on our website.  More info 
+ Got it! 
+   
+ 
+ Validas AG 
+ Arnulfstr. 27 
+ D-80335 Munich 
+ Tel  +49 (89) 5388669-0 
+ Fax  +49 (89) 5388669-10 
+ Mail  info@validas.de 
+ Imprint 
+ Privacy Policy 
+ 

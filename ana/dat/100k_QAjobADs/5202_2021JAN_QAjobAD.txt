@@ -1,0 +1,6 @@
+ Qualifications 
+ Minimum 5 years of experience with WordPress, web markup, including HTML5, CSS3, and JavaScript including jQuery 
+ Proficient understanding of the inner workings of WordPress, cross-browser compatibility issues, and ways to work around them 
+ Proficient understanding of code versioning tools, such as Git 
+ Understanding of client-side scripting and JavaScript frameworks like Vue.js or React.js 
+ Some knowledge of at least one Back-End programming language such as C# / ASP.NET, Java, PHP or Node.js 

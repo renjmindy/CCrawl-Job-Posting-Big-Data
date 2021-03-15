@@ -1,0 +1,126 @@
+WORK WITH INDIES beta 
+ Newsletter 
+ Browse Jobs 
+ Art & Animation 
+ Audio 
+ Business & Operations 
+ Design 
+ Marketing & Community 
+ Production 
+ Programming 
+ QA & CS 
+ Writing 
+ Post a Job 
+ Back to all jobs See allDesignjobs 
+ Level Designer 
+ Megagon Industries Apply for this Job 
+ Posted 
+ December 15, 2020 
+ Full Time 
+ Anywhere 
+ Remote 
+ We’re looking for a Level Designer (d/f/m) to work on Lonely Mountains: Downhill and another unannounced project in a similar genre. You will be responsible for creating the trails from a gameplay perspective in Unity and work closely together with our Environment Artist as well as Game Designer.  ‍ 
+ ‍ 
+ Responsibilities 
+ 
+ Coming up with ideas and concepts for trail designs (main routes, short-cuts, landmarks, player guidance, pacing, etc). 
+ Creating the trails in Unity (terrain creation, basic texturing, obstacle placement) and working with final as well as placeholder assets. 
+ Setting gameplay, camera, and audio triggers. 
+ Testing and iterating the trails in-engine. 
+ Working closely with Environment Art to ensure that everything fits together visually. 
+ Work closely with Game Design to make the most of the gameplay systems. 
+ Work closely with Programming to optimize tools and work-flows.  ‍ 
+ 
+ ‍ 
+ Requirements 
+ 
+ Solid experience working with a modern 3D engine and level editor. Unity experience is preferred but experience in another engine (Unreal, Frostbyte, etc) is also fine if you’re willing to learn our Unity workflow. 
+ Basic 3D modeling skills in Blender/ProBuilder to create detailed block out meshes. 
+ Ability to sketch level design schematics and communicate your ideas. 
+ Deep understanding of level design principles as well as game design fundamentals. 
+ You love and play games and have a good understanding of what makes a game fun. 
+ Good verbal and written communication skills in English. 
+ You’re good at self-managing your tasks and responsibilities.  ‍ 
+ 
+ ‍ 
+ Experience 
+ 
+ Junior:  At least one finished university/self-taught/commercial project where you were greatly responsible for the level design. 
+ Regular:  At least one (nearly) shipped commercial game, 2+ years experience as a level designer. 
+ Senior:  Shipped multiple commercial games (or a really big one), 4+ years experience as a level designer  ‍ 
+ 
+ ‍ 
+ ‍  Bonus Points 
+ 
+ Good understanding of environment art principles. 
+ Good knowledge of 3D modelling and workflows (Blender). 
+ Working knowledge of version control software (GIT). 
+ Experience with exterior/environment level design. 
+ Very familiar with the existing level design of Lonely Mountains: Downhill.  ‍ 
+ 
+ ‍ 
+ Employment Details 
+ 
+ Full-time 
+ Able to work in CEST office hours (Mandatory Daily Standup 10am) 
+ Remote or on-site 
+ Start: January 2021 
+ 
+ ‍ 
+ Benefits 
+ 
+ Work on a critical-acclaimed game with 90%+ positive reviews. 
+ Work in a small, experienced team with complete creative autonomy. 
+ Work on games with a non-toxic and loving community. 
+ Flexible working hours. 
+ Public transportation ticket. 
+ Be part of  Saftladen  – the biggest indie game dev collective in Germany.  ‍ 
+ 
+ ‍ 
+ Please send your CV, level design portfolio and salary expectations to **** jobs@megagonindustries.com . 
+ ‍ 
+ About Lonely Mountains 
+ The  Lonely Mountains  are waiting for you! Explore rocky mountain slopes with your bike, jump over sandy gorges or find your way through the foggy forests. Each  Lonely Mountain  awaits you with new challenges! Sprint, jump and slide to find your own way to the finish line. Explore the detailed mountain worlds or face the ticking clock - with every success you unlock new bikes, paintwork and outfits piece by piece. Train your skills day and night, improve your place on the leaderboards and ultimately compete with the best riders in the world in the risky Free Ride mode. 
+ ‍ 
+ Apply for this Job 
+ related jobs 
+ Theory of Games is hiring a  Game Design Consultantto join their team into work fromAnywhere Game Design ConsultantTheory of Games | AnywhereLearn More 
+ Talofa Games is hiring a Lead Game Designerto join their team into work fromAnywhereLead Game DesignerTalofa Games | AnywhereLearn More 
+ Thunder Lotus is hiring a Level Designerto join their team into work fromMontreal, QCLevel DesignerThunder Lotus | Montreal, QCLearn More 
+ Triband is hiring a Gameplay Designerto join their team into work fromCopenhagen, DKGameplay DesignerTriband | Copenhagen, DKLearn More 
+ Triband is hiring a Design Researcherto join their team into work fromCopenhagen, DKDesign ResearcherTriband | Copenhagen, DKLearn More 
+ Megagon Industries is hiring a Level Designerto join their team into work fromAnywhereLevel DesignerMegagon Industries | AnywhereLearn More 
+ Indie games are wonderful. So are the people that make them. 
+ Make wonderful games. Be wonderful people. Work With Indies. 
+ Thank you for joining the Work With Indies newsletter! The next issue will arrive on Sunday. 
+ Oops! Something went wrong. Please try again. 
+ *Sign up to receive a weekly digest of new indie career opportunities. 
+ WORK WITH INDIES 
+ We’ve been lucky to have some incredible jobs working at and partnering with some of the biggest brands in video games. 
+ But we’ve never had more fun and been more fulfilled than when we were working with indie game developers. 
+ Everyone in games should have that much fun. 
+ Our hope is that Work With Indies will connect job seekers with the most rewarding, most inspirational, and most fun jobs they've ever had. 
+ NAVIGATION 
+ 
+ Post a Job 
+ Terms 
+ Privacy 
+ RSS 
+ Communities 
+ Nick's Cat 
+ 
+ CONTACT US 
+ 
+ 
+ nathan@workwithindies.com 
+ twitter.com/workwithindies 
+ facebook.com/workwithindies 
+ 
+ ^ 
+ Made by 
+ @natethenate 
+ and 
+ @nsuttner 
+ for people who 
+ indie games. 
+ © 2021  A Lot of Happy LLC 

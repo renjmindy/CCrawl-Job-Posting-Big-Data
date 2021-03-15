@@ -1,0 +1,337 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ SQL Server Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance SQL Server Expert ? 
+ ](https://www.workana.com/en/hire/sql-server) 
+ Yesterday 
+ Requiero una persona con las habilidades de sql 
+ Published: Yesterday  Bids: 2 
+ I need a person with the ability to sql, who works seriously in this type of work since I will require it for the rest of the year, thanks 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  L. A. A. T. Last reply: Yesterday  Bolivia 
+ USD 50 - 100 
+ 4 days ago 
+ Ssis Projects 
+ Published: 4 days ago  Project duration: 3 - 4 months Bids: 2 
+ We require someone to work on a variety of projects with SSIS connections for PowerBI dashboards. These connections include CDATA connectors to systems such as Orderwise, OGL, Zoho 
+ Category  : IT & Programming 
+ Subcategory  : Data Science 
+ Is this a project or a position?  : Project 
+ Required availability  : Part time 
+ Published by:  A. Last reply: 3 days ago  Argentina Payment method:  __Verified 
+ Less than USD 10 / hour 
+ 24 days ago 
+ Full stack developer in large asp.net Mvc (framework) application f... 
+ Published: 24 days ago  Project duration: 1 - 4 weeks Bids: 3 
+ We are looking for talented c# developers to help us create and evolve a new project. 
+ The project focusses on renting holiday homes around the world. Some key issues that we will face as developers are: 
+ large scale importing external data from multiple different sources, and translating it to an internal format (descriptions, images, pricing, etc). 
+ Large, user friendly, frontend for searching and booking holiday homes. 
+ The application is being built in c#,  asp.net  framework with sqlserver and EF6 on azure (using other azure features such as storage, queues, micro services, cdn, etc). 
+ For the front-end a mix of c#/razor views with plain js and vuejs (3) are used. 
+ Ideally we are looking for a full stack developer that can help in each of these areas. Or at least a few of them. 
+ You will be joining a team of seniors and juniors already working on the project (all in the same location currently). And work will be deligated in daily standups (MS teams) using visual studio online boards for planning and tracking. 
+ In our current routine we have the option to check each others work, and answer questions whenever needed. So you would not be working for extended period of time on some feature without having any interaction. You would be part of the team, and have instant communication whenever needed. 
+ More long term, as a custom software developer company, based in the netherlands, we always have a need for developers. So if things work out, this could definity evolve into a long term partnership with steady hours /work. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Full time 
+ API Integrations  : Cloud Storage (Dropbox, Google Drive, etc.), Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  M. V. G. Netherlands 
+ USD 20 - 30 / hour 
+ 25 days ago 
+ Vb.Net All kinds of System Development 
+ Published: 25 days ago  Bids: 2 
+ Offer me a process flow, and features send your price ill do it depending on your Choice my infos are Private so better PM for your details. 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Required platforms  : Windows 
+ Published by:  N. C. Philippines 
+ USD 500 - 1,000 
+ Last month 
+ Transform Sql Sps to Python script/C# code 
+ Published: Last month  Bids: 8 
+ I require someone experienced with Microsoft SQL Server syntaxis in order to create a script in python or c# from a .sql file, the sql file has all the tables and values required to work by itself, there's 5 parameters that you must input on the script to make it work, you'll find out what Im talking about when you read the sql file. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  M. Last reply: Last month  Mexico 
+ Less than USD 50 
+ Last month 
+ Real Estate Website (Mobile Friendly) 
+ Published: Last month  Bids: 22 
+ Description: 
+The project involves the design and development of a Mobile-Friendly Real Estate Website that gives agents and property managers the ability to showcase and manage their property listings while providing potential renters and home buyers a concise and structured way of searching for properties, booking an inspection and completing the rental/home buying process online. The web site will be set up in a way that the agents and property managers will have total administrative rights to their listings with the ability to create, modify, or delete listings. 
+ A mobile-friendly website with excellent user experience and the following features: 
+ 
+ A powerful search engine for displaying detailed summary of rental properties and properties for sale 
+ A profile creation feature for prospective renters/homebuyers, property agents and property managers with role-based access controls 
+ A rent/home purchase application form 
+ An online rent payment platform with a remittance feature to multiple beneficiaries 
+ A “property inspection” booking feature 
+ An Agent Portal where property agents and property managers can create property listings and upload pictures of the properties and submit for approval before being published for public viewing with option for paid listings. 
+ A Tenant Portal where existing tenants can file complaints, put in service requests, issue rent renewal/termination notices, etc with backend feature for property managers to take action based on the requests. 
+ A feature that allows a prospective tenant to complete the rental process (rent payment, rental agreement, etc) 
+ 
+ Category: IT & Programming 
+Subcategory: Web development 
+What is the scope of the project?: Create a new custom site 
+Is this a project or a position?: Project 
+I currently have: I have specifications 
+Required availability: As needed 
+Roles needed: Designer, Developer 
+Required platforms: Android 
+I need to: Create an app 
+App type: e-Shop 
+Similar apps: Airbnb 
+Back-end is required: Yes 
+Payment gateway: Yes 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Designer, Developer 
+ Published by:  H. M. Last reply: Last month  Nigeria 
+ USD 1,000 - 3,000 
+ Last month 
+ Infrastructure / dev ops 
+ Published: Last month  Bids: 3 
+ Looking for an experienced dev ops for some freelancing work around cloud infrastructure, Kubernetes, clusters. Need someone with experience in various cloud tools that can provide recommendations. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Cloud Storage (Dropbox, Google Drive, etc.) 
+ Roles needed  : Other 
+ Other roles needed  : Dev Ops 
+ Published by:  H. United Kingdom Payment method:  __Verified 
+ USD 250 - 500 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

@@ -1,0 +1,6 @@
+ Qualifications: 
+ Degree in Computer Science or related engineering field, or equivalent practical experience. 
+ Minimum 3 years of experience solving backend software engineering problems. 
+ Experience in building web-scale and/or enterprise-grade systems in different environments. 
+ Strong ability to reason about data structures, complexity, and possible engineering approaches to a problem. 
+ Experience with Python / Django is preferred, but experience with any mainstream language and framework is required. 

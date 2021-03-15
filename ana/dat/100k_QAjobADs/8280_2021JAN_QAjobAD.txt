@@ -1,0 +1,12 @@
+ Minimum Qualifications 
+ At least 6 years of software engineering experience. 
+ Advanced proficiency in at least one language. We use mostly Scala and C++ on our backend and Typescript on the frontend – it’s great if you’re comfortable in those or if you’re willing to learn. 
+ The ability to work closely across teams and manage dependencies. 
+ A customer- and product-focused mindset, with the ability to make well-reasoned tradeoffs between speed and quality. 
+ The ability to adapt and handle multiple competing priorities in collaboration with peers. 
+ Bonus Qualifications 
+ Experience working with or being a power user of Bitcoin, Ethereum, and/or blockchain technology 
+ Work experience or knowledge of the finance industry, payments, trading and/or exchange systems 
+ [ 
+ Gemini 
+ ](/companies/gemini) 

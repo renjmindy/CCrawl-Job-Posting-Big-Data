@@ -1,0 +1,183 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Postdoctoral Research Fellowships (Optical Coherence Tomography) 
+ Guillermo J. Tearney, M.D., Ph.D. 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Postdoctoral Research Fellowships (Optical Coherence Tomography) 
+ Guillermo J. Tearney, M.D., Ph.D. 
+ [](mailto:?subject=Postdoctoral%20Research%20Fellowships%20%28Optical%20Coherence%20Tomography%29&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14302639/postdoctoral-research-fellowships-optical-coherence-tomography/ "Email")  
+ Application 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 12, 2021 
+ Location: 
+ Boston, Massachusetts 
+ __ Show Map 
+ Type: 
+ Full Time - Experienced 
+ Job Function: 
+ Postdoc 
+ Years of Experience: 
+ 0-3 
+ Industry Category: 
+ Academia, Research Laboratory 
+ Required Education: 
+ Doctorate 
+ | 
+ Employer Description 
+ Guillermo J. Tearney, M.D., Ph.D. 
+ Tearney Lab – Wellman Center for Photomedicine 
+ Massachusetts General Hospital 
+ Job Description 
+ A Postdoctoral research fellowship in the area of optical coherence tomography (OCT) is available in the Tearney Lab ( www.tearneylab.org ) at the Massachusetts General Hospital (MGH) in the Wellman Center for Photomedicine. This appointment will be made at the rank of postdoctoral fellow or instructor at Harvard Medical School, commensurate with the applicant’s experience. MGH’s role as a leading teaching affiliate of Harvard Medical School and close ties to Harvard University and MIT provide an outstanding environment for developing and translating new OCT technologies with applications in basic and clinical research. 
+ The fellowship will focus on high resolution OCT imaging devices, including development of novel optical techniques, engineering of in vivo endoscopic probes, and translation to clinical use. Current medical applications of micro-OCT include imaging of mucociliary clearance to monitor treatment response in pulmonary disorders such as cystic fibrosis, high-resolution imaging of coronary artery disease, and diagnosis of early cancer. The ideal candidate for this position is an organized and creative problem-solver experienced with advanced optics, biomedical engineering, computational methods, and image analysis, as well as capable of leading a multidisciplinary research team. 
+ Representative recent publications from our group include: 
+ 
+ 
+ Leung, H.M.  , et al.  Imaging intracellular motion with dynamic micro-optical coherence tomography.  Biomed Opt Express   11  , 2768-2778 (2020). 
+ 
+ 
+ Yin, B.  , et al.  3D cellular-resolution imaging in arteries using few-mode interferometry.  Nature: Light Sci Appl   8  , 104 (2019). 
+ 
+ 
+ Leung, H.M.  , et al.  Intranasal micro-optical coherence tomography imaging for cystic fibrosis studies.  Sci Transl Med   11  (2019). 
+ 
+ 
+ Gora, M.J.  , et al.  Tethered capsule endomicroscopy for microscopic imaging of the esophagus, stomach, and duodenum without sedation in humans (with video).  Gastrointest Endosc   88  , 830-840 e833 (2018). 
+ 
+ 
+ Gerbaud, E.  , et al.  Plaque burden can be assessed using intravascular optical coherence tomography and a dedicated automated processing algorithm: a comparison study with intravascular ultrasound.  Eur Heart J Cardiovasc Imaging   21  , 640-652 (2020). 
+ 
+ 
+ 
+ Job Requirements 
+ A PhD (or equivalent) in Biomedical Engineering, Electrical Engineering, Physics or a related field is required. Demonstrated excellence in one or more of the following areas is required: optical coherence tomography, optical imaging systems, optical design, optical system fabrication, fiber optic systems and components, broadband light source development, spectroscopy, image processing, programming, and clinical studies with novel devices. Creativity is highly desirable. 
+ Contact Information 
+ Interested candidates are encouraged to send a CV accompanied by a cover letter describing any previous research training, specific areas of interest, and contact information for three letters of reference.  Address correspondence to Dr. Gary Tearney, note the position you are applying for in the subject line, and send by email to   tearneylabsearch@partners.org   . 
+ MGH is an equal opportunity employer. 
+ 
+  __  Create a Job Alert for Similar Jobs  
+ About Guillermo J. Tearney, M.D., Ph.D. 
+ Until recently, visualizing the architectural and cellular morphology of human tissue has required histopathological examination. Samples would be excised from the patient, processed, sectioned, stained and viewed under a microscope. In addition to being invasive, time consuming and costly, the static nature of conventional pathology prohibits the study of biological dynamics and function. The Tearney Laboratory at Massachusetts General Hospital has led the way in transforming the current diagnostic paradigm through the invention and translation of new noninvasive, high-resolution optical imaging modalities that enable disease diagnosis from living patients without excising tissues from the body. Led by Guillermo (Gary) Tearney, MD, PhD, the lab’s 80+ person multidisciplinary team invents, validates and translates novel devices that use light to conduct microscopy in living patients. Light is uniquely well suited for noninvasively interrogating the microscopic structure, molecular composition and biomechanical properties of biological tissues. The goal of the laboratory’s research is to improve understanding and diagnosis of disease by imaging the human body at the highest possible level of detail in vivo. 
+ Connections working at Guillermo J. Tearney, M.D., Ph.D. 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Postdoctoral Research Fellowships (Machine Vision/Image Analysis) 
+ __  Boston, Massachusetts 
+ 
+ 
+ 
+ 
+ Guillermo J. Tearney, M.D., Ph.D. 
+ __4 Days Ago 
+ 
+ 
+ Postdoctoral Research Fellowships (In Vivo Microscopy) 
+ __  Boston, Massachusetts 
+ 
+ 
+ Guillermo J. Tearney, M.D., Ph.D. 
+ __1 Week Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

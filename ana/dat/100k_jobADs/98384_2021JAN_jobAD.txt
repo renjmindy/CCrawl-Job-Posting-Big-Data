@@ -1,0 +1,152 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Data Engineer 
+ at Factmata 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __freelance 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __freelance 
+ 
+ 
+ apply now 
+ 
+ Factmata is looking for an experienced and creative data engineer to help us solve the problem of misinformation online. At Factmata, we are building systems to automatically classify the credibility, quality, safety and reliability of online information, using state-of-the-art machine learning algorithms paired with human expertise. 
+ We're looking for someone who will have a key role in building our core product as we bring it to market. You'll be responsible for adding new features to our data pipeline, connecting it to our machine learning systems, databases and external services. You will also be responsible for creating and maintaining our B2B APIs, to enable our clients to push and pull data from our data pipeline. 
+ Current stack: Python 3, PostgreSQL, RabbitMQ, CircleCI, Docker, Kubernetes, AWS 
+ What you'll be doing 
+ 
+ Develop data and model storage systems 
+ Coordinate with both the business product and user product teams to ensure high quality engineering in an agile environment 
+ Scale and maintain our message-based data processing pipeline 
+ Extend and build upon our existing B2B APIs 
+ Develop web scraping architecture 
+ Manage integrations with other platforms and products 
+ 
+ What we're looking for 
+ 
+ Proactive and positive attitude with ability to own projects and take work into your own hands 
+ Passionate about writing clean, well tested, and maintainable code 
+ PostgreSQL (or MySQL) experience 
+ 5+ years work experience 
+ Extensive Python experience 
+ Experience with distributed systems 
+ Experience with Docker 
+ Experience developing distributed microservices in Python 
+ 
+ Bonus points for experience with: 
+ 
+ Building complex data processing pipelines 
+ Building scalable REST APIs 
+ Experience with CI tools such as CircleCI 
+ RabbitMQ 
+ Real time distributed systems processing 
+ Data pipelines that can handle >1m URLs per hour 
+ 
+ Our values 
+Joining the Factmata family represents an unprecedented opportunity to be part of a team with an outstanding purpose and the rare potential to do good in the world. We hire strongly for our values. 
+ 
+ Deliver results for our users. 
+ Do the basics. 
+ In facts we trust. 
+ Team sport. 
+ Be candid. 
+ Think Big! 
+ Prioritise growth. 
+ Show humility. 
+ Humour. 
+ 
+ If you aren't completely confident that you fit our exact criteria, please get in touch immediately. Humility is a wonderful thing - we're at least as interested in character as in talent. Factmata is an environment you will learn in and be challenged, develop and grow as a person, build phenomenal technology, be given limitless opportunities to innovate and research, given autonomy, and connected with some of the brightest minds to help you do your work 
+ Published at 13 Jan 2021 - Expires on 13 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

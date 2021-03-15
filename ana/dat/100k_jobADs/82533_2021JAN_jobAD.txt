@@ -1,0 +1,221 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Blockchain Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ BlockchainWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Technical Product Manager 
+ [ 
+ O(1) Labs 
+ ](/companies/o-1-labs) 
+ 
+ Remote 
+ 11 January, 2021 
+ Apply 
+ More jobs from O(1) Labs About O(1) Labs 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Blockchain 
+ Cryptocurrency 
+ Product Development 
+ Product Management 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Unlimited vacation policy 
+ Full healthcare coverage 
+ 401(k) matching 
+ L&d budget 
+ Parental leave 
+ Token equity 
+ 401k 
+ Committed to a diverse team 
+ Lunch & learn 
+ Office library 
+ Healthy snacks 
+ Bike friendly 
+ Equity 
+ Health care 
+ Unlimited pto 
+ Pto 
+ Start-up 
+ Equipment budget 
+ Platinum health coverage 
+ Tokens 
+ 
+ We're a software development company and leader in verifiable computation. Currently incubating Mina Protocol 
+ Role overview 
+ We’re seeking for a Senior Technical product manager who can navigate the interdisciplinary tradeoffs that come with building a new economic system built on top of a highly technical product, a decentralized protocol powered by ZK Snarks. 
+ The Technical Product Manager will: 
+ 
+ Develop product roadmap for various parts of the protocol & product 
+ Evaluate and prioritize specific opportunities and use cases for the Mina protocol 
+ Develop product requirements 
+ Collaborate with engineering & other teams in the O1Labs foundation to design, develop, build, QA, and release new products & developer tools 
+ Collaborate with the ecosystem participants (e.g. node operators and developers) to address their needs, communicate product roadmap, and incorporate their feedback into product roadmap 
+ Develop tools that showcase Mina’s unique capabilities and inspire a global audience of developers to build on top of our platform 
+ 
+ Ideal candidates will have: 
+ 
+ 5+ years of previous experience in product management of one or more successful products or services 
+ Solid understanding of blockchain or distributed systems 
+ 1+ years of previous experience working as a product manager in a blockchain project 
+ Strong technical background (ideally a software engineering or CS background) 
+ Strong communication skills 
+ Familiarity with technical concepts such as API’s, GraphQL, blockchains or distributed systems, etc 
+ 
+ 
+ [ 
+ O(1) Labs 
+ ](/companies/o-1-labs) 
+ 
+ 
+ 10-49 
+ 
+ 
+ San Francisco, CA, US 
+ 
+ 
+ O(1) Labs is a small, well-funded startup aiming to develop the first cryptocurrency protocol that can deliver on the promise of supporting real-world applications and widespread use. Our team is based in San Francisco, and we are funded by top investors (including Polychain, Metastable, Max Levchin, and Naval Ravikant). O(1) Labs recently released Coda Protocol, the first cryptocurrency with a constant sized Blockchain. O(1) Labs is committed to building a diverse, inclusive company. People of color, LGBTQ individuals, women, and people with disabilities are strongly encouraged to apply. 
+ OCaml Elm Blockchain Early Stage Venture PureScript ReasonML Unlimited Vacation Policy Full Healthcare Coverage 
+ View 3 jobs 
+ Interested in seeing how O(1) Labs work? Contribute to their Open Source. 
+ Refactor duplicated code idiom to single function on Public_key 
+ Level: Intermediate 
+ 
+ OCaml 
+ 
+ View All Issues 
+ Engineers who find a new job through Blockchain Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from O(1) Labs About O(1) Labs 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Blockchain 
+ Cryptocurrency 
+ Product Development 
+ Product Management 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Unlimited vacation policy 
+ Full healthcare coverage 
+ 401(k) matching 
+ L&d budget 
+ Parental leave 
+ Token equity 
+ 401k 
+ Committed to a diverse team 
+ Lunch & learn 
+ Office library 
+ Healthy snacks 
+ Bike friendly 
+ Equity 
+ Health care 
+ Unlimited pto 
+ Pto 
+ Start-up 
+ Equipment budget 
+ Platinum health coverage 
+ Tokens 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Blockchain Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Interested in seeing how O(1) Labs work? Contribute to their Open Source. 
+ Refactor duplicated code idiom to single function on Public_key 
+ Level: Intermediate 
+ 
+ OCaml 
+ 
+ View All Issues 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Blockchain Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Product Manager, Blockchain IntegrationsCompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts - 
+ Remote 
+ blockchain crypto cryptocurrency infrastructure product product management 
+ More Info Apply 
+ Product Manager, Chainlink CoreCompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts - 
+ Remote 
+ blockchain crypto cryptocurrency infrastructure product product management 
+ More Info Apply 
+ Product Manager, DeFiCompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts - 
+ Remote 
+ blockchain product management finance crypto-finance 
+ More Info Apply 
+ Senior Technical Product Manager 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Blockchain jobs Solidity jobs Blockchain product jobs Quant jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Blockchain articles Solidity articles Ethereum articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

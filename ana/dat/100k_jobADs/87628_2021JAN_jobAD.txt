@@ -1,0 +1,148 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Site Reliability Engineer 
+ at Digital Identity Net 
+ go back to Developer Jobs 
+ 
+ 
+ __Remote UK 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __Remote UK 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ Would you like to be part of an innovative and rapidly growing company? Digital Identity Net is a UK-based business that places individuals in control of their digital identity - providing consumers with a single gateway to the validated identity data held about them by their banks. Our vision is to help people simplify and secure their digital lives - safeguarding their privacy and making a positive impact on wider society. We are a fast-growing, high performing team that care about our people's career aspirations. 
+ At Digital Identity Net we have just launched OneID, our unique bank-backed digital identity platform, connecting consumers, businesses and banks. An exciting opportunity has opened for a Site Reliability Engineer. 
+ As a Site Reliability Engineer you will work closely with our team of Senior Software Engineers. We are on the path to launch our first product into service early in 2021, and as a Site Reliability Engineer you will work within our software development team to influence the design of our software services and help us define and satisfy the Service Level Objectives as we go to production. 
+ We are a small team which uses agile ways of working to deliver a service which works for all our users and operators. We primarily run our services in Google Cloud Platform and aim to make the best use of features provided by the platform as possible. 
+ As a Site Reliability Engineer at Digital Identity Net, you will: 
+ 
+ Work closely with Senior Software Engineers on the design and delivery of software which meets our scalability, latency and availability goals 
+ Support the organisation as we adopt the SRE methodology e.g., by participating in workshops to define our Service Level Objectives 
+ Develop our observability and monitoring capabilities to provide meaningful actionable feedback to operators of the service 
+ Participate in our out-of-hours support rota (yet to be established) 
+ Automate our processes e.g. to provide robust repeatable software releases and rollbacks 
+ Share your knowledge with the wider team 
+ 
+ We are looking for people who have extensive experience in: 
+ 
+ Working with Google Cloud Platform 
+ Writing documented infrastructure as code using tools such as Terraform, Puppet etc 
+ Producing tested software in the Go programming language, or an interest in learning Go 
+ Knowledge of core web technologies and how they are secured 
+ Familiarity with systems which orchestrate containers e.g. GCP Cloud Run, Kubernetes 
+ Making use of testing and automation to provide Continuous Delivery 
+ Responding to operational incidents (i.e. incident and problem management) including running post mortem reviews 
+ Desirable: experience of threat detection and countermeasures 
+ 
+ At Digital Identity Net we truly value our people and the contribution they bring to our teams. As well as a competitive salary we also offer benefits such as; 
+ 
+ Flexible working 
+ 25 days annual leave + bank holidays 
+ An attractive package of personal & social benefits 
+ An awesome team to work with. 
+ An empowering, inspiring and trusting environment to work in 
+ 
+ Digital Identity Net is an equal opportunities employer and we cherish diversity and inclusion. We are passionate about respecting all individuals irrespective of their gender, background, race, religion, or orientation. 
+ Digital Identity Net is a disability confident employer. 
+ Published at 11 Jan 2021 - Expires on 11 Mar 2021 
+ Proud member of the Disability Confident employer scheme 
+ __About Disability Confident 
+ A Disability Confident employer will generally offer an interview to any applicant that declares they have a disability and meets the minimum criteria for the job as defined by the employer. It is important to note that in certain recruitment situations such as high-volume, seasonal and high-peak times, the employer may wish to limit the overall numbers of interviews offered to both disabled people and non-disabled people. For more details please go to  Disability Confident . 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Digital Identity Net 
+ fulltime  New Business Sales Person  at Digital Identity Net in Norwich 
+ __17-12-2020 
+ fulltime  Service Desk Manager  at Digital Identity Net in Norwich 
+ __11-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

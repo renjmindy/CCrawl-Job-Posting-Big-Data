@@ -1,0 +1,81 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Roboflow (S20) 
+ 🖼️ Build a computer vision model without machine learning expertise. 
+ Growth Analyst 
+ 
+ Location 
+ Distributed, USA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Roboflow 
+ We're on a mission to remove barriers that prevent developers from building their own computer vision applications. Roboflow streamlines the process of labeling, training, and deploying a computer vision model. 
+ Why 
+ Computer vision is going to transform every industry. We’re already seeing this play out in fields like transportation (self driving cars), agriculture (drone spraying), and medicine (early stage cancer detection). But these superpowers shouldn’t be locked up in the handful of giant technology companies that can afford to hire teams of machine learning PhDs. 
+ What 
+ Roboflow enables any developer to use computer vision without being a machine learning expert. Our first product, Roboflow Organize, is the key missing infrastructure that allows developers to get raw images into any model framework -- replacing a sprawling list of one-off utils everyone has to reinvent and enabling our users to have working models in hours, not weeks. 
+ For example, Sarah Hinkley from Barn Owl Drones uses vision to identify weeds from crops in drone images so her customers can use fewer herbicides and grow more. She’s one of our over 20,000 users working on problems we couldn’t even imagine when we got started! 
+ Who 
+ Today, Roboflow has five full-time members: Amanda, Brad, Jacob, Matt, and Joseph. We also have a high school intern, Jim, who recently finished Calc 3 at the local university. Nikki also recently started part-time - she’s researching our new signups and learning more about how we can best solve their problems. Kelo, Amanda’s dog, is the best at frisbee among us. 
+ We’re united in our common goals to create high quality products and place our users first. Since we're a small upstart, that often means building things really quickly and fixing bugs right away. 
+ Various team members enjoy cycling, lake water sports, chess, the outdoors, running, and a smorgasbord of other activities… but we all enjoy learning (especially from one another). 
+ Growth 
+ Roboflow went from zero to over 20,000 users in 2020 and our customers are requesting features and product enhancements faster than we can provide them. 
+ We’re starting to build out our engineering, marketing, and sales teams. As an integral part of our core team, all roles will inevitably involve wearing a lot of hats; we're specifically looking for people excited about learning new things and filling gaps where needed. And most importantly, we're looking for people who ship. 
+ About the role 
+ What we're looking for 
+ Roboflow is looking for a Growth Analyst to work on expanding the number of active users getting value out of our product. It's a role with a lot of responsibilities - you'll be thinking about creating content and building community, as well as how to make the new user experience fantastic and onboarding to value quickly. It's a bit of marketing, analytics, product, and other misc. skills. 
+ What we need from you 
+ You'll be responsible for driving bottoms up usage, interest, and inbound for Roboflow. In particular, we have a bunch of open questions that we need you to answer: 
+ 
+ What content should we produce to engage with the community and drive interest? 
+ What product features should we be promoting and exposing? 
+ How should the self serve experience be as compelling as possible? 
+ How can we build a community of users who engage with each other and make Roboflow an exciting place to be? 
+ 
+ This is not just a strategy role - we need someone to figure out these questions and execute on those answers. On a typical day, you might find yourself thinking strategically about how to add value to community members, as well as spending an hour figuring out a nasty bug on a support forum with a new user. We expect there to be a good deal of writing and communication involved with Growth. We need you to create (and help others create) interesting, valuable content for data science and analytics teams, while telling Roboflow's story to the community in a compelling, authentic way. But this isn't just a marketing role: there's a great deal of product work involved in growing Roboflow through word of mouth and wowing our new users. You'll be working on this experience from end to end. 
+ Who you might be 
+ The Growth Analyst role has an almost wacky cadre of responsibilities, so we're open to anyone who can be impactful - whatever your background is. There are a few specific things we'll be looking for that will help you succeed in this role:- You deeply understand analytics and data science, the problems teams have, and what it means to make life easier for them 
+ 
+ You've been part of a technical community - even if just as a lurker - and you've seen what engaged, active communities look like 
+ You've written content before - ideally for a technical audience - and you don't shy away from doing it (even if it's not easy) 
+ You're comfortable talking to users casually, understanding their problems, and maybe sharing what they're working on with a broader audience 
+ 
+ Technology 
+ Our goal is to build the world's best computer vision infrastructure so our users don't have to. This means we handle a lot of challenging complexities like seamlessly ingesting dozens of data formats, processing millions of images per day, and deploying auto-scaling machine learning infrastructure that can handle our customers' most demanding training and deployment needs. 
+ Our core app sits atop Firebase with assistance from auto-scaling groups of Docker containers (for jobs like archiving datasets and training models). We also heavily lean on serverless infrastructure so we can gracefully deal with bursty traffic involved in manipulating datasets that can range anywhere from one hundred to one million images. 
+ We also maintain  a library of Colab notebooks  our customers can use to train common computer vision models, a  directory of public datasets , and a  web of format specifications . We see building and supporting mini-projects like these that are helpful to the community at large as part of our role in democratizing computer vision. 
+ Other jobs at Roboflow 
+ Marketing Generalist 
+ fulltime 
+ Distributed, USA / Remote 
+ Any (new grads ok) 
+ Full Stack Engineer 
+ fulltime 
+ Distributed, USA / Remote 
+ Full Stack 
+ 3+ years 
+ Growth Analyst 
+ fulltime 
+ Distributed, USA / Remote 
+ Any (new grads ok) 
+ Wildcard 
+ fulltime 
+ Distributed, USA / Remote 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

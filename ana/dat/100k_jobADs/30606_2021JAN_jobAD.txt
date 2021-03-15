@@ -1,0 +1,156 @@
+Skip to content 
+ 
+ Teaching Science 
+ The Teaching of Science and Science of Teaching 
+ Menu and widgets 
+ Search this site 
+ Search for: 
+ Tags 
+ 
+ Alom Shaha 
+ AQA 
+ biology 
+ Blog 
+ blogging 
+ blognews 
+ books 
+ CPD 
+ ed-research 
+ Education 
+ Evernote 
+ evolution 
+ exams 
+ expeRimental 
+ feedback 
+ gcse 
+ Google 
+ gove 
+ Institute of Physics 
+ ISA 
+ organisation 
+ Physics 
+ political 
+ politics 
+ practicals 
+ printable 
+ printables 
+ reflection 
+ ResearchED 
+ resources 
+ revision 
+ science 
+ SciTeachJC 
+ Student 
+ students 
+ Teacher 
+ teaching 
+ teachmeet 
+ twitter 
+ web 
+ 
+ @teachingofsci 
+ 
+ RT @ jonathanhaggart : Eat out to Help Out / Go back to the office or face the sack / Students travelling across the country to study online…  7 hours ago 
+ Cc @ DocWhalley  as we were saying yesterday...   twitter.com/EnvAgencyMids/…   7 hours ago 
+ @ PygmyLoris   https://t.co/pnCclUZ8XU   7 hours ago 
+ @ onegrenouille    en.m.wikipedia.org/wiki/Mars_(cho…   https://t.co/8CyAvLGOve   7 hours ago 
+ @ onegrenouille  But... what about Mars?  18 hours ago 
+ 
+ Teaching Science 
+   RSS - Posts 
+   RSS - Comments 
+ Subscriptions 
+ Enter your email address to subscribe and receive notifications of new posts by email. 
+ Join 223 other followers 
+ Email Address: 
+ Email 
+ Blog Admin 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ The Day Job 
+ I have a full-time job, although ironically I'm not managing to blog nearly as much as when I was a classroom teacher, which was noticeably more than full-time. I'm fielding a lot of queries about physics teaching concerns on Twitter, which is fine, but I thought it might save me a lot of hassle if I put the same links here. Over a third of those teaching physics topics, according to  data reported on p2 of this report from Wellcome , are not physics specialists. This matches the data I've seen through my day job at the Institute of Physics. 
+ But before I say too much, let's start with a disclaimer: what's on my blog and on twitter from me is not official IOP policy or approved content. The IOP doesn't care about the music I listen to, the political views I share, the arguments I have about gun control, mental health support or how to spell sulphur. (Well, maybe that last bit.) When I blog and tweet, I speak for myself. I'll do my best to explain the IOP approach, for example with energy stores and pathways or the best way to support gender balance, but my bosses will only care about what I send from my work email account on work time. They'll defend me on that - or not, as the case may be - but my off-duty self is not their problem. 
+ Teacher support via the IOP 
+ Whether you're new to teaching Physics or have been heading your department for decades, the IOP has supporting material for you via the  For Teachers  page. Among other suggestions, this links to the  TalkPhysics  forum (free to join), which I recommend for queries that include more detail than the average tweet. There are several projects running to support schools, including the  Stimulating Physics Network  and  Future Physics Leaders ; these run alongside the  locally-based Physics Network Co-ordinators . If you want your department to receive a little more support, you can join the  schools and colleges affiliation scheme  which gets you the journal Physics Education among other perks. 
+ Detailed and in-depth discussion of pedagogy is broken down into 5-11, 11-14 and 14-16 topics on the  Supporting Physics Teaching  site. If you're after something specific you may want to drop me a line on Twitter, but the content is evidence-informed and referenced. Great material for when you have a little time to think and plan. 
+ The  Improving Gender Balance  project grew out of the Girls in Physics report. Lots of resources are available and my colleagues are always happy to talk to schools interested in applying these ideas. The last set of data showed that in around half of UK state schools not a single girl carries on to A-level physics; the imbalance in some subjects is even worse. 
+ For hands-on advice the IOP supports the  Practical Physics  site. This grew out of the  Getting Practical  materials and is well worth exploring, with guides to pass on to technicians. You may also find the  Teaching Advanced Physics (TAP)  site useful, not least because some of the concepts are now covered in the GCSE curriculum as well as A-level. 
+ If you're an established physics teacher, the chances are that you do some informal coaching of colleagues even if you don't have an official role. This is what my day job is all about, so please give me a shout so I can  steal your ideas  discuss the sharing of good practice. You may also be interested in Membership and applying to be recognised as a  Chartered Physicist , and I have supporting materials that could help. 
+ Other sources 
+ I may be biased but I think the IOP materials are a good start. There are, of course, other places to look! I've been involved with a couple of these but others I know from using them with students or colleagues. 
+ There are simulations available at  PhET  and the  Physics Classroom . Understandably they take an American approach at times, but they're well worth checking out. Double check suitability before setting for homework, as some will need Java installing or updating so may not play well on mobile devices. Both include pedagogy discussions for teachers as well as simulations for students. 
+ STEM Learning - what I still think of as the eLibrary, and linked to the physical library at York - has loads of great resources, including versions of some of those linked above. Two collections in particular may be of interest, which organise the resources according to a curriculum:  14-16 science resource packages  and  A-level science resource packages . Bizarrely, the topics within each subject are alphabetical rather than logical, but that's pretty much my only criticism. A free sign-in is required. 
+ I do some freelance work with  Hodder Education . The textbooks are obviously worth a look, but I'm not here to advertise. One project you can get  for free  is the  Physics Teacher Guide . This is matched to the student textbook and online (subscription) resources, but may be useful even if you don't have the budget to get for your workplace. 
+ As an ASE member, I get the journal and magazine regularly. You shouldn't need a login to access the  Physics resources , which are an eclectic collection. I highly recommend the free downloads from the  Language of Maths in Science  project. Heads of Department might find membership worthwhile simply to access the  Science Leaders' Hub . 
+ For Students 
+ You may already pass these on to students - or have opinions about why that is a bad idea - but I think  SchoolPhysics  (from the author of the Resourceful Physics Teacher),  HyperPhysics  (concept maps linking physics ideas, probably best for A-level) and  Physics and Maths Tutor  (for past paper) are worth a look. Several of the above links, of course, may also be useful for them too. 
+ A-level students can get  a free e-newsletter, Qubit  from the IOP. Hodder also publish  Physics Review  for A-level students, which is a good way to extend their learning beyond the curriculum. 
+ EDIT: I was prompted about  IsaacPhysics , which of course is a great site and one I recommend to colleagues. Questions are organised by linked topics for the spaced retrieval practice we all know is so important. Thanks to  @MrCochain  for the reminder. They also have  funded places for a residential bootcamp this summer  for students in England between years 12 and 13 who meet one or more criteria eg in first generation going to uni. 
+ Please share any broadly useful resources via the comments; I've deliberately not started listing teacher blogs because I'd be here for ages. Maybe that can be a later post? But I have several others on my list, including materials to support the learning of equations and a review of an old science textbook. There's never enough time… 
+ Rate this: 
+ Share this: 
+ 
+ Email 
+ Print 
+ More 
+ 
+ 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Reddit 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Posted on  April 30, 2018May 1, 2018 Author  IanH Categories  CPD ,  physics ,  teaching ,  web Tags  Institute of Physics ,  links ,  Physics ,  teaching ,  web 
+ 2 thoughts on "The Day Job" 
+ 
+ Adam  says: 
+ 
+ May 1, 2018 at 8:43 am 
+ Seneca! 
+ Reply 
+ 1. **[IanH](https://teachingofscience.wordpress.com)** says:
+ 
+ May 1, 2018 at 9:58 am 
+ Not one I've tried - as I said on Twitter, I'm out of the classroom so only have my 13yo to experiment on - but it looks very interesting. Thanks for the comment, and glad you thought the post was worth sharing. 
+ Reply 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Post navigation 
+ Previous Previous post: Like blogging, but slower 
+ Next Next post: #rEDRugby 1/2 
+ Blog at WordPress.com. 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

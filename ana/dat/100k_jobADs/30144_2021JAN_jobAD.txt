@@ -1,0 +1,395 @@
+Skip navigation 
+ 
+ 
+ Jobs 
+ 
+ 
+ Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cookie Setup 
+ We use the services of Google and Webtrekk for our web analysis and implement cookies for this purpose. We ask you for your consent to do so. Of course, you can also use our website without consent for web analysis. Further information can be found in our data privacy policy. There you can also revoke your consent at any time. 
+ In this overview you can select and deselect individual cookies of a category or entire categories. You will also receive more information about the cookies available. 
+ 
+ 
+ 
+ group 
+ essential 
+ 
+ 
+ 
+ 
+ name 
+ Netzhirsch 
+ 
+ 
+ technical name 
+ _netzhirsch_cookie_opt_in 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Used to determine which cookie was accepted or rejected. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ group 
+ essential 
+ 
+ 
+ name 
+ Contao CSRF Token 
+ 
+ 
+ technical name 
+ csrf_contao_csrf_token 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Serves to protect the website from cross-site request forgery attacks. After closing the browser, the cookie is deleted again. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ group 
+ essential 
+ 
+ 
+ name 
+ Contao HTTPS CSRF Token 
+ 
+ 
+ technical name 
+ csrf_https-contao_csrf_token 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Serves to protect the website from cross-site request forgery attacks. After closing the browser, the cookie is deleted again. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ group 
+ essential 
+ 
+ 
+ name 
+ PHP SESSION ID 
+ 
+ 
+ technical name 
+ PHPSESSID 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 0 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ PHP cookie (programming language), PHP data identifier. Contains only a reference to the current session. There is no information in the user's browser saved and this cookie can only be used by the current website. This cookie is used all used in forms to increase usability. Data entered in forms will be e.g. B. briefly saved when there is an input error by the user and the user receives an error message receives. Otherwise all data would have to be entered again 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ group 
+ Analysis 
+ 
+ 
+ name 
+ Google Analytics 
+ 
+ 
+ technical name 
+ ga-wieland-karriere 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Anonymous evaluation of user behaviour with subsequent improvement of the website. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ 
+ __essential 
+ __Analysis 
+ Save all 
+ Save 
+ info hide  info 
+  Imprint   |    Data Protection  
+   
+ Search 
+ Skip navigation 
+ 
+ 
+ Job Vacancies 
+ 
+ Jobs 
+ Application Process 
+ Application Tips 
+ Contact 
+ 
+ 
+ 
+ Why Wieland? 
+ 
+ Discover Wieland 
+ We unleash potential 
+ International opportunities 
+ Locations in Germany 
+ Enjoy the benefits 
+ 
+ 
+ 
+ Entry Options 
+ 
+ Engineers 
+ Material Scientists 
+ IT Experts 
+ Production Specialists 
+ Commercial Specialists 
+ Students 
+ High School Students 
+ 
+ 
+ 
+ Success Stories 
+ 
+ Overview 
+ Uwe – Production 
+ Noah – Training 
+ Felix – Project Engineering 
+ Franziska – Dual Course of Study 
+ Andy – IT 
+ Anke – Customer Service 
+ Andrea – R&D;, Innovation 
+ Richard – Surface Technician 
+ Rilana – Purchasing & Sales 
+ Fabian – Construction 
+ 
+ 
+ 
+ News 
+ 
+ News & Press 
+ Events 
+ 
+ 
+ 
+ wieland.com 
+ 
+ 
+ EN 
+ 
+ 
+ DE 
+ 
+ 
+ Application tips 
+ How to submit a compelling application 
+ First, the most important tip: Make it easy on yourself and us. Use our online portal for your application. This enables us to quickly process your documents and respond quickly. 
+ Your best approach is to register in our job portal and create an applicant profile. This is not required for an application, but it lets you easily save intermediate drafts of your application while you work on it, in case you are still waiting for some documents or need to scan them in first. 
+ Below you will find a few tips on how to create a more compelling application, cover letter and resume, and how to be convincing during your interview. 
+ Online application 
+ Take your time. 
+Completing the application form takes about 5 minutes. All fields marked with an asterisk (*) are mandatory fields, all others are optional. The more information you provide, the more comprehensive the image of yourself that you are creating for us. 
+ Ask questions. 
+Our contact persons are named in every job advertisement. If you have any questions, please do not hesitate to contact them. 
+ Remember to submit everything. 
+We would like to receive a personalized cover letter from you, a well-structured resume, a certificate for your highest successfully completed level of education and any available employer references. 
+ Ensure correct formatting. 
+The document files you submit should not exceed 20 MB. Pdf files are ideal, but you can also attach word, jpg, gif and png files. 
+ Cover letter 
+ Be thorough. 
+Your cover letter provides a lot of information about your personality, your motivation and your experiences. Ensure correct grammar and avoid making mistakes and using empty phrases. The latter do not add value, they waste space that you could use to describe your strengths, skills and characteristics. 
+ Personalize your letter. 
+Addressing your recipient directly is always better than using the impersonal “Dear Sir/Madam”. The readers of your letter will notice, by the way, if you use the same cover letter for all companies. Standard texts often appear superficial. 
+ Do not repeat the information from your resume. 
+Your prior career is already part of your resume. Instead, describe in your cover letter why you are a good fit for the desired position based on your knowledge and experiences, and what your strengths are. 
+ Be brief. 
+A human resources specialist will initially only briefly look at each application. Your cover letter should therefore not be longer than one (DIN A4) page. 
+ Resume 
+ The resume provides an overview of your qualifications, activities and knowledge, and is therefore the core of your application. To ensure you have a compelling resume, we recommend the following: 
+ 
+ A clear structure 
+ Start with the most recent events/activities when creating chronological lists 
+ List relevant responsibilities and professional successes 
+ 
+ Interview 
+ Be on time. 
+Being far too early is as inadvisable as being late. Call ahead if you get into a traffic jam and will not be able to arrive on time. This can happen, and we understand. 
+ Prepare well for your interview. 
+Do your research on our company and our products. 
+ Stay spontaneous. 
+Despite good preparation, we should not get the impression that you are only repeating responses you have learnt by heart. 
+ Be honest about your skills. 
+Unjustified modesty or overconfidence when describing your skills and expertise is not at all helpful. 
+ Small talk only as intro. 
+Small talk is good as a warm-up. Then the job interview should quickly move on to professional topics. 
+ Mind your body language. 
+A low voice, slouching posture or an evasive gaze are quickly noticed, particularly during critical questions. 
+ Ask questions. 
+A job interview is a dialog. In addition, you probably want to know as much about us as we want to know about you. 
+ Skip navigation 
+ 
+ 
+ Job Vacancies 
+ 
+ Jobs 
+ Application Process 
+ Application Tips 
+ Contact 
+ 
+ 
+ 
+ Why Wieland? 
+ 
+ Discover Wieland 
+ We unleash potential 
+ International opportunities 
+ Locations in Germany 
+ Enjoy the benefits 
+ 
+ 
+ 
+ Entry Options 
+ 
+ Engineers 
+ Material Scientists 
+ IT Experts 
+ Production Specialists 
+ Commercial Specialists 
+ Students 
+ High School Students 
+ 
+ 
+ 
+ Success Stories 
+ 
+ Overview 
+ Uwe – Production 
+ Noah – Training 
+ Felix – Project Engineering 
+ Franziska – Dual Course of Study 
+ Andy – IT 
+ Anke – Customer Service 
+ Andrea – R&D;, Innovation 
+ Richard – Surface Technician 
+ Rilana – Purchasing & Sales 
+ Fabian – Construction 
+ 
+ 
+ 
+ News 
+ 
+ News & Press 
+ Events 
+ 
+ 
+ 
+ wieland.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data protection 
+ 
+ 
+ Imprint 
+ 
+ 
+ Sitemap 
+ 
+ 
+ 
+ 
+ 

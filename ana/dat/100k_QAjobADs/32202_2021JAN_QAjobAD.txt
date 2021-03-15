@@ -1,0 +1,6 @@
+Professional certifications such as Global Information Assurance Certification (GIAC), Certified Information Systems Security Professional (CISSP), Certified Information Security Manager (CISM) or equivalent experience 
+ Preferred: 
+Experience with Agile methods (Scrum) and DevOps practices 
+ TECHNICAL SKILLS REQUIREMENTS 
+ Must have some combination of strong hands on experience with at least 4 or 5 of the following: 
+ Authentication, authorization and encryption solutions 

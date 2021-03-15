@@ -1,0 +1,163 @@
+[ 
+ Workew 
+ Workew is the #1 board to find remote jobs, careers and other remote work opportunities to become digital nomad, work from anywhere and travel the world. 
+ ](https://workew.com/ "Workew") Close Search for: Search 
+ 
+ Remote Jobs 
+ 
+ Marketing 
+ Developer 
+ Operations 
+ Designer & UX 
+ Customer Service 
+ Project Mgmt 
+ Sales & Biz Dev 
+ Writing & Editing 
+ Virtual Assistant 
+ Other WFH Jobs 
+ 
+ 
+ Remote Work Course 
+ My account 
+ 
+ Shopping Cart 
+ 
+ 
+ More
+ 
+ Facebook Group 
+ Telegram Alerts 
+ Pricing & Plans 
+ Remote Health 
+ Contact Us 
+ Blog Posts 
+ 
+ 
+ Post a Job 
+ Post a Resume 
+  __Facebook 
+ 
+ Menu 
+ Customer Success Manager 
+ 
+ 
+ Support 
+ Anywhere in US 🇺🇸 
+ Posted October 26 
+ Applications have closed 
+ Gremlin 
+ 
+ Overview 
+ Employees at Gremlin have the unique chance to be at the forefront of a new IT practice, Chaos Engineering, just as the industry is beginning to adopt it. Our team is growing and you have an opportunity to join us as we transform how companies like Target, Twilio, National Bank of Australia and many more build reliable software. 
+ “Gartner anticipates that 40% of organizations will implement chaos engineering practices as part of DevOps initiatives by 2023, reducing unplanned downtime by 20%.” 
+ Chaos Engineering helps engineers test large computer systems to discover system problems before those problems cause outages. This is a foundational approach for every company that provides mission critical, always online services. Gremlin provides a platform that makes the practice much faster to implement and easier to use for both large and small enterprise customers. 
+ About the Role of the Customer Success Manager 
+ Gremlin is seeking a customer-centric individual to join our team as a Customer Success Manager, supporting our Enterprise customers. In this role, you will foster a positive customer experience and ensure each customer is maximizing the value they get from Gremlin through successful onboarding and adoption of Chaos Engineering as a practice. You will be each customer’s advocate within Gremlin and function as a liaison between our customers and internal Gremlin teams. If you're a fast learner and passionate about helping customers achieve success, you are the person we want on our team! 
+ Responsibilities 
+ 
+ Work with new customers to ensure the successful onboarding and initial setup of Gremlin, minimizing time-to-value. 
+ Lead customers through the entire post-sales journey by leveraging your understanding of the customer’s business goals and how chaos engineering and Gremlin can help achieve them. 
+ Act as an advocate for our customers, and invest in the time to develop and enhance relationships with key stakeholders to earn "trusted advisor" status, naturally growing value, revenue and increasing customer satisfaction. 
+ Document each customer’s success criteria, then communicate and validate with each customer on an ongoing basis that value is being recognized. Consult with customers on best practices to increase value and ROI, ensuring we’re hitting our renewal and expansion targets. 
+ Proactively reach out to customers; drive adoption, identify expansion and add-on opportunities, and have a “good finger on the pulse” for each account. 
+ Work with other internal resources to coordinate/facilitate high level demos, workshops, and training sessions to educate customers on current features based on best practices and provide visibility into current vs. future product features and capabilities. 
+ Through customer interactions, gather critical feedback on our product and relay back to internal Gremlin teams (product, tech support, marketing, sales). 
+ Create opportunities for reference accounts among assigned customers. 
+ Hold quarterly internal account reviews to discuss the status of the product(s), technical challenges or future adoption of additional features. 
+ Monitor customer health and track product adoption through features used and maturity. 
+ Be a primary point of escalation contact for targeted customers. 
+ Assist in attaining customer satisfaction goals by proactively meeting customer needs and addressing customer concerns before they affect customer satisfaction. 
+ Support sales team in maximizing the revenue protected via renewals and any new revenue generated from upsells 
+ Work closely with Account Executive to help close additional sales at assigned customers by identifying opportunities to provide customers with additional value 
+ 
+ Key Skills and Attributes 
+ If you don 't think you meet all of the criteria below but still are interested in the job, please apply. Nobody checks every box—we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. 
+ 
+ 4 years of experience working in a client-facing role at a software company (support, sales, account management, customer success, etc.) with a track record of driving initiatives independently and collaboratively to deliver on customer projects and improve customer satisfaction 
+ Ability to keep accurate, detailed records of activity in a CRM (we use catalyst.io) 
+ Experience working with technical products (developer tools, APIs, agents) and facilitating communication between product, engineering and business teams 
+ Strong communication, listening, presentation, and meeting facilitation skills to interact with all levels of customers, business managers, end users, software developers, and architects (includes senior executives) 
+ Demonstrated ability to identify the right approach to problem solving and making informed decisions to meet customer needs 
+ Ability to multi-task, problem solve, and work cross-functionally in a dynamic and fast-paced environment with 20+ Enterprise customers 
+ Ability to develop deep product knowledge and share best practices with customers to ensure they find product value 
+ High levels of integrity and initiative, energetic and motivated. 
+ Ability to build relationships and trust with customers 
+ Has a growth mindset, is always eager to learn and improve (technical and business skills). 
+ Resourceful, adaptable, goal oriented, and willing to tackle challenges 
+ Ability to influence product development activities 
+ 
+ About Gremlin: 
+ Our founders, Kolton Andrus and Matthew Fornaciari, lived and breathed incidents, on-call, and Chaos Engineering at Amazon and Netflix. As “Call Leaders” they were responsible for guiding teams through analyzing and resolving global outages. After a decade of developing and advocating Chaos Engineering internally, in 2016 they decided to make what they had learned available to a wider set of enterprise companies and launched Gremlin. 
+ Since then, Gremlin has built an incredible team of industry veterans and people eager to learn from one another while pushing the entire industry forward to new heights. We’re backed by top-tier investors Index Ventures, Amplify Partners, and Redpoint Ventures. Our customers love us, and we’re thrilled to be a partner in their success. 
+ At Gremlin we value: 
+ 
+ OUR CUSTOMERS  - We won't be a company if our customers aren't thrilled. We live and die by our customers, so they come first. 
+ ACTION  - We favor small experiments to gather data rather than over analyzing a situation. Getting stuff done always beats talking about getting stuff done. 
+ CONTEXT, NOT CONTROL  - We hire autonomous adults with good judgement. We provide them with the context to make smart decisions. We don't micromanage. 
+ BEING VOCALLY SELF-CRITICAL  - We all make mistakes, we all have ways in which we can improve. We own that up front, and honestly discuss ways in which we've personally made mistakes and can get better. Then, we encourage and help one another succeed at doing so. 
+ DIVERSITY, EQUITY, & INCLUSION  - We are at our best when we encourage and include the thoughts and voices of people from many diverse backgrounds into our strategy and execution. We recognize that systemic racism and gender bias are real and that we aren’t perfect, so we actively work to encourage the difficult conversations, to listen, and to change as we discover our blind spots so that Gremlin is a company all of us feel proud to be a part of. 
+ FRUGALITY  - We are working to build a profitable company and create a new practice in the industry. We spend money on the right things, like making sure employees have the tools they need to be successful and the company has what it needs; we simply choose not to waste what we have and not to buy what we don’t actually need. 
+ 
+ You are welcome at Gremlin for who you are. The more voices and ideas we have represented in our business, the more we will all flourish, contribute, and build a more reliable internet. Gremlin is a place where everyone can grow and is encouraged. However you identify and whatever background you bring with you, please apply if this sounds like a role that would make you excited to come into work every day  .  It’s in our differences that we will find the power to keep building a more reliable internet by building and designing tools used by the best companies in the world. 
+ We can’t wait to meet you! 
+ 
+ Bookmark Job 
+ 
+ Job Page Views:  200 
+ Support 
+ 
+  Website  
+  Twitter  
+  Facebook  
+  LinkedIn  
+ 
+ Full Time 
+ More Jobs 
+ Position closed? 
+ Let us know . 
+ Share this job: 
+ 
+  Click to share on Facebook (Opens in new window) 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on LinkedIn (Opens in new window) 
+ Click to share on WhatsApp (Opens in new window) 
+ 
+ 
+ Join the Remote Slack Community: 
+ 
+ Signup today for free!  🚀 
+ Related Jobs 
+ 
+ 
+ 
+ Paid Media Manager 
+ Vessel  Come to a powerful understanding of your body by putting the power of the lab in the palm of your hand. 
+ Anywhere in US 🇺🇸 
+ * Marketing
+* January 11
+ 
+ 
+ 
+ 
+ Head Of Partnerships 
+ BookNook  BookNook is an ed tech platform reinventing small group literacy learning. We are a social enterprise focused on supporting children in all communities. 
+ Anywhere 🌎 
+ * Sales
+* January 20
+ 
+ 
+ 
+ 
+ Technical Recruiter 
+ HopHR  Data Science & Machine Learning Talent Matching Platform 
+ Anywhere 🌎 
+ * Others
+* December 18
+ 
+ Find Your Dream Job 
+ Recruiters looking for remote talent can find your resume based on keywords, job titles, skills and more. 
+ Post a resume today 
+ WORKEW © 2020 
+ Facebook   Twitter   LinkedIn   Instagram   YouTube 
+ Back to Top 
+ Nomad Insurance by SafetyWing : The best travel medical insurance for freelancers & remote workers Get Insured 

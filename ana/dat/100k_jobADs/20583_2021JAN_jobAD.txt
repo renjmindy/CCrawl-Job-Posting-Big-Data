@@ -1,0 +1,187 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Ai Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ AiWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Software Engineer - Data / Machine Learning 
+ [ 
+ Imperfect Foods 
+ ](/companies/imperfect-foods) 
+ 
+ Remote 
+ 13 October, 2020 
+ Apply 
+ More jobs from Imperfect Foods About Imperfect Foods 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Backend 
+ Data Engineering 
+ Data Warehouse 
+ REST APIs 
+ Relational Databases 
+ event based architectures 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Health insurance 
+ Paid sick days 
+ 401k 
+ 
+ Build capabilities in personalization, recommendation engines, and business optimization. 
+ Role overview 
+ About the role: 
+ Our software engineering team builds the e-commerce platform and internal tooling that makes this all possible. Engineers don’t just build widgets -- we participate in the full lifecycle of a feature, from conception to release. We’re a remote-first team with members throughout the US. This role will report to the Engineering Manager for Data / Machine Learning. 
+ We have heaps of interesting problems to solve around customer experience, logistics, supply chain and scale. We’re looking for an experienced machine learning engineer to help us take the work out of grocery shopping by building our capabilities in personalization, recommendation engines, and business optimization. 
+ If owning the full product engineering lifecycle, sustainability, preventing food waste, and working daily with a bunch of pleasant people excites you, come join us! 
+ Responsibilities: 
+ 
+ Collaborate with other team members to build personalization, recommendation and optimization algorithms 
+ Own the full software development lifecycle, from initial concepts, requirements gathering, development, testing, deployment and maintenance 
+ Actively contribute to team and company standards 
+ Practice disciplined software engineering (e.g. automated testing, code reviews, and writing maintainable code) 
+ Ensure the reliability of systems essential to Imperfect customers and internal users 
+ Keep up-to-date with the latest technology developments related to your domain 
+ For more experienced applicants, ability to mentor other team members 
+ 
+ Skills and Qualifications: 
+ 
+ 2+ years experience building and architecting large-scale, production quality backend systems in applied machine learning or data pipeline/warehousing 
+ Understanding of database schema design, caching and scalability 
+ Expertise with relational databases, such as PostgreSQL 
+ Experience with distributed, service-oriented systems communicating with RESTful API interfaces 
+ Experience with event sourcing, CQRS and asynchronous communication using queues is a plus 
+ 
+ About You: 
+ 
+ You have a pragmatic, customer-centric approach to problem-solving 
+ You have a sincere commitment to crafting maintainable, dependable systems 
+ You have the willingness and ability to contribute to a team culture of quality 
+ You're passionate about our mission to eliminate food waste and create a better food system for all 
+ 
+ Details of Position: 
+ 
+ Full-time exempt position 
+ Candidate can be remotely located within the US 
+ Salary and employee stock options commensurate with experience 
+ Competitive benefits package including health care, paid vacation, 401K, paid parental leave, and recurring credit towards your Imperfect account! 
+ 
+ 
+ [ 
+ Imperfect Foods 
+ ](/companies/imperfect-foods) 
+ 
+ 250+ 
+ 
+ About Imperfect Imperfect Foods was founded in 2015 with a mission to reduce food waste and build a better food system for everyone. We offer imperfect (yet delicious) produce, affordable pantry items, and quality meat and dairy. We deliver them conveniently to our customers’ doorsteps and pride ourselves on offering up to a 30% discount compared to grocery store prices. Our customers can get the healthy, seasonal produce they want alongside the grocery staples they rely on, without having to compromise their budget or values. We’re proving that doing the right thing for the planet doesn’t have to cost more, and that shopping for quality ingredients can support the people and resources that it takes to grow our favorite foods. Our software engineering team builds the e-commerce platform and internal tooling that makes this all possible. Engineers don’t just build widgets -- we participate in the full lifecycle of a feature, from conception to release. We’re a remote-first team with members throughout the US. We have heaps of interesting problems to solve around customer experience, logistics, supply chain and scale. We’re looking for an experienced machine learning engineer to help us take the work out of grocery shopping by building our capabilities in personalization, recommendation engines, and business optimization. 
+ Node.js JavaScript React Food Series C AWS Paid Sick Days 401K 
+ View 1 job 
+ Engineers who find a new job through Ai Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Imperfect Foods About Imperfect Foods 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Backend 
+ Data Engineering 
+ Data Warehouse 
+ REST APIs 
+ Relational Databases 
+ event based architectures 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Health insurance 
+ Paid sick days 
+ 401k 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Ai Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Ai Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Technical Sales / IntrapreneurCompetitiveHealthieUnited States of America 
+ Launch and own business unit for our new product 
+ Remote 
+ rest apis technical writing 
+ More Info Apply 
+ Senior Data Engineer CompetitiveGeminiNew York, NY, US 
+ Help us build the future of money 
+ data engineering kafka python 
+ More Info Apply 
+ Data Engineer$100K - 175KSpotifyNew York, NY, US 
+ Data driven solutions for millions of music fans across the world 
+ data engineering java scala spark 
+ More Info Apply 
+ Software Engineer - Data / Machine Learning 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Data Science jobs Data Engineering jobs Machine learning jobs Artificial Intelligence jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Data Science articles Machine learning articles Artificial Intelligence articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

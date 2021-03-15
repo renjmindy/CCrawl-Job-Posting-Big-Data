@@ -1,0 +1,340 @@
+Skip to content 
+ 
+ Prudential Center Go @ Boston 
+ 
+ Menu 
+ 
+ Home 
+ About 
+ 
+ [Game 2-a] Nobody could have done a better job than Lee Sedol 
+ March 11, 2016March 20, 2016  ~  massgoblog 
+ translated from original article in Chinese:  这两盘棋 ，没人会比李世石做得更好！ 
+ --  Li, Zhe  (6p) 
+ (translated by: Michael Chen 7d, Chun Sun 5d) 
+ [You may need to open in Google Chrome for all the pictures to show] 
+ Preface 
+ 
+ I don 't know how to start this post. 
+ No words can describe what I feel now. 
+ 19 years ago, in my first Go class, I made a two eye group with 10 stones in the middle of board. 
+ 4 years ago, I waved goodbye to my professional life and started college. 
+ I couldn 't have imagined, today, I'm full of tears just because a game record. 
+ Tears of joy. 
+ 
+ I don't know how many people in this world share my feelings now. Maybe there are some, won't be too many. 
+ I don't expect people to understand what I’m trying to say here. 
+ Nevertheless, I need to record what I'm seeing. 
+ Not for commemoration, but for appreciation. 
+ I realized that I could only write down my emotions when I'm emotional. I couldn't write down the source of the emotions, although I thought I knew where they come from. 
+ It would be easy but useless to write a post full of emotions. For the things I saw, these beautiful things, are very difficult to describe with only language. I had to wait, until my emotions fade away. Then I restart with my rationality, and try to reveal the logic behind it. 
+ Will people appreciate its beauty of what I experienced? 
+ I don't know. 
+ But let me try. 
+ In the dead of night, I can finally start. 
+ 
+ March 10 th ,  2016  , AlphaGo versus Lee Sedol, Machine against Human Champion, Game Two. 
+ Professional players are more converged in their views of this game than in the first. Yet there were differences. Maybe these differences will converge with time too. In the heat of the historic moment in the making, facing a feat never before experience, it is inevitable to have many different voices, and mine is just one of these. It’s these different voices that enriches our world. 
+ After typing these words above, I planned to move my mind to the state when the game started then replay my thoughts. I planned to describe my feelings step by step. 
+ Unfortunately, I opened my social media circles… 
+ After an hour of that, I had to change my writings drastically. 
+ FOR THE FIRST TWO GAMES, NOBODY WOULD HAVE DONE A BETTER JOB THAN LEE SEDOL! 
+ Yup, that’s my title. 
+ I know I can’t persuade everyone, and it’s not my normal style to write a title like this. 
+ However, there have been too many questions towards Lee Sedol from everywhere and I have to make my voice heard. 
+ I don’t believe people question Lee Sedol in a malicious way, they just didn’t see what I have seen. People have different ways of reading the world, they treat unknowns differently and there’s nothing to blame. 
+ In the novel  , there’s a “Battle of Blackwater”. The captain of the defender is a dwarf, he tried everything, including going to the battlefield and getting his nose chopped, to stop the attack and saved the city, after the battle, he was decommissioned and put into the jail. Nobody saw what he did. 
+ Lee Sedol today reminded me of this captain. 
+ It’s fine, let me say what I saw. 
+ My only hope is that my reader would defer their judgement until finishing the first chapter. 
+ Before that, you can find some background in  the analysis after the first game. 
+ 
+ The non-existent contract of forbidden ko. 
+ This is the least technical, least valuable part of this post. This is a section I do NOT want to write. Rumors cannot stand, I don’t need to answer all these. However, on one hand, as a professional player, I’m a little bit ashamed of the fact that some fellow professional players stand by the rumor. On the other hand, I hope the discussion can help people better understand the algorithm behind AlphaGo. 
+ The “contract of forbidden ko” started with some observation of “There is no ko fight in all seven games of AlphaGo.” Maybe Deepmind team will answer this officially, maybe in the following games this would be proven false. 
+ But even without these, can’t we find an explanation already? 
+ From weaker to stronger (in Go level), I will give you three answers: 
+ 
+ If you know Go even for a little bit, do you believe Lee Sedol, as a world champion and human representative, will sign such a contract at this historical moment? For those who don’t know Go, do you think the Google team will invent such a contract to alter the game rule itself? 
+ AlphaGo’s algorithm tries to avoid ko if it is already winning. Because ko will increase uncertainty and result in a lower winrate estimate. This is exactly the reason I talked in the previous post for the lack of ko. However, for inevitable ko, AI will fight it through. 
+ Can you take a look at the past game records with Fan Hui? There were kos in Game 3 and Game 5. In game 3, the ko was resolved immediately with exchange. In game 5, the ko lasted 18 moves and ended with exchange too. 
+ 
+ At this moment when Go is a very popular and hot topic, I think professional players have a duty of clarifying the rumor instead of encouraging the spread. 
+ 
+ The key aspect of AlphaGo 
+ A lot of people claimed they found AlphaGo’s mistake, and couldn’t understand why such a weak AI can defeat Lee Sedol, and so on and so forth. 
+ If you still think so after reading my previous post, then it might be my problem of not having explained things clearly enough. Most of underestimation of AlphaGo’s strength comes from the lack of understanding of its algorithm. 
+ Let me emphasize: 
+ AlphaGo’s play is based on “  win rate  ”, not “most points”! 
+ Please remember this when you see a mistake of AlphaGo. 
+ This is the logical foundation of this post. 
+ All “mistake” as we human call it, might not be a mistake for AI. 
+ 
+ What was Lee Sedol doing in the first game? 
+ After the first game, some pro said, “Lee’s mindset is incorrect. He rushes too much. AI’s computing power must be good, and its judgement must be bad. Lee should have played slowly and win by better judgement.” 
+ Correct. Lee Sedol carried out the exact practice in Game 2. 
+ But remember, before game 1, nobody thought Lee Sedol’s “computing power” will be worse than a computer. 
+ In my previous post, when I discuss AlphaGo’s algorithm, I mentioned that AI might be weaker facing to “open and complex board position”, because DCNN + MCTS may be less effective with the current pruning and search strategy when the position is too open and too complex. 
+ So in the first game, Lee Sedol tried an unconventional opening, then he led the game into a fully open and complex position immediately, with six or seven groups entangled. 
+ The result? Failure for his first strategy, at least utill the middle game. All professionals thought Lee was behind at this point. 
+ If I were to play in Lee’s position, I’ll also use this strategy in the first game too. However, I would only consider trying one strategy at a time in one game, I have room for 5 games. 
+ Instead, Lee Sedol stopped in the middle game, move 77 and 79 change the battle mode into territorial mode, and led the game into a close game. 
+ He tried two strategies in one game! 
+ You may ask then, if Lee Sedol was behind, how could he still take the lead after he changed to a close game? Isn’t this some proof that the AI has made some mistakes? 
+ Yesterday, I couldn’t answer this clearly, but today I can answer for sure: 
+ It was all human illusion that Lee Sedol was leading at a moment. The illusion came from human experience. From beginning to end, AlphaGo has always been leading! 
+ This judgement was confirmed by Deepmind engineers later on based on realtime winrate analysis. 
+ In my last post, I mentioned that AlphaGo’s evaluation on the game was based on some moves Lee Sedol didn’t see (move 102). We thought the slow move (move 80), and bad move (move 86) might not be the optimal, but they were closest moves to victory according to AI. Professional players thought Lee had turned the table back or was already winning big after lower-left. This was based on the following: 
+ 
+ “White lost points on lower-left”. 
+ Lee was unprepared against 102. 
+ Human arrogance. 
+ 
+ However, 
+ 
+ Was a judgement based on a human heuristic, not reliance on winrate. 
+ AlphaGo already predicted move 102. 
+ Human’s judgement can be easily dictated by emotions. 
+ 
+ After move 102, Lee couldn’t find a way out, and lost many points locally even after thinking for a long time. However, the loss had already been anticipated. To Alphago, it was only one branch in its expansive tree. 
+ Someone thought black could survive if only he played better on lower right. Yes, black could get closer, but might not be enough for the win. Of course, against me, black could. But not against AlphaGo, I reached this conclusion based on my understanding of AlphaGo’s algorithm and its core logic. Based on these two games, AlphaGo didn’t show any obvious problems against human (about “mistake”, please refer to the previous post), so I have to fully trust it. My belief would only be shaken when AlphaGo loses because of its problems, then we need to find what the problems it really has, and how can we take advantage of that. 
+ What’s interesting (or disturbing) is: The move 102, a move so spectacular and scintillating to human being, with so many calculations involved, many judgement and planning, is only one of the 93 normal moves to the computer. 
+ So what did Lee Sedol’s second strategy tell us? 
+ It told us a lot. For move 80 and 86 from the first game, we judge them to be bad moves from experience, but can’t prove the judgement completely. Nevertheless, for move 136 and 142, we can prove for sure that they are worse than an alternative. This led us to conclude weakness here, “lack of reasoning” (see my previous post). If I may add another statement: “lack of ability to do local and closed search.” (Well, It’s an open question if this is a real weakness.) 
+ Because of the lack of reasoning, sometimes, AI will make wrong moves that are obvious to human. 
+ Yet, these wrong moves are only its choice to keep and increase the winning rate. Sure, we can point out local mistakes it makes based on reasoning, like useless use of sente exchange, or loss of points for nothing. In my summary of the first game, I thought these will be the weakness of computer (not mistake), i.e. “lack of reasoning” will result in local point of loss, this is one of the only weak links that human can use against the computer. AI will retreat when it believes it’s in leading position, if AI does the same in an even game, shouldn’t we have a good chance? So I proposed that: 
+ My most recommended strategy is, Lee starts with a well studied opening from human players, because AI does not memorize. Even without gaining advantage with this, at least Lee can keep the game balanced. Under this situation, maybe AI would make some local mistakes due to the lack of reasoning, so human may be able to keep a small profit all the way to the end, and finally win by marginal points. However I don’t think this fits Lee Sedol’s style. 
+ This is the best strategy I proposed after game one. 
+ What was Lee Sedol doing in the second game? 
+ If you were to play the match, after you lost the first game, what would you do in the second game? 
+ My opinion: After the first game, I would realize that this AI is stronger than my predictions before the game. It succeeded in some place where I thought it would fail. Well, I saw its weakness too. I will start my strategy targeting its possible weakness and I will execute this strategy strictly. 
+ This is because I can’t find too many strategies targeting AI’s weakness. In the first game, I used two strategies and failed, I have to focus on one of these, I still have 3 games left. This is a decision I would have made after game 1. 
+ Someone may argue that I’m not Lee Sedol, how can I make prediction, did he call you? 
+ Of course I couldn’t prove. I’m just using the information on the board plus my knowledge of their algorithms to do some prediction. It’s possible that Lee hasn’t made any strategic planning. If so, he is a true genius --- He subconsciously came up with plans that others need knowledge and reasoning to reach at. 
+ We have to use the game itself to see what’s happening here. 
+ I think, for this game, normal commentary will be meaningless. 
+ Look at move 13, tiger mouth in the lower-right, followed by Chinese style in the top. This is again “openings that never showed up in professional games”. After seeing this move, Lee Sedol stood up and walked outside for a smoke. 
+ Let me take his seat while he goes out for smoking: 
+ In this game, I decided to execute one strategy, this strategy is to attack AI’s weakness. Put it in a simple way: “common opening, keep balance, close game, wait for mistakes”. (I’ve explained reasons already) 
+ So I chose the most common opening, white’s opening has been popular with hundreds if not thousands of games. After my game yesterday, I realized that AI don’t memorize, so the collective human wisdom of experience maybe powerful enough. So I want to lead the game into a well-known routine. 
+ A little bit excited after I play move 12: I’ve seen this game so many times, white can’t be behind. 
+ Then I see black plays 13. 
+ WTF? 
+ Not finishing a joseki? 
+ You can tenuki here? 
+ You bastard, did you already know what I’m thinking? Are you playing mind tricks on me? 
+ When did you pass the Turing test? 
+ Let me think now. I have to punish you if you tenuki a joseki. How about pincer? 
+ I pincer at 1, you extend at 2, I attack at 3, you can still tenuki at 4. This is out of control. Nobody has played this. 
+ Is this good? How can I attack the lower group? Is it enough to balance the black moyo on the top? 
+ (omitting dozens of variations playing out in my head) 
+ I can’t judge, I have no confidence. 
+ What now? What about my strategy? Still working? 
+ Oh Yes! Let me pretend that black and white didn’t exchange the tiger-mouth move. Then I can still follow the routine, what are you going to do now AI? Huh? 
+ How smart I am. Are you as smart AlphaGo? 
+ I finished the smoke, come back, and put down move 14. 
+ This is one of the most common opening without the exchange of tiger-mouth and one space jump in the lower right. You can find hundreds of existing professional games playing that. And at this time, if black tiger-mouth, white would do the same one space jump. 
+ End of my story here. I’m not saying this is exactly Lee Sedol’s thinking process. I’m just saying, if I were him, I would experience these. 
+ I want to save the unparalleled beauty in Go techniques to part b of this post. We will see a more beautiful world, but I have to omit the details here. 
+ Now I want to come back to answer everyone who still think move white’s move 84, 146, 172 should have opened ko. 
+ 
+ For those who thought Lee didn’t open ko because of a secret contract: 
+ 
+ Hello, good bye. 
+ 
+ For those who thought Lee chickened out: 
+ 
+ If you still think so after read all the analysis above, please answer me: do you think you can win with ko? 
+ 
+ Of course, you can argue that 84 should have attached at (3,5) followed by tiger-mouth upward, this would be better than the actual game; 146 should have clamped to have a chance to win; 172 should have pushed as all the observers said so… There’s one sentence I can say to you: Do you think what you think is what you think? (why do I need to translate this, WTF) 
+ 
+ For AI, what is momentum? What is braveness? What is the killer instinct? 
+ AI only cares about: the  win rate . 
+ If you argue that you are looking at winning rate too, then please tell me, why would all these ko improve the actual game? How will that make you win? Give me some evidence. Don’t just play out a few moves then say “It’s complicated, I can’t read this out, but white should win.” 
+ As I see it, Lee Sedol had a complete and perfect implementation of his strategy in the second game. 
+ The sad thing is that he still didn’t win. He planned to gain balance or even lead a bit from a common opening, then wait for AI’s miss in the second half. However, in the closer game, AI’s “miss” is even smaller and subtler than the first game, and harder to detect (like move 15, move 117 wasting sente). 
+ This is scary. It tells us that under a close game, AI makes less mistakes, or even no mistakes (not discernable by human). The more lead AlphaGo has, the more possible “mistakes” it will make. Judgement based on these “mistakes”, will only result lead us to misunderstand AI. 
+ Let me quote the conclusion of my last post one more time: 
+ " If we keep using the narrow and constrictive part of established human understanding to evaluate AlphaGo, we will never even figure out how we lost." 
+ Up to this point, maybe you have some understanding to AlphaGo now. So does AlphaGo get stronger when it plays stronger players? 
+ Indeed! 
+ It has only one goal, to win. Not to maximize points. 
+ If the opponent is weak, it has more choice to win. 
+ If the opponent is strong, it has less choice to win. 
+ For the latter, it means more precise, and less “mistakes” from human’s perspective. 
+ So where is the limit of AlphaGo? I don’t know. 
+ I think within no time, AlphaGo can give one handicap (take white without komi) to any human player. 
+ I hoped and still hope that Lee Sedol can win. The more time Lee buys for our Go community, the more study and reflection we can do. 
+ But I have to be rational, I know AI has already passed us by. 
+ Let me use this quote: 
+ "Artificial intelligence is like a train, you hear it rumbling when it gets closer, you anticipate its arrival. It arrives, flashes by, leaves you far behind." 
+ Go AI is the best footnote for that quote. 
+ Whoever thinks AlphaGo is only stronger in the second half of the game after seeing game two should understand the following: 
+ It is Lee Sedol’s incredible strength to push out AlphaGo’s strong second half. 
+ Why AI has more mistakes in the first game? Because AI was already winning by then. 
+ In the press conference after the second game, Demis Hassabis said the program reported at a moment that the winrate was very close, and Lee Sedol said he had never felt ahead. 
+ If Lee had an illusion about a temporary lead in the first game, he managed to eliminate these illusions in the second game. Even after the lower-left corner, which most professional players thought Lee Sedol gained, Lee didn’t think he had any advantage. It is this very correct (conservative) attitude together with the well-practiced routine opening, that made AlphaGo think that the game was close (still curious why AlphaGo has never thought it was behind). This triggered AlphaGo to play a very strong second half. It extended its lead to more than 10 points before komi just by playing endgame to a world champion. 
+ Can professional players admit how magnificent this is? Human have always used existing systems of ideas to try to explain the unknown. But the new era has indeed come. 
+ Lee Sedol, a true hero to face AI 
+ I hope at least someone who can understand what really happened between Lee Sedol and AlphaGo. 
+ I have a few words to say to these people. 
+ Historically, in the world of Go, where do we stand? Three feet from the sky limit? Or still on the ground? 
+ If we see the exhaustive search of all possibilities as “sky”, learning just the rules as “ground”, where are we as of today? 
+ Fujisawa Hideyuki sensei once said, “I only know 5% of Go.” I believe most of the players, including me, thought this was a modest expression. It was meant to show some respect to this game. 
+ Is this really a modest expression? 
+ If we can’t know for sure, we can do some comparisons. There are other professional board games, with much smaller variation and much less unknowns. Is it more likely that top human players of those games are standing in a much higher level than us Go players do? 
+ For these players, they already accepted that AI is in a higher level than human. 
+ Of course, for quite some time, Go is the only game not defeated by AI. Go players looked at their colleagues who get their training from machines, and claim “This day will never come for Go!”. It looks like that they are defending something significant. 
+ I don’t have to pop the rosy balloon. The fact is here, accept it or not. 
+ When Deepblue challenged chess, human defended for quite some time. Today in the area of chess and Chinese chess, although it’s impossible to win a computer, at least we can make a contest out of drawing. On one hand, AI might not be too much more advanced than human in these games, on the other hand, they have a buffer zone for draw games. 
+ What about Go? Go is difficult for AI. However, as soon as AI conquers Go, how far it will pass human? How close to the “sky”? How far do we stand from the sky? No one can answer any of these. 
+ Without Go AI, we will never know where we are between the sky and ground of the world of Go. 
+ Go AI is our only reference point. 
+ Although, before the game gets exhausted, we still don’t know where we stand, but, 
+ We are not alone. 
+ I’m not sure how the future history books will comment Lee Sedol’s defense of human intelligence as a world champion against the newborn AI. 
+ My only intention is, at this moment, where Lee Sedol’s professionalism is being questioned, I want to share what I see to everyone. Judge for yourself. 
+ “Matched against AlphaGo, human champion Lee Sedol didn’t have even the slightest contempt, he prepared well. He got rid of the arrogance and bias that any other would have, he tried to understand the mechanism of AlphaGo, and to find its weaknesses. From the beginning, he attacked directly into AlphaGo’s possible weaknesses, and he adjusted quickly after failure. He soon started his second, and third well targeted attacks. It is because of his strategy, humans saw AlphaGo’s strength, style, and decision making that is very enlightening. In the second game, he already found a strategy to get close or even surpass AlphaGo in the middle game, thus, for the very first time, we were able to see the spectacular and dreamy second half strength of AlphaGo. 
+ I don’t think anyone else in the world can do a better job than Lee Sedol.” 
+ It’s dawn already, but the story doesn’t end now. 
+ What can we do in the remaining 3 games? 
+ After the second game, my best strategy from the previous post has failed. Although this strategy used human experience at the maximum scale to reach a balanced position in the middle game, we probably cannot defeat AlphaGo’s second half given a limited time setting. Someone thought Lee Sedol didn’t fight well, and if he plays he could do without any mistakes. I think they underestimated human weaknesses as well as AlphaGo’s strength. 
+ The second best strategy I gave out yesterday was about ko: 
+ " Another strategy is to create as many ko as possible in the game, i.e. Create situations where the opponent has to fight a ko. Of course, it doesn’t mean that AlphaGo lacks the ability to handle ko. It’s not known yet. So this is a risky move. We have to naturally maintain balance of the board situation without deliberately creating ko." 
+ But after watching the second game, I think this strategy won’t work either. AlphaGo’s algorithm would only make it to engage in complex ko situations that can change the game result. It won’t engage in any ko if the winrate doesn’t change. 
+ That being said, I think Lee Sedol should still try. I saw two weaknesses of AlphaGo in the first game, and all were proven not exploitable. AlphaGo can still win against Lee Sedol completely without engaging in any ko, this is something we have to work on. 
+ Lee Sedol said in the press conference that he didn’t find any weakness of AlphaGo. I think he is honest, and indeed he had tried hard. 
+ Although I really wish Lee Sedol could win this game to buy some time for Go community, but honestly, I don’t think he has any chance in the last three games. 
+ Would it help to open in the middle of the board? I don’t think so, but maybe interesting. 
+ If we don’t dig for bugs, what’s left is only one thing, learn from AI. 
+ How do we learn Go from AlphaGo? 
+ This is not a small topic. Go players will discuss this many times. I want to give a not-so-accurate opening here. 
+ First, it’s easy and it’s not easy to learn. 
+ Why not easy? Because all the moves from Alphago is from global consideration and based on winrate. We would fail if we only mimic. 
+ Trap 1: Some moves by AlphaGo are not optimal, or are clearly worse than human choice. Like the two “mistakes” in the first game. If we really want to study local plays, maybe we can look at its selfplay, or handicap games with human. Anyway, we want to increase strength to give it less choice but only the best moves. 
+ Trap 2: AlphaGo’s moves are based on global configuration, the slightest difference will make a move not suitable to a new global situation. For example, the lower-left playout in the second game, everyone knows it’s losing locally. However, AlphaGo made that choice based on upper side and right side (I have to explain this in part b). Studying this has great benefit for opening players’ vision, but not by replicate the same moves. Even for move 37, the move that came from outer-space, is something only suitable for that particular game. If you shoulder any high two-space extension, the result would be unsuccessful. 
+ And why it’s easy to learn from AlphaGo? Because AlphaGo’s level is beyond human. Every move it plays needs to be carefully thought through by professional players. For only two games, we have seen so many shiny moves and unknown secrets. This is something we never got to see. 
+ It’s different mechanism for Alphago moves, but we can use a human way to understand it, how wonderful it is. For a same move, AlphaGo gives out by the numerical computations, and human accept it by all the reasoning and experience. This kind of dialog perfectly reflects the symmetry of the calculating side and the Zen side of Go. 
+ I miss Go-Seigen sensei now. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Post navigation 
+ < Previous [Game 1] Lee Sedol's Strategy and AlphaGo's weakness 
+ Next > Before Game 5 
+ 6 thoughts on "[Game 2-a] Nobody could have done a better job than Lee Sedol" 
+ 
+ Raymond wan  says: 
+ 
+ March 12, 2016 at 6:40 am 
+ This is the best commentary I have seen so far. Thank you. 
+ Like Like 
+ Reply 
+ 
+ djhbrown  says: 
+ 
+ March 13, 2016 at 7:35 pm 
+ what a marvellous narrative! 
+ Like Like 
+ Reply 
+ 
+ Andy Olsen  says: 
+ 
+ March 14, 2016 at 11:25 am 
+ Thanks for all your work translating these, I hope you can translate some more as well! 
+ Like Like 
+ Reply 
+ 
+ Joshua  says: 
+ 
+ March 16, 2016 at 9:01 am 
+ Thank you for posting these translations and the original author for these thoughts. 
+ Before the AlphaGo vs Lee Sedol match, I was aware of the game, but had never really spent much time on it or found it that interesting. Thanks to the match, the commentary by Michael Redmond, and these posts, I've been able to glimpse some of the beautiful subtlety of the game and have been inspired to approach it seriously and have now got my young children learning it. 
+ Like Like 
+ Reply 
+ 
+ David Ongaro  says: 
+ 
+ March 23, 2016 at 1:15 am 
+ Thank you so much for this translation! May we also get part 2-b? 
+ Like Like 
+ Reply 
+ 
+ BEAR Z. BEAR  says: 
+ 
+ March 30, 2016 at 10:47 am 
+ Wonderful insights, and well balanced thinking. 
+Thanks to the author for sharing his thinking with us!! 
+ His comments on game 3 would be most intriguing, especially move 31! 
+ Like Like 
+ Reply 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Search for: 
+ Recent Posts 
+ 
+ Edward Zhang / Alice Zhang scandal 
+ Boston Spring Open 2016 - Rules & Standings Explained 
+ Boston Spring Open 2016 
+ Who is Li, Zhe? 
+ Before Game 5 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ BEAR Z. BEAR on  [Game 2-a] Nobody could have d… 
+ 
+ 
+ 
+ 
+ 
+ 
+ Go and the Daily Sho…  on  [Game 1] Lee Sedol's Str… 
+ 
+ 
+ 
+ massgoblog  on  Before Game 5 
+ 
+ 
+ Uberdude on  Before Game 5 
+ 
+ 
+ 
+ peko on  Before Game 5 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ August 2016 
+ March 2016 
+ 
+ Categories 
+ 
+ Uncategorized 
+ 
+ Create a free website or blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

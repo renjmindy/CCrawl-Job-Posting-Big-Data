@@ -1,0 +1,95 @@
+WORK WITH INDIES beta 
+ Browse Jobs 
+ Art & Animation 
+ Audio 
+ Business & Operations 
+ Design 
+ Marketing & Community 
+ Production 
+ Programming 
+ QA & CS 
+ Writing 
+ Post a Job 
+ Back to all jobs See allQA & CSjobs 
+ QA Manager 
+ Epic Games Publishing Apply for this Job 
+ Posted 
+ December 13, 2020 
+ Full Time 
+ CA, WA, or NC 
+ Remote 
+ What makes us Epic? 
+ At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we’re always innovating. 
+ Being Epic means being a part of a team that continually strives to do right by our community and users. We’re constantly innovating to raise the bar of engine and game development.  ‍ 
+ ‍ 
+ What you’ll do 
+ We’re looking for a QA Manager to own our publishing QA process. The person in this role will own the testing strategy, test plans, vendor management, and partner relationships between multiple studios of developers and QA testing groups with the goal of overseeing the testing process of any future games Epic intends to publish. They will develop and monitor metrics per development team, create quality strategies per product, and dig into complex features to provide hands-on test planning support. This position requires being a leader in QA, as a manager, craft expert, and IC who isn’t afraid to dig into the details of problems and finding innovative solutions at scale. If you are comfortable in a fast paced environment and have the desire to lead a strong test-focused team, then we would like to talk to you. 
+ In this role, you will 
+ 
+ Work with external partners in or to plan out product level testing strategies for multiple titles in later stages of development 
+ Work with external testing groups to build up testing teams and monitor their execution of test coverage 
+ Build positive working relationships with leadership across multiple studios 
+ Develop pass/fail criteria for different stages of development and provide highly detailed reporting and feedback on testing progress on a regular basis 
+ Work collaboratively with partners to develop detailed test plans for complex features and train external teams on how to test features effectively. 
+ 
+ What we’re looking for 
+ 
+ Bachelor’s degree and 7+ years of Quality Assurance experience 
+ Minimum of 3 years experience working with QA vendors 
+ Capability to lead a QA team both as a people manager and tactical driver of success 
+ Formal QA certification, such as ISTQB or equivalent experience 
+ Experience in games development 
+ Experience building and leading large teams of testers and creating test plans for large scale projects. 
+ A deep understanding of defect reporting, version control, and configuration management best practices, along with different testing phase best practices and objectives (functional, system integration, UAT, performance) 
+ Experience working with Unreal Engine 4 or other Game Engines 
+ 
+ ‍ 
+ Epic Games deeply values diverse teams and an inclusive work culture, and we are proud to be an Equal Opportunity employer. Learn more about our Equal Employment Opportunity (EEO) Policy  here . 
+ ‍ 
+ About Us 
+ 
+ Founded in 1991, Epic Games is a leading interactive entertainment company and provider of 3D engine technology. Epic operates Fortnite, one of the world’s largest games with over 350 million accounts and 2.5 billion friend connections. Epic also develops Unreal Engine, which powers the world’s leading games and is also adopted across industries such as film and television, architecture, automotive, manufacturing, and simulation. 
+ Through Unreal Engine, Epic Games Store, and Epic Online Services, Epic provides an end-to-end digital ecosystem for developers and creators to build, distribute, and operate games and other content. Epic has over 40 offices worldwide with headquarters in Cary, North Carolina. 
+ 
+ Apply for this Job 
+ related jobs 
+ Polyarc is hiring a Principal QA Analystto join their team into work fromSeattle, WAPrincipal QA AnalystPolyarc | Seattle, WALearn More 
+ Epic Games Publishing is hiring a QA Managerto join their team into work fromCA, WA, or NCQA ManagerEpic Games Publishing | CA, WA, or NCLearn More 
+ Glowmade is hiring a Senior QA Technicianto join their team into work fromUnited KingdomSenior QA TechnicianGlowmade | United KingdomLearn More 
+ Massive Miniteam is hiring a QA Testerto join their team into work fromCologne, DEQA TesterMassive Miniteam | Cologne, DELearn More 
+ Annapurna Interactive is hiring a Release Managerto join their team into work fromLos AngelesRelease ManagerAnnapurna Interactive | Los AngelesLearn More 
+ Monomi Park is hiring a QA Leadto join their team into work fromSan Mateo, CA.QA LeadMonomi Park | San Mateo, CA.Learn More 
+ Indie games are wonderful. So are the people that make them. 
+ Make wonderful games. Be wonderful people. Work With Indies. 
+ Thank you for joining the Work With Indies newsletter! The next issue will arrive on Sunday. 
+ Oops! Something went wrong. Please try again. 
+ *Sign up to receive a weekly digest of new indie career opportunities. 
+ WORK WITH INDIES 
+ We’ve been lucky to have some incredible jobs working at and partnering with some of the biggest brands in video games. 
+ But we’ve never had more fun and been more fulfilled than when we were working with indie game developers. 
+ Everyone in games should have that much fun. 
+ Our hope is that Work With Indies will connect job seekers with the most rewarding, most inspirational, and most fun jobs they've ever had. 
+ NAVIGATION 
+ 
+ Post a Job 
+ Terms 
+ Privacy 
+ RSS 
+ Communities 
+ Nick's Cat 
+ 
+ CONTACT US 
+ 
+ 
+ nathan@workwithindies.com 
+ twitter.com/workwithindies 
+ facebook.com/workwithindies 
+ 
+ ^ 
+ Made by 
+ @natethenate 
+ and 
+ @nsuttner 
+ for people who 
+ indie games. 
+ © 2021  A Lot of Happy LLC 

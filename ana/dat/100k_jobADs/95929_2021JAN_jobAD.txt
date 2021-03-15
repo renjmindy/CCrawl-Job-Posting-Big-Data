@@ -1,0 +1,342 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Unity 3D 
+ 
+ Unity 3D Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Unity 3D Developer ? 
+ ](https://www.workana.com/hire/unity-3d) 
+ Last year 
+ Augmented Reality Zoo App 
+ Published: Last year  Bids: 12 
+ AR Zoo is to allow user to scan QR Code or non QR Code to view the animal. The system should be able to display the animal, descirption of the animal, reading name of the animal in English, T/S Chinese etc. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone, Other, iPad 
+ I need to  : Create an app 
+ App type  : Game 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  B. Hong Kong 
+ USD 250 - 500 
+ Last year 
+ Unity 3d 
+ Published: Last year  Bids: 12 
+ We need a touch screen interface for live printing event.  In the interface we need to show a 3-d object like T-Shirt, Phone case, a coffee mug etc.  Client can choose the print, position, rotation, resize, mock up on the object. 
+The Object need to be rotated to preview.  Here below is a sample of end product how its look like. 
+ We need a technical adviser for this project and UNITY 3D modelling programmer is also welcome. 
+ Reference: 
+ https://youtu.be/rWhC-hBzywU 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Required platforms  : Windows 
+ Published by:  R. C. Last reply: Last year  Hong Kong Payment method:  __Verified 
+ USD 1,000 - 3,000 
+ 2 years ago 
+ 2d game project in Unity or Flash 
+ Published: 2 years ago  Bids: 1 
+ A 2d game needs to be made in unity or flash. Its gonna be a very simple kids game. There will be a player(1st character) who will run to collect coins . 
+Once he collects enough coins he will pay to a master(second character) to release a salve(3rd character). It will be a two level game. And some simple obstacles which kids can pass easily. 
+ The game theme will be nearly like temple run but with a very basic version. 
+ Category  : Design & Multimedia 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  Z. R. Malaysia 
+ Less than USD 50 
+ 2 years ago 
+ Mobile App 
+ Published: 2 years ago  Bids: 13 
+ Social Media Platform 
+Functions 
+- Video Functions like tiktok 
+- Image editing like Instagram 
+- Live Stream twitch 
+- Messaging Function 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone, iPad, Other 
+ I need to  : Create an app 
+ App type  : Social media 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  X. N. United States 
+ Over USD 3,000 
+ 2 years ago 
+ Unity developer needed for Ios and Android mobile game optimization... 
+ Published: 2 years ago  Deadline: 2 Bids: 12 
+ • Fix known issues in our VR game (4 versions: paid and ad-supported, iOS and Android). 
+• Complete Facebook sdk integration with game to allow for fb advertising analytics. The fb sdk for unity has already 
+been partially implemented; were require a freelancer to assist us in actually making it work. 
+• We also need texture and mesh optimization in order to reduce draw calls to increase frame rates in Android versions. 
+• Successful applicant will have two or more years experience 
+• Please reply with CV and hourly rate for details 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Experience in this type of projects  : Yes (I have managed this kind of project before) 
+ API Integrations  : Social media (Facebook, Twitter, etc.) 
+ Required platforms  : Android, iPhone 
+ Published by:  J. M. Last reply: 2 years ago  Canada Payment method:  __Verified 
+ USD 250 - 500 
+ 2 years ago 
+ Universional - Vr Unity Development 
+ Published: 2 years ago  Bids: 0 
+ Universional is an educational VR App and Web platform to deliver Virtual Classes using the Virtual Reality headsets Technology. 
+ Promoting to students an amazing virtual experience on space and at the same time get real knowledge and fun! Students will enroll in courses of their interests and can be paid or free. 
+ The platform also empower professionals (master or teachers) to share their knowledge through courses, seminars etc to reach the VR community and get the most of the technology. 
+ Professionals will book a class according their needs. A fee will be charged to book a virtual classroom, plus a percentage over all students enrolled in that classroom. 
+ Our environment is the space, our spaceships will contain a variety of classrooms to accommodate all kind of public, from personal classes to global seminars. 
+ Opportunities for: 
+ 3D Artisan (experience in games dev.); 
+C# Unity Developer; 
+ *Note: In case your profile is empty please send your portfolio and/or CV attached. 
+ Category  : Design & Multimedia 
+ Subcategory  : Other 
+ Project size  : Large 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  U. Ireland 
+ USD 100 - 250 
+ 3 years ago 
+ Fidelia 
+ Published: 3 years ago  Bids: 7 
+ fidelia 
+sistemas de lealtad unificados basados en la ventaja del trabajo colaborativo de sus miembros 
+Marketing de lealtad 
+Programas de lealtad 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Full time 
+ Experience in this type of projects  : Yes (I have managed this kind of project before) 
+ Roles needed  : Developer 
+ Published by:  C. F. United States 
+ USD 100 - 250 
+ Previous 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

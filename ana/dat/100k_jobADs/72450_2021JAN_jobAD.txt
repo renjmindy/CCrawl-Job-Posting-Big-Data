@@ -1,0 +1,350 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ IOS Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance iOS Developer ? 
+ ](https://www.workana.com/en/hire/ios) 
+ 7 hours ago 
+ Need a first person shooting game 
+ Published: 7 hours ago  Bids: 0 
+ Need a first person shooting game Game example: 
+Call of Duty, Counter strike and etc. For android and IOS. Most experienced developer needed. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone, iPad 
+ I need to  : Create an app 
+ App type  : Game 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  W. B. United States 
+ USD 500 - 1,000 
+ 1 hour ago 
+ 1-Click Laundry Shop 
+ Published: 1 hour ago  Bids: 0 
+ Will need an app that allows a customer to buy digital product that they will present to one of our staff to avail the bought service. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : e-Shop 
+ Similar apps  : Other 
+ Back-end is required  : No 
+ Payment gateway  : Yes 
+ Published by:  1. L. S. Last reply: 1 hour ago  Philippines 
+ Less than USD 50 
+ 13 hours ago 
+ Simple Alarm in React Native 
+ Published: 13 hours ago  Deadline: 15 Bids: 1 
+ I need help with a simple alarm made in React Native. Features are just literally like an alarm with no advanced things on it. Let's talk about it. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Utility - Utility application (flash, calculator, etc.) 
+ Similar apps  : Other 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  D. F. Philippines 
+ Less than USD 50 
+ 3 days ago 
+ Full Stack Developer 
+ Published: 3 days ago  Project duration: 1 - 2 months Bids: 12 
+ We’re looking for a Full Stack developer who will take a key role on our team. Our Full Stack developer must have knowledge in all stages of software development. 
+ You’ll be working alongside other engineers and developers, collaborating on the various layers of the infrastructure for our App/Web. 
+ Responsibilities: 
+ - Develop visually appealing front end App/website architecture, including translating designer mock-ups and wireframes into front-end code 
+- Develop functional databases, applications, and servers to support websites on the back end 
+- Ensure cross-platform optimization for mobile 
+- Develop and design RESTful services and APIs 
+- Strategize organizational direction on emerging technology platforms and communicate the effectiveness to executive stakeholders 
+- Ensure that non-functional requirements such as security, performance, maintainability, scalability, usability, and reliability are being considered when architecting solutions. 
+ Skills: 
+ - Fluent with Flutter 
+- Fluent in CSS (Foundation or Bootstrap), JavaScript, and HTML 
+- Strong knowledge of Linux, PHP, and MySQL, with working understanding of MongoDB, PostgreSQL, AngularJS,  Express.js , Oracle, React, Ember and  Node.js. 
+- Experience working with languages such as Java, .Net, Python, PHP or Ruby. 
+- Experience in API design and development. 
+ - Understanding of libraries including  Backbone.js  and jQuery. 
+- Experience with AJAX. 
+- Experience working with server technologies including Apache, ISS,  Node.js , Nginx, and J2EE. 
+ - Strong knowledge of data structures, system design, and algorithms 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Full time 
+ Required platforms  : Android, iPhone 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Published by:  K. Last reply: 2 days ago  Ecuador Payment method:  __Verified 
+ USD 20 - 30 / hour 
+ 3 days ago 
+ Application that is a cross breed of a social media and grab food o... 
+ Published: 3 days ago  Deadline: 170 Bids: 2 
+ I need an mobile application (andriod and IOS) and website that will function alot similar like grab food / food panda where users ca order food and have it delivered. But the looks of the GUI is much like a social media. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone, iPad 
+ I need to  : Create an app 
+ App type  : e-Shop 
+ Similar apps  : Other 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  L. A. C. Last reply: Yesterday  Philippines 
+ USD 50 - 100 
+ 3 days ago 
+ Food app and more at home 
+ Published: 3 days ago  Deadline: 19 Bids: 8 
+ I need an app and website like Uber eats, Deliveroo, Glovo and their accessories. Give me your demo apps and their installation price 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone, Other 
+ I need to  : Create an app 
+ Similar apps  : Other 
+ Published by:  D. Last reply: 3 days ago  United States 
+ USD 250 - 500 
+ 4 days ago 
+ Mobile application, Social network in the field of well-being 
+ Published: 4 days ago  Bids: 9 
+ Mobile application, Social network in the field of well-being. 
+After going through a selection of the best candidates, we will disclose more information 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : iPhone, Android 
+ I need to  : Modify an existing app 
+ App type  : Social media 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  L. Last reply: 2 days ago  United States 
+ USD 500 - 1,000 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

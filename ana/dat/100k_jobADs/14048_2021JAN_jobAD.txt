@@ -1,0 +1,180 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Golang Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ GolangWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ iOS Software Engineer 
+ [ 
+ Truecaller 
+ ](/companies/truecaller) 
+ Stockholm, Sweden 
+ 14 December, 2020 
+ Apply 
+ More jobs from Truecaller About Truecaller 
+ Salary 
+ 595K - 695K SEK 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ iOS 
+ MOBILE 
+ Objective-C 
+ Swift 
+ UX 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Pension 
+ Sponsorship available 
+ 
+ Changing the way hundreds of millions of people interact with each other every day 🤝 
+ Role overview 
+ We at Platform team  provides the services, tools, and knowhow to make the Business units operationally independent. The domains we cover are Android/iOS core development and CI/CD, Data Platform providing analytics as a service, and back end core development and Infrastructure. 
+ As an iOS Engineer  in the Platform Infrastructure team, your main objective will be to help the developers in the Business Units to deliver their features as fast, secure and efficient as possible. You will provide building pipelines, dashboards, and ways to quickly find issues in the app builds. You will also own and maintain shared libraries used by the app as well as parts of the code with a focus on core functionality such as network protocols, event logging, and feature flags. 
+ What we expect from you: 
+ 
+ 5+ years experience in programming using Swift or Objective C 
+ Deep understanding and hands-on experience in iOS, development tools, application life cycle, asynchronous server communication, and UX optimisation 
+ Hands-on experience with different app architectures and design patterns 
+ Experience with unit testing 
+ Solid proficiency in Core Data 
+ Good understanding of networking protocols 
+ Ability to plan and prioritise your own work items 
+ Ability to interact with iOS team members and other stakeholders 
+ Fluent in English, in speaking and writing 
+ 
+ What will you work on? 
+ 
+ Being responsible for developing and maintaining shared libraries 
+ Maintaining and building tools for release management (Release dashboards, CI/CD pipelines, etc) 
+ Being responsible for source code management using Bitbucket 
+ Helping other teams to build Analytics and Logging pipelines, Networking layers, Feature flags, and application frameworks Being proactive, and aware of iOS platform changes and helping feature teams to be up to date 
+ Drive technical improvement by applying software craftsmanship in everyday work as well as by identifying and leading larger refactoring/improvement initiatives. 
+ Drive cross-team technical initiatives. 
+ Working together with Release team and Android platform development Being an active member of the Tech Forum 
+ 
+ What we offer: 
+ 
+ International team - 30+ nationalities working together! 
+ Competitive salary 
+ Medical insurance 
+ Learning & sharing environment 
+ Flexible working hours 
+ Exciting company parties & team activities – Running team, Geek lunch! 
+ Start the day with fresh fruit and cereals 
+ Stay refreshed: get juice, tea, coffee, and soft drinks 
+ 
+ 
+ [ 
+ Truecaller 
+ ](/companies/truecaller) 
+ 
+ 50-249 
+ 
+ Truecaller was born in 2009, Stockholm, Sweden, with the mission to provide more safe and efficient communication to everyone’s daily life. Today, Truecaller is loved by 200 million daily active users around the world, popular in South Asia, Middle East, Africa! We are the go-to app for Caller ID, spam blocking and payments. Truecaller is a Swedish company founded in 2009 in Stockholm, Sweden by Nami Zarringhalam and Alan Mamedi. The app began when our co-founders were just students who wanted to create a service that would easily identify incoming calls from unknown numbers. We have our strongest presence in South Asia, Middle East, Africa, and HQ in Sweden. We are backed by some of the most prominent investors in the world such as Sequoia Capital, Atomico, and Kleiner Perkins Caufield & Byers. 
+ Technology Late Stage Venture Big Data CI/CD Distributed Systems Golang Pension  sponsorship available 
+ View 6 jobs 
+ Engineers who find a new job through Golang Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Truecaller About Truecaller 
+ Salary 
+ 595K - 695K SEK 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ iOS 
+ MOBILE 
+ Objective-C 
+ Swift 
+ UX 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Pension 
+ Sponsorship available 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Mobile SDET£40K - 80KDepopLondon, United Kingdom 
+ Support us on our path towards achieving more frequent releases 
+ android ios mobile tests 
+ More Info Apply 
+ Mobile QA Automation Engineer£30K - 55KDepopManchester, United Kingdom 
+ We are looking for a Software Development Engineer in Test to be based at our Manchester office 
+ android ios mobile tests test automation test analyst 
+ More Info Apply 
+ React Native Mobile Developer$91K - 139K + EquityTailwindNew York, NY, US 
+ You will be leading the charge on building a greenfield project as a core pillar of our growth strategy 
+ mobile react native mobile apps 
+ More Info Apply 
+ iOS Software Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Go jobs Golang jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Golang articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

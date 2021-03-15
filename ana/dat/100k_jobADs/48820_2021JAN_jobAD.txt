@@ -1,0 +1,36 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Manage Account 
+ Careers Page 
+ 
+ Will my careers page work on mobile devices? 
+ Nick DeSimone 
+ 
+ January 06, 2021 15:05 
+ Updated 
+ 
+ Follow 
+ All users 
+ All plans 
+ Yes, Workable-hosted careers pages are optimized for both desktop and mobile. Share links to your open jobs via email or social media and candidates will be able to easily apply via mobile. 
+ If you've built your own careers page completely  custom through Workable's API , mobile usability will depend on your site, however, when candidates apply for a job it will always be mobile friendly. 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ 
+ Was this helpful? 
+ 8 out of 8 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ What happens if I change the subdomain of my Workable account? 
+ Can I use Google Analytics on my careers page? 
+ Migrating data from a spreadsheet or prior system 
+ Mobile dashboard overview 
+ Can I change the styling options for the embedded job widget? 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 

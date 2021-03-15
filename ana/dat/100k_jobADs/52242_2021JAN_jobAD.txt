@@ -1,0 +1,202 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ DevOps Engineer 
+ at M2A Media 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤50000 - ₤70000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤50000 - ₤70000 per year 
+ 
+ 
+ apply now 
+ 
+ PLATFORM/DEVOPS ENGINEER 
+ At M2A Media we develop cloud based software solutions used in the online video streaming platforms of some of the biggest broadcasters in the world, including DAZN, BBC, Channel4 and ITV. 
+ Our work involves the technical handling, manipulation and delivery of top tier live sporting events such as the Champions League, Serie A, Moto GP and NFL to millions of viewers globally via 'The Netflix of sport', DAZN. If you've watched 'Love Island', 'I'm a Celebrity' or other live shows on ITV Hub it was delivered for catch-up by our Live Capture product at frame level accuracy, within minutes, to record audiences. 
+ The role of DevOps Engineer is wide-ranging, including infrastructure-centric aspects of Cloud Architecture and Site Reliability Engineering (SRE) through to optimising the Software Development Lifecycle (SDLC) using techniques such as BDD. 
+ Key to driving our technology strategy forwards, you will build and continually improve capabilities that drive the pace of change, and enable the business to test new products, pricing & ideas rapidly out in the marketplace. 
+ What you 'll do 
+ 
+ In conjunction with the Engineering and Development teams, help us evolve our AWS infrastructure in a safe, reliable, automated and cost-effective manner enabling the business to deploy products and capabilities rapidly 
+ Enable developers do their jobs more efficiently by identifying and implementing new processes, approaches and technologies (CI/CD best practices, Infrastructure as Code, Monitoring etc.) 
+ Be a core player in the Cloud & Engineering space, focusing on providing platforms and capabilities for others to use by running PoC with new technologies 
+ Participate in planning efforts with stakeholders 
+ Help define and enforce security guidelines for engineering work 
+ Work as part of a small team and successfully manage your own tasks according to the larger needs of the business 
+ 
+ **What you 'll bring 
+** 
+ Required 
+ 
+ Excellent understanding of DevOps-centric concepts 
+ Excellent understanding of container technology, such as Docker 
+ Good understanding of SDLC best practices, especially relating to modern CI/CD and monitoring 
+ Good understanding of Infrastructure as Code / Desired State Configuration (Terraform, Ansible, etc) 
+ Good general infrastructure knowledge, including networking basics 
+ Good general development skills in Python and Groovy 
+ 
+ Desired 
+ 
+ Experience with Linux process management (systemd or sysV) is a plus 
+ Experience with containers (Kubernetes or Swarm) / service mesh / orchestration is a plus 
+ Experience implementing and working with SRE concepts is a plus 
+ Prior experience within the media or broadcasting industry 
+ 
+ You will have 
+ 
+ Problem-solving skills with attention to detail 
+ Ability to communicate effectively with others to break down, prioritize and deliver tasks 
+ A pragmatic approach, willingness to overcome obstacles and figure things out when information is limited 
+ Willingness to practice continuous learning and self-improvement 
+ 
+ We can offer you 
+ 
+ A chance to work with cutting edge technologies which will further your career long-term 
+ Freedom to suggest new approaches and tech to be implemented 
+ Opportunity to work on products that influence viewing  for millions of people each day 
+ Help with training towards becoming an AWS certified Engineer 
+ 
+ Our Tech stack 
+ 
+ AWS services, especially; Lambda, EC2, DynamoDB, SQS, SNS, S3, MediaLive, Elemental, MediaPackage 
+ Python, Flask, OpenAPI 
+ TDD (Pytest) 
+ BDD (Behave) 
+ Localstack 
+ Microservices architecture, REST, Apache, Nginx 
+ FFMPEG, Unified Origin, Packager and Capture 
+ HLS, MPEG-DASH, RTP, HEVC, 4K, Low Latency 
+ Terraform, Jenkins, Packer, Ansible 
+ Git, Bitbucket, Jira, Confluence 
+ 
+ We are a friendly team of people that are passionate about building great products with collaboration, innovation and respect for each other. We have an inclusive environment and believe different experiences, perspectives and backgrounds make for a better workplace and better products. 
+ We promote a good work-life balance through flexible and remote working options. There are regular social and sporting events organized within the team. 
+ Benefits 
+ 
+ 25 days holiday 
+ Medical insurance for you and your family 
+ Dental insurance 
+ Travel insurance 
+ Life cover 
+ Company pension - we will match contributions up to 5% 
+ Flexible and remote working 
+ Company bike scheme 
+ 
+ Interview Process 
+ 
+ Informal phone conversation about your experience and expectations to see if we are the right fit for each other. 
+ Technical remote pairing exercise with one of our senior engineers 
+ Face-to-face video call interview where we will ask you technical and competency based questions 
+ 
+ We are an equal opportunities employer and welcome applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age. 
+ Published at 13 Jan 2021 - Expires on 13 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  M2A Media 
+ fulltime  Software Engineer  at M2A Media in London 
+ __27-11-2020 
+ fulltime  Senior Software Engineer  at M2A Media in London 
+ __27-11-2020 
+ fulltime  DevOps Engineer  at M2A Media in London 
+ __27-11-2020 
+ fulltime  Python Developer  at M2A Media in London 
+ __13-01-2021 
+ fulltime  Senior Python Developer  at M2A Media in London 
+ __13-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

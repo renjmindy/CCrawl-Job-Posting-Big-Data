@@ -1,0 +1,260 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Blockchain Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ BlockchainWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Scala Engineer 
+ [ 
+ Zalando SE 
+ ](/companies/zalando-se) 
+ Berlin, Germany 
+ 03 December, 2020 
+ Apply 
+ More jobs from Zalando SE About Zalando SE 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ AWS 
+ Docker 
+ Functional Programming 
+ JVM 
+ KUBERNETES 
+ Microservices 
+ REST APIs 
+ Scala 
+ Scalability 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Books 
+ Career advice 
+ Paid sick days 
+ Team lunches 
+ Health care contributions 
+ Onsite gym 
+ Pension 
+ Pension contributions 
+ Casual dress 
+ Fruit bowl 
+ Training 
+ Diversity dedicated staff 
+ Flexible parent working 
+ Flexible schedules 
+ Bike friendly 
+ Relocation budget 
+ Learning budget 
+ Free coffee 
+ Macbook air/pro 
+ Free breakfast 
+ Gym membership 
+ Health care 
+ Discounts 
+ Extended holiday time 
+ Transport discount 
+ Extra leave days 
+ Trainings 
+ Zalando discounts 
+ External partner discounts 
+ Cantine 
+ 40% zalando shopping discount 
+ Basketball court 
+ Free beverages & snacks 
+ Training budget 
+ Modern campus 
+ Gym 
+ Mentorship programs 
+ Rooftop 
+ Great tech stack 
+ Meetups 
+ New hq 
+ 
+ As a Senior Software Engineer you will help your team build mission-critical applications for our Marketplace. 
+ Role overview 
+ As a Senior Software Engineer you will help your team build mission-critical applications that improve and automate processes. You will also help your colleagues to grow technically and otherwise. 
+ In the zDirect teams we are building Zalando's marketplace infrastructure, which includes merchant and product onboarding services, order processing, fulfillment integrations and analytical services, with public facing interfaces for both developers and external merchants, scaling our current systems and building new ones from scratch. 
+ In the Platform Experience Model (PXM) team, we are building solutions to continuously provide transparent feedback on performance metrics related to their articles on the Zalando site to our numerous merchants as well as steer partners to attain stellar performance metrics. 
+ WHERE YOUR EXPERTISE IS NEEDED 
+ 
+ Together with your team you will own your code and deliver as well operate large-scale applications on cloud (AWS), based on a microservices architecture 
+ Create highly scalable solutions and contribute to the entire development cycle - from design and architecture to testing,implementation, maintenance and monitoring 
+ 
+ WHAT WE’RE LOOKING FOR 
+ 
+ A solid grasp of computer science fundamentals combined with a strong capacity of solving complex problems with over 8 years of hands-on software development in a commercial setting. 
+ Extensive experience in object-oriented and functional programming languages with a profound knowledge of REST APIs and highly distributed, scalable, and resilient microservices landscapes. 
+ Database design, software design and cloud technologies. 
+ Experience with JVM languages is expected, and knowledge in Scala and Functional Programming is a plus, as is experience with (Postgre)SQL databases, AWS, Kubernetes and Docker. 
+ 
+ WHAT WE OFFER 
+ 
+ Culture of trust, empowerment and constructive feedback,  open source  commitment, meetups, game nights, 70+ internal technical and fun guilds, knowledge sharing through tech talks, internal tech academy and  blogs , product demos, parties & events 
+ Competitive salary, employee share shop, pension scheme, 40% Zalando shopping discount on most products from the Zalando shop, discounts from external partners, centrally located offices, public transport discounts, municipality services, great IT equipment, flexible working times, additional holidays and volunteering time off, free beverages and fruits, diverse sports and health offerings 
+ Extensive onboarding, mentoring and personal development opportunities and an international team of experts 
+ Relocation assistance for internationals, PME family service and parent & child rooms* (*available only in select locations) 
+ 
+ We celebrate diversity and are committed to building teams that represent a variety of backgrounds, perspectives and skills. All employment is decided on the basis of qualifications, merit and business need. 
+ 
+ [ 
+ Zalando SE 
+ ](/companies/zalando-se) 
+ 
+ 
+ 250+ 
+ 
+ 
+ Berlin, Germany 
+ 
+ 
+ Zalando is Europe’s leading online platform for fashion, connecting customers, brands and partners across 17 markets. We drive digital solutions for fashion, logistics, advertising and research, bringing head-to-toe fashion to more than 23 million active customers through diverse skill-sets, interests and languages our teams choose to use. 🌍. IT ALL STARTED WITH A SHOE... 👠...in a shared apartment/office/warehouse on Berlin’s trendy Torstrasse. Well, a few pairs of shoes actually. Since then we’ve sold a lot more shoes and have grown to be Europe’s largest online fashion retailer or you may call us Europe's most fashionable tech department. Today, we offer fashion-lovers in 15 different countries our wide range of products – from High Street favourites to designer brands, sportswear and kidswear for him and her. A lot has changed since then, but our core values have always remained the same – combining great fashion with the latest technology and exceptional customer service. A PROUD COMMUNITY Over the years, we have built a strong community. We love to share our passions, insights and expertise for technologies and topics we love through 100+ self-organised guilds, internal tech talks, training initiatives, demos, local meet-up events, conferences and more. In addition to encouraging an engaged community, we support you in building your reputation as tech leader - not only among your peers at Zalando but industry-wide. We know that every new technology and methodology we implement involves a learning curve, so our teams are dedicated to help everyone get up to speed on using the tools they need to work successfully. OPEN SOURCE 📢 We're passionate about collaboration and giving back to the community. Check out our open source projects to learn more about the technologies we are contributing to and building. (https://github.com/zalando) 
+ Retail Public Agile Visa Sponsorship Go AWS CI/CD Cats Books Career advice 
+ View 11 jobs 
+ Engineers who find a new job through Blockchain Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Zalando SE About Zalando SE 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ AWS 
+ Docker 
+ Functional Programming 
+ JVM 
+ KUBERNETES 
+ Microservices 
+ REST APIs 
+ Scala 
+ Scalability 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Books 
+ Career advice 
+ Paid sick days 
+ Team lunches 
+ Health care contributions 
+ Onsite gym 
+ Pension 
+ Pension contributions 
+ Casual dress 
+ Fruit bowl 
+ Training 
+ Diversity dedicated staff 
+ Flexible parent working 
+ Flexible schedules 
+ Bike friendly 
+ Relocation budget 
+ Learning budget 
+ Free coffee 
+ Macbook air/pro 
+ Free breakfast 
+ Gym membership 
+ Health care 
+ Discounts 
+ Extended holiday time 
+ Transport discount 
+ Extra leave days 
+ Trainings 
+ Zalando discounts 
+ External partner discounts 
+ Cantine 
+ 40% zalando shopping discount 
+ Basketball court 
+ Free beverages & snacks 
+ Training budget 
+ Modern campus 
+ Gym 
+ Mentorship programs 
+ Rooftop 
+ Great tech stack 
+ Meetups 
+ New hq 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Blockchain Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Blockchain Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Scala Engineer - MarketplaceCompetitiveZalando SEBerlin, Germany 
+ Make Zalando the best high quality Marketplace in the Fashion Industry 👕 
+ Sponsorship 
+ aws distributed systems functional programming kubernetes microservices scala 
+ More Info Apply 
+ Data Engineer - Markets Engineering (python, databricks, airflow)CompetitiveZalando SEBerlin, Germany 
+ Create internal tools & API’s to automate marketing cost reporting, expanding campaign metadata & more. 
+ aws microservices python rest apis airflow databricks 
+ More Info Apply 
+ Backend Engineer (Java / Kotlin) - Supply Chain CompetitiveZalando SEBerlin, Germany 
+ You will build the most important supplier facing tool to plan the delivery of approx. 1 million items per day 
+ aws java kubernetes kafka kotlin rest apis grafana 
+ More Info Apply 
+ Senior Scala Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Blockchain jobs Solidity jobs Blockchain product jobs Quant jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Blockchain articles Solidity articles Ethereum articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

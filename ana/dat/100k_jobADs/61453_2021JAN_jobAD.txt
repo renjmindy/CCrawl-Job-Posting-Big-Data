@@ -1,0 +1,98 @@
+WORK WITH INDIES beta 
+ Newsletter 
+ Browse Jobs 
+ Art & Animation 
+ Audio 
+ Business & Operations 
+ Design 
+ Marketing & Community 
+ Production 
+ Programming 
+ QA & CS 
+ Writing 
+ Post a Job 
+ Back to all jobs See allArt & Animationjobs 
+ Hand Drawn Animator 
+ inkle Apply for this Job 
+ Posted 
+ January 11, 2021 
+ Contract 
+ Anywhere 
+ Remote 
+ ‍ 
+ At the end of last year we experimented with using  Spine  to animate our main protagonist. Our animator friend and colleague  Martin  (who's been working on his own incredibly-named  Schrodinger's Cat Burglar ) gave us a helping hand, and started producing idle and run cycle animations to help us prototype the concept with our latest character design. 
+ But as we experimented with Spine and 2d rigged animation, we increasingly realised it was perhaps the wrong direction to be pushing in. Although 2d rigged animation can give you very smooth results, it's also quite limited - for example you can't easily turn your sideways-facing character to look forwards at the camera. The advantages are that once you have a rigged character, it's relatively straightforward to create animations since it's equivalent to manipulating a shadow puppet. 
+ By comparison, hand-drawn animation requires you to... well, hand-draw every single animation from scratch. But in return, the results can look  incredible  - have a play of  Spiritfarer  (character art below) if you don't believe me! Hand-drawn animation can add a huge amount of charm and character. 
+ ‍ 
+ ‍ 
+ They also seem like the perfect fit for our environment art, which has a painterly aeshetic - we think they will sit together wonderfully. 
+ We have one big problem though - we don't know any traditional hand drawn animators!  Annie  is our in-house artist and illustrator, and produces  beautiful   work , but we could do with some help producing pencil test frames that she could do the finishing work on. 
+ ‍ 
+ Work with us! 
+ So, here's the plan: if you're a freelancer and you think you'd like to work on our  highland game  (or know someone who'd be a good fit), please get in contact. Here's how we'd like to run it: 
+ 
+ We strongly encourage women, BAME and other minority background candidates to apply. 
+ A timezone closer to the UK is preferable. The work will always be remote. 
+ Send an email to  info@inklestudios.com  with "Highland Animation" in the subject line, and a link to a portfolio or sample animation work. 
+ If you seem like a good fit for the project, we'll ask you for a fully paid art test (we're likely to ask for a few of these from different people, assuming we get enough responses). 
+ We make a beautiful game together. 
+ 
+ Happy New Year everyone; may this one be better than the last! 
+ ‍ 
+ About Us 
+ inkle  is an independent narrative game company, founded in 2011 by two Cambridge game developers with a passion for storytelling and beautiful design. Read more about the team  here . 
+ ‍ 
+ About Our Games 
+ AD 673. Camelot has fallen. The jealous Sir Mordred has broken the fellowship of the Round Table with hatred and lies. Now King Arthur faces his final battle. Who will keep the dream of Camelot alive? 
+   Pendragon  is a character-driven narrative strategy game from the creators of the multi-award-winning  80 DAYS  and  Heaven’s Vault . Rally the Knights of the Round Table to reach Arthur before he meets his fate. Some will make it to Camlann. Others will fall. Yet every turn will change history. 
+ ‍ 
+ ‍ 
+ Uncover a forgotten past and decipher a lost language in the open-world narrative adventure game,  Heaven 's Vault . Join archaeologist  Aliya Elasra  and her robot sidekick  Six  as they investigate  The Nebula  , an ancient network of scattered moons. Discover lost sites, freely explore ancient ruins and translate inscriptions to reveal the secrets of the Nebula’s past. 
+ ‍ 
+ ‍ 
+ The year is 1872. Welcome to the future. 
+ Phileas Fogg has wagered he can circumnavigate the globe. Hundreds of journeys, thousands of routes. Travel by steamer, express train, airship, hover-car, hydrofoil, gyrocopter, camel, horse-back, hot-air balloon... Can you make it in  80 Days ? 
+ ‍ 
+ ‍ 
+ Apply for this Job 
+ related jobs 
+ Impossible  is hiring a Environment Artistto join their team into work fromCanadaEnvironment ArtistImpossible  | CanadaLearn More 
+ Lazy River is hiring a 3D Animator/Riggerto join their team into work fromAnywhere3D Animator/RiggerLazy River | AnywhereLearn More 
+ uvula is hiring a 3D Environment Artistto join their team into work fromAnywhere3D Environment Artistuvula | AnywhereLearn More 
+ inkle is hiring a Hand Drawn Animatorto join their team into work fromAnywhereHand Drawn Animatorinkle | AnywhereLearn More 
+ KO_OP is hiring a 2D Background Artistto join their team into work fromCanada2D Background ArtistKO_OP | CanadaLearn More 
+ Roboto Games is hiring a UI Artist/Generalistto join their team into work fromAnywhereUI Artist/GeneralistRoboto Games | AnywhereLearn More 
+ Indie games are wonderful. So are the people that make them. 
+ Make wonderful games. Be wonderful people. Work With Indies. 
+ Thank you for joining the Work With Indies newsletter! The next issue will arrive on Sunday. 
+ Oops! Something went wrong. Please try again. 
+ *Sign up to receive a weekly digest of new indie career opportunities. 
+ WORK WITH INDIES 
+ We’ve been lucky to have some incredible jobs working at and partnering with some of the biggest brands in video games. 
+ But we’ve never had more fun and been more fulfilled than when we were working with indie game developers. 
+ Everyone in games should have that much fun. 
+ Our hope is that Work With Indies will connect job seekers with the most rewarding, most inspirational, and most fun jobs they've ever had. 
+ NAVIGATION 
+ 
+ Post a Job 
+ Terms 
+ Privacy 
+ RSS 
+ Communities 
+ Nick's Cat 
+ 
+ CONTACT US 
+ 
+ 
+ nathan@workwithindies.com 
+ twitter.com/workwithindies 
+ facebook.com/workwithindies 
+ 
+ ^ 
+ Made by 
+ @natethenate 
+ and 
+ @nsuttner 
+ for people who 
+ indie games. 
+ © 2021  A Lot of Happy LLC 

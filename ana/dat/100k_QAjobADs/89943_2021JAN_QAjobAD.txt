@@ -1,0 +1,6 @@
+Qualifications
+- 3+ years of software development experience.
+- One of the following:
+  - Experience writing smart contracts.
+  - Experience writing software in Hasell.
+- Good communication skills and self-guided.

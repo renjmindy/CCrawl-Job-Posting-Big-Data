@@ -1,0 +1,263 @@
+r.j.'s space 
+ on the economy, energy, & the environment 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ <- August 8th graphics 
+ August 15 graphics -> 
+ July jobs report, June reports on income and spending, international trade, factory orders, & construction spending 
+ Posted on  August 9, 2015  by  rjsigmund 
+ in addition to the  Employment Situation Summary for July  from the Bureau of Labor Statistics, this week also saw the release of four reports that together made up a large part of the June contribution to last week's estimate of 2nd quarter GDP: the  June release on Personal Income and Spending  from the Bureau of Economic Analysis,  the Census report on our International Trade for June , the  Full Report on Manufacturers' Shipments, Inventories and Orders for June  and  the June report on Construction Spending , both also from the Census Bureau…in addition, this week brought the  Consumer Credit Report for June from the Fed , which showed that overall credit expanded by a seasonally adjusted $20.7 billion, or at a 7.3% annual rate, as non-revolving credit expanded at a 7.3% rate to $2,515.6 billion and revolving credit outstanding rose at a 7.4% rate to $906.5 billion…the week also saw the report on  light vehicle sales for July from Wards Automotive , which estimated that vehicles sold at a 17.74 million annual rate in July, up from the 16.90 million annual sales rate in May, and  the 2nd highest monthly rate of auto sales since July 2005 …..in addition, the week also saw the release of the two widely watched diffusion indexes from the Institute for Supply Management (ISM), the  July Manufacturing Report On Business , which saw the manufacturing PMI (Purchasing Managers Index) slip from 53.5 in June to 52.7 in July, still indicative of slow manufacturing growth, and the  July Non-Manufacturing Report On Business ; which saw the NMI (non-manufacturing index) rise from 56.0% in June to 60.3% in July, the highest reading in the short history of this index, and indicating a larger plurality of service industry purchasing managers reported expansion in various facets of their business…both of those reports are easy to read and include anecdotal comments from purchasing managers from the 34 business types who participate in those surveys nationally… 
+ Employers Add 215,000 Jobs in July While Labor Force Participation Remains at a 38 Year Low 
+ the  Employment Situation Summary for July  was barely passable, with the weakest job creation since March and no improvement from June's dismal labor force data, which had seen the lowest labor force participation rate in 38 years….the  establishment survey data  indicated that employers added a seasonally adjusted 215,000 jobs, while the payroll job increase in June was revised from 223,000 to 231,000 and the job increase for May was revised from 254,000 to 260,000, after last months revision down from 280,000…..job gains were again largely in the service sector, led by 35,900 additional jobs in retail, 27,900 in health care, 26,600 in professional and technical services, and 17,000 in the financial sector…manufacturers added 15,000 jobs as food manufacturers added 9,100, but otherwise goods producing job growth was soft, with 6,000 added in construction while 5,100 were cut in support activities for mining, which includes gas and oil extraction…in addition, employers reported the average workweek rose by 0.1 hour to 34.6 hours and the average hourly earnings for all non-farm employees rose by 5 cents to $24.99… 
+ the  June household survey  estimated that the seasonally adjusted count of those employed rose by 101,000 to 148,840,000, while the number of unemployed fell by 33,000 to 8,266,000, which was not enough to change the unemployment rate, which remained at 5.3%, or either of the other metrics we follow; the employment to population ratio remained unchanged at 53.9%, while the labor force participation rate was at 62.6%, essentially the same as  the 38 year low for that metric that we saw in June …however, since the civilian working age population increased by 213,000 while the labor force only increased by 69,000, the long form fraction of the labor force participation rate actually fell, from 62.648655% in June to 62.6229691% in July…moreover, since the increase in the labor force was smaller than the increase in the working age population, the total of those of us not counted in the labor force rose by 144,000 to a record 93,770,000…the only major improvement in the household survey was that  the number reporting being stuck in part time work who wanted a full time job  fell by 180,000, from 6,505,000 in June to 6,325,000 in July; as a result of that,  the alternative measure of unemployment, U-6 , which includes those "employed part time for economic reasons", fell from 10.5% to 10.4%… 
+ the  BLS employment situation press release  itself is very readable, so you can get more details from there…note that almost every paragraph in that release points to one or more of the tables that are linked to on the bottom of the release, and those tables are also  on a separate html page here  that you can open it along side  the press release  to avoid the need to scroll up and down the page….thus, when you encounter a line in the report such as "  In July, 1.9 million persons were marginally attached to the labor force, down by 251,000 from a year earlier.   They were not counted as unemployed because they had not searched for work in the 4 weeks preceding the survey (See table A-16.) "  you can quickly open  Table A-16 , where you will the classifications and the details for the men and women marginally attached to the labor force.. 
+ June Personal Income Rose 0.4%, Personal Spending Up 0.2% 
+ other than the employment report and the GDP report itself, the monthly report on  Personal Income and Outlays  from the __ Bureau of Economic Analysis is probably the most important economic release we see monthly, as it gives us the monthly data on our personal consumption expenditures (PCE), which accounts for more than 2/3rds of GDP, the important personal income and disposable personal income data, our savings and savings rate, and the PCE price index,  the inflation gauge the Fed targets ….like the GDP report last week, the  June Income and Outlays report  also went through an annual revision with backward revisions to 2012 for all elements reported here, while personal income and personal current taxes were revised from January 1976 through May 2015, due to incorporation of a new classification of federal refundable tax credits…since all the revisions made to personal consumption expenditures had already being incorporated into the GDP revisions that we looked at last week, today we'll only consider those revisions from recent months that are relevant to putting this month's change in perspective… 
+ like the GDP report, all the dollar values reported here are at an annual rate and seasonally adjusted, ie, they tell us what income, spending and saving would be for a year if June's adjusted income and spending were extrapolated over an entire year…confusingly, however, the percentage changes are computed monthly, from one annualized figure to the next, and in this case of this month's report they give us the percentage change in each annualized metric from May to June….thus, when  the opening line of the press release for this report  tell us "  Personal income increased $68.1 billion, or 0.4 percent, and disposable personal income (DPI) increased $60.6 billion, or 0.5 percent, in June  ", they mean that the annualized figure for all types of personal income in June, $15,287.1 billion, was __ $68.1 billion or 0.4% greater than the annualized personal income figure for May; the actual increase in personal income in June over May is not given….similarly, disposable personal income, which is income after taxes, rose by 0.5%, from an annual rate of $13,304.6 billion in May to an annual rate of $13,353.4 billion in June…with this release, the increases in both personal income and disposable personal income for May were both revised lower, from the originally reported 0.5% increases to increases of 0.4%… 
+ the contributors to the June increase in personal income,  listed under "Compensation" in the press release , are also annualized amounts, all of which can be seen in the  Full Release & Tables (pdf)  for this release, the document we'll be referencing here…so when the press release says, "  Wages and salaries increased $18.3 billion in June  " that really means wages and salaries would rise by $18.3 billion in a year’s time if June's seasonally adjusted rate of increase were extrapolated over an entire year, just as interest and dividend income, the largest contributor to the personal income increase, rose at a $20.2 billion annual rate in June…likewise annualized are the other sources of June income that add up to the $68.1 billion increase in personal income annually cited in the opening line: business proprietors' income increased at a $6.7 billion annual rate, farmer's incomes increased at a $4.3 billion rate, rental incomes increased at a $7.4 billion annual rate, supplements to wages and salaries, such as employer contributions to pension plans, increased at a $4.4 billion annual rate, personal current transfer receipts from government programs increased at a $8.6 billion rate, and individual contributions for government social insurance, which subtract from the total income figure, increased at a $1.8 billion annual rate in June… 
+ meanwhile, seasonally adjusted personal consumption expenditures (PCE) for June, which were included in the change in real PCE in 2nd quarter GDP, rose at a $25.9 billion annual rate to a level of $12,255.3 billion in consumer spending annually, 0.2% higher than in May, which itself was revised from the originally reported 0.9% increase to an increase of 0.7%…that current dollar increase in June spending was driven by a $33.0 billion annualized increase to an annualized $8,266.1 billion spending for services and a $10.1 billion increase to $2,671.1 billion in annualized spending for non-durable goods, while outlays for durable goods fell at an annualized $17.2 billion rate to an annualized $1,318.1 billion …total personal outlays for June, which includes interest payments, and personal transfer payments in addition to PCE, rose by an annualized $30.5 billion to $12,706.2 billion, which left personal savings, which is disposable personal income less total outlays, at $646.3 billion in June, up from the revised $616.2 billion in personal savings in May, which was  originally reported at $685.5 billion, on higher income and outlays …as a result, the personal saving rate, which is personal savings as a percentage of disposable personal income, rose to 4.8%, from 4.6% in May, which was originally reported at 5.1%.. 
+ while our personal consumption expenditures accounted for  68.4% of our second quarter GDP , before they were included in the measurement of the change in our output they were first adjusted for inflation, to give us the real change in consumption, and hence the real change in goods and services that were produced for that consumption…..that's done with the price index for personal consumption expenditures, which is included in this report, which is a chained price index based on 2009 prices = 100….from  Table 9 in the pdf , we find that that index rose from 109.405 in May to 109.658 in June, giving us a month over month inflation rate of 0.231%, which BEA reports as an increase of +0.2%, while  Table 11  gives us a year over year PCE price index increase of 0.3%, and a core price increase of 1.3% for the year,  both well below the Fed's inflation target … applying the June inflation adjustment to the change in June PCE  shows that real PCE was down 0.02%, which BEA reports as a 0.0% change in the tables…note that when those price indexes are applied to a given month's annualized PCE, it yields that month's annualized real PCE in chained 2009 dollars, which aren't really dollar amounts at all, but merely the means that the BEA uses to compare one month's or one quarter's real goods and services produced to another….those results are shown in  tables 7 and 8 of the PDF , where the quarterly figures given are identical to those shown in  table 3B in the GDP report , and which are used to compute the contribution of real personal consumption of goods and services to GDP… 
+ Trade Deficit Rises 7.1% to $43.8 Billion in June 
+ our trade deficit increased by 7.1% in June as the value of our exports fell and the value of our imports rose…the  Census report on our international trade in goods and services for June  indicated that our seasonally adjusted goods and services trade deficit rose by $2.9 billion to $43.8 billion in June from an May deficit which was revised from $41.9 billion to $40.9 billion….the value of our June exports fell $0.1 billion to $188.6 billion as a $0.2 billion decrease to $127.6 billion in our exports of goods was partially offset by an increase of $0.1 billion to $61.0 billion in our exports of services, while our imports rose $2.8 billion to $232.4 billion on a $2.7 billion increase to $191.1 billion in our imports of goods and a $0.1 billion increase to $41.4 billion in our imports of services… export prices averaged 0.2% lower in June , so the real growth in exports was higher by that much, while import prices were 0.1% lower, similarly incrementally increasing growth in real imports… 
+ our exports of capital goods fell by $769 million to $44,114 million in June on a $310 million decrease in our exports of telecommunication equipment and a $272 million decrease in our exports of commercial vessels including scrap ships; our exports of industrial supplies and materials fell by $617 million to $37,135 million on a $283 million decrease in exports of finished metal fabrications, a $197 million decrease in exports of organic chemicals, and a $182 million decrease in exports of crude oil, and our exports of foods, feeds and beverages fell $460 million to $10,495 million, led by a $135 million decrease in soybean exports…meanwhile, our exports of consumer goods rose by $795 million to $16,750 million on a $361 million increase in our exports of jewelry and a $283 million increase in our exports of gem diamonds, our exports of automobiles, parts and engines rose by $62 million to $12,702 million, and our exports of goods not categorized by end use rose $538 million to $5,433 million… 
+ import categories seeing increases in June included a $1,733 million increase to $50,603 million in our imports of consumer goods, largely on a $1,344 million increase in our imports of pharmaceuticals and a $454 million increase in our imports of cell phones; we also saw a $1,178 million increase to $41,919 million in our imports of industrial supplies and materials, on a $921 million increase in our imports of crude oil and a $465 million increase in our imports of petroleum products other than fuel oil, a $663 million increase to $11,140 million in our imports of foods, feeds and beverages, led by a $383 million increase in our imports of fish and shellfish, a $332 million increase to $29,758 million in our imports of automobiles, parts and engines, and an $8 million increase to $6,792 million in our imports of goods not categorized by end use…partially offsetting those increases was a $1,316 million decrease to $49,057 million in our imports of capital goods, as we imported $574 million less computers and $448 million less of other industrial machines not listed separately in June…for more details, two itemized lists of the value of more than 200 export and import line items, both monthly and year to date, can be viewed in table form in  exhibit 7 and exhibit 8 of the full pdf for this release … 
+ while the trade report that is usually released about a week after the release of an advance estimate of GDP has typically resulted in major revisions to GDP,  the technical notes for last week's estimate of 2nd quarter GDP  indicated that they made use of a new monthly release from the Census, " Advance   Report: U.S. International Trade in Goods ," which has some basic tables on just trade in goods, but not the details of this full report…in computing GDP, then, the BEA assumed June goods exports were valued at $126,558 million and goods imports were valued at $188,814 million for a net goods trade deficit of $62,256 million…this week's  full report on our trade in goods and services for June  indicates that June exports of goods were valued at $126,630 million, and imports were valued at $189,268 million, for a net goods trade deficit of $62,639 million, $283 million greater than was used in the GDP computation…assuming that the deflators to these revised figures were applied in the same proportion that they were in the GDP report, this would result in a small decrease in the 2nd quarter's improvement in trade, from a decrease in the trade deficit at an annual rate of 3.7% as reported in the advance 2nd quarter GDP report to a decrease at a annual rate of 3.5% seen here…the subtraction from 2nd quarter GDP from this revision would be a negligible 0.01 percentage points in 2nd quarter growth… 
+ Value of June Factory Orders Up 2.1%, Value of Shipments Up 0.5%, Inventories Up 0.6% 
+ the  Full Report on Manufacturers’ Shipments, Inventories, & Orders for June  (pdf), also from the Census Bureau, reported that the value of new orders for durable goods rose in June by a seasonally adjusted $8.7 billion or 1.8% to $478.5 billion, largely because of  the jump in commercial aircraft orders that we saw with with the advance report on durable goods last week , which was little revised with this week's report…the 65.4% increase in non-defense aircraft orders led to a 9.3% increase in orders for transportation equipment, without which new factory orders rose 0.5%, as orders for non-durable goods rose 0.4% in June…this June increase followed revised decreases of 1.1% in May and 0.7% in April, and the value of June new orders still remains 5.9% less than in June a year ago, leading some to even  forecast a recession …however, nearly 2/3rds of new orders for non-durables, which were down by 9.3% last year, are for production of goods at lower prices, such as the output of refineries, commodity food producers, and chemical plants, which more than account for the lower year over year decrease there…the year over year value of new orders for durable goods are up 2.9%, despite lower prices for primary metals and fabricated metal products… 
+ this report also showed that the value of factory shipments rose by $2.2 billion or 0.5% to $483.5 billion, which followed a decrease of 0.2% in May…shipments of transportation equipment rose 1.3% on a 21.9% increase in shipments of defense aircraft, without with factory shipments rose 0.3%, as the value of shipments of non-durable goods rose 0.4% on a 1.7% increase in shipments from refineries, which saw somewhat higher product prices in June…meanwhile, the aggregate value of June factory inventories, which have been up four of the last five months, increased $3.6 billion or 0.6% to $653.6 billion, following a 0.5% decrease in May…inventories of durable goods rose 0.6% while inventories of non-durable goods rose 0.4% in value…you may recall that  in estimating 2nd quarter GDP last week , the  BEA assumed no change in nondurable manufacturing inventories  in June; since 3/4th of the non-durables inventory increase reported here is a 2.4% increase in higher priced refinery inventories, the addition to the revised change in real GDP should be minor… 
+ finally, the value of unfilled orders rose by a statistically insignificant $5 million to $1,194.7 billion, on the heels of a 0.5% decrease in May…a 0.5% increase to $611,718 million in the order book for commercial aircraft led to a 0.1% increase in unfilled orders for transportation equipment, which now account for more than 2/3rds of all unfilled factory orders….without that increase in unfilled orders for transportation equipment, the overall factory order book was down $510 million to $395,554 million, or a bit more than 0.1%…with shipments higher, the widely watched unfilled orders-to-shipments ratio was at 6.94 in June, down from 6.99 in May, although as we've pointed out in the past, that ratio has lost much of its relevance in the current period of collapsing commodity prices… 
+ Construction Spending Rises 0.1% in June after April and May See Upward Revisions of 2.7% 
+ in the  report on June construction spending  (pdf), the Census Bureau estimated that our seasonally adjusted construction spending would work out to $1,064.6 billion annually if extrapolated over an entire year, which was 0.1 percent (±1.5%)* above the revised May estimate of spending at a $1,063.5 billion annual rate, 12.0 percent (±2.1%) above the estimated adjusted and annualized level of construction spending of June of last year, and the  fastest annual rate in nearly a decade  …the May construction spending estimate was revised from $1,035.8 billion annually to $1,063.5 billion, the April estimate was revised from $1,027.0 billion to $1,044,641 billion annually, so while most  media coverage   focused on the small 0.1% headline print , construction spending was actually at a rate 2.8% higher than last reported once those revisions are taken into account…this should also imply a substantial upward revision to 2nd quarter GDP… 
+ in June, private construction spending was at a seasonally adjusted annual rate of $766.4 billion, 0.5 percent (±0.8%)* below the revised May estimate, with residential spending rising to a seasonally adjusted annual rate of $371.6 billion in June, 0.4 percent (±1.3%)* above the revised May estimate of $370.0 billion, while private non-residential construction spending fell 1.3 percent (±0.8%) to $394.8 billion, a drop which was entirely due to the upward May revision to $399.975 billion, as May non-residential construction had previously been reported at a $392.8 billion rate..notably, spending for manufacturing facilities was 62.1% higher than last June, while outlays for lodging rose 42.2% year over year and construction for recreation and amusement rose 39.2% from a year ago….meanwhile, public construction spending was estimated at a rate of $298.2 billion annually, 1.6 percent (±2.6%)* above the revised revised May estimate of $293.5 billion in spending, with water supply construction up 13.3%, public recreation up 11,0%, and highway and street spending 1.2% (±6.3%)* higher than the May level… 
+ 
+ (the above is the synopsis that accompanied my regular sunday morning links emailing, which in turn was mostly   selected from my weekly blog post   on the   global glass onion   …if you’d be interested in receiving my weekly emailing of selected links, most from the aforementioned GGO posts,   contact me   …) 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- August 8th graphics 
+ August 15 graphics -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ global oil supply near December's demand; US distillates exports at a 40 mo low​; gasoline production at a 34 week low​ 
+ December's consumer & producer prices, retail sales, & industrial production; November's business inventories & JOLTS 
+ tables and graphs for January 16 
+ gasoline demand at a 32 week low, gasoline supplies up ​most in 3​5 weeks; distillate​s​ supplies​ up most in 31 weeks​ 
+ December's jobs report; November's trade deficit, construction spending, factory inventories, and wholesale trade.. 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ rjsigmund  on  tables and graphics for Novemb… 
+ 
+ 
+ 
+ 
+ Marsha Boggs on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ godfrey on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ October 2011 
+ September 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ 
+ 
+ 
+ Categories 
+ 
+ mortgage crisis 
+ retail sales 
+ Uncategorized 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  r.j.'s space  
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

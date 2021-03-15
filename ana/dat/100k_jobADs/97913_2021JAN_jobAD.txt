@@ -1,0 +1,219 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Azure Data Engineer 
+ MGH Institute of Health Professions 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Azure Data Engineer 
+ MGH Institute of Health Professions 
+ [](mailto:?subject=Azure%20Data%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14207721/azure-data-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 12, 2020 
+ Location: 
+ Somerville, Massachusetts 
+ __ Show Map 
+ Salary: 
+ Unpaid 
+ **About Us 
+** 
+As a not-for-profit organization, Mass General Brigham is committed to supporting patient care, research, teaching, and service to the community by leading innovation across our system. Founded by Brigham and Women's Hospital and Massachusetts General Hospital, MGB supports a complete continuum of care including community and specialty hospitals, a managed care organization, a physician network, community health centers, home care and other health-related entities. Several of our hospitals are teaching affiliates of Harvard Medical School, and our system is a national leader in biomedical research. 
+ We're focused on a people-first culture for our system's patients and our professional family. That's why we provide our employees with more ways to achieve their potential. Mass General Brigham is committed to aligning our employees' personal aspirations with projects that match their capabilities and creating a culture that empowers our managers to become trusted mentors. We support each member of our team to own their personal development-and we recognize success at every step. 
+ Our employees use the MGB values to govern decisions, actions and behaviors. These values guide how we get our work done: Patients, Affordability, Accountability & Service Commitment, Decisiveness, Innovation & Thoughtful Risk; and how we treat each other: Diversity & Inclusion, Integrity & Respect, Learning, Continuous Improvement & Personal Growth, Teamwork & Collaboration. 
+** 
+** 
+ General Summary 
+• We are looking for a self-motivated Data Engineer to join our data engineering team. 
+• Design, Develop, construct, test and maintain architectures such as Data Lake, large-scale data processing systems 
+• Big data ecosystem related Tool selection and POC analysis 
+• Gather and process raw data at scale that meet functional / non-functional business requirements (including writing scripts, REST API calls, SQL Queries, etc.) 
+• Develop data set processes for data modeling, mining and production 
+• Integrate new data management technologies (Collibra, Informatica DQ..) and software engineering tools into existing structures 
+• The candidate will be responsible for participating in building new Data Lake in Azure, Spark, expanding and optimizing our data platform and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. 
+• The ideal candidate is an experienced data pipeline builder who enjoys optimizing data systems and building them from the ground up. 
+• The Data Engineer will support our Software Developers, Database Architects, Data Analysts and Data Scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. 
+• They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. 
+• The right candidate will be excited by the prospect of optimizing and/or re-designing our data architecture to support next generation of products and data initiatives. 
+ Principal Duties and Responsibilities 
+• Create and maintain optimal data pipeline architecture, assemble large, complex data sets that meet functional / non-functional business requirements on Hadoop and relational data systems 
+• Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, etc. 
+• Build the Hadoop infrastructure required for optimal extraction, transformation, and loading of data from traditional/legacy data sources. 
+• Work with stakeholders including the Management team, Product owners, and Architecture teams to assist with data-related technical issues and support their data infrastructure needs. 
+• Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader. 
+ Qualifications 
+• 3-5 Years of experience data engineering and building Cloud Data Lake, Azure Big Data Analytics technologies and architecture, Enterprise Analytics Solutions, and optimizing 'big data' data pipelines, architectures and data sets. 
+• Advanced hands-on SQL, Spark, Python, Scala, pySpark (2+ of these) knowledge and experience working with relational databases for data querying and retrieval. 
+• Experience with Design and Architecture of Azure big data frameworks/tools: Azure Data Lake, Azure Data Factory, Azure Data Bricks, Azure ML, SQL Data Warehouse, Azure Data Bricks 
+• Experience with Design and Architecture of Apache Hadoop big data frameworks/tools: Hadoop, Kafka, Spark, etc. 
+• Experience with Design and Architecture of relational SQL and NoSQL databases, including MS SQL Server, Cosmos DB 
+• Experience with Design and Architecture of data security and Azure security, VM, Vnet 
+• Experience with building processes supporting data transformation, data structures, metadata, dependency and workload management. 
+• Experience leading and working with cross-functional teams in a dynamic environment. 
+• Experience building Big data pipeline with Spark and/or Data Bricks is a plus. 
+• 5-7 Years of Experience with Hadoop based technologies (e.g. hdfs, Spark). Spark Experience desirable 
+• Strong SQL skills on multiple platform (preferred MPP systems) 
+• Leading development of Data Lake Architectures from scratch 
+• Data Modeling tools (e.g. Erwin, Visio) 
+• 5+ years of Programming experience in Python, SQL, Spark 
+• Experience with Azure DevOps/CI-CD, Continuous integration and deployment 
+• Experience with Real time analytics on Spark, Kafka, Event Hub is a plus 
+• Experience in petabyte scale data environments and integration of data from multiple diverse sources 
+• Cloud advanced analytics - Azure ML, machine learning, text analysis, NLP is a plus 
+• Healthcare experience, most notably in Clinical data, Epic, Clarity, Payer data and reference data is a plus but not mandatory 
+ Skills/Abilities/Competencies Required 
+• Expertise in the Azure or any other Cloud Data Lake and relational Data Warehouse platforms 
+• Demonstrated experience in Azure Analytics and Big Data technologies, Data Lake development 
+• Experience with real time data processing and analytics products - Event Hub, Kafka, Spark, Azure Data Bricks 
+• Experience with Azure Big data technologies (Azure Data Lake, Azure Data Factory, Azure Data Bricks, Azure ML, SQL Data Warehouse, HDInsight..) 
+• Azure certification preferred but not mandatory 
+• Any Big Data certification is a plus 
+• Experience managing engineering professionals 
+• Large data warehousing environments in at least two database platforms (Oracle, SQL Server, DB2, etc) 
+• Programming experience in Python, Java, SQL, good to have .Net, C# 
+• Data engineering ETL, data processing expertise in Azure (Azure Data Factory, Data Bricks..), Hadoop (map-reduce, spark, sqoop) and SSIS, HealthCatalyst, Informatica - any 2-3 of these would be preferred 
+• Familiarity with data governance and data quality principles, good to have experience with data quality tools 
+• Ability to independently troubleshoot and performance tune in large scale data lake, enterprise systems 
+• Knowledge of data architecture principles, data lake, data warehousing, agile development, DevOps methodologies 
+• Understanding of change management techniques, and the ability to apply them 
+• Excellent verbal and written communication skills, problem solving and negotiation skills 
+• Act as an effective, collaborative team member 
+ EEO Statement 
+Mass General Brigham is an Equal Opportunity Employer & by embracing diverse skills, perspectives and ideas, we choose to lead. All qualified applicants will receive consideration for employment without regard to race, color, religious creed, national origin, sex, age, gender identity, disability, sexual orientation, military service, genetic information, and/or other status protected under law. 
+Partners Healthcare System Inc. is acting as an Employment Agency in relation to this vacancy. 
+ 
+ 
+ Internal Number: 3136648-1435_1607615306 
+  __  Create a Job Alert for Similar Jobs  
+ About MGH Institute of Health Professions 
+ MGH Institute of Health Professions, founded by Massachusetts General Hospital in 1977, is an innovative and independent graduate school in Boston that is a member of Partners HealthCare. A progressive leader in developing comprehensive models of health care education, the MGH Institute prepares advanced practice professionals in the fields of nursing, physical therapy, occupational therapy and communication sciences and disorders through a distinctive combination of academic study, clinical practice, and research. More than 1,200 students are enrolled in graduate level and certificate programs, with an increasing number of courses available online. The Institute is accredited by the New England Association of Schools and Colleges (NEASC). 
+ Connections working at MGH Institute of Health Professions 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Senior Software Engineer 
+ __  Englewood, Colorado 
+ 
+ 
+ 
+ 
+ IHS Markit 
+ __Today 
+ 
+ 
+ GCP Cloud Engineer L4 
+ __  London, United Kingdom 
+ 
+ 
+ GFT 
+ __Today 
+ 
+ 
+ Senior Full Stack Software Engineer (JavaScript, C#, APIs, React/Vue, Agile) 
+ __  Boulder, Colorado 
+ 
+ 
+ IHS Markit 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

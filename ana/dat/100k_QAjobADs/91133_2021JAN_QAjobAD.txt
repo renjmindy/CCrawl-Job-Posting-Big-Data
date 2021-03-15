@@ -1,0 +1,6 @@
+ Your Qualifications 
+ Must-have: 
+ 5+years of hands-on experience and proficiency in one or more of these languages: Java, Python, Go, or C. 
+ Experience with streaming in general (e.g. spark streaming) and Kafka in particular. 
+ Development and support of Kafka integrations, including topics, producers, consumers, and streaming applications (Bonus). 
+ Experience with a cloud computing platform such as AWS, Google Cloud, or Microsoft Azure. 

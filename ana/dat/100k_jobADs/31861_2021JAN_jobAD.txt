@@ -1,0 +1,258 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+  Web development jobs  
+ 
+ Evaluating bids 
+ Simple Laravel Php Website needed 
+ Published on the March 29, 2020 in IT & Programming 
+ 
+ Project 
+ Project Insights New 
+ 
+ About this project 
+ it-programming / web-development 
+ USD 50 - 100 
+ I have a website that needs to be developed. 
+ The mobile responsive website design is ready and developed in Adobe XD format and the site needs to be in the Laravel PHP Web Framework. 
+ It consists of mostly 8 mobile-responsive pages to be built in PHP: 
+ 
+ Home Page 
+ Features 
+ Pricing 
+ Contact Us 
+ About Us 
+ Join Us 
+ Join our Waitlist 
+ Order Page 
+ 
+ No logins, no admin module. There are 4 forms that are needed. These forms are simple forms with basic validations (eg. 
+ Email addresses, numeric, filled/unfilled, etc) and will send the form contents to a specified email address. 
+ This is an urgent gig and I am looking to award the project within a week. More details such as detailed design specifications. 
+ After this project, if we are able to work well together, we have more projects to be awarded. 
+ Project overview 
+ Our startup has ambitious goals to change the way business software is used globally. Right now we need a simple website to be built. The mobile responsive website design is ready and developed in Adobe XD format and the site needs to be built in the Laravel PHP Web Framework. It consists of mostly 8 mobile-responsive pages to be built. 
+ Category  IT & Programming 
+Subcategory  Web development 
+What is the scope of the project?  Create a new custom site 
+Is this a project or a position?  Project 
+I currently have  I have the design 
+Required availability  As needed 
+Roles needed  Developer 
+ Deadline: Not specified 
+ Skills needed 
+ JavaScript   MySQL   PHP   CSS   HTML5   Responsive Web Design   Laravel 
+ Want to start working on this project? 
+ Log into  your Workana account or  Register  today. Boost your freelance work! 
+ Are you looking for a freelancer to do a similar project? 
+ Create your project and get bids from the best freelancers. 
+ Publish your own project   Send your proposal now 
+   
+  J.  
+ 1 
+ Published projects 
+ 0 
+ Projects paid 
+ Member since: October 2019 
+ Project activity 
+ 11 
+ Bids 
+ 11 
+ Interested freelancers 
+  __Previous project  
+  __Next project  
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

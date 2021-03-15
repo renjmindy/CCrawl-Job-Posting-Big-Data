@@ -1,0 +1,169 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Blockchain Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ BlockchainWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ DevOps Engineer - Monitoring 
+ [ 
+ Chainlink Labs 
+ ](/companies/chainlink) 
+ 
+ Remote 
+ 07 January, 2021 
+ Apply 
+ More jobs from Chainlink Labs About Chainlink Labs 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ APIs 
+ AWS 
+ DevOps 
+ Infrastructure 
+ Networking 
+ prometheus 
+ elk stack 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Token equity 
+ 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts - 
+ Role overview 
+ The role 
+ In this newly created role on our infrastructure team, you will take full ownership of the monitoring experience in engineering. You will have a significant impact as we grow the Chainlink eco-system and ensure the best experience for our customers by ensuring reliable uptime. 
+ Your impact 
+ 
+ Lead the design and deployment of our monitoring infrastructure to detect and alert the team of needed action 
+ Oversee the availability, performance, and supportability of our monitoring infrastructure 
+ Create processes around alert response operations and support the team to ensure the reliable delivery of oracle data. 
+ Make recommendations to ensure sufficient metrics are collected to create alerts with every new feature release 
+ 
+ Requirements 
+ 
+ 3+ years of professional experience as a software developer / DevOps engineer or equivalent 
+ Experience with Prometheus required, Cortex, a plus. 
+ Experience working with logging, monitoring, and alerting tools (e.g. ELK stack, Splunk). 
+ Experience supporting complex web applications/services and backend APIs on an AWS stack 
+ Demonstrated understanding of infrastructure as code, container networking, and security 
+ 
+ This role is location agnostic  anywhere in the world . Though we ask that you overlap some working hours with Eastern Standard Time (EST). 
+ We are a  fully distributed team  and have the tools and benefits to support you in your remote work environment. 
+ 
+ [ 
+ Chainlink Labs 
+ ](/companies/chainlink) 
+ 
+ 10-49 
+ 
+ Smart contracts are on track to revolutionize how all agreements work, through an entirely new system of technologically enforced contract guarantees. Chainlink enables next-generation smart contracts that can be written about any/all events in the real world; the details of our approach can be found in Chainlink's whitepaper. Chainlink is well recognized for providing highly secure and reliable blockchain connectivity to the world's largest enterprises, such as Google, Oracle, SWIFT, and many more. This is a unique opportunity to join one of the top companies developing cutting-edge blockchain technology while working closely together with a team of experienced senior developers. 
+ Remote Working JavaScript Blockchain Private Go Blockchain Solidity Token Equity 
+ View 11 jobs 
+ Engineers who find a new job through Blockchain Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Chainlink Labs About Chainlink Labs 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ APIs 
+ AWS 
+ DevOps 
+ Infrastructure 
+ Networking 
+ prometheus 
+ elk stack 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Token equity 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Blockchain Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Blockchain Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Distributed Systems Developer (Infrastructure & Tools)525K - 700K SEKPensionera Förmedling i Sverige ABStockholm, Sweden 
+ Build investment broker software to invest billions of SEK yearly on behalf of our customers - 
+ go aws ci/cd docker distributed systems infrastructure kubernetes 
+ More Info Apply 
+ Sr Platform DevOps Engineer¥8.0M - 12.1MPaidyJapan 
+ Take responsiblity of the production platforms for one of the fastest growing fintechs in Japan (remote/Tokyo) 
+ RemoteSponsorship 
+ aws ci/cd cassandra devops kafka terraform cloudformation low latency systems 
+ More Info Apply 
+ Backend Engineer (Java / Kotlin) - Retail Operations - Supply ChainCompetitiveZalando SEBerlin, Germany 
+ You will be building the most important supplier facing tool to plan the delivery of one million items a day 
+ Sponsorship 
+ aws cloud java 
+ More Info Apply 
+ DevOps Engineer - Monitoring 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Blockchain jobs Solidity jobs Blockchain product jobs Quant jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Blockchain articles Solidity articles Ethereum articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

@@ -1,0 +1,257 @@
+r.j.'s space 
+ on the economy, energy, & the environment 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ <- July's retail sales, industrial production, and producer prices; June's wholesale sales, business inventories, and job openings, et al 
+ August 29th graphics -> 
+ July consumer prices, new home construction, existing home sales, state jobs, et al 
+ Posted on  August 23, 2015  by  rjsigmund 
+ the key report released this week was the  Consumer Price Index for July  from the Bureau of Labor Statistics; other widely watched releases included the  New Residential Construction report for July  (pdf) from the Census Bureau, and the National Association of Realtors' report on  July existing home sales …other Labor Department releases included the  Regional and State Employment and Unemployment Summary for July  and the  July report on Real Average Hourly Earnings , which indicated that inflation adjusted and seasonally adjusted earnings for all employees increased by 0.1% from June to July as a 0.2% increase in average hourly earnings was partially offset by a 0.1% increase in the Consumer Price Index, while real average weekly earnings increased by 0.4% on a 0.1% increase in real average hourly earnings and a 0.3% increase in the average workweek….in addition, this week also saw the release of the first two regional Fed manufacturing indexes for August: the  Empire State Manufacturing Survey  from the New York Fed, which covers New York and northern New Jersey, saw their headline general business conditions index plummet nearly 19 points, from +3.9 to -14.9, its lowest reading since 2009, indicating the onset of a severe regional contraction, while the  Philadelphia Fed Manufacturing Survey , covering most of Pennsylvania, southern New Jersey, and Delaware, reported its broadest diffusion index of manufacturing conditions rose from 5.7 in July to 8.3 in August, indicating an ongoing expansion in the area's manufacturing facilities…. 
+ Consumer Prices Moderate to a 0.1% increase in July 
+ consumer inflation was subdued in July as prices for food, shelter, clothing, and gasoline saw the only significant increases…the  Consumer Price Index Summary  from the Bureau of Labor Statistics indicated that seasonally adjusted prices rose 0.1% in July after rising 0.3% in June and 0.4% in May, while lower energy costs held the year over year change to just 0.2%….the unadjusted CPI-U, which was set with prices of the 1982 to 1984 period equal to 100,  rose to 238.654 in July from 238.638 in June , actually less than 0.2% higher than the 238.250 reading of July of last year….since increases in energy and food prices were both modest, core prices, which exclude food and energy, also rose by 0.1% in July, as the unadjusted core index rose from 242.354 to 242.436, to a level 1.80% ahead of its year ago reading of 238.138… regionally, prices for urban consumers  rose 0.3% in the West, fell 0.1% in the South, 0.1% in the Northeast and were mostly unchanged in the Midwest for the month, while they've risen 1.3% in the West while falling slightly elsewhere over the past year, with a trend toward greater price increases within regions in cities of more than 1,500,000 people… 
+ the  seasonally adjusted energy price index rose by 0.1% in July  after rising 1.7% in June and 4.3% in May; nonetheless, energy prices are still averaging 14.8% lower than they were in July a year ago…prices for energy commodities were 0.7% higher in July while the index for energy services saw a 0.6% decrease, its 4th drop in 5 months….the increase in the energy commodity index was driven by a 0.9% increase in the price of gasoline, the largest component, while fuel oil prices fell 3.4% and prices for other fuels, including propane, kerosene and firewood, averaged a 2.2% decrease…within energy services, the index for utility gas service fell by 1.4%, leaving utility gas priced 14.2% below a year ago, while the electricity price index fell by 0.4%, as prices for electricity turned negative by 0.7% from last year…energy commodities are still priced 22.4% below their year ago levels, with gasoline still 22.3% lower than a year ago, while the energy services price index is now 3.7% lower than last July… 
+ the seasonally adjusted food index rose by 0.2% in July , after rising 0.3% in June and being statistically unchanged in April and May, as prices for food at home rose 0.3% while prices for food away from home were statistically unchanged, as a 0.3% average price increase at full service restaurants was offset by a 4.0% decrease in food prices at employee sites and schools…prices for all food at home categories rose in July, led by an 0.8% increase in prices for dairy and related products, which saw milk prices rise 1.4 and cheese prices 1.1% higher…the index for cereals and bakery products rose 0.2% on a 1.2% increase in prices for biscuits, rolls, muffins and a 1.5% increase in prices for frozen and refrigerated bakery products, while bread prices fell 0.5%….prices for the meat, poultry, fish, and egg group also rose 0.2% on a 3.3% increase in egg prices and and a 0.5% increase in pork prices, which were partially offset by a 0.6% decrease in chicken prices…the fruit and vegetable index rose 0.3% on a 1.1% increase in prices for canned fruits and vegetables and a 0.8% increase in citrus fruit prices, while lettuce prices fell 3.1% and apples price were 2.2% lower…lastly, the beverages index rose 0.4% as coffee prices rose 1.0% and carbonated drinks prices rose 0.9%, while the index for other foods at home rose 0.2% on 0.7% higher prices for sugar and 1.7% higher butter prices, which probably should be included in the dairy category…over the past year, egg prices are now up by 24.9% and average beef prices have risen by 10.0%, while bacon prices have declined 11.4%….the itemized list  for price changes in over 100 separate food items  is included at the beginning of  Table 2, which gives us a line item breakdown for prices of more than 200 CPI items overall … 
+ among the  seasonally adjusted core components of the CPI , which rose by 0.1% in July, the composite of all CPI commodities less food and energy commodities fell by 0.1%, while the composite for all services less energy services rose by 0.2% on 0.4% increase in the cost of shelter, which accounts for nearly more than half of the services index and one third of the total CPI…within the shelter components, both rent of one's primary residence and owner's equivalent rent rose by 0.3%, but the cost of lodging away from home rose 2.5% on a 3.0% increase in hotel and motel charges…other than shelter, prices for other services were subdued; medical care services rose 0.1% as a 0.1% decrease in prices for hospital services offset a 0.2% increase in doctor's fees, while transportation services fell 0.2% on a 5.6% drop in airfares…other services seeing a price change greater than 1% in July included intercity train fares, which were up 2.2%, ship fares, which were up 3.8%, car and truck rentals, which were up 1.8%, vehicle registration and license fees, which were up 2.3%, film processing, which was up 1.6%, video media rental, which was up 1.2%, and delivery services, which were up 1.5%.. 
+ the 0.1% lower prices for core commodities would suggest a greater increase in real personal consumption expenditures of goods for July than  the 0.6% increase we saw in last week's retail report , with the caveats that retail sales of gasoline and food would need to be adjusted separately with their appropriate price change index, and that the 0.7% increase in consumption at bars and restaurants would be included with personal consumption of services…as sales of food were flat and gas station sales were up only 0.4%, the prices changes here suggest a pullback in real consumption of both of those…but prices for new cars were down 0.4%, suggesting at least a 1.8% increase in real consumption of automotive equipment, and other key components also saw real gains, so real personal consumption expenditures of goods should see an increase at least as great as the nominal sales increase… 
+ major consumer commodities which saw prices decreases greater than 1% in July included laundry equipment, which was priced 2.9% lower, bedroom furniture, which was 1.5% lower, men's apparel, which was 1.2% lower, boys apparel, which was 2.2% lower, petfood, which was 2.0% lower. televisions, which were 1.5% lower, computer software and accessories, which were also 1.5% lower, and toys, games and playground equipment, which were priced an average of 1.0% lower than in June…meanwhile, prices for women's outerwear rose 2.5%, prices for women's footwear rose by 2.4%, and prices for newspapers & magazines rose by 1.2%…other than the aforementioned eggs, beef, bacon, and energy commodities, only telephones, which saw prices fall by 13.0%, and televisions, which were 12.3% cheaper, saw their prices change by more than 10% over the past year… 
+ New Housing Starts Flat in July; New Permits Drop 
+ the report on  New Residential Construction for July  (pdf) from the Census Bureau estimated that the widely watched count of new housing starts was at a seasonally adjusted annual rate of 1,206,000 in July, which was 0.2 percent (±15.2%)* above the revised June estimate of 1,204,000 annually and 10.1 percent (±10.8%)* above last July's rate of 1,095,000 housing starts a year…the asterisks indicate that the Census does not have sufficient data to determine whether housing starts rose or fell over the past month or even over the past year, with the figure in parenthesis the most likely range of the change indicated; thus, July housing starts could have been down 15.0% or up 15.4% for all they know, with revisions further obscuring the change, as the June annual rate of starts was revised up from 1,174,000 to 1,204,000 units…those annual rates of starts indicated by the headline change are extrapolated from a  survey of a small percentage of permit offices visited by Census field agents , which estimated that 112,300 housing units were started in July, down from 112,700 units started in June, which was initially estimated at 110,400 housing starts…the unadjusted estimates also show that housing starts were down in the Northeast and down slightly in the West, while they were up in the South and Midwest, with only the 28.5% decrease to 14,800 units started in the Northeast greater than the statistical margin of error for that region… 
+ as we've noted previously, the monthly data on new building permits, with a smaller margin of error, are probably a better monthly indicator of new housing construction trends than the volatile and often revised starts data, but these have also presented us with an anomaly of late… in July, Census estimated new permits were issued at a seasonally adjusted annual rate of 1,119,000, which was 16.3 percent (±1.1%) below the revised June rate of 1,337,000 permits annually,  the largest one month drop since 2008 , but still 7.5 percent (±1.4%) above the rate of permit issuance a year earlier…the drop in permits was precipitated by the expiration of a New York tax break for multi-family construction, which resulted in builders bulking up on permits in the months prior to the expiration, only to stop seeking permits in July…not only did this result in this month's record drop, but the back to back 8 year record highs of new permits we reported on in  May  and  June …the estimates for new permits reported here were extrapolated from the unadjusted estimate which showed permits for 100.900 housing units were issued in July, which was down from the estimated 134100 new permits issued in June…that change was driven by the change in permits in the Northeast, which dropped to 10,700 in July from 31,100 in June and 25,600 in May, an anomaly which we noted at the time but didn't understand until this week….permits were down in all other regions as well, though, so the July drop in permits was real even without that Northeast anomaly… 
+ July Existing Home Sales Top June Post-Recession Sales Record 
+ the National Association of Realtors (NAR) reported that  seasonally adjusted existing home sales rose by 2.0% in July , projecting that 5.59 million homes would sell over an entire year if July sales were extrapolated over that year, a rate 10.3% higher than the annual rate projected in July of a year ago, and the greatest pace of existing home sales since February 2007…the annual rate of June home sales was revised from 5.49 million to 5.48 million….the NAR also says that the median existing-home price for all housing types in June was $234,000, which was up 5.6% from a year earlier and the 41st consecutive year over year increase in home prices…the NAR press release, which is titled  Existing-Home Sales Maintain Solid Growth in July  , is in easy to read plain English, so there's no point in our restating what they already clearly report…as sales of existing properties do not add to our national output, neither these sales nor the prices for which these homes sell are included in GDP, except insofar as real estate, local government and banking services are rendered… 
+ since this report is entirely seasonally adjusted and at a fairly meaningless annual rate, we'll take a look at the  raw data overview  (pdf), which shows that 552,000 homes actually sold in July, down 3.5% from the 572,000 homes that sold in June (which was revised from 573,000) but still up 11.7% from the 494,000 homes that sold in July last year…the regional change in July sales ranged from an increase of 11.1% to 80,000 home sales in the Northeast to a 12.4% decrease to 113,000 home sales in the West….that same pdf indicates that the median home selling price for all housing types fell from a revised $236,300 in June to $234,000 in July, while the average home sales price was $278,000, down 1.8% from the $273,000 average in May, and up 4.6% from the $268,100 average home sales price of June a year ago, with the regional averages ranging from a low of $223,300 in the Midwest to a high of $360,600 in the West…for additional coverage with long term graphs on this report, see  Existing Home Sales Are On Fire  by Robert Oak at The Economic Populist… 
+ July State and Regional Employment Report 
+ the  Regional and State Employment and Unemployment Summary for June  expands on  the national employment situation summary of two weeks ago  by breaking down the state and regional details…as with most BLS reports,  the press release  is very readable & self explanatory, with BLS referring to appropriate  tables linked to at the bottom of the press release  wherever relevant, and with tables and coverage of 50 states, it's more thorough than we can meaningfully cover in a short synopsis….the BLS table corresponding to household survey data, including  the seasonally adjusted count of the unemployed and the unemployment rate for each state, is here ….for graphics on that, David Cooper at the Economic Policy Institute includes current and long term interactive maps of the unemployment rates for the 50 states here:  More of the Same in the July State Jobs Report …. 
+ the pdf version of this report  also includes map graphics for both the employment rate and the year over year payroll jobs increase by state and region…for a breakdown of payroll employment by job type for each state over the past 3 months, and the change in employment since last July, see the following two BLS tables accompanying this release:  Table 5. Employees on nonfarm payrolls by state and selected industry sector, seasonally adjusted  and  Table 6. Employees on nonfarm payrolls by state and selected industry sector, not seasonally adjusted  …the latter two tables are very detailed, giving you both actual and seasonally adjusted totals for jobs in each state and the District of Columbia in several categories, including construction, manufacturing, trade, transportation and utilities, financial, professional and business services, education and health services, leisure and hospitality and government…. 
+ 
+ (the above is the synopsis that accompanied my regular sunday morning links emailing, which in turn was mostly   selected from my weekly blog post   on the   global glass onion   …if you’d be interested in receiving my weekly emailing of selected links, most from the aforementioned GGO posts,   contact me   …) 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- July's retail sales, industrial production, and producer prices; June's wholesale sales, business inventories, and job openings, et al 
+ August 29th graphics -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ global oil supply near December's demand; US distillates exports at a 40 mo low​; gasoline production at a 34 week low​ 
+ December's consumer & producer prices, retail sales, & industrial production; November's business inventories & JOLTS 
+ tables and graphs for January 16 
+ gasoline demand at a 32 week low, gasoline supplies up ​most in 3​5 weeks; distillate​s​ supplies​ up most in 31 weeks​ 
+ December's jobs report; November's trade deficit, construction spending, factory inventories, and wholesale trade.. 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ rjsigmund  on  tables and graphics for Novemb… 
+ 
+ 
+ 
+ 
+ Marsha Boggs on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ godfrey on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ October 2011 
+ September 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ 
+ 
+ 
+ Categories 
+ 
+ mortgage crisis 
+ retail sales 
+ Uncategorized 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  r.j.'s space  
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

@@ -1,0 +1,6 @@
+ Qualifications 
+ As our ideal candidate, 
+ You are able to troubleshoot issues quickly and effectively 
+ You have experience working alongside and supporting multiple Agile development teams 
+ You have experience building and optimizing complex data pipelines, architectures and data sets. 
+ You are able to build processes supporting data transformation, data structures, metadata, dependency and workload management. 

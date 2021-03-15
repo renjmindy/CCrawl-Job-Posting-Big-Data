@@ -1,0 +1,12 @@
+ Preferred Qualifications 
+ Experience with React Native 
+ Degree in CS, Engineering or equivalent through experience 
+ Great communication and collaboration skills, and a strong teamwork ethic. 
+ Critical thinking skills and high attention to detail. 
+ Be able to educate and give direction to junior members. 
+ Nice To Have Qualifications: 
+ Good knowledge in asynchronous programming using RxJava or Kotlin coroutines. 
+ Knowledge of Gradle scripting 
+ [ 
+ Paidy 
+ ](/companies/paidy) 

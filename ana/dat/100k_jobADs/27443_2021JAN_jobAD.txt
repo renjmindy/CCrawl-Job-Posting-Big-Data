@@ -1,0 +1,94 @@
+   Close Ad 
+ Continue to WorkScoop.com __ 
+ Subscribe  About   RSS 
+ 
+  Brought to you by __ 
+ __ 
+ __ 
+ 
+ Tech 
+ Policy 
+ Culture 
+ Training 
+ Jobs 
+ Listen 
+ Watch 
+ Events 
+ 
+ Upcoming Virtual Events 
+ On-Demand Events 
+ Past Events 
+ 
+ 
+ Content Studio 
+ 
+  Tech  
+ For North Korea, phishing with fake job-recruitment emails never gets old 
+ 3D Isometric Flat Vector Concept of Fight For the Job, High Unemployment Caused by Pandemic and Global Lockdown, Job Search, HR and Recruitment. 
+ Written by  Sean Lyngaas 
+Jul 30, 2020 | WORKSCOOP 
+ Give someone an undetected software exploit and they’ll have access to a system for a day, the security researcher The Grugq once  said,  but teach them to phish and they’ll have “access for life.” 
+ North Korean hackers have been following that bit of social-engineering wisdom to a T. In recent years, they have consistently posed as job recruiters to try to phish their way into the networks of aerospace and defense firms on multiple continents. The latest activity— a months-long spying campaign against aerospace and defense firms — was  revealed  this week by researchers from McAfee. Malware from the campaign has been detected in the U.S. and Europe. 
+ The suspected North Korean hackers appear to be spearphishing their targets using Microsoft Word documents with job descriptions involving active defense contracts, according to McAfee. Their goal is to use that foothold to plant additional code to gather data on their targets, the researchers said. It’s unclear how successful the hackers have been in gathering data or what they've done with it. North Korea has one of the biggest active-duty militaries in the world, and Pyongyang has every interest in surveilling the capabilities of its adversaries. 
+ “It’s ongoing—we discovered a new [malicious] document last week,” Christiaan Beek, senior principal engineer and lead scientist at  McAfee , said of the hacking campaign. 
+ Public exposure hasn’t made the North Koreans any less willing to use the job-recruitment ploy. A 2018 Department of Justice criminal complaint alleged that North Korean hackers had posed as a job recruiter to try to breach U.S. defense firm Lockheed Martin, prosecutors said. The trick didn’t work that time, but its success elsewhere means the North Koreans have every reason to keep using it. 
+ The hackers have made a point of copying job descriptions from the defense contractors’ websites, focusing on sensitive work in military surveillance and security programs. 
+ “Human beings are curious and flattered when we receive an interesting job offer from an interesting company,” Beek told CyberScoop. “If you were to receive a job offer for…a reporting position at an interesting company, wouldn’t you open it, too [after checking the email-headers of the source]?” 
+ The use of  LinkedIn  can make it easier to reach targets. In late 2019, a group of spies  posing as headhunters  used LinkedIn to hack employees at two European aerospace and defense firms. ESET, the anti-virus company that investigated, couldn’t confirm that North Korea was behind the hacking. But they didn’t name any other suspects, either. 
+ On Thursday, the European Union  announced sanctions  against a North Korean firm for its alleged role in the 2017  WannaCry ransomware attack  and the 2016 theft of $81 million from the Bank of Bangladesh. 
+ -In this Story- 
+ aerospace ,  defense contractors ,  espionage ,  Lazarus Group ,  McAfee ,  Military ,  North Korea 
+ Related news 
+ 
+  Tech  
+ [ 
+ Automated cyberthreat intelligence pilot reduced states' response times to minutes 
+ ](https://workscoop.com/2021/01/11/automated-cyberthreat-intelligence-pilot) 
+ by  Benjamin Freed  • 2 weeks ago 
+ 
+  Tech  
+ [ 
+ Pandemic was 'stress test' for data office, says Kansas City official 
+ ](https://workscoop.com/2021/01/11/kansas-city-covid-19-data-stress-test) 
+ by  Ryan Johnston  • 2 weeks ago 
+ 
+  Tech  
+ [ 
+ SolarWinds hires Chris Krebs, Alex Stamos to boost security in wake of suspected Russian hack 
+ ](https://workscoop.com/2021/01/07/solarwinds-chris-krebs-alex-stamos) 
+ by  Sean Lyngaas  • 2 weeks ago 
+ 
+ 
+ Ad Specs 
+ 
+ 
+ Sponsor 
+ 
+ 
+ RSS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+ Privacy Policy © 2021 Scoop News Group | All Rights Reserved 
+ 
+         
+ Privacy Policy  © 2021 Scoop News Group | All Rights Reserved 
+ Search for: 
+ The latest news and trends on the government IT workforce, delivered straight to your inbox. 
+ SIGN UP FOR OUR WEEKLY NEWSLETTER. 
+ Privacy Policy 
+ We use cookies  to provide you with the best experience across all Scoop News Group websites. By using Scoop News Group websites, you consent to the use of cookies.  Learn more 
+ GOT IT! 
+ 

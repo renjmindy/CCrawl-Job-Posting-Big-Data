@@ -1,0 +1,180 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Python Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ PythonWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Backend Developer 
+ [ 
+ gridX 
+ ](/companies/gridx) 
+ Aachen, Germany 
+ 11 October, 2020 
+ Apply 
+ More jobs from gridX About gridX 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Github 
+ Golang 
+ Python 
+ PostgreSQL 
+ REST 
+ http 
+ grpc 
+ JSON 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Flexible working for parents 
+ Educational opportunities 
+ Top of the range equipment 
+ 
+ Join a top notch team and make an impact by digitizing the energy industry! 
+ Role overview 
+ We are an ambitious team. That means you can have a lot of responsibility in the beginning. But it also means that there are many interesting challenges you can specialize in. One of the exciting topics on which we work is: 
+ 
+ Distributed IoT Platform: We aim to create a system with no single point of failure. Therefore we are building a state-of-the-art platform 
+ Highly-Available Cloud-Connected IoT Device: We brought the learnings from our cloud platform to the embedded world. Aiming to create a device that can be updated at any time. Assuring that it runs the latestnewest software we built our own operating system running containers for the gridBox - gridOS X. 
+ Data Centric Applications: Each gridBox produces plenty of data which needs to be stored, analyzed and visualized for our customers. We want to give our customers the best experience possible by providing insights and visualizations of their energy consumption and production. 
+ 
+ Your responsibilities in detail: 
+ 
+ Show the world how to change to a renewable and decentralized energy system 
+ You are responsible for the backend services that power the gridX platform 
+ You will support our Backend team by building new, innovative features that enrich the gridX platform 
+ You build products that people love 
+ 
+ Your Profile: 
+ 
+ You have experience with Web Technologies (JSON, REST, HTTP, RPC) 
+ You have experience with relational databases (we use Postgres) 
+ You are proficient in at least one modern backend language (e.g. Go, Python, Java; we primarily use Go) 
+ You are comfortable using version control systems (git, GitHub) 
+ You know software development best practices 
+ You like to be challenged and work with high-performing co-workers 
+ Bonus points: You have experience using Linux systems 
+ Bonus points: You have a record of open source contributions 
+ Bonus points: You have experience with container technology 
+ 
+ 
+ [ 
+ gridX 
+ ](/companies/gridx) 
+ 
+ 10-49 
+ 
+ We believe in a future where all DERs are connected and optimized to efficiently power the new energy age! Our passionate and interdisciplinary team at our offices in Aachen and Munich is ready to face the digital transformation of various industries: With our interoperable IoT platform we bring connectivity, analytics and intelligent control into decentralized energy systems. Whether it's maximizing the self-sufficiency of buildings, intelligent charging strategies for EVs, cross-sector optimization of branches and districts, control of virtual power plants or completely new business models - the gridX platform enables our partners to bring their customers one step ahead of the competition and continuously create added value. Join us disrupting the international energy sector with our cutting edge IoT platform! 
+ Energy Series A AWS DynamoDB Golang KUBERNETES Flexible working for Parents Educational opportunities 
+ View 1 job 
+ Engineers who find a new job through Python Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from gridX About gridX 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Github 
+ Golang 
+ Python 
+ PostgreSQL 
+ REST 
+ http 
+ grpc 
+ JSON 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Flexible working for parents 
+ Educational opportunities 
+ Top of the range equipment 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Data Engineer£60K - 85K + EquityCredit KudosLondon, United Kingdom 
+ Leveraging Open Banking data to remove the bias in credit scoring 💳 
+ aws gcp golang python terraform bigquery 
+ More Info Apply 
+ Software Engineer£70K - 120K + EquityCMDTYLondon, United Kingdom 
+ Diverse New York/London startup using technology to streamline the physical commodities supply chain 
+ aws kubernetes python postgresql react terraform typescript 
+ More Info Apply 
+ Backend Software Engineer (Go) - Amsterdam€60K - 80K + EquityStreamAmsterdam, Netherlands 
+ As a developer at Stream, you will build software that's used by tens of thousands of developers. 
+ go api backend python postgresql rabbitmq redis http 
+ More Info Apply 
+ Backend Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Python jobs Django jobs Ansible jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Python articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

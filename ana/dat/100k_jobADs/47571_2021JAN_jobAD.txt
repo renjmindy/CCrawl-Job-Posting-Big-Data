@@ -1,0 +1,69 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Engineering Manager/ Lead 
+ Cover 
+ __Toronto, ON 
+ Apply Now 
+ Think insurance is boring? We did too. So we built a company that takes everything you think you know about buying insurance and turns it on its head. 
+ At Cover, want to become the largest and most customer centric insurance company in the world. 
+ Founded in 2016, Cover is a mobile-first insurance platform licensed in all 50 states, working with over 35 carriers. We were part of Y Combinator's W16 batch, and have gone on to raise $27 million across three funding rounds backed by world class investors. 
+ We're growing fast. In the past year we've scaled the team from 30 to 100 people across our San Francisco and Toronto offices. Across our diverse and multi-skilled team we're working together to deliver a service that's effortless to interact with, transparently priced, and built on a sustainable and long term footing. 
+ We're pushing hard to make our vision of insurance a reality and we want dedicated, inquisitive and collaborative people who are ready to play their part in achieving our goal. 
+ The Role 
+ A tech-agnostic,Engineering Manager/Lead. A transformer, a relationship-builder, a pitch-in wherever I'm needed team player. Someone who wants to be a leader and a doer. Whether you have a few years of experience working in start-ups or insurance or you've founded a company or two yourself; this is an opportunity for an Engineering Manager/Lead who wants to help our team architect, build, scale and automate across our product pipeline from user experience to insurance data reconciliation and reporting. 
+ Qualifications 
+ Tech experience, you have 6 + years hands-on experience with: 
+A front-end framework like React, Angular, JQuery,etc. (or combinations) 
+ A back-end framework like Nodejs, Ruby on rails, Go, etc. (or combinations) 
+ Relational databases (PostgreSQL). 
+ Experience with Micro Services or Distributed Sytems 
+ Building and scaling user-focused mobile applications. 
+ Knowledge of architectural styles and design patterns, concurrency and scaling. 
+ Able to identify technologies and architectural patterns to solve business problems. 
+ Prototype potential solutions to determine feasibility, complexity, risk and cost. 
+ Management/lead experience:  2+ years hands-on management experience with: 
+ Planning, scoping, estimating, delivering software projects in an agile setting (Jira, Pivotal,etc.) 
+ Conducting 1:1s with direct reports, assessing skills, building career growth plans 
+ Experience in Event Driven Design 
+ Onboarding, offboarding, performance assessments, recruiting, interviewing 
+ Previously managed a dedicated team of Developers (3-5+) at all levels in a variety of engineering areas: architecture, testing, coding, reviews, performance 
+ The passion. You want to make a difference and see the impact of what you do working on mission critical systems. 
+ The collaborative approach. You know how to write clean, easy-to-understand code. You strive for perfection and have a history of shipping well-tested code quickly. 
+ The communication skills. You have outstanding oral and written skills. You can translate business to technical and vice versa easily. You are comfortable working with stakeholders at any level. 
+ We Believe in Equal Opportunity 
+ We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ L3Qtgf46b0 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

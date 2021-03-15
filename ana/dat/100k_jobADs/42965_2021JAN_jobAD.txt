@@ -1,0 +1,186 @@
+  Return to Workato 
+ __ 
+ __Menu  __Edit this page 
+  GitHub  (opens new window) 
+ 
+ 
+ Introduction 
+ 
+ 
+ Getting started 
+ 
+ 
+ Product Updates (opens new window) 
+ 
+ 
+ Concepts 
+ 
+ 
+ Connecting apps 
+ 
+ 
+ Building recipes 
+ 
+ 
+ Running recipes 
+ 
+ 
+ Troubleshooting 
+ 
+ 
+ Data types and formulas 
+ 
+ 
+ Tools 
+ 
+ 
+ Files and attachments 
+ 
+ 
+ Batch processing 
+ 
+ 
+ Teams and collaboration  
+ 
+ 
+ People Task by Workato  
+ 
+ 
+ Recipe lifecycle management  
+ 
+ 
+ On-prem connectivity  
+ 
+ 
+ Key features  
+ 
+ 
+ Workbot for Slack  
+ 
+ 
+ Workbot for MS Teams  
+ 
+ 
+ Workbot for Workplace  
+ 
+ 
+ API Platform  
+ 
+ 
+ Connectors 
+ 
+ 
+ Universal connectors  
+ 
+ 
+ Community connectors  
+ 
+ 
+ Connector SDK  
+ 
+ 
+ Custom OAuth profiles  
+ 
+ 
+ Workato API  
+ 
+ 
+ Security  
+ 
+ 
+ Training & Certification 
+ 
+ 
+ Contact us 
+ 
+ 
+ # Jobs 
+ When an active recipe processes a trigger event and runs the sequence of actions, as defined in the recipe logic, it creates a  job . Each job holds a unique trigger event and executes its recipe logic based on that data (e.g. running  If..Then  action based on the availability of the data). 
+ Workato provides complete details into the execution flow of a job, i.e. what steps were executed, and the data input and output from every step. Workato also supports rerunning of jobs, in cases whereby an error stops a job from full completion. 
+ Automation Institute 
+ Learn to manage job reports and recipe versions on Workato's Automation Institute. Complete the course and become a certified Automation Pro. Find out more  here (opens new window) 
+ # Jobs report 
+ The jobs report is a record of all processed jobs. For each processed job, you can view complete details i.e. execution flow, data input/output from every step. 
+ Information such as date, time processed and job IDs, can be found here. The following shows the default jobs report page. 
+ Jobs report will only retain data for a limited duration corresponding to your account's data retention policy. Find out more  here (opens new window) . 
+ Default jobs report page 
+ # Custom report 
+ The jobs report can be further customized to show any data available in the recipe, e.g. if processing invoices, your job report can have Invoice ID, Invoice amount, etc. Below, as the recipe is retrieving details about a Zendesk ticket, the relevant IDs and names are reflected in the custom jobs report. 
+ Customized jobs report page 
+ To create a custom jobs report, click on the 'Customize report' tab. You cannot create custom jobs reports when the recipe not active. If you want to edit an active recipe, select  stop recipe  before creating the custom report. Remember to select  start recipe  after you are done with the configuration. 
+ You can use datapills from any data tree in your recipe for the column values. In the example below, the custom jobs report contains the Salesforce name and Salesforce IDn. 
+ Customization of jobs report 
+ # Job details 
+ The job details page shows the input data and output data of each step in the recipe, allowing you to inspect the job and debug it if needed. 
+ Each job details page includes: 
+ 
+ 
+ Job Metadata  The top part of the page holds the job metadata - job ID, repeat # (the rerun number of this job), the recipe version that the job was carried out on, the status of this job etc. 
+ 
+ 
+ Job step details  The bottom part of the page holds the execution details of the job. Expand the steps to view the input and output data. 
+ 
+ 
+ Job details page 
+ To view job details, simply click on the job you are interested in seeing. This brings you into the job details screen, where the sequence of actions carried out by the job is listed in detail. 
+ From the job details screen, you can view detailed information about each job as well as step-level information. This is useful in several ways: 
+ 
+ Debugging your recipe 
+ 
+ During testing, jobs may show up as completed in the jobs report, but they might not be processed in the manner you expect - taking a look at the exact steps processed by the recipe will help in ensuring the recipe is processing jobs in the expected manner. 
+ 
+ Troubleshooting your job errors 
+ 
+ If jobs fail, you can take a look at the run-time data to understand why the job failed at a specific step. 
+ # Job status 
+ Jobs can have the following statuses: 
+ 
+ 
+ 
+ Status 
+ Description 
+ 
+ 
+ 
+ 
+ Completed 
+ This indicates that the job was processed successfully. 
+ 
+ 
+ Failed 
+ This indicates that the job ended because of an error. Errors can generally be attributed to failures in executing actions. e.g. an app was not reachable, or a contact being added already exists, etc. 
+ 
+ 
+ 
+ When an error is encountered, job execution stops i.e. downstream steps are not executed. Such jobs may create incomplete records in your apps as it failed before finishing all steps. 
+Processing | This indicates that the job is still being processed. 
+Paused | Paused jobs indicate that the job containing  long actions  was paused when the recipe was stopped 
+Aborted | This is a rare state that a job can get into if it has pending jobs and the recipe has been affected in a manner that these pending jobs cannot finish processing. 
+ # Paused jobs 
+ Recipes containing  long actions  may run for a while, upto minutes and hours, depending on the recipe. When a user stops a recipe, the jobs that are in the processing state are  paused . Paused jobs resume when the recipe is restarted.   Pause jobs 
+ If the recipe is edited and saved, the recipe will be on a new version. The paused jobs are resumed with the  same  recipe version with which it was first started. In this example, the job started with recipe version 1. It will resume and complete after recipe modifications and restart with the recipe version 1 with which it was started.   Resume jobs 
+ After recipe restart, new jobs are executed using the new version of the recipe. In this example, the new job has started with the recipe version 3.   New jobs 
+ # Errors 
+ If your job encounters an error and stops processing before it should, the job details page will indicate the failed step. Expand it to view the details. 
+ Job error 
+ # Conditional step 
+ When conditional actions are expanded, there is a single "Output" tab. This shows whether the condition evaluated to true or false. If true, the nested actions take place. If false, the nested actions do not take place, and the recipe proceeds to the next possible action. 
+ In the following example, we see that the conditional action in step 4 was evaluated as false. In this case, step 5 was not carried out as  Condition was not met . However, step 6 was evaluated as true. Subsequently, step 7 was executed and its action details can be retrieved. 
+ Job details for recipe with conditional action 
+ In the example below, the condition at step 5 was not met. THus, the conditional statements were not carried out. 
+ Job details for recipe with conditional action - condition not met 
+ # Repeat step 
+ Repeat steps will not display steps made during all iterations. For example, if your foreach step processed a list with 10 items, only the last (tenth) item will show up in the job details page. 
+ Similarly, when an error occurs within a repeat step, the job details will show only the steps carried out in that particular iteration, and not any other iteration before that. 
+ # Rerun jobs 
+ Any job (completed, failed, etc.) can be rerun. Workato stores the data of the trigger event, and reruns jobs using this copy of the trigger event. 
+ Rerun of a job will always use the latest version of the recipe. i.e. if the recipe has been modified since the job ran, rerun will use the most recent version. 
+ You can find out more about job reruns  here . 
+ # Timeouts 
+ If a job or a single step is taking too long to execute, it will time out. The current limit is 90 seconds for a single step, and 90 minutes for a single job. The error message for a job that times out will explicitly mention the reason. 
+ In these cases, you might have to further optimize your recipe to ensure that they don't hit this time limit. 
+ ←   Skip step     Jobs report   → 
+ Didn’t find what you are looking for? 
+ Search our resource library View getting started guides, tutorials, training videos, webinars and FAQ   Ask our community View questions and answers from other users and Workato experts.   File a support ticket File a support ticket for critical issues that require a higher level of support. 
+ Privacy   Terms   (844) 469-6752  Workato 2021 
+       

@@ -1,0 +1,394 @@
+
+ Products 
+ [Workforce Analytics & Productivity Platform 
+ Powerful, insightful, and incredibly easy to use. Explore the full Workpuls suite. 
+ ](/features) 
+ Don't just take our word for it. See Workpuls for yourself. 
+ [Employee Monitoring 
+ Measure and boost workforce productivity by capturing and analyzing activities in real time. 
+ ](/employee-monitoring)[Time Tracking 
+ Keep projects on track and budget with the most definitive proof of work. 
+ ](/time-tracking) 
+ [Time & Attendance 
+ Automatic time & attendance for remote employees backed by real proof of work. 
+ ](/timesheets)[Automatic Time Mapping 
+ Eliminate human error and manual entry while getting the most precise time tracking. 
+ ](/automatic-time-mapping)Employee Productivity 
+ Lorem ipsum dolor sit amet, consectetur adipiscing 
+ Insider Threat Detection 
+ Lorem ipsum dolor sit amet, consectetur adipiscing 
+ Solutions 
+ company type 
+ [ 
+ Enterprise 
+ ](/enterprise) 
+ industries 
+ [ 
+ Architects 
+ ](/time-tracking-architects)[ 
+ Insurance 
+ ](/insurance)[ 
+ Healthcare 
+ ](/healthcare)[ 
+ Call Center 
+ ](/call-center)[ 
+ Law Firm 
+ ](/law-firms)[ 
+ Virtual Assistant 
+ ](/virtual-assistant) 
+ use cases 
+ [ 
+ On Premise 
+ ](/on-premise)[ 
+ Work From Home 
+ ](/work-from-home)[ 
+ Remote Workers 
+ ](/remote-workers)[ 
+ Activity Monitoring 
+ ](/user-activity-monitoring)[ 
+ Productivity Montoring 
+ ](/productivity) 
+ Resources 
+ [ 
+ Help Desk 
+ ](https://help.workpuls.com)[ 
+ Case Studies 
+ ](/customers)[ 
+ Blog 
+ ](/blog)[ 
+ Partners 
+ ](/partners)[ 
+ API & Developers 
+ ](http://developers.workpuls.com/) 
+ 
+ Pricing 
+ Demo 
+ Contact 
+ Sign-In 
+ Start Free Trial 
+ Products 
+ Workforce Analytics & Productivity 
+Platform Workforce Analytics & Productivity Platform 
+ Employee Monitoring 
+ Time Tracking 
+ Time & Attendance 
+ Automatic Time Mapping 
+ Solutions 
+ COMPANY TYPE 
+ Enterprise 
+ INDUSTRIES 
+ Architects Insurance Healthcare Call Center Law Firm Virtual Assistant 
+ USE CASES 
+ On Premise Work From Home Remote Workers Activity Monitoring Productivity Montoring 
+ Resources 
+ Help Desk Case Studies Blog Partners API & Developers 
+ 
+ Pricing Demo 
+ Start Free Trial Sign In 
+ Time Tracking 
+ The Fall of 9-to-5 Office Jobs: Why They’re Becoming Obsolete and How to Deal with That 
+ Flexible working hours are becoming ever more popular. Will the benefits of flexible schedules and the use of time tracking software to make it work perfectly spell the demise of traditional 9-to-5 office jobs? 
+ Posted on 
+ July 30, 2019 
+ by 
+ Kristina Valjarevic 
+ ‍ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OVERVIEW 
+Price  | $6/user/month | $6/user/month | $7.20/user/month | $7/user/month | $7/user/month | $9.99/user/month | $6/user/month | $9.99/user/month | $150/licence/year | $60/licence (lifetime) 
+Free trial | 7 days | 7 days | No | 14 days | 14 days | 14 days | 30 days | 7 days | Yes | 30 days 
+Ease of use | Very easy | Difficult | Very easy | Easy | Easy | Very easy | Very easy | Very easy | Very difficult | Easy 
+TRACKING METHODS 
+Unlimited (tracker working 24/7) |  |  |  |  |  |  |  |  |  | 
+Fixed (defined working hours) |  |  |  |  |  |  |  |  |  | 
+Automatic (when computer is connected to a specified network) |  |  |  |  |  |  |  |  |  | 
+Manual (start/stop) |  |  |  |  |  |  |  |  |  | 
+Project based (track time only on projects) |  |  |  |  |  |  |  |  |  | 
+ GENERAL MONITORING FEATURES 
+Stealth mode |  |  |  |  |  |  |  |  |  | 
+App and website usage |  |  |  |  |  |  |  |  |  | 
+Real-time monitoring |  |  |  |  |  |  |  |  |  | 
+Offline time tracking |  |  |  |  |  |  |  |  |  | 
+Attendance |  |  |  |  |  |  |  |  |  | 
+Activity levels |  |  |  |  |  |  |  |  |  | 
+Keylogger |  |  |  |  |  |  |  |  |  | 
+Geolocation |  |  |  |  |  |  |  |  |  | 
+Remote desktop control |  |  |  |  |  |  |  |  |  | 
+Website/activity blocking |  |  |  |  |  |  |  |  |  | 
+SCREENSHOTS AND RECORDING 
+Screenshots |  |  |  |  |  |  |  |  |  | 
+Screenshots on demand |  |  |  |  |  |  |  |  |  | 
+Screen recording |  |  |  |  |  |  |  |  |  | 
+PRODUCTIVITY FEATURES 
+Productivity trends |  |  |  |  |  |  |  |  |  | 
+Websites and apps labeling |  |  |  |  |  |  |  |  |  | 
+Category labeling |  |  |  |  |  |  |  |  |  | 
+Productivity alerts |  |  |  |  |  |  |  |  |  | 
+ADVANCED SECURITY FEATURES 
+User behavior analytics |  |  |  |  |  |  |  |  |  | 
+Data loss prevention |  |  |  |  |  |  |  |  |  | 
+Advanced file and web monitoring |  |  |  |  |  |  |  |  |  | 
+ REPORTING 
+Productivity reports |  |  |  |  |  |  |  |  |  | 
+Team reports |  |  |  |  |  |  |  |  |  | 
+Timelines |  |  |  |  |  |  |  |  |  | 
+Email reports |  |  |  |  |  |  |  |  |  | 
+Access management |  |  |  |  |  |  |  |  |  | 
+PLATFORMS 
+Web |  |  |  |  |  |  |  |  |  | 
+Mac desktop app |  |  |  |  |  |  |  |  |  | 
+Windows desktop app |  |  |  |  |  |  |  |  |  | 
+Linux desktop app |  |  |  |  |  |  |  |  |  | 
+Mobile app |  |  | iOS, Android | iOS, Android | iOS, Android | iOS, Android | iOS, Android |  | Android | 
+Browser extension |  |  | Chrome | Chrome |  | Chrome |  |  |  | 
+Other |  | Citrix, VMware |  |  |  |  | Chrome OS |  |  | 
+OTHER 
+Support | Phone, email, online | Phone, email, online | Phone, email, online | Email, online | Phone, email, online, in-person | Online | Phone, email, online | Email, online, Viber, Whatsapp | Phone, email, online, support ticket | Phone, email, online 
+Knowledge base |  |  |  |  |  |  |  |  |  | 
+Video tutorials |  |  |  |  |  |  |  |  |  | 
+Integrations | comming soon |  |  |  |  |  |  |  |  | 
+API |  |  |  |  |  |  |  |  |  | 
+Deployment | cloud, on-premise | cloud, on-premise, AWS, Azure | cloud | cloud | cloud | cloud | cloud | on-premise | cloud, on-premise | on-premise 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OVERVIEW 
+Price(per month)| Available upon request| From $2 per user| Available upon request| From $6.40 per user+$16| Free for up to 75 users| From $2.50 per user| Basic plan:$30 for 5 users+$5 per additional user| From $1.50 per employee| From $4 per user+$8| From $2.20 per user| $5.99 per user per month 
+Free trial| | 30 days| | 14 days| | Yes| 14 days| 14 days| 14 days| 30 days| 30 days,no credit card required 
+Ease of use| Difficult| Easy| Difficult| Very easy| Easy| Easy| Difficult| Very easy| Easy| Easy| Easy 
+FEATURES 
+Timecard management| | | | | | | | | | | 
+Scheduling| | | | | | | | | | | 
+Shift Trading| | | | | | | | | | | 
+Timesheets| | | | | | | | | | | 
+Break time management| | | | | | | | | | | 
+Real-time tracking| | | | | | | | | | | 
+PTO Management| | | | | | | | | | | 
+Payroll| | | | | | | | | | | 
+Invoicing| | | | | | | | | | | 
+Client billing| | | | | | | | | | | 
+GPS tracking| | | | | | | | | | | 
+Clock out reminders| | | | | | | | | | | 
+Alerts| | | | | | | | | | | 
+Manual time| | | | | | | | | | | 
+PUNCH-IN METHODS 
+Web app| | | | | | | | | | | 
+Mobile app| | | | | | | | | | | 
+Time clock device| | | | | | | | | | | 
+Time clock kiosk| | | | | | | | | | | 
+Facial recognition| | | | | | | | | | | 
+Fingerprint scanning| | | | | | | | | | | 
+Geofencing| | | | | | | | | | | 
+Group punch-in| | | | | | | | | | | 
+REPORTING| Visual reports| | | | | | | | | | | 
+Email reports| | | | | | | | | | | 
+Time rounding| | | | | | | | | | | 
+MANAGEMENT 
+Permissions| | | | | | | | | | | 
+Manager approvals| | | | | | | | | | | 
+Add time for others| | | | | | | | | | | 
+Integrations| | | | | | | | | | | 
+PLATFORMS 
+Web| | | | | | | | | | | 
+Android app| | | | | | | | | | | 
+iOS app| | | | | | | | | | | 
+Mac desktop app| | | | | | | | | | | 
+Windows desktop app| | | | | | | | | | | 
+Linux desktop app| | | | | | | | | | | 
+OTHER 
+Support| Phone and online| Phone and online| Phone,chat and online| Phone and chat| Email and online| Chat and phone| Phone,email,chat and online| Phone and online| Phone,email,chat and online| Phone and online| Online chat and video support in English,French,and Spanish 
+Knowledge base| | | | | | | | | | | 
+Video tutorials| | | | | | | | | | | 
+Community forum| | | | | | | | | | | 
+API| | | | | | | | | | | 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OVERVIEW 
+Price (per month)  | $6 per user | $5.83 per user | $9 per user | $9.99 per user | $10.80 per user | $5.25 per user | $99 for 5 users | $7 per user | $19 for 10 projects | $5 per user 
+Free trial | 7 days | 14 days | 30 days | 14 days | 30 days | Yes | 14 days | 14 days | 30 days | 30 days 
+Ease of use | Very easy | Difficult | Difficult | Very easy | Easy | Very easy | Easy | Difficult | Very easy | Difficult 
+TIME TRACKING METHODS 
+Manual |  |  |  |  |  |  |  |  |  | 
+Start/stop buttons |  |  |  |  |  |  |  |  |  | 
+Automatic time mapping |  |  |  |  |  |  |  |  |  | 
+ IN-DEPTH TASK AND PROJECT ANALYSIS 
+Screenshots |  |  |  |  |  |  |  |  |  | 
+App and website usage |  |  |  |  |  |  |  |  |  | 
+Activity levels | coming soon |  |  |  |  |  |  |  |  | 
+Real-time tracking |  |  |  |  |  |  |  |  |  | 
+TASK AND PROJECT MANAGEMENT 
+Project adding |  |  |  |  |  |  |  |  |  | 
+Project templates |  |  |  |  |  |  |  |  |  | 
+Project status |  |  |  |  |  |  |  |  |  | 
+Task assignment |  |  |  |  |  |  |  |  |  | 
+Task priorities |  |  |  |  |  |  |  |  |  | 
+Budgeting | coming soon |  |  |  |  |  |  |  |  | 
+Mark billable/non-billable hours |  |  |  |  |  |  |  |  |  | 
+Payroll calculation |  |  |  |  |  |  |  |  |  | 
+Invoicing |  |  |  |  |  |  |  |  |  | 
+ALERTS 
+Idle time reminders |  |  |  |  |  |  |  |  |  | 
+Deadline alerts | coming soon |  |  |  |  |  |  |  |  | 
+Budget alerts | coming soon |  |  |  |  |  |  |  |  | 
+ REPORTING 
+Client login |  |  |  |  |  |  |  |  |  | 
+Productivity analysis |  |  |  |  |  |  |  |  |  | 
+Email reports | coming soon |  |  |  |  |  |  |  |  | 
+PLATFORMS 
+Web |  |  |  |  |  |  |  |  |  | 
+Mac desktop app |  |  |  |  |  |  |  |  |  | 
+Windows desktop app |  |  |  |  |  |  |  |  |  | 
+Linux desktop app | coming soon |  |  |  |  |  |  |  |  | 
+iOS app |  |  |  |  |  |  |  | Beta |  | 
+Android app |  |  |  |  |  |  |  |  |  | 
+Browser extension |  | Chrome | Chrome, Firefox | Chrome | Chrome |  |  | Chrome, Firefox | Chrome | Chrome, Firefox, Opera, Edge 
+OTHER 
+Support | Phone and online | Email and online | Email and online | Online | Online, email and phone | Email, online and support ticket | Email and chat | Email and chat | Email | Chat 
+Knowledge base |  |  |  |  |  |  |  |  |  | 
+Video tutorials |  |  |  |  |  |  |  |  |  | 
+Integrations | coming soon |  |  |  |  |  |  |  |  | 
+API |  |  |  |  |  |  |  |  |  | 
+On-premise hosting |  |  |  |  |  |  |  |  |  | 
+ It’s 9.30 a.m. You walk into a huge yet half-empty open plan office. 
+ ‘Morning, everyone’, you utter as you walk towards the door with your name on it at the back of the room. You get a verbal response from the five employees that are in the office. But you’re not worried. The rest usually come in around 10. Except Eric. He arrives at about 12.30. Weird, but it’s OK - he gets the job done. Oh, right, and Rita is working from home this week. 
+ Make your office flexible while keeping productivity at a high level! 
+ Start Free Trial 
+ Sixty years ago, a scene like this would probably be considered a prelude to a company’s demise. Today, however, flexible working schedule is commonplace. It’s indicative of progress and it celebrates individualism and work-life balance. 
+ This flexibility comes in many shapes and forms. Customer-centered roles are a bit constrained (people going to a store/bank/etc. and finding closed doors is just bad business), but for office workers the possibilities are nearly endless. 
+ As opposed to the traditional model of working hours - where employees have to be in the office at 9 and they can leave at 5 - we now have two new working schemes that are rapidly attracting more and more adopters. 
+ The first one is working from home. Otherwise known as remote work or telecommuting. With the developments in technology and communication, this form of employment has become incredibly appealing and easy to realize. 
+ The second one, and the one that we’re going to talk about in this text, is flexible working hours or flextime. Basically, your employees are allowed to come to the office whenever they want, as long as they spend 8 hours working or finish the required tasks. 
+ Now let’s see why this flexible working scheme is starting to push the traditional 9-to-5 template into oblivion, what potential issues could arise and how a  time tracking app  can help you deal with all of it. 
+ ‍ 
+ What Do Flexible Working Hours Bring to the Table? 
+ Three very important things - work-life balance for employees, perceived company values and employee retention. 
+ So, first of all, this kind of schedule offers employees an opportunity to tailor their jobs to their own needs. If they like sleeping, there’s no point in coming to work at 9 when you’re not going to function properly until 11. Alternatively, if they want to finish their work at 4 so that they can go to the gym, have lunch with their family or sit around and watch Netflix, by all means! 
+ This improves employees’ job satisfaction, motivation and productivity at work. And it shows you care about their wellbeing. Which brings us to company image. If you have a reputation of an employer who cares about their employees’ life-work balance, more people are going to want to work for you and more people will want to work  with  you too. And flexible working hours go a long way in reinforcing this value. 
+ And lastly, as a consequence of all this, there’s the increased employee retention. Employee turnover is an expensive phenomenon, so having workers who want to stay is going to make your life easier. And considering the fact that  flexibility is a top priority for 92% of millennials , it seems like you don’t have that much of a choice anyway. 
+ ‍ 
+ One Tiny Problem and One Easy Solution 
+ Now, there’s one obvious issue with flextime - if everyone comes at different times, how can you make sure that they’re all working as much as you’re paying them to? Are your employees using flexible working hours as a perfect cover-up for stealing time or is work actually getting done? 
+ Getting to the bottom of this would require coming in when the first employee does and leaving with the last one. Which comes down to a 13-hour shift. 
+ Or, you know, you could implement a time tracking application like Workpuls and let the software do all the dirty work. All you have to do is take a quick look at the reports every once in a while to make sure that everything is as it should be. 
+ ‍ 
+ Why Time Tracker is a Perfect Sidekick 
+ There are a number of features that a time recording app can offer, but three of them in particular will help you make sure that flexible schedule is working for everybody. 
+ If your employment policy requires workers to be in the office for 8 hours every day or 40 hours a week, then you need an accurate way to track their attendance. Although there are many different  attendance tracking solutions , time tracking app for employees is probably the most reliable and low-maintenance option out there. It logs every clock-in and clock-out and calculates office time while also taking productivity into consideration. 
+ You could also use your time tracking app for work delegation. You can break up projects into tasks and allocate each task to an appropriate employee. Task time tracking software gives you great overview of who’s doing what. This helps with collaboration even if employees are not in the office at the same time. 
+ And finally, to answer the question of whether or not employees are actually doing their jobs, you can keep track of tasks and projects that they’re working on and see how much time they spend on these. As an added bonus, employee time logging software keeps a record of apps and websites that employees are using so you’ll be able to know whether your workers are going straight to YouTube as soon as you leave the office. 
+ ‍ 
+ Conclusion 
+ Times have changed and so have our working habits and expectations. As an employer, you need to answer the rising demand for flexibility in the job market. Using employee time tracking tools can help you in this transition and beyond. Now that millennials are becoming bosses, the death of a 9-to-5 job has never been closer. As an alternative, flexible working hours are here to stay and you better be prepared. 
+ ‍ 
+ Want to make sure your employees are working no matter when they come to the office? Tracking time with Workpuls is the answer! 
+ Workpuls helps teams improve productivity! 
+ Start Free Trial 
+ Related Posts 
+ Time Tracking 
+ December 8, 2020 
+ [ 
+ What Is Time Theft? (and How to Put a Stop to It) 
+ ](/blog/time-theft-guide) 
+ In this article, we’ll explain exactly what time theft is, how can you detect it, and(most importantly) what can you do to stop and prevent it. 
+ Ivan Petrovic 
+ Read More 
+ Time Tracking 
+ July 30, 2020 
+ [ 
+ How Can Time Tracking Save You Time and Money? 
+ ](/blog/time-tracking-saves-money) 
+ Time tracking has proven itself as a great time saving tool, but can it save you money as well? 
+ Aleksandra Djordjevic 
+ Read More 
+ Time Tracking 
+ July 29, 2020 
+ [ 
+ The Evolution of Time Tracking 
+ ](/blog/evolution-time-tracking) 
+ Time tracking has changed over the years from physical punch cards to modern cloud-based software. But what didn’t change is the fact that it's always been very useful. 
+ Aleksandra Djordjevic 
+ Read More 
+ Ready to Take Full Control Of Your Workplace? 
+ Try the simplest solution today… 
+ Start Free Trial 
+ 
+ 
+ 
+ Rated 4.8 Stars on GetApp 
+ 
+ 
+ 
+ Rated 4.8 Stars on Capterra 
+ 
+ 1355 Market Street, Suite 488 
+San Francisco, California 
+94103 
+‍ 
++1 (415) 704 3737 
+ About Us Careers Product Updates 
+ 
+ Platform 
+ Employee Monitoring Time Tracking Automatic Time Mapping Security How it Works 
+ User Activity Monitoring Software Productivity Monitoring Software On Premise 
+ For Industries 
+ Remote Workers 
+ Office Employees Enterprise Architects Healthcare Call center Law Firm Virtual Assistant 
+ Contact 
+ Free Trial Book a Demo Become a Partner Help Center 
+ Resources 
+ Blog Remote Work Work from Home Success Stories Timesheets 
+ Terms of Use Privacy Policy Acceptable Use Policy System Status Developer Platform 
+ 
+ © 2020 Workpuls, Inc - All Rights Reserved 

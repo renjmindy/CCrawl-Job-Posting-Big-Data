@@ -1,0 +1,104 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Remote Web Developer REMOTEPERMANENT 
+ Job Description 
+ We’re looking for a talented web developer to join our team at  Honcho . 
+ As we’re only small, you’ll need to wear many hats, but most of the time you’ll be doing front-end development for our Craft CMS sites. 
+ Our main technologies are: HTML, Twig, SCSS, JS. 
+ The occasional PHP, App, or WordPress project might come in, so you’ll need to be able to adapt and adjust accordingly. 
+ We don’t want you to sit quietly and do what you’re told, but instead be an active part of the process to make sure we’re building the client the best product possible – and that the business is growing in the right direction. 
+ You’ll be responsible for: 
+ 
+ Building websites with a CMS 
+ Estimating and managing your time 
+ Bringing ideas to projects 
+ Maintaining and supporting our existing sites 
+ Communicating with clients 
+ Setting up servers, managing DNS information, etc 
+ Testing! 
+ 
+ You must: 
+ 
+ Be able to estimate and stick to deadlines 
+ Be an HTML, CSS and JS expert 
+ Have solid PHP knowledge 
+ Be a great communicator 
+ Care about writing clean, organised, high-quality code 
+ Care about UX 
+ Care about web performance 
+ Be good at Googling things 
+ 
+ It’d be excellent if you: 
+ 
+ Know how to use Craft 
+ Know how to use Wordpress 
+ Know how to use Git 
+ Know how to use Gulp 
+ Know how to use Adobe products 
+ 
+ Bonus points: 
+ 
+ You know how to use ExpressionEngine 
+ Have experience with DigitalOcean 
+ Have experience with Laravel Forge 
+ Have design chops 
+ 
+ How to Apply 
+ If you'd like to be part of our remote team, email us: 
+ 
+ Three recent web projects you've worked on 
+ A summary of your development process 
+ Three reasons why you shouldn't use Wordpress 
+ 
+ Please send it to  [email protected] 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Honcho 
+ 
+ __ 
+ 
+ Location:  Manchester, UK 
+ 
+ __ 
+ 
+ Phone Number:  [01565 373655](01565 373655) 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://honcho.agency 
+ __  Posted August 15, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

@@ -1,0 +1,220 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Customer Experience Response Engineer 
+ Standard Chartered Bank 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Customer Experience Response Engineer 
+ Standard Chartered Bank 
+ [](mailto:?subject=Customer%20Experience%20Response%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14249899/customer-experience-response-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 29, 2020 
+ Location: 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ About Standard Chartered 
+We are a leading international bank focused on helping people and companies prosper across Asia, Africa and the Middle East. 
+ To us, good performance is about much more than turning a profit. It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+ We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base. 
+ The Role Responsibilities 
+ Monitoring and Situational Awareness: 
+ 
+ Receive and Respond to critical alerts from Client Journey monitoring systems, 
+ Trigger the Major Incident Management process if necessary. 
+ Review dashboard and monitoring effectiveness. 
+ Lead initiatives for continuous improvement of monitoring tools and processes. 
+ Keep abreast of planned system changes, business campaigns and economic, political, social and environmental factors to facilitate implementation of mitigating measures and rapid response to technology issues that may arise. 
+ Use situational knowledge to correlate system anomalies with potential situational causes. 
+ 
+ Relationship Management: 
+ 
+ Build rapport with key business (particularly Client Care Centre) management, and Country Technology Management teams. 
+ Develop a deep understanding of the business and client experience to facilitate triage of incident reports, communication, and identification of work arounds and contingency arrangements. 
+ 
+ Incident Management: 
+ 
+ Triage incident reports to assess actual or potential client / business impact. 
+ Trigger the Major Incident Management process for incidents impacting clients 
+ Assess the Priority of incidents according to the agreed Priority Matrix. 
+ Act as an overall Situation Manager to ensure the right resources are mobilized and that incident investigation and resolution is progressing effectively. 
+ Manage incident bridges to ensure technology responders are able to effectively work towards resolution and non-technology stakeholders are given proper updates on impact, work arounds, status and progress without interrupting resolution activities. 
+ 
+ Communication 
+ 
+ Communicate effectively to key stakeholders across the organization including senior business, country, risk, and technology stakeholders to keep them informed about the impact and status of ongoing technology incidents. 
+ Operate an Incident Dashboard to provide on-demand status updates for ongoing technology incidents. 
+ Primary party to keep business stakeholders updated on the incident resolution progress, gather impact details, and coordinate business contingency arrangements. 
+ Operate a group chat channel and facilitate Business Bridge to provide real time updates to key stakeholders. 
+ 
+ Knowledge Management 
+ 
+ Follow up with support teams post service resumption to ensure root cause is identified and preventive measures implemented to avoid recurrences. 
+ Attend RCA (Root Cause Analysis) discussions to ensure lessons learned are recorded particularly in regard to monitoring, mobilization, response, and recovery action improvements. 
+ Responsible for knowledge management, ensure that resolution steps, preventive actions etc. are well documented and kept for future reference. 
+ Collect business impact details for sharing with relevant stakeholders 
+ Ensure outage and impact details are recorded accurately in source systems such as Remedy - to ensure timeliness and accuracy of reporting. 
+ Facilitate reporting on incident trends and thematic analysis. 
+ 
+ SRE / Problem Management 
+ 
+ Trigger and attend RCA discussions & share lessons learned in terms of incident detection, mobilization, diagnosis, and recovery. 
+ Conduct debrief discussions (lite RCA process) for Low priority incidents when required. 
+ Responsible for identifying and providing feedback and prioritization assistance to Production Support and SRE teams. 
+ Identify areas of improvement in monitoring, housekeeping and capacity planning to proactively avoid incidents, and where applicable, assist in the development, testing and implementation of software solutions. 
+ Contribute to the identification and documentation of failure points using tools like FEMA (Failure Mode Effects Analysis), Jira, etc. 
+ 
+ Our Ideal Candidate 
+ 
+ Bachelor degree with knowledge in Information technology. 
+ Solid IT experience. Banking domain is desirable. 
+ Hands on software engineering / development experience and / or support experience in areas of application support, network engineering or unix administration. Banking domain is desirable. 
+ Good knowledge on Monitoring tools such as ITRS, BMC, Splunk, ELK, AppDynamics etc. 
+ Good knowledge of Java, J2EE, Oracle, WaaS, MQ and Unix technologies and familiarity with key cloud concepts is a plus. 
+ Proven experience in co-ordination of many dependencies and multiple demanding stakeholders in a complex, large-scale international environment 
+ Excellent oral and written communication skills, ability to interact with business representatives and senior management. 
+ Familiar with Agile methodologies and tools such as Jira. 
+ Familiar with SRE (Site Reliability Engineering) concepts 
+ Knowledge of ITIL - good to Have. 
+ Basic understanding of network topologies and concepts such as LAN, WAN and Firewalls 
+ Experience with Remedy, or Service Now is a plus. 
+ 
+ Apply now to join the Bank for those with big career ambitions. 
+ To view information on our benefits including our flexible working please visit our career pages . We welcome conversations on flexible working. 
+ 
+ 
+ Internal Number: 9604541 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Standard Chartered Bank 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Content Strategist 
+ __  Newton, New Jersey 
+ 
+ 
+ 
+ 
+ Thorlabs 
+ __Yesterday 
+ 
+ 
+ Optical Manufacturing Engineer 
+ __  Bandon, Oregon 
+ 
+ 
+ Hardin Optical Company 
+ __3 Days Ago 
+ 
+ 
+ Senior Sales Engineer / Key Account Manager 
+ __  San Jose, California 
+ 
+ 
+ Hubner Photonics Inc. 
+ __3 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

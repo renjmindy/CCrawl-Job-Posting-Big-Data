@@ -1,0 +1,295 @@
+Loading.... 
+ LOGIN     SIGN UP 
+ 
+ 
+ Hire Experts 
+ Find Work 
+ How it Works 
+ About Us 
+ Blog 
+ 
+ 
+ SIGN UP! 
+ Before you proceed to sign up, 
+Please select one of the following! 
+ I want to Hire 
+ 
+ --OR-- 
+ I want to Work as an 
+ 
+ 
+ 
+ Home 
+ » 
+ Freelance Jobs 
+ » 
+ Android 
+ 
+ Project Results 
+ By Job Category 
+ 
+ All  (549) 
+ IT & Programming  (205) 
+ Graphic Design & Multimedia  (73) 
+ Writing, Content & Translation  (137) 
+ Data Entry & Admin  (45) 
+ Sales & Marketing  (44) 
+ Customer Service  (6) 
+ Finance & Accounting  (15) 
+ Others  (24) 
+ 
+ By Budget (INR) 
+ 
+ All  (549) 
+ Less than 5000 Rs.   (170) 
+ Between 5,000 - 20,000 Rs.   (145) 
+ Between 20,000 - 50,000 Rs.   (66) 
+ Between 50,000 - 100,000 Rs.   (33) 
+ Greater than 100,000 Rs.   (30) 
+ Not Sure  (105) 
+ 
+ By Project Type 
+ 
+ All  (549) 
+ Featured  (31) 
+ Full Time  (5) 
+ 
+ By Time Left 
+ 
+ Any 
+ Less than 24 hours left 
+ Less than 3 days left 
+ Less than 7 days left 
+ 
+ By Posted Date 
+ 
+ Any 
+ Posted within 24 hours 
+ Posted within 3 days 
+ Posted within 7days 
+ Posted within 14 days 
+ Posted within 30 days 
+ 
+ By Status 
+ 
+ Any 
+ Hiring Open 
+ 
+ Search Job 
+ Android Jobs 
+ ( showing 1 - 15 of 25 results ) 
+ Android 
+ Clear 
+ Get Project Updates 
+ PAGE 1 OF 2  
+ SORT BY Sort by Job Name Budget(High) Budget(Low) Time Left(High) Time Left(Low) 
+ Looking for freelance entrepreneurs 
+ FIXED PRICE : Greater than 100,000 Rs.   Mobile Applications  Posted: 3 days ago Ends: 01st Mar 2021  3 Proposals 
+ Hello All, We've launched our cricket fantasy application and we are looking for some Individuals or team of entrepreneurs who can work with us on revenue basis. We are looking for mean stack developer, designer,... 
+ Hello All, We've launched our cricket fantasy application and we are looking for some Individuals or team of entrepreneurs who can work with us on revenue basis. We are looking for mean stack developer, designer, Android or IOS Developer who can Work individually and take ownership and help to grow the application aggressively. Looking forward to hear from you guys and start building our futures. 
+ Skills:  Python ,  Database ,  CodeIgniter ,  API ,  Android 
+ Client:  chandan.prasad  ,  India 
+ Looking for a Android Developer 
+ FIXED PRICE : Less than 5000 Rs.   Mobile Applications  Posted: 13th Jan 2021 Ends: 27th Feb 2021  13 Proposals 
+ Hi Im looking for Android Developer to work on sn existing app and also to develop small apps like Wallpapers, Images App, Utility and Downloader App So please apply with the link of Apps you have developed Than... 
+ Hi Im looking for Android Developer to work on sn existing app and also to develop small apps like Wallpapers, Images App, Utility and Downloader App So please apply with the link of Apps you have developed Thanks 
+ Skills:  Android 
+ Client:  shathyanraja  ,  India 
+ Android app 
+ FIXED PRICE : Less than 5000 Rs.   Mobile Applications  Posted: 13th Jan 2021 Ends: 27th Feb 2021  11 Proposals 
+ android app that streams voice from mic to website. So I can listen to the voice come from my mobile to a webpage. ------------------------------------------------------------------------------- Additional Information A... 
+ android app that streams voice from mic to website. So I can listen to the voice come from my mobile to a webpage. ------------------------------------------------------------------------------- Additional Information Added on 13th Jan, 2021 similar to spydroid app. It is an open-source app. I want same app to transfer live voice and listen to it from the webpage. see the source link: https://github.com/fyhertz/spydroid-ipcamera 
+ Skills:  Android ,  Java ,  JavaScript 
+ Client:  wakamal 
+ Full stack Development 
+ FIXED PRICE : Not Sure  Website Programming  Posted: 13th Jan 2021 Ends: 27th Feb 2021  32 Proposals 
+ Hi All, Looking for freelancers who can work on contract/project basis. I have good clients from which I get regular work. Also I have few products in which sometimes I need modification. Freelancer who are willing to w... 
+ Hi All, Looking for freelancers who can work on contract/project basis. I have good clients from which I get regular work. Also I have few products in which sometimes I need modification. Freelancer who are willing to work with dedication and are passionate to earn more can only apply. Mention this things in your proposal 1.) Past works which you think is best from you 2.) Listout the expertise you have in web or app 3.) Your Name, Location, ma-il, mob-ile 4.) Hours you can work in a day 
+ Skills:  iOS ,  CodeIgniter ,  ASP.NET ,  Android ,  PHP 
+ Client:  harry2015  ,  India 
+ Android development  
+ FIXED PRICE : Less than 5000 Rs.   Mobile Applications  Posted: 08th Jan 2021 Ends: 22nd Feb 2021  12 Proposals 
+ I need an android developer 
+ I need an android developer 
+ Skills:  Android 
+ Client:  zali  ,  India 
+ I want sell Grocery App  
+ FIXED PRICE : 5,000 - 20,000 Rs.   Application Interface Design  Posted: 07th Jan 2021 Ends: 21st Feb 2021  8 Proposals 
+ I want to sell "Grocery App " with Source code. You will get :- Customer App :- (Android) Driver App :- (Android) Admin Panel :- (Core PHP) I Will share demo if you need. 
+ I want to sell "Grocery App " with Source code. You will get :- Customer App :- (Android) Driver App :- (Android) Admin Panel :- (Core PHP) I Will share demo if you need. 
+ Skills:  Android ,  API ,  PHP 
+ Client:  jaypataliya52  ,  India 
+ Need Developer for build AR based app 
+ FIXED PRICE : Not Sure  Mobile Applications  Posted: 03rd Jan 2021 Ends: 17th Feb 2021  14 Proposals 
+ For more details ping to me 
+ For more details ping to me 
+ Skills:  Android ,  iOS 
+ Client:  gopigarg  ,  India 
+ Android Developer for Restaurant Business Directory / Location Based APP 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Mobile Applications  Posted: 03rd Jan 2021 Ends: 17th Feb 2021  13 Proposals 
+ Need APP development for a Restaurant Business Directory Website - Users should be able to search for nearby restaurants and find them on the APP - App should contain restaurant directory information such as, restaur... 
+ Need APP development for a Restaurant Business Directory Website - Users should be able to search for nearby restaurants and find them on the APP - App should contain restaurant directory information such as, restaurant name, description, address, phone number, hours of operation, website. - Leave food reviews by registration or Facebook login - We should be able to add, remove, modify the listings for future basis. We already have a website, running on Wordpress Hive press listing theme. All the listings data can be imported from there. I am located in Hyderabad and can arrange a meeting if more information is required. ------------------------------------------------------------------------------- Additional Information Added on 6th Jan, 2021 - Develop iOS and Android APP in React Native and provide backend webservice to manage listings - Must have developer account on Apple and Play store to approve these apps. 
+ Skills:  Android 
+ Client:  mkhan5 
+ Push Talk notification Platform for multiple devices Android and iOS 
+ FIXED PRICE : Greater than 100,000 Rs.   Application Interface Design  Posted: 02nd Jan 2021 Ends: 16th Feb 2021  8 Proposals 
+ Web, Android, iOS. The requirement is to develop a platform involving Web, Android & iOS phones and proprietory devices(Will be provided). The idea is to have 2 different networks - Private for Companies & ... 
+ Web, Android, iOS. The requirement is to develop a platform involving Web, Android & iOS phones and proprietory devices(Will be provided). The idea is to have 2 different networks - Private for Companies & Public for rest of the users. Details of the work will be provided. This will be an end-to-end complete Solution. Need a team who can work dedicatedly and no part timers. Time sharers Don't bid. Also budget is strict so can't deviate. 1.5L - max. 
+ Skills:  iOS ,  Web Services ,  Android 
+ Client:  arnygn2015  ,  India 
+ Ballet apps Development 
+ FIXED PRICE : Not Sure  Game Development  Posted: 01st Jan 2021 Ends: 15th Feb 2021  10 Proposals 
+ We have full specification & design... we need a team or individual experts who can deliver full project end to end. Long term association... 
+ We have full specification & design... we need a team or individual experts who can deliver full project end to end. Long term association... 
+ Skills:  Android ,  API ,  iOS ,  iPad ,  iPhone 
+ Client:  coshi  ,  India 
+ Ballet apps Development 
+ FIXED PRICE : Not Sure  Mobile Applications  Posted: 01st Jan 2021 Ends: 15th Feb 2021  1 Proposals 
+ We have full specification & design... we need a team or individual experts who can deliver full project end to end. Kinect v2 Dance Game Long term association... 
+ We have full specification & design... we need a team or individual experts who can deliver full project end to end. Kinect v2 Dance Game Long term association... 
+ Skills:  MooTools ,  iOS ,  API ,  PHP ,  Android 
+ Client:  coshi  ,  India 
+ Mobile App Dev 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Application Interface Design  Posted: 31st Dec 2020 Ends: 14th Feb 2021  21 Proposals 
+ I am looking to develop a native mobile app for online ordering - no delivery ( Android , Ios) Pls reach me to disscuss. 
+ I am looking to develop a native mobile app for online ordering - no delivery ( Android , Ios) Pls reach me to disscuss. 
+ Skills:  Android 
+ Client:  sauravsharma1981 
+ E COMMERCE WEB AND ANDROID PORTAL NEED 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Mobile Applications  Posted: 29th Dec 2020 Ends: 12th Feb 2021  30 Proposals 
+ Dear all, We deals in whole sale of Ceramic and Sanitary ware Items. We require android application and website for explore business on E-Commerce business. 
+ Dear all, We deals in whole sale of Ceramic and Sanitary ware Items. We require android application and website for explore business on E-Commerce business. 
+ Skills:  PHP ,  .NET ,  Android 
+ Client:  infoeon 
+ Android Apps Development  
+ FIXED PRICE : Not Sure  Mobile Applications  Posted: 29th Dec 2020 Ends: 12th Feb 2021  23 Proposals 
+ We look some one who can develop An b2b Android Apps including webadmin panel... I will provide reference apps .. app will in playstore but its not for public. we will generate user & pass from admin & then ... 
+ We look some one who can develop An b2b Android Apps including webadmin panel... I will provide reference apps .. app will in playstore but its not for public. we will generate user & pass from admin & then will give to our membership holders then only can access... More details i will provide with selected candidates,, 
+ Skills:  API ,  Android ,  HTML ,  Mobile ,  PHP 
+ Client:  coshi  ,  India 
+ Looking for android developer for a multipurpose project 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Mobile Applications  Posted: 28th Dec 2020 Ends: 11th Feb 2021  12 Proposals 
+ Hello, I need a android application like quora as well as integrated blog feature. Please send estimated cost. Thanks, Arijit Hazra 
+ Hello, I need a android application like quora as well as integrated blog feature. Please send estimated cost. Thanks, Arijit Hazra 
+ Skills:  Java ,  Android 
+ Client:  arijithazra94  ,  India 
+ Previous 1  2   Next   Last 
+ NAVIGATE 
+ How it Works 
+ Fees & Pricing 
+Register 
+ Blog 
+ Help 
+ Contact Us 
+ FIND FREELANCERS BY EXPERTISE 
+ 
+ 
+ 
+ Developers & Programmers 
+ 
+ PHP Developers 
+ 
+ 
+ 
+ 
+  Graphic Designers 
+ 
+ Photoshop Experts 
+ 
+ 
+ Article Writers 
+ 
+ Creative Writing 
+ 
+ 
+ Data Entry & Admin 
+ 
+ MS Excel Consultants 
+ 
+ 
+ Sales & Marketing 
+ 
+ Internet Marketing 
+ 
+ 
+ Accountants & Legal 
+ 
+ Finance Consultant 
+ 
+ 
+ 
+ FIND FREELANCERS BY LOCATION 
+ 
+ 
+ 
+ Freelancers In India 
+ 
+ Freelancers In New Delhi 
+ 
+ 
+ 
+ 
+ Freelancers in Noida 
+ 
+ Freelancers in Hyderabad 
+ 
+ 
+ Freelancers in Mumbai 
+ 
+ Freelancers in Jaipur 
+ 
+ 
+  Freelancers in Kolkata 
+ 
+  Freelancers in Bhopal 
+ 
+ 
+ Freelancers in Bangalore 
+ 
+ Freelancers in Punjab 
+ 
+ 
+ Freelancers In Ahmedabad 
+ 
+ Freelancers In Chennai 
+ 
+ 
+ 
+ LOOKING FOR FREELANCING JOBS? 
+ 
+ 
+ 
+ Fresher Jobs 
+ Part Time Jobs 
+ IT Jobs 
+ Work from Home Jobs 
+ Online Jobs 
+ 
+ 
+ 
+ 
+ Web Design Jobs 
+ Technical Writing Jobs 
+ Freelance Writing Jobs 
+ Accounting Jobs 
+ Legal Jobs 
+ 
+ 
+ Mobile Development Jobs 
+ Data Entry Jobs 
+ Game Development Jobs 
+ Photography Jobs 
+ Medical Writing Jobs 
+ 
+ 
+ AutoCAD and 3D Jobs 
+ HR Jobs 
+ SEO & Marketing Jobs 
+ Corporate Trainer Jobs 
+ Web Development Jobs 
+ 
+ 
+ 
+       
+ Copyright (C) 2012-2020   WorknHire Technologies Pvt. Ltd. . All Rights Reserved. 
+ To Top 

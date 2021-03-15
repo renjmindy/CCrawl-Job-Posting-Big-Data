@@ -1,0 +1,84 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Scale AI (S16) 
+ Infrastructure for AI. 
+ Operations Project Manager 
+ 
+ Location 
+ Remote / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 1+ years 
+ About Scale AI 
+ Scale's mission is to accelerate the development of AI applications. 
+ Scale is a vital part of bringing machine learning enabled technologies to the world, from autonomous driving to drones, robots and VR / AR. Our suite of managed labeling services combines manual labeling with best in class tools and machine driven checks to yield stunningly accurate training data. Scale is committed to continual innovation in combining humans with AI to prepare intelligent data, passing on these improvements to our customers (such as Alphabet (Google), Zoox, Lyft, Pinterest, Airbnb, nuTonomy) and powering a growing future of AI applications. 
+ Scale's team consists of 120 people and 35 engineers of industry veterans from Dropbox, Google, Palantir, Quora, OpenAI and others. 
+ About the role 
+ As a member of our operations team, you'll be accountable for driving revenue by ensuring that our taskers meets customer commitments in a timely manner while maintaining the highest quality standards. You will manage our supply operation funnel by building and running solutions, tools, and processes by working with a cross-functional team including Customer Operations, Product Operations, Product Managers, and many others. 
+ You will be solving problems no one has solved before, and you will need to be relentless in driving stellar results, running pilots, tests, and experiments. You’ll come up with creative solutions to bottlenecks. The blend of operations and ownership of our most important outcomes make this a unique and exciting role at the heart of Scale’s daily operations. 
+ The ideal candidate is scrappy, analytical, empathetic, outcome focused, and above all someone who drives and inspires results. 
+ You Will: 
+ 
+ Build and drive some of our most critical operational processes: the delivery of SLAs for our customers 
+ Own the day-to-day delivery of customer commitments 
+ Create an effective feedback loop between the front line, product, strategy, and customers 
+ Collaborate with stakeholders to improve processes for new and existing customers 
+ 
+ Ideally you’d have: 
+ 
+ 2+ years of industry experience in an operational role and/or 2+ years in a top-tier consulting firm 
+ An undergraduate degree with an analytics heavy major (e.g., Engineering, Math or Economics) and/or a graduate degree in Engineering, Economics, or Business 
+ An action-oriented mindset that balances creative problem solving with the scrappiness to ultimately deliver results 
+ Analytical, planning, and process improvement capability 
+ 
+ Nice to have: 
+ 
+ Experience with reading SQL and/or another database language 
+ Experience with Python and/or Mode Notepad scripting 
+ 
+ About Us: 
+ At Scale, our mission is to accelerate the development of Machine Learning and AI applications across multiple markets. Our first product is a suite of APIs that allow AI teams to generate high-quality ground truth data. Our customers include OpenAI, Zoox, Lyft, Pinterest, Airbnb, nuTonomy, and many more 
+ Technology 
+ We are built using some of the following technologies: 
+ 
+ TensorFlow 
+ Node.js 
+ React 
+ MongoDB 
+ PostgreSQL 
+ Python 
+ 
+ Other jobs at Scale AI 
+ Operations Program Manager - Federal 
+ fulltime 
+ Washington, D.C. 
+ 3+ years 
+ Operations Project Manager 
+ fulltime 
+ Remote / Remote 
+ 1+ years 
+ Engineering Manager - Infrastructure Engineering 
+ fulltime 
+ San Francisco, CA, USA 
+ Engineering Manager 
+ 3+ years 
+ New Products Engineer 
+ fulltime 
+ San Francisco / Remote 
+ Full Stack 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

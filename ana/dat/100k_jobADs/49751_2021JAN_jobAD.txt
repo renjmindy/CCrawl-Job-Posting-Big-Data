@@ -1,0 +1,88 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Qventus (W15) 
+ We help hospitals run efficiently by predicting department resource needs and providing front line staff with real-time resource allocation guidance. 
+ Senior Full Stack Engineer 
+ $0 - $0 • 0.00% - 0.00% 
+ Location 
+ Mountain view, CA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Qventus 
+ We are a team of technologists, software engineers, doctors, nurses, and lean healthcare experts with on-the-ground experience solving operational challenges in clinical environments. Qventus helps hospitals like Stanford/Mayo Clinic/Emory/New York Presbyterian reduce wait time for patients, prevent patient falls, and generally helps hospitals deliver a better and safer experience for patients, resulting in reduced injuries, loss of life, and financial waste. 
+ We're making a big difference. Qventus has meaningfully affected patient experiences and outcomes for almost 4 million patients across the united states. Our platform works with hospital data to predict negative outcomes for patients and associated potentially disastrous situations that are likely to occur, then applies our system of action to reach the right doctors and nurses, at the right time, telling them where to go to stop these events before they happen. Think Minority Report applied to hospitals. 
+ Our founding team has done this before. Two of our three founders worked in consulting for over a decade solving efficiency problems in hospitals. They know hospitals, where they've been, where they want to go, and how to work within them to drive the necessary mind shift and change management we need to drive this new wave of technology. 
+ Our team is top notch! We have the fortune of having amazing engineerings and data scientists from top schools (Stanford, MIT, Cal, etc.) applying the latest in artificial intelligence and machine learning to create products that help healthcare organizations around the world and their people adapt in the moment and make the right decisions from the most complex data. Furthermore, we employ several practicing clinicians (practicing surgeons, doctors, nurses) in the company to help us understand the hospital environment. We take what we do very seriously. 
+ About the role 
+ Skills:  Django, HTML, Python, React, CoffeeScript, GraphQL, Amazon Web Services (AWS), JavaScript, Node.js 
+ Please note that all Qventus recruiting is conducted by Qventus employees, using Qventus email addresses. If you receive communications from someone purporting to represent Qventus, please contact  [email protected] . 
+ Want to use your engineering chops to help others? Join our engineering team and touch over a million patient lives a year! 
+ Have you ever found yourself or a loved one waiting hours in a hospital Emergency Room to get care? Do you wish your physicians were more accessible and easier to make appointments with? Qventus is looking for senior full stack engineers who can help redefine how healthcare systems work. Our work saves lives and helps hospitals cut tens of millions of dollars in operational costs, while improving the quality of care they’re able to deliver. We are seeking folks who will build and own significant components of the Qventus suite of web applications that do everything from providing deep dive analytics and prediction capabilities, to driving day to day operations of a hospital department and system. 
+ Key Responsibilities -Design and implement highly scalable backend systems and algorithms -Work closely with rest of the team members to develop, test, deploy, and operate high quality software -Design and develop test cases and implement automated test suites 
+ Requirements 
+ 
+ Full-stack software development experience with a distinguished track record on delivering technically demanding projects. 
+ Ability to design scalable systems for high throughput, performance, reliability and latency. 
+ Data modeling and design -- SQL, NoSQL & in-memory databases. 
+ Savvy on modern security design principles, threats & preventive implementations. 
+ Front end visualization stacks such as React, backbone.js, Coffeescript/Javascript, HTML5 and CSS3. 
+ 5-8+ years of professional experience working with Python. 
+ Ability to quickly learn new technologies and work effectively in a fast paced dynamic environment 
+ Experience with open-source technologies and cloud platforms. 
+ BS, MS or PhD in Computer Science or equivalent. 
+ 
+ Desired Skills 
+ 
+ Experience with React and Redux 
+ Experience with Python Django 
+ Experience working with relational and non-relational databases. 
+ Experience with large-scale metrics and monitoring. 
+ Experience with performance testing, troubleshooting and tuning. 
+ Experience building applications on top of RESTful APIs and micro services. 
+ Experience building and managing automated build/test/deployment environments. 
+ 
+ Qventus is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. 
+ Candidate information will be treated in accordance with our candidate privacy notice which can be found here:  https://qventus.com/ccpa-privacy-notice/ 
+ Technology 
+ Engineering is comprised of several teams: - Web Apps: Responsible for our web platform and associated services. - Mobile: Responsible for our mobile products (iOS and Android). - Data Platform: Responsible for ETL, data processing and platform, managing data lifecyle from customer ingest to persistence, serving data to data science and web apps groups. - Data Science: Responsible for our ML development. - DevOps: Infrastructure and associated infrastructure services, working with teams to build and maintain CI/CD pipelines. - QA: Responsible for quality definition, automation, QA infrastructure, driving quality process from development through release. Functional QA is largely outsourced, we prefer to have QA team focused more on the engineering required to scale a large QA org. 
+ Some of the challenges we are facing: 
+ 
+ 
+ Using AI/ML- We use predictive analysis to help doctors and nurses make proactive operational decisions so they can focus on patient care 
+ 
+ 
+ Data scaling- We are starting to get significantly larger volumes of data, which is also increasingly becoming more and more clinical (lab results, etc) in nature. 
+ 
+ 
+ 3)Data sensitivity- Because this data is more clinical, it is more sensitive and requires a higher bar on how we set up and monitor our systems. 
+ 4)Data Ingestion- Getting data out of hospitals is not an easy task. We have to figure out more scalable solutions to help us grow quickly. This is an industry wide problem and we are looking to do it better than just about anyone else. 
+ 5)Product growth- Expansion in more areas of the hospital means we have more to learn and an opportunity to expand our product to achieve more outcomes. 
+ Other jobs at Qventus 
+ Senior Full Stack Engineer 
+ fulltime 
+ Mountain view, CA / Remote 
+ Full Stack 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 6+ years 
+ Senior Data Platform Engineer 
+ fulltime 
+ Remote within the US / Remote 
+ Data Science 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,172 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ full stack developer 
+ at Talis.com 
+ go back to Developer Jobs 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤35000 - ₤45000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤35000 - ₤45000 per year 
+ 
+ 
+ apply now 
+ 
+ Talis is a UK based software company, wholly owned by SAGE Publications. We provide software and services to universities around the world to manage their course resources, integrated into their Learning Management and Library Systems. We currently have customers in the UK, Australia and New Zealand with growth plans for Canada, US and the rest of the world. We have well over 1.5m students and 100,000 academics who use our software every day. 
+ You will work as part of the engineering team, reporting to our CTO, comfortable working in teams that take pride in their code and have a structured approach to product development. You will be excited by transforming our impact onto higher education globally and be looking for a role that both inspires and challenges you. 
+ We are looking for an experienced full stack developer to join one of our product teams. You should be a polyglot programmer with experience on products with scale, performance and durable code and process. 
+ 
+ 
+ Our products were originally built exclusively in PHP, but we have largely migrated to a microservices architecture implemented in a variety of technologies including React, Angular, NodeJS, and PHP. The emphasis is on the right tool for the job, rather than worship at any particular technology alter. 
+ 
+ 
+ We run our services and applications totally within Amazon Web Services making use of Kubernetes, EC2, and Serverless technologies but you do not need to be familiar with these. 
+ 
+ 
+ We make extensive use of NoSQL technology. Our core data platform is currently MongoDB but we also use Redis, DynamoDB, Redshift, and PostgreSQL. 
+ 
+ 
+ We track, time and monitor everything that moves. Currently we're using a combination of Sensu, PagerDuty, NewRelic, and Prometheus. 
+ 
+ 
+ It is only desirable, not essential, that you have experience in some or all of the technologies we use today. After all, they may not be the exact same set we use in 18 months time. 
+ 
+ 
+ The important thing is that you can demonstrate you are a quick learner, use and select technologies on their own merit, and can apply sound theory in your decisions and code. 
+ 
+ 
+ Your job is to work with the rest of the development team to ensure new features - and new products - delight customers, ship on time, and are of a high quality. 
+ 
+ 
+ We're looking for a developer, not just a great programmer - so your ability to question a spec and come up with a better outcome for the user is just as important as your ability to implement it. 
+ 
+ 
+ You'll enjoy scaling and building for hundreds of thousands of users just as much as shipping a shiny new product to hundreds. 
+ 
+ 
+ You'll be courageous in your approach to technology and not be afraid to undertake major changes if that is what is required to get the job done. 
+ 
+ 
+ You'll share our appetite for unit testing, automated testing and continuous integration. You'll likely have opinions on how to improve our approach to all three. 
+ 
+ 
+ Your code will be self-documenting, exhibit sensible and recognisable patterns, and your designs will be capable of being easily refactored as we scale, grow and further develop our products. 
+ 
+ 
+ Everyone is encouraged to ask a lot of questions here, so you should be ready for people to challenge and feedback on your approach and ideas, and vice versa. 
+ 
+ 
+ We are a fun, small, smart and close knit team. Every individual is expected to make a real and tangible difference to our success. 
+ 
+ 
+ We develop our people, our average tenure is over 5 years and now as part of the SAGE group, we can offer superb career progression for developers who are keen for new challenges. 
+ 
+ 
+ We're open and transparent, and those that share in our values thrive and stay with us for many years. 
+ 
+ 
+ We are a values based company that uses words like trust, accountability and customer success and actually live them, most of our team are remote and we have worked hard to ingrain this in our culture. 
+ In addition to a very competitive salary, we offer an exceptionally generous contributory pension scheme, private medical insurance (after induction period) and immediate cover on an exceptional Health Cash Plan, including dental and optical cover. 
+ 
+ Flexible working hours and location - although we are small we have people on three continents and at many locations across the UK. 
+ Transparent reporting - every team communicates progress weekly to everybody - and you are free to ask questions or make suggestions. 
+ 
+ We are fully distributed company and are open to applicants across the UK, we are an equal opportunities employer and have a strong diverse team. 
+ Published at 12 Jan 2021 - Expires on 12 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

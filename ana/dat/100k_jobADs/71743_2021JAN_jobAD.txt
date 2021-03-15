@@ -1,0 +1,84 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Winter Student- Supply Chain 
+ Loblaw Companies Limited 
+ __Brampton, ON 
+ Apply Now 
+ Location: 
+1 Presidents Choice Circle, Brampton, Ontario, L6Y 5S5 
+ The decision to join a company is a big one. We have opportunities for hard working, energetic and reliable people just like you. 
+ Why is this role important? 
+ 
+ Supply Chain Applied Machine Learning Intern (Replenishment Optimization) 
+ 
+ The Loblaw Supply Chain is the heart of our business and is committed to making customers our number one priority. As a member of our dynamic Supply Chain network, you will play a role in ensuring our product – nearly 1billion units of it – makes its way from one of our 3,000 vendors, through one of our 27 distribution centres, to one of our 2,300 locations across Canada, and into the homes of millions of Canadians each year. How’s that for a challenge? 
+ If acting as the glue that connects our business together – whether in forecasting; purchasing; analytics; logistics; transportation and distribution; or space planning – appeals to you, we have a feeling a career with the Loblaw Supply Chain is the change you’ve been looking for. If you think so too, we’d love to hear from you. 
+ Position Overview: 
+As a part of the Replenishment Optimization team, the Loblaw co-op will be leveraging data science and advanced analytics concepts to identify opportunities, develop solutions and integrate them into our core business processes. Our co-op program touches all aspects of replenishment including: forecasting, inventory optimization, operations management, and reporting and analytics. 
+ A successful co-op colleague will be: 
+ 
+ Passionate about data, algorithms, programming and statistics 
+ A motivated self-starter and a relentless problem solver 
+ Able to research technical concepts and solutions 
+ Excited to learn and teach new concepts and techniques 
+ Comfortable working on their own and within a team 
+ Excited about the opportunity to present to company executives 
+ Focused on improving processes for our stores and customers 
+ Able to manage multiple initiatives with firm deadlines 
+ Comfortable working in a professional environment interacting with all levels within the organization 
+ 
+ Qualifications: 
+ 
+ Enrolled in undergraduate degree like Computer Science, Engineering, Data Science and Statistics 
+ Programming experience in SQL and Python, R, or any other programming language 
+ Ability to convert data to insight, insight to recommendations and recommendations into an action plan 
+ Knowledge of AI and data science concepts (Machine learning, prescriptive analytics, neural networks, etc.) 
+ Familiarity with Git, Unix command line and bash scripting is an asset 
+ Experience with distributed computing (eg. Hadoop, Spark) is an asset 
+ Participation in Data Science Hackathons and/or a Github link to your data science related projects is an asset 
+ 
+ How You’ll Succeed: 
+At Loblaw, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. 
+ If that sounds like you, and you are open-minded, responsive to change and up to the challenges provided in a fast-paced retail environment, apply today. 
+ In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us. 
+ Employment Type: 
+Full time 
+ Type of Role: 
+Co-op (Fixed Term) (inactive) 
+ Type of Contract: 
+Loblaw recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. 
+ Please Note:  If you have Employee Self Service (ESS) on Workday, apply to this job via the Workday application. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

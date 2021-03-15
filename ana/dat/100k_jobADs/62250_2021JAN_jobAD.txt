@@ -1,0 +1,187 @@
+Buried Treasure 
+ A computational biologist cleans up his disk 
+ Menu Skip to content 
+ 
+ Home 
+ About Me 
+ 
+ Category Archives: Job 
+ Job: Bioinformatics position in new informatics cluster 
+ Leave a reply 
+ Bioinformatics position in the new informatics cluster supporting the Novo Nordisk Foundation Centers for Stem Cell Biology and Protein Research. 
+ The NNF Centers for Protein Research (CPR) and Stem Cell Biology (DanStem) at Faculty of Health & Medical Sciences at the University of Copenhagen are establishing a new integrated informatics core that will cover a range of technologies. This new core was recently expanded to include bioinformatics as a result of our establishing a new platform for single cell sequencing. We are currently looking for an ambitious bioinformatician who will assist with NGS analysis with in this core and provide new bioinformatics pipelines to individual scientists with in both centers. The individual will be imbedded in a bioinformatics core with expertise that will include NGS, proteomics, and image data analysis. The bioinformatician will join the centers starting from November 2017 or upon specific agreement. 
+ Job description 
+ The job will sit at the nexus of the two centers and astride several existing joint efforts to bridge computational technologies including image analysis and single cell sequencing. The tasks associated with this position will include providing bioinformatics support to our scientists, constructing pipelines for their analyses, and running courses that will help them acquire bioinformatics literacy. In particular this position will be responsible for developing and executing projects with other center scientists and helping them to make the best use of their own data and that already in the public domain. 
+ The application deadline October 15th, 2017. For further details, please refer to  http://employment.ku.dk/staff/?show=145792 the official job ad . 
+ This entry was posted in  Job  and tagged  core facility ,  NGS ,  sequence analysis  on  September 12, 2017  by  Lars Juhl Jensen . 
+ Job: Data mining of health record data 
+ Leave a reply 
+ A postdoc position is available in the  Cellular Network Biology group  at the  Novo Nordisk Foundation Center for Protein Research  (CPR). The group focuses on network-based analysis of proteins and their posttranslational modifications in the context of cellular signaling and disease. The postdoc will work on analysis of data from electronic health records combined with molecular-level data in the context of alcoholic liver fibrosis and be part of the  GALAXY consortium . 
+ Candidates for the postdoctoral positions must hold a PhD degree (or equivalent) within a relevant discipline and have experience with programming and large-scale data analysis. The successful candidates will have strong qualifications or experience within several of the following areas: 
+ 
+ Bioinformatics / computational biology 
+ Experience with medical data 
+ Statistical data analysis 
+ Programming in Python and/or R 
+ 
+ For further details please see the  official job advert . 
+ This entry was posted in  Job  and tagged  data integration ,  electronic health records  on  March 30, 2017  by  Lars Juhl Jensen . 
+ Job: Bioinformatics application developer at Intomics A/S 
+ Leave a reply 
+ At Intomics A/S, we are looking for an application developer to work on bioinformatics solutions for visualization and exploration of biomedical big data. 
+ Note that the application deadline is January 6, about a month from now. For further details, please read the job advert below the fold. 
+ Continue reading -> 
+ This entry was posted in  Job  and tagged  javascript ,  programming ,  python  on  December 7, 2016  by  Lars Juhl Jensen . 
+ Job: Postdoc position on computational proteomics 
+ Leave a reply 
+ A postdoc position is available in the  Cellular Network Biology group  at the  Novo Nordisk Foundation Center for Protein Research  (CPR). The group focuses on network-based analysis of proteins and their posttranslational modifications in the context of cellular signaling and disease. The postdoc will work on developing novel computational methods for analysis of proteomics data and apply them to unpublished state-of-the-art mass-spectrometry data in close collaboration with the proteomics groups at CPR. 
+ Candidates for the postdoctoral positions must hold a PhD degree (or equivalent) within a relevant discipline and have experience with programming and large-scale data analysis. The successful candidates will have strong qualifications or experience within several of the following areas: 
+ 
+ Bioinformatics / computational biology 
+ Statistical data analysis 
+ Mass spectrometry / proteomics 
+ Programming in Python and/or R 
+ 
+ For further details please see the  official job advert . 
+ This entry was posted in  Job  and tagged  computational proteomics ,  proteomics  on  October 18, 2016  by  Lars Juhl Jensen . 
+ Job: Postdoc position on biomedical text mining 
+ Leave a reply 
+ A postdoc position is available in the  Cellular Network Biology group  at the  Novo Nordisk Foundation Center for Protein Research  (CPR). The group focuses on network-based analysis of proteins and their posttranslational modifications in the context of cellular signaling and disease. The postdoc will work on development of advanced methods for protein-centric text mining of large corpora, including combining efficient dictionary-based named entity-recognition with conditional random fields and classification based on word embedding. The resulting improved methods will in collaboration with other group members be integrated into  STRING  and related databases/tools, and the software will be made available under open licenses. 
+ Candidates must hold a PhD degree (or equivalent) within a relevant discipline and have strong programming experience. The successful candidates will have strong qualifications or experience within several of the following areas: 
+ 
+ Text mining 
+ Bioinformatics / computational biology 
+ Machine learning 
+ Statistical data mining 
+ Biomedical ontologies 
+ Programming in Python and/or C++ 
+ 
+ For further details please see the  official job advert . 
+ This entry was posted in  Job  and tagged  text mining  on  October 17, 2016  by  Lars Juhl Jensen . 
+ Job: Web development position at Intomics A/S 
+ Leave a reply 
+ At Intomics A/S, we are looking for a web developer to develop bioinformatics solutions for visualization and exploration of biomedical big data. 
+ Note that the application deadline is April 1, three weeks from now. For further details, please read the job advert below the fold. 
+ Continue reading -> 
+ This entry was posted in  Job  and tagged  web interface ,  web services  on  March 11, 2016  by  Lars Juhl Jensen . 
+ Job: Postdoc in computational analysis of animal disease models 
+ Leave a reply 
+ In collaboration with  Jan Gorodkin  at the  Center for non-coding RNA in Technology and Health  at  University of Copenhagen , I will be starting up a project on cross-species network and pathway analysis of animal disease models. We have secured funding for the project and are now searching for the right person to fill a postdoc position. 
+ The application deadline is February 27, 2016. For further details, including how to apply, please refer to  the official job announcement . 
+ This entry was posted in  Job  and tagged  diseases ,  networks ,  orthologs ,  pathways  on  January 29, 2016  by  Lars Juhl Jensen . 
+ Job: Text mining position at Intomics A/S 
+ Leave a reply 
+ At Intomics A/S, we are looking for a text-mining expert to perform contract research and develop taylor-made solutions. The job will primarily involve solving text-mining problems for clients in the pharmaceutical industry. 
+ Note that the application deadline is January 15, just over two weeks from now. For further details, please read the job advert below the fold. 
+ Continue reading -> 
+ This entry was posted in  Job  and tagged  text mining  on  December 30, 2015  by  Lars Juhl Jensen . 
+ Job: Ph.D. stipend in systems biology and bioinformatics 
+ Leave a reply 
+ I currently have an open position for a Ph.D. student in my group  Cellular Network Biology . My group is part part of the  Novo Nordisk Foundation Center for Protein Research (CPR)  and is financially supported by the  Faculty of Health and Medical Sciences ,  University of Copenhagen . 
+ The project will primarily focus on developing new, improved methodologies for analysis of large-scale datasets, e.g. from mass spectrometry, in the context of protein interaction networks, protein localization, and expression. In doing so, the aim is both to test scientific hypotheses and to improve existing resources developed within the group, such as  STRING  and  COMPARTMENTS . Candidates are thus expected to have experience with programming and statistics. 
+ The closing date for applications is June 30, 2014. For further details refer to the  job advert . 
+ This entry was posted in  Job  and tagged  data integration ,  protein interactions ,  proteomics  on  June 19, 2014  by  Lars Juhl Jensen . 
+ Job: Bioinformatics position at Intomics A/S 
+ Leave a reply 
+ At  Intomics A/S , we are looking for a bioinformatician to perform contract research and develop custom solutions. The job will primarily involve solving data analysis problems for clients in the pharmaceutical industry. For further details, please read the job advert below the fold. 
+ Continue reading -> 
+ This entry was posted in  Job  and tagged  intomics  on  July 14, 2010  by  Lars Juhl Jensen . 
+ Post navigation 
+ <- Older posts 
+ 
+ Links 
+ 
+ About Me 
+ Curriculum Vitae 
+ Publications 
+ Presentations 
+ Posters 
+ Images 
+ Datasets 
+ Google+ 
+ 
+ Categories 
+ 
+ Analysis  (32) 
+ Announcement  (15) 
+ Commentary  (20) 
+ Editorial  (10) 
+ Exercise  (5) 
+ Job  (12) 
+ Live  (7) 
+ Poll  (1) 
+ Resource  (16) 
+ Tip  (3) 
+ Update  (9) 
+ 
+ Archives 
+ 
+ September 2017 
+ July 2017 
+ March 2017 
+ January 2017 
+ December 2016 
+ October 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ March 2015 
+ January 2015 
+ December 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ March 2014 
+ January 2014 
+ October 2013 
+ April 2013 
+ March 2013 
+ January 2013 
+ August 2012 
+ June 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ December 2011 
+ October 2011 
+ May 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ November 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ January 2009 
+ October 2008 
+ September 2008 
+ August 2008 
+ July 2008 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ 
+ Search for: 
+ 
+ Create a free website or blog at WordPress.com. 
+  Buried Treasure  
+ Create a free website or blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ Add your thoughts here... (optional) Post to 
+ Cancel 

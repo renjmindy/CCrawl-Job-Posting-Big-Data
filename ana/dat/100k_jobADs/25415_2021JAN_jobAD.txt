@@ -1,0 +1,253 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Computational Project Scientist 
+ Lawrence Berkeley National Laboratory 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Computational Project Scientist 
+ Lawrence Berkeley National Laboratory 
+ [](mailto:?subject=Computational%20Project%20Scientist&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14145543/computational-project-scientist/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ November 26, 2020 
+ Location: 
+ Berkeley, United States 
+ __ Show Map 
+ Salary: 
+ Open 
+ Berkeley Lab's CAMERA (Center for Advanced Mathematics for Energy Research Applications) has a new opening for a Project Scientist to develop mathematical algorithms and related software from Applied Mathematics, Computational Sciences and/or Data Science to work on designing Artificial Intelligence and Machine Learning techniques (AI/ML) for the automation of counting and structure analysis from microscopic images coming from one or more instruments, using visible light as well as other wavelengths used for imaging samples of interest to the Department of Energy (DOE), e.g. infra-red, ultra-violet, X-ray, etc. The Project Scientist will combine mathematics, statistics with new machine learning, and automation to image analysis tasks needed within the laboratory, for example, in quality control of materials imaged at the Advanced Light Source, Molecular Foundry and other facilities within the laboratory. The successful candidate will work as part of a collaborative team to integrate sample metrology into quantitative computational models able to predict the outcome of experimental approaches, as well as to evaluate, develop and apply automation solutions to organize these data. The Project Scientist will be working closely with bench scientists, automation engineers and software developers in devising methods for high-throughput data analysis for feedback into experimental design, as part of CAMERA allied to other centers, programs and/or stakeholders. 
+ The core values of CAMERA reflect a strong commitment to diversity, equity, and inclusion. We seek candidates who will support a culture in which the entire CAMERA community feels welcomed and valued. An ongoing commitment to recruiting a vibrant, diverse and talented workforce is paramount to promoting a diverse lab community. 
+ What You Will Do: 
+ 
+ 
+ The project scientist will join in the design, development, and optimizations of AI/ML data driven models. 
+ 
+ 
+ Develop quantitative predictive models based on scientific data sets and incorporate them into a multi-modal technique database(s). 
+ 
+ 
+ Spearhead a focused effort to enhance data acquisition and management frameworks, query processed and analyzed data, access data from multiple instruments and facilities in a unified way, and relate these data to one another in support of multi-modal analyses. 
+ 
+ 
+ Use machine-learning approaches to predict outcomes based on scientific data using state-of-the-art computing infrastructure, e.g., NERSC. 
+ 
+ 
+ Work closely with CAMERA scientists to deploy and evaluate the software. 
+ 
+ 
+ Provide training to colleagues and write excellent documentation, to elevate the work from a proof of concept to maintainable, long-lasting infrastructure. 
+ 
+ 
+ Develop ML models that take data from a variety of sources to promote materials discovery. 
+ 
+ 
+ What is Required: 
+ 
+ 
+ Master's degree or Ph.D. in Computer Science, Data Science or Mathematics, or an equivalent combination of education and experience. 
+ 
+ 
+ 3 years of relevant experience beyond a degree in Applied Mathematics, Computer Science, data Science or a closely related discipline. 
+ 
+ 
+ Experience and a strong interest in scientific software development or research software engineering. 
+ 
+ 
+ Experience using the open-source scientific Python software stack for data analysis. 
+ 
+ 
+ Demonstrated record of scientific excellence through publications, talks, or software deliverables. 
+ 
+ 
+ Demonstrated knowledge of AI/ML/DL principles and practices, and familiarity with widely-used AI/ML libraries such as scikit-learn, PyTorch, and TensorFlow. 
+ 
+ 
+ Experience contributing to a scientific software project in a team environment, which might include co-developing an internal project or contributing to community-based open source software. 
+ 
+ 
+ Experience in developing new mathematical algorithms for data analysis, statistical models, computer vision and image processing, including significant expertise in algorithmic development for two or more of the following experimental techniques: tomography, optical microscopy, electron microscopy. 
+ 
+ 
+ Demonstrated expertise in applying image processing methods to biological images. 
+ 
+ 
+ Experience in developing open source code in areas such as quantitative microscopy, management, and/or visualization. 
+ 
+ 
+ Significant experience with the Scientific Python software stack, including experience in using AI/ML/DL packages. 
+ 
+ 
+ Familiarity with software version control systems (git, github, bitbucket) and automated documentation systems (sphinx etc.). 
+ 
+ 
+ Desired Qualifications: 
+ 
+ 
+ Contributions to open-source scientific software projects. 
+ 
+ 
+ Experience creating data analysis methods and procedures. 
+ 
+ 
+ Demonstrated record in collaborative software development, especially in distributed teams. 
+ 
+ 
+ Experience in data acquisition and analysis of micrographies. 
+ 
+ 
+ Experience in data management. 
+ 
+ 
+ Notes: 
+ 
+ 
+ This is a full-time 2 year, term appointment that may be renewed to a maximum of five years. 
+ 
+ 
+ This position may be subject to a background check. Any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position. Having a conviction history will not automatically disqualify an applicant from being considered for employment. 
+ 
+ 
+ This position will be remote initially, but limited to individuals residing in the United States tentatively until 2021 due to COVID-19. Once the Bay Area shelter-in-place restrictions are lifted, work will be primarily performed at Lawrence Berkeley National Lab, 1 Cyclotron Road, Berkeley, CA. 
+ 
+ 
+ Equal Employment Opportunity: Berkeley Lab is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. Berkeley Lab is in compliance with the Pay Transparency Nondiscrimination Provision under 41 CFR 60-1.4. Click  here  to view the poster and supplement: "Equal Employment Opportunity is the Law." 
+ Lawrence Berkeley National Laboratory encourages applications from women, minorities, veterans, and other underrepresented groups presently considering scientific research careers. 
+ 
+ 
+ Internal Number: 91538 
+  __  Create a Job Alert for Similar Jobs  
+ About Lawrence Berkeley National Laboratory 
+ In the world of science, Lawrence Berkeley National Laboratory (Berkeley Lab) is synonymous with excellence. Thirteen scientists associated with Berkeley Lab have won the Nobel Prize. Fifty-seven Lab scientists are members of the National Academy of Sciences (NAS), one of the highest honors for a scientist in the United States. Thirteen of our scientists have won the National Medal of Science, our nation's highest award for lifetime achievement in fields of scientific research. Eighteen of our engineers have been elected to the National Academy of Engineering, and three of our scientists have been elected into the Institute of Medicine. In addition, Berkeley Lab has trained thousands of university science and engineering students who are advancing technological innovations across the nation and around the world. Berkeley Lab is a member of the national laboratory system supported by the U.S. Department of Energy through its Office of Science. It is managed by the University of California (UC) and is charged with conducting unclassified research across a wide range of scientific disciplines. Located on a 200-acre site in the hills above the UC Berkeley campus that offers spectacular... views of the San Francisco Bay, Berkeley Lab employs approximately 4,200 scientists, engineers, support staff and students. Its budget for 2011 is $735 million, with an additional $101 million in funding from the American Recovery and Reinvestment Act, for a total of $836 million. A recent study estimates the Laboratory's overall economic impact through direct, indirect and induced spending on the nine counties that make up the San Francisco Bay Area to be nearly $700 million annually. The Lab was also responsible for creating 5,600 jobs locally and 12,000 nationally. The overall economic impact on the national economy is estimated at $1.6 billion a year. Technologies developed at Berkeley Lab have generated billions of dollars in revenues, and thousands of jobs. Savings as a result of Berkeley Lab developments in lighting and windows, and other energy-efficient technologies, have also been in the billions of dollars. Berkeley Lab was founded in 1931 by Ernest Orlando Lawrence, a UC Berkeley physicist who won the 1939 Nobel Prize in physics for his invention of the cyclotron, a circular particle accelerator that opened the door to high-energy physics. It was Lawrence's belief that scientific research is best done through teams of individuals with different fields of expertise, working together. His teamwork concept is a Berkeley Lab legacy that continues today. 
+ Show more 
+ Show less 
+ Connections working at Lawrence Berkeley National Laboratory 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Optical Systems Scientist 
+ __  Santa Barbara, California 
+ 
+ 
+ 
+ 
+ Thorlabs, Inc. 
+ __1 Week Ago 
+ 
+ 
+ Statistical Genetic Analyst 
+ __  Nashville, Tennessee 
+ 
+ 
+ Vanderbilt Health 
+ __Today 
+ 
+ 
+ Senior Software Engineer 
+ __  Santa Cruz, California 
+ 
+ 
+ University of California Santa Cruz 
+ __Yesterday 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

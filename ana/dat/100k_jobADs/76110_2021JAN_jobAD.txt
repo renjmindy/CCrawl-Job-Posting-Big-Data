@@ -1,0 +1,80 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Rally (S20) 
+ Rally is Zoom for social events 
+ UI/UX Designer 
+ 
+ Location 
+ / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 1+ years 
+ About Rally 
+ Rally is a video conferencing platform enabling multiple conversations in parallel. You no longer have to take turns to speak, and can hop in and out of conversations with a click. This is perfect for happy hours, networking, and other social gatherings. We are being used by institutions like MasterCard, Harvard and a multitude of startups across North America. 
+ Learn more about us: TechCrunch:  https://techcrunch.com/2020/09/16/rally-wants-to-make-big-group-video-calls-more-fun-more-real-and-maybe-less-exhausting/  HackerNews:  https://news.ycombinator.com/item?id=24109523 
+ About the role 
+ We are looking for a talented UI/UX Designer who can design beautiful interfaces that inspire a feeling or warmth and connection. Rally is a real-time multiplayer experience with lots of intricate functionalities and configurable options - it's a very challenging design problem. The UX and UI in video hasn't changed much in the past 20-30 years and we believe now is the time (See links below to what we mean). 
+ You'll be working very closely with the founders, early engineers, customers, and will be a major contributor to the voice and direction of the company. Let's make it happen! 🎉 
+ Some roles and responsibilities: 
+ 
+ Plan and implement new designs (We use Figma!) 
+ Optimize existing user interface designs 
+ Test for intuitively and experience 
+ Communicate with clients to understand their business goals and objectives 
+ Develop technical and business requirements and always strive to deliver intuitive and user-centered solutions 
+ Combine creativity with an awareness of the design elements 
+ Create prototypes for new product ideas 
+ Test new ideas before implementing 
+ Conduct an ongoing user research 
+ 
+ Key requirement: Must be a fan of emojis! 🙏😏 
+ Sources:  https://www.fastcompany.com/90529993/zoom-doesnt-need-to-be-so-awful-what-the-future-of-video-chat-could-learn-from-the-past   https://a16z.com/2020/12/07/social-strikes-back-video/ 
+ Technology 
+ Our Stack: 
+ 
+ 🎥 WebRTC 
+ 🌐 Kubernetes 
+ ⚙️ NodeJS 
+ 🗄 PostgreSQL 
+ 🗃 Redis 
+ 🔌 Websockets 
+ 🛠 GraphQL 
+ 💻 ReactJS 
+ 
+ Rally is in some ways more like a realtime multiplayer video game than it is like a typical web application. We are streaming multiple video and audio streams, and must optimize CPU usage and framerate. We are managing real-time state and behavioural rules in a central "game" server, and firing off events to large numbers of clients in real-time. Lots of tough and interesting technical challenges to solve - not just another CRUD app 😀. Come join us in our quest to bring the energy back into online gatherings! 🙌 
+ Other jobs at Rally 
+ Infrastructure Lead for Realtime Video-streaming Platform 
+ fulltime 
+ Toronto, ON, Canada / Remote 
+ Devops 
+ 3+ years 
+ Senior Full-stack Engineer for Realtime Video-streaming Platform 
+ fulltime 
+ Toronto, ON, Canada / Remote 
+ Backend 
+ 3+ years 
+ UI/UX Developer for Realtime Video-streaming Platform 
+ fulltime 
+ / Remote 
+ Frontend 
+ 3+ years 
+ UI/UX Designer  
+ fulltime 
+ / Remote 
+ UI / UX 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

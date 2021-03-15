@@ -1,0 +1,202 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Scientific Engineering Associate (Applied Nuclear Physics Program) 
+ Lawrence Berkeley National Laboratory 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Scientific Engineering Associate (Applied Nuclear Physics Program) 
+ Lawrence Berkeley National Laboratory 
+ [](mailto:?subject=Senior%20Scientific%20Engineering%20Associate%20%28Applied%20Nuclear%20Physics%20Program%29&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14131008/senior-scientific-engineering-associate-applied-nuclear-physics-program/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ November 21, 2020 
+ Location: 
+ Berkeley, United States 
+ __ Show Map 
+ Salary: 
+ Open 
+ Berkeley Lab's Nuclear Science (NS) Division is looking for a Senior Scientific Engineering Associate to join their Applied Nuclear Physics Program! 
+ In this role, you will engage in innovative applied research and development with a diverse group of scientists and engineers across the Lab to collaborate on the development of networked gamma-ray detection and imaging systems. This is an exciting opportunity to contribute to the development of models and algorithms for networks of static detectors in urban environments and networks of UAS-borne detectors. 
+ What You Will Do: 
+ 
+ 
+ Apply technical expertise, knowledge of advanced scientific concepts and practices, to provide technical support for the investigation and development of new analysis methodologies and algorithms for radiation detection and mapping with distributed sensor systems. 
+ 
+ 
+ Participate in the development and integration of multi-sensor systems including managing software installation and dependencies, experimental testing and evaluation, and system design and refinement. 
+ 
+ 
+ Develop, implement, and optimize advanced data analysis methods including multi-sensor data fusion, implementation and optimization of machine learning tools for novel applications, and optimization for either real-time or large-scale offline processing. 
+ 
+ 
+ Perform research and development following best practices, ensuring reproducible and well documented results. 
+ 
+ 
+ What Is Required: 
+ 
+ 
+ Bachelor's Degree in Physics, Nuclear Engineering, Electrical Engineering or related discipline and a minimum of 3 years of related technical experience in radiation detection and gamma-ray or neutron imaging or the equivalent combination of education and experience. 
+ 
+ 
+ Experience of algorithm development, signal processing, or statistical analysis. 
+ 
+ 
+ Experience developing and employing machine learning algorithms. 
+ 
+ 
+ Experience with the management of software in a Linux ecosystem. 
+ 
+ 
+ Demonstrated data analysis skills in C/C++ and Python. 
+ 
+ 
+ Excellent oral, written, and interpersonal communication skills with the ability to effectively work with staff at all levels. 
+ 
+ 
+ What We Prefer: 
+ 
+ 
+ Advanced Degree in Physics, Nuclear Engineering, Electrical Engineering or related discipline. 
+ 
+ 
+ Experience with machine learning. 
+ 
+ 
+ For full consideration, please apply by December 31, 2020 with the following application materials: 
+ 
+ 
+ Curriculum Vitae (CV) or Resume. 
+ 
+ 
+ Statement of research experience and interests (1 - 2 pages) as it relates to this position. 
+ 
+ 
+ Notes: 
+ 
+ 
+ This is a full time, exempt from overtime pay (monthly paid), 1-year term appointment with the possibility of renewal for a maximum of 5 years total or conversion to Career appointment based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs. 
+ 
+ 
+ Salary is commensurate with experience. 
+ 
+ 
+ This position may be subject to a background check. Any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position. Having a conviction history will not automatically disqualify an applicant from being considered for employment. 
+ 
+ 
+ Work will be performed at Lawrence Berkeley National Lab, 1 Cyclotron Road, Berkeley, CA. 
+ 
+ 
+ Learn About Us: 
+   Berkeley Lab  (LBNL) addresses the world's most urgent scientific challenges by advancing sustainable energy, protecting human health, creating new materials, and revealing the origin and fate of the universe. Founded in 1931, Berkeley Lab's scientific expertise has been recognized with 13 Nobel prizes. The University of California manages Berkeley Lab for the U.S. Department of Energy's Office of Science. 
+ The Nuclear Science (   NS  ) Division conducts basic research aimed at understanding the structure and interactions of nuclei and the forces of nature as manifested in the nuclear matter - topics that align the Division with the national program as elucidated in the 2007 U.S. Nuclear Science Long Range Plan. 
+ Working at Berkeley Lab has many rewards including a competitive compensation program, excellent health and welfare programs, a retirement program that is second to none, and outstanding development opportunities. To view information about the many rewards that are offered at Berkeley Lab-  Click Here . 
+ Berkeley Lab is committed to Inclusion, Diversity, Equity, and Accountability  (IDEA)  and strives to hire individuals who share these same values and commitments. 
+ Equal Employment Opportunity: Berkeley Lab is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. Click  here  to view the poster and supplement: "Equal Employment Opportunity is the Law." 
+ 
+ 
+ Internal Number: 91589 
+  __  Create a Job Alert for Similar Jobs  
+ About Lawrence Berkeley National Laboratory 
+ In the world of science, Lawrence Berkeley National Laboratory (Berkeley Lab) is synonymous with excellence. Thirteen scientists associated with Berkeley Lab have won the Nobel Prize. Fifty-seven Lab scientists are members of the National Academy of Sciences (NAS), one of the highest honors for a scientist in the United States. Thirteen of our scientists have won the National Medal of Science, our nation's highest award for lifetime achievement in fields of scientific research. Eighteen of our engineers have been elected to the National Academy of Engineering, and three of our scientists have been elected into the Institute of Medicine. In addition, Berkeley Lab has trained thousands of university science and engineering students who are advancing technological innovations across the nation and around the world. Berkeley Lab is a member of the national laboratory system supported by the U.S. Department of Energy through its Office of Science. It is managed by the University of California (UC) and is charged with conducting unclassified research across a wide range of scientific disciplines. Located on a 200-acre site in the hills above the UC Berkeley campus that offers spectacular... views of the San Francisco Bay, Berkeley Lab employs approximately 4,200 scientists, engineers, support staff and students. Its budget for 2011 is $735 million, with an additional $101 million in funding from the American Recovery and Reinvestment Act, for a total of $836 million. A recent study estimates the Laboratory's overall economic impact through direct, indirect and induced spending on the nine counties that make up the San Francisco Bay Area to be nearly $700 million annually. The Lab was also responsible for creating 5,600 jobs locally and 12,000 nationally. The overall economic impact on the national economy is estimated at $1.6 billion a year. Technologies developed at Berkeley Lab have generated billions of dollars in revenues, and thousands of jobs. Savings as a result of Berkeley Lab developments in lighting and windows, and other energy-efficient technologies, have also been in the billions of dollars. Berkeley Lab was founded in 1931 by Ernest Orlando Lawrence, a UC Berkeley physicist who won the 1939 Nobel Prize in physics for his invention of the cyclotron, a circular particle accelerator that opened the door to high-energy physics. It was Lawrence's belief that scientific research is best done through teams of individuals with different fields of expertise, working together. His teamwork concept is a Berkeley Lab legacy that continues today. 
+ Show more 
+ Show less 
+ Connections working at Lawrence Berkeley National Laboratory 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

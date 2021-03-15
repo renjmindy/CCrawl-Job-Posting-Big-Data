@@ -1,0 +1,140 @@
+
+ Skip to main content 
+ Skip to primary sidebar 
+ 
+   
+ 
+ 
+ Home 
+ 
+ 
+ LEARNING 
+ 
+ FREE TRIAL UPSKILL HR 
+ UPSKILL HR 
+ ACE THE HR EXAM 
+ ACE THE HR EXAM AUDIO 
+ HR PRACTICE TEST 
+ 
+ 
+ 
+ SHOP 
+ 
+ 
+ Podcast 
+ 
+ Workology Podcast 
+ Go Podcast 
+ 
+ 
+ 
+ About 
+ 
+ Contact 
+ Speaking 
+ 
+ 
+ 
+ Events 
+ 
+ 
+ SIGN IN 
+ 
+ 
+ A Recruiter's Take On the Impact & Importance of Facebook Jobs 
+ Feb 16, 2017  | By    Jim Durbin   |  Recruiting ,   Social Media 
+   
+ 
+  __ 
+  __ 
+  __ 
+  __ 
+  __ 
+  __ 
+  __ 
+ __ 
+ 
+ _Check out our Facebook Jobs posting tutorial by clicking here . _ 
+ The launch is here -- Facebook Jobs is now live, and anyone can post their jobs for free on Facebook! 
+ It was hinted at back in November, when Josh Constine of Techcrunch saw a beta version of the tab. Well,  Josh gets the scoop again  with direct information from Facebook. 
+ 
+ "Facebook’s VP of Ads and Business Platform Andrew 'Boz' Bosworth tells me the company wanted to see 'How can we make Facebook more useful in your everyday life?'" 
+ 
+ The answer was apparently looking for jobs, as their first media push  includes a video that focuses on entry level and small business hiring . The video doesn't explain much, but it does tell you where they think they'll get traction. 
+ This is not theoretical, it's live today. If you check your company page (and you're in the US or Canada), you will see the jobs tab listed to the left, and when you click it, you now have access. 
+ 
+ It looks like this, and it's pretty straightforward. Post a job (you have to type it in), build it like an ad, and then launch it into your Newsfeed. Jobseekers who see the ad can hit a button that says "Apply Now" and you will get a message on Facebook Messenger with an automatically filled out profile. 
+ Most of the news articles out now focus on how this might threaten LinkedIn. Facebook could eventually break into LinkedIn's margins, but this version of the jobs tab isn't competing for the high-end professional jobs that recruiters post on LinkedIn. It also doesn't touch the sourcing accounts that are the bulk of LinkedIn's revenues. 
+ If there is a threat it's to job boards, who will now have to compete with free Facebook posts. How will Careerbuilder and Indeed adjust to this model? And more importantly, how can Facebook offer this for free? 
+ I'm going to point out a few things that every TA and HR leader should be aware of, and then I'll point to the biggest obstacle for Facebook. The above graphic you see with a Facebook job posting is from Facebook's media group. Below, you will see an actual job posting from a real employer on Facebook. (h/t Audra Knight) 
+ 1. This is not a big media push! 
+ It was leaked to Techcrunch, who got an exclusive. There have been a few other stories, but it so far the discussion has been remarkably muted and one-sided. No story mentions the first Facebook job board, the failure of BeKnown, or any company but LinkedIn, which again, doesn't post jobs for bakers. 
+ 2. This is about small business. 
+ Large companies had the basic capacity to post jobs for some time with their careers pages, and it was not a wild success. Mostly, it was a portal to their ATS login. This makes it simpler for applicants, but simpler is what brought us over 200 applicants per job post. Does any recruiting department want hundreds of daily Facebook messages with very little information intact? This quickly becomes unscalable, and small businesses won't have AI bots to handle the load in the near future. 
+ 3. Messenger - now that's something. 
+ It's similar to what LinkedIn is trying to do where the messaging app replaces email as a business tool. That's great at a personal level, but again, how can you scale? Even 30 messages a day would cripple a small business. You're looking at the modern day version of the Sorceror's Apprentice, where a posting late at night could lead to massive carnage in the morning. What about the expectations of chat, versus email? Chat apps are not professional mediums. They're not built for long conversations, but our expectations are short, poorly spelled messages. I see the convenience, but I think the implementation will be messy. There is more to job applications than noticing them and saying "I want it." 
+ 4. Facebook doesn't have the information we need. 
+ The information on Facebook now is not good for jobs. It takes an experienced sourcer a lot of time to do it right, because the data simply isn't available, from titles to skills to descriptions of what you do. We're successful recruiting for Facebook by picking at the edges, or using high-end advertising techniques that very few people can do. To get this right, Facebook has to convince their user base to make Facebook their business profile. That's a huge change from the status quo. Savvy jobseekers already sanitize their profiles. If Facebook becomes useful for job applications, they will find other platforms to express their feelings, connect with their friends, and argue with strangers. Which could mean a decline in user activity. In the meantime, until jobseekers fill out their profiles, applications will be incomplete and not particularly useful. "Qualified applicants" is a much different candidate pool than "random people who say they like your Facebook job posting." 
+ 5. Have the legal implications been considered? 
+ The legal costs of dealing with Facebook job postings have not been addressed. When you think of the compliance needed for applications, and the wall between an applicant and a prospect, even a small business is going to be wary. Imagine a lawsuit where a business has to defend how they recruit, and Facebook messenger is entered into evidence. 
+ 6. How many people will even see your post? 
+ Finally, there is biggest problem, which is that organic reach on Facebook posts is almost zero. You can post a job, but no one sees it, because they aren't hanging out on your page. This forces businesses to use ads, something they can already do. The challenge is that I can run an ad to a landing page, but if I run it to a new Facebook job, the applicant thinks they've completed their side by hitting apply and waiting to be messaged. You'll be paying for people to see your postings, but getting less return. 
+ Some of this is structural, and some of it is fixable by the right team. But we should look at the big picture - and that's where LinkedIn does come in. Microsoft purchased LinkedIn for their data, the same way Salesforce purchased Jigsaw. Resume data is business data, from titles to keywords to project descriptions. Facebook has made it clear they want to get into the enterprise software market, which is 100 times larger than the entire recruiting technology market. If Facebook can convince their user base to add employment data, to essentially replicate what LinkedIn has done in the last 13 years, they will own our data and they will sell our data. Now add in the potential for machine learning from the Messenger app. This is what apps do -- they track and measure and learn who we are, who we talk to, what we write. This is an amazing opportunity for data scientists to analyze patterns in how we get hired. 
+ A Recruiter's Take On the Impact & Importance of Facebook Jobs 
+ The idea that Facebook cares about launching a job board for revenue has no merit. But Facebook looking to gather data for advertising, prep a launch into enterprise software, and capture more of the attention of their users? 
+ Yes. That is exactly what Boz Bosworth, the VP of Ads and Business Platform said to Techcrunch. Facebook wants to be more useful. We'll see if this attempt at moving into hiring is more successful than the last two. 
+ _Check out our Facebook Jobs posting tutorial by clicking here . _ 
+ Post navigation 
+ <- "Agile HR" Means Looking Ahead 
+ NEW Facebook Job Postings: Boosting them to get seen! -> 
+ Posted in  Recruiting ,  Social Media 
+ Jim Durbin 
+ Jim Durbin is a digital headhunter and the owner of Brandstorming , an interactive marketing firm in Dallas. He speaks, he writes, he recruits - and in his spare time he's trained over 7,000 recruiters. Prior to starting one of the first social media firms in 2006, he was a top performer for a national staffing firm. 
+ Reader Interactions 
+ Comments 
+ 
+ Eddie Hamilton says 
+ 
+ February 16, 2017 at 5:13 pm 
+ Love your article. Another point to consider… Frrom a management standpoint, how would someone manage responses from multiple job postings? As far as I can see, a page can only create one auto-response message. To your point, what happens if there are 10 jobs withs messages from 150 candidates for each one? 
+ * [Jessica Miller-Merrell](https://workology.com) says
+ 
+ February 17, 2017 at 11:45 am 
+ Hi Eddie, 
+ One of our other contributors published a job on Facebook yesterday and received a handful of applications. The application process is not ideal. The person posting the job is notified via Facebook messenger. There is no application that is being pushed to the ATS making compliance a nightmare especially if you are an AAP employer, reporting and metrics not to mention the time management for the recruiter. It's not ideal at all which is why I think that Facebook focused on small businesses. They don't have any API integrations into the ATS profiles or at least something that stores the applications in Facebook Work. 
+ Thanks for your question. 
+ JMM 
+ 
+ HR Spot  says 
+ 
+ March 17, 2017 at 5:48 am 
+ Good post. I gathered good knowledge about Recruiting. It is very important part of recruitment. Keep posting. Thanks again. 
+ 
+ Bizsmart  says 
+ 
+ June 30, 2017 at 4:16 pm 
+ Great information about recruitment and social media. Really helpful 
+ 
+ Ella  says 
+ 
+ July 16, 2018 at 7:30 pm 
+ thanks for he wonderful post, all of your points contain facts and make sense. And loved the content under "Facebook doesn’t have the information we need" "Have the legal implications been considered?" 
+ __ Search 
+ 
+ 
+ 
+ __ON AIR WITH WORKOLOGY 
+   
+   
+   
+   
+ 
+  __   __   __   __   __   __   __   __   __  
+ Copyright © 2020 · Workology Inc. All Rights Reserved. Site Design by The Spinbird Group. 
+ 
+ Contributing 
+ Advertising 
+ Disclaimer 
+ Press 
+ 
+ Pin It on Pinterest 

@@ -1,0 +1,101 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Analyst, Data, Insights & Analytics 
+ Loblaw Companies Limited 
+ __Brampton, ON 
+ Apply Now 
+ Location: 
+1 Presidents Choice Circle, Brampton, Ontario, L6Y 5S5 
+ The decision to join a company is a big one. We have opportunities for hard working, energetic and reliable people just like you. 
+ Why is this role important? 
+ Location: 
+1 Presidents Choice Circle, Brampton, Ontario, L6Y 5S5 
+1 University Avenue, Toronto, Ontario, M5J 2P1 
+ Are you at the top of your game? Bring your expertise and knowledge to Canada’s largest retailer. We are looking for innovative, talented, and energetic people to help bring our Data, Insights & Analytics game to the next level. This is an exciting time to join our team – we are changing the game in a big way! 
+If you are looking to join a company that offers unlimited opportunity, excellent leadership, world-class training and makes a big impact on the community – this is the role you’ve been waiting for! 
+The Data, Insights & Analytics team at Loblaw is hiring a Analyst, Data Insights and Analytics. Reporting to the Director, Data, Insights & Analytics, the incumbent will use advanced techniques in obtaining and analyzing data to drive actionable insights and develop analytic capabilities to support the marketing science and media workstreams. This role will have the support the build of a media advisory agency within the enterprise where the core product is data and analytics. 
+ What You 'll Do: 
+Responsible for the extraction and analysis of complex information from a variety of databases. 
+Develop capabilities to identify areas of opportunity and improve processes and efficiency on reporting and operations. 
+Support initiatives, develop diagnostics tools and build data products to make business partners more self-sufficient. 
+Extract, review and prepare sales and customer behavior data for analysis, reporting using SQL 
+Analyze data to help determine insights to solve business problems or identify new opportunities 
+Support the development and operations of data products working collaboratively with Product, Sales and Marketing and Operations groups, on cross functional outcomes 
+Translating business problems and questions into an order of operations. Business requests can be strategic nature or tactical focus, including but not limited to: media activation, audience targeting, customer analytics, loyalty initiatives, marketing attribution, post campaign analyses. 
+Work with Data Operations and IT to feed requirements for enterprise data architecture and data science analytic outcomes. 
+Act as gatekeeper with regards to security and confidentiality of data obtained through all sources. 
+Strictly adhere to legal and compliance guidelines; regarding access and exposure to sensitive and confidential information 
+Design and build interactive and static data visualizations to provide insights and enable strategic business decisions 
+Build statistical, descriptive and predictive models to support experimentation that are easily understood and operationalized 
+Conduct statistical analysis and hypothesis testing to improve forecasting, targeting and performance measurement 
+ What You 'll Bring: 
+University Degree in Computer Science, Statistics, Mathematics, Economics, Engineering or other relevant fields 
+Programming skills with Python, Pyspark, Scala or R. 
+Experience with Hadoop and understanding of its components (HDFS, HBase, Spark) is an asset. 
+Data mining experience working with a large relational customer database 
+Professional digital marketing experience from either agency or client side is an asset 
+3 years experience in utilizing advanced SQL data extraction and manipulation tools (MS SQL, Unix, Linux, IBM Netezza, IBM DB2, Teradata, Hadoop). 
+Experience in BI platform and data visualization tools (Power BI, Microstrategy, Cognos, SAS, Tableau, QlikView, etc.) 
+Experience with data science cloud solutions to build to scale is an asset 
+Superb analytical and critical thinking skills; to not only manipulate but also derive meaningful interpretations from data 
+Ability to take initiative, multi-task and work in a fast-paced environment 
+Capability to liaise with all levels across the enterprise on projects and ad-hoc requests 
+Strong detail orientation is essential in this role 
+A Team player and self-starter 
+Advanced MS Office skills (Excel, Word, Access) 
+Web development experience is not required but is an asset; comfortable developing and supporting basic web interfaces that automate processes and display data; e xperience with Django Framework, HTML, JavaScript (optional: React, Angular) is an asset. 
+ What You Can Expect: 
+We are a team of diverse and ambitious analysts, who cultivate a friendly and inclusive work environment where you can be yourself. Our employees’ development is at the core of our business, offering endless possibilities for growth, learning and mobility. Let us help grow your skills through one of our many resources including the Loblaw Virtual Learning Centre, where you have access to hundreds of learning tools, or through casual coffee chats with our leaders who were once in your shoes. 
+ Other perks of joining Loblaw: 
+Competitive compensation and benefits package 
+Office with incredible amenities including an on-site gym, volleyball court and basketball court (turned ice rink in the winter!) with flexibility to work elsewhere 
+A flexible work environment which values balance 
+Colleague Discount Program 
+Tuition reimbursement Program 
+Employee Share Ownership plan 
+Pension Plan 
+ If the above sounds like a great fit, then we would love to hear from you! Apply today, and get the process started. If you meet the above requirements, expect a call from one of our recruiters, followed by an in-person interview. Our recruitment process will allow you to meet and interact with colleagues at various levels of our business to give you a great perspective of life at Loblaw. 
+ We thank all candidates for their interest but please note, those candidates who meet the minimum requirements for the position will be contacted. 
+ How You’ll Succeed: 
+At Loblaw, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. 
+ If that sounds like you, and you are open-minded, responsive to change and up to the challenges provided in a fast-paced retail environment, apply today. 
+ In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us. 
+ Employment Type: 
+Full time 
+ Type of Role: 
+Regular 
+ Loblaw recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

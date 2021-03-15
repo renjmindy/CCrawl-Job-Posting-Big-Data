@@ -1,0 +1,50 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Dripos (S20) 
+ The only piece of software a restaurant needs to operate. 
+ Software Engineer 
+ $70k - $130k • 
+ Location 
+ Cambridge Massachusetts / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Dripos 
+ Dripos is the only piece of software a restaurant needs to run their business. We offer point of sale, employee scheduling, mobile ordering, and more to the 100,000 counter service restaurants in the US. 
+ About the role 
+ Skills:  Express, JavaScript, MySQL, React, React Native 
+ Hello, I'm Avery, the co-founder of Drip which is an all in one solution for restaurants. Since starting this company over a year ago, I've written every line of code for this product across all our websites, mobile apps, and servers. We just closed our seed round and I'm finally ready to open up my baby and take on some new developers. 
+ Now's a really fun time at Drip! We just closed our first round and we're trying to build out a rockstar team. Every hire right now has a huge opportunity to impact everything we do and ship to potentially hundreds of thousands of restaurants in the US. 
+ Because of this, we're actively looking for engineers that want strong product ownership. Everyone in our company talks with customers almost every day, and we build our product specifically around close communication with our partnered restaurants. We're strong believers in finding your own work. We don't believe in PMs and a hundred item backlog, but what we do believe in is that you should be in charge of what you work on. Want a feature to exist? Talk to restaurants, see if they want it, hack together a prototype and ship it the day. 
+ As an all-in-one product that doesn't use any third-party integrations, we've got our work cut out for us! We deliver features ranging from hardware integrations for payment processing to inventory tools to employee management software. Our product requires seamless integration of all our devices inside a shop, and being able to pass data real-time between all these devices and the customer ordering website and app. We have shops with multiple front of house registers with card readers and printers, with multiple back of house ticket and delivery screens, then outside drive though and contactless kiosks, on top of that they also have web and online ordering that customers can use for in-store, delivery, and contactless pickup. Right now our biggest challenge is pushing out our payroll and advanced reporting platforms to all our partners. 
+ We are looking for people who love hacking and live and breath coding. We have a really big product which spans basically all parts of the tech spectrum, so if there is something you want to work on, we probably work with it. We mainly work with Node.js, React, React Native, and are very integrated with AWS. 
+ If what I said has intrigued you, feel free to reach out to me at  [email protected] 
+ Technology 
+ As an all-in-one product that doesn't use any third-party integrations, we've got our work cut out for us! We deliver features ranging from hardware integrations for payment processing to inventory tools to employee management software. Our product requires seamless integration of all our devices inside a shop, and being able to pass data real-time between all these devices and the customer ordering website and app. We have shops with multiple front of house registers with card readers and printers, with multiple back of house ticket and delivery screens, then outside drive though and contactless kiosks, on top of that they also have web and online ordering that customers can use for in-store, delivery, and contactless pickup. Right now our biggest challenge is pushing out our payroll and advanced reporting platforms to all our partners. 
+ Things we build with are: React, React Native, Redux, Node.js w/ Express, MySQL, and a lot of AWS tools. 
+ Other jobs at Dripos 
+ Software Engineer  
+ fulltime 
+ Cambridge Massachusetts / Remote 
+ Full Stack 
+ $70k - $130k 
+ Any (new grads ok) 
+ Sales Rep/Account Manager 
+ fulltime 
+ New York / Remote 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

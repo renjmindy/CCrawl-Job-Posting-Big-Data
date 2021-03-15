@@ -1,0 +1,63 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Mobile Staff Developer 
+ Loblaw Digital 
+ __Toronto, ON 
+ Apply Now 
+ At Loblaw Digital, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we’re up for the challenge. Working from our office in Downtown Toronto or remotely, we’ve created leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, and apparel spaces, and we’re only just getting started. 
+ The team you will be joining creates the software powering the PC Express online shopping platform for groceries and household goods. Every day we live and breathe our core value of placing the "Customer at the Centre". A successful day for us is one where we can go home knowing we made a positive difference in the lives of Canadians, because we genuinely care about the people that use our platform. Building software is great, but building software that impacts lives is that much more rewarding. 
+ To be part of our group is to always be looking for the best way to do something for our customers. As a digital business, we diligently adhere to the Build, Measure, Learn feedback loop. We build things to see how they perform in the real world, measure that performance, and use the results to test our assumptions and hypothesis. Sometimes that may mean a great idea or piece of code has to go away, but that is a small price to pay to ensure we are building the right things and solving the needs of our users 
+ As a Mobile Staff Developer for PC Express, you will be responsible for overseeing the technical vision and quality for two of our teams working on our iOS and Android customer-facing applications. Partnering with the Engineering Manager for the two teams, you will define the technical metrics and outcomes for the teams to strive towards. Using your extensive knowledge and experience in mobile application development, you will work with the other developers on those applications to further their growth and abilities. 
+ What You'll Do 
+Define and drive the technical vision for two of our mobile-focused teams of software developers 
+Find ways to teach and level-up the technical skills of those developers using your knowledge and expertise 
+Be the champion for the architecture of our mobile platforms, ensuring we are following best-practices and avoiding as much technical debt as possible 
+Look out and advocate for opportunities to improve our technical processes to enable the best performance out of our teams as possible 
+ Does this Sound like you? 
+You are an expert in mobile application software development, having spent many years accumulating in-depth knowledge on both IOS(Swift) and Android (Kotlin) platforms 
+While technology moves rapidly, you understanding the strategies for writing quality software are more universal. You are passionate about teaching those strategies to other developers to help them advance their understanding and careers 
+You love to write code every day and the code your write clearly demonstrates engineering best practices 
+Keen awareness and understanding of performance, accessibility, security and other key software development concerns of operating at scale 
+Demonstrated aptitude in system design 
+Experience with Gitflow workflow, CI/CD pipelines, enterprise app distribution and cloud native platforms (GCP, AWS etc) 
+You enjoy taking owenership of your work in an environment where leadership is a shared responsibility 
+Experience working with Contentful or other content management solutions is a plus 
+You meet most of this criteria and this is the role for you - reach out to us and tell us why! 
+How you’ll succeed 
+ At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. You will get to work with some of the best digital minds and will have the support of world class technologies to craft products our customers will love! 
+ Loblaw Digital recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. 
+ In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

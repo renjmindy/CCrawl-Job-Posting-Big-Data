@@ -1,0 +1,12 @@
+ Qualifications: 
+ Familiar with the latest computation and storage architecture and components 
+ Experience with managing distributed systems within computing clusters 
+ Experience in configuration and maintenance of applications such as web servers, load balancers, relational databases, storage systems and messaging systems. 
+ Knowledge of system design concepts 
+ Ability to debug complex problems across the whole stack 
+ Preferred Qualifications: 
+ Knowledge of data governance tooling and principles 
+ Working experience in organizations with large databases 
+ Dealt with data integrity and cleaning issues in the past 
+ Few years of experience as a tech lead 
+ [ 

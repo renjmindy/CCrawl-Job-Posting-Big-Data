@@ -1,0 +1,109 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Senior Information Security Analyst and SIEM Administrator 
+ University of Victoria 
+ __Victoria, BC 
+ Apply Now 
+ The Information Security Office is looking for a Senior Information Security Analyst and SIEM Administrator to join our team within University Systems. The Information Security Office is responsible for overall coordination and management of the information security program for the university. In addition to providing additional capacity and expertise to the team for projects, operations, and incident response, this position will help lead the implementation of a SIEM platform as part of a maturing campus-wide information security program. 
+ Our preferred candidate should have experience with some or all of the following: 
+ Good understanding of TCP/IP and related network protocols 
+Experience with common open source security tools (Nessus, nmap, Wireshark, Snort, Metasploit, etc.) 
+Experience with security services, such as Disk Encryption, Endpoint Protection, Intrusion Detection/Prevention and Firewalls, Security Event and Incident Management, and Data Loss Prevention 
+Working knowledge of and experience in the environment of information security 
+A Cybersecurity industry certification such as GIAC, CISSP, ISACA, CEH or OSCP 
+Broad knowledge of Windows, Mac, and Linux operating systems 
+Good knowledge and experience using and/or implementing a SIEM in an enterprise environment 
+ UVic compensation is competitive with 
+ Annual salary increases – 3% progression increases up to the salary job rate, and 2% performance increases from the job rate to the ceiling, of the salary range 
+7 hour work days and 35 hour work weeks 
+Generous vacation time off - 22 days to start, increasing to 25 days – 15 days for term employees 
+Leaves – maternity, parental, adoption, personnel, sick and long term disability* 
+Flexibility in arranging work schedules 
+Access to personal and central professional development funds* 
+Diverse range of learning and development opportunities* 
+Sustainability initiatives including discounted transit passes and a pedestrian and bike friendly campus* 
+ UVic contributes to your and your family’s health and wellbeing through its 
+ Comprehensive medical, dental* and pension* benefits 
+Employee and family assistance program 
+Discounted athletic facility membership 
+Access to health and wellness tools and resources to support you in finding work-life balance 
+ 
+ Some eligibility criteria apply for term positions 
+ 
+ The salary range for this position is: 
+ Recruitment range:  $76,850 - $86,493 starting salary determined by the PEA Collective Agreement. 
+ Performance range:  starting salary to max of $100,456 is available through annual performance increases 
+ This is a continuing position. Only those that hold Canadian Citizenship or Permanent Residency are eligible to work in continuing positions. 
+ Job Summary 
+ University Systems (http://www.uvic.ca/systems/) serves a diverse client base including students, faculty and world-renowned researchers. We consist of three major units: Academic & Administrative Services, Infrastructure Services, and UVic Online, all working together to provide computing, communications and technology in support of the university's learning, teaching, research and administrative activities. We support high profile research projects and work as part of the BCNET consortium. We exist in a complex work environment where we must effectively navigate complex, cutting edge and ever-changing technology, and information security and privacy issues in order to be the best information systems organization in the Canadian university system. 
+ Reporting to the Manager, Information Security Office, the Senior Information Security Analyst and SIEM Administrator assists in the monitoring and enforcement of information security policy and practice to ensure the confidentiality, integrity, and availability of the University’s Information Resources. The Senior Information Security Analyst and SIEM Administrator works to ensure the operational security of university-wide computing systems and services, and acts as both a trusted advisor/consultant and subject matter expert providing guidance to and collaborating with technical staff and staff in various units throughout the university. This position will oversee Security Incident and Event Management (SIEM) tools and technologies, provide support on SIEM lifecycle, configuration, and tuning management, and will be a subject matter expert and maintainer for SIEM solutions that offer enterprise class log collection, aggregation, and correlation capabilities for a wide variety of platforms.This role uses their knowledge of highly complex information security and systems-related experience to analyze and solve problems. The Manager, Information Security Office, and other senior leaders within University Systems provide guidance and direction on the resolution of more complex issues. 
+ Job Requirements 
+ This position requires a Bachelor's degree in a technical discipline (Computer Science or Computer Engineering preferred) and 5 years' experience working in an enterprise networking environment, and 3 years’ experience in an information security-related function, 
+ An equivalent combination of education, training and experience would be considered. 
+ Essential knowledge and experience requirements include: 
+ 
+ Good understanding of TCP/IP and related network protocols. 
+ Broad knowledge of N-tier computing environments (web applications, database, networking, firewall, etc.) 
+ Basic scripting/programming knowledge (e.g. shell scripts, Perl, Ruby, Python, SQL) 
+ Broad knowledge of Windows, Mac, operating system environments 
+ Strong knowledge of the Linux operating system environment 
+ Working knowledge of and experience in the environment of information security 
+ Experience with common open source security tools (Nessus, nmap, Wireshark, Snort, Metasploit, etc.) 
+ Experience with security services, such as Disk Encryption, Antivirus and Endpoint Protection, Intrusion Detection/Prevention and Firewalls, Desktop Management, Security Event and Incident Management, and Data Loss Prevention, is strongly desired. 
+ Experience with implementing, managing and using Security Incident and Event Management systems in an enterprise environment. 
+ Experience in securing remote-access and mobile computing environments. 
+ A Cybersecurity industry certification such as GIAC, CISSP, ISACA, CEH or OSCP 
+ 
+ Essential competencies include: 
+ 
+ Demonstrate the highest standards of ethical conduct in ensuring the confidentiality, integrity, and availability of information resources. 
+ Demonstrated trust from peers and supervisors in regards to working with highly-confidential and personally identifiable information. 
+ Ability to communicate complex technical concepts to a non-technical audience through written and verbal communication. 
+ Ability to work both collaboratively in a team environment as well as independently. 
+ 
+ The following criteria are considered an asset: 
+ 
+ Experience with public sector privacy legislation and regulations (PIPEDA, FIPPA) 
+ Experience working in a post-secondary education environment or comparable size/complex organization 
+ Experience in delivering training and awareness to end users, and being a spokesperson or ambassador for information security issues. 
+ Experience working in environments involving multiple stakeholders. 
+ 
+ UVic is committed to upholding the values of equity, diversity, and inclusion in our living, learning and work environments. In pursuit of our values, we seek members who will work respectfully and constructively with differences and across levels of power. We actively encourage applications from members of groups experiencing barriers to equity. 
+ Read our full equity statement here:  www.uvic.ca/equitystatement. 
+ Persons with disabilities who anticipate needing accommodations for any part of the application and hiring process may contact Belinda Fontes, HR Programs and Project Manager, at uviccareers@uvic.ca. Any personal information provided will be maintained in confidence. 
+Additional Information 
+991540-SYST-2020-JD-Sr InfoSecurityAnalystAndSIEMAdministrator-SG15 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

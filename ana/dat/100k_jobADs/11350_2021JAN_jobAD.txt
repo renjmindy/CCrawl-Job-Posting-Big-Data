@@ -1,0 +1,160 @@
+ WORKLOAD AUTOMATION COMMUNITY  
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 
+ How to schedule a job on z/Os without IBM Z Workload Scheduler 
+ 12/19/2019 
+  0 Comments  
+ You can use the  **agent for z/OS   - aka D-Driven - **to schedule work using IBM Workload Scheduler. You install and configure the agent for z/OS in the z/OS system and this work as any other dynamic agent. ​As soon as it is configured, the agent automatically links with the dynamic domain manager component of IBM Workload Scheduler through the HTTP or HTTPS protocols. With the agent for z/OS you can define jobs and schedules on IBM Workload Scheduler and submit a subset of the jobs to a z/OS system and you run the planning tasks on IBM Workload Scheduler while the execution is demanded to the z/OS system. 
+ The agent for z/OS acts as a proxy between dynamic domain manager, submitting the workload, and z/OS® system, executing the workload. The agent passes the workload from IBM Workload Scheduler to z/OS® and returns all updates about its execution back to IBM Workload Scheduler in the form of events. In the following figure we show you an example of IBM Workload Automation network using z/Os Agents. 
+ ​The job definition includes one of the following: 
+ 
+ The entire JCL definition of the task to be run by z/Os where JCL (Job Control Language) is a scripting language used in IBM mainframe to describe a job. In this case, the JCL is part of the job definition stored in the IBM Workload Scheduler database and is sent to the z/OS agent with the rest of the job at submission time. This type of submission is named: submission by definition. 
+ The names of the data set and of the file containing the JCL definition in the z/OS system where the agent runs. When the job is submitted, the agent uses this information to track the JCL definition in the z/OS system. This type of submission is named: submission by reference. 
+ 
+ ​ 
+To define a job definition, you can use the composer command lines or the Workload Designer of the Dynamic Workload Console and you manage agent for z/OS jobs as you manage other Workload Scheduler jobs. 
+ JCL tailoring (variable substitution in z/OS terms) is carried out before submitting the JCL using the variable values specified in the IBM Workload Scheduler variable's tables. Use the Dynamic Workload Console to see them in graphical or tabular views, or in host-lists. You can also see the related job logs and carry out most actions (such as rerun, cancel) typically available for other jobs. From the Dynamic Workload Console or from command line you can view the job log when you want. 
+ z/OS Agent main functionalities 
+ 
+ High availability with sysplex support 
+ Jobs by definition and by reference with variable definitions 
+ JCL Editing (The JCL can be changed on the plan if a Job goes in error) 
+ EDWA (event-driven workload automation) enablement (triggers for datasets, VSAM and GDG) 
+ Define, submit and monitor JCL jobs inside IBM Workload Scheduler distributed plan 
+ Get the job log of the completed JCL jobs 
+ Secure the communication between IBM Workload Scheduler and the z/Os agent with SSL 
+ A gateway can be used between the z/OS agent and the IBM Workload Scheduler Dynamic Domain Manager 
+ 
+ Event-driven Workload Automation Use Case ScenarioEvent-driven workload automation (EDWA) addresses on-demand workload automation in addition to plan-based job scheduling. A Large Multinational Bank uses this optional feature to run rules for performing predefined actions in response to particular events occurring on their agents. The organization benefits by adding on-demand workload automation to plan-based job scheduling, gaining savings in time and resources. Event-driven workload automation is based on the concept of event rule. In IBM Workload Scheduler an event rule is a scheduling object and is made up of events, event-correlating conditions, and actions. The client defines event rules and more actions that are triggered by those events. Moreover, validity dates are specified, a daily time interval of activity. Using event-driven workload automation they carry out a predefined set of actions in response to events that occur in environments. Set up the event rules to activity impacting a dataset: when the SMF writes a record that traces the closure of the VSAM cluster dataset, the Agent for z/OS intercepts the action synchronizing job submission with Master Domain Manager. 
+ 
+ | 
+ | 
+ Paolo Falsi 
+HCL WA for Z Tech Lead 
+​ 
+He works in Workload Automation development team and he is leading the Z product area. 
+   
+ ---|--- 
+ | 
+ Ilaria Rispoli 
+HCL Client Advocacy Manager 
+ ​She works in Workload Automation area and is leading the advocacy program for both on-premises and cloud solutions of the product in Europe, Middle East, Africa, and worldwide. 
+   
+ ---|--- 
+ 
+  0 Comments  
+ Your comment will be posted after it is approved. 
+ Leave a Reply. 
+ Archives 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ Categories 
+ All 
+ Analytics 
+ Business Applications 
+ Cloud 
+ DevOps 
+ Monitoring & Reporting 
+  RSS Feed  
+ www.hcltechsw.com 
+ | 
+ **About HCL Software  ** 
+HCL Software is a division of HCL Technologies (HCL) that operates its primary software business. It develops, markets, sells, and supports over 20 product families in the areas of DevSecOps, Automation, Digital Solutions, Data Management, Marketing and Commerce, and Mainframes. HCL Software has offices and labs around the world to serve thousands of customers. Its mission is to drive ultimate customer success with their IT investments through relentless innovation of its products. For more information, To know more  please visit  www.hcltechsw.com .  Copyright (C) 2019 HCL Technologies Limited 
+ ---|--- 
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 

@@ -1,0 +1,1201 @@
+Smalltalk Jobs 
+ Open Smalltalk programming positions from around the world. 
+ Menu 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ Tag Archives: Smalltalk jobs 
+ Post navigation 
+ <- Older posts 
+ Smalltalk Jobs - 11/27/20 
+ Posted on  November 27, 2020  by  James T. Savidge 
+ 
+ Fremont, CA  -  Software Engineer - Big Data - Hadoop  (147523) - at  Lam Research 
+ 
+ Required Skills: 
+ MS in Computer Science or related field such as Computer Engineering or Electrical Engineering. 
+ Knowledge and experience in multiple software languages developing and support applications – Java, C++, Python, Smalltalk 
+ Knowledge on server hardware configuration and Windows and Linux OS. 
+ Software coding and troubleshooting for Big Data architecture such as Hadoop and its technology elements including HDFS, Spark, HBase, Ambari, YARN, and others are essential. 
+ Familiar with ML algorithms and techniques being utilized in the Hadoop ecosystem including knowledge of open source practices. 
+ Use of standard software development program management processes like agile. 
+ Travel up to 25% may be expected. 
+ Wanted Skills: 
+ 
+ Advanced degree desirable, but level of work experience also considered. 
+ Typically requires a minimum of 3 years of related experience working in software development and support position in high technology company. 
+ Work history demonstrating good project management, organizational and communication skills working in and leading teams. 
+ Previous roles demonstrating R&D, new product development and customer facing assignments showing good understanding of both factory & customer needs / issues. 
+ 
+ 
+ 
+ 
+ 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 10/4/20 
+ Posted on  October 4, 2020  by  James T. Savidge 
+ 
+ Tualatin – near  Portland, Oregon  -  Software Engineer 3  - at  Lam Research 
+ 
+ Required Skills: 
+ 
+ B.S or Masters in Computer Science, Computer Engineering, Electronics or related field with 5-10 years of industry experience 
+ Knowledge of embedded software development and design. 
+ Knowledgeable with communication protocols such: I2C, SPI, UART etc. 
+ Knowledge of Object Oriented Software implementation and design e.g.: Design Patterns and Finite State Machines 
+ Strong software engineering skills: modular design, data structures and algorithms. 
+ Experience with Source Control and Development life cycles. 
+ Analytical approach to root cause analysis 
+ Knowledge of multithreading is a must (preemptive thread scheduling) 
+ Understanding of Networking/TCPIP 
+ 
+ 
+ Wanted Skills: 
+ Background in electronics and electrical engineering 
+ Smalltalk 
+ Experience with real-time operating systems 
+ Experience with distributed embedded controls system 
+ 
+ 
+ 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ This blog’s  RSS Feed 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs 9/20/20 
+ Posted on  September 20, 2020  by  James T. Savidge 
+ 
+ Fremont, CA  -  Sr. Software Engineer - Applications  through  Lam Research 
+ 
+ Required Skills: 
+ 
+ B.S or Masters in Computer Science, Computer Engineering, Electronics or related field 
+ 7-10 years of industry experience 
+ Knowledge of embedded software development and design. 
+ Knowledgeable with communication protocols such: I2C, SPI, UART etc. 
+ Knowledge of Object Oriented Software implementation and design e.g.: Design Patterns and Finite State Machines 
+ Strong software engineering skills: modular design, data structures and algorithms 
+ Experience with Source Control and Development life cycles 
+ Knowledge of multithreading is a must (preemptive thread scheduling) 
+ Understanding of Networking/TCPIP 
+ 
+ 
+ Wanted Skills: 
+ 
+ Background in electronics and electrical engineering 
+ Smalltalk 
+ Experience with real-time operating systems 
+ Experience in distributed embedded controls system 
+ 
+ 
+ 
+ 
+ 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Cincom is looking for a new Smalltalk Team Member 
+ Posted on  August 29, 2020  by  James T. Savidge 
+ Cincom’s Smalltalk group is looking for a software engineer to join its global, fully distributed/remote development team to develop and maintain Cincom Smalltalk. 
+ 
+ Software Engineer – Smalltalk  at  Cincom Systems 
+ 
+ Required Skills: 
+ 
+ A passion for and experience with Smalltalk 
+ Significant C experience 
+ Language design involving Smalltalk 
+ A background in developing quality Smalltalk code and delivering product feature documentation 
+ Problem-solving skills and a can-do attitude are essential in this role 
+ Must be able to work individually and in a distributed team environment 
+ Experience with API calls and platform libraries on various operating systems (Windows, Mac, Linux, Unix) 
+ 
+ 
+ Wanted Skills: 
+ 
+ Cincom Smalltalk 
+ Experience with assembly language (possibly JIT) 
+ 
+ 
+ 
+ 
+ 
+ Submit your resume/CV and cover letter letting them know why you want to join their team with salary requirements to  Suzanne Fortman  with Reference PRF 4644 in the subject line. 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 8/15/20 
+ Posted on  August 16, 2020  by  James T. Savidge 
+ 
+ 
+ Essex Junction, VT  -  MTS - RF Test Engineer  (Job Number: 20002041) at  GLOBALFOUNDRIES 
+ 
+ Required Skills: 
+ 
+ Bachelor’s Degree in Electrical Engineering, Physics, or Related Technical Discipline 
+ 6 Years of Related Discipline (RF Characterization, Tools etc.) 
+ 6 Years of Experience in Semiconductor characterization using RF tools for various measurements – S-param / noise/ loadpull / 5G 
+ Minimal Travel Required 
+ Language Fluency: English (Written & Verbal) 
+ 
+ 
+ Wanted Skills: 
+ 
+ Master’s Degree and of PhD in Electrical Engineering, Physics, or Related Technical Discipline 
+ Device Physics and RF circuit design background 
+ Experience with 5G and WiFi6 measurements and knowledge on complex RF tools 
+ On wafer probing experience 
+ Calibration and S-parameter testing upto 100GHz 
+ Loadpull calibration and testing 
+ Hands on experience with board / wafer level test equipment 
+ RF circuit design 
+ C/C++ 
+ python 
+ Smalltalk 
+ 
+ 
+ Additional listings:   GLOBALFOUNDRIES ,  GLOBALFOUNDRIES 
+ 
+ 
+ 
+ Fremont, CA  -  Regional Product Support Engineer 5  through  Lam Research 
+ 
+ Required Skills: 
+ 
+ Design test case and execute test case on Lam system software using Smalltalk and C, C++. 
+ Participates in the review of procedures, Tech Memo, processes and tool design impacting development activity. 
+ Manages projects and provides reports to management to deliver the desired result. 
+ Knowledge of C, C++, SmallTalk 
+ Able to create test case using Smalltalk, C and C++. 
+ Domestic and International travel is required based on business need. Currently requires a minimum of 35% travel to all North America customer site and manufacturing locations. 
+ 
+ 
+ Wanted Skills: 
+ 
+ 4 Years Degree BS in Electrical, Electronics Computer Engineering, Software Engineering, knowledge of Lam products 
+ Proficiency with GEM standard, able to perform data failures analysis and debug automation issue. 
+ 
+ 
+ Additional listings:   Lam Research 
+ 
+ 
+ 
+ Miami, FL  -  Smalltalk with Java  through  Sonsoft 
+ 
+ Required Skills: 
+ 
+ At least 7 years of experience in software development 
+ Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education. 
+ At least 4 years experience with Smalltalk 
+ Hands on experience with Visual Age Smalltalk 
+ SQL 
+ Ability to effectively prioritize and execute tasks. 
+ Ability to research new and emerging technologies. 
+ At least 5 years of experience in software development life cycle. 
+ At least 3 years of experience in Design and architecture review. 
+ Experience in credit cards and Payments domain. 
+ Experience and desire to work in a Global delivery environment. 
+ 
+ 
+ Wanted Skills: 
+ 
+ Oracle PL/SQL programming 
+ 
+ 
+ Pay:  $ 86,000+ USD per Year 
+ 
+ 
+ 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 7/5/20 
+ Posted on  July 5, 2020  by  James T. Savidge 
+ 
+ Essex Junction, VT  -  Sr Eng Design Enablement  (Job Number: 20001988) at  GLOBALFOUNDRIES 
+ 
+ Required Skills: 
+ 
+ Bachelors in Electrical Engineering or Physics plus 5 year experience in semiconductor characterization using RF tools for various measurements – S-param / noise/ loadpull 
+ RF circuit design 
+ C/C++ 
+ python 
+ Smalltalk 
+ 
+ 
+ Wanted Skills: 
+ 
+ Masters in EE or Physics with 2+ year experience in RF characterization 
+ Device Physics and RF circuit design background 
+ On wafer probing experience 
+ Calibration and S-parameter testing up to 100GHz 
+ Experience with Loadpull calibration and testing 
+ 
+ 
+ Additional listings:   GLOBALFOUNDRIES 
+ 
+ 
+ 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 6/20/20 
+ Posted on  June 20, 2020  by  James T. Savidge 
+ 
+ 
+ Richland, WA  -  BWR Neutronics Reload Design & Analysis Engineer III, IV, Principal  339-378 (Multiple positions are available) at  Framatome 
+ 
+ Required Skills: 
+ 
+ Engineer III:  BS in Nuclear Engineering plus 3 - 5 years experience in reactor physics or fuel management engineering experience. An advanced engineering degree may be substituted for related work experience (MS 1-2 yrs. or PhD 1-3 yrs.). 
+ Engineer IV:  BS in Nuclear Engineering plus 5 - 7 years experience in reactor physics or fuel management engineering experience. An advanced engineering degree may be substituted for related work experience (MS 1-2 yrs. or PhD 1-3 yrs.). 
+ Principal Engineer:  BS in Nuclear Engineering plus 7 - 10 years experience in reactor physics or fuel management engineering experience. An advanced engineering degree may be substituted for related work experience (MS 1-2 yrs. or PhD 1-3 yrs.). 
+ BWR core design experience 
+ Work experience in the areas of neutronics/physics and/or thermal hydraulics design of BWR nuclear fuel assemblies and core reloads 
+ Basic experience and capabilities with MICROSOFT Office software products (WORD, EXCEL, etc.) 
+ 
+ 
+ Wanted Skills: 
+ 
+ Advanced degree (MS or PhD) is a plus but not a strict requirement 
+ Experience with BWR nuclear fuel neutronics analysis spectral/lattice codes (CASMO-3, CASMO-4, etc) and core simulator codes (SIMULATE, MICROBURN-B2, etc) 
+ A wide range of other skills related to the position, including Smalltalk 
+ 
+ 
+ Pay:  $87,837 - $121,644 USD per year 
+ Additional listings:  Framatome,  Framatome ,  Framatome 
+ 
+ 
+ 
+ Whitehouse Station, NJ  - Smalltalk Developer through  Cognizant Technology Solutions 
+ 
+ Required Skills: 
+ 
+ Smalltalk Object Oriented development experience using VisualAge for Smalltalk 
+ Minimum of 5 years of application development experience with an Object Oriented programming language 
+ Minimum 3 years of experience as a lead developer capable of working independently on a task from design to implementation and test 
+ XML 
+ JSON 
+ NodeJS 
+ Git 
+ Visual Studio 
+ MQ Series 
+ IMS 
+ DB2 
+ TCP/IP 
+ 
+ 
+ Wanted Skills: 
+ 
+ Insurance Domain knowledge 
+ 
+ 
+ Pay:  $61 - $75 USD an hour, $110,339 - $137,100 USD per year 
+ Additional listings:  Cognizant, Binary tech consulting corp, VIRTUSA, TalentBurst, Collabera, Canopy One Solutions, Mastech Digital, Mastech Digital, IDC Technologies, IDC Technologies, Techgene Solutions, Techgene Solutions,  TalentBurst~~ , ApTask, ~~Crescens~~ , ~~TechDigital~~ , ~~Net2Source~~ , Net2Source, Mastech Digital, ~~eTeam~~ ,  eSolutions ,  TechDigital , ~~TechDigital~~ , ~~OrbITpeople~~ , ~~NLB  Services 
+ 
+ 
+ 
+ Fremont, CA  - Software Engineer 5 at  Lam Research 
+ 
+ Required Skills: 
+ 
+ B.S or Masters in Computer Science, Computer Engineering, Electronics or related field 
+ Knowledge of embedded software development and design. 
+ Knowledgeable with communication protocols such: I2C, SPI, UART etc. 
+ Knowledge of Object Oriented Software implementation and design e.g.: Design Patterns and Finite State Machines 
+ Strong software engineering skills: modular design, data structures and algorithms. 
+ Source Control and Development life cycles. 
+ Analytical approach to root cause analysis 
+ Knowledge of multithreading (preemptive thread scheduling) 
+ Understanding of Networking/TCPIP 
+ 
+ 
+ Wanted Skills: 
+ 
+ Background in electronics and electrical engineering 
+ Smalltalk experience desired 
+ Experience with real-time operating systems 
+ Experience in distributed embedded controls system 
+ 8+ years of Software development work experience 
+ 
+ 
+ Additional listings:  Lam Research 
+ 
+ 
+ 
+ Updates on 8/16/20: Marked out a listing for the position in Richland, WA. 
+ Updates on 8/16/20, 10/3/20, 11/27/20, 12/15/20: Marked out listings for the position in Whitehouse Station, NJ. 
+ Updates on 8/16/20: The position in Fremont, CA has been filled or is no longer available. 
+ Updates on 10/3/20, 11/27/20: Added listings for the position in Whitehouse Station, NJ. 
+ Updates on 12/15/20: Added a listing for the position in Richland, WA. 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 05/24/19 
+ Posted on  May 24, 2020  by  James T. Savidge 
+ 
+ 
+ Chaska, MN  -  Software Engineer, Senior or Principal  at  TEL Manufacturing and Engineering of America, Inc. 
+ 
+ Required Skills: 
+ 
+ Bachelor of Science degree in Computer Science, Engineering, or related technical field or equivalent practical experience. 
+ 8+ years of industry software design and development experience 
+ Proficient with C++/C#/.NET and Object-Oriented Analysis/Design 
+ Industrial experience in developing embedded applications under Windows-based operating systems 
+ Ability to participate in the refactoring and design of preexisting software to help increase customer satisfaction. 
+ Ability to travel domestically and internationally, as required. 
+ 
+ 
+ Wanted Skills: 
+ 
+ Smalltalk-based ControlWORKS 
+ Experience with Semiconductor SW development in the area of digital signal processing, machine control, or sensing instruments 
+ 
+ 
+ Additional listings:   TEL Manufacturing and Engineering of America 
+ 
+ 
+ 
+ Manhattan, NY  -  Java SmallTalk Developer  through  Netrocon 
+ 
+ Required Skills: 
+ 
+ Smalltalk developer with at least 2-5 years of experience. 
+ SQL 
+ Client Server 
+ Solid understanding of enterprise application technologies 
+ Object Oriented Analysis and design using common design patterns. 
+ Excellent knowledge of Relational Database 
+ 
+ 
+ Wanted Skills: 
+ 
+ DB2 
+ MQ service 
+ 
+ 
+ Pay:  $113,474 - $139,042 USD per year 
+ 
+ 
+ 
+ Whitehouse Station, NJ  -  Application Developer  through  BCforward 
+ 
+ Required Skills: 
+ 
+ VAST/instantiations Smalltalk 
+ 5 years of Smalltalk experience in an enterprise setting 
+ XML API 
+ 
+ 
+ Wanted Skills: 
+ 
+ Agile development 
+ 
+ 
+ Pay:  109,010 - 131,768 USD per year 
+ Additional listings:   Mastech Digital ,  Accenture ,  Youth Power Technosoft ,  eTeam ,  ASAP Solutions ,  Artech Information Systems ,  Scepter Technologies 
+ 
+ 
+ 
+ Whitehouse Station, NJ  -  SmallTalk Developer  through  KPG99 
+ 
+ Required Skills: 
+ 
+ VisualAge Smalltalk developer with at least 7 years of experience. 
+ A minimum of 7 years of Smalltalk development experience in large scale distributed environment. 
+ Solid understanding of enterprise application technologies 
+ Object Oriented Analysis and design using common design patterns. 
+ Excellent knowledge of Relational Database 
+ 
+ 
+ Wanted Skills: 
+ 
+ VA Smalltalk 
+ DB2 database 
+ MQ service 
+ SmallTalk application hosting using JBoss or similar middleware 
+ Insurance Industry domain. 
+ 
+ 
+ Additional listings:   Rayven IT Solutions ,  Futran Solutions ,  The Brixton Group ,  Zodiac Solutons 
+ 
+ 
+ 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs 3/6/20 
+ Posted on  March 6, 2020  by  James T. Savidge 
+ 
+ 
+ Whitehouse Station, NJ  -  Programmer/Analyst  at  Chubb 
+ 
+ Required Skills: 
+ 
+ Minimum of 5 years of application development experience 
+ ﻿﻿﻿3 to 5 years of experience as a lead developer 
+ Smalltalk 
+ HTML 
+ XML 
+ Strong technical knowledge and systems experience with a demonstrated ability to work in large and extremely complex systems on multiple platforms 
+ 
+ 
+ Wanted Skills: 
+ 
+ S-unit 
+ Java 
+ WebSphere 
+ RAD 
+ MQSeries 
+ Oracle 
+ DB2 
+ SQL 
+ Insurance domain knowledge 
+ 
+ 
+ Additional listings:   Nityo Infotech 
+ 
+ 
+ 
+ Chevy Chase, MD  - Sr. Smalltalk Developer through  Precision System Design Inc. 
+ 
+ Required Skills: 
+ 
+ A minimum of 7 years of Smalltalk development experience in large scale distributed environment 
+ SQL 
+ Client/Server 
+ Solid understanding of enterprise application technologies 
+ Object Oriented analysis and design using common design patterns 
+ Excellent knowledge of Relational Databases 
+ Ability to work independently with limited supervision as well as contribute to team efforts is required 
+ Strong critical thinking, decision making, troubleshooting and problem solving skills 
+ Excellent verbal/written communication skills 
+ 
+ 
+ Wanted Skills: 
+ 
+ VA Smalltalk 
+ DB2 
+ MQ service 
+ 
+ 
+ Additional listings:  Triune Infomatics,  Triune Infomatics~~ , ~~RSA Tech Group~~ , ~~Informatic Technologies~~ , ~~Informatic Technologies~~ , ~~Global Technical Talent~~ , ~~Global Technical Talent~~ , ~~Hirex~~ , ~~5Kay Solutions Inc~~ ,  Gate Staffing , ~~Ingenious System~~ , ~~Ingenious System~~ , ~~Sharp Decisions~~ , ~~Alderson Loop~~ ,  Alderson Loop , ~~Borza~~ , ~~GTT~~ , ~~V.L.S. Systems~~ , ~~Eclaro~~ , ~~Experteer 
+ 
+ 
+ 
+ Fremont, CA  -  Software Engineer 2  at  Lam Research 
+ 
+ Required Skills: 
+ 
+ B.S or Masters in Computer Science, Computer Engineering, Electronics or related field 
+ Knowledge of embedded software development and design 
+ Knowledgeable with communication protocols such: I2C, SPI, UART etc. 
+ Knowledge of Object Oriented Software implementation and design e.g.: Design Patterns and Finite State Machines 
+ Strong software engineering skills: modular design, data structures and algorithms 
+ Experience with Source Control and Development life cycles 
+ Analytical approach to root cause analysis 
+ Knowledge of multithreading is a must (preemptive thread scheduling) 
+ Understanding of Networking/TCPIP 
+ Ability to travel within USA, Europe, and Asia (total is less than 10%) 
+ 
+ 
+ Wanted Skills: 
+ 
+ Smalltalk 
+ Background in electronics and electrical engineering 
+ Real-time operating systems 
+ Distributed embedded controls systems 
+ 
+ 
+ Additional listings:   Lam Research 
+ 
+ 
+ 
+ Updates on 3/21/20: Added listings for the position in Chevy Chase, MD. 
+ Updates on 3/21/20, 5/2/20, 6/20/20: Marked out listings for the position in Chevy Chase, MD. 
+ Updates on 5/2/20: Updated an expired listing for the position in Chevy Chase, MD. 
+ Updates on 6/20/20: Added a listing for the position in Whitehouse Station, NJ. 
+ Updates on 6/20/20: Added a listing for the position in Fremont, CA. 
+ Updates on 7/5/20: Marked out listings for the position in Whitehouse Station, NJ. 
+ Updates on 7/5/20, 8/30/20: Updated an expired listing for the position in Fremont, CA. 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 2/3/20 
+ Posted on  February 3, 2020  by  James T. Savidge 
+ 
+ Tualatin – near  Portland, Oregon  - Software Engineer 2 at  Lam Research 
+ 
+ Required Skills: 
+ 
+ Bachelor’s degree in computer science or computer engineering or electrical engineering 
+ Proficient in two or more of the following programming languages: C, C#, C++, Java, SmallTalk, Python 
+ Familiar with Network, Serial Device Control, and IO Control Systems 
+ Ability to troubleshoot complex systems in a fast paced manufacturing environment 
+ Self-motivated and directed, with keen attention to detail 
+ Ability to work across cross cultural settings and globally distributed projects 
+ 
+ 
+ Wanted Skills: 
+ 
+ Experience with Semiconductor Manufacturing, Industrial Automation, and Factory Automation 
+ 
+ 
+ 
+ 
+ 
+ Updates on 2/20/20: The position has been filled or is no longer available. 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 1/1/20 
+ Posted on  January 1, 2020  by  James T. Savidge 
+ 
+ 
+ Multiple locations  -  SmallTalk Developer  through  Cognizant 
+ 
+ Required Skills: 
+ 
+ 3+ years of experience in SmallTalk is mandatory 
+ Proficient in SmallTalk language using IBM Visual Age SmallTalk, Object Studio, Visual SmallTalk and Visual Works SmallTalk 
+ Knowledge of Object-oriented programming language like Java, C++, C#, Ruby, etc 
+ Expertise in developing the Enterprise Applications using Java, Struts, EJB, JavaBeans, Java Servlets, Javascript 
+ 
+ 
+ Wanted Skills: 
+ 
+ Proficiency in .NET, MVC, .NET Framework, Silverlight would be an added advantage 
+ Knowledge of ServiceNow 
+ Strong object-oriented analysis and design skills 
+ Problem-solving and time management skills 
+ Knowledge of relational databases 
+ 
+ 
+ 
+ 
+ 
+ Minneapolis, MN  -  Smalltalk/ Visual Works Developer  through  Kforce 
+ 
+ Required Skills: 
+ 
+ Smalltalk programmer with 5 years experience with Cincom Object Studio or Visual Works 
+ 
+ 
+ Additional listings:   Kforce 
+ 
+ 
+ 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 12/16/19 
+ Posted on  December 16, 2019  by  James T. Savidge 
+ 
+ 
+ St. Petersburg, FL  -  Software/Controls Engineer II  at  Plasma-Therm LLC 
+ 
+ Required Skills: 
+ 
+ B.S. in Computer Science or Computer Engineering 
+ Five to ten years software engineering experience. 
+ C# or SmallTalk programming capabilities. 
+ Graphical User Interface design/development (ease of use, ergonomics, etc.) 
+ Model, View, Controller (MVC) software architectures 
+ Understanding of development of multi-threaded applications 
+ Controls and automation systems development 
+ Distributed computing environment application development 
+ Client/server programming concepts 
+ Database implementation and usage concepts 
+ Software engineering (all phases of software lifecycle) 
+ Agile development model/environment 
+ Networked Application development 
+ Object Oriented application design and development 
+ Reading/writing software requirements/specifications 
+ Embedded control for automation and robotics 
+ Knowledge of SCADA Systems 
+ Software Development for Semiconductor Processing Equipment and SECS standards 
+ Supporting end users (both capturing feature requests, as well as fixing deficiencies) 
+ Supporting software for manufactured equipment 
+ 
+ 
+ Wanted Skills: 
+ 
+ Controls/Automation experience 
+ 
+ 
+ Additional listings:   This appears to be the same position that was posted last year. ,  Plasma-Therm 
+ 
+ 
+ 
+ Tualatin – near  Portland, Oregon  -  Software Engineer 4  at  Lam Research 
+ 
+ Required Skills: 
+ 
+ Bachelor of Science Degree in Computer Science/Computer Engineering or equivalent 
+ 2-6 years of experience in large (10+engineers) software development programs. 
+ Proficient in one or more of the following programming languages: C, C++, Java, SmallTalk, Python. 
+ Knowledgeable with network protocols. 
+ Proficient in two or more of the following OS's: MS Dos, MS Windows, Linux, Unix (Any derivative) 
+ Familiar or having experience with mission critical applications. 
+ Able to express software requirements following LAM Development Process and guidelines. 
+ Knowledgeable in MS Coding standards. 
+ 
+ 
+ Wanted Skills: 
+ 
+ Prior knowledge in proprietary LAM software big plus. 
+ 
+ 
+ 
+ 
+ 
+ Whitehouse Station, NJ  - Smalltalk Consultant through  Cognizant 
+ 
+ Required Skills: 
+ 
+ Smalltalk with Visual Age experience 
+ ﻿﻿﻿Minimum of 5 years of application development experience 
+ HTML 
+ XML 
+ Strong technical knowledge and systems experience with a demonstrated ability to work in large and extremely complex systems on multiple platforms 
+ 
+ 
+ Wanted Skills: 
+ 
+ Insurance domain knowledge 
+ S-unit 
+ Java 
+ WebSphere 
+ RAD 
+ MQSeries 
+ Oracle 
+ DB2 
+ SQL 
+ 
+ 
+ Additional listings:   ﻿﻿ReqRoute 
+ 
+ 
+ 
+ Addison, TX  - Senior Software Engineer through  Trintech 
+ 
+ Required Skills: 
+ 
+ Bachelor’s degree or equivalent combination of education and work experience in software development. 
+ 10+ years of programming experience with VisualAge Smalltalk. 
+ SQL Server 
+ Demonstrated experience with ENVY and GIT. 
+ At least 2 years as a senior software development engineer with similar roles / responsibilities. 
+ 2+ years of experience developing customer facing applications. 
+ Development and delivery experience with multi-tier SaaS products. 
+ Proficient in object-oriented design and development using SOLID design principles and design patterns. 
+ Familiarity with Cloud best practices and design principles. 
+ Experience with quality up-front initiatives such as TDD, CI, and automated unit test frameworks. 
+ Deep technical knowledge in Continuous Integration and Delivery (CI/CD). 
+ Experience with Microsoft SQL database design, T-SQL and stored procedures. 
+ 
+ 
+ Wanted Skills: 
+ 
+ Successful track record delivering high quality products while working in Agile Teams and following Agile methodologies. 
+ Knowledge of InstallShield and Crystal Reports a plus. 
+ Commercial external customer-facing software development experience is highly desired/preferred. 
+ Experience building hosted applications in a large multi-data center environment. 
+ Demonstrated experience with utilizing and leveraging reference architectures across a team-based environment a plus. 
+ Expert at designing, coding, and implementing with 24/7 stability, performance, scalability, localization requirements in mind. 
+ Understanding of cloud computing technologies, business drivers, and emerging computing trends. 
+ 
+ 
+ 
+ 
+ 
+ Updates on 3/6/20: The position in Whitehouse Station, NJ has been filled or is no longer available. 
+ Updates on 3/6/20: The position in Addison, TX has been filled or is no longer available. 
+ Updates on 3/21/20: Added a listing for the position in St. Petersburg, FL. 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 11/28/19 
+ Posted on  November 28, 2019  by  James T. Savidge 
+ 
+ 
+ Minneapolis, MN  -  Smalltalk Porgrammer  through  Advantage Resourcing 
+ 
+ Required Skills: 
+ 
+ 10 + Years of experience with Cincom ObjectStudio or VisualWorks. 
+ 
+ 
+ 
+ 
+ 
+ Malta, NY  -  Summer 2020 Engineering -Co-Op/Intern  (Job Number: 19004245) at  GLOBALFOUNDRIES 
+ 
+ Required Skills: 
+ 
+ Graduating Senior or Junior in Electrical Engineering or other related discipline 
+ Industry experience not required; 3 months minimum experience in any capacity 
+ Language Fluency – English (Written & Verbal) 
+ 
+ 
+ Wanted Skills: 
+ 
+ Basic understanding of semiconductor devices and circuits 
+ Smalltalk 
+ At least one year of programming experience in Python or related languages 
+ 
+ 
+ 
+ 
+ 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 11/9/19 
+ Posted on  November 9, 2019  by  James T. Savidge 
+ 
+ 
+ Bridgewater, NJ  -  Senior Software Engineer  through  Capgemini 
+ 
+ Required Skills: 
+ 
+ 5 to 7 years of extensive experience leading development teams across multiple locations 
+ Have strong experience in Smalltalk technology stack 
+ Good knowledge and understanding of P&C Insurance 
+ Experience in coordinating and managing the day to day activities 
+ 
+ 
+ Additional listings:   Capgemini 
+ 
+ 
+ 
+ Pune, India  -  AS/400 Developer  through  Zensar Technologies 
+ 
+ Required Skills: 
+ 
+ Software Developer with 4-5 years’ experience 
+ Financial/ Banking domain experience 
+ Experience in Maintenance and Support projects and Development 
+ Visual Age Smalltalk 
+ Mid range AS/400Technologies - Cobol/400, RPGLE 
+ Good Experience/exposure in – Client interaction for business requirement gathering, System designing, coding, testing 
+ Full SDLC exposure 
+ Willing to travel South Africa 
+ 
+ 
+ Wanted Skills: 
+ 
+ Domain knowledge – Banking(Core, deposits, statements/alert) 
+ Exposure to agile team work process 
+ Production/Batch support exposure/experience 
+ 
+ 
+ 
+ 
+ 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 10/27/19 
+ Posted on  October 27, 2019  by  James T. Savidge 
+ 
+ 
+ Essex Junction, VT  - MTS Design Enablement at  GLOBALFOUNDRIES 
+ 
+ Required Skills: 
+ 
+ Bachelor's Degree in Electrical Engineering or Computer Science 
+ 6 or More Years Of Relevant Experience 
+ Smalltalk (Smalltalk training will be provided) 
+ Travel Requirements: up to 10%, mostly within U.S. 
+ Language Fluency: English (Written & Verbal) 
+ 
+ 
+ Wanted Skills: 
+ 
+ Master's Degree in EE or CS 
+ Semiconductor industry experience in test lab setup and characterization 
+ Familiarity with instrument communication concepts such as virtual instrument software architecture (VISA) and GPIB, USB and Ethernet interfaces 
+ Semiconductor industry experience with compact modeling, test-structure design and/or integrated-circuit design 
+ Demonstrated experience in database application programming: db2 preferred, but Oracle or mySQL acceptable (db2 training will be provided) 
+ Demonstrated programming skill in Java, Smalltalk or similar object-oriented language 
+ Demonstrated experience in programming/scripting for Linux operating systems 
+ 
+ 
+ Additional listings:   GLOBALFOUNDRIES~~ , ~~GLOBALFOUNDRIES 
+ 
+ 
+ 
+ Perth, Australia  - Software Developer Smalltalk at  CCK Financial Solutions 
+ 
+ Required Skills: 
+ 
+ Minimum of 4 years’ experience with Visual Works Smalltalk 
+ Gemstone OO database 
+ OO development skills 
+ Experience in business analysis, software design, development and maintenance 
+ 
+ 
+ 
+ 
+ 
+ Updates on 11/9/19: Added a listing for the position in Essex Junction, VT. 
+ Updates on 12/16/19: The position in Perth, Australia has been filled or is no longer available. 
+ Updates on 12/16/19, 2/3/20: Updated an expired listing for the position in Essex Junction, VT. 
+ Updates on 7/5/20: The position in Essex Junction, VT has been filled or is no longer available. 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 10/13/19 
+ Posted on  October 13, 2019  by  James T. Savidge 
+ 
+ Fremont, CA  - Software Engineer 4 (Senior) at  Lam Research 
+ 
+ Required Skills: 
+ 
+ B.S or Masters in Computer Science, Computer Engineering, Electronics or related field 
+ At least 5 years of related experience 
+ Knowledge of embedded software development and design 
+ Knowledgeable with communication protocols such: I2C, SPI, UART etc. 
+ Knowledge of Object Oriented Software implementation and design e.g.: Design Patterns and Finite State Machines 
+ Strong software engineering skills: modular design, data structures and algorithms 
+ Experience with Source Control and Development life cycles 
+ Analytical approach to root cause analysis 
+ Knowledge of multithreading is a must (preemptive thread scheduling) 
+ Understanding of Networking/TCPIP 
+ Ability to travel within USA, Europe, and Asia (total is less than 10%) 
+ 
+ 
+ Wanted Skills: 
+ 
+ Smalltalk 
+ Background in electronics and electrical engineering 
+ Real-time operating systems 
+ Distributed embedded controls systems 
+ 
+ 
+ 
+ 
+ 
+ Updates on 3/21/20: This position has been filled or is no longer available. 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs 9/22/19 
+ Posted on  September 22, 2019  by  James T. Savidge 
+ 
+ Hunt Valley, MD  - Smalltalk Programmer through  Data Resource Technologies 
+ 
+ Required Skills: 
+ 
+ Extensive working experience in Smalltalk language using IBM Visual Age Smalltalk, Object Studio, Visual Smalltalk and Visual Works Smalltalk 
+ Unix background Unix scripting like Korn shell, AWK 
+ Ability to work under heavy load and on parallel projects 
+ 
+ 
+ Wanted Skills: 
+ 
+ SmallTalk application hosting using JBoss or similar middleware 
+ Solid coordination skills 
+ 
+ 
+ Pay:  $60 to $65 USD Hourly 
+ Additional listings:   Data Resource Technologies~~ , ~~ApTask~~ , ~~Scintel Technologies~~ , ~~Matlen Silver  ,  CyberSearch 
+ 
+ 
+ 
+ Updates on 10/2/19, 6/20/20: Added listings for the position. 
+ Updates on 10/13/19, 10/27/19, 6/20/20: Marked out expired listings for the position. 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 9/8/19 
+ Posted on  September 8, 2019  by  James T. Savidge 
+ 
+ 
+ Bend, OR  -  Software Engineer (m/f) for Equipment Integration (EI)  at  SYSTEMA 
+ 
+ Required Skills: 
+ 
+ A degree in Computer Science / Information Technology / Software Engineering / Electrical Engineering. 
+ Professional experience in high-tech manufacturing 
+ Familiarity with SECS/GEM, MES, SOA, MOM, AMHS, APC, and SPC in semiconductor, electronics or photovoltaic manufacturing 
+ Possess high interest in Computer Integrated Manufacturing (CIM) or Equipment Integration 
+ Have a passion for system design and programming in manufacturing environments 
+ Knowledge in C/C++, Java, Smalltalk and Delphi 
+ Willing to occasionally travel domestic and international 
+ Worked with relational database design, SQL development, version control 
+ Automated software production and test systems 
+ JEE 
+ Eclipse 
+ Microsoft.NET 
+ 
+ 
+ Additional listings:   SYSTEMA 
+ 
+ 
+ 
+ [Idaho Falls, ID](https://smalltalkjobs.wordpress.com/?s=Idaho Falls%2C+ID) -  Neutronics Analyst  (This position may be a variation of one of  these postions ) through  JFoster & Associates 
+ 
+ Required Skills: 
+ 
+ Bachelor's degree in Nuclear Engineering completed by start date. 
+ Must have a pro-active approach to problem identification and resolution. 
+ Must have ability and attitude to learn a variety of new procedures, processes, and tools, while maintaining various stages of production. 
+ Basic experience and capabilities with MICROSOFT Office software products (WORD, EXCEL, etc.) 
+ Experience working with engineering workstation computers and LINUX and/or UNIX operating environments. 
+ 
+ 
+ Wanted Skills: 
+ 
+ Candidates with an advanced degree (MS or PhD) and/or experience may be considered for a high level position. 
+ Experience in the areas of neutronics / physics and/or thermal hydraulics design 
+ Experience with nuclear neutronics analysis codes. 
+ Lean Six Sigma product/process development in design and engineering. 
+ FORTRAN 
+ C/C++ 
+ SMALLTALK 
+ 
+ 
+ Additional listings:   JFoster & Associates 
+ 
+ 
+ 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs - 8/25/19 
+ Posted on  August 25, 2019  by  James T. Savidge 
+ 
+ Wellington, New Zealand  -  Senior Fullstack Developer  through  Place Recruitment 
+ 
+ Required Skills: 
+ 
+ At least 5 years’ experience in developing enterprise web applications 
+ Experience in working in an agile team in a large organisation 
+ Extensive experience in Java development (for the back-end of the application) 
+ Strong experience using web development technologies and techniques including JavaScript, HTML5, CSS 
+ Good knowledge and experience of web services 
+ Strong SQL experience 
+ Good working knowledge and experience of software version control 
+ 
+ 
+ Wanted Skills: 
+ 
+ Smalltalk (for the front-end of the application) 
+ 
+ 
+ Additional listings:   NineTwenty 
+ 
+ 
+ 
+ Updates on 9/8/19: Added a listing for the position. 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Smalltalk Jobs 8/10/19 
+ Posted on  August 10, 2019  by  James T. Savidge 
+ 
+ Pune, India  -  Smartflow Smalltalk Developer  through  Zensar Technologies 
+ 
+ Required Skills: 
+ 
+ Visualage Smalltalk programming must have 
+ Exposure in SQL -basic queries, create and modify scripts and stored procedures 
+ Experience in support and maintenance (L2/L3 support) 
+ Knowledge of Service now 
+ Ready to work in US shifts 
+ 
+ 
+ Wanted Skills: 
+ 
+ .NET 
+ MVC 
+ .NET Framework 
+ Silverlight 
+ 
+ 
+ 
+ 
+ 
+ Good luck with your job hunting, 
+ James T. Savidge 
+ 
+ This blog’s  RSS Feed 
+ Posted in  Employment  | Tagged  jobs ,  Smalltalk ,  Smalltalk jobs  |   Leave a comment 
+ Post navigation 
+ <- Older posts 
+ Search 
+ Archives 
+ 
+ November 2020  (1) 
+ October 2020  (1) 
+ September 2020  (2) 
+ August 2020  (3) 
+ July 2020  (2) 
+ June 2020  (1) 
+ May 2020  (2) 
+ April 2020  (1) 
+ March 2020  (2) 
+ February 2020  (1) 
+ January 2020  (1) 
+ December 2019  (2) 
+ November 2019  (3) 
+ October 2019  (3) 
+ September 2019  (3) 
+ August 2019  (2) 
+ July 2019  (3) 
+ June 2019  (2) 
+ May 2019  (3) 
+ April 2019  (3) 
+ March 2019  (2) 
+ February 2019  (2) 
+ January 2019  (4) 
+ December 2018  (3) 
+ November 2018  (1) 
+ October 2018  (1) 
+ September 2018  (2) 
+ August 2018  (2) 
+ July 2018  (3) 
+ June 2018  (2) 
+ May 2018  (3) 
+ April 2018  (3) 
+ March 2018  (4) 
+ February 2018  (1) 
+ January 2018  (4) 
+ December 2017  (1) 
+ November 2017  (2) 
+ October 2017  (2) 
+ September 2017  (4) 
+ August 2017  (2) 
+ July 2017  (2) 
+ June 2017  (4) 
+ May 2017  (7) 
+ April 2017  (3) 
+ March 2017  (4) 
+ February 2017  (1) 
+ January 2017  (3) 
+ December 2016  (4) 
+ November 2016  (3) 
+ October 2016  (3) 
+ September 2016  (3) 
+ August 2016  (4) 
+ July 2016  (3) 
+ June 2016  (4) 
+ May 2016  (4) 
+ April 2016  (4) 
+ March 2016  (3) 
+ February 2016  (5) 
+ January 2016  (4) 
+ December 2015  (7) 
+ November 2015  (6) 
+ October 2015  (3) 
+ September 2015  (5) 
+ August 2015  (3) 
+ July 2015  (5) 
+ June 2015  (3) 
+ May 2015  (6) 
+ April 2015  (4) 
+ March 2015  (3) 
+ February 2015  (4) 
+ January 2015  (5) 
+ December 2014  (5) 
+ November 2014  (1) 
+ October 2014  (5) 
+ September 2014  (3) 
+ August 2014  (5) 
+ July 2014  (7) 
+ June 2014  (7) 
+ May 2014  (6) 
+ April 2014  (6) 
+ March 2014  (8) 
+ February 2014  (6) 
+ January 2014  (5) 
+ December 2013  (7) 
+ November 2013  (6) 
+ October 2013  (3) 
+ September 2013  (4) 
+ August 2013  (3) 
+ July 2013  (10) 
+ June 2013  (5) 
+ May 2013  (6) 
+ April 2013  (5) 
+ March 2013  (5) 
+ February 2013  (4) 
+ January 2013  (2) 
+ December 2012  (5) 
+ November 2012  (8) 
+ October 2012  (6) 
+ September 2012  (4) 
+ August 2012  (6) 
+ July 2012  (6) 
+ June 2012  (6) 
+ May 2012  (6) 
+ April 2012  (4) 
+ March 2012  (3) 
+ February 2012  (5) 
+ January 2012  (4) 
+ December 2011  (2) 
+ November 2011  (5) 
+ October 2011  (3) 
+ September 2011  (4) 
+ August 2011  (6) 
+ July 2011  (4) 
+ June 2011  (4) 
+ May 2011  (1) 
+ March 2011  (1) 
+ 
+ Recent Posts 
+ 
+ Smalltalk Jobs - 11/27/20 
+ Smalltalk Jobs - 10/4/20 
+ Smalltalk Jobs 09/24/20 
+ Smalltalk Jobs 9/20/20 
+ Cincom is looking for a new Smalltalk Team Member 
+ 
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 

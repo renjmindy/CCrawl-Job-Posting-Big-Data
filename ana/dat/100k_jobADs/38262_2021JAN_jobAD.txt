@@ -1,0 +1,194 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Software Engineer 
+ Optiver Europe 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Software Engineer 
+ Optiver Europe 
+ [](mailto:?subject=Software%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14260704/software-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ London, United Kingdom 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Who we are: 
+ Optiver is a leading trading firm driven by technology with over one thousand employees globally. We pioneer our own trading strategies and systems using clean code and sophisticated technology, running a global network with thousands of high-performance low-latency applications that solve problems and respond to market events in nanoseconds. 
+ Technology facilitates our ability to tackle the challenging problems of trading in new ways. We build sophisticated trading engines, low-latency connectivity software, modern user interfaces and more in-house. Having a team of passionate, inventive software developers that thrive on solving problems is fundamental to our success. Here you can build something in the morning and its trading in the afternoon. 
+ What you'll do: 
+ We are looking for Software Engineers to join our burgeoning office in London where you will be responsible for developing our trading platform as well as helping us to establish new trading platforms for new markets in the future. An eye for design and an entrepreneurial mindset will be critical for our success as well as your own. 
+ 
+ Design, develop, support, and maintain trading systems, tools and infrastructure 
+ Build user interfaces that present coherent, responsive real-time visualizations of market activity and system performance while providing intuitive control of a highly complex system 
+ Integrate our system with multi-trading platforms and third parties as well as our global office network 
+ Build pricing automation rules for an OTC trading business with an extremely low error tolerance 
+ Collaborate deeply with traders, risk analysts, researchers, and other engineers 
+ Gain and develop an in-depth understanding of trading theory and practice 
+ Ensure new and existing programs adhere to our coding, architectural, and operational standards 
+ 
+ At Optiver we pride ourselves on being real engineers, not just coders. Our engineers work closely with traders to identify the business problems we face and determine how they should be solved. We apply a disciplined and scientific approach. We engineer simple, well-architected solutions that meet the dynamic needs of our traders. Our passion is to solve problems which really matter to the business, and we take pride in the quality of our solutions. 
+ What you'll need: 
+ 
+ Authorisation to work in the UK preferred 
+ Strong engineering instincts and a deep understanding of computer science fundamentals 
+ Experience writing software in C#, C++, C, or Java with a proven ability to deliver scalable, reliable, high-quality clean code 
+ A passion for continuous improvement and test-driven design plus innovative, big-picture thinking grounded in real-world pragmatism 
+ Ability to operate autonomously we as well as collaborate with developers, traders, researchers and business operations 
+ Ideally experience connecting trading platforms to multi-trading platforms and exchanges and the ability to build a trading system that covers the entire lifecycle 
+ Experience or an interest in low-latency optimisation, networking or real-time systems will set you apart from other applicants 
+ 
+ What's in it for you? 
+ Optiver's London office is the location of our foreign exchange trading business and a growing hub for our commodity trading business. You will be part of a well-established and high performing global firm whilst experiencing the excitement that comes from a growing operation. As our London operations grows there is a real opportunity to make a huge impact and take us and your career to a new level. We offer a supportive environment for you to perform at your best. Some of our key benefits Include: 
+ 
+ Competitive remuneration 
+ 27 paid vacation days plus all UK public holidays 
+ Daily Breakfast and lunch 
+ Home to office commute covered 
+ 50% paid gym subscription 
+ Private Medical Insurance 
+ Pension scheme 
+ Training and continuous learning opportunities 
+ Access to conferences and Tech events 
+ International transfer opportunities 
+ 
+ When applying for a role with Optiver UK Limited, the recruitment process is run via our Optiver global recruitment team. The personal data you will submit as part of the recruitment process may be processed in the UK, US and the Netherlands. By continuing with your application you hereby consent to your personal data being processed in these locations. 
+ 
+ 
+ Internal Number: 8853030 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Optiver Europe 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Optical Systems Scientist 
+ __  Santa Barbara, California 
+ 
+ 
+ 
+ 
+ Thorlabs, Inc. 
+ __6 Days Ago 
+ 
+ 
+ CodeV Optical Engineer 
+ __  San Francisco, California 
+ 
+ 
+ Kura AR 
+ __1 Week Ago 
+ 
+ 
+ Account Manager – Central Region (USA) 
+ __  Nationwide 
+ 
+ 
+ Gooch & Housego 
+ __1 Week Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

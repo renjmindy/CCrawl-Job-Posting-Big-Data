@@ -1,0 +1,48 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Dripos (S20) 
+ The only piece of software a restaurant needs to operate. 
+ Sales Rep/Account Manager 
+ 
+ Location 
+ New York / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Dripos 
+ Dripos is the only piece of software a restaurant needs to run their business. We offer point of sale, employee scheduling, mobile ordering, and more to the 100,000 counter service restaurants in the US. 
+ About the role 
+ Hey, I'm Jack, a co-founder of dripos! A little background on myself: I enjoy snowboarding, rock climbing, and mario cart double dash on the gamecube (be prepared for regular office competitions). I've been working on startups in the restaurant space the last 7 years and helped start 2 other venture backed companies prior to dripos. One being a food delivery company that went on to get acquired and another being LineLeap YCS19. I've worn just about every hat while starting dripos over the last year and half with my Co-Founder, Avery, and we're now looking for someone to start wearing a sales & account management hat for us. 
+ From my experience selling to restaurants, we've built something that resonates with owners and operators more than anything else I've attempted to sell. Our method from day one was simply to ask restaurants what their dream product is. This is a super exciting time for us as a company as we are just finishing up a polished version of that dream product. We spent over a year working side by side with some of the best restaurants in the country to build dripos. It is a really powerful experience getting to show a restaurant owner that they can power their entire business with one app. As a company, we raised our seed round this past September, have onboarded our first couple engineering hires, and are on pace to hit our Series A growth milestones this year. 
+ We're looking for someone who can find and get in front of the restaurants we are targeting. There are a lot of companies looking to sell to these owners so creativity and thinking outside the traditional sales approach is a huge plus. You'd be in charge of hitting weekly milestones for new leads, demos, and sales in addition to working side by side with me to develop new methods for selling. In addition to sales, we are looking for someone flexible enough to help out in other areas such as: support, account management, and communicating & prioritizing product feedback from what you are hearing. 
+ We take a lot of inspiration from the early handbook of  Netflix's culture  and hope to find others who identify with this culture. We simply want the best talent we can find for every role and then allow that talent the space to do their best work. 
+ If this sounds exciting to you, reach out to me at  [email protected]  :) 
+ Technology 
+ As an all-in-one product that doesn't use any third-party integrations, we've got our work cut out for us! We deliver features ranging from hardware integrations for payment processing to inventory tools to employee management software. Our product requires seamless integration of all our devices inside a shop, and being able to pass data real-time between all these devices and the customer ordering website and app. We have shops with multiple front of house registers with card readers and printers, with multiple back of house ticket and delivery screens, then outside drive though and contactless kiosks, on top of that they also have web and online ordering that customers can use for in-store, delivery, and contactless pickup. Right now our biggest challenge is pushing out our payroll and advanced reporting platforms to all our partners. 
+ Things we build with are: React, React Native, Redux, Node.js w/ Express, MySQL, and a lot of AWS tools. 
+ Other jobs at Dripos 
+ Software Engineer  
+ fulltime 
+ Cambridge Massachusetts / Remote 
+ Full Stack 
+ $70k - $130k 
+ Any (new grads ok) 
+ Sales Rep/Account Manager 
+ fulltime 
+ New York / Remote 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

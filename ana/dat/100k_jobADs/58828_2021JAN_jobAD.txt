@@ -1,0 +1,92 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Gerald Technologies, Inc (W21) 
+ Transforming Consumer Bill Pay. 
+ Platform Engineer (AWS) 
+ 
+ Location 
+ / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Gerald Technologies, Inc 
+ Consumer bill pay sucks! The average consumer makes over 20 recurring payments a year, and has to log in to each biller to manage payments. Gerald is transforming bill pay by providing a solution where you can consolidate all your accounts and pay all your bills on one single app. We are currently focused on insurance and financial bills. 
+ Gerald is pioneering a new realm that combines payments, data, fintech and insurtech to create solutions that empower and reward consumers for doing simple things such as: making timely payments. 
+ About the role 
+ Skills:  Racket, Amazon Web Services (AWS) 
+ About This Role  We are looking for a senior Platform engineer with experience in building and scaling services in a cloud environment (AWS) who will stand as a technical leader across globally distributed Data Engineering and Software Engineering teams, making key decisions on the technical direction and tooling used to ensure operational alignment globally. You will be a passionate technologist who is excited about automation and engineering, and building future proof production reliable platforms, ensuring operational excellence is met throughout. Ultimately, you will help us meet the enormous challenges around managing the performance and reliability of a data-intensive product. 
+ Required Tech-Stack  AWS, MongoDB, AWS Batch, AWS Glue, AWS ECS, CloudFormation, Lambda Functions 
+ How You Will Contribute 
+ 
+ Provision AWS resources based on the Architecture design and features aligned with business objectives. 
+ Build automation scripts and frameworks to improve operational processes and procedures 
+ Capacity Management: managing services and component capacity requirements 
+ Provision AWS resources based on the Architecture design and features aligned with business objectives. 
+ Assistance with automated data ingestion, data migration and transformation 
+ Managing and mitigating technology outages which can interrupt business operations 
+ Prepare and implement backups and disaster recovery plans 
+ Optimize the company's computing architecture 
+ You will use infrastructure as code tools to the needs of the organization's application developer & data engineers. 
+ Learn, deploy and document newer technologies for the potential deployment of services following a development and release lifecycle 
+ Driving ongoing improvements and efficiencies in operational practices, tools & processes 
+ 
+ Technical Expertise That We Believe Will Make You Successful In This Role 
+ 
+ Min 5 years of strong technical background leading DevOps/Platform Engineering team using AWS 
+ An expert with AWS. You’re familiar with the vast majority of AWS tools and how to get the most from them 
+ MUST have managed infrastructure at scale (multiple microservices) 
+ Excellent knowledge of immutable infrastructure, Infrastructure as Code and Continuous Deployment 
+ Deep understanding of modern DevOps platforms and technologies - including Docker, Kubernetes, AWS ECS, IaaC (Cloudformation) or AWS CDK 
+ A global vision and drive for Developer efficiency across a large business with huge growth potential 
+ Experience of providing 2nd and 3rd level support to end users across an enterprise environment 
+ Demonstrated ability to interact with users to evaluate and solve problems and experience working across all areas of Technology to support a 24x7 environment 
+ Ability to write scripts without effort 
+ AWS Certified Professional (good to have) 
+ 
+ Soft-Skills That Will Come Handy 
+ 
+ An active collaborator. You want feedback on your work early and often, and you get a kick out of a collaborative process because it challenges you to do better work 
+ Humble but opinionated. You have lots of ideas, yet you are happy to shift directions when a better path emerges 
+ Excellent written and verbal communication skills 
+ Strong attention to detail 
+ Head for problem-solving 
+ Having a flexible working style 
+ Being a team player 
+ Comfortable with working unsupervised 
+ 
+ Technology 
+ With every single customer that we onboard, it means we are dealing with millions of data records. The challenge is to scale up the product to handle so much data and process it efficiently, while taking all measures to ensure the security of the data. The goal is to make our system learn as quickly as possible so that it can give very accurate predictions when making suggestions related to the insureds. For this, we try to get as many data points as possible from multiple sources. 
+ Other jobs at Gerald Technologies, Inc 
+ UI Engineer 
+ fulltime 
+ / Remote 
+ Frontend 
+ 3+ years 
+ Product Manager 
+ fulltime 
+ / Remote 
+ 6+ years 
+ Platform Engineer (AWS) 
+ fulltime 
+ / Remote 
+ 6+ years 
+ Backend Software Engineer 
+ fulltime 
+ India / Remote 
+ Backend 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

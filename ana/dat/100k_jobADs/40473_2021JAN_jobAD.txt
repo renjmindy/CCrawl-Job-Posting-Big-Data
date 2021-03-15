@@ -1,0 +1,64 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Cambly (W14) 
+ On-demand access to English tutors over video chat. 
+ Software Engineering Intern 
+ 
+ Location 
+ San Francisco, CA 
+ Job Type 
+ Internship 
+ Experience 
+ About Cambly 
+ Change the future of education at Cambly. 
+ English learners can now access seemingly unlimited free content and software for learning vocabulary and grammar. As with any subject, it’s also important to complement that learning with practice to exercise those new skills. For language education, that means having actual conversations with real English speakers. 
+ At Cambly our mission is to provide students with an easy and affordable way to practice and improve their English skills. The Cambly app gives English learners instant 1-on-1 access to friendly native speakers over video chat 24/7. Cambly students speak over 30 languages and live in over 130 countries. English isn’t just a hobby for Cambly students. It’s a critical skill that can change their lives. 
+ We have a small engineering team running a large and rapidly growing business in our SF HQ. We look forward to hearing from you! 
+ About the role 
+ Skills:  Android, iOS, MongoDB, Python, React, Kotlin, Swift 
+ Please apply directly on our website using the links below. We may not see applications sent on workatastartup.com 
+ Note on COVID-19: We are doing all internships remotely until we re-open our office. 
+ Winter/Spring 2021: full 
+ Summer 2021:  https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede?lever-origin=applied&lever-source%5B%5D=YC%20WaaS 
+ We're looking for aspiring software engineers who are passionate about changing the way people learn languages. As a Cambly engineering intern, you'll be part of a small and fast-moving engineering team where you'll have a large impact on all parts of the Cambly platform. We've been growing rapidly among language learners around the world, so you'll get to learn what it's like to join a fast growing startup that's creating opportunities for our students and tutors alike. 
+ Requirements: 
+ 
+ A product-minded approach to engineering. You should be excited about working directly with our students and tutors to make sure they have an amazing experience. 
+ Experience writing software in Python, Swift, Kotlin, Java, or react.js either in school, side projects, or professionally. 
+ A passion for learning. You fearlessly dive into new and unfamiliar technologies. 
+ A global perspective. You should be excited about building an app in 10+ languages that integrates with the social networks and payment methods used by our students. 
+ Currently enrolled in a Computer Science degree program with at least 3 years of study completed. 
+ 
+ On a small and nimble team, every engineer should be able to learn new technologies quickly and jump in anywhere in our stack. You should have experience using or be excited about learning all the parts of Cambly: iOS, Android, React, JS, Python, Mongo 
+ Technology 
+ iOS, Android, Python, React JS 
+ Other jobs at Cambly 
+ Software Engineer, Frontend 
+ fulltime 
+ San Francisco, CA / Remote 
+ Frontend 
+ 3+ years 
+ Software Engineer, Backend 
+ fulltime 
+ San Francisco, CA 
+ Backend 
+ 3+ years 
+ Software Engineering Intern 
+ intern 
+ San Francisco, CA 
+ Full Stack 
+ Junior and above 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

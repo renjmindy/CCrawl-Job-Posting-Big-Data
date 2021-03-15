@@ -1,0 +1,222 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Senior Node Engineer 
+ at LandTech 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤70000 - ₤90000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤70000 - ₤90000 per year 
+ 
+ 
+ apply now 
+ 
+ COMPANY OVERVIEW 
+ LandTech empowers property developers to build the places that communities need to thrive. 
+ The UK is in the middle of a housing shortage and it’s too difficult for property developers to build the places we need. To keep up with demand, the property industry needs to keep evolving. LandTech is part of that evolution. We’re supercharging the whole development process by building technology for every stage of a property developer's journey towards unlocking land. 
+ We started five years ago, with two co-founders who built a product to help understand the development potential of any piece of land – LandInsight. Fast forward to now, and that product is the industry standard for sight sourcing and assessment, and we’re a multi-million-pound business carving a path to international success. 
+ At LandTech, we believe in understanding the preferences, passions and life purpose for all our people and meeting them there. 
+ It’s an understanding that families and outside life are important. 
+ That’s why we offer flexible hours, unlimited holiday, and a commitment to transition into a remote-first company by 2021, having listened to employee needs in our internal surveys. 
+ It’s understanding that we are all multi-dimensional beings, and not just working ones. 
+ That’s why we financially invest in both professional and personal development for all employees to help make that happen; from finally taking those driving lessons to booking that father-daughter art class they have always wanted to do. We’re just focused on being a great place to work, but we’re happy to have picked up some awards along the way: 
+ 
+ 
+ Winner of the UK Customer Experience - Employee Empowerment Awards 2020 
+ 
+ 
+ Winner at the UK Employee Experience Awards - Employee Engagement 2020 
+ 
+ 
+ Top 10 SaaS Companies to work for - Sales Confidence, 2018 & 2019 
+ 
+ 
+ Excellence in People Development - PropTech, 2018 
+ 
+ 
+ Fastest-growing Business - PropTech, 2018 
+ 
+ 
+ ROLE OVERVIEW 
+ DEPARTMENT 
+ We're a diverse group of engineers working in an open, collaborative and cross-functional environment, to help understand the difficult challenges within the land and property systems. We empower teams and individuals to solve, build, deliver and operate high quality technical solutions to help our customers, and we're proud of our work! 
+ We are guided by our Engineering Values (Confidence, Creativity, Collaboration and Excellence) and Engineering Principles. We champion a culture of 'continuous learning/improvement' and 'respect for people'. 
+ REMIT 
+ You will be working in a cross-functional product development team, reporting to the Lead Engineer. You'll play a central role in developing our products and re-designing our platform for scale from a single region to multiple regions over the next 12 months. You'll help grow the team and mature our engineering culture, improving our craft and capacity to deliver 
+ MAIN ACCOUNTABILITIES 
+ 
+ Direction - alongside the Lead Engineer, helping set the technical direction for the team. 
+ Leadership - providing technical leadership and expertise to guide and enhance those around you. 
+ Growth - supporting, mentoring and pairing with other engineers so that they may learn from your direction and experiences. 
+ Collaboration - encouraging cross-functional collaboration, helping clarify, elaborate and iterate technical concepts to assist in delivering our strategy. 
+ 
+ Your team will have shared accountability for: 
+ 
+ Designing, building and operating high-quality software... You build it, you run it. 
+ Empathising with users and colleagues to understand the problems they face 
+ Understanding, importing and connecting datasets as part of our product... fast, automated, repeatedly. 
+ Building systems for storing and accessing our data, moving it to where it needs to be, easily. 
+ 
+ KEY DELIVERABLES 
+ Over the next year, you will be helping to deliver new features on our main product, LandInsight. We are taking it international, and your expertise will enable us to do this. You will help us improve and iterate on the current platform to enable the international expansion. You will be happy to work where the work is, across front and back end, working with Javascript and Node to build and improve the features we have. You will have a focus on quality too, and will deliver software that is well tested, and simple. You will work with, and mentor other engineers, sharing knowledge and best practices, helping push the team forward from a technical point of view. 
+ Requirements 
+ TECHNICAL 
+ 
+ Experience in designing solutions that are simple for any developer to pick up, understand and build upon. The ability to maximise the work not done, leveraging tools and libraries to deliver faster. 
+ Experience in writing test-driven, clean code and have a good understanding of programming paradigms (such as object-orientated and functional), concepts and principles. 
+ A grounded understanding of algorithms, data structures and design patterns knowing when (and when not) to use them. 
+ 
+ ESSENTIAL EXPERIENCE 
+ 
+ Working in an Agile, automated, continuous integration + continuous deployment environment 
+ Cloud-based services and architecture (we use AWS and a hybrid mix of Kubernetes, Serverless and Managed Service), applying infra-as-code 
+ Supporting, mentoring and guiding engineers 
+ We primarily work in TypeScipt/Node/JavaScript. We don't see that as a requirement, but if you have experience in them it would be beneficial 
+ 
+ COMPETENCIES 
+ 
+ Organisation & Planning - Advanced Level 
+ Growth Mindset - Advanced Level 
+ Result & Quality Focused - Advanced Level 
+ Management - Advanced Level 
+ Interpersonal Effectiveness - Advanced Level 
+ Change Management - Advanced Level 
+ Communication - Advanced Level 
+ Global Citizenship - Advanced Level 
+ 
+ WHAT WOULD MAKE YOU A LANDTECH’ER 
+ 
+ Open - We are honest, collaborative and trusting, rooted in humility and a respect for creativity, sensitivity and differences 
+ Empower - We actively enable personal and professional growth by providing opportunity, autonomy and support 
+ Home - We are welcoming, inclusive and nurturing, believing work is a place where people can feel comfortable, cared for and happy 
+ 
+ These are our values. And we live them every day. 
+ Want proof? Click Here 
+ Do you share our values? Then join our journey. 
+ Benefits 
+ 
+ Equity options 
+ Flexible working hours 
+ 25 days paid holiday (plus bank holidays) 
+ 3 days annual holiday for company trips/events 
+ Unlimited unpaid holidays 
+ Enhanced Parental Leave 
+ £500 Professional Growth fund 
+ £500 Personal Growth fund 
+ Working from home fund for new starters 
+ Private Health Insurance with AXA 
+ Life Insurance up to 4 x your annual salary 
+ Day off on your Birthday 
+ Reward and Recognition Program 
+ Remote Working 
+ Summer Fridays 
+ Increased Pension after 12 months service 
+ 3 Year Anniversary Reward 
+ Flexible Bank Holidays 
+ Cycle to work scheme 
+ Dog-friendly office 
+ Referral Bonus 
+ Focus on culture 
+ 
+ Published at 13 Jan 2021 - Expires on 21 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  LandTech 
+ fulltime  Account Management Team Lead  at LandTech in London 
+ __10-11-2020 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

@@ -1,0 +1,173 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Astranis (W16) 
+ The next generation of internet satellites. 
+ Intern — RF Engineering (Winter 2021 / Spring 2021) 
+ 
+ Location 
+ San Francisco, CA, USA / Remote 
+ Job Type 
+ Internship 
+ Experience 
+ About Astranis 
+ U.S. CITIZENSHIP OR GREEN CARD REQUIRED (Note: This is due to U.S. export regulations, and we are unable to make exceptions.) 
+ Four billion people do not have access to the internet. Astranis is going to change that. We are building the next generation of smaller, lower-cost telecommunications satellites to bring the world online. 
+ Come work with incredibly smart people who have flown things in space before. No prior space experience needed, you just need to enjoy getting your hands dirty with real hardware and be okay with struggling to do things that seem impossibly hard. 
+ We’re a well-funded team of over 100 world-class engineers that move fast. We raised our Series B ($90M) from Andreessen Horowitz and Venrock, launched our first satellite in 2018, secured our first major customer deal in 2019, and we’ll triple the satellite internet capacity of Alaska in 2021. 
+ Our mission and our products are meant to connect the world and everyone in it, regardless of gender, race, creed, or any other distinction. We believe in a diverse and inclusive workplace, and we encourage all people to join our team and bring their unique perspective to help make us stronger. 
+ About the role 
+ U.S. CITIZENSHIP OR GREEN CARD REQUIRED (Note: This is due to U.S. export regulations, and we are unable to make exceptions.) 
+ FOR FULL DESCRIPTION AND TO APPLY:  https://jobs.lever.co/astranis/76c7cdb5-7275-4e0b-9aa5-0164b6a79e96 
+ Four billion people do not have access to the internet. Astranis is going to change that. We are building the next generation of smaller, lower-cost telecommunications satellites to bring the world online. 
+ Come work with incredibly smart people who have flown things in space before. No prior space experience needed, you just need to enjoy getting your hands dirty with real hardware and be okay with struggling to do things that seem impossibly hard. 
+ We’re a well-funded team of over 100 world-class engineers that move fast. We raised our Series B ($90M) from Andreessen Horowitz and Venrock, launched our first satellite in 2018, secured our first major customer deal in 2019, and we’ll triple the satellite internet capacity of Alaska in 2021. 
+ Our mission and our products are meant to connect the world and everyone in it, regardless of gender, race, creed, or any other distinction. We believe in a diverse and inclusive workplace, and we encourage all people to join our team and bring their unique perspective to help make us stronger. 
+ Role Design, simulate, implement, and measure passive/active RF sub-systems at microwave frequencies, including; LNAs, power amplifiers, up/down convertors, oscillators, etc. Integrate these systems into the spacecraft by working closely with the rest of the team 
+ Requirements Passion for hardware development, including working in a fast-paced environment and hands-on design and development Deep knowledge of basic RF concepts, such as transmission lines, impedance matching, filter design, and active circuits Hands-on experience in designing, building, and testing RF hardware for microwave frequencies Experience with RF simulation tools US Citizenship or Green Card 
+ Bonus Antennas and Electromagnetics propagation knowledge and background Experience with Software Defined Radios Experience with high speed ADCs and DACs Experience with PCB design Experience with python Experience automating RF measurements 
+ Technology 
+ Other jobs at Astranis 
+ Intern — FPGA Engineer (Winter/Spring 2021) 
+ intern 
+ San Francisco, CA, USA / Remote 
+ Robotics 
+ Any 
+ Intern — Communications/DSP Engineer (Winter/Spring 2021) 
+ intern 
+ San Francisco, CA, USA / Remote 
+ Robotics 
+ Any 
+ Intern — Electrical Engineering (Winter 2021/Spring 2021) 
+ intern 
+ San Francisco, CA 
+ Embedded Systems 
+ Any 
+ Senior Ground Software Engineer 
+ fulltime 
+ San Francisco, CA, USA 
+ Robotics 
+ $120k - $170k 
+ 0.01% - 0.05% 
+ 3+ years 
+ Ground Software Engineer 
+ fulltime 
+ San Francisco, CA, USA 
+ Embedded Systems 
+ $80k - $140k 
+ 0.01% - 0.05% 
+ 1+ years 
+ Customer Solutions Engineer 
+ fulltime 
+ San Francisco & Washington DC 
+ Embedded Systems 
+ $100k - $170k 
+ 0.01% - 0.05% 
+ 1+ years 
+ Communications Systems Engineer 
+ fulltime 
+ San Francisco, CA, USA 
+ Embedded Systems 
+ $120k - $170k 
+ 0.01% - 0.05% 
+ 3+ years 
+ Intern — Thermal Engineering 
+ intern 
+ San Francisco, CA, USA 
+ Embedded Systems 
+ Any 
+ Sales Engineer 
+ fulltime 
+ San Francisco 
+ Embedded Systems 
+ $120k - $190k 
+ 0.01% - 0.05% 
+ 1+ years 
+ Assembly, Integration, and Test Engineer (AI&T) 
+ fulltime 
+ San Francisco, CA, USA 
+ Robotics 
+ $120k - $160k 
+ 0.01% - 0.05% 
+ 1+ years 
+ Senior Mission Operations Engineer 
+ fulltime 
+ San Francisco, CA, USA 
+ Engineering Manager 
+ $120k - $170k 
+ 0.01% - 0.05% 
+ 1+ years 
+ Intern — Ground Software Engineer 
+ intern 
+ San Francisco, CA, USA 
+ Full Stack 
+ Any 
+ FPGA Engineer (Senior and Mid-level Openings) 
+ fulltime 
+ San Francisco, CA, USA 
+ Embedded Systems 
+ $100k - $160k 
+ 0.01% - 0.05% 
+ 1+ years 
+ Electrical Engineer - Power Electronics 
+ fulltime 
+ San Francisco, CA, USA 
+ Robotics 
+ $100k - $160k 
+ 0.01% - 0.05% 
+ 1+ years 
+ Intern -- Assembly, Integration, and Test Engineer 
+ intern 
+ San Francisco, CA, USA 
+ Embedded Systems 
+ Any 
+ Senior FPGA Engineer 
+ fulltime 
+ San Francisco, CA, USA 
+ Embedded Systems 
+ $120k - $170k 
+ 0.01% - 0.05% 
+ 3+ years 
+ Intern - Electrical Engineer (Power Electronics) 
+ intern 
+ San Francisco, CA, USA 
+ Robotics 
+ Any 
+ Software Engineering Team Lead/Manager 
+ fulltime 
+ San Francisco, CA, USA 
+ Embedded Systems 
+ $140k - $180k 
+ 0.01% - 0.05% 
+ 6+ years 
+ Director of Sales 
+ fulltime 
+ San Francisco, CA, USA 
+ $140k - $200k 
+ 0.01% - 0.05% 
+ 6+ years 
+ Intern — RF Engineering (Winter 2021 / Spring 2021) 
+ intern 
+ San Francisco, CA, USA / Remote 
+ Embedded Systems 
+ Any 
+ RF Engineer 
+ fulltime 
+ San Francisco, CA, USA 
+ Embedded Systems 
+ $100k - $160k 
+ 0.01% - 0.05% 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

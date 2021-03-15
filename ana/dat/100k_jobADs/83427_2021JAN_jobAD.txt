@@ -1,0 +1,91 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ College Pulse (S18) 
+ Research and analytics company focused on college students. 
+ Panel Manager 
+ 
+ Location 
+ / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About College Pulse 
+ College Pulse is the leading research and analytics company focused on college students. We have built the largest database of college student opinion with over 280K student panelists from 900 universities in all 50 states, and we use our student panel to help our clients better understand the college demographic. Our ambition is to become a unique part of the global internet infrastructure - like Google for search, Facebook for social, Amazon for retail, we want it to be Pulse for public opinion. 
+ About the role 
+ THE COMPANY 
+ College Pulse is the leading research and analytics company focused on today’s college students. 
+ Our mission is to supply a live stream of continuous and accurate data and insight into what students are thinking so that companies, institutions, and the public can better serve this important demographic that sustains them. In the past three years, we have built the largest database of college student opinion with over 450K student panelists from over 1000 universities in all 50 states. The data we collect powers a suite of research offerings trusted by Fortune 500 corporations, universities, foundations, media outlets, and policymakers. 
+ We are a remote-first company backed by top-tier investors, including Norwest Venture Partners, Madrona Ventures, GSV Accelerate, Y-Combinator, and Paul Graham. 
+ THE OPPORTUNITY 
+ As the Panel Manager at College Pulse, you’ll be responsible for managing the American College Student Panel™– the largest, fastest-growing survey panel of US college students. You will ensure that our panel is capable of meeting current and future business needs. From day one you’ll be taking on significant responsibilities in the organization. If you’ve felt cornered or restricted on your current team, you may be ready for more: this is a wide-open role where you have lots of growth potential and openings to prove what you’re capable of. The Panel Manager reports directly to the Director of Research. 
+ RESPONSIBILITIES: 
+ 
+ Create and manage acquisition-focused marketing campaigns across multiple networks (e.g. Facebook, Instagram, Email) for different student populations 
+ Monitor, optimize, and report performance on campaigns across active ad networks on an ongoing basis 
+ Develop test plans and experiment with new user acquisition initiatives, then analyze performance to identify the highest impact opportunities 
+ Orchestrate team of freelancers to grow and maintain our student email database 
+ Manage survey reward redemptions effectively *Build and manage a network of campus ambassadors *Collaborate with the Product team on ways to improve the student experience *Work directly with the development team to suggest changes to internal tools that optimizes workflows. 
+ 
+ QUALIFICATIONS 
+ 
+ 2+ Years of social media/marketing experience 
+ Proficiency in email marketing 
+ Strong analytical skills with the ability to apply business strategy to data analysis and recommendations 
+ Ability to work autonomously and under tight deadlines 
+ Clear and responsive communication skills 
+ Ability to project plan and effectively manage multiple concurrent projects 
+ Enthusiasm for UX and UI 
+ A fast learner with a high level of energy, positivity, and a sense of humor 
+ Experience in commercial market research or public opinion polling is a plus 
+ Experience in organizing, leading, or participating in campus ambassador programs is a plus 
+ 
+ WITHIN 1 MONTH, YOU’LL 
+ 
+ Participate in our remote company-wide onboarding :) 
+ Schedule Have regular 1:1 meetings with every College Pulse team member 
+ Meet with our engineering team to learn about our student panel, our survey fielding process, and our internal panel management tools 
+ Collaborate with your teammates to craft your first marketing campaign to fulfill your first client survey project 
+ Analyze past social media and email marketing performance and identify areas for improvement 
+ Familiarize yourself with the student survey taking experience, and meet with College Pulse power users to understand why they use College Pulse and opportunities for improvements to the platform 
+ 
+ WITHIN 3 MONTHS, YOU’LL 
+ 
+ Complete your first client-facing survey project, surveying over 40,000 students from 150 universities in the US 
+ Work with leadership to set ongoing quarterly target metrics for social media and email marketing campaigns 
+ Build and manage an ambassador network across college campuses that help us fulfill surveys 
+ Synthesize the areas of opportunity to improve the student survey taking experience identified in month 1 and translate it into a plan 
+ Explore college student influencer channels that are aligned with our brand as a means of growing the student panel 
+ Lower our cost per survey interview by 25% 
+ Improve social media and email marketing conversion by 50% 
+ 
+ WITHIN 6 MONTHS, YOU’LL 
+ 
+ Craft and execute a campaign to acquire non-traditional, two-year students into the panel 
+ Work with Executive team to plan panel expansion beyond the US college market 
+ Grow the student ambassador program to over 150 universities in the US alone 
+ Lower our cost per survey interview by 50% 
+ Improve social media and email marketing conversion by 100% 
+ Participate in our first in-person, company retreat since pre-COVID, and meet the people you’ve been working with 
+ 
+ Technology 
+ Pulse uses React and React Native to power our web and mobile clients, in combination with other open source frameworks like Redux, GraphQL, GatsbyJS, and component libraries. We also make extensive use of D3.js to build interactive data visualizations. We strive to keep our stack up to date with the latest web technology to make our applications as performant and maintainable as possible 
+ Other jobs at College Pulse 
+ Panel Manager 
+ fulltime 
+ / Remote 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

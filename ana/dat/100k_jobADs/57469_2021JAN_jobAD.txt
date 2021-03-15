@@ -1,0 +1,127 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Senior Android Developer 
+ StormFree Cloud Corporation 
+ __Vancouver, BC 
+ Apply Now 
+ We are StormFree 
+ StormFree Cloud Corporation (StormFree) is constructing the future of cloud-driven enterprise services. Designed to enable businesses to regain control of their data without sacrificing security, the StormFree Platform provides highly-flexible integrations that support interoperability at all levels of infrastructure, while embracing the expandability of cloud computing. We empower companies to easily, effectively, and affordably deploy and manage technology services within their own ecosystem. 
+ The StormFree team enjoys a strong and interactive remote working culture, with the benefit of a healthy commute-free lifestyle that helps promote work-life balance. Our teams are diligent, innovative, and optimally-sized to fit our SDLC and project management structure. Each team member provides a valuable voice and plays an important role in our mission to explore, leverage, and develop modern technology solutions. StormFree is a synergistic, skilled, and focused organization, captained by experienced leaders with long-term vision and comprehensive technical backgrounds. 
+ To learn more about StormFree, please check our website at https://www.stormfree.cloud. 
+ We Invite You 
+ StormFree is looking for a Kotlin developer with strong Android application development experience to join our team.The Senior Android Developer shares knowledge with, and provides guidance to, the development team and plays a key role in delivering high quality products to licensees and end users. 
+ As a member of our agile development team, you will use a test-driven approach for modern Android development. We are seeking a great communicator and team player who is passionate about technology, excited to be part of a fresh, enterprising venture, and has a solid track record of delivering results. 
+ StormFree is a remote working environment that enables team members to be based anywhere in Canada provided they are Canadian residents and have a stable, high-speed internet connection. 
+ Your Role 
+As an Android Developer, you will: 
+ 
+ work closely with Project Managers and development teams to deliver our high quality, secure product on schedule and within budget 
+ create and deliver presentations to StormFree management and teams 
+ work with continuous integration and automated deployment environments 
+ focus on building and delivering high quality, secure, tested code 
+ meet development timelines and quality thresholds 
+ guide team members where you're the expert and accept some team leadership roles 
+ develop and update various documentation, including but not limited to, development standards, feature estimates, and test scripts 
+ embody the StormFree Way to help build and deliver quality products that meet or exceed the highest industry standards 
+ embrace the remote work culture, building strong relationships with team members, managers, and stakeholders 
+ engage with project managers to fulfill schedules and budget deliverables 
+ contribute to and maintain project documentation, including estimates, procedures and plans 
+ create and deliver presentations to StormFree teams, management, and stakeholders 
+ 
+ Your Contribution 
+Required skills include: 
+ 
+ extensive (4+ years) of Android application development including: 
+ core languages (e.g. Kotlin, Java, XML, Groovy/Gradle) 
+ client-server (e.g. REST APIs, GRPC, JSON, Protobuf) 
+ dependency injection (e.g. Dagger, Koin) 
+ proficient in Mockito, JUnit, and Kotlin variants 
+ experience with XML layouts and databinding including frameworks such as Conductor 
+ adept at MVP or MVVM design pattern 
+ experience analyzing, redesigning, and refactoring code 
+ suggesting and debating model changes 
+ version control experience with Git (GitHub, GitLab, etc ) 
+ ability to identify and communicate both potential issues and opportunities 
+ adept at considering problems from all angles and contributing effectively to solution options 
+ adaptable in a fast paced, dynamic, and growing organization 
+ proficient in creating and delivering presentations 
+ effective in interfacing with both technical and non-technical audiences 
+ ability to work independently and collaboratively in a team environment 
+ strong written and oral English communication 
+ 
+ Preferred skills include knowledge of: 
+ 
+ a variety of software development methodologies, such as iterative prototyping, Agile 
+ cryptography and cryptosystems (SKC, PKC, hashing, certificates) 
+ 
+ Preferred education includes: 
+ 
+ degree, preferably B.Sc. Engineering or Computer Science 
+ diploma from a technical institution 
+ relevant certifications from recognized training institutions 
+ 
+ Your Work Environment 
+Your work space must have a: 
+ 
+ private work area, such as a rented space or a home office 
+ stable, high-speed internet connection on a reliable network 
+ computer with sufficient processing power to meet work commitments 
+ office software suite for word processing, spreadsheets, and presentations 
+ headset and camera for meetings 
+ smartphone 
+ 
+ Your Compensation 
+ This is a contract role, working remotely. Compensation, is based on experience and performance. 
+ Thank You 
+ We thank you for your interest in working with StormFree. You will be contacted if you are selected to move forward with the next step in our process. 
+ Job Types: Full-time, Contract 
+ Experience: 
+ 
+ Android Development: 3 years (Preferred) 
+ MVP or MVVM design pattern: 2 years (Required) 
+ Java: 4 years (Preferred) 
+ client-server (e.g. REST APIs, GRPC, JSON, Protobuf): 2 years (Required) 
+ Kotlin: 3 years (Required) 
+ 
+ Education: 
+ 
+ Bachelor's Degree (Preferred) 
+ 
+ Location: 
+ 
+ Vancouver, BC (Preferred) 
+ 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,501 @@
+Skip to content 
+ 
+ india-gst.in 
+ The one stop for Indian GST 
+ Services by way of job work falling under HSN / SAC 9988 
+ Posted on  July 27, 2017July 27, 2017  by  CMA Bhogavalli Mallikarjuna Gupta 
+ (i) Services by way of job work in relation to- 
+(a) Printing of newspapers; 
+(b) Textile yarns (other than of man-made fibres) and textile fabrics; 
+(c) Cut and polished diamonds; precious and semi-precious stones; or plain and studded jewellery of gold and other precious metals, falling under Chapter 71 in the First Schedule to the Customs Tariff Act, 1975 (51of 1975); 
+(d) Printing of books (including Braille books), journals and periodicals; 
+ (e) Processing of hides, skins and leather falling under Chapter 41 in the First Schedule to the Customs Tariff Act, 1975 (51of 1975). 
+Explanation.- “man made fibres” means staple fibres and filaments of organic polymers produced by manufacturing processes either,- 
+(a) by polymerisation of organic monomers to produce polymers such as polyamides, polyesters, polyolefins or polyurethanes, or by chemical modification of polymers produced by this process [for example, poly(vinyl alcohol) prepared by the hydrolysis of poly(vinyl acetate)]; or 
+(b) by dissolution or chemical treatment of natural organic polymers (for example, cellulose) to produce polymers such as cuprammonium rayon (cupro) or viscose rayon, or by chemical modification of natural organic polymers (for example, cellulose, casein and other proteins, or alginic acid), to produce polymers such as cellulose acetate or alginates. 
+ (ii) Manufacturing services on physical inputs (goods) owned by others, other than (i) above. 
+ 
+ 
+ 
+ Heading no. 9988 
+ 
+ Manufacturing services on physical inputs (goods) owned by others 
+ 
+ 
+ 
+ 
+ Group 99881 
+ 
+ Food, beverage and tobacco manufacturing services 
+ 
+ 
+ 998811 
+ Meat processing services 
+ 
+ 
+ 
+ 998812 
+ Fish processing services 
+ 
+ 
+ 
+ 998813 
+ Fruit and vegetables processing services 
+ 
+ 
+ 
+ 998814 
+ Vegetable and animal oil and fat manufacturing services 
+ 
+ 
+ 
+ 998815 
+ Dairy product manufacturing services 
+ 
+ 
+ 
+ 998816 
+ Other food product manufacturing services 
+ 
+ 
+ 
+ 998817 
+ Prepared animal feeds manufacturing services 
+ 
+ 
+ 
+ 998818 
+ Beverage manufacturing services 
+ 
+ 
+ 
+ 998819 
+ Tobacco manufacturing services n.e.c. 
+ 
+ 
+ 
+ Group 99882 
+ 
+ Textile, wearing apparel and leather manufacturing services 
+ 
+ 
+ 998821 
+ Textile manufacturing services 
+ 
+ 
+ 
+ 998822 
+ Wearing apparel manufacturing services 
+ 
+ 
+ 
+ 998823 
+ Leather and leather product manufacturing services 
+ 
+ 
+ 
+ Group 99883 
+ 
+ Wood and paper manufacturing services 
+ 
+ 
+ 998831 
+ Wood and wood product manufacturing services 
+ 
+ 
+ 
+ 998832 
+ Paper and paper product manufacturing services 
+ 
+ 
+ 
+ Group 99884 
+ 
+ Petroleum, chemical and pharmaceutical product manufacturing services 
+ 
+ 
+ 998841 
+ Coke and refined petroleum product manufacturing services 
+ 
+ 
+ 
+ 998842 
+ Chemical product manufacturing services 
+ 
+ 
+ 
+ 998843 
+ Pharmaceutical product manufacturing services 
+ 
+ 
+ 
+ Group 99885 
+ 
+ Rubber, plastic and other non-metallic mineral product manufacturing service 
+ 
+ 
+ 998851 
+ Rubber and plastic product manufacturing services 
+ 
+ 
+ 
+ 998852 
+ Plastic product manufacturing services 
+ 
+ 
+ 
+ 998853 
+ Other non-metallic mineral product manufacturing services 
+ 
+ 
+ 
+ Group 99886 
+ 
+ Basic metal manufacturing services 
+ 
+ 
+ 998860 
+ Basic metal manufacturing services 
+ 
+ 
+ 
+ Group 99887 
+ 
+ Fabricated metal product, machinery and equipment manufacturing services 
+ 
+ 
+ 998871 
+ Structural metal product, tank, reservoir and steam generator manufacturing services 
+ 
+ 
+ 
+ 998872 
+ Weapon and ammunition manufacturing services 
+ 
+ 
+ 
+ 998873 
+ Other fabricated metal product manufacturing and metal treatment services 
+ 
+ 
+ 
+ 998874 
+ Computer, electronic and optical product manufacturing services 
+ 
+ 
+ 
+ 998875 
+ Electrical equipment manufacturing services 
+ 
+ 
+ 
+ 998876 
+ General-purpose machinery manufacturing services n.e.c. 
+ 
+ 
+ 
+ 998877 
+ Special-purpose machinery manufacturing services 
+ 
+ 
+ 
+ Group 99888 
+ 
+ Transport equipment manufacturing services 
+ 
+ 
+ 998881 
+ Motor vehicle and trailer manufacturing services 
+ 
+ 
+ 
+ 998882 
+ Other transport equipment manufacturing services 
+ 
+ 
+ 
+ Group 99889 
+ 
+ Other manufacturing services 
+ 
+ 
+ 998891 
+ Furniture manufacturing services 
+ 
+ 
+ 
+ 998892 
+ Jewellery manufacturing services 
+ 
+ 
+ 
+ 998893 
+ Imitation jewellery manufacturing services 
+ 
+ 
+ 
+ 998894 
+ Musical instrument manufacturing services 
+ 
+ 
+ 
+ 998895 
+ Sports goods manufacturing services 
+ 
+ 
+ 
+ 998896 
+ Game and toy manufacturing services 
+ 
+ 
+ 
+ 998897 
+ Medical and dental instrument and supply manufacturing services 
+ 
+ 
+ 
+ 998898 
+ Other manufacturing services n.e.c. 
+ 
+ 
+ 
+ Heading no. 9989 
+ SAC / HSN Number 
+ Other manufacturing services; publishing, printing and reproduction services; materials recovery services 
+ 
+ 
+ Group 99891 
+ 
+ Publishing, printing and reproduction services 
+ 
+ 
+ 998911 
+ Publishing, on a fee or contract basis 
+ 
+ 
+ 
+ 998912 
+ Printing and reproduction services of recorded media, on a fee or contract basis 
+ 
+ 
+ 
+ Group 99892 
+ 
+ Moulding, pressing, stamping, extruding and similar plastic manufacturing services 
+ 
+ 
+ 998920 
+ Moulding, pressing, stamping, extruding and similar plastic manufacturing services 
+ 
+ 
+ 
+ Group 99893 
+ 
+ Casting, forging, stamping and similar metal manufacturing services 
+ 
+ 
+ 998931 
+ Iron and steel casting services 
+ 
+ 
+ 
+ 998932 
+ Non-ferrous metal casting services 
+ 
+ 
+ 
+ 998933 
+ Metal forging, pressing, stamping, roll forming and powder metallurgy services 
+ 
+ 
+ 
+ Group 99894 
+ 
+ Materials recovery (recycling) services, on a fee or contract basis 
+ 
+ 
+ 998941 
+ Metal waste and scrap recovery (recycling) services, on a fee or contract basis 
+ 
+ 
+ 
+ 998942 
+ Non-metal waste and scrap recovery (recycling) services, on a fee or contract basis 
+ 
+ 
+ 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Email 
+ LinkedIn 
+ Tumblr 
+ WhatsApp 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Posted in  GST Tips Tagged  charges ,  chemical modification ,  chemical treatment ,  CMA Bhogavalli Mallikarjuna Gupta ,  Cut and polished diamonds ,  gold ,  gst rate ,  job work ,  Manufacturing services ,  natural organic polymers ,  organic monomers ,  other precious metals ,  polyamides ,  polyesters ,  polymerisation ,  polyolefins ,  polyurethanes ,  precious and semi-precious stones ,  Printing of newspapers ,  Processing of hides ,  produce polymers ,  skins and leather ,  studded jewellery ,  textile fabrics ,  Textile yarns 5 Comments 
+ Post navigation 
+ <- Tweets from GOI on GST - 
+ GST Tip - 283 -> 
+ 5 thoughts on "Services by way of job work falling under HSN / SAC 9988" 
+ 
+ 
+ Pingback:  GST Tip - 283 | india-gst.in 
+ 
+ 
+ Pingback:  GST Tip - 283 | India GST 
+ 
+ 
+ EZHIL VENU.V  says: 
+ 
+ 
+ July 30, 2017 at 7:24 am 
+ Useful 
+ Like Liked by 1 person 
+ Reply 
+ 
+ Sunil jain  says: 
+ 
+ February 15, 2019 at 11:44 am 
+ We are doing job work for manufacturing circles of aluminum from billets.we returns the whole material back after job work.in shape of circles and scrap . 
+ Like Like 
+ Reply 
+ 
+ Sunil jain  says: 
+ 
+ February 15, 2019 at 11:48 am 
+ What HSN code should be written on job work invoice. 
+ Like Like 
+ Reply 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Search for: 
+ Recent Posts 
+ 
+ CGST Act 2017 - Updated 
+ Frequently Asked Question on e-invoicing 
+ Advisory on challenges in Auto Populated of GSTR - 1 for e-invoices 
+ Advisory on auto-population of e-invoice details into GSTR-1 
+ Form GSTR - 2B Notified 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ Advisory on challeng…  on  Advisory on challenges in Auto… 
+ 
+ 
+ 
+ 
+ 
+ Mahira Singh  on  e-invoice : 50 days to go in… 
+ 
+ 
+ 
+ e-invoice data auto-…  on  Advisory on auto-population of… 
+ 
+ 
+ 
+ GST Rate on Services…  on  GST Rate on Services as Recomm… 
+ 
+ 
+ 
+ HSN codes for Servic…  on  HSN codes for Services 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ August 2020 
+ May 2020 
+ March 2020 
+ December 2019 
+ November 2019 
+ September 2019 
+ August 2019 
+ February 2019 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ March 2016 
+ February 2016 
+ December 2015 
+ November 2015 
+ 
+ Categories 
+ 
+ Business Process Reports 
+ Draft Rules 
+ e-invoice 
+ Goods and Service Tax 
+ GST Tips 
+ Model GST Law 
+ Polls 
+ Press Release 
+ Uncategorized 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Blog at WordPress.com. 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

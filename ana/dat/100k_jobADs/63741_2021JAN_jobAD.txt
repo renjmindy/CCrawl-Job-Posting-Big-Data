@@ -1,0 +1,884 @@
+Ritesh's Blog for SQL-SERVER & .NET 
+ 
+ 
+ About Me 
+ 
+ 
+ Dislaimer 
+ 
+ 
+ presence in BeyondRelational 
+ 
+ 
+ Resume -Ritesh Shah 
+ 
+ 
+ About Author 
+ 
+ 
+ Ritesh Shah is an author of many technical article on Microsoft Technology, especially on SQL-Server, .NET technology like C# and ASP.Net etc. He is having 10+ year of experience in IT industry and working as Consultant Project Leader and Database Administrator. 
+ He is very active community member, you can find him at: 
+ SQLHub.com 
+ Experts-Exchange.com 
+ Asp.Net 
+ LinkedIN 
+ Beyond-Relational 
+ Twitter 
+ 
+ 
+ My Book 
+ 
+ 
+ 
+ SQL Server 2012 Performance Tuning book by Ritesh Shah 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ Soumya Ranjan Samant… on  Image store in SQL-Server 2005… 
+ 
+ 
+ 
+ 
+ 
+ Jeff Moden on  Table statistics in SQL Server… 
+ 
+ 
+ 
+ 
+ Twitter  on  Read XLS or MDB file with Open… 
+ 
+ 
+ 
+ Kelli Dudley  on  LOG function in SQL Server and… 
+ 
+ 
+ Jason on  DDL Trigger in SQL-Server 2005… 
+ 
+ 
+ 
+ Amit Kumar Gupta on  DDL Trigger in SQL-Server 2005… 
+ 
+ 
+ 
+ riteshshah on  Image store in SQL-Server 2005… 
+ 
+ 
+ 
+ 
+ Soumya Ranjan Samant…  on  Image store in SQL-Server 2005… 
+ 
+ 
+ BYRON on  Read XLS or MDB file with Open… 
+ 
+ 
+ 
+ 
+ How to Remove Duplic…  on  Delete-Select-Duplicate-Record… 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ October 2012 
+ September 2012 
+ January 2012 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ January 2011 
+ December 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ May 2008 
+ April 2008 
+ 
+ 
+ 
+ Categories 
+ 
+ -SQL-Server 2005 
+ .DTSX 
+ .NET 
+ .NET 3.5 
+ .NET framework 4.0 
+ .NET Quiz 2011 
+ 10% discount 
+ 100 article complete 
+ ACCESS 
+ access 2007 in SQL Server 
+ addrolemember 
+ ado.net 
+ Aggregate 
+ aggregate function 
+ ahmedabad user group 
+ all tables 
+ alter all column 
+ ALTER PROC 
+ ALTER SCHEMA 
+ ALTER TRIGGER 
+ archive 
+ archive data in SQLServer 
+ Argument data type ntext is invalid 
+ array in SQL Server 
+ array pass to Stored procedure 
+ ascii 
+ ASCII to CHARACTER 
+ ASHX 
+ ASP.NET 
+ Asymmetric 
+ audit trail 
+ Auto_Close 
+ – Context_Info 
+ backup 
+ backup encrypted database 
+ backup master key 
+ BCP 
+ bcp.exe 
+ beyondrelational.com 
+ BLOB 
+ body surface area 
+ bpa 
+ BSA 
+ Bug Fix 
+ Bug Fix 
+ bulk copy 
+ bulk insert 
+ bulk operation 
+ bypass aspx in .NET 
+ bypass aspx in .NET 
+ C# 
+ c-sharp 
+ calculate clustered index size 
+ calculate index size 
+ calculate non-clustered index size 
+ Cannot generate SSPI context 
+ cannot open database 
+ Cascading Delete 
+ cascading Update 
+ catalog view 
+ cdc 
+ cerate certificate 
+ certificate in database 
+ change collation 
+ change column name 
+ change data capture 
+ change database mode 
+ Channel 9 
+ CHAR 
+ character count 
+ character map transformation task 
+ charindex 
+ CHECK 
+ check database size 
+ check file exists in SQL Server 
+ checkpoint 
+ client/server application 
+ CLR function 
+ clustered index 
+ coalesce 
+ CODEPLEX Toolkit 
+ collation 
+ comma separated value 
+ comparison catalog view and information_schema 
+ comparison of SP and UDF 
+ COMPUTE 
+ concat_null_yields_null 
+ conditional split transformation 
+ configure mySQL in windows 
+ configure php 
+ configure php in IIS 
+ Contains 
+ ContainsTable 
+ convert local datetime to UTC 
+ copy backup from one location to another 
+ copy files 
+ copy files and folder from SQL Server 
+ copy ldf 
+ copy mdf 
+ COPY ONE TABLE FROM ANOTHER 
+ correlated subquery 
+ count 
+ count and null 
+ create clustered index on view 
+ create CSV file from SQL 
+ create database master key 
+ create full text catalog 
+ create full text index 
+ create login 
+ create master key 
+ create nonclustered index on view 
+ CREATE PROC 
+ CREATE RULE 
+ CREATE SCHEMA 
+ create symmetric key 
+ create synonym 
+ CREATE TRIGGER 
+ create txt file 
+ create user 
+ create view 
+ CROSS APPLY 
+ Cross Tab Query 
+ crystal report 
+ cte 
+ cube 
+ cursor 
+ DAC 
+ data abstract layer 
+ data access error 
+ data file size 
+ data management view 
+ data size in table 
+ database backup 
+ Database Engine tuning adviser 
+ database master key 
+ database trigger 
+ database tuning advisor 
+ DatabaseMailUserRole 
+ DataFlow 
+ DataLength 
+ date 
+ dateadd 
+ datediff 
+ datetime bug 
+ datetime format 
+ day calculate with CTE 
+ DBCC CheckDB 
+ DBCC INDEXDEFRAG 
+ DBCC Page 
+ DBCC SHOWCONTIG 
+ db_name() 
+ DDL TRIGGER 
+ deadLock 
+ decryption 
+ definition of cursor 
+ Definition OF SCHEMA 
+ delete 
+ delete all records 
+ delete duplicate records 
+ delete in bunch 
+ delete many records 
+ delete multiple records 
+ delete with JOIN 
+ DELETED 
+ denali 
+ difference between BCP and BULK INSERT 
+ difference between delete and truncate 
+ difference between len and datalength 
+ difference between len and datalength 
+ Difference between sql server 2000 and sql server 2005 
+ Difference between sql server 2005 and 2008 
+ difference between Stored Procedure and User Define Function 
+ Difference between WHERE and HAVING 
+ difference exec and sp_executeSQL 
+ difference of cube and rollup 
+ diffrence between rank() and rown_Number() 
+ DIFFRENCE OF SET AND SELECT 
+ division operator 
+ division operator return zero 0 
+ dmf 
+ DMK 
+ DML trigger 
+ dmv 
+ dm_db_partition_stats 
+ DRI 
+ DROP PROC 
+ DROP SCHEMA 
+ DTA 
+ DTS 
+ dynamic alter table script 
+ dynamic cursor 
+ dynamic pivot 
+ dynamic query with Uniqueidentifier 
+ dynamic select in SP 
+ dynamic sql 
+ dynamic word document with C# 
+ dynamic word document with image with C# 
+ email 
+ email from trigger 
+ email when run out of space 
+ ENABLE XP_CMDSHELL 
+ encryption 
+ encryption with asymmetric key 
+ [encry](https://riteshshah.wordpress.com/category/encry/) 
+ environtment.currentdirectory 
+ error 28 
+ error 7303 
+ error 7411 
+ error 8152 
+ error fix 
+ EVENTDATA() 
+ example of Silverlight 
+ except 
+ exclusive lock 
+ EXEC 
+ EXEC sp_BindRule 
+ execute 
+ EXECUTE permission was denied on the object sp_send_dbmail 
+ expert exchange 
+ experts-exchange.com 
+ export data from SQL to CSV 
+ export data from SQL to excel 
+ export from SQL to Flat file 
+ Extreme-Advice 
+ Extreme-Advice.com 
+ FAQs in SQL Server 
+ fast_forward 
+ features 
+ fetch next 
+ fetch_first 
+ fetch_last 
+ fetch_prior 
+ filestream 
+ fillfactor 
+ find columns 
+ find currently running query 
+ find data file size 
+ find default value of column 
+ find disk space usage 
+ find error log file 
+ find first Friday 
+ find foreign key 
+ Find fully qualified path 
+ find GMT +5.30 time 
+ find guest user 
+ find Last Friday 
+ find lock 
+ find locked table 
+ find log file size 
+ find primary key 
+ find size of each table 
+ find stored procedure 
+ find table list 
+ find table size 
+ find user 
+ find user in all database 
+ find user permission 
+ find word in stored procedure 
+ fire fox 
+ Flat File Destination 
+ fn_PhysLocFormatter 
+ for xml path 
+ ForEach Loop 
+ formsof 
+ forward_only 
+ free ebook 
+ free second chance 
+ free SQL Server 2008 ebook 
+ FreeText 
+ FREETEXTTABLE 
+ frequently Asked question 
+ FTS 
+ full qualified path 
+ Full Text Search 
+ fuzzy lookup 
+ gandhinagar user group 
+ generic list in SP 
+ generic pivot SP 
+ get drive infor of windows 
+ getdate() 
+ getutcdate() 
+ grantdbaccess 
+ grantlogin 
+ group by 
+ grouping sets 
+ grouping sets in SQL Server 2008 
+ guitar 
+ guru sql server 
+ hand return value from C# 
+ hardening sql server 
+ HAVING Clause 
+ hint 
+ http connection manager 
+ HTTP Endpoint 
+ http handler 
+ identity 
+ identity_insert 
+ IE 8 
+ IE 8 RC1 
+ iFTS 
+ image in database 
+ image in sql-server 2005 
+ image store 
+ image store in sql server 
+ import excel file to sql server 
+ IMPROVED INSERT 
+ index 
+ index rebuild 
+ index reorganize 
+ Indic_General_90_BIN 
+ inflectional 
+ information_schema.columns 
+ information_schema.routines 
+ INFORMATION_SCHEMA.tables 
+ inline table valued function 
+ Inner Join 
+ insert image in sql server 
+ INSERT in SQL Server 2008 
+ insert into 
+ insert manual value in identity column 
+ insert trigger 
+ insert varbinary 
+ INSERT with Raw Constructor 
+ INSERTED 
+ Installation of Silverlight 
+ instance 
+ instead of trigger 
+ Integrated Full Text Search 
+ internet explorer 
+ intersect 
+ invalid precision for decimal data type 
+ isnull 
+ jacob sebastian 
+ Jason Olson 
+ JOB List 
+ john papa 
+ join 
+ keep eye on database file 
+ keep eye on hard disk space 
+ keep track of database file 
+ KEEPFIXED PLAN 
+ keyset cursor 
+ LDF 
+ Left Join 
+ LEN 
+ LIKE 
+ linked server 
+ linked server with excel 
+ list of all datetime format 
+ LN in Excel 
+ load XML into SQL 
+ locate physical row address 
+ LOG 
+ log file size 
+ Log in Excel 
+ Log in sql server 
+ log transaction 
+ LOG10 in sql server 
+ logical delete 
+ login 
+ M language 
+ machine.config 
+ mark wills 
+ master sql server 
+ master.dbo.xp_fileexist 
+ mbsa 
+ MCITP 
+ MCPD 
+ MCTS 
+ mDF 
+ memory leak 
+ memory leak in SQL Server 2008 
+ memory leak in SQL Server 2008 
+ Merge Join Transformation Task 
+ Merge Statement 
+ Michael Coles 
+ Microsoft 
+ microsoft baseline security analyzer 
+ microsoft best practices analyzer 
+ microsoft exams 
+ Microsoft News & Others 
+ microsoft sql server 
+ Microsoft sync service 
+ microsoft tech days 
+ Microsoft.ACE.OLEDB.12.0 
+ Microsoft.Jet.OLEDB.4.0 
+ micrso 
+ ms sq 
+ MS SQL Server 
+ MS SQL Server 2000 
+ MS SQL Server 2005 
+ ms sql server 2008 
+ MSDB..sp_HELP_JOB 
+ msdb..sysjobs 
+ msdb.dbo.sp_send_dbmail 
+ MSforEachDB 
+ Msg 15118 
+ Msg 1939 
+ Msg 1940 
+ Msg 7403 
+ Msg 8116 
+ msg 8152 
+ multi statement UDF 
+ multiple SQL Server in one server 
+ multiple ways to insert records 
+ multi_user 
+ multyplication operator 
+ mvp 
+ naming convention 
+ naming guideline of database object 
+ NDF 
+ NEAR in CONTAINS 
+ nested cte 
+ net start 
+ net stop 
+ network-related or instance-specific error 
+ NEWID() 
+ non-identity 
+ noncolustered index 
+ ntile 
+ null 
+ OBJECT_DEFINITION 
+ office 2010 
+ open master key 
+ openquery 
+ OPENROWSET 
+ order by 
+ order by total 
+ oslo 
+ osql 
+ OUTER APPLY 
+ OUTER join 
+ OUTPUT 
+ OUTPUT Parameter 
+ OVER 
+ padindex 
+ paging 
+ paging in SP 
+ parameter in HTTP Endpoint 
+ Partition by 
+ Password validation failed 
+ patindex 
+ performance counter registry hive consistency 
+ pinal dave 
+ PIVOT 
+ PIVOT Task in SSIS 
+ pivot with where condition 
+ policy enforcing 
+ Policy managment 
+ primary key 
+ proper case 
+ PSEUDO TABLE 
+ quarter 
+ query job 
+ query XML file 
+ QUOTENAME 
+ RANK() 
+ ranking rows in groups 
+ Read Committed Isolation Level 
+ read registry 
+ read typed XML 
+ Read UnCommitted Isolation Level 
+ read website in asp.net 
+ read xml 
+ recursive query 
+ regex.split 
+ regional language in sql server 
+ rename column name 
+ Repeatable Read Isolation Level 
+ restore DMK 
+ restore DMK 
+ restore encrypted database 
+ restore master key 
+ restricted_user 
+ Result Destination task 
+ retularexpression.regex 
+ return data 
+ RETURN DATA FROM DELETE 
+ RETURN DATA FROM INSERT 
+ RETURN DATA FROM UPDATE 
+ return value from SP 
+ revoke access of user 
+ Right Join 
+ ritesh 
+ Ritesh Shah 
+ rollup 
+ row level versioning 
+ row_number() 
+ SAGE 
+ scalar UDF 
+ sch-m lock 
+ SCHEMA 
+ schema change lock 
+ script task 
+ scrollable cursor 
+ search modified object 
+ search text of Stored procedure 
+ SELECT 
+ select duplicate records 
+ SELECT INTO 
+ select primary key 
+ select random 
+ SELECT UNION ALL 
+ SendMail 
+ Serializable Isolation Level 
+ server doesn't support requested protocol 
+ server trigger 
+ servername 
+ SERVERPROPERTY 
+ SERVERPROPERTY('ErrorLogFileName') 
+ Service Area Configuration 
+ service master key 
+ Session Variable 
+ SET 
+ set based theory 
+ set database offline 
+ set database online 
+ set default in all column 
+ set identity_insert 
+ set rowcount 
+ shrink log file 
+ shrink log file of all database 
+ SilverLight 
+ single_user 
+ SMK 
+ SNAPSHOT ISOLATION 
+ SPLIT 
+ split value 
+ split value in c# 
+ sp_addrolemember 
+ sp_configure 
+ sp_depends 
+ sp_executeSQL 
+ sp_fulltext_catalog 
+ sp_fulltext_column 
+ sp_fulltext_database 
+ sp_fulltext_table 
+ sp_MSforeachdb 
+ sp_MSforeachtable 
+ SP_MSTABLESPACE 
+ sp_procoption 
+ sp_refreshSQLModule 
+ sp_rename 
+ sp_send_dbmail 
+ sp_spaceused 
+ sql 
+ SQL DMO 
+ SQL Injection 
+ SQL Server "Denali" 
+ sql server 2005 
+ sql server 2008 
+ sql server agent jobs 
+ sql server energy event 
+ sql server instance 
+ SQL Server profiler 
+ SQl server quiz 
+ SQL SMO 
+ SQL-Server 
+ SQL-Server 2005 
+ SQLHub.com 
+ SSIS 
+ startup stored procedure 
+ static cursor 
+ store document in sql server 
+ stored procedure 
+ Stored procedure naming conventino 
+ string manipulation 
+ string or binary data would be truncated 
+ stuff 
+ sub cte 
+ subquery 
+ subquery as table 
+ substring function 
+ sum 
+ Symmetric key 
+ synonym 
+ Sys.Columns 
+ Sys.Databases 
+ Sys.Database_files 
+ sys.database_principals 
+ sys.database_role_members 
+ Sys.Foreign_Key_Columns 
+ Sys.Key_Constraint 
+ Sys.Objects 
+ sys.procedures 
+ sys.schemas 
+ syscomments 
+ sysindexes 
+ sysjobhistory 
+ sysobject 
+ sysobject.xtype 
+ system databases 
+ System.IO.DriveInfo 
+ System.IO.DriveInfo.GetDrives() 
+ system.serviceprocess 
+ T SQL puzzle 
+ t-sq 
+ T-sql 
+ T-SQL Challenges Beginners 
+ table naming convention 
+ table statistics 
+ TCP Endpoint 
+ teched 
+ teched event in Ahmedabad 
+ teched on road 
+ The OLE DB provider "Microsoft.ACE.OLEDB.12.0" has not been registered 
+ title case 
+ TOP 
+ total 
+ total row in table 
+ transaction log 
+ trigger 
+ truncate 
+ txt file 
+ typed XML 
+ UDF 
+ Unable to start debugging on web server. Debugging failed because integrated windows authentication is not enabled. Please see help for assistance 
+ Uncategorized 
+ union 
+ union all 
+ union in CTE 
+ Uniqueidentifier 
+ untyped XML 
+ update 
+ update fun 
+ update image in sql server 
+ update null data 
+ update null for all column 
+ update puzzle 
+ update statestics 
+ Update table 
+ update trigger 
+ update with aggregate function 
+ update XML column 
+ update XML data 
+ update() 
+ upgrade sql server 
+ use of cube and rollup 
+ user 
+ user account in SQL Server 
+ user and login issue 
+ USER DEFINE FUNCTION 
+ user defined rules 
+ UTC datetime 
+ vb.net 
+ view 
+ View should be with schemabindings 
+ vinod kumar 
+ Visual Studio 2008 
+ Visual Studio 2010 
+ watch your hard disk space 
+ web.config 
+ wedding anniversary 
+ what is identity 
+ where 
+ WHERE Condition 
+ windows 7.0 
+ windows appilcation 
+ Windows Installer Cleanup Utility 
+ windows server 2003 
+ xlsx in sql server 2005 
+ xml 
+ xml relational data in sql table 
+ XP_CMDSHELL 
+ xp_fileexist 
+ xp_fixeddrives 
+ xp_instance_regread 
+ xp_regRead 
+ xp_sendmail 
+ xtype 
+ YUKON 
+ 
+ 
+ 
+ List SQL Server Agent JOBS in SQL Server 2008/2005/2000 
+ May 27, 2009 -- riteshshah 
+ As a DBA we may need to set the JOB for various task and those tasks will be saved under MSDB database. You can see it from EM or from SSMS GUI tools but it would help sometime to execute query to see the list of available JOB in SQL Server 2000+ versions. 
+ There are two ways to achieve that task. Have a look at it. 
+ -with stored procedure 
+ EXEC MSDB..sp_HELP_JOB 
+ -with sysjobs view 
+ select * from msdb..sysjobs 
+ Both of the above statements will give you list of JOB have been set in SQL Server Agent along with so many other important details. 
+ Reference: Ritesh Shah  ** 
+   http://www.sqlhub.com  ** 
+ Note: Microsoft Books online is a default reference of all articles but examples and explanations prepared by Ritesh Shah, founder of   http://www.SQLHub.com 
+ Microsoft SQL Server Blog. Fight the fear of SQL with SQLHub.com. Founder is Ritesh Shah 
+ Posted in  JOB List ,  Microsoft ,  MS SQL Server 2000 ,  MS SQL Server 2005 ,  MSDB..sp_HELP_JOB ,  msdb..sysjobs ,  Ritesh Shah ,  sql server 2008 ,  sql server agent jobs ,  T-sql .  Leave a Comment » 
+ Create a free website or blog at WordPress.com. 
+ 
+ 
+   Extreme-Advice.com 
+ 
+ Installing MySQL Server in CentOS 7  August 12, 2017 
+ 
+ 
+ 
+ Installing MySQL Server in CentOS 7 As a part of some latest R&D, I wanted to replicate some data from SQL Server to MySQL. Since there is no native way to do this, I am preparing my own framework which suits my requirement. To work on the project, I have purchased, recently, cloud space with […] The post Installing MySQL Server in CentOS 7 appeared firs […] 
+ Riteshshah
+*  SQL Server 2016 Service Pack 1  November 18, 2016 
+ I have started working with Microsoft SQL Server 7.0 in late 1999 and even today I become very excited with the new version of Microsoft SQL Server. SQL Server 2016 has been in market for quite some time but now finally Microsoft has released service pack 1 for SQL Server 2016 to download. This […] The post SQL Server 2016 Service Pack 1 appeared first on […] 
+ Riteshshah
+*  SQL Server 2014 CTP 1 available to download  June 27, 2013 
+ SQL Server 2014 CTP 1 available to download SQL Server 2014 is recently announced in TechED Europe. I am really very excited to download and knew more about it. You can download SQL Server 2014 CTP 1 from here. Each new version of software needs compatible hardware and software. Those are mandatory before you try […] The post SQL Server 2014 CTP 1 available […] 
+ Riteshshah
+*  Dynamic filter in WHERE Clause with CASE_WHEN_THEN in SQL Server  May 27, 2013 
+ I have very often seen that people are so used to with traditional methods and hence never think in terms of set based programming, they used to write code with evergreen traditional method which people used to use in sequential language like C or many be ASP etc. Let us see this practically with an […] The post Dynamic filter in WHERE Clause with CASE_WHEN_ […] 
+ Riteshshah
+*  SQL Server Login permission to read queue message count of Service Broker  April 10, 2013 
+ SQL Server Login permission to read queue message count of Service Broker Few weeks back, I have written one article “Find Service Broker Queue Count in SQL Server”. One of the blog reader has created the UDF I have given in that article and tried to fetch value of that UDF from his web application […] The post SQL Server Login permission to read queue messa […] 
+ Riteshshah
+*  Count active Thread for Service Broker Queue in SQL Server  April 9, 2013 
+ Count active Thread for Service Broker Queue in SQL Server Since we have big service broker setup, it is very important to know for us about thread running for target queue. Target queue is the queue which suppose to do the work of actual business logic and we used to give proper naming convention to […] The post Count active Thread for Service Broker Queue […] 
+ Riteshshah
+*  Error Fix – Replication subscriber does not exist on the server anymore  April 8, 2013 
+ Error Fix – Replication subscriber does not exist on the server anymore Recently one of my client has faced weird situation related to SQL Server Replication. Their main database goes down so they started running mirroring database as a primary database, removed subscriber and distributor. Once they have setup primary server back properly, they have […] The […] 
+ Riteshshah
+*  Bug Fix – Show Result Pane not working in SQL Server 2012 with CTRL + R  April 7, 2013 
+ Bug Fix – Show Result Pane not working in SQL Server 2012 with CTRL + R Once you are addicted with some keyboard short keys then you hate to use mouse for those things for sure. SQL Developer/DBA are, mostly, addicted with “CTRL + R” short key which is being used to show/hide result panel […] The post Bug Fix – Show Result Pane not working in SQL Server 2012 […] 
+ Riteshshah
+*  Find disabled job in SQL Server  April 5, 2013 
+ Find disabled job in SQL Server I, generally, don’t tend to keep disabled job in my server. I would always like to remove disabled job after generating the script and keep the backup of script and this is the reason whenever someone intentionally or unintentionally disabled the job, my monitoring application shows the server name […] The post Find disabled j […] 
+ Riteshshah
+*  Copy and archive SQL Server database backup  April 4, 2013 
+ Copy and archive SQL Server database backup Though you are working as SQL Server DBA, you have to think, at least sometime, beyond relational. We can schedule different types of backup, ie: full, differential, transaction etc., from within SQL Server but what if you want to set archiving policy also? There are so many different […] The post Copy and archive […] 
+ Riteshshah
+*  Error Fix Database Mail XPs error in SQL Server  April 3, 2013 
+ Error Fix Database Mail XPs error in SQL Server Today I have received one email from one of the blog reader since he was facing an issue in his .NET application which is related to SMTP email in SQL Server. Here is the error he was facing: SQL Server blocked access to procedure ‘dbo.sp_send_dbmail’ of […] The post Error Fix Database Mail XPs error in SQL Ser […] 
+ Riteshshah
+*  Deal with message queue conversation with state CD in Service Broker  April 2, 2013 
+ Deal with message queue conversation with state CD in Service Broker Each side of a Service Broker conversation is represented by a conversation endpoint and sys.conversation_endpoints catalog view contains a row per conversation endpoint in the database. Generally when service broker accept record in message queue, it used to process message and remove it a […] 
+ Riteshshah
+*  Keep watch on Service Broker Queue Delay in SQL Server  April 1, 2013 
+ Keep watch on Service Broker Queue Delay in SQL Server We have very large setup of Service Broker enabled in our live databases. Out of which, some of the nightly business processes create a huge target queue which we suppose to finish during the night time itself. If we can’t cleanup all these queue in […] The post Keep watch on Service Broker Queue Delay i […] 
+ Riteshshah
+*  Milestone of 500+ article  March 29, 2013 
+ Milestone of 500+ article This post is 504th post in my blog. I have started sharing my knowledge in form of blog article three years back. Initially I, just, wanted to keep my script collection online so that I can find it easily as and when I need it but later on my blog has […] The post Milestone of 500+ article appeared first on Ritesh Shah (Extreme-Advi […] 
+ Riteshshah
+*  Update XML attribute value based on condition with XQUERY  March 28, 2013 
+ Update XML attribute value based on condition with XQUERY Recently I had one article which shows how to update XML attribute value which doesn’t had any checking/condition while update. One of the reader asked me how can he update value based on condition. Here is the solution for it. INSERT INTO Orders (ClientID,TestDetails) SELECT ‘CHEM02′,' 
+ Riteshshah
+*  Query to Find missing job in SQL Server  March 27, 2013 
+ Query to Find missing job in SQL Server While managing multiple instance of SQL Server, it is little bit difficult to keep watch on every jobs running in every SQL Server Instances we are managing. I have created one monitoring application which suppose to be watched by at least one DBA 24*7. I have one […] The post Query to Find missing job in SQL Server ap […] 
+ Riteshshah
+*  Update XML attribute value with XQUERY in SQL Server  March 26, 2013 
+ Update XML attribute value with XQUERY in SQL Server Recently I have written article on Inserting attribute in existing XML Elements and Delete XML element. Today I am going to show how to update existing attribute value in XML elements. INSERT INTO Orders (ClientID,TestDetails) SELECT ‘CHEM02′,'’ UNION ALL SELECT ‘ACCU01′,' 
+ Riteshshah
+*  XQuery in SQL Server to insert XML attribute in existing XML element  March 25, 2013 
+ XQuery in SQL Server to insert XML attribute in existing XML element Use of XML is being popular in SQL Server and it comes handy in many situation as I have explained in many of my past Xquery/XML related article. Today I come up with one more example which shows usage of XQuery to insert […] The post XQuery in SQL Server to insert XML attribute in existing […] 
+ Riteshshah
+*  XQuery in SQL Server to delete XML element  March 22, 2013 
+ XQuery in SQL Server to delete XML element Use of XML is being popular in SQL Server and it comes handy in many situation as I have explained in many of my past Xquery/XML related article. Today I come up with one more example which shows usage of XQuery to delete element from XML data […] The post XQuery in SQL Server to delete XML element appeared first on […] 
+ Riteshshah
+*  WHERE clause on XML column in SQL Server table  March 20, 2013 
+ WHERE clause on XML column in SQL Server table Xquery is one of the wonderful feature I appreciate most in SQL Server. Due to lack of knowledge, people doesn’t tend to use it. I always prefer XML in case of I have to pass multiple values in one parameter of stored procedure. It is even […] The post WHERE clause on XML column in SQL Server table appeared firs […] 
+ Riteshshah 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

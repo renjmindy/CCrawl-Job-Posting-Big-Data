@@ -1,0 +1,83 @@
+Highest-Paying Jobs of the Year 
+ When it comes to the highest-paying jobs, the IT, medical and finance industries dominate. 
+ The Bottom Line 
+ With a strengthening economy and an unemployment rate hovering around  4.3  percent--down from 5.3 percent just two years ago--the U.S. job market is looking bright for workers. 
+ While certain industries like textiles, manufacturing, and publishing continue to struggle, other sectors are seeing rapid growth--and robust salaries. Not surprisingly, most high-paying jobs are in fields such as technology, medicine, and finance and typically require advanced degrees and specialized training. However, some occupations, like a data architect or plant manager, only require a bachelor's degree. 
+ Bottom line:  If you're college bound and considering career options, there's plenty of opportunities out there to make some serious bank. 
+ But it also takes dedication, a strong work ethic and, in some cases, wince-inducing student loans to compete in today's innovative, rapidly changing job market. 
+ For skilled workers who have already launched their careers, you're in a strong position to leverage your skills to ask for a raise or find a more lucrative position. In fact,  Glassdoor  indicates that in today's market, when people leave a job for a pay raise, the new position can pay as much as 20 percent more. And of course, it's always helpful to sharpen your IT skills via classes or online services like Lynda.com, which will make you more marketable for almost any job. As you're mulling your career path--or perhaps eyeballing that corner office--check out this list of the 25 highest-paying jobs for 2017, which is based on a recent Glassdoor report. The organization only included jobs that received at least 100 salary reports shared by U.S.-based employees over the past year (2/1/16 - 1/31/17). To ensure the most reliable median base salary for all job titles, Glassdoor applied a proprietary statistical algorithm to estimate annual median base pay, which controls for factors such as location and seniority. 
+ Physician 
+ Physicians diagnose, treat and prevent injuries and illnesses in patients. 
+ Not only is this the highest-paying job on the list, it's also one of the most secure--people are always going to get sick and encounter various ailments as they age. But the job also comes with plenty of pressure and stress, and requires many years of education and training. Candidates must first earn a bachelor's degree, typically in biology or pre-medicine, followed by a four-year Doctor of Medicine (M.D.) program. 
+ Pharmacy Manager 
+ A pharmacy manager is a licensed pharmacist who manages drug-dispensing operations for hospitals, pharmacies or medical clinics. 
+ Requirements include a six-year Doctor of Pharmacy (Pharm.D.) degree, which focuses on disciplines such as toxicology, pathophysiology and pharmacy law. A bachelor's degree is not required for admission. Typically, a licensed pharmacist needs substantial experience to be promoted to a pharmacy director; some candidates also pursue a master's or doctoral degree in pharmacy administration. 
+ Patent Attorney 
+ Patent attorneys complete and file patent applications and work to protect the rights of the inventor or patent holder. 
+ This is often a stressful and demanding job that requires long hours, including court appearances. Educational requirements include a four-year undergraduate degree and a Juris Doctor law degree, which typically takes three years of full-time study. You must also pass a state bar examination to appear before the U.S. Patent and Trademark Office. 
+ Medical Science Liaison 
+ Using top-notch research and communication skills, medical science liaisons provide doctors and other personnel with information about new medical products, treatments, devices and drugs. 
+ The position requires deep industry knowledge, as liaisons represent their employer--including pharmaceutical manufacturers and biotechnology firms--to important decision-makers and government regulatory agencies. Educational requirements include a doctorate in medicine or life sciences, such as a Ph.D., Medical Doctor (M.D.) and Doctor of Pharmacy (Pharm.D). 
+ Pharmacist 
+ Pharmacists educate patients about the use of drugs, illness prevention and medical issues, all while standing behind one of those raised platforms (which are actually used to insure patient confidentiality and deter thieves). 
+ Degree requirements include at least two years of undergraduate study and a Doctor of Pharmacy (Pharm.D.). Graduates must also pass the North American Pharmacist Licensure Examination. Some pharmacists also pursue post-graduate training, through one- or two-year residencies or fellowships at pharmacies, hospitals or other healthcare facilities. 
+ Enterprise Architect 
+ An enterprise architect works with stakeholders and industry experts to develop a holistic view of an organization's strategy by aligning IT and business functions. 
+ They in essence build a roadmap to help the organization achieve its goals and improve business. EAs working in a variety of industries, from banking to retail. Education requirements include a bachelor's degree and typically five to ten years of experience in network administration as well as applicable IT licenses and certifications. 
+ Physician Assistant 
+ Physician assistants provide healthcare and medical guidance under the supervision and direction of doctors. 
+ They are required to obtain licensure and formal training through an educational program approved by the Accreditation Review Commission on Education for the Physician Assistant (ARC-PA). These program, which typically take about two years, are usually available at the master's level and often require applicants to have a bachelor's degrees and some amount of experience in the healthcare profession to gain admission. 
+ Applications Development Manager 
+ Working in industries ranging from finance to medical research, applications development managers oversee teams of software developers. 
+ They manage a variety of functions, including designing software, web applications and services, as well as creating and overseeing budgets. They sometimes train technical and non-technical end-users once the software has been developed. Requirements include a bachelor's degree in computer science, computer engineering or a related technical field; some employers may also require Master of Science degree or MBA for senior-level positions. 
+ R&D Manager 
+ Generally, an R&D manager oversees the process, funds and techniques used in a R&D project, most often found in manufacturing, scientific and product development sectors. 
+ They are often in charge of oversight committees, cost accounting, overall product life cycle and strategies. While there are no specific degree requirements, most R&D managers have a master's degree with a strong background in hard sciences or engineering. 
+ Corporate Controller 
+ A corporate controller is essentially a company's financial manager. 
+ They typically oversee functions such as preparing financial reports and managing all financial departments. Most companies require that a corporate controller have at least a bachelor's degree in business administration, accounting, finance or management. Additional career-boosting training and licenses include Certified Public Accountant (CPA), Chartered Financial Analyst (CFA), and Certified Management Accountant (CMA). 
+ Software Engineering Manager 
+ A software engineer manager designs and develops software applications or computer systems. 
+ They typically work with hardware engineers, industrial designers, and manufacturing operations personnel to create and test software products, often used in business applications, operating systems, and databases. This position typically requires a bachelor's degree in software engineering, computer science, or mathematics. An internship is also advisable to gain hands-on experience. 
+ IT Architect 
+ The IT architect helps companies meet specific business requirements through the application of IT resources. 
+ This means determining what IT products and investments will yield the best return and improve company efficiency and productivity. Degree requirements include a bachelor's degree in management information systems (MIS) or computer science. Also useful are certifications such as the Microsoft Certified Architect (MCA) and IT Architect Certification. 
+ Software Architect 
+ This constantly evolving position develops new programs for a variety of technological devices. 
+ Often working in collaboration with other IT professionals, software architects assess clients' needs and develop processes to control the costs, timeliness, and functionality of specific software projects, ranging from computer games and mobile networks to and operating systems. Becoming a software architect typically entails earning an undergraduate degree and professional certification. 
+ Nurse Practitioner 
+ One of the fastest-growing jobs in the country, nurse practitioners assist people with their medical and health care needs. 
+ They typically work at hospitals and other healthcare facilities and record and analyze a patient's medical history, perform physical exams, order various tests, and prescribe physical therapy and other treatments. Nurse practitioners must obtain at least a master's degree as well as the National Council Licensure Examination - Registered Nurses (NCLEX-RN) licensure. 
+ Solutions Architect 
+ Solutions architects build and integrate information and computer systems. 
+ Working directly with clients and various technical staff, they serve as consultants and recommend solutions that result in more effective systems. This typically involves overseeing the programming, integration and testing of software systems and associated devices. Requirements include at least a bachelor's degree related to information technology, software engineering or computer science. Earning a master's degree or specialized certification is sometimes required for certain jobs. 
+ Data Architect 
+ A data architect is an increasingly in-demand profession that is charged with helping companies and organizations develop, analyze and administer data in complex, creative, and innovative ways. 
+ They help determine how data will be stored, consumed, integrated and managed. Most data architects have a bachelor's degree in computer science or information technology. While there are no certification requirements, earning the Certified Data Management Professional (CDMP) can help further your career. 
+ Actuary 
+ Actuaries incorporate various mathematical, statistical and historical data to determine the financial impact of risk to an individual or business. 
+ This process typically involves gathering and analyzing relevant data and figures, testing strategies to manage the economic impact of certain events, and providing information to clients. An undergraduate degree in mathematics, statistics, finance, economics or business is usually required, along with certification by either the Society of Actuaries (SOA) or the Casualty Actuarial Society (CAS). 
+ IT Program Manager 
+ Now that nearly every industry relies on IT, an IT program manager is an increasingly essential role. 
+ These professionals oversee a company's or organization's computer technology needs, and often supervise other workers in the IT department and assist with project management. Aspiring IT managers usually have at least a bachelor's degree in a computer-related field, although some entry-level positions only require an associate degree and some solid work experience. 
+ UX Manager 
+ A user-experience manager uses creativity and technical know-how to improve how a person interacts with computer programs and applications. 
+ They oversee the creation of computer interfaces, ensuring the look and feel allows for easy navigation and functionality. Most employers require a bachelor's degree in psychology, visual design, communications or computer science, as well as a solid understanding of coding languages and graphic programs like Flash, Photoshop, and Dreamweaver. 
+ Systems Architect 
+ System architects are crucial to the operation of computer systems. 
+ They install the hardware and software during the setup and maintenance of systems, and usually oversee a company's computer infrastructure. This often entails technical research and development, the introduction of new applications, cost analysis and various troubleshooting and diagnosis functions. Education requirements vary, but typically include at least at an associate's degree and a specialized certification. 
+ Plant Manager 
+ Plant managers are responsible for developing strategies to boost profits, while working directly with department heads to coordinate functions like purchasing, production and distribution operations. Other managerial duties include training supervisors and administrators, maintaining a production schedule, motivating staff and maintaining a safe work environment. 
+ Most plant manager positions require a graduate degree in business or technology management, although work experience is also crucial. 
+ Scrum Master 
+ At a time when most people complain that their workday is filled with useless meetings, a scrum master helps streamline the overall process, making it more efficient and productive. 
+ They guide and coach various team members to help everyone stay organized and on schedule. They also help team members recognize and solve any impediments in the overall work flow, and help build a supportive work environment where people can connect and flourish. There are no specific education requirements, although most scrum masters have at least a bachelor's degree and special certification. 
+ Financial Planning & Analysis Manager 
+ Financial planning and analysis managers work with economic analysts to oversee large-scale projects relating to a company's investments, accounting, and finance operations. 
+ They also present reports to committees and advise administrators concerning financial practices, as well as supervise investment and accounting departments. Most employers require a bachelor's degree in a field such as business administration, finance or economics. 
+ Nuclear Engineer 
+ Nuclear engineers research, design and develop the equipment and operating procedures used in nuclear power plants. 
+ Many also operate the machinery that monitors nuclear power and find industrial and medical uses for radioactive materials. Most entry-level nuclear engineering positions require a bachelor degree. More advanced positions require a master's degree or doctorate. Any engineer who works in the public sector must be licensed by the state. 
+ Attorney 
+ Attorneys practice law and advise clients in various legal matters. 
+ Attorneys interpret the law and can act as legal representatives for their clients and defend them in court. The role of the attorney varies greatly across legal jurisdictions. Aspiring attorneys must earn an undergraduate degree and a Juris Doctor (J.D.). All lawyers must pass their state's bar exam to practice. 

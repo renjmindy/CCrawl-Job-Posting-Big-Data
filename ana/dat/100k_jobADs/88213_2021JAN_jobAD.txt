@@ -1,0 +1,83 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Frontend Developer at Steadfast REMOTEPERMANENT 
+ Job Description 
+ What kind of  developer  are we looking for? 
+ A front-end developer with 3+ years experience in HTML, CSS, and JavaScript. As a custom shop, most projects require a variety of front-end technologies and skillsets. 
+ But, perhaps even more importantly, we’re a small and tight-knit team that values more than just a list of qualifications. If you care deeply about the quality of your work, enjoy cutting up with a great group of people, and are always looking for opportunities to grow and improve, we’d love to have you on board. 
+ At this time, we are only accepting US-based applicants. 
+ What are the day-to-day  responsibilities ? 
+ 
+ Develop responsive, cross-browser compatible websites 
+ Develop responsive email campaigns 
+ Abide by, evolve, and enforce code standards to help maintain a clean, consistent code base 
+ Consult with dev lead and design team to create and manage technical requirements 
+ Manage time and workload effectively; understand when and how to reach out for guidance 
+ Write relevant and thorough comments in code and in commits 
+ Launch and maintain existing websites 
+ Stay on top of industry trends and new web technologies 
+ 
+ What are the  skill requirements ? 
+ 
+ Deep expertise and knowledge in HTML5+, CSS3+, Vanilla JavaScript, and jQuery 
+ Ability to write semantic, accessible, and search-engine friendly code 
+ Cross browser, responsive, and mobile development skills 
+ Ability to work successfully in a team, independently, and take initiative on tasks 
+ Experience with Craft CMS or other CMS platform integration 
+ Basic knowledge of and ability to write PHP 
+ Basic understanding of server config/DNS for website management 
+ Knowledge of email development quirks and workarounds 
+ Basic understanding of UI/UX 
+ 
+ A few nice-to-haves... 
+ 
+ Experience with modern frameworks such as Vue or React 
+ Advanced PHP knowledge 
+ Experience with Git and version control 
+ Experience with NPM, Yarn, Babel, Webpack, etc. 
+ 
+ How to Apply 
+ Think you may be a good fit? We'd love to hear from you.  Apply here. 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Steadfast Design Firm 
+ 
+ __ 
+ 
+ Location:  Raleigh, NC 
+ 
+ __ 
+ 
+ Website:   https://steadfastdesignfirm.com 
+ __  Posted July 20, 2020 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

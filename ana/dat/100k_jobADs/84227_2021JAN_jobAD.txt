@@ -1,0 +1,101 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ DeansList (IK12) 
+ Enterprise SaaS software helping schools manage administrative and non-academic data, and improve parent engagement. 
+ Reporting and Data Associate 
+ 
+ Location 
+ New York / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About DeansList 
+ DeansList is the daily driver app that runs great K12 schools all over the U.S. We make it easy for schools to keep track of the data that matters,, distribute it across the school to all stakeholders, and communicate more frequently and more effectively with families. 
+ We focus specifically on the needs of students and families in underserved communities. Our feature set is designed to improve opportunities for students most affected by the achievement gap, areas like chronic absenteeism, family engagement, and social emotional skills. 
+ Our clients are innovative schools, mission-driven to closing the Achievement Gap, and DeansList is a key tool enabling them help students succeed. 
+ About the role 
+ At DeansList, we give educators the tools to collect data efficiently and use it effectively. We believe that access to data helps educators make informed decisions about how best to support students and that regularly providing families with information about student performance and progress opens lines of communication and builds trust. 
+ We are continuously refining and building reports to meet the needs of schools, and we are growing our reporting team to support this work. As DeansList’s Reporting and Data Associate, you’ll partner with schools as our resident data expert, building data literacy and translating ideas for reports into concrete specifications and designs. In addition to collaborating with educators, you’ll have the opportunity to develop your technical skills by building reports for schools using HTML, Javascript, and CSS. 
+ An ideal candidate is an enthusiastic, self-directed learner with excellent communication skills, strong attention to detail, empathy for and experience with K-12 educators, and an affinity for data, technology, and design. We’re looking for applicants who love talking to others about data as much as they love tinkering with it. By joining our reporting team now, you’ll help shape the way we support our educators and school leaders in their use of data. 
+ Responsibilities: 
+ 
+ Work directly school leaders to determine their data needs and identify reports that meet those needs 
+ Act as a first point of contact for reporting questions and report troubleshooting 
+ Translate report requests into clear specifications and design reports that delight our schools 
+ Manage the summer report development process during new school onboarding 
+ Develop data and report-focused training materials 
+ Work with schools to ensure that the reports they are sending effectively communicate the information they want to share 
+ Manage incoming report requests and advocate for ways in which we can provide schools with the most useful tools 
+ 📈 Build your technical and data skills 📊 There is enormous opportunity to build reports and tools within the DeansList ecosystem 
+ 
+ Requirements: 
+ 
+ Excellent communication skills, both verbal and written 
+ Strong organizational skills with the ability to manage multiple projects simultaneously 
+ Exceptional attention to detail and deduction to understanding the specifics of complex systems and requests 
+ High level of comfort with Google Docs and Google Sheets and interest in K-12 education data and visualization Love of learning new skills and technologies. 
+ 3-4 years of experience working in a K-12 educational institution OR experience working in a client-facing operations:/data-oriented role 
+ Familiarity with HTML and CSS basics and/or professional experience with other programming languages (e.g. R, Python, advanced Excel user) 
+ HTML basics 
+ CSS basics 
+ Most important: have a passion for improving education, empathy for educators, and a desire to create great reports and data tools that help schools be more effective 
+ Bonus: familiarity with Javascript, either through professional experience or coursework 
+ We value diversity of all kinds, and are committed to building a diverse and inclusive workplace where we learn from each other. We are an equal opportunity employer and welcome people of all backgrounds, experiences, abilities, and perspectives. 
+ 
+ Benefits: 
+ 
+ Health (fully covered), dental and vision insurance 
+ Flexible vacation policy 
+ 401k w/ matching contributions 
+ Paid family leave 
+ Short/long-term disability coverage 
+ Ongoing training and development 
+ 
+ Technology 
+ Architecture 
+ Our architecture is a mix of tried/tested technologies like PHP and more modern tools like GraphQL and React. Our core platform is a monolith that we're gradually breaking out into individual services. Some of our newer services run on Laravel/Lumen. We have REST and GraphQL APIs for both internal and client-facing use. 
+ Challenges We're Solving 
+ 
+ Our Analysis Tools suite is a world class business intelligence tool tuned specifically for education 
+ Our Messaging Center enables schools to communicate with families across voice, SMS and email - meeting parents at the medium that works for them 
+ Our integration layer makes it easy for us to connect to any third-party data provider via API or flat file 
+ Our internal report IDE lets schools build rich data-filled reports from scratch leveraging GraphQL, HTML and JavaScript 
+ 
+ Additional Technologies 
+ Ansible, ECS, Handlebars, Laravel/Lumen, GraphQL, MySQL, Node.JS, Puppeteer, React, React Native, Redis 
+ Other jobs at DeansList 
+ Senior Full Stack Engineer - Client Facing 
+ fulltime 
+ New York/Remote / Remote 
+ Full Stack 
+ $115k - $140k 
+ 0.10% - 0.30% 
+ 3+ years 
+ Director of School Success 
+ fulltime 
+ New York / Remote 
+ 3+ years 
+ Senior Mobile Developer (React Native) 
+ fulltime 
+ New York / Remote 
+ Frontend 
+ 3+ years 
+ Reporting and Data Associate 
+ fulltime 
+ New York / Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

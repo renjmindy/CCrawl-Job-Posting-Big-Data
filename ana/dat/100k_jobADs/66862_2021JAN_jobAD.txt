@@ -1,0 +1,180 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Data Automation Engineer 
+ [ 
+ ezyVet 
+ ](/companies/ezyvet) 
+ London, United Kingdom 
+ 20 August, 2020 
+ Apply 
+ More jobs from ezyVet About ezyVet 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ C# 
+ Data Engineering 
+ JIRA 
+ MySQL 
+ PHP 
+ Python 
+ Slack 
+ databases 
+ confluence 
+ 
+ Benefits & perks 
+ 
+ Pension contributions 
+ 
+ Automate the most painful part of our client on boarding process, the conversion of their existing data 
+ Role overview 
+ We have a bucket load of customers who all want our product yesterday. Good challenge to have right, only we can’t convert all that data at a pace that our sales and implementation teams need it.​ 
+ Our Solution, build the tools for non technical people to drive it and focus efforts on the cool stuff..data lakes, analytics, bench marking etc. All based on AWS, step functions, EC2, RDS all controlled with Terraform. 
+ Here's the pitch: 
+ We're looking for a Senior Data Automation Engineer to spearhead the London team and partner with the the Auckland leadership group. Its a pivotal role that will help drive our future data strategies and grow our capacity to offer more value added services to our customers. 
+ A month ago our global data team was 8 strong. During July we landed another 4 and now we're on the hunt for 5 more - by the end of August too! 
+ We want to automate the most painful part of our client on boarding process, the conversion of their existing data. We have a lot of tooling here already but we are looking to really dial this in and take it to the next level (i.e. have it so rock solid non technical people can drive it). We are also going to have the data team working on lots of other cool stuff, data lakes, analytics, bench marking etc. All based on AWS, step functions, EC2, RDS all controlled with Terraform. Check out what  Matt our Senior Platform Architect  has to say about this space. 
+ Our current process: 
+ We regularly build for new source practice management software (PMS) and DB architectures – working across  69+ custom scripts and operating on 40+ different db architectures. 
+ Extract – we have an app built in C# used to extract from the large number of scripts (> 45) the tools are designed to convert the source system into MySQL in raw format (i.e. what the data looked like in their MSSQL system) 
+ Transform - PHP Data Conversion Script – core framework built to ‘standardise’ the conversion process, and components added custom to the script we’re converting from 
+ Load – data piped up to production databases via an automated linux script 
+ What you'll bring: 
+ 
+ A hunger and excitement to lead, build, teach, learn and adapt 
+ A development background with senior level database skills - potentially you're SRE and/or Devops focused. 
+ Experienced with setting up a range tooling for automation 
+ Expert knowledge of data modelling with large and varied data sets 
+ Meticulous desire for performant code & tooling 
+ Data testing, automated testing tools is a must 
+ You read data models and comprehend database structures and relationships like Reddit threads. 
+ Super strong computer skills and technical nous 
+ Driven by initiative - performance orientated, multi-tasker and assertive when driven to action 
+ 
+ Ideally you have experience in: 
+ 
+ Leading, building and coaching data teams 
+ AWS, C#, PHP, MySQL, Python, Jira, Grafana, Confluence, Slack 
+ Data science & automation, machine learning & AI 
+ 
+ Our London team is pretty small right now but we have big company growth goals and there’s lots of room for learning as we move from data engineering to automation engineering. We want more talented engineers/developers who code but love to play with data and wrangle technology to build efficient, and wherever possible, automated tools & processes. We're looking for energy and enthusiasm, people who can hit the ground running and love the thrill of a gnarly challenge. 
+ 
+ [ 
+ ezyVet 
+ ](/companies/ezyvet) 
+ 
+ 50-249 
+ 
+ With a little kiwi ingenuity and a lot of passion, ezyVet came into existence. A cloud-based, feature rich software solution for Veterinary Practices all around the world. ezyVet is quietly disrupting the global veterinary industry. With customers in over 20 countries, 140+ staff across offices in London, Dallas and Auckland, there’s no better time than now to join the ezyVet journey. 
+ Technology Private AWS EC2 JIRA Object-Oriented Programming Pension Contributions 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from ezyVet About ezyVet 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ C# 
+ Data Engineering 
+ JIRA 
+ MySQL 
+ PHP 
+ Python 
+ Slack 
+ databases 
+ confluence 
+ 
+ Benefits & perks 
+ 
+ Pension contributions 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Data Engineer CompetitiveGeminiNew York, NY, US 
+ Help us build the future of money 
+ data engineering kafka python 
+ More Info Apply 
+ Lead EngineerCompetitiveGoustoLondon, United Kingdom 
+ Gousto are on a mission to become the UK's favourite way to eat dinner! 
+ aws node.js python react 
+ More Info Apply 
+ Software Engineer$43K - 90K + EquityReap TechnologiesHong Kong, Hong Kong 
+ Full-Stack Software Engineer 
+ Sponsorship 
+ aws flask python react 
+ More Info Apply 
+ Senior Data Automation Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

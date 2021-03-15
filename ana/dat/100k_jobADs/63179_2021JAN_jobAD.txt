@@ -1,0 +1,298 @@
+Skip to main content 
+ Javascript is disabled on your browser. In order to display this website properly, please enable javascript. 
+  Workiva Workiva.com  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Partners 
+ Connectors 
+ Security 
+ 
+ 
+ Solutions 
+ 
+ Capital Market Transactions 
+ Internal Audit Management 
+ Management Reporting 
+ SEC Reporting 
+ SOX Compliance 
+ Statutory Reporting 
+ + 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ Industries 
+ 
+ Banking 
+ Energy and Utilities 
+ Government 
+ Higher Education 
+ Insurance 
+ Investments 
+ + 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Customers 
+ The nicest thing about the Workiva platform is just feeling in control. 
+ ](/customers) 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Education 
+ 
+ Community 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Off the Books Podcast 
+ Surfing the uncharted waters of accounting, finance, and wherever else the waves take us. 
+ ](/off-the-books-podcast) 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Request Demo 
+ 
+ 
+ Sign In 
+ 
+ 
+ Menu 
+ DSM Hack 2018 - My Experience 
+ May 14, 2018 
+ Charlie Strawn 
+ Workiva recently helped sponsor a charity event called  dsmHack . At 5:00 p.m. on March 22, 10 nonprofits each took to the podium to pitch their technical needs to a packed room of developers, designers, and delivery managers, all ready to volunteer their time and tech skills for the next 48 hours. It was both fun and fulfilling, and we would like to tell you a little bit about our team's experience—what we made and how we pulled it off. 
+ After the pitches, volunteers were encouraged to walk around and ask more questions—speed-dating fashion—to find a nonprofit that we wanted to hack with. The needs of the organizations ranged anywhere from website modernization, to automating manual processes, to building full-blown apps. 
+ I had the pleasure of working with  Bidwell Riverside Center  alongside a former colleague and five fellow Workivans. Everyone built and demoed some really cool projects that I don’t want to discount, but in this post I’m going to focus on my Bidwell team. 
+ Bidwell Riverside Center operates the largest food pantry in Iowa. They also provide clothing and daycare services for families in need. During Bidwell’s pitch, their representative, Missy Reams, informed us that they have very limited physical space, and when people need to come in to get food, they have no way of knowing how busy the pantry is. This resulted in long lines where people would have to wait outside in potentially inclement weather. Occasionally, this would result in altercations or people just deciding to leave and go hungry. Missy said something that really stuck with me during her pitch, “No one comes to Bidwell because they’re having a great day.” 
+ Missy had an idea for an app similar to Great Clips, where users see a map view with pins for locations and approximate wait times. She mentioned a program that rolled out earlier this year that gives needy families access to smartphones, so the idea of having an app they could check to see if Bidwell was busy seemed like a great solution. The prospect of working on a mobile app excited us, but as we asked questions and mapped out the problem and their current processes, a much simpler solution presented itself. 
+ What if visitors could text a number and find out if there was currently any wait at the pantry? To do that, we would have had to hook into the software that they use to check-in visitors when they arrive. Missy informed us that the software they used was called LobbyCentral, and that it costs $60 per month and includes more features than they need. 
+ We decided to tackle replacing their check-in system with a web application that handled only their basic needs. 
+ The team wanted to use serverless technology, so Bidwell would have minimal operations overhead. We landed on  Google Firebase  because their usage would likely not exceed the free tier. We were able to get the check-in page (pictured below) prototyped pretty quickly using the Workiva open source  over_react  project. 
+ After authenticating, a volunteer at Bidwell can begin admitting people. As they are admitted, they are checked in and provide information on household size and the number of people who will be going back to get food. Checking someone in calculates an estimated wait time based on the data provided, adds that wait time to the current estimated wait, and then writes that to Firebase Storage. The estimated wait time can then be viewed by stakeholders interested in Bidwell’s services by visiting a public facing website,  https://app.bidwellriverside.org/  , which we linked to from their main website. 
+ As indicated on the page above, participants can also text "wait" or even call Bidwell’s phone number. We used an API provided by  Twilio  to accomplish this. When their Twilio phone number receives an SMS message or voice call, a webhook is triggered. That calls Firebase Function that reads the estimated wait time from Firebase Storage. When the Firebase Function returns, it instructs Twilio to respond with an SMS message or answer the call and give the wait time. 
+ After this was mostly operational, we set up automated deploys to Google Firebase using TravisCI to streamline our app and function deployments. Travis runs a build on every branch/commit, but when a commit is merged to master on Github, Travis will run a firebase deploy. The code for the entire thing is also public on github and can be viewed here for those interested. Be gentle—we had a tight schedule to work with. 
+ Saturday evening the team demoed a fully functioning check-in app. It was live streamed on Facebook, and the video can be found  here . We checked in some fake families, and then watched as the estimated wait time updated. We used the Messages app on macOS to text Bidwell’s number and promptly received a response message. Next we called their number and a friendly robot voice answered, “Thank you for calling Bidwell Riverside Center. The estimated wait time is 32 minutes. Have a nice day.” Finally, we showed off the reports page that contained the aggregate data broken down by hourly check-ins, which will assist in making more accurate volunteer staffing decisions. 
+ I cannot understate how grateful Bidwell was for our work and how incredibly rewarding it was to see their excitement. After the demo, they informed us that they intended to roll out the software the following Monday, and in fact, they used it all week! 
+ Giving Back 
+ 
+ Most Popular 
+ Takeaways from Five Dysfunctions of a Team Training 
+ Workiva One of Fortune Magazine’s 100 Best Companies to Work For 
+ Insight into the role of a manager: asking questions 
+ Popular Categories 
+ Giving Back 
+ Culture 
+ Communication 
+ Leadership 
+ Charlie Strawn 
+ _ 
+ Software Engineer 
+ _ Workiva 
+ About the Author 
+ Charlie is a Software Engineer at Workiva working on the Infrastructure and Reliability team. When he’s not working on Workiva’s micro services platform, he enjoys messing around with new technology and playing with his yellow lab Jake. 
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Connectors 
+ Partners 
+ Security 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Support 
+ 
+ Community 
+ Customer Support 
+ Developers 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Locations 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Twitter 
+ 
+ 
+ YouTube 
+ 
+ 
+ Select Region 
+ 
+ 
+ 
+ 
+ Legal 
+ Privacy Policy 
+ Sitemap 
+ 
+ (C)2021 Workiva 
+ 2900 University Blvd 
+Ames, IA 50010 
+  AICPA  
+ 
+ __ 
+ In the meantime, visit the resources below. 
+ [ 
+ Handbook: Surviving the New Normal 
+ ](/new-normal) 
+ [ 
+ How Sysco and Blackbaud kept business as usual 
+ ](/resources/how-sysco-and-blackbaud-kept-business-usual) 
+ [ 
+ Connected Reporting and Compliance Brochure 
+ ](/resources/connected-reporting-and-compliance-brochure) 
+ Select Region 
+ 
+ Australia 
+ France 
+ Germany 
+ Netherlands 
+ Singapore 
+ United Kingdom 
+ United States 
+ 
+ Online registration is currently unavailable. 
+ Please email  events@workiva  to register for this event. 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Thank you 
+ A Workiva team member will follow up with you shortly. 
+ Thank you for registering 
+ You'll receive a confirmation email shortly. 
+ Thank you 
+ You are now subscribed to receive blog updates. 
+ Thank you 
+ Your preferences have been updated. 

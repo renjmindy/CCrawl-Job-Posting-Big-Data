@@ -1,0 +1,6 @@
+ Qualifications *BS/MS in Computer Science or related field with a strong programming background. *At least 3 years of experience shipping enterprise-grade software. *Proficiency in systems programming (C/C++), especially multi-threading, concurrency, operating systems fundamentals such as CPU scheduling, memory management etc. *Strong understanding of computer networks and related technologies, such as HTTP, WebSockets, bandwidth optimization etc. *Strong desire to solve challenging problems, learn new things and wear many hats as part of an early stage company. 
+ Our benefits include: 
+ Market-competitive salary plus equity 
+ Medical, dental, vision insurance 
+ Generous Paid Time Off 
+ Catered lunches (3 days/week) 

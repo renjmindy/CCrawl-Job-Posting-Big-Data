@@ -1,0 +1,171 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ SENIOR SOFTWARE TEST ENGINEER 
+ Rockwell Automation 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ SENIOR SOFTWARE TEST ENGINEER 
+ Rockwell Automation 
+ [](mailto:?subject=SENIOR%20SOFTWARE%20TEST%20ENGINEER&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14173345/senior-software-test-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 5, 2020 
+ Location: 
+ Katowice, Poland 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Position Summary 
+As a Senior Software Engineer Test for Rockwell Automation, you will have the opportunity to develop industry-leading PanelView 5000 family of operator terminals and Studio 5000 Design Software. PanelView 5500 with Studio 5000 Designer help build modern applications more easily and improve operator performance with an intuitive design environment. You will be responsible for performing software testing tasks including, but not limited to, test design, development, planning, scheduling, and execution. 
+ Essential Functions 
+ 
+ Developing automated tests in Python, Squish 
+ Designing, creating, executing and maintaining tests 
+ Participating in reviews of documents, designs, test cases 
+ Monitoring automated tests results and reporting software defects 
+ Developing test documentation required by software development process 
+ Making sure that team's automated tests have appropriate coverage and are developed in time and scope to verify quality of added and changed product functions 
+ Supporting team's CI environment and approach by maintaining tests up to date, executing them frequently and reporting results to agreed stakeholders 
+ Supporting the team in functional and system requirements analysis required to design and verify added and changed functionality 
+ Monitoring and evaluating testing process adopted by the team and report any inefficiencies to agreed stakeholders 
+ Facilitating effective communication both within local team as well as with remote stakeholders 
+ 
+ 
+ 
+ Internal Number: 2704022 
+  __  Create a Job Alert for Similar Jobs  
+ About Rockwell Automation 
+ When you choose Rockwell Automation, you join countless talented employees who have helped us establish our leadership position in the automation industry over the past century. You join a diverse, inclusive and global community with a passion for innovation. A place where you can partner with great minds and inspiring people. And a corporation backed by the financial strength that drives growth – and career opportunities. As much as we focus on our customers, we know our employees are key to our success and future. Helping you develop a rewarding career is a top priority. Because when you succeed, we succeed. 
+ Connections working at Rockwell Automation 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Transmission Engineer III or Senior 
+ __  Moore, Oklahoma 
+ 
+ 
+ 
+ 
+ WFEC 
+ __3 Days Ago 
+ 
+ 
+ Senior Data Engineer 
+ __  Nationwide 
+ 
+ 
+ Capital Group 
+ __Today 
+ 
+ 
+ VP Python Software Engineer - Currencies & Emerging Markets - CIB Markets Technology - London 
+ __  London, United Kingdom 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

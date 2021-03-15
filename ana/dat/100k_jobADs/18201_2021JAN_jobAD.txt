@@ -1,0 +1,149 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Research Associate / Post-Doctoral Associate under Division of Engineering (Electrical and Computer Engineering) - Prof. Dr. Muhammad Shafique's group (The eBRAIN Lab for wearable embedded healthcare 
+ New York University 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Research Associate / Post-Doctoral Associate under Division of Engineering (Electrical and Computer Engineering) - Prof. Dr. Muhammad Shafique's group (The eBRAIN Lab for wearable embedded healthcare 
+ New York University 
+ [](mailto:?subject=Research%20Associate%20%2F%20Post%2DDoctoral%20Associate%20under%20Division%20of%20Engineering%20%28Electrical%20and%20Computer%20Engineering%29%20%2D%20Prof%2E%20Dr%2E%20Muhammad%20Shafique%27s%20group%20%28The%20eBRAIN%20Lab%20for%20wearable%20embedded%20healthcare%20&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14271601/research-associate-post-doctoral-associate-under-division-of-engineering-electrical-and-computer-engineering-prof-dr-muhammad-shafique-s-group-the-ebrain-lab-for-wearable-embedded-healthcare/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 6, 2021 
+ Location: 
+ Abu Dhabi, United Arab Emirates 
+ __ Show Map 
+ Salary: 
+ Open 
+ The  eBRAIN  laboratory in the Division of Engineering at New York University Abu Dhabi invites applications for a Research Associate / Postdoctoral Associate, to work in the area of energy-efficient wearable embedded healthcare systems for IoT-Edge, with a focus on predictive learning, continual learning, and time-series analysis, and their ultra low-power hardware implementations. 
+ The focus of the  eBRAIN  lab is on building energy-efficient and robust brain-inspired, autonomous, and cognitive systems through cross-layer analysis and design methods, engaging hardware, software, and system level techniques synergistically. Prof. Shafique's lab has many-years of R&D; experience in cross-layer design and optimization for building energy-efficient and robust AI and vision systems, including efficient learning and inference of complex AI/ML algorithms, specialized neural processing hardware and design tools, and machine learning security, and their applications in resource-constrained embedded AI systems like autonomous vehicles, UAVs, Robotics, and Wearable Healthcare. The long-term vision of the  eBRAIN  lab is on embedding an energy-efficient and secure electronic brain inside modern cyber-physical systems (CPS) and IoT-Edge devices to enable assistive cognitive technologies that care for / serve humanity and the ecosystem in a safe and green way. 
+ The successful applicant will join and drive a number of fascinating projects on designing, optimizing, prototyping and testing embedded wearable healthcare devices, targeting extreme energy-efficiency, robustness, and online/temporal learning. Some example tasks would be investigation and development of compact machine learning models for short-term and long-term predictions, mapping them on embedded GPUs, specialized hardware accelerators for wearables, full-system design with heterogeneous sensors, system/device design and manufacturing (e.g., using 3D-printing and lithography), design for ultra low-power, security and privacy for wearables. These projects have a great potential for devising innovative methods to enable next-generation embedded IoT-Healthcare systems and assistive wearables with non-invasive health monitoring and control. 
+ The candidate will work in a multidisciplinary environment consisting of PhD-level scientists, graduate students and undergraduate students, to investigate cutting-edge scientific methods and to develop full-system prototypes. The  eBRAIN  lab offers an excellent working environment in an international team with many development possibilities. The candidate is expected to work in a highly collaborative environment with other lab members and industry collaborators. The candidate will also contribute to Prof. Shafique's international collaborative R&D; projects (e.g., the on-going EU research project titled "Moore4Medical"). 
+ Requirements:  Applicants should have a PhD in Electrical Engineering, Computer Engineering, Computer Science, or a related field. Extensive knowledge of wearables, machine learning, artificial intelligence, deep neural networks, ML frameworks (like PyTorch and Tensorflow), energy-efficient computing, system-level design and optimization, and hardware design skills (FPGA and/or ASIC) is required. Additional knowledge of statistics, DNN optimization (like pruning and quantization), PCB design, wearable prototyping, and bio-medical devices is highly desirable. 
+ Applicants with previous publications at top/A* venues (conferences and journals) of these fields are highly preferred. The applicants are also expected to have strong organization, problem-solving, analytical, communication and writing skills as well as high motivation to pursue world-class research. 
+ Application Procedure:  The terms of employment are very competitive and include housing and educational subsidies for children.  Applications will be accepted immediately and candidates will be considered until the position is filled.  To be considered, all applicants must submit the following documents, all in PDF format. 
+ 
+ A cover letter 
+ Detailed curriculum vitae (CV) with R&D; and programming skillset 
+ Full list of publications 
+ University degrees and transcripts, or a letter from supervisor/university officials regarding tentative completion date 
+ 1-page summary of research accomplishments and interests 
+ 1-page letter of motivation 
+ At least 2 letters of recommendation with contact information of the referees 
+ Research statement with an envisioned workplan over 2 years 
+ 1 page executive summaries of Master and PhD Theses 
+ Download links for the PDFs of Master and PhD Theses 
+ 
+ Please visit our website at  http://nyuad.nyu.edu/en/about/careers/faculty-positions.html  for instructions and information on how to apply. If you have any questions, please email Prof. Muhammad Shafique at  muhammad.shafique@nyu.edu . 
+ About NYUAD: 
+ NYU Abu Dhabi is a degree-granting research university with a fully integrated liberal arts and science undergraduate program in the Arts, Sciences, Social Sciences, Humanities, and Engineering. NYU Abu Dhabi, NYU New York, and NYU Shanghai, form the backbone of NYU's global network university, an interconnected network of portal campuses and academic centers across six continents that enable seamless international mobility of students and faculty in their pursuit of academic and scholarly activity. This global university represents a transformative shift in higher education, one in which the intellectual and creative endeavors of academia are shaped and examined through an international and multicultural perspective. As a major intellectual hub at the crossroads of the Arab world, NYUAD serves as a center for scholarly thought, advanced research, knowledge creation, and sharing, through its academic, research, and creative activities. 
+ UAE Nationals are encouraged to apply. 
+ 
+ This position is not located in the United States. You must be willing to relocate to Abu Dhabi, United Arab Emirates. 
+ For people in the EU, click here for information on your privacy rights under GDPR:   www.nyu.edu/it/gdpr 
+ NYU is an equal opportunity employer committed to equity, diversity, and social inclusion. 
+ 
+ Internal Number: 82459 
+  __  Create a Job Alert for Similar Jobs  
+ About New York University 
+ Founded in 1831, New York University is now one of the largest private universities in the United States. Of the more than 3,000 colleges and universities in America, New York University is one of only 60 member institutions of the distinguished Association of American Universities. 
+ Connections working at New York University 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

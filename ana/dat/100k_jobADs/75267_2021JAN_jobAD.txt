@@ -1,0 +1,234 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Advanced Quantum Testbed Project Scientist 
+ Lawrence Berkeley National Laboratory 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Advanced Quantum Testbed Project Scientist 
+ Lawrence Berkeley National Laboratory 
+ [](mailto:?subject=Advanced%20Quantum%20Testbed%20Project%20Scientist&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14077517/advanced-quantum-testbed-project-scientist/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ November 6, 2020 
+ Location: 
+ Berkeley, United States 
+ __ Show Map 
+ Salary: 
+ Open 
+ Berkeley Lab's Computational Research Division (CRD) has an Advanced Quantum Testbed Research Scientist position to join its Advanced Quantum Testbed (AQT) effort. 
+ The AQT program is focused on constructing, enhancing, operating, and maintaining an open, fully accessible gate-based quantum computer. Our technology platform is based on superconducting quantum circuit processors, and we aim to generate the detailed experimental findings needed to resolve foundational questions in quantum information science, and to guide near-term hardware and algorithm co-design. 
+ What You Will Do: 
+ 
+ 
+ Specialized research in conception and execution of quantum algorithms on superconducting hardware. 
+ 
+ 
+ Design and conduct state-of-the-art experiments such as superconducting quantum processors and/or theory in quantum information science. 
+ 
+ 
+ Troubleshoot noise processes on quantum hardware and design and implement mitigation strategies. 
+ 
+ 
+ Deploy high-speed, low-latency data acquisition hardware. 
+ 
+ 
+ Validate, analyze, and interpret experimental data. 
+ 
+ 
+ Develop algorithms for near-term hardware based on critical evaluation of the literature, and original thinking. 
+ 
+ 
+ Design quantum simulations for physics, chemistry, and computer science. 
+ 
+ 
+ Design, fabricate & test high-speed cryogenic and room temperature classical control electronics. 
+ 
+ 
+ Firmware development & programing tools to interface with FPGA-based electronics. 
+ 
+ 
+ Quantum verification and validation. 
+ 
+ 
+ Shallow circuit algorithm development and optimization. 
+ 
+ 
+ Additional Responsibilities as needed: 
+ 
+ 
+ Fabricate, characterize, and test superconducting circuits. 
+ 
+ 
+ Supervise group post-doctoral candidates and graduate students. 
+ 
+ 
+ What is Required: 
+ 
+ 
+ Ph.D. degree in physics, applied physics, electrical engineering, or a related field. 
+ 
+ 
+ Five or more years relevant experience. 
+ 
+ 
+ Knowledge of quantum information science related to one or more of the responsibilities/research areas listed above. 
+ 
+ 
+ Independently plan and complete projects. 
+ 
+ 
+ Relevant publication record and demonstration of proficient written and oral presentation of scientific results. 
+ 
+ 
+ Ability to direct the work of technical support staff or students. 
+ 
+ 
+ Desired Qualifications: 
+ 
+ 
+ Ability to prepare periodic updates (written and oral) for internal and external reviews or reports. 
+ 
+ 
+ Experience operating and maintaining a dilution refrigerator. 
+ 
+ 
+ Experience using Python based programming tools. 
+ 
+ 
+ Notes: 
+ 
+ 
+ This is a full-time 1 year, term appointment that may be renewed to a maximum of five years. 
+ 
+ 
+ This position may be subject to a background check. Any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position. Having a conviction history will not automatically disqualify an applicant from being considered for employment. 
+ 
+ 
+ Work will be primarily performed at Lawrence Berkeley National Lab, 1 Cyclotron Road, Berkeley, CA. 
+ 
+ 
+ Equal Employment Opportunity: Berkeley Lab is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. Berkeley Lab is in compliance with the  Pay Transparency Nondiscrimination Provision  under 41 CFR 60-1.4. Click  here  to view the poster and supplement: "Equal Employment Opportunity is the Law." 
+ Lawrence Berkeley National Laboratory encourages applications from women, minorities, veterans, and other underrepresented groups presently considering scientific research careers. 
+ 
+ 
+ Internal Number: 91459 
+  __  Create a Job Alert for Similar Jobs  
+ About Lawrence Berkeley National Laboratory 
+ In the world of science, Lawrence Berkeley National Laboratory (Berkeley Lab) is synonymous with excellence. Thirteen scientists associated with Berkeley Lab have won the Nobel Prize. Fifty-seven Lab scientists are members of the National Academy of Sciences (NAS), one of the highest honors for a scientist in the United States. Thirteen of our scientists have won the National Medal of Science, our nation's highest award for lifetime achievement in fields of scientific research. Eighteen of our engineers have been elected to the National Academy of Engineering, and three of our scientists have been elected into the Institute of Medicine. In addition, Berkeley Lab has trained thousands of university science and engineering students who are advancing technological innovations across the nation and around the world. Berkeley Lab is a member of the national laboratory system supported by the U.S. Department of Energy through its Office of Science. It is managed by the University of California (UC) and is charged with conducting unclassified research across a wide range of scientific disciplines. Located on a 200-acre site in the hills above the UC Berkeley campus that offers spectacular... views of the San Francisco Bay, Berkeley Lab employs approximately 4,200 scientists, engineers, support staff and students. Its budget for 2011 is $735 million, with an additional $101 million in funding from the American Recovery and Reinvestment Act, for a total of $836 million. A recent study estimates the Laboratory's overall economic impact through direct, indirect and induced spending on the nine counties that make up the San Francisco Bay Area to be nearly $700 million annually. The Lab was also responsible for creating 5,600 jobs locally and 12,000 nationally. The overall economic impact on the national economy is estimated at $1.6 billion a year. Technologies developed at Berkeley Lab have generated billions of dollars in revenues, and thousands of jobs. Savings as a result of Berkeley Lab developments in lighting and windows, and other energy-efficient technologies, have also been in the billions of dollars. Berkeley Lab was founded in 1931 by Ernest Orlando Lawrence, a UC Berkeley physicist who won the 1939 Nobel Prize in physics for his invention of the cyclotron, a circular particle accelerator that opened the door to high-energy physics. It was Lawrence's belief that scientific research is best done through teams of individuals with different fields of expertise, working together. His teamwork concept is a Berkeley Lab legacy that continues today. 
+ Show more 
+ Show less 
+ Connections working at Lawrence Berkeley National Laboratory 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Quantum Hardware Scientist 
+ __  Berkeley, 
+ 
+ 
+ 
+ 
+ Lawrence Berkeley National Laboratory 
+ __2 Months Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

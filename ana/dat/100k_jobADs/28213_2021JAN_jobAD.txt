@@ -1,0 +1,91 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Back-End PHP & DevOps Engineer (d/f/m) LOCALPERMANENT 
+ Job Description 
+ About MYMY catering 
+ We are building the first global and singular catering brand for every occasion, everywhere. 
+ Founded in Berlin, active in Germany, Austria and the Netherlands, this business has raised millions from reputable investors to date and is on the cusp of a broad international expansion. Currently with more than 20 employees, we are on the lookout for talented individuals to construct the foundations and continuous accelerate the growth of the business in volume, quality and innovation. 
+ We aspire to a culture defined by humility, integrity, empathy, trust and an appetite for excellence - starting, growing and scaling a business can be stressful, especially in the food space! However, when accompanied by smart, positive and genuinely ‘good’ people, it makes for a phenomenal journey ahead and great opportunity to learn. If you want to learn more about our ambitions and values, feel free to have a look at our  Culture Deck. 
+ Once here, you will be... 
+ 
+ doing back-end development (PHP & Twig/HTML) within our Craft CMS setup (built on the Yii 2 framework). 
+ creating and maintaining custom features for our site as well as building integrations with other systems/APIs. 
+ improving our build tools and deployment systems to ensure best practices and optimal delivery of code with zero downtime. 
+ managing any needed database customisation using MySQL. 
+ 
+ What you will bring along... 
+ 
+ 7+ years experience in web development using PHP 
+ MySQL 
+ Nginx (and/or Caddy) 
+ Docker 
+ JS ES6 
+ Git/Git workflow 
+ AWS 
+ Integrating with REST APIs 
+ Ideally experience with Yii 2, Twig, Webpack and SCSS. 
+ Ideally experience with Craft CMS, Craft Commerce, Vue.js. 
+ A team-oriented mindset that is more interested in doing things the right way instead of the easiest way. 
+ Positive, solution-driven mindset and ability to collaborate with others and brainstorm ideas 
+ Fluent English language skills 
+ 
+ What we offer… 
+ 
+ Competitive remuneration, with room for growth 
+ Diverse and international environment in the heart of Berlin 
+ Autonomy and responsibility, surrounded by caring and talented peers 
+ Flexible dog policy, lots of coffee, and plenty of opportunities to celebrate! 
+ 
+ How to Apply 
+ Sound good? Apply via our career site  and we’ll get back to you soon! 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  MYMY catering 
+ 
+ __ 
+ 
+ Location:  Berlin, Germany 
+ 
+ __ 
+ 
+ Phone Number:   +4915162818727 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   www.mymycatering.com 
+ __  Posted March 3, 2020 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

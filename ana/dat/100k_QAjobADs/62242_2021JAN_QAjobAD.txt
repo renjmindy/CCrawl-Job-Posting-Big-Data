@@ -1,0 +1,12 @@
+ Basic Qualifications 
+ BS, MS, or PhD in Computer Science or equivalent work experience (5+ years) 
+ 3+ years of relevant industry experience 
+ Experience with the  JVM  and the  Scala  ecosystem (Akka, Akka-HTTP, Slick and/or other Scala libraries) 
+ Experience working with high scale systems 
+ Experience with low latency systems - understanding how network calls, tcp sockets, and data center locations affect API latency 
+ Bonus Qualifications 
+ Familiarity with Amazon Web Services (AWS) 
+ Experience designing RESTful APIs 
+ Start-up experience 
+ [ 
+ Giphy 

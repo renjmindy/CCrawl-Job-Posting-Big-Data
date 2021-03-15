@@ -1,0 +1,334 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ 
+ Freelance Jobs from Spain 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelancers from  Spain 
+ ](https://www.workana.com/freelancers/spain) 
+ Yesterday 
+ I have a logo .png - need to reformat it 
+ Published: Yesterday  Deadline: 3 Bids: 18 
+ Hi there, I have .png logo. 
+ I need this to be formatted into .svg, also invert the colour of it since the background in which it will be sitting on a dark background. 
+ Category  : Design & Multimedia 
+ Subcategory  : Logo design 
+ What do you need?  : Change an existing logo 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Logo type  : Abstract (A logo featuring an abstract wordmark or logomark) 
+ Published by:  G. I. N. S. Spain 
+ Less than USD 50 
+ 2 days ago 
+ Prestashop Website goes down 
+ Published: 2 days ago  Bids: 0 
+ I've got the following error message: 
+[Wed Jan 20 11:40:10.198503 2021] [fcgid:warn] [pid 20386:tid 139744044369664] [client 69.162.124.234:59732] mod_fcgid: stderr: PHP Fatal error: Uncaught PrestaShop\\PrestaShop\\Core\\Localization\\Exception\\LocalizationException: Unknown locale code: es-ES in /var/www/vhosts/ tecsostenible.com/shop.tecsostenible.com/src/Core/Localization/Currency.php:185 , referer:  https://tecsostenible.com 
+[Wed Jan 20 11:40:10.198543 2021] [fcgid:warn] [pid 20386:tid 139744044369664] [client 69.162.124.234:59732] mod_fcgid: stderr: Stack trace:, referer:  https://tecsostenible.com 
+[Wed Jan 20 11:40:10.198552 2021] [fcgid:warn] [pid 20386:tid 139744044369664] [client 69.162.124.234:59732] mod_fcgid: stderr: #0 /var/www/vhosts/ tecsostenible.com/shop.tecsostenible.com/src/Core/Localization/Specification/Factory.php(121):  PrestaShop\\PrestaShop\\Core\\Localization\\Currency->getSymbol('es-ES'), referer:  https://tecsostenible.com 
+ [Wed Jan 20 11:40:10.198560 2021] [fcgid:warn] [pid 20386:tid 139744044369664] [client 69.162.124.234:59732] mod_fcgid: stderr: #1 /var/www/vhosts/ tecsostenible.com/shop.tecsostenible.com/src/Core/Localization/Locale/Repository.php(218):  PrestaShop\\PrestaShop\\Core\\Localization\\Specification\\Factory->buildPriceSpecification('es-ES', Object(PrestaShop\\PrestaShop\\Core\\Localization\\CLDR\\Locale), Object(PrestaShop\\PrestaShop\\Core\\Localization\\Currency), true, 'symbol', 0), referer:  https://tecsostenible.com 
+[Wed Jan 20 11:40:10.198582 2021] [fcgid:warn] [pid 20386:tid 139744044369664] [client 69.162.124.234:59732] mod_fcgid: stderr: #2 /var/www/vhosts/ tecsostenible.com/shop.tecsostenible.com/src/Core/Localization/Locale/Repository.php(150):  PrestaShop\\PrestaShop\\Core\\Localization\\Locale\\Repository->getPriceSpecifications('es-ES'), referer:  https://tecsostenible.com 
+[Wed Jan 20 11:40:10.198589 2021] [fcgid:warn] [pid 20386:tid 139744044369664] [client 69.162.124.234:59732] mod_fcgid: stderr: #3 /var/www/vhosts/ tecsostenible.com/shop.tecsostenible.com/classes/control  in /var/www/vhosts/ tecsostenible.com/shop.tecsostenible.com/src/Core/Localization/Currency.php  on line 185, referer:  https://tecsostenible.com 
+ It happened yesterday and we recover a 24. Hrs old backup. We had the problem again and today we did the recovery of Jan 14 so we have 6 days to fix the problem. 
+ Can you help? 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  D. P. Spain 
+ USD 100 - 250 
+ 3 days ago 
+ Arquitecto Salesforce 
+ Published: 3 days ago  Bids: 2 
+ Teralco Group is a spanish company dedicated to Software development. At Teralco Group, we do more than develop great software. Our processes, our culture, our work ethic—they all aim toward a single goal: exceed customer expectations. 
+ We are now looking for a fulltime Salesforce Architect with experience in ecommerce B2C for a project with one of our main customers. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  C. O. Last reply: 2 days ago  Spain 
+ USD 250 - 500 
+ 3 days ago 
+ Multiplatform React Game 
+ Published: 3 days ago  Deadline: 11 Bids: 2 
+ Match 4 game with intensive use of multimedia that will challenge players to find relationships in a relational way. It is a multiplatform game. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.), Social media (Facebook, Twitter, etc.) 
+ Roles needed  : Developer, Designer 
+ Published by:  K. M. Last reply: 2 hours ago  Spain 
+ USD 250 - 500 
+ 4 days ago 
+ It management 
+ Published: 4 days ago  Bids: 6 
+ We are an spanish company, looking for Computer Technicians ans System Engineers to help us in several projects, cities and countries. 
+ Category  : Engineering & Manufacturing 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  J. C. Spain 
+ USD 1,000 - 3,000 
+ 1 week ago 
+ Integration Programmer. 
+ Published: 1 week ago  Project duration: 3 - 4 months Bids: 7 
+ Python, SQL, Javascript. 
+Experience in api and sdk integrations. 
+Experience in Flask application development. 
+ Experience and knowledge in auth2. 
+ Very positive value: 
+Knowledge of NodeJs. 
+Experience with Google Cloud (Compute Engine, App Engine, BigQuery). 
+Knowledge of HubSpot.Integration Programmer. 
+ Python, SQL, Javascript. 
+Experience in api and sdk integrations. 
+Experience in Flask application development. 
+ Experience and knowledge in auth2. 
+ Very positive value: 
+Knowledge of NodeJs. 
+Experience with Google Cloud (Compute Engine, App Engine, BigQuery). 
+Knowledge of HubSpot. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Full time 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  A. A. Spain 
+ USD 20 - 30 / hour 
+ 2 weeks ago 
+ Write 5 articles (2 word pages) 
+ Published: 2 weeks ago  Deadline: 4 Bids: 11 
+ Write in English 5 articles of about 700 words each (2 word pages) which must include given vocabulary. 
+Topics: 
+1-The language of Employment Law 
+2-THE LANGUAGE OF BUSINESS LAW 
+3-The language of European Union Law 
+4-Free movement of Goods 
+5-Agreements between competitors 
+ Category  : Writing & Translation 
+ Subcategory  : Article writing 
+ How many words?  : Between 1,000 and 5,000 words 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  Y. Spain Payment method:  __Verified 
+ USD 50 - 100 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

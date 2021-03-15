@@ -1,0 +1,183 @@
+
+ Home 
+ About 
+ Contact 
+ Languishing Projects 
+ Beyond Science 
+ Other Blogging 
+ Queer in STEM 
+ 
+ The Lab and Field 
+ ~ Science, people, adventure 
+ Search: 
+   
+ The advantages of Google Scholar for early-career academics 
+ [ 
+ 21   Wednesday  Aug 2013 
+ ](https://labandfield.wordpress.com/2013/08/21/the-advantages-of-google-scholar-for-early-career-academics/) 
+ Posted  by  Alex Bond  in  how to 
+ ≈  13 Comments 
+ Tags 
+ google scholar ,  job search ,  metrics 
+ It's that time of year again - time to spruce up the CV, brush off that research statement, and tweak my teaching philosophy in preparation for the impending start of the next hiring cycle. 
+ One of the key elements of any application where there's some involvement in research is the list of publications, and related individual metrics. Like it or not, hiring committees care about how much and where you publish, and how often those papers are cited (or at least we're told they do). Besides listing publications on your CV, I thought I'd pass along a handy tip – use the profile tool in  Google Scholar . 
+ This lets you add in your publications, and keep track of the citations, but more importantly, you can link to it on your CV. In my case, I created a custom URL using tinyurl.com so that instead of random characters, anyone can see my profile by typing  http://tinyurl.com/ScholarALB . 
+ But why would you want to do this in the first place? If, like me, you're on the job market, it's a quick, independent way to check a candidate's publication record. It's easy to "embellish" a CV, and a Google Scholar profile is often on the first page or two of results when someone searches my name in Google (i.e., perfect for a search committee). It also helps a search committee look at the individual-level metrics. Sure, I may have published in the West-central Podunk Journal of Ecology (impact factor < 0), but perhaps that's a highly-cited paper, though some search committee members might not know the journal. Similarly, I may have an article in the journal Science from 2003 that hasn't been cited once. Remember that search committees may not necessarily know the relative reputations of journals in one's field - yet another plus of individual-level metrics. 
+ Sure, there are lots of other services that provide these metrics, including most article indexing services like Scopus and Web of Knowledge, but not all institutions subscribe to those (often expensive) resources. The program  Publish or Perish  also gives individual-level metrics, but Google Scholar is free for anyone to see, and can be accessed with a single click. 
+ Be warned though - not all these services are created equal. Scopus, WOK (and its well-known component Biological Abstracts) each index different sets of journals, and so come up with different numbers. Publish or Perish uses a combination of Google Scholar, and the less well known Microsoft Academic Search to get its citation data, but at the moment is Windows-only, and needs to be downloaded & installed. 
+ As an example of how these can differ, below are some summary stats of my own 
+ 
+ 
+ 
+ Metric 
+ Google Scholar 
+ Scopus 
+ Web of Knowledge 
+ Publish or Perish 
+ 
+ 
+ 
+ 
+ # publications 
+ 38 
+ 30 
+ 29 
+ 18 
+ 
+ 
+ # citations 
+ 233 
+ 254 
+ 142 
+ 217 
+ 
+ 
+ h-index 
+ 8 
+ 7 
+ 7 
+ 8 
+ 
+ 
+ i10-index 
+ 8 
+ 6 
+ 5 
+ 8 
+ 
+ 
+ 
+ h-index = the number of papers,  n  , that have been cited  n  times. In other words, I have 8 papers that have been cited at least 8 times. i10-index = the number of papers cited at least 10 times. 
+ They're all in the same ballpark (though Web of Knowledge is noticeably lower), but Google Scholar is the most accessible. That said, Google has cut more popular services (most notably Google Reader), so who knows how long Scholar will stay around. 
+ I don't particularly care for using Scholar when doing a broad literature search (mostly because of the lack of sorting options for the results), but as an online freely-accessible source of individual scientists' publishing metrics, it's not bad ( though the system can be gamed to bump up citation counts ). Still, at this point, I think the benefits, especially to early-career researchers who are on the job market, outweigh the potential costs. 
+ Lastly, here are a few tips to bring your Google Scholar profile beyond the default: 
+ 
+ Add a profile picture / head shot 
+ Set up alerts for when new articles are added to your profile automatically, and edit / adjust if needed:
+ 
+ All-caps vs. sentence case titles 
+ odd characters that are the result of formatting 
+ Journal title / abbreviations 
+ 
+ 
+ Add non-indexed items yourself (e.g., book chapters, monographs, reports) 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Post navigation 
+ <- Previous post   Next post -> 
+ 13 thoughts on "The advantages of Google Scholar for early-career academics" 
+ 
+ aeoliangeomorphology   said: 
+ 
+ August 21, 2013 at 9:27 am 
+ I also like how you can easily edit your google scholar record. In my case I prefer not to show all of the conference abstracts that google picks up (and most others don't). Additionally (as you have noted), you can add a picture, some key words, a website link, collegues, etc. 
+ This job hunting season seems to start earlier and earlier that it might just be year round now… 
+ Reply 
+ 
+ jasonvenkiteswaran  said: 
+ 
+ August 23, 2013 at 10:34 am 
+ Note there are `fun' URL shorteners like  http://is.gd  and  http://v.gd  that allow custom URLs too, e.g.  http://is.gd/jasonv  . I've also seen Publish or Perish run under Wine (and associated friends) in Linux and Mac OS X. 
+ Reply 
+ 
+ jeffollerton   said: 
+ 
+ August 23, 2013 at 10:42 am 
+ Google Scholar is useful and flexible, agreed, but you need to be careful as you move from early- to mid-career, as the statistics stated by it start to diverge significantly from Web of Knowledge, which is still the industry standard in many ways. For example, WoK does not include my book chapters in its calculation of my h-index, whereas Google Scholar does. This leads to a 5 point difference (18 versus 23) between the two, not insignificant. I tend to cite both in my CV. 
+ Reply 
+ 
+ 
+ Pingback:  2014 by the numbers | The Lab and Field 
+ 
+ 
+ Pingback:  How to apply for a field job | The Lab and Field 
+ 
+ 
+ Pingback:  2015 by the numbers | The Lab and Field 
+ 
+ 
+ Pingback:  Teatime tips on how to get a postdoc - Chrissie Painting 
+ 
+ 
+ Pingback:  PC Tricks that you must know | Psycho Cyborg 
+ 
+ 
+ Pingback:  2016 by the numbers | The Lab and Field 
+ 
+ 
+ Pingback:  2017 by the numbers | The Lab and Field 
+ 
+ 
+ Pingback:  2018 by the numbers | The Lab and Field 
+ 
+ 
+ Pingback:  2019 by the numbers | The Lab and Field 
+ 
+ 
+ Pingback:  2020 by the numbers | The Lab and Field 
+ 
+ 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ This site uses Akismet to reduce spam.  Learn how your comment data is processed . 
+ Science Borealis 
+ 
+ Follow me on Twitter 
+ My Tweets 
+ Archives 
+ Archives Select Month December 2020  July 2020  June 2020  May 2020  April 2020  March 2020  February 2020  January 2020  December 2019  November 2019  October 2019  September 2019  August 2019  July 2019  June 2019  May 2019  April 2019  February 2019  January 2019  December 2018  November 2018  October 2018  September 2018  August 2018  July 2018  June 2018  May 2018  March 2018  February 2018  December 2017  November 2017  August 2017  July 2017  June 2017  March 2017  February 2017  January 2017  December 2016  October 2016  August 2016  July 2016  May 2016  March 2016  February 2016  January 2016  December 2015  August 2015  July 2015  June 2015  May 2015  April 2015  March 2015  February 2015  January 2015  December 2014  November 2014  October 2014  September 2014  August 2014  July 2014  June 2014  May 2014  April 2014  March 2014  February 2014  January 2014  December 2013  November 2013  October 2013  September 2013  August 2013  July 2013  June 2013  May 2013  April 2013  March 2013  February 2013  January 2013 
+ Search: 
+ Recent Posts 
+ 
+ 2020 by the numbers 
+ Science, people, and surviving in the time of a global pandemic 
+ Queer in STEM ask me anything - another LGBTQ&A 
+ Overseas field courses and equity, diversity & inclusion. 
+ What a long year the last month has been 
+ 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

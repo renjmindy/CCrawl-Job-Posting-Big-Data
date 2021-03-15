@@ -1,0 +1,164 @@
+__ 
+ Home 
+ Login 
+ Sign Up 
+ Blog 
+ __ 
+ IMPORTANT - Your browser does not support javascript 
+ This community site requires the ability to use javascript. Your browser settings appear to not allow this or is not supported by your browser.. You will not be able to utilize this site effectively without this capability. 
+ You will either need to set your browser options to allow javascript for this site or change browsers. 
+ If you have any questions please contact us at:  info@workoutloud.com 
+ __ 
+ __ 
+ __ 
+ __ Blogs 
+ __ Groups 
+   
+   
+ Sign Up 
+ Login 
+ College Faculty 
+ __ 
+ New D2L Modules for Career Readiness - Coming Soon to a Campus Near You 
+ Author:  Chad Eckes  Written: Friday, February 1st, 2019 Blog:   College Faculty »  
+  Group: College Faculty Group »  
+ __Unfollow __Follow 
+ College Faculty 
+ New D2L Modules for Career Readiness - Coming Soon to a Campus Near You 
+ Chad Eckes 
+ 02/01/2019 02:15 
+ All Articles 
+ Article/Post 
+ Home 
+ New D2L Modules for Career Readiness - Coming Soon to a Campus Near You 
+ Author:  Chad Eckes 
+ Written: 02/01/2019 
+ ____0 
+ The Minnesota State IT Center of Excellence has heard from numerous employers that graduates must possess both technical skills and “career readiness” skills to be successful in their jobs.  Research  continues to show that employers are sometimes underwhelmed by students’ career readiness, often lacking critical skills such as teamwork, communications and leadership. 
+ In the summer of 2018, the ITCOE, in partnership with four MN State faculty, developed eight interactive case studies, designed to teach and assess student knowledge of the National Association of Colleges and Employers (NACE)  career readiness competencies . The deployment of these case studies was successful at one Metropolitan State University course this past fall, and student reaction to them was very positive. 
+ Stemming from that work, and through numerous conversations with IT and computer science faculty, COE has now developed three new Modules, built 100% in Desire2Learn (D2L), focused on teaching and assessing the important skills of: 
+ 
+ Oral and Written Communications 
+ Collaboration and Teamwork 
+ Initiative and Leadership 
+ 
+ The new Modules were developed with busy faculty in mind, and their already packed courses of mostly technical content. We have chosen to build the Modules 100% in D2L, to enable ease-of-adoption into Courses, and to also give students a cohesive online user experience with the rest of their classes at MN State. We also developed the Modules independent of each other, so a faculty member can take one, two or all of them into their Course. Being in D2L also means faculty can edit a Module’s content, allowing creative freedom to better-tie to their style and course. 
+ Overview of the Modules 
+ One of our goals while developing the Modules was to follow a standard template, giving them a consistent look and feel. Each Module is divided into 4 or 5 Learning Objectives, with each Learning Objective consisting of sections for content, exercises and assessments. 
+ Additionally, each Module adheres to certain guidelines, providing the following core components to faculty and students: 
+ 
+ Definitions of each Career Readiness competency and associated sub-competencies 
+ Pre-curated literature and videos that teach students about the competencies 
+ Experiential exercises for students to practice the Career Readiness skills, be that individually, in small groups, or in the classroom 
+ Exercises and case studies based on real-life IT and CS workplace scenarios, aimed at challenging students to prove their competence in the skills, including rubrics for faculty to use when assessing student performance 
+ 
+ Each Module is built to encapsulate 8-12 hours of work for a student, and given that they’re native to D2L, faculty can determine if-and-how to incorporate the work into the Course’s gradebook. 
+ Module Content Sourced from Education Design Lab 
+ In designing and defining the Modules, we sought to find existing examples of curriculum that could quickly be put into use, rather than reinventing the wheel. One source of content that was particularly strong was from  Education Design Lab , and their  21st Century Skills Badges . Not only did the Badges closely tie to the eight NACE career readiness competencies, but the completeness of the content and thoughtfulness of the assessments made leveraging the Badges an easy choice. 
+ The three new Modules incorporate the Badges’ competency and sub-competency definitions, and most of the exercises and assessments come from Education Design Lab. However, in some cases, the content from Education Design Lab has been altered to apply better to an IT or CS student, with the real-life scenarios and exercises representing technical career scenarios. 
+ Choosing Education Design Lab’s 21st Century Skills Badges as our primary source of content puts Minnesota State in good company, given that over 300 other 2- and 4-year colleges across the world have signed up to leverage the Lab’s work (which is free to use, if certain guidelines are followed). We also can contribute to their growing body of tools, which can then be shared across their other partner schools. 
+ Module Rollout in 2019 … and How You Can Help 
+ While it’s very exciting to see these Modules complete, we know they need hardening through use with faculty and students in the classroom. We are fortunate to have three faculty members piloting the Modules in their courses this spring, and we will work closely with them and their students to understand what works, and what can be improved. 
+ Timing-wise, the goal is to release updated versions of the Modules in May 2019, in concert with the  New Directions in IT Education Conference  (May 15-17). From there, hopefully dozens of faculty members will adopt the Modules in Fall 2019, impacting 100's of students in their courses. 
+ Providing Career Readiness curriculum is consistent with our long-term mission, and will continue to be a strategic focus. These three new Modules will likely grow in number, and their content and assessments will continue to evolve as we hear from faculty and students. 
+ We appreciate your support in this endeavor, and if anyone is interested in reviewing the Modules before May and providing feedback, please contact  Chad Eckes , our consultant and interim leader for Career Readiness. 
+ Footnotes and Other Resources 
+ The following Minnesota State faculty assisted in the creation of the Career Readiness curriculum: 
+ 
+ Amy Lane, PhD, Community Engagement Coordinator, Metropolitan State University, Institute for Community Engagement and Scholarship (ICES) 
+ Kristopher Schlieper, PhD, Assistant Professor, IT and Computer Science, Minnesota State, Moorhead 
+ Tricia Olinger, IT Faculty Member, Rochester Technical and Community College 
+ Karen LaPlant, IT Faculty Member (retired), Hennepin Technical College 
+ 
+ Also see: 
+ 
+ Mixed Signals: Do College Graduates Have the Soft Skills Employers Want? , January 2016 
+ Education Design Lab’s 21st Century Skills Badging Challenge Featured on PBS NewsHour , February 2017 
+ Recent Graduates Lack Soft Skills, New Study Reports , August 2018 
+ Education Design Lab Releases 21st Century Skills Badge Program , April 2018 
+ 
+ About Chad Eckes: 
+ Chad Eckes is the founder and owner of C Squared E, a management consultancy focused on helping technology companies improve their product go-to-market strategies. Chad has held leadership roles at Accenture and 3M Company, leading large software development teams and helping bring new products to market. Chad started C Squared E in 2008, and has helped over 25 clients with marketing, strategy, business development and M&A.; Chad earned his BA in Economics and Mathematics from Northwestern University, and his MBA from the MIT Sloan School of Management. 
+ 
+ Comments 
+ End of Messages 
+ 
+ More Posts - Read, Watch, Do... 
+ 
+ Results from our Career Readiness Badging Pilot, Project ELEVATE 
+ 
+ The Minnesota State IT Center of Excellence recently completed its nine-month digital badging pilot, Project ELEVATE, resulting in over 170 badges being awarded to students from five institutions across the system. 
+ View Article » 
+ Author:  Chad Eckes 
+ Written: Wednesday, September 2nd, 2020 
+ Published 
+ 
+ New Career Readiness Modules and Badges Coming Soon 
+ 
+ Five new Modules are being built and will be available for faculty to use in the fall 2020 semester. The Modules will cover the skills of creative problem solving, critical thinking, empathy, intercultural fluency, and resilience. 
+ View Article » 
+ Author:  Chad Eckes 
+ Written: Monday, July 27th, 2020 
+ Published 
+ 
+ Podcast: Students Speak Out: Why Career Readiness Skills are Critical to Learn in College 
+ 
+ In our third Career Readiness podcast episode, we hear from two Minnesota State technology students. Rose Dillon, a computer science major at Metropolitan State University, and Molly Clabots, a software development student from Minneapolis College, talk about why they and their peers feel that learning teamwork, communications, and leadership skills in their college courses is essential in preparing them for the working world. 
+ View Article » 
+ Author:  Chad Eckes 
+ Written: Friday, June 12th, 2020 
+ Published 
+ 
+ Teaching Career Readiness Skills to Technology Students … How-To's from Minnesota State Faculty 
+ 
+ In our second Career Readiness podcast episode, we hear from IT faculty members Vickie McLain (Lake Superior College) and Brian Huilman (Minneapolis College) about their use of the Career Readiness Modules. Vickie and Brian talk about their experience teaching communications, professional writing, and teamwork skills in their courses, and the impact the Modules are having on students 
+ View Article » 
+ Author:  Chad Eckes 
+ Written: Thursday, May 7th, 2020 
+ Published 
+ View all Posts » 
+ Sharing 
+ 
+ [__](https://twitter.com/intent/tweet?text=New D2L Modules for Career Readiness - Coming Soon to a Campus Near You%20;In%20line%20with%20the%20Minnesota%20State%20IT%20Center%20of%20Excellence%20mission%2C%20we%20are%20excited%20to%20introduce%20new%20career%20readiness%20curriculum%20for%20IT%20and%20CS%20faculty%20to%20use%20in%20their%20courses.%20%20We%20are%20also%20excited%20to%20introduce%20Chad%20Eckes%2C%20a%20new%20consultant%20at%20the%20COE%2C%20who%20has%20helped%20us%20develop%20the%20new%20D2L%20Modules%2C%20and%20will%20be%20assisting%20with%20their%20launch.%20%20Read%20this%20article%20to%20learn%20more%20about%20the%20new%20Modules%2C%20our%20pilots%20happening%20this%20spring%2C%20and%20the%20broader%20rollout%20being%20planned%20for%20Fall%202019.%20%20&url=https://itconnect.workoutloud.com/Blog/college-faculty/new-d2l-modules-for-career-readiness-coming-soon-to-a-campus-near-you "Share on Twitter") 
+ [__](https://www.linkedin.com/shareArticle?mini=true&url=https://itconnect.workoutloud.com/Blog/college-faculty/new-d2l-modules-for-career-readiness-coming-soon-to-a-campus-near-you&title=New D2L Modules for Career Readiness - Coming Soon to a Campus Near You%20;In%20line%20with%20the%20Minnesota%20State%20IT%20Center%20of%20Excellence%20mission%2C%20we%20are%20excited%20to%20introduce%20new%20career%20readiness%20curriculum%20for%20IT%20and%20CS%20faculty%20to%20use%20in%20their%20courses.%20%20We%20are%20also%20excited%20to%20introduce%20Chad%20Eckes%2C%20a%20new%20consultant%20at%20the%20COE%2C%20who%20has%20helped%20us%20develop%20the%20new%20D2L%20Modules%2C%20and%20will%20be%20assisting%20with%20their%20launch.%20%20Read%20this%20article%20to%20learn%20more%20about%20the%20new%20Modules%2C%20our%20pilots%20happening%20this%20spring%2C%20and%20the%20broader%20rollout%20being%20planned%20for%20Fall%202019.%20%20 "Share on LinkedIn") 
+ __ 
+ __ 
+ 
+ Archives 
+ 
+ 2020 10 
+ 2019 13
+ 
+ Dec 05  -  Center of Excellence & Curriculum D2L Modules Update 
+ Oct 23  -  Why Cyber Security Awareness is Actually the Scariest Part of October. 
+ Oct 01  -  ITCoE Wins Grant to Begin Awarding Badges for Career Readiness Skills 
+ Sep 12  -  There is No End to the Summer Fun at ITCOE - Fall Faculty Events 
+ Aug 13  -  Making a Difference 
+ Jun 04  -  VIDEO: Students, Employers and Faculty Explain the Importance of Career Readiness Curriculum 
+ Jun 04  -  Career Readiness Module Pilots Receive High Marks from Faculty and Students 
+ May 22  -  Summer Faculty Work Projects 
+ Apr 15  -  Keynote Speakers and Panel Guests 
+ Mar 13  -  Register now for the New Directions In IT Education - Minnesota State IT Faculty Conference 
+ Mar 04  -  Strong Turnout for Career Readiness Lunch-and-Learn 
+ Feb 01  -  New D2L Modules for Career Readiness - Coming Soon to a Campus Near You 
+ Jan 08  -  An Invite to Join Us at the Table 
+ 
+ 
+ 2018 9 
+ 2017 2 
+ 
+ Categories 
+ 
+ College Faculty 
+ News 
+ 
+ Associated Groups 
+ College Faculty Group 
+ Online 
+ × 
+ Modal title 
+ Close Save changes 
+ WorkOutLoud, LLC., Minneapolis, MN -  800-819-1190 
+ Contact:  info@workoutloud.com 
+ Cookies   Privacy Policy   Terms of Use 
+ __   __ __ 

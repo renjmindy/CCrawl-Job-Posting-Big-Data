@@ -1,0 +1,329 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Android 
+ 
+ Android Freelance Jobs From Argentina 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelance  Android Developers  from  Argentina 
+ ](https://www.workana.com/freelancers/argentina/android) 
+ Last month 
+ Back End Developer 
+ Published: Last month  Bids: 21 
+ We are an entrepreneurship developing an app for the education sector. 
+ We need someone to work per hour (around 50 hours in total for this first project) with expertise in: 
+ ASP.NET  Core MVC 
+Entityframework Core 
+Xamarin 
+ The role is for: 
+ Help completing a web application. Applicant will be needed to create user interfaces to accept and present data. 
+Save and retrieve data to a mssql 2016 database using the ef core 
+converting web applications to xamarin mobile forms 
+ please send us your cv with contact information and budget per programming hour. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Modify an existing app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  J. F. Last reply: Last month  Argentina Payment method:  __Verified 
+ USD 500 - 1,000 
+ Last month 
+ C# Backend 
+ Published: Last month  Bids: 0 
+ I need the google play store codes added to my compete backend which is in C#/ The app is completed in ios/android.  In addition, add twilio for whats up texting as well as sign in with google mail, apple, and facebook. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ Published by:  G. S. Last reply: Last month  Argentina 
+ USD 50 - 100 
+ Last month 
+ Google Play Added To Backend 
+ Published: Last month  Bids: 1 
+ My Guardian is completed. I need to add the google play store codes to my backend. The backend is coded in C#. 
+Needs IOS/Android. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ Back-end is required  : No 
+ Payment gateway  : Yes 
+ Published by:  G. S. Argentina 
+ USD 50 - 100 
+ Last month 
+ Publish Ios app 
+ Published: Last month  Bids: 3 
+ Hey, I have seen that you have worked on uploading an App Store app here in Workana, am I right? I come from the client which initials goes by "E.M" and that you have a review on him as a client. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ Published by:  A. G. Last reply: Last month  Argentina 
+ USD 500 - 1,000 
+ 2 months ago 
+ Mobile Game Developer 
+ Published: 2 months ago  Bids: 5 
+ We are looking for a Mobile Game Developer to join our team! This is a remote position! 
+We are looking for someone who is interested and aware of mobile development, preferably mobile games development. The most typical combination of skills we expect is Unity 3D and C#, but also Java and C++. Version control systems we use are Git flow, GitHub Enterprise. 
+In the cloud,  AWS as a preferred cloud platform and technologies such as Linux (OS: Ubuntu & Amazon Linux), Python (also in Data engineering, not just Cloud Ops) and Puppet, Ansible, Terraform, Docker, ECS and Kubernetes. Database skills should include some of these: NoSQL: Riak, Cassandra, DynamoDB, RDBMS: PostgreSQL, MySQL, Aurora, Time-series DBs: InfluxDB, Elastic Stack (ELK), Messaging: Kafka, RabbitMQ 
+A Mobile Game developer must understand basic and some intermediate programming concepts (e.g. Clean code, SOLID principles, dependency injection). 
+Besides, should have experience with different types of game titles. 
+Please share with us your portfolio, GitHub account or some other way of sharing past work/projects. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Game 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  C. B. Argentina 
+ Over USD 3,000 
+ 2 months ago 
+ Flutter android compile app 
+ Published: 2 months ago  Deadline: 10 Bids: 1 
+ We need to compile a flutter android app that connect with dji sdk. 
+ Problem description here: 
+ https://stackoverflow.com/questions/64654606/apparently-r8-removes-classes-and-interfaces 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android, Other 
+ I need to  : Modify an existing app 
+ App type  : Other 
+ Published by:  C. Argentina 
+ USD 500 - 1,000 
+ 2 months ago 
+ Design of an application to download synthesis of academic content. 
+ Published: 2 months ago  Bids: 3 
+ We need to create an application that allows access to summaries of academic content through a monthly subscription. Title / essay / papers search engine. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : e-Shop 
+ Back-end is required  : No 
+ Payment gateway  : Yes 
+ Published by:  E. P. Argentina 
+ USD 1,000 - 3,000 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

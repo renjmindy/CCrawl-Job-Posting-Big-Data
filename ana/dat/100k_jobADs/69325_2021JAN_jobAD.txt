@@ -1,0 +1,131 @@
+WORK WITH INDIES beta 
+ Browse Jobs 
+ Art & Animation 
+ Audio 
+ Business & Operations 
+ Design 
+ Marketing & Community 
+ Production 
+ Programming 
+ QA & CS 
+ Writing 
+ Post a Job 
+ Back to all jobs See allProgrammingjobs 
+ Network / Multiplayer Engineer 
+ Megagon Industries Apply for this Job 
+ Posted 
+ December 15, 2020 
+ Full Time 
+ Anywhere 
+ Remote 
+ We’re looking for a Network / Multiplayer Engineer (d/f/m) with a focus on networking and multiplayer to work on an unannounced project in a genre similar to Lonely Mountains: Downhill. You will be responsible for implementing the online multiplayer & leaderboard aspects of the game for PC and consoles and work closely together with our other developers. 
+ ‍ 
+ Responsibilities 
+ 
+ Research possible multiplayer solutions and architecture for Unity. 
+ Work with Game Design to define requirements & limitations of online multiplayer. 
+ Implement network synchronization of physics, animations as well game states together with Gameplay Programming. 
+ Possibly: Implement matchmaking & lobby. 
+ Implement robust network error handling on the game client. 
+ Debug network gameplay. 
+ Develop / Setup tools for online gameplay monitoring and reporting. 
+ Cheater detection and countermeasures. 
+ Extending/adapting the existing node.js based leaderboard infrastructure. 
+ 
+ ‍ 
+ Requirements 
+ 
+ Experience with live online multiplayer development. 
+ Experience with Unity is highly preferred. 
+ Good knowledge of C#. 
+ Deep understanding of network technology. 
+ Basic knowledge of databases (MySQL). 
+ Good bug hunting & debugging skills. 
+ Ability to work with and extend an existing codebase. 
+ Good verbal and written communication skills in English. 
+ You’re good at self-managing your tasks and responsibilities. 
+ 
+ ‍ 
+ Experience 
+ 
+ Regular: At least one (nearly) shipped commercial game, 2+ years experience as network / multiplayer engineer. 
+ Senior: Shipped multiple commercial games (or a really big one), 4+ years experience as network / multiplayer engineer. 
+ 
+ ‍ 
+ Bonus Points 
+ 
+ Experience with multiplayer in fast-paced / racing games. 
+ Experience with Photon, Mirror, MLAPI or similar. 
+ Good knowledge of JavaScript / TypeScript. 
+ Good knowledge of MySQL. 
+ Experience of AWS backend and their services. 
+ Experience with node.js. 
+ Experience with console development and APIs 
+ Working knowledge of version control software (GIT). 
+ 
+ ‍ 
+ Employment Details 
+ 
+ Full-time 
+ Able to work in CEST office hours (Mandatory Daily Standup 10am) 
+ Remote or on-site 
+ Start: February 2021 
+ 
+ ‍ 
+ Benefits 
+ 
+ Work on a critical-acclaimed game with 90%+ positive reviews. 
+ Work in a small, experienced team with complete creative autonomy. 
+ Work on games with a non-toxic and loving community. 
+ Flexible working hours. 
+ Public transportation ticket. 
+ Be part of  Saftladen  – the biggest indie game dev collective in Germany.  ‍ 
+ 
+ ‍ 
+ Please send your CV and salary expectations to  jobs@megagonindustries.com   . 
+ ‍ 
+ About Lonely Mountains 
+ The  Lonely Mountains  are waiting for you! Explore rocky mountain slopes with your bike, jump over sandy gorges or find your way through the foggy forests. Each  Lonely Mountain  awaits you with new challenges! Sprint, jump and slide to find your own way to the finish line. Explore the detailed mountain worlds or face the ticking clock - with every success you unlock new bikes, paintwork and outfits piece by piece. Train your skills day and night, improve your place on the leaderboards and ultimately compete with the best riders in the world in the risky Free Ride mode. 
+ ‍ 
+ Apply for this Job 
+ related jobs 
+ sunset visitor is hiring a Unity Developerto join their team into work fromCanadaUnity Developersunset visitor | CanadaLearn More 
+ BlitWorks is hiring a Junior Unity Engineerto join their team into work fromBarcelona, ESJunior Unity EngineerBlitWorks | Barcelona, ESLearn More 
+ Bluecurse Studios is hiring a Part-Time Programmerto join their team into work fromAnywherePart-Time ProgrammerBluecurse Studios | AnywhereLearn More 
+ Blackfield Entertainment is hiring a Lead Unity Engineerto join their team into work fromAnywhereLead Unity EngineerBlackfield Entertainment | AnywhereLearn More 
+ One Lonely Outpost is hiring a Mid-Senior Programmerto join their team into work fromAnywhereMid-Senior ProgrammerOne Lonely Outpost | AnywhereLearn More 
+ Funomena is hiring a Lead Programmerto join their team into work fromAnywhereLead ProgrammerFunomena | AnywhereLearn More 
+ Indie games are wonderful. So are the people that make them. 
+ Make wonderful games. Be wonderful people. Work With Indies. 
+ Thank you for joining the Work With Indies newsletter! The next issue will arrive on Sunday. 
+ Oops! Something went wrong. Please try again. 
+ *Sign up to receive a weekly digest of new indie career opportunities. 
+ WORK WITH INDIES 
+ We’ve been lucky to have some incredible jobs working at and partnering with some of the biggest brands in video games. 
+ But we’ve never had more fun and been more fulfilled than when we were working with indie game developers. 
+ Everyone in games should have that much fun. 
+ Our hope is that Work With Indies will connect job seekers with the most rewarding, most inspirational, and most fun jobs they've ever had. 
+ NAVIGATION 
+ 
+ Post a Job 
+ Terms 
+ Privacy 
+ RSS 
+ Communities 
+ Nick's Cat 
+ 
+ CONTACT US 
+ 
+ 
+ nathan@workwithindies.com 
+ twitter.com/workwithindies 
+ facebook.com/workwithindies 
+ 
+ ^ 
+ Made by 
+ @natethenate 
+ and 
+ @nsuttner 
+ for people who 
+ indie games. 
+ © 2021  A Lot of Happy LLC 

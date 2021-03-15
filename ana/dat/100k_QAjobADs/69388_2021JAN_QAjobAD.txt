@@ -1,0 +1,12 @@
+ Minimum Qualifications: 
+ A strong understanding of UX/UI concepts and interface usability with a demonstrated record of good design flow in interactive applications 
+ 5+ years working with  JavaScript ,  CSS  and other frontend technologies 
+ Demonstrated experience working with data displays and/or large data sets 
+ Experience building dynamic web interfaces using  React.js 
+ Ability to thrive in a fast-paced startup environment 
+ Preferred Qualifications: 
+ Experience with 
+ Scala ,  Java  or another JVM based languages 
+ Working with Bitcoin, Ethereum, and/or blockchain technology 
+ Financial technology in the financial services industry, such as on exchanges or trading firms 
+ It Pays to Work Here 

@@ -1,0 +1,58 @@
+
+ Role 
+ Description 
+ 
+ Like what you see? Apply Now or hit the back button to search additional career options. 
+ Ruby On Rails Developer (5+ years) 
+ Apply Now 
+ Ruby on Rails Developer-Remote 
+ Power is looking for Mid and Senior full stack Ruby on Rails developers to join the team at our headquarters, just outside of Philadelphia, PA. We are reinventing the home remodeling industry and to do that, we need a web application platform that supports our people, our ingenuity and our growth. 
+ At Power, you will have the opportunity to work on challenging technology problems and design solutions that are lasting, sustainable and positive. You will be part of a cross-functional Scrum team and get to work alongside other top talent, including our growing team of application architects, UX designers, engineers and awesome developers. You will be empowered to make decisions and enjoy great latitude in choosing the right tools and methods for the job. As an experienced developer, you will be expected to bring your knowledge to help us build and deliver highly visible products and help grow and mentor other team members. 
+ Come be part of an amazing team and see what it’s like to brag about where you work. 
+ What we do here 
+At Power, our technology team builds a custom suite of products that run our entire business. We create and deploy complete solutions for marketing, sales, operations, finance and more. We even have a custom communications platform that connects everyone in the company. We use cutting edge technologies like augmented reality, computer vision, machine learning, speech recognition and processing, geospatial data and a variety of mobile platforms. 
+ We enjoy all the benefits of a startup to move fast, ship rapidly and iterate quickly, but within an established organization that is well-funded and profitable. We get to dip our toes in many different, fascinating areas and solve unique, challenging problems that could on their own be standalone apps or companies. We’re a tech powerhouse hidden inside a remodeling company. 
+ We value diversity of all types at Power and our team is made up of a kind, thoughtful group of people with a wide range of backgrounds. We actively try to find people with different perspectives and experiences to the ones we already have. 
+ Power has been awarded Computerworld’s Best Places to Work in IT, Fortune Magazine’s #1 Workplace for Millennials, one of Glassdoor’s Best Places to Work, one of Inc. 5000’s Fastest Growing Private Companies, and Philadelphia Magazine Coolest Companies. 
+ Required Qualifications 
+ 
+ Mid Developer: 3 - 4 years of software development experience, majority with Ruby on Rails 
+ Sr. Developer: 5+ years Rails experience 
+ Sr. Developer: 2+ years of experience mentoring and growing other developers Strong knowledge of agile development methodologies 
+ Proven track record of delivering quality work on time 
+ Enjoy working with product specialists and end-users to understand requirements 
+ Solid communication, collaboration and mentoring skills to work with a range of colleagues from product specialists and end-users, to UX designers and other developers 
+ Strong interest in continued personal and professional development, inclusive of learning new programming languages and technologies 
+ Experience incorporating automation and integration testing 
+ 
+ Preferred Experience 
+ 
+ Web frontend: React, Bootstrap, GraphQL 
+ Web backend: Rails, Resque 
+ Mobile frontend: React Native 
+ Databases: MySQL, Redis, LDAP, ElasticSearch, InfluxDB 
+ Team: Scrum, Git, Github 
+ DevOps: Docker, Kubernetes, Jenkins 
+ Languages: Ruby, Python, Javascript, Swift 
+ 
+ Benefits 
+ 
+ Full medical, dental, life and disability insurance plans that can be tailored to your specific needs and the needs of your family 
+ A competitive 401(k) retirement savings program matched by Power 
+ Competitive salary 
+ All the tech you need - We'll pay for whatever hardware and software you need to work and make sure you're regularly upgraded to the latest versions 
+ Personal development - Personal development books, courses and conferences 
+ Paid parental leave - When the time comes to welcome a new member of the family, we offer paid parental leave 
+ 3 events per year focused on internal development and improvement 
+ 
+ Location 
+ 
+ Remote, preferably within 3 hours of EST. 
+ 
+ Apply Now 
+ Power Home Remodeling Group is an equal opportunity employer and we are committed to hiring a diverse and talented workforce. 
+ ** 
+ Thanks again for your interest in PHRG. 
+ ** 
+ PHRG is an Equal Opportunity Employer committed to diversity in our workspace. 
+ © Copyright 2021 PHRG - All rights reserved. 

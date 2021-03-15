@@ -1,0 +1,82 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ 1build (W20) 
+ 1build helps builders win bids by converting blueprints into material shopping lists and cost estimates with machine intelligence. 
+ Head of Engineering 
+ 
+ Location 
+ Remote / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About 1build 
+ We're a team that's committed to intellectual honesty. We help each other get better through open discussion and respectful feedback. 
+ We are passionate about creating a world where beautiful buildings are designed and built by algorithms. 
+ About the role 
+ Skills:  Go, Kubernetes, React, TypeScript, Amazon Web Services (AWS) 
+ 1build helps construction companies convert blueprints into bids and shopping lists of construction materials. We are serving a market of 3 million builders with a cost estimation software product and a marketplace for cost estimation services. As we're collecting thousands of datapoints about construction projects in the US, our ultimate goal it to standardize construction data and to codify building assembly and design as an explicit algorithmic language. 
+ Having completed $500M in construction projects in 2020, we are looking for an experienced Head of Engineering who will be joining at a critical inflection point in our company’s growth. You will be helping to scale our platform to 1000s of construction businesses by year-end. 
+ You will be joining as an executive leader alongside a team with experience at Tesla, Uber, Apple, WeWork and Samsara. We have recently closed a $5.5M seed round from top venture funds like Y Combinator, Initialized Capital, and co-founders of PlanGrid. 
+ Your responsibilities will include: 
+ 
+ Managing, coaching, and recruiting a diverse team of engineers across timezones 
+ Interpreting product specs and designs for technical implementation 
+ Making architectural decisions that can support the platform at scale 
+ Setting and maintaining a culture of product excellence 
+ 
+ About you: 
+ 
+ You are highly driven individual who’s excited about turning scrappy startups into industry leaders 
+ Cross disciplinary thinker & lifelong learner who loves to dig into the nuts and bolts of the challenges at hand 
+ Player-coach who is able to lead effectively through coaching and help unblock your teammates when faced with technical challenges 
+ 
+ Requirements: 
+ 
+ 6+ years of work experience as a software engineer at fast growing companies 
+ Past experience leading and scaling high-output software engineering teams 
+ Significant Dev-Ops & Cloud Computing (AWS preferred) experience with tools like Kubernetes, Terraform, Consul, Envoy, Serverless & more 
+ Experience designing, shipping and maintaining large B2B SaaS products & APIs powered by gRPC, GraphQL & REST 
+ 
+ Technologies we work with: 
+ 
+ Python 
+ Go 
+ React 
+ TypeScript 
+ Kubernetes 
+ Terraform 
+ 
+ Technology 
+ We are creating an assembly language for construction that can convert high-level building blueprints into machine-readable algorithmic instructions on how to build. 
+ Typical engineering challenges can include: 
+ 
+ creating a script that calculates how long it takes to assemble an interior partition wall 
+ cataloguing different lumber materials by application in construction 
+ developing a graphical interface that allows point-and-click vectorization of construction plans 
+ 
+ Other jobs at 1build 
+ Full-Stack Software Engineer 
+ fulltime 
+ Remote / Remote 
+ Full Stack 
+ 3+ years 
+ Head of Engineering 
+ fulltime 
+ Remote / Remote 
+ Full Stack 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

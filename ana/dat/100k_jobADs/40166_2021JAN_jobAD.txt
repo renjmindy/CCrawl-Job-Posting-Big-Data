@@ -1,0 +1,348 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ iOS 
+ 
+ IOS Freelance Jobs From Mexico 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelance  iOS Developers  from  Mexico 
+ ](https://www.workana.com/freelancers/mexico/ios) 
+ 2 days ago 
+ Logistic app in flutter 
+ Published: 2 days ago  Bids: 2 
+ I need finish an app already started, I have a little pending information to complete, we are using flutter and dart language, the app is around logistic process. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Modify an existing app 
+ App type  : Other 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  S. V. Last reply: Yesterday  Mexico 
+ Less than USD 50 
+ 3 months ago 
+ Business Directory and listing 
+ Published: 3 months ago  Bids: 4 
+ I want something likes this 
+Example:  https://main.mylistingtheme.com. 
+ But i like this with angular 10, and thw future i want an app IONIC 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Promotion - Application to promote your business/company 
+ Similar apps  : Airbnb 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  E. V. Last reply: 3 months ago  Mexico 
+ USD 500 - 1,000 
+ 5 months ago 
+ Inventory Ios & Andorid App with Custom Backoffice on Amazon Servers 
+ Published: 5 months ago  Bids: 12 
+ We need a Mobile app that allow the camera to read bar codes (not qr), users can scan a products from their mobile app and the app will create a list of the barcodes scaned and the mobile will retrieve from our catalog the information from that barcode via webservice. 
+More Detail will be deliver as 
+ The technical requirements are the following: 
+ 1. App must be IOS and Android compatible. 
+ a. Login via FB and email is needed  
+ 
+ 2. Infrastructure: configure and manage Amazon database, Amazon hosting and Amazon rest API web services. 
+a. 
+Database will handle users, product catalog, 
+b. Hosting will host the program tha handle the integration between the App and the database 
+c. Webservices to manage the integration between App and the database 
+2. 
+Develop the necessary program to handle the Rest api to connect the app to the database 
+a. Create a program to be handle in Amazon hosting 
+b. Suggest program language 
+ This project is consider to be deliver by phases, this is phase 1 
+Please send your quotes (time and cost), according to the bullets(1,2,3) detailing which activities you can perform (1,2 or/and 3) 
+ If you have any question please ask. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  R. Mexico Payment method:  __Verified 
+ Over USD 3,000 
+ Last year 
+ Mobile App Development 
+ Published: Last year  Bids: 4 
+ An app where people who wash cars or housekeeping or gardening will be able to work for month or day with people who contract them through the app 
+ Category  : Design & Multimedia 
+ Subcategory  : Mobile app design 
+ What do you need?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Similar apps  : Airbnb 
+ Published by:  S. M. C. Mexico 
+ USD 250 - 500 
+ Last year 
+ React-Native App Dev for android and Ios, already partially done 
+ Published: Last year  Bids: 3 
+ We have developed a web-app and we would like to create a mobile app that will allow users to access their data and have certain functions as they do in the web version but on their mobile device. 
+ The project was already begun using react-native, but it is incomplete. We only have the basics such as login and a navigation, but we need to implement more parts of the design to display data and have functions within the app. 
+ The backend is already built and can be accesed through REST and a json web token as our auth. No backend is required, just the headless application. 
+We expect some local storage of data to prevent a lot of data usage from constant fetches, those specifics will be explained with the design. We would like to reach the minimum requirements for practical usability and in time perhaps integrate further functionality that is available in the web version. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : iPhone, Android 
+ I need to  : Modify an existing app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  J. D. Last reply: Last year  Mexico Payment method:  __Verified 
+ USD 1,000 - 3,000 
+ Last year 
+ English app 
+ Published: Last year  Bids: 3 
+ App that allows people to study grammar as well as read along videos, listening activities and reading activities. I have other ideas in mind but I'd like to hear your proposal first. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ Published by:  S. P. Last reply: Last year  Mexico 
+ Open 
+ Last year 
+ Need to integrate filemaker with Zkeubiosafelock Hotel Lock Software 
+ Published: Last year  Bids: 1 
+ I need to be able to program Hotel RFID cards.  This is the model of the locks 
+ZKTECO LH4000/LH5000 locks. 
+ Once I push a button on filemaker can give me access to program the card. 
+ 
+ 
+ https://zkteco.eu/products/accesories/usb-readers/rfid/cr60w 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Other 
+ I need to  : Create an app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  J. A. G. Mexico 
+ USD 500 - 1,000 
+ Next 
+ 
+ 1 
+ 2 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

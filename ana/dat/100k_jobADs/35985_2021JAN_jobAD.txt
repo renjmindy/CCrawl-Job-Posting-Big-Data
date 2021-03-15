@@ -1,0 +1,183 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Engineer - Network Modeling 
+ Bloomberg 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Engineer - Network Modeling 
+ Bloomberg 
+ [](mailto:?subject=Senior%20Software%20Engineer%20%2D%20Network%20Modeling&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14259199/senior-software-engineer-network-modeling/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ The Network Modeling team, part of Technology Infrastructure, is responsible for providing frameworks, tools, and applications to enable network and security engineers to effectively manage one of the largest private networks through automation. Our philosophy is to treat infrastructure as code -- we build a software model of hardware devices and components and how they are connected to each other to support Bloomberg Professional and related services. 
+ What 's in it for you: 
+This is a unique opportunity to help build robust, high-scale systems which will power the future of Bloomberg's automated network infrastructure. You'll be trusted to define standards, frameworks, libraries and tools as well as architectural designs and solutions to some of the fields most challenging problems. 
+ **We 'll trust you to: ** 
+ 
+ Actively contribute in defining both tools and architectural designs used by the team 
+ Encourage, mentor and train junior team members. 
+ Practice and promote the use of a modern software development lifecycle 
+ Engage with customers to capture and refine requirements 
+ Autonomously develop technical solutions to achieve objectives and required service levels, performance, and economics 
+ Proactively research and follow industry trends, best practices, and open source projects in network automation 
+ 
+ You need to have: 
+ 
+ 3-5 years experience as a senior software engineer, preferably full stack for a mission-critical production system 
+ Expertise in software development in some combination of C/C++ or Python 
+ Extensive knowledge in software testing and delivery best practices 
+ The ability to take ownership and responsibility of issues and handle them effectively to resolution 
+ 
+ **We 'd love to see: ** 
+ 
+ Contributions to Open Source projects especially related to Automation. 
+ Knowledge in major Python frameworks like Django, Celery and Javascript based front-end frameworks such as React.js 
+ Systems and network troubleshooting capabilities such as packet captures, strace, traceroute, and latency analysis 
+ A keen interest in keeping abreast of technological advances and proven success at incorporating new technology into existing systems 
+ Knowledge of Linux programming, networking and system administration 
+ 
+ If this sounds like something you would be passionate about apply! We'll get in touch with you to let you know what the next steps are. 
+ Bloomberg is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+ 
+ Internal Number: 6887492 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Bloomberg 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Transmission Engineer III or Senior 
+ __  Moore, Oklahoma 
+ 
+ 
+ 
+ 
+ WFEC 
+ __4 Days Ago 
+ 
+ 
+ Senior Developer/Engineer 
+ __  Burr Ridge, Illinois 
+ 
+ 
+ Busey 
+ __Today 
+ 
+ 
+ APAC Core Banking Technology Lead, VP 
+ __  Singapore, Singapore 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

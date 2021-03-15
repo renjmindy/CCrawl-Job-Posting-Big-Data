@@ -1,0 +1,303 @@
+Skip to primary content 
+ Skip to secondary content 
+ Peruse Muse Infuse 
+ 
+    Search 
+ Main menu 
+ 
+ Home 
+ About 
+ Legacy 
+ Links 
+ Projects 
+ 
+ ColourBlender 
+ Enigma-X 
+ TimeLogger 
+ 
+ 
+ 
+ Category Archives: Career 
+ Fireside Chat with Zheng Li, VP of Product @ Raygun - Product Tank Wellington MeetUp 
+ Posted on  August 17, 2018  by   adriankearns 
+ 1 
+ The Product Tank Wellington meetup ran a "fireside chat" last night with  Zheng Li , who is currently VP of Product with  Raygun  - a Wellington-based company, currently on loan to the U.S. 
+ The conversation covered her career path to Product via UX, advertising, championing women in tech and passion for business, as well as delving into specific topics with being a product person. 
+ Here are the key takeaways I jotted down, which I've tried to organise by topic… 
+ Career Path 
+ Zheng gave us a neat little story about how she started out (in a sense): a classic tale of taking something that nobody else wanted to do and absolutely nailing it. 
+ The task was designing banner ads for TradeMe. She obviously attacked her self-imposed challenge with passion and drive (significant keys to success on their own), but I also noted that: 
+ 
+ She formed a loose multidisciplinary team which (I think) included people with knowledge and access to data analytics and marketing folks. 
+ Was data driven - each time she/they ran a new design, they would analyse the data to see what was working and what wasn't, and think about why that was the case. 
+ 
+ The other factor which she used to her advantage was being able to iterate at an appropriate speed - which was obviously supported by the data she and her team had access to. 
+ Some pretty obvious takeaways there, a key one for me would be about being data driven / enabled > implication: you need to have the data. As a data architect colleague of mine once said: before doing any data design, you must first think about what questions you will want to ask your data. 
+ Other stand-out points around career path included: 
+ 
+ Turning weaknesses into strengths, by using them as differentiators. The context for this was around credibility. 
+ Follow your passion. Zheng laughed in response to a question - someone asked something which inferred she had planned her career out; she said that in retrospect her career may look like it was planned but the reality at the time was anything but. Her response to challenges was to consciously seek out ways of addressing these - which in her case frequently included training courses, which she collectively found effective (I think for one particular area she did 7 different courses). 
+ People want to work with people they like and trust. Zheng spoke of this in reference to relationships between companies, but it's obvious from her perspective that this is based on interpersonal rapport. It's not hard to see this concept also applying at a personal career level - something I can attest to having also experienced it first-hand. 
+ 
+ Another key career theme Zheng had was based on "that venn diagram" - meaning the three overlapping lenses in Design Thinking which cover business/viability, technology/feasibility and people/desirability. The specific terms she used might have been a little different, but for me the connection was pretty clear. 
+ Her basic advice was to become proficient and confident in any two of these lenses; although that seemed to be somewhat tempered with her other guiding principle of being customer focused - which suggests the business/viability and people/desirability lenses. 
+ "Product" Means Being Close to Customers 
+ This was one of Zheng's key themes. Part of this was getting out and talking to customers, which is critical. 
+ It was interesting to hear of her experiences using product "management" (my term, not hers - can't recall exactly what she called it) as a selling tool. The basis for this was: 
+ 
+ Selling the  value  of the product, not the product. 
+ Establishing a 1-on-1 rapport with people, and understanding what kept them up at night. 
+ Taking the time to really understand that problem from different angles. 
+ 
+ As far as point #3 goes, that meant engaging with different people in the organisation to understand the problem from their perspective: technical, marketing, sales, etc; this obviously links back to the three lenses of design thinking mentioned above, and being close to customers - all good sensible product management stuff. 
+ We can also expand this theme out "customers" to "people". In her experience, product management is more about being people-based than technology based (this was mentioned in reference to a technical product for developers). 
+ There was also a leadership angle: for her leadership was about aligning the purpose of her staff to the purpose of her business. The implication here is to talk with the people on your team and really understand what drives them and where they want to go with their career. 
+ A Quick Note on Persuasion 
+ If you want to persuade someone (such as your product manager - if you're a tech working on the product, and you have a pet feature you want to add), you need to two things: 
+ 
+ Speak in the language of the audience. 
+ Back it up with data. This could be qualitative such as customer feedback, or quantitative data showing conversion rates. 
+ 
+ Producty Bits 
+ Dealing with Product Debt 
+ Something I really liked was how she addressed debt - debt in the sense of technical debt, and even marketing debt, and so on: things which worked but could work better and had gotten to the point that they were affecting the bigger picture. She referred to it (I think) as the "99 issues" or "99 problems" story. 
+ 
+ They got all the issues and logged them into Jira - meaning that they got it all out into the open. Not just development/technical debt, everything. 
+ Presumably some sort of sizing and prioritisation work took place. 
+ They then knocked off a number of the items, reducing the overall debt. 
+ 
+ The way she spoke seemed to indicate this was an annual event - which didn't happen every year. Bit of a spring-clean, I guess. Zheng didn't call it out specifically but based on her other comments I presume space in the teams capacity / product roadmap was allocated to this work. 
+ Another interesting idea which occurred to me as she described this was the technique that Agile / Scrum teams sometimes use, whereby they adopt a sprint goal - something non-deliverable - that they want to improve during the course of the sprint/iteration/timebox. Zheng didn't explicitly say that was what they were doing but the idea seems relevant. Zheng, if you ever read this I'd be interested to know if that concept was one you consciously used or were aware of. 
+ Roadmap 
+ Items on a roadmap (i.e. the implied promise / expectations set) should be based on two things: 
+ 
+ The  teams capacity  to deliver them. 
+ Evidence  that a given feature is wanted by customers. 
+ 
+ Pushing Back 
+ Don't be afraid to push-back. If a customer requests a feature (for example) that is outside your roadmap and/or ability to deliver then be wary of following the money. 
+ This definitely fits with my experience; I tend to think that at a inter-business level or interpersonal level, the relationship needs to be built on mutual trust and respect - if the other party does not reciprocate then they're probably not someone you want to be dealing with. 
+ Zheng gave two examples: 
+ 
+ A major multinational effectively tried to bully their 50 wanted features on top of Zheng's existing product roadmap - "you want our business or not"? To have done so would have caused massive chaos within the company, affecting product delivery and so on. Zheng counter-proposed a different approach which she and her teams could sustain. The multinational rejected the offer and went elsewhere - only to return months later, accepting Zheng's proposals. 
+ Another major company approached Zheng with features (she didn't give specifics but I think we can guess their approach was more reasonable and more adaptable). Zheng recognised that some of these features would be great differentiators for their product, so (presumably) some changes were made to the product roadmap and the featured added - in essence Zheng followed the money, but did so because there was further advantage than just the money. 
+ 
+ Final Thought: The Iron Triangle 
+ At one point Zheng told an anecdote about a developer talking with her about code quality. I forget the story but it reminded me of the the old "Iron Triangle" or  project management triangle  - the one that is made up of scope, quality and cost (or some similar combination; cost and time obviously being closely related). The model effectively states that you can control any two; the implication being that if you nail people down in terms of scope and cost (or time) you have no control over quality. 
+ I asked Zheng if she was familiar with that model and how she approached it. Her answer wasn't as clear-cut and direct as I would have hoped (which is not a criticism - having presented publicly I know how hard it is to provide an off-the-cuff answer that is cohesive and concise), but seemed to boil down to this: 
+ 
+ Her first substantive reaction was to discuss scope and features, so I would guess that this is her first priority. This would align with her other comments that put great importance on being close to the customer and understanding their needs. 
+ Her second substantive reaction was to discuss product roadmaps, specifically in reference to their timing and how they are used as the basis for cross-team coordination (marketing and so on), so I imagine time would be her second priority. 
+ 
+ By default this would leave quality to manage it self; but we shouldn't forget the "spring clean" approach, whereby random items of debt (arguably involving quality) can be addressed in a structured way. 
+ 
+ https://www.linkedin.com/in/zhenglinz 
+ https://raygun.com 
+ My original hand-scribbled notes from the session:  Adrians Notes - Fireside Chat with Zheng Li, VP of Product @ Raygun - Product Tank Wellington MeetUp - 16-Aug-2018 
+ 
+ Posted in  Career ,  Meet-Up & Conference Reactions ,  Product Creation ,  Uncategorized  |   1  Reply 
+ How to Introduce Yourself as an IT Architect 
+ Posted on  November 8, 2017  by   adriankearns 
+ Reply 
+ If, like me, you are an "IT" architect, you'll know that describing what you do to other people is a challenge… even to people who have some idea about information technology. 
+ It's definitely not like being a fireman. 
+ I think where we go wrong is that we try to explain the totality of what we do, which is too much (too broad, too complex, too nuanced). Instead, perhaps we should just pick one thing and put it in a context people will understand. 
+ Let's break it down. Broadly I think architects do four things: 
+ 
+ Create visions 
+ Craft decisions 
+ Technical leadership 
+ Be wise gnomes 
+ 
+ Creating visions  is all about the ability to paint the metaphorical big picture. It's the big picture that helps people understand where we should all be going, and why. Sometimes the vision is ours - we discover it; other times the vision comes from others - they simply need help crystallizing it and then communicating it. 
+ Crafting decisions  is about getting decisions made. Sometimes it's about guiding and facilitating people so that they make the necessary decisions, in a logical and sensible way; other times we need to make and assert decisions - to break an impasse, fill a void, or provide a specific direction. 
+ Technical leadership  is about making sure the thing is well made. It's dealing with the nuts and bolts, widgets and gizmos. It's not just limited to which tools should we use and how should we put the parts together, it also extends into how we should structure our work so that complexity is managed. 
+ Wise gnomes  have been there before. They've done that. They have first-hand knowledge of where the traps are and experience in dealing with them. 
+ Which of these resonates with you the most? For me, it probably depends on my most recent project, so if someone asks me what I do I'd mentally gravitate to whatever was most front-of-mind. 
+ Explaining it to someone 
+ 
+ Pick one thing that you do (i.e. one of the four above if you're stumped). 
+ Put it into a context the person will relate to. 
+ 
+ Putting it into context could mean using the metaphor of someone they know, someone with qualities that have some relevance to what you do: 
+ " Basically I'm like Gandalf, I stop the team getting themselves into trouble, support through mentoring, and take the lead in making hard decisions." 
+ " I'm like the 'Spock' of our team - when something complicated needs to be solved I'm the go-to person for logical advice and to make sure we're not going to break anything." 
+ Alternatively the context could be based on something you do: 
+ " I'm like the translator that helps the techies figure out what people want, and I help people understand what the technology can do. That means I usually get stuck in the middle and have to work out the hard problems." 
+ "I'm like the navigator of the ship - people have a vague idea of where they want to go but need help deciding exactly where and how to get there. That's kinda what I do in terms of choosing which technology we use and how we want to use it." 
+ _" Oh, so you design computers?" 
+_ " Sort of, I design systems for [system purpose or name of organisation] and help make the big decisions like which technology we'll use." 
+ "  I 'm an IT architect " 
+ Do you start with "  I 'm an IT architect ", or something similar? Personally I do. Most people know a little about a regular (i.e. building / civil engineering architect) and that context is useful for helping to explain what is it you do. 
+ Some of my peers think architect is becoming a dirty word in some circles - I hope that's not really the case. 
+ Remember the Audience 
+ Finally, the important foundation underneath all of this, is to tailor your response to the audience - what background information you think they might already have, and how you want to come across. 
+ You'll notice that in the examples above I've largely avoided talking about the specifics of what we do, this is because successfully leveraging those topics requires the audience to already know what you are talking about. 
+ I think the key is to just get the conversation successfully started - stick to small easy concepts, once that's achieved you can elaborate further or add to it with additional information. 
+ Posted in  Architecture ,  Career ,  Techniques  |   Leave a reply 
+ Are traditional architecture engagement models still relevant? 
+ Posted on  June 19, 2017  by   adriankearns 
+ Reply 
+ An article I wrote, originally posted on the Davanti Consulting website , 30th November 2016, reposted here with permission. 
+ Reinvention dominates the business landscape, pervading how we work and how we engage with those around us. As an architect, I sometimes wonder how many of my industry colleagues have noticed this and contemplated similar innovation. As architects we are often perceived as dinosaurs; surely then, the time to start reintegrating ourselves is now. 
+ THE CURRENT STATE OF ARCHITECTURAL ENGAGEMENT 
+ A good architect can bring excellent value, but that value is lost if it arrives too late. Some of the barriers to this value even appear to be systemic or stem from entrenched legacy thinking. 
+ The way in which architects engage is influenced by several factors, including: 
+ 
+ Control:  architectural governance is often perceived as regulatory rather than wisdom. 
+ Processes:  these are often complex, “heavy”, unwieldy and time-consuming. 
+ Resourcing:  architectural capability is often scarce, a scarcity which is exacerbated by heavy processes. 
+ 
+ Traditional architectural engagement tends to be based on a “these are the rules” approach renown for volumes of documentation and thinking before any real work starts. Interestingly this way of working doesn’t really have a name – it “just is”. There’s definitely a number of architects who got the Agile memo, but overall that percentage is still relatively small. 
+ There are architecture frameworks such as TOGAF, but a framework is not an engagement model. TOGAF has the “Request for Architecture Work” concept, but this is more of a one-shot form. TOGAF is aimed at enterprise architecture and whilst it refers to solution architecture it does not attempt to address how architects should engage with stakeholders in a product or project delivery setting. 
+ At the project level, architectural engagement will ideally be in the form of an embedded solution architect. Ideally their engagement will start with the business case and continue through to overseeing the implementation. At worst, their involvement will be sporadic or non-existent. For various reasons such as a scarcity of architects, coupled with the weightiness of architecture processes, this engagement will likely be forgone for smaller projects. The associated risk is that smaller projects often grow into bigger ones, consequently attracting belated architectural attention. 
+ So, short of everyone drinking the agile Kool-Aid what should we do? What might a revamped engagement model look like? How do we start, and what are the challenges we need to solve? 
+ FUTURE STATE 
+ The goal is to ensure that architects are able to add value in a timely and sustainable manner. 
+ As architects often work as part of an architectural practice, and within the boundaries of architectural governance, both the architecture practice and governance may need to be revamped: 
+ 
+ 
+ The architecture practice should reinforce behaviours and processes that make the team more consistent in their approach, allows them to support each other, and thus positions the team to offer a more consistent experience to their business clients. 
+ 
+ 
+ Ideally architectural governance should support the team in this change as they are its ambassadors. Governance should not be about doing architecture for the benefit of the architect. 
+ 
+ 
+ At a high level, think about making these changes so that the following value is unlocked: 
+ Do this 
+ | 
+ So that 
+ ---|--- 
+Revamp governance. | 
+ 
+ It provides supportive guidance, rather than be a place where things go to be vetoed. 
+ It is easy and relatively painless to use, and therefore gets used more often. 
+ 
+ Create a toolbox of processes, tools & artefacts that is accessible. | 
+ 
+ Non-architects find it easier to understand and use, as a result the architects will need to spend explaining it. 
+ More time can be devoted unlocking value and less time given to discussing the process. 
+ Architects have the time (and opportunity) to spend engaging more broadly and more regularly with the business. 
+ 
+ Encourage architectural mentoring and coaching. | 
+ 
+ Architects can be seen more as collaborators and supporters. 
+ 
+ REVAMPING GOVERNANCE 
+ This isn’t a wholesale re-write, but more of a health check and possible diet. You might be familiar with the concept of a good value proposition being one that your grandmother could understand; check your architectural governance processes and make sure they can pass that test. Make sure that what is expected is very clear, not onerous, and that its business value is self-evident. 
+ CREATE A TOOLBOX OF PROCESSES, TOOLS & ARTEFACTS THAT IS ACCESSIBLE 
+ Empowering the business, whilst keeping them and the architect team aligned, is going to mean having some supporting materials available. These will work with the revamped governance and be very practical in nature. In situations where architects are working with the business in a mentoring context they will need materials that they can refer the business too, and which the business can use with a degree of self-reliance. These materials should outline: 
+ 
+ Technology constraints that are deemed important, and why. If possible, a sense of direction, as business and architecture are seldom static. 
+ What questions to ask themselves, and when, so that the business doesn’t paint themselves into a corner. 
+ Areas of danger or concern; things they should escalate to the architect so that they can be appropriately supported. Thinking along the lines of RACI can be helpful – for example: when should they inform and when should they consult. 
+ 
+ These material might be pre-written guides, checklists and (lightweight) documentation and diagrams, or, checklists that the business progressively complete with varying degrees of assistance from an architect. They might be anything from risk assessments, solution option assessments to solution architecture definitions. 
+ Creating materials that effectively support the business (and the architects) means creating materials that are easy to access – not just in terms of being easily located, but also easy to read, and understand.Materials should be suitably light-weight, so that they are easy to consume and keep up to date. After all there’s no point freeing up an architect’s time just to write more documents. 
+ In terms of the artefacts you expect the business/projects to deliver, ask yourself “who will read the documents”? If the answer is “only other architects” then exactly what value does it provide and is it really necessary? 
+ ENCOURAGE MENTORING AND COACHING 
+ There will always be a need for architects to do the architecture, and to be deeply embedded in a given project; but conversely there are many opportunities where a lighter touch may be equally effective. 
+ Coming to the business with a mentoring approach places everyone on a more equal footing, and increases the chance of a more meaningful collaboration. The architects are close enough to spot potential issues, establish some sort of rapport with the business and lead them where appropriate. The business is free to do some of the heavy lifting themselves, freeing up some of the architect’s time. 
+ If successful, architectural value should become easier to unlock, and more valued by everyone. 
+ ENGAGEMENT STYLE 
+ So far we’ve focused on the engagement model, i.e. elements of structure, broad approach and the rationale behind it. Hand-in-glove with those concepts is the style of engagement, i.e. the communication style used and how you relate to stakeholders on a personal level. 
+ It is vital that you tune-in to your audience. Architects need to be leaders, they need to manage stakeholders of all types, and in a range of different situations. To do this effectively will require you to adjust your engagement style to suit both the audience and the message. 
+ The best laid plans are easily ruined by poor execution, and as good architecture is dependent on good communication it is essential to get this right. Effective communication is a substantive topic in its own right, and beyond the scope of this article, but to get started, consider: 
+ 
+ Being available, approachable and responsive. 
+ Being good at active listening. 
+ Being able to relate to others. 
+ Being able to simplify the complex. 
+ Being able to speak up. 
+ Being good at asking questions. 
+ Being effective at persuasion, mediation, facilitation. 
+ How to say no without coming across as (or actually being) a roadblock. 
+ Picking the right communication style for the audience. 
+ 
+ IN CLOSING 
+ As a discipline architecture offers great value, and architects tend to be clever people, but realising that value is not straightforward – as architects we need to be proactive, we need to be mindful of changing expectations as the world changes around us. Just because architecture deals in the fundamental does not mean it is impervious to change. 
+ As practitioners of architecture, take what you can from new ways of working, such as Agile and collaborative tools. 
+ Show the business and the rest of IT that architecture is not something up an ivory tower, and that we can lead innovation and change by example. 
+ Posted in  Architecture ,  Career ,  Solution Architecture ,  Techniques  |   Leave a reply 
+ Career Progression into Architecture 
+ Posted on  January 31, 2017  by   adriankearns 
+ 1 
+ In terms of career progression into architecture, people typically start off from one of several common “starting positions”. For example, a solution architect or application architect this is likely to come from a software development background. 
+Here a map of some of the more common paths: 
+ There are more types of architect and pathways than what 's depicted here, but based on conversations with architects I have met (or interviewed) this is a fairly accurate summary of some of the more common paths. 
+ The Architectural Role Meta-Model 
+ For simplicity, I define it in three parts (outlined below). In broad terms, Enterprise and Solution architecture disciplines cover the full range of domains but operate within a specific level of abstraction; whereas Domain architects cover all levels of abstraction but within a specific domain. An in-depth write up on this can be found  here , but in summary: 
+ 
+ Enterprise Architects – who typically operate at the highest level of architectural abstraction and across a broad range of domains. 
+ Solution Architects – who typically operate at a project or programme level. Although solution architecture covers the full breadth of domains, an individual solution architect will typically be relatively narrow in their focus – either providing general technical leadership within the scope of a specific project, technology or domain. 
+ Domain Architects – typically operate simultaneously across the spectrum of enterprise and solution architecture, but within a single specific domain. They will support both enterprise and solution/delivery specific needs. 
+ 
+ Progression 
+ We typically see common paths into and through architecture, such as the software developer into the application or solution architecture space; business analysis into the business architecture space, and so on. Once in the architecture space it is possible to side-step into  related  roles – this might be done as a conscious and fundamental career choice, or may simply represent shorter-term variety driven by the work available. 
+The progression from solution architecture to domain architect to enterprise architect is common but by no means the only career path. 
+ To a certain extent there's a drift upwards in terms of abstraction (developer to solution architect; solution architect to domain or enterprise architect), but this isn't always strictly the case. It's fair to say that each role has a set of skills and a temperament that suit it - some people will mature from one role into the next, others will take an alternate path. 
+ The Product Specialist 
+ One of the assumptions behind the solution, domain and enterprise architect roles is that these people often have a breadth of experience that goes beyond a single product or technology stack. In other words, their careers are not defined along narrow vendor specific lines. This is largely borne out by what I have seen in the market in terms of the experience people have and the career paths they have taken. 
+ Such specialists will be genuinely skilled at what they do but lacking breadth of vision and depth of understanding that someone with a more diverse background is likely to have. 
+ Is this good or bad? Well I think that depends on what you need for the problem at hand; sometimes you need a very specialized tool for a very special problem, whilst other-times a more flexible tool is best. 
+ One thing to be sure of though, as the technology market grows in breadth and diversity, areas of specialization will deepen. As anyone familiar with web development in the early 2000's can tell you, the number of stacks and architectures available has grown considerably; as that range increases so does the potential for individuals to specialize; so does the possible combinations of skills a specific job description might call for. 
+ This specialization is reflected in the vendor space where larger vendors have their own subset of roles (think marketecture) that mirror the role hierarchies found in the general market. We therefore have product specialist roles starting to emerge, with people operating at the level of a solution architect but with a background that cannot assumed to be as broad as those from a more general background. 
+ Posted in  Architecture ,  Career ,  Solution Architecture  |   1  Reply 
+ Categories 
+ 
+ #ArchitectureInTransformation  (7) 
+ Agile  (1) 
+ Architecture  (11) 
+ Career  (4) 
+ Cargo Bike  (7) 
+ Code UWP / C#  (5) 
+ Code UWP / XAML  (4) 
+ Critical Thinking  (1) 
+ ITEA  (3) 
+ Kiribati  (3) 
+ Machine Learning  (1) 
+ Meet-Up & Conference Reactions  (7) 
+ Open Source  (1) 
+ Personal Projects  (3) 
+ Product Creation  (3) 
+ Solution Architecture  (9) 
+ Solution Architecture Handbook  (1) 
+ Techniques  (6) 
+ Uncategorized  (12) 
+ WSAF  (3) 
+ 
+ Archives 
+ 
+ August 2020 
+ April 2020 
+ March 2020 
+ November 2019 
+ October 2019 
+ November 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ March 2018 
+ February 2018 
+ November 2017 
+ September 2017 
+ August 2017 
+ June 2017 
+ May 2017 
+ February 2017 
+ January 2017 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ December 2015 
+ September 2014 
+ July 2013 
+ September 2011 
+ August 2011 
+ 
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

@@ -1,0 +1,310 @@
+Skip to main content 
+ Javascript is disabled on your browser. In order to display this website properly, please enable javascript. 
+  Workiva Workiva.com  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Partners 
+ Connectors 
+ Security 
+ 
+ 
+ Solutions 
+ 
+ Capital Market Transactions 
+ Internal Audit Management 
+ Management Reporting 
+ SEC Reporting 
+ SOX Compliance 
+ Statutory Reporting 
+ + 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ Industries 
+ 
+ Banking 
+ Energy and Utilities 
+ Government 
+ Higher Education 
+ Insurance 
+ Investments 
+ + 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Customers 
+ The nicest thing about the Workiva platform is just feeling in control. 
+ ](/customers) 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Education 
+ 
+ Community 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Off the Books Podcast 
+ Surfing the uncharted waters of accounting, finance, and wherever else the waves take us. 
+ ](/off-the-books-podcast) 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Request Demo 
+ 
+ 
+ Sign In 
+ 
+ 
+ Menu 
+ Introducing our tech stack 
+ June 16, 2015 
+ Dave Tucker 
+ Choosing a tech stack is about as important as it gets for developers. 
+ Every company has its stories of trials and errors, and we’re no exception. But how we got to where we are tells a big part of the story of who we are, so we thought sharing our inside story would be a great way to introduce our new Tech Blog. 
+ Huddling around the table 
+ When we started in 2008, the cloud was emerging as a platform for building serious enterprise applications. Many of us had come from backgrounds in enterprise software and understood the challenges of getting software certified to be deployed within large corporate IT centers, and we understood the challenges of trying to scale everything ourselves. 
+ Given that background, the cloud looked pretty enticing. The thought of maintaining a single version of our software and have it scale automatically had huge appeal. 
+ But we wondered, Will large corporations trust their sensitive data in the cloud? 
+ We decided it was worth giving a try. Back then there was a new entrant in cloud platforms: Google App Engine. It held the promise of simply writing code and pushing it to the cloud without having to worry about all of the mechanics of managing OS versions, patches, installation scripts, and other mundane details of IT.  App Engine was in an early beta at the time and, while immature, was still able to deliver simplicity, scale, and manageability of the platform—allowing us to move more quickly as a development team. 
+ The early day 
+ That let us shift focus to our client platform. We knew we were going to build a high resolution productivity suite with many demands in terms of text layout, complex user interactions, and performance. HTML5 and JavaScript were not yet as advanced as they are now, so we looked into the Adobe Flex platform running in Adobe Flash Player. It gave us everything we needed and then some. 
+ Our first product was an Adobe Flex client talking the AMF protocol to a Google App Engine backend running Python. Those early days as a developer were thrilling—we could run the whole environment on our laptops for development and with one command, push it all to the cloud and watch it run at scale! 
+ But like any development effort, you never get too far before you start running into obstacles.  App Engine restricted us to 30 seconds for each request in those early days and also gave us a fairly small amount of memory in each of those instances. It gave us a phenomenally scalable datastore and the elasticity we dreamed of, but the front-end experience was paying a price. 
+ Size matters 
+ When trying to build a complex enterprise business app, you often need lots of memory and the the ability to run tasks that take longer than 30 seconds to complete.  These were the days before Google Compute Engine, App Engine Task Queues, modules, and configurable instance sizes. 
+ Our solution was to spin up some Linux servers on Amazon EC2 and treat them as services that could be called from App Engine. Thus our model for our first few years was to handle all of the storage and simple requests on App Engine. When something really big needed to be done, we would pass it over to a server on Amazon, do the processing, and send it back to be stored in the App Engine Datastore. 
+ On the Amazon side, we learned to rely on technologies like RightScale to provide dynamic scaling and server management, and services such as the Simple Queue Service to manage incoming jobs and the asynchronous nature of some of our tasks. This approach took us a long way and became the basis for the core of the early Wdesk platform. 
+ Thankfully, Google and Amazon were adding new services and capabilities all the time. When App Engine Task Queues arrived, they gave us an excellent asynchronous programming model that we pushed well beyond what it was designed for.  Amazon soon enabled a hosted relational database in RDS and a blob storage service in S3. Google eventually produced Cloud Storage and Compute Engine—all coming together in the Google Cloud Platform that we know today—that further scaled and simplified our tech stack. 
+ Rinse and repeat 
+ People often ask us why we built a particular service the way we did—and we often ask ourselves the same question—but we always remind ourselves that the cloud computing world when we built our first iteration of anything was nothing like the world of today. 
+ Like any early cloud developer, we did rewrites and refactoring constantly but now leverage these newer underlying services to their fullest. This required streamlining our build and release process, getting to the point where we release new code to production every night and internally every hour—its own story that we’ll soon tell. 
+ The answer to life is 42 
+ Today, we are in the middle of the latest revolution built upon Docker containers and microservices. We’re working toward the goal of having every development team release its latest service updates multiple times per day on the tech stack of their choice, thanks to the beauty and simplicity of containers and the emergence of new container management platforms like Fleet and Kubernetes. It’s gratifying to see the cloud as a whole evolving to the simplicity of the App Engine platform we came to love not that long ago. 
+ What about the client? Our user experience often pushes the performance of FLEX, so we are moving headlong toward a pure HTML5/JavaScript client, leveraging technologies like Dart that enable us to create an outstanding user experience across desktop and mobile. More to come here as well. 
+ Connect with us 
+ This is the short version of our tech stack story. We’re excited to share a lot more about what we’ve learned in the hopes that it can help others shortcut their learning. You’ll hear a lot of different developers’ voices on this blog, which keeps the perspectives varied. 
+ Most importantly, our intent is to share both successes and failures in the spirit that we often learn more from the latter than the former. If you have questions or suggestions on what you’d like to learn more about, please reach out to us at  techblog@workiva.com . 
+ Cloud Computing 
+ 
+ Most Popular 
+ Takeaways from Five Dysfunctions of a Team Training 
+ Workiva One of Fortune Magazine’s 100 Best Companies to Work For 
+ DSM Hack 2018 - My Experience 
+ Popular Categories 
+ Giving Back 
+ Culture 
+ Communication 
+ Leadership 
+ Dave Tucker 
+ _ 
+ VP of Engineering 
+ _ Workiva 
+ About the Author 
+ Dave is the VP of Engineering at Workiva. He has shifted his emphasis from code to people over the years, but still loves technology and learning what is possible in the cloud. 
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Connectors 
+ Partners 
+ Security 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Support 
+ 
+ Community 
+ Customer Support 
+ Developers 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Locations 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Twitter 
+ 
+ 
+ YouTube 
+ 
+ 
+ Select Region 
+ 
+ 
+ 
+ 
+ Legal 
+ Privacy Policy 
+ Sitemap 
+ 
+ (C)2021 Workiva 
+ 2900 University Blvd 
+Ames, IA 50010 
+  AICPA  
+ 
+ __ 
+ In the meantime, visit the resources below. 
+ [ 
+ Handbook: Surviving the New Normal 
+ ](/new-normal) 
+ [ 
+ How Sysco and Blackbaud kept business as usual 
+ ](/resources/how-sysco-and-blackbaud-kept-business-usual) 
+ [ 
+ Connected Reporting and Compliance Brochure 
+ ](/resources/connected-reporting-and-compliance-brochure) 
+ Select Region 
+ 
+ Australia 
+ France 
+ Germany 
+ Netherlands 
+ Singapore 
+ United Kingdom 
+ United States 
+ 
+ Online registration is currently unavailable. 
+ Please email  events@workiva  to register for this event. 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Thank you 
+ A Workiva team member will follow up with you shortly. 
+ Thank you for registering 
+ You'll receive a confirmation email shortly. 
+ Thank you 
+ You are now subscribed to receive blog updates. 
+ Thank you 
+ Your preferences have been updated. 

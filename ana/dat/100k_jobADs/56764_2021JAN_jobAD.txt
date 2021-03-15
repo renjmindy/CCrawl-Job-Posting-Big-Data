@@ -1,0 +1,262 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Design Quality Program Manager (Project Manager) 
+ CBRE 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Design Quality Program Manager (Project Manager) 
+ CBRE 
+ [](mailto:?subject=Design%20Quality%20Program%20Manager%20%28Project%20Manager%29&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14240188/design-quality-program-manager-project-manager/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 23, 2020 
+ Location: 
+ Memphis, United States 
+ __ Show Map 
+ Salary: 
+ Open 
+ JOB SUMMARY 
+ CBRE is looking for a Design Quality Program Manager to work for a large technology client in New York City. 
+ The Design Quality Program Manager is responsible for tracking and managing our client's many building design and construction projects using dashboards and other metrics / KPI tracking tools. 
+ The Design Quality Program Manager will work with internal Engineering and Data Center teams to drive Design Quality initiatives and reviewing construction RFIs in efforts to improve design quality and gaps. This is program level initiative, not an individual project level. Therefore, knowledge and use of typical program level metrics or KPIs will be helpful. This role will work closely with a team of cross-functional stakeholders across the organization, helping client and other relevant stakeholders to develop, optimize and oversee our quality data systems. 
+ The Design Quality Program Manager will work independently with minimal guidance and proactively use available resources to meet deadlines and complete tasks. On a day to day basis, the individual will compile program needs, manipulate and analyze data, track trends, look for improvements, and deliver visual representations to optimize program needs and results. 
+ ESSENTIAL DUTIES AND RESPONSIBILITIES 
+ 
+ Understanding of General Contractor's Request for Information (RFIs) 
+ Great communicator who can express complex ideas in a concise manner through all digital mediums (technical documents, presentations, video conference) both internally and with clients. 
+ Ability to data mine and compile / organize data for weekly Quality reports reviews including creation of necessary improvement plans 
+ Assemble heatmap and trend data presentations for Design Quality reports and other governance meetings along with periodic newsletters. Characterize high priority risk areas based on both quantitative and qualitative assessments. 
+ Work with cross-functional quality stakeholders to drive consistency in quality metrics presentation layers and alignment with business objectives to drive faster decision making for both product and process improvements. 
+ Professional skill set how design affects construction and ability to learn from previous projects. 
+ Well organized and can meet changing project priorities 
+ Drive a process savvy culture that embraces process as a means to achieve functional objectives through delivery on key performance indicators 
+ Other duties as assigned. 
+ 
+ SUPERVISORY RESPONSIBILITIES 
+ No formal supervisory responsibilities in this position. Provides informal assistance such as technical guidance, and/or training to coworkers. May lead project teams and/or plan, and supervise assignments of lower level employees. 
+ Manages 3rd party project delivery resources/team. Responsible for identifying training needs, tracking performance, coaching, and motivating team members. 
+ QUALIFICATIONS 
+ To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. 
+ Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. 
+ EDUCATION and EXPERIENCE 
+ Bachelor's degree (BA/BS/BEng/BArch) from College or University in a technical area of study. Minimum four years of related experience and/or training. 
+ Additional (Preferred) Requirements: 
+ 
+ Experience with data platform and visualization technologies such as Tableau, Data Studio, 
+ and BigQuery or any data visualization tool 
+ BA/BS degree in Business Process Management, Operations, Civil/ Electrical/ Mechanical/ 
+ Industrial/ Process Engineering, or other technical field or equivalent practical experience. 
+ Four years work experience. 
+ Familiarity with commercial building design & construction industry practices. 
+ Ability to collaborate and influence across multiple levels of an organization with experience 
+ leading cross-functional process improvements 
+ Tenacious problem solver with effective verbal/written communication and facilitation skills. 
+ 
+ Software Fluency Requirements: 
+ Software Skills (preferred)  : 
+ 
+ Must demonstrate expert-level skill of the G-Suite tools, 
+ especially Google Sheets and sharing in Google Drive. Must have recent enterprise-wide 
+ experience with: 
+ Google Drive 
+ Google Sheets 
+ Google Docs 
+ Google Slides 
+ Google Hangouts / Google Meet 
+ Google Chat 
+ 
+ Practical preferred Software experience: 
+ 
+ Tableau or Data Studio or other dashboard creation software 
+ Collect user inputs through a Google Form into a Google Sheets dashboard. 
+ Retrieve data with LOOKUP formulas 
+ Apply logic with conditional formulas 
+ 
+ Other optional software application experience: 
+ 
+ BIM360 (not required, but may be helpful) 
+ AutoCAD (not required, but may be helpful) 
+ 
+ 
+ Practical Requirements: 
+ 
+ Creating "interactive dashboards" for reporting project / program status using: 
+ Data Studios 
+ Tableau 
+ Other dashboard creation software applications. 
+ 
+ Analytical Skills 
+ 
+ data analytics using spreadsheets and database applications 
+ data reporting 
+ KPI & metric tracking 
+ Dashboard creation using Tableau 
+ 
+ Ideal skilled dashboard creators should be able to do all the following: 
+ 
+ Collect user inputs through a Google Form into a Google Sheets dashboard. 
+ Retrieve data with LOOKUP formulas 
+ Apply logic with conditional formulas 
+ Automate your dates 
+ Add interactivity with data validation 
+ Chart your data 
+ Show trends with sparklines 
+ Apply conditional formatting to show changes 
+ Format like a pro!hare and publish your dashboard for the world to see 
+ 
+ 
+ Prior work environments  ** (helpful, but not required)  **  : 
+ 
+ Prior work in architectural or engineering design consulting firm / business 
+ Working knowledge of architectural, civil, mechanical or electrical engineering 
+ Familiarity with commercial building design & construction industry practices. 
+ 
+ CERTIFICATES and/or LICENSES 
+ PMP (US and/or Canada) and LEED AP preferred. 
+ COMMUNICATION SKILLS 
+ Excellent written and verbal communication skills. Strong organizational and analytical skills. Ability to provide efficient, timely, reliable and courteous service to customers. Ability to effectively present information. 
+ FINANCIAL KNOWLEDGE 
+ Requires advanced knowledge of financial terms and principles. Ability to calculate intermediate figures such as percentages, discounts, and commissions. Conducts advanced financial analysis. 
+ REASONING ABILITY 
+ Ability to comprehend, analyze, and interpret complex documents. Ability to solve problems involving several options in situations. Requires advanced analytical and quantitative skills. 
+ OTHER SKILLS and ABILITIES 
+ Intermediate skills with Microsoft Office Suite. Ability to read and understand architectural drawings. Knowledge in MS Project, leases, contracts, and construction practices. 
+ SCOPE OF RESPONSIBILITY 
+ Decisions made with thorough understanding of procedures, company policies, and business practices to achieve general results and deadlines. Responsible for setting work unit and/or project deadlines. Errors in judgment may cause short-term impact to department. 
+ 
+ 
+ Internal Number: 20030344 
+  __  Create a Job Alert for Similar Jobs  
+ About CBRE 
+ With broader and deeper capabilities than any other company, CBRE is the leading full-service real estate services and investment organization in the world. CBRE Group, Inc. is the world’s largest commercial real estate services and investment firm, with 2017 revenues of $14.2 billion and more than 80,000 employees (excluding affiliate offices). CBRE has been included in the Fortune 500 since 2008, ranking #214 in 2017. It also has been voted the industry’s top brand by the Lipsey Company for 17 consecutive years, and has been named one of Fortune’s “Most Admired Companies” in the real estate sector for six years in a row. Its shares trade on the New York Stock Exchange under the symbol “CBRE.” CBRE offers a broad range of integrated services, including facilities, transaction and project management; property management; investment management; appraisal and valuation; property leasing; strategic consulting; property sales; mortgage services and development services. 
+ Connections working at CBRE 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Laser R&D; Scientist 
+ __  Boulder, Colorado 
+ 
+ 
+ 
+ 
+ KMLabs 
+ __1 Month Ago 
+ 
+ 
+ Senior Software Engineer 
+ __  Boulder, Colorado 
+ 
+ 
+ IHS Markit 
+ __Today 
+ 
+ 
+ Senior Frontend Developer, AVP 
+ __  Krakow, Poland 
+ 
+ 
+ State Street Corporation 
+ __Yesterday 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

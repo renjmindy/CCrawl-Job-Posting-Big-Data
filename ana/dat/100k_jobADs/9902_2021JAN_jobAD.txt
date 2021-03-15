@@ -1,0 +1,660 @@
+Main menu 
+ Skip to content 
+ 
+ Visit Digital Bear Entertainment 
+ Join Us on Facebook 
+ Visit our YouTube site 
+ Follow us on Twitter 
+ Gear Review Clips 
+ 
+ I Haven't Had My Coffee Yet -- Don't Make Me Kill You! 
+ Politics, Ethics, and life in the Music Industry. 
+ RSS 
+ Tag Archives: career 
+ Guitar intonation: how to keep your guitar in tune | Disc Makers 
+ Posted by  Jordan Tishler  on  January 12, 2015 
+ by  KEITH HATSCHEK 
+ Many factors can cause your stringed instrument to have intonation problems, including old strings and fluctuations in weather and humidity. Maintain and protect your instrument to keep your guitar in tune. 
+ I was chatting with a teaching colleague about a class recording project that his students were wrapping up, and he mentioned that a rock band had come into our campus studio for a weekend recording session and couldn’t manage to get their electric guitars to stay in tune. They had to live with the recordings of poorly intonated instruments, and we used it as a lesson to our own sound recording students to meet with the band well before the session day and emphasize the importance of getting their instruments into studio shape for every recording project. 
+ While the next band to come in had better luck with tuning, a few of the following ones didn’t, which prompted us to add a well-intonated Taylor electric guitar to the recording studio’s gear kit. Now, when a band shows up with guitars that are not set up properly, the students can suggest trying the Taylor, which we know has rock solid intonation. Most guitarists are happy to do so and are pleased with how “in tune” the results are. 
+ But what causes a guitar to have intonation problems? And what can you do about it if your instrument is causing you to be frustrated? How can you keep your guitar in tune? 
+ Symptoms of intonation problems 
+ Guitars use what is known as an equally tempered scale, as do pianos and most western musical instruments. Without going into the science, the guitar’s tempered scale is a compromise and doesn’t result in 100% precise tuning or intervals between notes. Since guitars have this inherent weakness when it comes to being in tune, it’s important to develop a basic understanding of guitar intonation and adjustments to get the best performance out of your instrument. 
+ Most guitar players have a tuner of some sort, whether it’s a stomp box on the floor, an expensive rack mounted LED cascade, or a simple portable LED-model – all of which can speed up tuning and accuracy. Tuners can be helpful in diagnosing and making basic intonation adjustments yourself, which we’ll discuss. One of the most obvious signs that your instrument has intonation issues is if each string played open is in tune, but when you play a bar chord anywhere up the neck, it sounds out of tune. Shaun Conrad, an experienced luthier, lists some of the potential causes for guitar intonation issues on his informative website,  guitarrepairbench.com . 
+ Guitar intonation issues can be a result of: 
+ 
+ Faulty or worn out strings 
+ High action/Extreme relief (truss rod adjustment needed) 
+ Bridge/saddle pieces need adjustment 
+ Nut or frets need adjustment/repair 
+ Changing string gauge or tunings 
+ 
+ The first thing on this list may be the most overlooked. If you can’t remember when you last changed the strings on your guitar or bass and are having trouble with intonation, stop now, get a new set and put them on before proceeding any further! According to Conrad, “Replacing your strings could solve your intonation problems. Also, it is impossible to properly set your intonation with worn strings.” 
+ While we can’t address the full range of possible problems and solutions that spring from Shaun’s list, one of the most basic adjustments can be done by any electric guitarist with a tuner: fine tuning your saddle pieces. I spoke with Bill Stevens, a guitar repair expert who manages  The Music Box  retail music store in Stockton, CA and who has been adjusting and repairing guitars for more than three decades. 
+ “For a quick check to see how much intonation adjustment is needed,” says Stevens, “I like to use one of the guitar tuners that has a needle to register intonation and an LED that goes to green when the string is in tune. First, tune an open string so it’s in tune using the tuner, then go on up to the 12th fret and press down and play the octave of the open string. If it’s a bit flat, you can shorten the string length by moving the saddle toward the fretboard using the adjustment screw [on an electric guitar]. If the octave registers as sharp, then you’ll lengthen the string by using the adjusting screw to move the saddle in the opposite direction, away from the fretboard. 
+ “Use the tuner to get the octave in tune with the open string. Carefully adjusting the saddle pieces in this way can help clear up some of the most typical intonation problems on your electric guitar. If you have an acoustic guitar, you won’t have individual saddle adjustments, however most manufacturers are shipping new acoustics with compensating saddles which help improve intonation. 
+ “Weather can have a lot to do with how your guitar plays,” Stevens continues. “Try to avoid extreme temperatures when your guitar is in its case. Particularly leaving your guitar in a car in summer, as it can get incredibly hot. In winter, don’t leave your guitar out in the garage or anywhere there will be extreme temperature or humidity swings. Although it sounds pretty basic, get a decent case to protect your instrument, too. Nearly every guitar sold used to come with a case of some sort, but today, many guitars don’t include a case to protect your investment. So I encourage everyone getting a guitar to at least get a soft bag. Also, don’t lay down your guitar when storing it, it’s better to keep it upright in the case, like you would store a vinyl record album. 
+ “Mandolins and ukuleles are less likely to have intonation problems due to their smaller scale. Bass guitars, however, may need regular attention since the amount of tension on the neck is way more than a typical electric guitar.” 
+ Truss rod adjustments 
+ Most modern guitars include a metal rod that helps stabilize the neck and reduce or eliminate neck bowing that plagued older guitars without truss rods. According to Stevens, “Summer is a time when you may typically need a truss rod adjustment due to the heat causing a bit of neck bowing. It’s mostly the case with newer guitars where the wood is not quite cured. Then in winter, the neck may bow a bit in the other direction and you may need a little relief, moving the truss rod in the opposite direction than you did in the summer. Many older guitars won’t require regular truss rod adjustments so long as they don’t experience any extreme conditions, since the wood is settled.” 
+ Your instrument may also require a truss rod adjustment if change to a different gauge of string and end up with action that is too high to play comfortably. Or if you want to use a lowered tuning which results in annoying fret buzz. 
+ “Most new guitars need a truss rod adjustment once you start playing them,” Stevens adds. “Although the guitar was probably set up to play properly at the factory, it’s usually been in storage for a few months time, so it will need a tweak. We offer a free set up and adjustment on every guitar we sell here. I suggest the customer take the guitar home and play it for a week or so, then come back in and tell me how they want it set up. No matter where you are buying a guitar, you should ask that the store go over the intonation and set up for you, ideally at purchase or within the first week after.” 
+ Check your neck’s relief 
+ Unlike adjusting the saddle pieces on your electric guitar, which can only affect string length, truss rod adjustment can have a major impact on your guitar’s playability. I always have an experienced guitar tech make any truss rod adjustments on my guitars. But I can check to see if I need an adjustment using two simple aids, a capo and a thickness or “feeler” gauge to measure the amount of neck relief. 
+ Start by placing a capo at the first fret on your guitar neck. Then with your feeler gauge within reach, hold down the string where the neck joins the body. Insert the feeler gauge between the string and the fret at the eighth fret. On a typical electric guitar, there should be between .3 mm and .5 mm clearance. This clearance is referred to as “neck relief.” Too much neck relief can cause the neck to have higher action in the middle of the neck resulting in poor intonation (fretted notes will be sharp) and just being hard to play. Not enough neck relief can cause fret buzzing. 
+ Conrad also states there is no one measurement for how much relief should be used. “Just like anything else in adjusting guitars, neck relief is a player’s preference. It depends on the style of the instrument and the player.” Should you want to go ahead and dive into making your own truss rod adjustments, Shaun shares detailed instructions on  electric guitar truss rod adjustments . 
+ Closing thoughts 
+ As a guitarist myself, I’ve played and owned many guitars over the years and I’m happy to say the guitars we have at home now all have very good intonation and are quite stable. Others that I’ve owned over the years were more temperamental, or fluctuated greatly with changes in weather, requiring seasonal adjustments. And while I’m comfortable checking my neck’s relief or adjusting intonation via the saddle pieces, I get a pro to do my truss rod tweaks, when needed. Hopefully, this article has helped you learn a little more about guitar tuning and intonation and you’ll have a better idea of what it takes to make your guitar more playable and in tune, especially if you’ll be using it for recording. 
+ Story Links 
+ Equal temperament  (Wikipedia) 
+Explains the equal temperament system of tuning in a musical instrument. 
+ Guitar Tuning Nightmares Explained  (Jack Endino) 
+A fascinating three-part article on the realities of working to get guitars in tune in the recording studio by Seattle-based engineer/producer Jack Endino. 
+ Tuning the Guitar  (Paul Guy) 
+Delve deeper into the science of how the tempered scale evolved in a fascinating article by Swedish guitar guru Paul Guy. 
+ Keith Hatschek is a regular contributor to Disc Makers Echoes blog and directs the Music Management Program at University of the Pacific. He’s also written two music industry books, How to Get a Job in the Music Industry  and  The Golden Moment: Recording Secrets from the Pros. 
+ Read more:  Guitar intonation: how to keep your guitar in tune – Disc Makers   http://blog.discmakers.com/2014/07/guitar-intonation-how-to-keep-your-guitar-in-tune/#ixzz37ac6bUDv 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Reddit 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Leave a comment  Posted in  bands ,  Don't Fuck Up ,  engineer ,  gigs ,  music ,  musician ,  performance ,  production ,  recording ,  touring ,  venue  Tagged  artist ,  career ,  caring ,  Digital Bear Entertainment ,  engineering ,  gig ,  music ,  musician ,  performance ,  recording ,  studio ,  touring 
+ 9 things you should never do on stage | Disc Maker's 
+ Posted by  Jordan Tishler  on  December 29, 2014 
+ by  SHAUN LETANG 
+ It’s good to know what you should be doing to advance your music career, but it’s also important to be aware of the things you should avoid. Don’t do these things during a music performance. 
+ This post on music performance tips was adapted from an article on Music Industry How To . Reprinted with permission. 
+ I’m sure you’ve read guides and posts and advice about how to move your music career forward. While it’s good to know what you should be doing to advance your music career, it’s also important to be aware of the things you should avoid. Unfortunately, doing the wrong things can kill your career a lot quicker than doing the right things can push it forward. 
+ With that in mind, I want to share with you nine mistakes I’ve seen musicians make during a music performance. I’ve tried to leave personal opinion out of it, instead focusing on what will make for a poor show for your audience. After all, it’s them you’re there to entertain, right? 
+ Here are nine things you should never do on stage! 
+ 1. Tune your guitar to start the show 
+ Play guitar? Don’t go on stage and spend the first few minutes of your set tuning your guitar. It’s not fun for the crowd, and it just shows how unprepared you are. Practice tuning regularly so you can get it sounding right fast, and plan for time backstage to prepare yourself and your instrument so you’re ready to play when you’re on 
+ 2. Argue with the venue staff 
+ Things don’t always go to plan. The show might start later than advertised, there might be a smaller audience than expected, or the sound engineer might not get your levels right. Despite all of this, don’t go on stage and vent your frustration over these issues – or worse, directly argue with staff during your show time. 
+ Believe it or not, I’ve seen this happen multiple times. It’s easy to feel entitled and like you want to get it off your chest, but there’s a time and a place. When you are on stage, you’re there to entertain the crowd and have fun, so be professional and perform to the best of your ability – whatever the circumstances. 
+ 3. Make it obvious when you make a mistake 
+ Mistakes happen. What should you do when they do? Simple: carry on with the show! Unless it’s something major, like a part of the stage has fallen down, chances are the audience won’t even notice. And even if they do, if you carry on as normal, it probably won’t bother them. Don’t make a big deal out of mistakes or highlight them, just keep on with your set. 
+ 4. Do more talking than performing 
+ Ok, so it’s important that you let people know where they can catch you next or that they can buy your merch during or after your set. That said, no one wants to hear you talking about it for ages between each song. This gets boring and breaks up your show. 
+ Be sure to incorporate short busts of promo across your gig, but keep it entertaining. Mention things in intros while the music is still playing, at the end of songs, and to backing music briefly between tracks. This lets you get out what you have to say without killing the vibe. 
+ 5. Disparage other musicians 
+ The last thing you want to do is call out another band. Don’t criticize, mock, or laugh at another artist while you’re on stage. If you’re touring and have been invited to gig at somewhere outside your usual circles, treat the local musicians there with respect. There are so many “scenes” out there currently that are known for bands who just bash each other for no good reason. Chill out and enjoy the music. 
+ 6. Let your ego get in the way 
+ On a related note, it’s important to never boast about your act or music while you’re on stage. Keep your ego in check. In fact, get rid of your ego. Keep that all to yourself. As a crowd member, it’s so laughable to see band hype themselves up on stage. If you think you’re great, be great. No one likes musicians who are too full of themselves. 
+ 7. Shout into a microphone at close range 
+ As a musician myself, I’m fully aware that it’s easy to get excited by a crowd that is really into your show. If you’re going to raise your voice and interact with your audience, it’s important to be conscious of the volume. Never shout in to a microphone at close range. It’s not always a scream that gets a crowd going. 
+ 8. Split up 
+ Never quit your band while you’re on stage! I remember waiting to see a local band for the longest time when I was younger. I finally got an opportunity to see them, and in a really great venue. We got to the show just as the guitarists we’re setting up and tuning. 
+ After catching a late bus, I recall feeling so lucky that we hadn’t missed any of the set. Just as the guitarist on stage had finished tuning, there was a loud banging noise from the other end of the room. As I glanced back, the drummer had left the stage and the guitarists began to pull out the cables. By now the crowd, who had been waiting patiently for a little over twenty minutes, started to panic. 
+ Noise and confusion circulated around the room very quickly. A moment later, the vocalist took to the mic. “Eh, we’ve actually just broken up. Sorry.” And that was it. To this day, I have no idea why. There was no explanation, and from an audience perspective, it has to be one of the worst things I’ve ever witnessed. Leave band differences for after the show your paying audience has come to see. 
+ 9. Forget why you’re there 
+ Probably the most important part of your attitude on stage is to never forget why you’re there in the first place. The stage is the number one way to showcase your music and increase your fan base. If you have ambition and goals as a band, then never forget why you’re there when you’re on stage. 
+ Bonus! Don’t leave your ears unprotected 
+ As a musician, your ears are one of your most important assets (they’re pretty useful in day-to-day life too). While it may not affect your relationship to your audience, what many musicians don’t realize is loud music can damage your ear drums and cause tinnitus; a constant ringing in the ear. Unfortunately, I’ve got this. It’s not fun. While I’ve learned to live with it, for over a year it caused me serious sleeping problems and other issues. 
+ Don’t make the same mistake I did, protect your ears. Don’t have music unnecessarily loud, and when you’re gigging and rehearsing, wear ear plugs. You need your ears, so take good care of them. 
+ Conclusion 
+ Gigging is a top form of promotion and one of the truly fun things about being a musician. If you want more advice on effectively promoting your music, have a look at my  free marketing eBook for musicians . It’s one that’s already helped thousands start doing the right things in their music career. Hopefully it’ll help you too. 
+ Read more:  9 things you should never do on stage – Disc Makers   http://blog.discmakers.com/2014/06/9-things-you-should-never-do-on-stage/#ixzz36HDtRTnp 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Reddit 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Leave a comment  Posted in  artist development ,  artist management ,  bands ,  bar ,  club ,  Don't Fuck Up ,  gigs ,  music ,  musician ,  performance ,  showcase ,  touring ,  venue  Tagged  artist ,  career ,  caring ,  Digital Bear Entertainment ,  entertainment ,  fans ,  gig ,  music ,  musician ,  performance ,  professionalism ,  touring 
+ It’s called the music business for a reason | Disc Makers 
+ Posted by  Jordan Tishler  on  December 22, 2014 
+ Here are 12 pieces of advice from a CPA/business manager to help you manage the business side of your music career 
+ It’s called the music business for a reason — yet for many indie artists, organizing and maintaining the business end of a music career can rank just above dental surgery when it comes to activities of choice. 
+ It doesn’t have to be that way, says Errol Wander, a veteran CPA, business manager, and partner at Citrin Cooperman who works with artists like Gavin DeGraw and Dirty Projectors (and who also plays a mean guitar in his spare time). Following just a handful of straightforward suggestions will streamline your music business existence and help you avoid common financial pitfalls that can eat up precious hours and energy. The result? More time, creativity, and money to make your art the best it can be. 
+ Here are some of Wander’s top tips, strategies, and philosophies to help you get on the right track: 
+ Understand that better business leads to better music 
+ “Having a career in music is an amazing thing,” says Wander, “but it’s not pre-ordained and it’s not a birthright. It’s hard work, but it can be done, and being responsible with your business will help you reach your goals.” 
+ As much as you might not enjoy integrating things like diligent record-keeping into your daily musical existence, Wander affirms that any time invested to such ends will pay you back in dividends, and good business practices are equally important for major touring acts and indie up-and-comers alike. 
+ “No matter what level you’re at, you’re going to be able to spend the most time on your art if you treat your art like a business,” he says. “I hope that’s not distasteful to hear, because it’s necessary. Otherwise, it’s a hobby. If music is a career you want, it needs to be treated like a career.” 
+ File your taxes – always 
+ Regardless of how much money you may have earned or lost in any given calendar year, you must file your taxes, says Wander. And even if you only earned enough from your music in 2013 to buy yourself a cup of coffee, failing to file at all can have unexpected consequences. 
+ “I had one guy come in with six years of returns to file,” says Wander. “He thought it was going to be this big crisis and he was going to owe lots of money, but in fact, he had refunds owed to him.” The problem? After three years, your refunds go away, regardless of how much money may be owed to you. “Because he’d waited so long, he lost those first three years’ worth of refunds, which is money he really could have used. That was pretty awful to see.” 
+ Wander also points out that many self-employed musicians, as opposed to people who work in salaried, forty-hour workweek jobs, need to pay estimated taxes four times a year. “Unless you’re on payroll from an artist, a school, a Broadway show, or something like that, taxes need to be paid quarterly to avoid penalties,” says Wander. 
+ For an overview of estimated quarterly taxes,  check out this article . Requirements can vary quite a bit from musician to musician, so Wander also recommends checking in with a music-friendly accountant or business manager to hone in on your own quarterly reporting needs. 
+ Make it easy to look back 
+ Wander recommends keeping consistent records of the money you spend and earn making music — both for your own records, and in case you ever get audited by the IRS. 
+ “Keep a simple diary, either on your phone or laptop or in a journal, particularly of things like gratuities, expenditures where you don’t get a receipt, and even non-cash items as well,” says Wander. “It’s always helpful to be able to look back and say that on a certain day two months ago, you had lunch with these two people for this reason. In the case of an audit, if you’re asked why a certain bill is so big, you can point to your diary and say that you were taking out people from the label, or having a meeting with a new manager. With the IRS during an audit, the more details like that that you can give, the better.” 
+ As far as paper receipts, Wander recommends holding on to any that might have a relationship to the business-side of your music. “Even if you’re saving them in a haphazard way, just tossing them in an envelope, which is pretty painless, at least you have them,” says Wander. “When looking at your business expenses during an audit, the IRS does want backup and is okay with credit card statements, but they may want more details — so yes, save your receipts, or at least scan them.” 
+ Separate your finances 
+ Especially early in your music career, it can be easy to pay for your groceries and guitar strings, Mother’s Day gifts and instrument cables, all from the same credit card or bank account. But when you start to get serious about the business side of your music, Wander advises, make sure to separate your professional finances from your personal ones. 
+ “A good first step is to have separate bank accounts, so it’s easy for you to look back and see what you earned and spent on business, rather than having to go through, item by item,” says Wander. 
+ Wander also recommends putting as many of your music business expenses on a dedicated business credit card as possible, especially when you’re on tour. “It’s much better than using a personal card,” he says. “It makes your bookkeeping so much easier, especially if you ever get audited. Also, make sure that you request a year-end statement or annual report from your card company, so you can have all of your expenses in the same place in front of you.” 
+ Avoid IRS triggers 
+ Whether you’re doing your own taxes or working with an accountant or business manager, be sure to avoid certain practices that will make you a target for an audit. 
+ “One major no-no is clothes,” says Wander. “To someone who isn’t really looking into details, that seems unfair, because many musicians buy special outfits to wear onstage. But the IRS is very strict on this. To them, professional clothing is a nurse’s outfit or an industrial worker’s protective gear. If you just bought an outfit that you feel is outrageous, or even if you buy a $3,000 tuxedo to go to the Grammys, those aren’t tax deductions.” 
+ Another area where indie musicians often end up in trouble is home office deductions. “The IRS has very specific guidelines about this,” says Wander. “You need to have a specific workspace in your home that qualifies, and then you take the square footage based on that workspace as compared to your whole home.” What if you write most of your music at your kitchen table? “Shared space doesn’t count,” says Wander. “I see people often make that mistake and claim sixty-percent of their apartments as home office on their taxes, and that’s no good.” 
+ One final pitfall to be aware of:  underpayment . “The IRS assumes a certain amount of money that you need to live and survive in a given city or area,” says Wander. “They have a list of what you roughly should be spending on rent, groceries, and other things, depending on where you live. If you’re not claiming enough income on your taxes to cover those amounts, they’re going to ask, where’d you get the money? Did you borrow it or spend it out of savings? Their suspicion in asking all of this is that you made money as cash and are not reporting it as income.” 
+ Look into worker’s comp and other insurance 
+ “There’s a common misunderstanding amongst a lot of artists when it comes to paying people who work for you,” says Wander. “A lot of people consider hired musicians to be independent contractors, but by definition, they’re really not. Even if they only work for you for a short period of time and don’t earn a lot of money, they’re employees.” 
+ So what? If you have employees, Wander continues, you may be legally obligated to pay payroll taxes, unemployment insurance, and workers comp. “Workers comp is the worst by far,” says Wander, pointing out that problems generally occur when a musician you’ve hired files for unemployment benefits and lists you as a former employer — which can lead to the apparent conclusion that you’ve been employing people without paying for proper coverage. “We’ve seen notices up to forty or fifty thousand dollars delivered to artists who definitely can’t afford it,” Wander says. 
+ Even if you’ve hired tons of musicians and this is the first you’ve ever thought about things like payroll taxes and workers comp, don’t worry. Laws can vary state to state and band situations can be vastly different from artist to artist — so make sure to check in with a qualified music lawyer, accountant, or business manager and find out what sort of coverage is best for your situation. 
+ On the topic of coverage, Wander further recommends insuring your gear whenever you hit the road. “Bands can go to events like SXSW and, with so much going on, suddenly find out that their van and all of their equipment was stolen. Insuring your gear is important, and also making sure that everyone listed on your car insurance as an authorized driver is a good idea. If you’re driving for hours between gigs in the middle of nowhere, you may not think about it, but if something like an accident happens and the driver is not listed on your car insurance, you could have problems.” 
+ Maintain (or resuscitate) your credit 
+ Whether you’re heading out on tour or getting ready to purchase that handcrafted bass you’ve been dreaming of, having robust credit can be a big help in your music career. 
+ “Credit is important for musicians to have, especially when you’re on the road, because there will be some things that you have to pay up front,” says Wander. “If you’re doing everything on a cash basis, things like booking hotel rooms, renting equipment, and car rentals can be hard or impossible.” 
+ A lot of musicians suffer from lack of or bad credit, Wander says, but there are ways to repair it. “Some banks offer secure credit cards, which can help you in the right direction. It’s a really good thing to do.” (For some basics on secure credit cards,  check out this article .) 
+ Get help when you need it 
+ Though it’s perfectly reasonable to do your taxes yourself using software packages like TurboTax, there may come a point in your career when you need help. 
+ “When it’s financially feasible, I highly recommend getting a business manager, and not just an accountant to help you prepare your taxes,” says Wander. “A preparer who isn’t experienced in the music business may not think to ask about management or agent fees or how much you’ve spent on supplies like cables, batteries for your pedals, drum heads, or equipment repairs. You really benefit from working with someone experienced in the business.” 
+ Hourly rates for such services can run high, so when is it right to make the jump and swallow the expense? “You need a business manager when you no longer have time to do everything yourself. When you need that very valuable time to write, practice, or do whatever it is that you do, having a business manager can take that worry off of your mind and free you to better practice your art.” 
+ Stay on the books 
+ At the end of a club date, the manager hands you a wad of twenties or, when everyone’s packing up to go home, your hired horn player asks to be paid in cash, rather than the check you’re trying to hand him. What do you do? 
+ “Sometimes you’ll work with cash, but remember that it’s never okay to not declare income,” says Wander. “Income is always taxable, unless it’s a very specific case, like a municipal bond, where it’s stated otherwise.” In other words, if you are paid in cash, Wander advises noting the income in your diary and not just tucking it away with a wink and a nod. “With income, it’s always better to have a trail,” he says. 
+ And if an employee of yours requests cash payment? “We hear this all the time,” says Wander. “Crew members, side musicians, they don’t want to declare the income because they don’t want to pay taxes on it, but as the artist, you need to be able to write off any money you pay as an expense.” 
+ If you do end up paying someone in cash, Wander recommends having him or her sign a voucher, affirming that a cash payment of a given amount was made. And if someone pushes back, saying that her or she wants an under-the-table payment? “Your answer is, ‘I’m sorry, but I need to claim this as an expense on my taxes,’” Wander says. 
+ Be patient and use common sense 
+ No matter how wild your creativity and huge your musical ambitions, don’t forget that applying a healthy dose of down-to-earth sanity to your business activities now will lay the groundwork for any stratospheric successes that come your way. Just keep the long game in mind. 
+ “Pay your bills and avoid debt by living within your means,” advises Wander. “You can dream big, but keep your feet planted on solid ground. Don’t spend money you haven’t made yet. That money will come, but things take time in this business. Success, or what we call success, will likely come before the money does.” 
+ “Let’s preserve and nurture the beautiful career you’re building,” he continues. “This is all part of that.” 
+ Disc Makers’ regular contributor Michael Gallant ’s debut trio album   Completely   received a four-star review from  DownBeat  magazine and a five-star review from   Critical Jazz   , which stated: “This, my friends, is the future of jazz. Fresh, invigorating, progressive – there are simply not enough positive adjectives to list here.” Learn more , download now through  iTunes , jam along with the new  JamBandit app , or purchase through  CD Baby . Follow him on Twitter at  @Michael_Gallant  or on  Facebook . 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Reddit 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ 2 Comments  Posted in  artist development ,  artist management ,  bands ,  Don't Fuck Up ,  music business ,  musician  Tagged  artist ,  career ,  caring ,  Digital Bear Entertainment ,  music ,  music business ,  musician ,  professionalism ,  solution ,  success 
+ The one thing you have to understand to get more gigs | Disc Makers 
+ Posted by  Jordan Tishler  on  December 1, 2014 
+ By  Guest Blogger 
+ Not all gigs are created equal: how to get the right gig for you 
+ So you want to play more gigs. 
+ It seems like other artists you know are performing all the time, so surely there must be a secret formula to getting gigs. That, or all the other musicians up on stage are friends with the venue owner or have a manager getting the gigs for them, right? 
+ Maybe. But nine times out of ten the singer up there on stage has no insider information, no manager, and no friendship with the venue owner whatsoever. 
+ So the burning question is….what is the Secret Formula to booking gigs? 
+ I could reel off a few quick bullet points to whet your appetite, but to be honest that wouldn’t help you very much and here’s why: if you came up to me tomorrow and asked me how to get gigs, the first thing I’d say is, “What type of gig do you want?” 
+ You see, not all gigs are created equal. Some gigs will pay well but won’t help you build a following; some gigs will pay next to nothing but will be massive fan builders; and some gigs… well they don’t get you fans or money but can still be valuable if used properly. 
+ Confused? I don’t blame you. 
+ You see, before you can get gigs you need to understand the type of gigs that are out there and what each one can do for you . Once you understand this, it makes going after gigs a whole lot easier because you can look for a gig that is going to help you with your business (yes, you are a business) and is suitable for where you’re at in this phase of your career. 
+ Have a look at the Gig Matrix below. These are examples of just some of the types of gigs, placed into a matrix that works on a scale of high versus low pay and high versus low fan building. 
+ 
+ Note: This works for any musical genre; you just have to rename the gig slightly. For example, the musical theatre equivalent of an ‘Open Mic Night’ is doing a community theatre show for free. 
+ Bear in mind that this is not an exact science. The music industry is highly unregulated and I know that some musicians have done very well with ‘low pay/low fans’ gigs like busking if they go on a regular basis, however this is not always the case. To make things even clearer, let’s take a look at each of the areas of the Gig Matrix and find out what the benefits of each category can be for you. 
+ Low Pay/ Low Fan Gigs 
+ If after looking at the Matrix you thought that you would scratch Low Pay/ Low Fan gigs off your list straight away… well, think again. Every gig in the Matrix has its purpose and each is more accessible to you depending on what stage you are at in your music career. 
+ For example, busking and open mic nights are a great way to test out new material or to gain performance practice when you are just starting out, and they are the easiest gigs to obtain; you can busk in most places by obtaining a simple busking licence and open mic nights take pretty much anyone. 
+ In fact, I personally use both of these types of gigs for this very purpose. I’m currently working on some new folk material and am playing guitar for the first time (I’m usually a jazz performer and play piano and sing) so when I’ve got my material ready, I’ll hit up an open mic night to take my new songs and skills for a test drive. 
+ Similarly, if you are in musical theatre, the best way to grow your resume is by doing free community shows. You’ll meet people in the industry and can work on your performance skills while you hunt around for new opportunities. 
+ High Pay/ Low Fan Gigs 
+ On the flip side of the Matrix there are High Pay/ Low Fan gigs. These are what I call ‘Bread and Butter’ gigs because basically, they pay the rent. For contemporary singers, these might be bar/ club cover gigs where the venue pays you to play music their clientele will like, which usually means well known covers. 
+ For me as a jazz musician, these are corporate gigs at some stuffy legal firm’s cocktail client night and I’m there to provide background music and look pretty. Yep seriously. Why else would they hire a band if they just want background music? It’s all for show. This is definitely not the place to pull out my massive ‘Nicola Milan’ banner, set up my merch stand complete with flashing lights and plug my CDs at the end of every set. You’ll be lucky if you get to hand out a few business cards during the break and get a quick thank you from the head honcho. 
+ Use these gigs to fund the Low Pay/High Fan building gigs that we’ll have a look at next… and make the most of the free canapés while you’re there. 
+ Note: Some musos only want these types of gigs. This is when it’s not so much about building a name for themselves than it is making money as a musician without having to leave their local area (Which is totally fine by the way. I know plenty of very good musicians who make their living this way) — but for those of you who want to make a mark, raise your profile, and reach for what can happen when you do start becoming known (i.e. a higher charge rate, better gigs, a deeper connection with fans, getting your message out there, and all the possibilities that come with being a person of interest) then read on. 
+ Low Pay/ High Fan Gigs 
+ I love/ hate these gigs. I know they are going to be good for my profile but I also know I’m going to run at a loss and as someone who relies solely on income derived from music, the costs involved can bite. 
+ Many support gigs with better known artists will fall under this category (initially at least.) As anything in the music industry, there will be exceptions but when you have no fans apart from your rent-a-crowd mates then you don’t really have much value (in terms of business dollars) to add to a gig and the opportunity to perform with a band that does pull a crowd is a good opportunity for you, because it means you get to play for fans of a similar sounding band. If they like that band, then they may become your fan too. However, it’s not such a good deal for the venue or the band with the bigger name. 
+ The reason is because these type of gigs usually operate on a pay by door sales basis. If you have no fans then your ability to help with the door sales intake is going to be minimal and therefore you shouldn’t expect to be paid for something you didn’t provide. The catch here however, is this: if you are a singer who uses an accompanist or session musicians in your band, then you still have to pay your musicians and you will have to fork out of your own pocket to pay them. It is easier if you have a band dedicated to doing any gig they can to ‘break in’ but for singers, this is frequently not the case. 
+ The good news is that if you make the most of these gigs, you should start building fans from the first gig and it does get easier. That, or you can do a heap of advertising to get people through the door… but that is a topic for another blog post. 
+ The bad news is that every time you want to break into a new market (location) you will have to repeat the support gig process, unless of course you have a major radio hit and venues are clambering over each other to book you… and we all know this is definitely not the norm. 
+ However, playing support gigs is the fastest way to go from zero to fans and get you one step closer to the juicy gigs we’ll have a look at next. 
+ High Fans/ High Pay Gigs 
+ Ah yes, now we reach the realm of the Rich and Somewhat Famous and I can hear you thinking ‘Now we’re talking. Ok Nicola, just tell me how to get heaps of these gigs, really well paying and in front of heaps of fans.’ 
+ My answer? “Patience, Grasshopper. They are not YOUR fans… yet.” 
+ I’m not saying this to hold you back by any means because on average, festivals and promoted shows with advertising dollars behind them are hands-down the best way to get your name out there as an artist. The gig in itself would be enough, however most Festivals are accompanied by advertising dollars to spread your name further and have media salivating over the opportunity to get you on their interview list. Yes these are the best gigs to get, but they are also by far the most competitive. 
+ Festivals are expensive to put on and so the Festival Promoter needs to ensure they will attract an excellent turnout each year. They do this by booking artists that they know will draw a crowd, which means that you need to be doing pretty well and have a solid following to get one of these gigs (that, or be good friends with whoever is in charge.) 
+ Don’t worry, there’s a catch to Festivals which is your secret way in. Create a list of the Festivals that support your type of music in your local area (and beyond if you can afford the travel costs). Most bigger Festivals don’t even accept artist applications so scratch those off initially. Your best bet is to target smaller festivals and then build up from there. 
+ Keep an eye out for contests to play at bigger Festivals but realise the competition is going to be fierce. Some Festivals do offer busking opportunities which you can snap up if you perform solo and acoustic, then make the most of it; get your banner out, play loud and promote, promote, promote! 
+ The other type of show that can sit either under this category in the Gig Matrix or under the Low Pay/Low Fans category is a show that you put on yourself. You hire a venue or agree to a split of the door sales and then it’s your job to book the support acts and get people through the door (this is where that rent-a-crowd friend base comes in handy). 
+ These gigs are great for a reason to promote yourself in the local media and can be decent earners if your door numbers are solid. Do a good job and your rent-a-crowd might actually become true fans and bring more friends along next time. 
+ So let’s go back to the start and revisit our original question: how to get gigs. Now that you can have a think about the type of gig that you want, doesn’t that make it easier to know where to start looking? 
+ My advice is to pick the gig according to what your needs are as an artist. If you are just starting out, go for the Low Pay/Low Fan gigs where you can get some performance practice singing in front of a crowd. That way, if you stuff up, it’s not going to be such a big deal. If you’re past this stage, then have a look at the bands gigging in your local area that sound similar to you and reach out for a support gig. 
+ Whatever the stage you are at in your music career, go for the gig that will benefit you the most… and once you have it, make the most of it. 
+ —- 
+ Author bio:  Nicola Milan is a professional singer, songwriter, recording artist and vocal coach. On her website  Singer’s Secret  , she shares tips on how to improve your singing, gain confidence, and get gigs when you’re just starting out. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Reddit 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Leave a comment  Posted in  artist development ,  artist management ,  bands ,  bar ,  branding ,  club ,  gigs ,  music ,  music business ,  musician ,  performance ,  showcase ,  touring ,  venue  Tagged  artist ,  audio ,  branding ,  career ,  caring ,  Digital Bear Entertainment ,  entertainment ,  fans ,  gig ,  music ,  music business ,  musician ,  new model ,  performance ,  solution ,  success ,  touring 
+ Build a superfan base one video at a time | DiscMakers 
+ Posted by  Jordan Tishler  on  November 17, 2014 
+ by  BEN SWORD 
+ 
+ Engaging with your fans involves “check moves” – opportunities for positive interaction – and online videos are one way to build an audience on YouTube and beyond 
+ This lesson comes from Ben Sword, founder of Music Marketing Classroom, with an excerpt from the “Superfan Building” module of their training. Click here  for the whole shebang. 
+ If you’ve done any research about music marketing, you’ve probably heard a lot of people telling you you need to be on social media “engaging” with your fans. Sounds good, but what does that mean? Good question! The mission of this lesson is explain what engaging means, give you practical steps you can do each day, and help you build an audience on YouTube and beyond in the ultimate quest to take your music promotion to new heights. 
+ The “check move” theory 
+ I’ll admit, I wasn’t sure why I needed to bother engaging with fans until I discovered the “check move” theory. This concept tells us that the more positive interactions (or check moves) fans take with an artist, the closer the connection will be, and that will ultimately lead to more support – whether that be financial or with promotion bringing in new fans by word of mouth. 
+ I think this is an especially powerful idea for musicians because it means we don’t have to hammer the fan base with slightly cheesy sales messages all the time, and can just focus on putting out super-duper stuff that they WANT to interact with. 
+ It all starts with “capture” 
+ In other words, get a smart phone and press record a lot, because often you can entertain your gang by just bringing them into your world and making content based around what you’re already doing. 
+ The way this might look for a band on the road is that each member would be documenting the wild ride from their own point of view and posting it to Dropbox, and then your social media dude edits all the best bits for posting. (Of course, if you’re on a budget, the “social media dude” could simply be Bob the crazy drummer who likes playing with the computers). 
+ But for some even that might seem like a little bit too much like hard work, so why not run a competition to have one of your die-hard fans come on the road with you to capture all the cool behind-the-scenes happenings? For an amazing example of this check out  Ozzy Osbourne’s Facebook Page . 
+ Seeing your journey from a fan’s point of view will mean they’re in a great position to know what’s going to be interesting and relevant. BOOYARR! You’ve just created a world class digital content strategy and it did not hurt one bit. 
+ So how on earth do you set up a check move? 
+ The mission here is to remove all the head-scratching from your social media marketing by giving you a set of tried and tested posts ready to go, and video is a great way to tell a story through more than just words. And you don’t need to just make a music video every week, there are dozens of ways to create video content that can help you engage with your fans. Don’t believe me? Here are 23 ideas to start with. 
+ 1. **Behind the music**  
+ 
+ Let people in on your wild ride in the biz. Your first band, first song, first guitar, first love (or maybe not), challenges and setbacks, magic moments, and plans for the future. To do this, get a piece of paper and draw a picture of yourself as a just born baby on the left hand side, then draw a picture of yourself last week on the right. Now fill up the space in the middle with all the epic stuff that’s happened to you during that time. BTW, you don’t have to make a whole movie in one go. Bite-sized pieces will actually work better for holding interest. 
+ 1. **Interviews**  
+ 
+ Interview every cool person you meet along the way – producers, managers, your crazy bassist, other bands, family, friends, fans, the sound man, tour manager and the driver who never seems to sleep. Here’s a good example to get you started. WARNING: There is a 93% chance this video will make you laugh, so if you’re at work maybe watch it later! 
+ 
+ 2. **Cribs**  
+ 
+ Make a video to show folks around your home town and even your house if that doesn’t feel weird. Travel to important landmarks in your career like where the band got together, or where you performed your first successful stage dive. If you can’t be bothered to actually leave your house, you could do this using Google street view. 
+ 1. **Backstage**  
+ 
+ Post dressing room shenanigans, the after-show party, and even that particularly tasty treat you got on the rider. And if Jimmy Page shows up and wants to play with you, film yourself getting ready for the gig 
+2.  In the studio 
+Video yourself during recording sessions. This is an awesome method of keeping fans in touch while you would normally be off the radar. 
+ 1. **Live footage from your latest gig**  
+ 
+ There is a cool tool called  Switch Cam  which will turn your whole crowd into one big massive film crew and then you can come back later and make a wicked movie using all those different viewpoints. It’s the future baby 
+2.  Tour diary 
+Video diary updates when you’re on tour that include where you’re playing, how the shows are going, which band member is starting to make you crazy, what it’s like inside the van, and reviews of the accommodations. 
+ 1. **Sound check videos**  
+ 
+ You might think this seems a little boring (and honestly I would agree), but folks outside of the biz love learning how things work from your perspective, and these kinds of music videos seem to get a ton of views. There could be interested people who will appreciate the look inside. 
+ 1. **Rehearsal footage**  
+ 
+ Give your fans a sneak peek of brand new tracks from the practice room. 
+2.  Gear heads 
+Show people around your gear and how you get your EPIC sounds. “This one goes to 11.” 
+ 1. **Music from your past**  
+ 
+ Dust off those demos you made when you were a kid or in an early band. I think it’s cool to show people how you got to where you are now musically. Don’t be bashful about it 
+2.  Merch! 
+Live from the merch booth meeting the fans and the people who run your table. 
+ 1. **Song-meanings and inspirations**  
+ 
+ Share what you were thinking and feeling when you wrote a song, if that doesn’t feel too personal. 
+2.  Alternate versions 
+Record yourself playing acoustic versions of your more popular songs. 
+ 1. **Covers**  
+ 
+ Record yourself playing interesting arrangements of music you love. (Don’t forget to get a sync license if you’re doing this!) 
+ 1. **Covers by fans**  
+ 
+ Post a little “guitar lesson” for one of your most popular songs and then challenge fans to come up with the best cover version on video and post it. 
+ 1. **Say thanks**  
+ 
+ Make a real personal video to thank fans when you reach important milestones in your career. Jackie Chan did this when he got 50 million Facebook fans. Just look at the way he pops up. Classic 
+2.  Making of 
+The “making of” your video with director’s commentary, like the extras on a DVD. This would basically be a couple of key players talking about how the whole thing came together. 
+ 1. **Answer questions**  
+ 
+ Host an “ask me anything event,” online open mic session, or do what Noah Guthrie did and answer Twitter questions on video. It’s a multi-media bonanza 
+2.  Outtakes 
+Compile outtakes and bloopers from your recording sessions and video shoots. 
+ 1. **Chat with a superfan**  
+ 
+ Make someone’s day and make a video out of it. 
+2.  Shopping 
+Go thrift shopping for stage clothes or props and document the whole adventure on video. 
+ 
+ Make a music video 
+Every cool tune should have some kind of music video, even if it’s real simple. Here’s something I made with no budget in just a few hours. Moving forward, I’ll be making mostly “fans create the footage” music videos because then the check move factor goes through the roof 
+ 
+ Here is your action step 
+ OK so now we’re at the end of this lesson you’ve got two options. 
+ 1. Close this page and think, “Hmmm, ain’t that Ben Sword a cool and sexy mofo, he gave me a ton of ideas that I really should use one day and I must buy him lots of beer next time he’s in town. But then, ha ha ha! Look at those funny talking cats dancing on YouTube … what was I doing again?” 
+ Apart from the thing about buying me beers, that ain’t going to do anyone any good, so the only option you should really consider is: 
+ 2. Pick one thing from this list, do it right now, and give yourself an hour to complete it. Often work will swell to the amount of time you allocate, so setting a short deadline means you’ll be really action focused and proactive. 
+ Then if you’re feeling brave, do the same thing tomorrow, and the next day, and for the next 30 days, until you got the habit locked in for the rest of your career. Being that consistent will pretty much guarantee you’ll find an audience at some point. It’s like a law of nature or something. 
+ Sure, what you produce at first might be crappy, and that’s totally cool – in fact that’s what’s supposed to happen. But after a while, making great stuff will be just like eating maple syrup and bacon pancakes with a thick Oreo cookie milkshake (i.e. EASY!) 
+ Good luck, I’m rootin for ya’ and please contact me if you got questions because I’ll be making follow-up lessons. 
+ Ben Sword is the founder of the Music Marketing Classroom, on a mission to help musicians create sustainable careers with a simple four level marketing philosophy. Learn more at MusicMarketingClassroom.com . 
+ Read more:  Build a superfan base one video at a time – Disc Makers   http://blog.discmakers.com/2014/03/build-a-superfan-base-with-videos/#ixzz2wPyiDord 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Reddit 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Leave a comment  Posted in  artist development ,  artist management ,  bands ,  branding ,  gigs ,  music ,  music business ,  musician ,  performance ,  Thoughts ,  touring  Tagged  artist ,  audio ,  branding ,  career ,  caring ,  Digital Bear Entertainment ,  entertainment ,  fans ,  gig ,  music ,  music business ,  musician ,  new model ,  performance ,  press ,  professionalism ,  solution ,  success ,  touring 
+ State of the Industry: 18 Ways Musicians Can Make Money | Bandzoogle 
+ Posted by  Jordan Tishler  on  November 10, 2014 
+ By David Cool 
+ One of the biggest challenges facing musicians is generating income. Gone are the days when a band could rely solely on music sales and touring to earn a living. 
+ Part of the reality of being a working musician today is the need to diversify your revenue streams. Although sales of recorded music have gone down significantly in recent years, there are new sources of income available to musicians. 
+ A mix of traditional and more modern income streams can help today’s musicians earn a living. Here’s a list of 18 ways to generate revenue for your music career: 
+ 18 Ways Musicians Can Make Money 
+ 1. CD Sales  : If you’re going to be playing live shows, having CDs on hand is still a good idea. They make great takeaway souvenirs that can easily be signed by band members. 
+ 2. Vinyl Sales  : Vinyl sales  surged 30%  in 2013. Again, if you’ll be playing live shows, printing a small batch to have at your merch table can help generate extra income. 
+ 3. Digital Sales  : You should be selling digital music through your  own website  to make the most money, but also through online retailers. Keep in mind that online retailers take a percentage of sales (ex. iTunes takes 30%, Bandcamp takes 15%). Some digital distributors that place your music in stores like iTunes and Amazon will take a cut on top of that. 
+ 4. Streaming  : Although per-stream  payouts from streaming services  tend to be small, they can add up over time. Keep in mind that these services also help new fans discover your music, and shouldn't be seen solely as an income generator. 
+ 5. Live Shows  : Money made from live shows can vary greatly, but it’s still one of the best ways to earn income. Not only can you make money from selling tickets, but it’s also one of the best ways to sell merch. Be sure to read our blog series “ The 4 P’s of Playing Live ” to make sure you’re getting the most out of your gigs. 
+ 6. Physical Merch  : Income from physical merch can depend heavily on the amount of live shows you play. If you go out on tour, be sure that you have some t-shirts, as well as smaller items like buttons and stickers that you can sell to fans after the show. For more tips about merch, read:  Get Your Merch On: Generating Revenue from Merchandise 
+ 7. Digital Merch  : You can also sell digital merch items like PDFs, videos, and images to your fans. Things like lyric books, live concerts, sheet music, exclusive photos, artwork and more. Check out this post for ideas of digital items you can sell through your website:  Using the new File Download feature: 20 Items you can now sell 
+ 8. Crowdfunding  : Crowdfunding can be a great way to generate income for your music career. A well-executed crowdfunding campaign can help you raise enough money to offset the cost of producing and marketing your album. Read this excellent post by Dave Kusek (New Artist Model) about how to approach crowdfunding:  Crowdfunding the Right Way 
+ 9. Publishing Royalties  : You should be signed up to a performing rights organization so you can collect royalties on your music. This includes public performance royalties (radio, TV, live venues), mechanical royalties (sales through retailers, streaming, etc.), and sync royalties (commercials, film, TV). 
+ 10. Digital Royalties  : Whenever your music is played on services like SiriusXM radio, Pandora, and webcasters, they must pay royalties. Sign up for a free  SoundExchange  account to make sure you’re collecting those royalties. 
+ 11. Live Performance Royalties  : When performing original material, you can earn royalties from live performances. Whether you perform at a bar, restaurant, club, or other music venue, Performance Rights Organizations (PROs) will pay royalties from those live performances. 
+ 12. Licensing  : If you get your song placed in a film, commercial, or TV show, chances are they’re going to pay you a licensing fee. These fees vary greatly, depending on the budget for the project, and how badly they want your particular song. 
+ 13. YouTube  : On YouTube, whenever your music is used in videos that are running ads, YouTube pays a portion of that advertising money to the rights holders of the song. Digital distributors like TuneCore and CD Baby can help you collect that money, as well as  Audiam . 
+ 14. Sponsorships  : If you’ve built up a fan base, some companies are willing to sponsor musicians to reach those fans. Sponsorships can range from cash, to free products, services, and gear. Read this excellent guest post from Dave Huffman about sponsorships:  Musicians: How to Get Sponsored 
+ 15. Session Work  : Another way to make some extra money is to put yourself out there as a session musician. As a singer or instrumentalist, you could do session work for other musical projects, or even in advertising. 
+ 16. Songwriting/Composing  : If you’re a songwriter, you could write songs for other musicians, or compose music specifically for film and television. 
+ 17. Cover Gigs  : Playing cover gigs at bars, restaurants, weddings and other private events is frowned upon by some musicians. But those shows can pay really well, and allow you to get paid to play your instrument. There’s no shame in that. 
+ 18. Music Lessons  : Many musicians teach their instrument to others to help generate revenue towards their own career. This can be a nice way to supplement your income, and allows you to hone your craft at the same time. 
+ Tracking Your Income 
+ With all of these different income streams, it will be important to track your progress. This will allow you to gauge which ones are working best for your career, and where you should focus your attention. 
+ To help keep track of your income, you can download our sample music marketing budget  here . 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Reddit 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Leave a comment  Posted in  artist development ,  artist management ,  bands ,  bar ,  club ,  gigs ,  music ,  music business ,  music production ,  musician ,  Record Label ,  song ,  songwriting ,  studio ,  touring ,  venue  Tagged  artist ,  audio ,  career ,  caring ,  Digital Bear Entertainment ,  entertainment ,  fans ,  gig ,  music ,  music business ,  musician ,  new model ,  performance ,  recording ,  solution ,  songwriting ,  success ,  touring 
+ Why indies should still care about radio | Disc Makers 
+ Posted by  Jordan Tishler  on  November 3, 2014 
+ 
+ [  This article was written by Erica Sinkovic, CD Baby 's Web Product Manager and general music enthusiast. ] 
+ Whether you’re an independent artist or signed to an independent label, you’re sure to have a lot on your plate already. Between booking shows, debating merch, planning your next big marketing move, juggling social media-insanity, oh yeah, and writing new material, the last thing you want to add to your plate is a radio campaign. Indies have all but abandoned this once-career-establishing source. Some say it’s because their audience isn’t listening to radio anymore, some say it’s because radio is only for Top 40 major label artists, and others simply don’t have time or resources to even consider it in their marketing mix.  I’m here to tell you: don’t abandon radio. 
+ Even though many people, particularly teens, are  listening  to music via YouTube and other on-demand platforms, discovery tends to happen through other channels. Just two years ago, in 2012,  Nielsen reported that 48% of people surveyed discovered music most often through the radio  (compared to YouTube’s 7%). Today, in 2014, Nielsen reports that  radio listenership is on the rise  from 243.7 million in 2013 to 244.4 million weekly listeners in 2014. They cite the localization of stations and their curated content as a key factor to becoming so easily interwoven in peoples’ lives…something to keep in mind come tour time. 
+ I’m not here to tell you “drop everything and focus all of your time and money on radio.” I’m here to tell you that radio is not dead, DJs are still the tastemakers in every town, and radio still has the power to bring artists of all genres to the next level in their careers, at every level. 
+ In my experience of working with incredible artists, labels and distribution companies, I’ve seen the difference that radio can make – taking unknowns to globally recognized names  (yes, there are many more millions of people listening internationally). Mumford & Sons, Phoenix, Childish Gambino, Robert DeLong, these are artists that Glassnote Records took way up the charts in both airplay and sales by focusing much of their efforts on radio in every single market (touring also being a major factor). You can’t turn on a college radio station or satellite radio channel without hearing Arcade Fire (#1 on Billboard), Grizzly Bear (#7 on Billboard), First Aid Kit (#12 on Billboard Independent), Passion Pit (#4 on Billboard) and so on. 
+ Don’t give up on radio because there are millions of people still listening, still trusting and still anxiously awaiting the next “new thing.” 
+ How do you get your music on the radio? 
+ Depends on your resources. 
+ 1. Radio marketing services such as Pirate!  or  The Syndicate .  Some publicists offer this service in varying degrees as well, but relationships are key here. 
+ 2. Radio mailing services  offered through boutique distribution companies for an additional fee (single or album-based). 
+ 3. Print out a one-sheet , get a box of promos, and start looking up key stations  (  Will you be touring there? Do you have sales there? Is there an influential tastemaker station there?  ) to mail or digitally deliver your music to. 
+ *** Helpful hint #1:** your one-sheet should tell readers immediately why they should care to listen to your music. 
+ *** Helpful hint #2:** if you want to confirm that someone has listened to your music, pick up the phone and call them. 
+ Have you gotten your music on the radio as an independent artist? Did you hire a promoter, or handle the radio promotion yourself? Let us know in the comments section below. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Reddit 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Leave a comment  Posted in  artist development ,  artist management ,  bands ,  branding ,  music ,  music business ,  musician ,  Record Label ,  Thoughts  Tagged  artist ,  audio ,  branding ,  career ,  caring ,  Digital Bear Entertainment ,  fans ,  music ,  music business ,  musician ,  new model ,  professionalism ,  solution ,  success 
+ Music instrument insurance questions answered (in English!) | Disc Makers 
+ Posted by  Jordan Tishler  on  October 27, 2014 
+ 
+ by  GEARTRACK 
+ Does insurance speak make you cross-eyed? Give you a migraine? Scare the pants off you? Fear not, we’ve found a music instrument insurance translator. 
+ If you’ve ever been curious about the ins and outs of musical instrument insurance, but don’t speak insurance, our friends at GearTrack  can help act as interpreters. They spoke to Thomas Riley, a music instrument insurance expert from The Anderson Group, and here’s what they learned. 
+ What’s the difference between musical instrument insurance and a standard homeowners policy? 
+There are several differences. $2,000 is the maximum value covered under homeowners policies and it doesn’t cover professional use. It also doesn’t cover flood damage, accidents, breakage, cracking, falling, earthquake damage or loss, nor “Agreed Risk” or replacement. Your deductible comes into play as well. Most deductibles are in the $500 to $1,000 range. 
+ Translation: Your homeowners insurance is for your hobbies, dummy. And even if music is your hobby, there are all kinds of reasons to look into musical instrument insurance, like maximum value limits and damage and loss coverage. 
+ Does music instrument insurance cover damage and repair? 
+It does, as a normal rule, though subject to the policy itself. As long as the damage is not listed in the policy’s exclusions, a musical instrument would be sent to a repair shop and the estimate sent to the loss adjuster. If the instrument suffered a loss in value as a result of the damage and its repair, this “diminished value” would be reimbursed (a very valuable part of this insurance). 
+ Translation: In general, yes. Read the fine print about what types of damage are covered. Bonus: if your gear is damaged and loses value after the repair, your music instrument insurance carrier will pay you the difference! 
+ How are quotes and values formulated? 
+The prospect fills out the application which goes to underwriting. According to the value (either by appraisal or documented information) and the exposure (for instance, a collector versus a performer), a quote is formulated (between $.525/$100 and $1/$100). Memberships in professional organizations and high value instruments earn appreciable discounts. 
+ Translation: Insurance cost depends on how you use your instrument and how much it’s worth. They do some magical figuring and give you a quote. It doesn’t hurt a bit. 
+ What documentation does an instrument insurer require? 
+Many times, if we have a serial number and pictures per our guidelines, no appraisal is requested. High value and vintage instruments need appraisals. 
+ Translation: Insurers care about original and replacement value. The more expensive or rare your gear, the more documentation you should have. 
+ How do I know if I need instrument insurance? 
+$150 per year covers up to $24,000 of scheduled items. It doesn’t make sense to spend thousands of dollars on instruments and not spend the $.40 cents per day to protect them and have the ability to replace them. 
+ Translation: If you use your gear to make money or if you have enough money in instruments (more than your low deductible), you should at least look into it. You’ll be surprised by how affordable it is. 
+ What happens once I make a claim? 
+You file a claim stating “what, when, where, why, how, who” with dates of occurrence and a  police report  (if applicable). In the case of damage, an estimate from your repair shop is needed. Most claims can be handled when the repair is completed or even more promptly when a total loss or theft is involved. 
+ Translation: After you follow the five Ws (plus H), all you gotta do is get yourself a repair estimate if necessary, and wait for the check to come in. But really, that’s why you get insurance. They won’t get it back for you, but they will replace it. 
+ What if I get my instrument back after having made a claim? 
+It is the property of the insurance company; you may refund the indemnity check and keep the instrument if you wish. 
+ Translation: Would you rather have a new instrument or your precious? Up to you. You have to give them their money back if you want your old gear. 
+ Is music instrument insurance affordable? 
+Sho ’nuff. 
+ Translation: YES! 
+ Image via  ShutterStock.com . 
+ GearTrack is an online registry that aims to deter music instrument theft and aid in recovery. Instrument owners can itemize their collections and victims of theft can send stolen alerts to the WatchDog network and access tools for search and recovery. Buyers and sellers can easily search serial numbers before trading and selling their gear. Learn more and register your instruments at Gear-Track.com . 
+ Thanks to Thomas Riley of The Anderson Group  for answering our questions. Anderson was started by a musician, for musicians. They know the difference between a violin and viola, and they understand what instruments mean to musicians. 
+ Read more:  Music Insurance | Musical Instrument Insurance - Disc Makers   http://blog.discmakers.com/2014/05/music-instrument-insurance-questions-answered-in-english/#ixzz330lhnIeQ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Reddit 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Leave a comment  Posted in  artist management ,  bands ,  Don't Fuck Up ,  gigs ,  instrument ,  musician ,  performance ,  studio ,  touring ,  venue  Tagged  artist ,  audio engineering ,  career ,  caring ,  Digital Bear Entertainment ,  gig ,  music ,  musician ,  performance ,  professionalism ,  solution ,  studio ,  success ,  touring 
+ How to find, land, and work a music publishing deal | Disc Makers 
+ Posted by  Jordan Tishler  on  October 20, 2014 
+ by  MICHAEL GALLANT 
+ A music publishing deal can be an additional revenue generator for a songwriter, and we’ve got advice on how to prepare your material and get into the mix. 
+ For any indie artist, there are tried and true ways to earn a few bucks: sell albums, downloads, concert tickets, and merchandise. But what about the more elusive streams of income open to those who can craft addictive beats and melodies? Many independent artists may have heard the term “publishing deal” thrown around before, but the process of understanding, finding, solidifying, and earning money under the right sort of music publishing deal can be a mystifying one. 
+ To help lift the shroud, read on for some hard-earned wisdom from  Natalie Nicole Gilbert , a Los Angeles-based singer and songwriter who has worked in music publishing, broadcasting, and licensing for over fifteen years. 
+ What exactly is a music publishing deal? 
+It’s a relationship with a publisher in which they represent one or more of your compositions, usually for a set period of time, and they take a percentage cut of any revenue you earn related to those compositions. 
+ When should indie artists start to look for publishing deals? 
+It’s never too early to get this search on your radar — much like finding a good entertainment lawyer. On the other hand, it’s best to approach publishers when you have a collection, no matter how small, of tunes that are truly marketable. 
+ It also helps to reach out once you have a set of materials that make it easy to demonstrate your marketability and level of skill and professionalism, items like professional-quality demos, headshots, cover letters, and ideally, your own website, including a hidden or password-protected spot where they can download digital copies of your available music. Even videos of your live performances can help. 
+ So with that in mind, if all you have today is a very rough MP3 and your last headshot was taken ten years ago, take the time to update your assets before you start pitching to publishers and catalogs. 
+ What kind of indie artist can benefit the most from a music publishing deal? 
+The kind of artist that benefits most from a publishing deal is an artist who performs out very little, if at all. Even as I say this, though, take note that I’m not saying a composer or songwriter should ever stop performing entirely. It’s important to stay engaged with fans and listeners to keep a sharpened sense of what resonates most with your audience. 
+ For an artist who is especially shy, exhausted by performing too much, or has other obligations and interests in life that prevent regular touring, a publishing deal is a great way to lengthen the life and reach of his or her music so it can circulate with other artists and mediums like TV, film, or sheet music. 
+ My friend Dean H. Anderson, who’s a fellow composer, has also pointed out that artists who are particularly prolific and have a large surplus of material, which they couldn’t possibly perform themselves, can really benefit from a publishing deal. For them, it can be great to utilize a publisher to find other artists who might be able to perform those surplus songs, so the compositions don’t just sit around and gather dust. 
+ What about artists who do tour a lot? 
+Publishing deals can be a great way for touring artists and bands to expand their revenue portfolios, inviting multiple streams of income from the same songs and works they’re performing on the road — or even different works that aren’t as viable for concerts, but may be great for beginning piano books or backdrop music beds in a reality show. 
+ Do all publishing deals look the same? 
+They’re not one-size-fits-all. Shop for the one that makes the most sense for your present compositions in today’s market. If a publisher wants to sign your work indefinitely, negotiate to either start with just one to five years, or give them just a few songs, so you’re not landlocked if they aren’t able to shop your work the way you’d hoped. 
+ Much like your stock portfolio and general revenue streams, diversity is key — especially at the start. Over time, if you find one company that really seems like a good fit and your sense is that it’s the right time to put your entire catalog with them, go for it. But make that choice after you’ve had the time to do your homework and gotten to know the publishing company. 
+ If it’s the right time for an indie artist to seek out a deal, what’s the best way to find, and approach, the right publisher? 
+Pick up a copy of the latest Songwriter’s Market and read through the listings. Pay special attention to the ways that different publishers request your materials. You may be surprised to find that some still request a cassette copy of your demo, or prefer a VHS tape of your performance over a CD copy or digital download. 
+ There’s also a fine balance to strike between keeping it simple and giving them enough information at the start. Label absolutely everything you send with your name and contact information. Assume that the CD will be separated from the cover letter, the DVD, and anything else you tuck in the package. 
+ Also, make sure your digital file metadata is clean, accurate, and plentiful. Even if they’re old school and request your info on cassette, VHS, and via fax, chances are their younger interns and associates are actually living in the digital age and will be smart enough to back it all up in a digital format. Make interacting with your materials as simple as possible. 
+ What info should you include in your pitch? 
+It can be easier to demonstrate your value to a publishing company if you’ve already been generating some buzz and movement on your songs. Have you had great online sales via Amazon, iTunes, and Google Play? Include those sales numbers and a list of the continents where your music is downloaded the most, but again, keep it concise. Has your music been picked up in a reputable film or TV show or included on a worthwhile soundtrack? Have you won any recent music awards? Let them know. 
+ Above all, don’t wait until you’ve signed with any kind of music representative before you start pitching your music to filmmakers and fellow artists. Pound the pavement yourself and learn everything about the business side of the music industry that you can. It will cost you far less to know too much than too little. 
+ What are some of the most widespread misconceptions about publishing deals? 
+One of the most common misconceptions is how the chain interlinks. On top of my own musical pursuits, I also work with a large stock music library, and we get calls there frequently from composers looking to land their small collection of twenty tracks in our massive library of over 380,000 tracks. While there are various exceptions in every field, for the most part, it doesn’t work that way. 
+ How does it work, then? 
+The artist composes and hands off music to a publisher, if the artist doesn’t have his or her own publishing company. The publisher then passes the music off to a larger publisher or a small library, or an artist or record label, who then may or may not pass it off to a larger conglomerate library where supervisors and editors can do mass music searches for everything under the sun. 
+ It’s absolutely possible that a music supervisor may find an artist directly and be kind enough to negotiate with them for $3,000, all in, to place a song in a film project — and the more you widen your network with filmmakers and music supervisors, the better your chances of those direct licensing opportunities — but more often, it’s a messy third- or fourth-degree separation from the artist that puts your work on someone’s searching radar. 
+ Does that lessen the amount of money an artist earns? 
+Yes, the larger those degrees of separation, the more cuts those middle men will take and the more likely that the end users’ cue sheet reporting will not be fully accurate, meaning that even in this digital age, you may not get paid everything you’ve earned. That’s why companies like  TuneSat.com  exist, to better track the use of your music. It’s also why you should be diversifying your portfolio, nurturing all of your connections, and maximizing the quality of your music, and your metadata, so it can travel further and be tracked with more accuracy. Register your work with a performing rights organization like ASCAP or BMI, with SoundExchange, TuneSat, as well as Shazam and Rumblefish, which is easily done via CD Baby, so your music is easy to track and find. 
+ Can you elaborate on why registrations like that are important? 
+Your worst luck would be to finally make it to the ear of a great music supervisor who is ready and able to toss $5,000 your way to place your composition in a great film — but she can’t figure out which artist or publishing company owns the rights to the song she discovered online because the song isn’t registered with a PRO, the artist doesn’t have a website or searchable online contact information, or the metadata for the file she uncovered has no insightful story to tell. 
+ Sit down with one of your MP3s and Google the lyrics or title and see what comes up. Are you findable? If not, start leaving an online footprint by posting your lyrics on lyric sites, creating artist and music profiles on popular sites like SoundCloud and ReverbNation, and make sure your music is in the most frequently-searched e-stores like iTunes, Amazon, and Google Play. Also, be sure that every iteration of your song’s title is registered with your PRO. 
+ Once you sign a publishing deal, what sort of work is expected of you? 
+This varies greatly based on the deal. If it’s a single song or work deal, the publisher will largely only need the assets pertaining to that one song and access to any related stems for the length of your agreement with that publisher. 
+ On the other side of the spectrum, if you have a term writing deal with a publisher, they may want every song you write during the term of your agreement. That means that it’s wise to limit that term to just one year, so your options aren’t too limited. In the latter deal, they’re also more interested in your long-term output, so are more likely to pair you with other writers to strengthen the resulting collaborations during the time period of your agreement. 
+ Once you’re in a publishing relationship, what are some tips for engaging in a sustainable, long-term way? 
+As with any business relationship, you want to stay in the forefront of your publisher’s mind without being a pest. Keep correspondences brief but consistent. Pay extra attention to specs on file type, length of recording, any notes on how to label files, and other such details. Don’t get too anxious if you don’t hear anything for a while. Set yourself up for success by having even a basic recording setup at home so you can create, or recreate, requested files as needed. 
+ Above all, don’t assume that because you have a publishing deal, or any other kind of management or recording deal inked, that your work is done. No matter how large or small your team, it’s still incumbent upon you to keep your skills sharp, your product top notch, and your network well rounded. When and if things start to feel a bit stagnant or landlocked, start back at the beginning. Find a new source of inspiration or revisit one that always lights a fire under you, update your tools or take classes to sharpen your skill sets, and continually collaborate and expand your network by helping others. 
+ What if the answer always seems to be “no”? 
+If a publisher isn’t interested in your work today, don’t lose heart. I’ve heard some publishers say that, until your music is making $5,000 a year or more, there’s not much point to their administrating it. This is because, with their typical fifty-fifty split, they would annually have to pay more than the $2,500 or less a year that they earn from working with you — just to maintain all the paperwork and assets on your behalf. 
+ That’s not a fixed threshold, so if your music is only making $3,000 a year, don’t let that stop you from submitting demos and EPKs to publishers. It’s just a reference point to keep in mind and offer a little perspective on why publishers are able to accept some work — like the bubblegum pop you hear on the radio that only uses three chords but sells like hotcakes — but not accept others, like your masterpiece that uses every ounce of music theory you learned in college, but, alas, doesn’t yet have the audience or cache of a tune released by Justin Bieber or Lady GaGa. 
+ Read more:  How to land and work a music publishing deal – Disc Makers   http://blog.discmakers.com/2014/05/how-to-find-land-and-work-a-music-publishing-deal/#ixzz330k19R4W 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Reddit 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Leave a comment  Posted in  artist development ,  artist management ,  bands ,  music business ,  musician ,  Record Label ,  song ,  songwriting  Tagged  audio engineering ,  career ,  Digital Bear Entertainment ,  fans ,  music ,  music business ,  musician ,  new model ,  songwriting 
+ So this guitarist walks into a recording studio… | Disc Makers 
+ Posted by  Jordan Tishler  on  October 13, 2014 
+ Here are 15 practical tips for recording guitar in any studio environment to help make the experience as smooth and trouble-free as possible 
+ Entering the recording studio can be a stressful task. Our friends at   Cakewalk   have outlined 15 basic tips to help you prepare for recording guitar before walking into a tracking session. 
+ 
+ 
+ Change your strings every 24 hours of play time 
+ 
+ 
+ Guitar strings can take a beating in the studio, especially if your plan is to record an entire album’s worth of material. To keep strings from becoming dull and bland, make sure to switch them out every 24 hours of play time. If you switch them right before a session, make sure to properly break them in before the red light goes on.
+2. ### Improve pick attack and dexterity 
+ One of the reasons you might struggle getting the sound you want when recording guitar is that your pick attack is not as hard as it needs to be. This will vary depending on the style of music you play, but much of the time in rock and heavy metal recordings, the guitar sound drives the song. If that sound is not the right tone and aggressiveness, then the track will suffer. In any genre, having dexterity and proper technique will shine through in your recording – and so will poor technique and control.
+3. ### Practice, practice, practice (with a metronome) 
+ Practicing your parts before recording guitar goes without saying, but it’s also a good idea to practice to a metronome and internalize the clicking. Don’t tap your foot or make noises to count the beat to yourself. You must feel the metronome in your playing or else you will have a hard time staying quiet in a recording booth while tracking.
+4. ### Practice playing full takes 
+ Recording full takes is definitely one of the hardest things to accomplish in the studio. To be comfortable nailing all the parts of a song or solo, practice the songs in their entirety – or even practice recording the songs. Sometimes recording part by part is a quicker task, but only if each part is practiced to perfection. If you must record each section part by part, the music may be out of your comfort zone.
+5. ### Practice with headphones 
+ The studio may bring many levels of discomfort, one being playing with headphones. Practicing with an amp can be useful when rehearsing for live shows, but little details about your performance could go unnoticed with that type of setup. The studio is a place where you are put under a microscope and are expected to play your best. Using headphones is part of the monitoring setup most recording studios. Do yourself a solid and pick up a pair to understand how you sound “under the gun.”
+6. ### Adjust pickups in case they are too far from your strings 
+ Electric guitars rely on the pickup systems to output a proper signal. Make sure your pickups haven’t sunk into the body of your guitar. The farther these are from string, the more the signal suffers in sound. The fix is easy for most pickups, simply take a screwdriver and adjust the screws that sit on the pickups. Count your turns so that each side of the pickup is the same distance.
+7. ### Get a new guitar cable plus a backup 
+ Brand new guitar cables are very important. Different companies make different kinds of cables out of all different types of materials. Take the time to make a few purchases to see what the differences are in cables. Check online reviews, and maybe even find out what studios recommend for guitarists. Check the cables that you are using between guitar pedals and make sure that they are all undamaged. Don’t kink your cables, and make sure you wrap them correctly.
+8. ### Make sure your intonation is correct 
+ This is one of the biggest issues in a sub-standard recording. An easy way to check your intonation is to tune your guitar’s open strings and then play octave chords above the 12th fret. If something sounds severely out of tune, then your guitar needs to be intonated. This is true for bass guitars as well. 
+ You should have your guitars setup with the change of every season. The weather can affect the wood severely and cause intonation issues. Getting your guitar set up will also help adjust things like your action and truss rod.
+9. ### Clean your fret board 
+ Use a flat-head screwdriver where the frets meet the wood. Make sure you do this gently, and make sure there’s no grime or residue in this area of the neck. Even a little bit of grime can make the guitar sound out of tune when it’s perfectly intonated and tuned. Fret board cleaners are also worth investing in, and a quick clean when you change your strings is a good habit to get into.
+10. ### Pedal maintenance 
+ If you are using effects pedals in the studio, make sure they are hardwired with AC or have fresh batteries. A dead battery can hinder the signal, create hums, ground loops, or process in a way that chokes the signal. Also make sure the pots and connections are dust free to limit static and unwanted noise.
+11. ### Make sure all the electronics in the guitar are working 
+ If you have noticed that you have a loose pickup selector, noisy knob, or a unstable cable jack, make sure you get that worked out well before your studio date. The last thing you need is for something to fall apart in between takes. Make sure you do not have any loose screws or bent hardware on your guitar. Sometimes this kind of damage can produce more problems.
+12. ### Ohm matching when using one or more speakers 
+ Matching impedance (measured in Ohms) needs to be done correctly. If not matched correctly, it could result in a blown speaker or blown head. Make sure to be particularly careful about this when working with more than one speaker or differing loads.
+13. ### Buy a backup pair of tubes for your amp head 
+ Make sure you purchase new tubes for your head before entering the studio. Blowing a tube during a recording can cost you precious hours in the studio. Make sure to purchase the same kind of tubes you had before. Different types of tubes can alter the sound of your tone.
+14. ### G-string constantly out of tune? 
+ If your guitar’s G-string constantly falls out of tune, here’s a quick fix. Take a #2 pencil and gently roll a bit of lead in the nut-groove where the G-string lies. This helps add a level of friction where the string and the nut meet and keeps the string from sliding around during your performance.
+15. ### Stay calm 
+ Don’t be afraid or intimidated by the recording studio if it’s your first time going in. Everyone makes mistakes their first time and the best thing you can do is practice your passages until you can play them cold. Read up on your favorite guitarists to see how they prepare for the studio, or talk to guys that you know record a lot. 
+ Image via  ShutterStock.com . 
+ Cakewalk   is the leading developer of powerful and thoughtfully designed products for the modern musician. These products include award-winning digital audio workstations and innovative virtual instruments. Millions of musicians worldwide – including Grammy® and Emmy®-winning producers, composers, sound designers, and engineers – use Cakewalk products daily to produce audio for the professional music, film, broadcast, and video game industries. The  Cakewalk blog  offers technical tips, tutorials, and news relating to their products and audio recording. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Reddit 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Leave a comment  Posted in  bands ,  bar ,  club ,  Don't Fuck Up ,  gigs ,  instrument ,  music ,  musician ,  performance ,  recording ,  showcase ,  studio ,  touring ,  venue  Tagged  artist ,  career ,  caring ,  Digital Bear Entertainment ,  gig ,  music ,  musician ,  performance ,  professionalism ,  recording ,  solution ,  success ,  touring 
+ Post navigation 
+ <- Older posts 
+ Like Digital Bear Entertainment 
+ 
+ Like Digital Bear Entertainment 
+ 
+ About: 
+ 
+ I am the chief mixer - producer and president of Digital Bear Enterainment. We specialize in Mixing, Production, and Artist Management. We work with some incredible artists (see our site for a list). We have a truly amazing SSL based studio designed for modern mixing and working with artists worldwide. After over 10 years in the licensing world we've positioned ourselves to help you succeed. It starts with a song, then a mix, then knowing where to go. That's what we do. 
+ It is my intention to use this blog as a voice for our industry: the politics, the ethics, and life in general in the Music Business. 
+ Time and time again I see musicians and practitioners, alike, shoot themselves in the foot. Read and learn. I'm going to give you the straight dope. No sugar coating. This is what you've got to do if you want to have a career in music. Read it and live it! 
+ Archives 
+ 
+ December 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ December 2011 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ December 2008 
+ October 2008 
+ April 2008 
+ March 2007 
+ January 2007 
+ 
+ Twitter Updates 
+ 
+ @ iheartBluntTalk  @ SiraNaturals  Ha! Just seeing this now bc my doctor profile is @ JordanTishlerMD . If you want to ta…   twitter.com/i/web/status/1…   2 years ago 
+ Nooooo! Chris Cornell Dead at 52 @ RollingStone  @ Local929    buff.ly/2qWibwo   #boston   #music   #studiolife …   twitter.com/i/web/status/8…   3 years ago 
+ Terrible news. Great man & friend Jim Mouradian, virtuoso guitar repair dies 66   buff.ly/2iNk71X   #boston   #music   #producer   #mixer   4 years ago 
+ Last article from me for a while. You can still hmu w questions. I love questions!  #boston   #music   #studiolife …   twitter.com/i/web/status/8…   4 years ago 
+ Nice write up! CannaKorp Names Jordan Tishler MD to Board Ahead of Launch   buff.ly/2g3EGcW   #mmj   #Boston   #health   #wellness   #sexuality   4 years ago 
+ 
+ Blogroll 
+ 
+ DAW-Mac 
+ Gearslutz 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ NetworkedBlogs 
+ Blog: 
+ I Haven't Had My Coffee Yet 
+ Topics: 
+ Politics ,  Music ,  Audio Engineering 
+ Follow my blog 
+ Blog at WordPress.com. 
+  I Haven't Had My Coffee Yet -- Don't Make Me Kill You!  
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

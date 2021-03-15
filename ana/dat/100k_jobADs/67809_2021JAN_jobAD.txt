@@ -1,0 +1,76 @@
+  
+ 
+ 
+ DOCUMENTATION 
+ 
+ 
+ WORKATO BLOG 
+ 
+ 
+ PRODUCT BLOG 
+ 
+ 
+ Return to Workato 
+ 
+ 
+ Log in 
+ 
+ 
+ ☰ 
+ 
+ 
+ Solutions Articles 
+ 
+ 
+ Forums/Discussions 
+ 
+ 
+ Submitted Tickets 
+ 
+ 
+ Enter your search term here... 
+ 
+ 
+ __ Search 
+  Solution home    Recipe 101   Recipe Basics 
+ Understanding Job Reports 
+ Created by: Alvin Ee 
+ Modified on: Thu, Jul 27, 2017 at 1:33 PM 
+ Job Reports is a powerful feature in Workato that you can use to get a full picture of the information that was moved between applications in a particular job. It allows you to diagnose if any of the data mapping in your recipe is not configured as desired, and it also gives you information on any jobs that have encountered errors. 
+ When you are on a recipe page, you will see a couple of tabs that you can click, Job report being one of them. if you click on the job report tab, it should expand and show this interface: 
+ You can see in the example above, Jobs with an error will be highlighted in red. 
+ To access each job report, all you will need to do is to click on a particular row with the report you want to see, and you will be brought to a page that looks like this: 
+ 
+ 
+ As you can see, you are able to expand the trigger and every step to see the data that is obtained (input) and used (output) in the integrations. 
+ If you encounter an error, the report page would look something like this: 
+ To understand more about troubleshooting recipe errors, click  here  for a guide. 
+ If you want a tutorial to build custom Job Reports, click  here 
+ A 
+ Alvin is the author of this solution article. 
+ Did you find it helpful? Yes No 
+ Send feedback 
+ Sorry we couldn't be helpful. Help us improve this article with your feedback. 
+ Related Articles 
+ Still can't find your solution? 
+ Visit our forums  to search for answers, or post your own questions. 
+ Documentation 
+ Developer's Library 
+ Tutorials 
+ eBooks 
+ Product Hour 
+ Product Blog 
+ Workato Blog 
+ Product updates 
+ Customer Stories 
+ © Workato 2020   Privacy   Terms  [+1 (844) 469-6752](tel:+1 (844) 469-6752) 
+ 
+ Documentation 
+ Workato Blog 
+ Product Blog 
+ Solutions 
+ Forums 
+ Tickets 
+ Log in 
+ Return to Workato 
+ 

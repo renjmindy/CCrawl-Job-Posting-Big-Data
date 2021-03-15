@@ -1,0 +1,102 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Front end developer working with Craft LOCALPERMANENT 
+ Job Description 
+ Seraph is a digital agency for world changers. We serve charities, start ups, membership organisations, councils and established companies who are making the world a better place through their services and products. Organisations like The Independent Group who are transforming politics, Youthscape who are delivering innovative youth work and Near Neighbours who are bringing British communities together. We are based in Luton, UK and Briançon, France. 
+ We are seeking an enthusiastic person who straddles the worlds of front-end development and user interface design. 
+ Responsibilities 
+ You will develop hard working and beautiful websites with high quality semantic HTML and CSS using TailwindCSS as the utility framework. You will integrate your templates with CraftCMS (training provided). You will work on brand new projects as well as supporting current projects. You will work alongside the technical and creative directors at various stages of the project including some client meetings. You will create responsive templates from description, psd, Sketch or illustrator. You will be using Git for version control. 
+ Skills: 
+ 
+ 
+ TailwindCSS 
+ 
+ 
+ HTML 
+ 
+ 
+ CSS 
+ 
+ 
+ Enjoy learning new things 
+ 
+ 
+ Familiar enough with Photoshop, Illustrator enough to build templates from them 
+ 
+ 
+ Git 
+ 
+ 
+ UI Design 
+ 
+ 
+ Good to have: 
+ 
+ 
+ Experience of webpack 
+ 
+ 
+ Craftcms 
+ 
+ 
+ jQuery 
+ 
+ 
+ Twig 
+ 
+ 
+ SASS & LESS - We support sites which use these technologies 
+ 
+ 
+ UX design experience 
+ 
+ 
+ How to Apply 
+ Please email your CV, detailing relevant skills, experience and interests, and examples of your work to  [email protected] . 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Seraph Agency Ltd 
+ 
+ __ 
+ 
+ Location:  Luton, Uk 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://www.seraph.agency 
+ __  Posted March 21, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

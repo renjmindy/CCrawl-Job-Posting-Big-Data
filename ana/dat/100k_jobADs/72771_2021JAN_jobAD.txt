@@ -1,0 +1,224 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Blockchain Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ BlockchainWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Software Engineer 
+ [ 
+ Gemini 
+ ](/companies/gemini) 
+ San Francisco, CA, US 
+ 03 December, 2020 
+ Apply 
+ More jobs from Gemini About Gemini 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Blockchain 
+ C++ 
+ Cryptocurrency 
+ Java 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Unlimited vacation policy 
+ 401(k) 
+ Casual dress 
+ Company outings 
+ Diversity dedicated staff 
+ Parental leave 
+ Unlimited vacation 
+ Snacks 
+ Equity 
+ Competitive salary 
+ Excellent pto 
+ Unlimited pto 
+ Pto 
+ Ownership through profit sharing equity 
+ Unlimted pto 
+ Profit interests 
+ Brand new offices 
+ Amazing office 
+ Macbook pros for all 
+ Industry leading healthcare 
+ La colombe nitro cold brew 
+ Up to 4% 401k matching 
+ Incredibly competitive medical, dental, vision 
+ Relaxed office environment 
+ 
+ We are looking for a motivated and experienced Senior Engineer to help design, build and architect systems 
+ Role overview 
+ Help us Build the Future of Money 
+ Gemini Trust Company, LLC (Gemini) is a licensed digital asset exchange and custodian. We built the Gemini platform so customers can buy, sell, and store digital assets (e.g., Bitcoin, Ethereum, and Zcash) in a regulated, secure, and compliant manner. 
+ Digital assets and blockchain technology have the power to transform the world for good. This truth, along with our core values, form the bedrock of our company and culture. At Gemini, no job is too small and no project too big as we endeavor to build the future of money. We are a mission-driven, team-based, inclusive, and determined community of thought leaders who invest in each other and the long game. Join us in our mission! 
+ The Department: Engineering 
+ Gemini is regulated and licensed like a bank, but it’s run like a tech startup, and engineering is the core of the company. There’s a wide range of tough problems to solve at Gemini – from properly securing hundreds of millions of dollars worth of customer funds, to developing innovative new blockchain products, to finding new techniques to combat fraud, to shaving microseconds off our API response times, and everything in between. 
+ All of Gemini’s engineers are able to work across the software platform, not just on their own specialization or subteam. We value a thoughtful, collaborative software development process, coupled with a pragmatic approach to problem solving and delivering software. 
+ The Role: Senior Software Engineer 
+ As an engineer on our backend team, you’ll architect and solve complex problems that will directly influence the direction of the digital asset space. There’s a wide range of problems to solve at Gemini – from properly securing millions of dollars worth of customer funds, to developing innovative new blockchain products, to shaving microseconds off our API response times. We have a strong culture of code reviews, and a focus on security, with the end goal of writing and shipping high-quality code by getting things right the first time. We want to continue building the best product we can as we scale and grow our business. If you get excited about solving technical challenges that directly impact our customers, clients, and the rest of the Gemini team, we’d love to hear from you. This role can be based in our New York, Chicago, San Francisco, Singapore, or Portland, Oregon offices. 
+ Responsibilities: 
+ 
+ Develop new products and product features on the Gemini platform, as part of a tight knit team of two to eight developers. 
+ Write automated tests and work with our QA team to ensure the operation and correctness of new product features. 
+ Provide technical input and knowledge to the planning, design, and requirements process for new products and features. 
+ Review other software engineers’ code for correctness, style, and information security concerns. 
+ Improve the performance, maintainability, and operations of the Gemini code base by engaging in occasional refactoring and upgrade projects. 
+ Support your team’s production software by responding to an occasional alert or bug report. 
+ 
+ Minimum Qualifications 
+ 
+ At least 6 years of software engineering experience. 
+ Advanced proficiency in at least one language. We use mostly Scala and C++ on our backend and Typescript on the frontend – it’s great if you’re comfortable in those or if you’re willing to learn. 
+ The ability to work closely across teams and manage dependencies. 
+ A customer- and product-focused mindset, with the ability to make well-reasoned tradeoffs between speed and quality. 
+ The ability to adapt and handle multiple competing priorities in collaboration with peers. 
+ 
+ Bonus Qualifications 
+ 
+ Experience working with or being a power user of Bitcoin, Ethereum, and/or blockchain technology 
+ Work experience or knowledge of the finance industry, payments, trading and/or exchange systems 
+ 
+ 
+ [ 
+ Gemini 
+ ](/companies/gemini) 
+ 
+ 
+ 50-249 
+ 
+ 
+ New York, NY, US 
+ 
+ 
+ Gemini Trust Company, LLC (Gemini) is a licensed digital asset exchange and custodian. We built the Gemini platform so customers can buy, sell, and store digital assets (e.g., Bitcoin, Ethereum, and Zcash) in a regulated, secure, and compliant manner. Digital assets and blockchain technology have the power to transform the world for good. This truth, along with our core values, form the bedrock of our company and culture. At Gemini, no job is too small and no project too big as we endeavor to build the future of money. We are a mission-driven, team-based, inclusive, and determined community of thought leaders who invest in each other and the long game. Come join the Gemini team and help us build the future of money. We believe in the transformational power of digital assets, and want to work with people who have passion, integrity, and perseverance. We’re committed to excellence and building a truly galaxy-changing team. If this sounds like you, apply for a seat on the Gemini Spaceship today! 🚀 
+ Technology Private modern technology early stage Ansible CI/CD Code Reviews Compliance Unlimited Vacation Policy 401(K) 
+ View 11 jobs 
+ Engineers who find a new job through Blockchain Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Gemini About Gemini 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Blockchain 
+ C++ 
+ Cryptocurrency 
+ Java 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Unlimited vacation policy 
+ 401(k) 
+ Casual dress 
+ Company outings 
+ Diversity dedicated staff 
+ Parental leave 
+ Unlimited vacation 
+ Snacks 
+ Equity 
+ Competitive salary 
+ Excellent pto 
+ Unlimited pto 
+ Pto 
+ Ownership through profit sharing equity 
+ Unlimted pto 
+ Profit interests 
+ Brand new offices 
+ Amazing office 
+ Macbook pros for all 
+ Industry leading healthcare 
+ La colombe nitro cold brew 
+ Up to 4% 401k matching 
+ Incredibly competitive medical, dental, vision 
+ Relaxed office environment 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Blockchain Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Blockchain Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Technical Product Manager CompetitiveO(1) LabsUnited States of America 
+ We're a software development company and leader in verifiable computation. Currently incubating Mina Protocol 
+ Remote 
+ blockchain cryptocurrency product development product management 
+ More Info Apply 
+ Senior Protocol Engineer$140K - 160K + EquityO(1) LabsUnited States of America 
+ Build a protocol that brings formal verification to the blockchain 
+ Remote 
+ blockchain cryptography cryptocurrency functional programming haskell ocaml smart contracts 
+ More Info Apply 
+ Senior Software Engineer CompetitiveGeminiNew York, NY, US 
+ We are looking for a motivated and experienced Senior Engineer to help design, build and architect systems 
+ blockchain c++ cryptocurrency java scala 
+ More Info Apply 
+ Senior Software Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Blockchain jobs Solidity jobs Blockchain product jobs Quant jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Blockchain articles Solidity articles Ethereum articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

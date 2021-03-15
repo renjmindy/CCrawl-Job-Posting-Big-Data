@@ -1,0 +1,141 @@
+ Workday     Blog  
+ 
+ Categories
+ 
+ Workday News & Culture 
+ Finance 
+ Human Resources 
+ Planning 
+ Technology Innovation 
+ Analytics & Insights 
+ Customers & Community 
+ 
+ 
+ Industries
+ 
+ Financial Services 
+ Government 
+ Healthcare 
+ Higher Education 
+ Hospitality 
+ Media and Entertainment 
+ Professional and Business Services 
+ Retail 
+ Technology 
+ 
+ 
+ More
+ 
+  Podcasts  
+  Videos  
+  Authors  
+ 
+ 
+ 
+ Search for: 
+ Building Bridges to Careers: Q&A with Year Up CEO Gerald Chertavian 
+ 
+ Categories 
+  Workday News & Culture  
+  Finance  
+  Human Resources  
+  Planning  
+  Technology Innovation  
+  Analytics & Insights  
+  Customers & Community  
+ Industries 
+  Financial Services  
+  Government  
+  Healthcare  
+  Higher Education  
+  Hospitality  
+  Media and Entertainment  
+  Professional and Business Services  
+  Retail  
+  Technology  
+ 
+ 
+  Podcasts  
+ 
+ 
+  Videos  
+  Authors  
+ 
+ Customers and Community 
+ Building Bridges to Careers: Q&A with Year Up CEO Gerald Chertavian 
+ Gerald Chertavian is founder and CEO at Year Up, one of the fastest growing non-profits in the nation that helps urban young adults develop technical and professional skills that they apply during a six-month internship at a company. We had the opportunity to sit down with Chertavian following a presentation he gave to executive attendees at Workday Rising to discuss his passion for building bridges that lead more people out of poverty and into successful careers. 
+   
+ Mary Hayes Weier  October 31, 2017 
+ There’s a significant opportunity divide in the U.S., and Gerald Chertavian is passionate about building bridges that lead more people out of poverty and into successful careers. 
+ With a Harvard MBA and a resume that includes Wall Street banker and software company CEO, Chertavian has taken a businesslike approach to helping young people break out of the cycle of poverty. Year Up is one of the fastest growing non-profits in the nation with 21 training locations and 250 corporate partners. 
+ We had the opportunity to sit down with Chertavian following a presentation he gave to executive attendees at  Workday Rising  in Chicago. As a corporate partner, we’re passionate about our involvement with Year Up—the  Workday Foundation  has provided $1 million in funding to the organization, and more than 60 percent of our Year Up interns have become Workday employees. At the conference, Workday donated $135,000 to Year Up, and attendees donated cash, professional clothes, and participated in a mentoring session with its local students. 
+ What inspired you to start Year Up? 
+ Thirty years ago, I was involved in the Big Brothers mentoring program and began meeting each Saturday with a 10-year-old boy named David. He lived in a seriously crime-ridden housing project in New York—his mother wouldn’t even let him outside to play. This was during the height of the crack epidemic, and I remember drug vials breaking under my shoes outside of his apartment. But as I got to know David and his family and friends, I realized they were some of the most remarkable and motivated people I’d met in my life. Yet because of their skin color, income, and zip code, they didn’t have many of the same opportunities as other kids their ages. 
+ That experience with David really stuck with me, and in 1989 I wrote a paper on starting a program to close the opportunity divide. After business school I was pretty broke, but luckily it was a good time to get into the software industry and I started a company that made knowledge management systems. I also started a family, and I knew I had to make sure my own children were secure before I could focus on someone else’s children. When I sold the company for a profit, I was able to start Year Up. 
+ How did you know the concept for Year Up would work? 
+ I never doubted it, because I knew David—I knew how smart he was, and how smart his brothers were. I talked with them at length and saw such capacity. It was clear to me the market for talent was broken for all the wrong reasons. It’s not that people stuck in poverty lack hustle, grit, and ambition; it’s because they don’t have opportunities. Sometimes when you see market failure you have to connect the market so supply and demand can talk to each other, and that’s what we’re doing with Year Up. 
+ Can you elaborate on that idea of talent market failure? 
+ Companies are requiring four-year degrees for jobs that didn’t require them in the past, and they’re using bots and AI to weed out resumes without degrees. But by doing this, they’re potentially throwing out a lot of good talent. They’re also overlooking massive opportunities to increase productivity and diversity, while also saving money. 
+ Lots of companies are bringing outsourced technical jobs back to the U.S. because the labor cost arbitrage is declining. Some of these jobs are entry level. If a company requires every entry-level hire to have a four-year degree, it’s pushing up its cost base. Alternatively, they could be opening up opportunities to more people, and creating pathways where new hires can work while also pursuing a higher education. 
+ So the intention is these entry-level hires could ultimately pursue more education? 
+ All of us should be focused on continuing to grow, and oftentimes that includes getting more education while working. The average age of earning a bachelor’s degree is now between 26 and 28, and certainly, most people who graduate at that age were working while going to school. We want Year Up graduates to have not only opportunities but the economic stability required for continued career growth. Because if you’re 22 and can’t get a foothold on the economic ladder, then you end up working three jobs that pay $7 an hour and the pursuit of higher education becomes a pipe dream. 
+ Does hiring people without four-year degrees require a different mindset within companies? 
+ For sure. In the early days, it was harder for us to get corporate sponsors, because we didn’t have any references. Now it’s much easier to craft partnerships when business leaders can talk to people whose companies are very involved in Year Up, including Aneel Bhusri of Workday and Jeff Weiner of LinkedIn. 
+ How has it been to partner with Workday? 
+ Workday is a high quality, kind, and professional organization. I’ve met quite a few people from Workday, and they are just good humans. You talk with Aneel and get a sense of who he is, and it’s no surprise the organization has that kind of culture. We see other enlightened leaders in tech, and we’d love for even more in the industry to help build a pluralistic and diverse society with opportunities for everyone, and one way to do that is to tap into different sources of talent. We’ve proven our approach works—we’ve expanded to 21 locations. We want to continue to work with the tech industry’s bright minds and see if we can keep multiplying that number. 
+ How else do you measure the program’s success? 
+ When our students graduate from the program they earn an average wage of $19 per hour, which is considerably above minimum wage in every state. Those graduates are also starting out in jobs that will grow over time. 
+ 
+ “It’s time to reimagine the talent marketplace, and this will only happen with deliberate leadership.” 
+ 
+ What else can you share about Year Up’s growth strategy? 
+ We now partner with 14 community colleges around the country and are in talks to partner with more. A good analogy is the Reserve Officers’ Training Corps—Year Up is a program offered within a school, and as a student, instead of wearing a military uniform you’re expected to dress professionally. Instead of going on a field exercise, you’re going to an internship. You have additional requirements, coursework, and expectations. Think of us as a professional training corps. 
+ What do you hope to be the most important takeaway from your talk at Workday Rising? 
+ In this era of a tight labor market and global competitiveness, and our continuing need for a healthy democracy, we need to bring more people into the economy. Inclusive capitalism is surely a big idea. Yet we see the effects of not having economic inclusiveness, and how it’s a big issue across all political parties. We also know that handouts don’t work—what does work is opportunity. And if you set the bar high and challenge someone to jump over, the vast majority will succeed. 
+ It’s time to reimagine the talent marketplace, and this will only happen with deliberate leadership. I hope everyone recognizes the power they have to reshape the talent marketplace and to help pull people out of poverty, while also helping their businesses become more successful. 
+ Posted in:   Customers and Community 
+ Culture   Workday Rising   Workforce Development 
+ More Reading 
+ 
+   
+ 
+ Customers and Community 
+ The Skills Movement: Building a Sustainable and Equitable Future for Global Workers 
+ Global events in 2020 have accelerated the need for new workforce skills. Leaders from Telstra and Mastercard share six strategies to maximize opportunities in a skills-based economy fueled by automation and AI. 
+   
+ Ghadeer Redler  January 06, 2021 
+ 
+   
+ 
+     Customers and Community   Technology Innovation 
+ Workday Podcast: Driving Innovation in Healthcare IT 
+ Sarah Richardson, vice president of IT change leadership at Optum, and Joe Wilson, chief technology officer for North America at Workday, discuss how healthcare IT is evolving, the importance of alignment across business functions, and how communication is key for effective digital transformation. 
+   
+ Workday Staff Writers  December 30, 2020 
+ 
+   
+ 
+ Customers and Community   Workday News and Culture 
+ Top 10 Workday Podcasts of 2020  
+ Let’s take a look back at our favorite Workday podcasts of 2020, with topics including the future of work, inspirational leadership, machine learning technologies, finance transformation, and more. 
+   
+ Workday Staff Writers  December 29, 2020 
+      Blog  
+ 
+  Twitter  
+  LinkedIn  
+  Facebook  
+  YouTube  
+  Instagram  
+ 
+  Workday is powered by 100% renewable energy.  
+ 
+ 
+ 
+ Email Subscriptions 
+ 
+ 
+ Privacy 
+ Legal 
+ 
+ © 2021 Workday, Inc. 

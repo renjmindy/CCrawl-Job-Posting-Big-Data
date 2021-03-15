@@ -1,0 +1,175 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Blockchain Engineer, Integrations 
+ [ 
+ Chainlink Labs 
+ ](/companies/chainlink) 
+ 
+ Remote 
+ 26 August, 2020 
+ Apply More jobs from Chainlink Labs About Chainlink Labs 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Go 
+ Blockchain 
+ JavaScript 
+ Rust 
+ Solidity 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Token equity 
+ 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts (Rust/Go) - 
+ Role overview 
+ About this Role 
+ You will lead integrations with upcoming blockchains into the Chainlink platform, working directly, and building relationships with the founding engineers while learning about each new innovative blockchain platform. Today, most blockchains are their own ecosystems, but this is about to change: cross-blockchain connectivity is set to be the next growth opportunity, with network effects compounding when leveraging the strengths of each blockchain. You will be the driving force for owning this initiative and will make a large impact on the growth of a critical piece of blockchain infrastructure. We are a fully distributed team and have the tools and benefits to support you in your remote work environment. 
+ Your Impact 
+ 
+ Interface with leadership, customers, users, and the community to implement seamless integrations to allow for the exponential growth of the network 
+ Lead cutting edge blockchain platform integrations 
+ Manage the technical aspects of integrating Chainlink with blockchains 
+ Build token bridges between blockchains utilizing the Chainlink network 
+ Work closely with node operators to connect their Chainlink nodes to other blockchains 
+ Develop best practices and documentation to scale integrations 
+ 
+ Our Stack:  Golang, Rust, TypeScript, Solidity, Postgres, Terraform, AWS 
+ Job requirements 
+ 
+ 2+ years of professional experience working in a product-driven environment 
+ Experience in Golang or Rust; otherwise experience in JS, Ruby, Python, C++, C, or Solidity and a willingness to learn 
+ Resourceful developer and fast learner continually striving to discover more environments 
+ Ability to write and communicate effectively 
+ Eagerness to work openly and collaboratively with a diverse team 
+ Experience in blockchain and other Web 3.0 technologies 
+ Comfort and/or experience working as a remote employee as a part of a distributed team 
+ 
+ POI:  This role is location agnostic anywhere in the world, though we ask that you overlap some working hours with Eastern Standard Time (EST) in the US. 
+ 
+ [ 
+ Chainlink Labs 
+ ](/companies/chainlink) 
+ 
+ 10-49 
+ 
+ Smart contracts are on track to revolutionize how all agreements work, through an entirely new system of technologically enforced contract guarantees. Chainlink enables next-generation smart contracts that can be written about any/all events in the real world; the details of our approach can be found in Chainlink's whitepaper. Chainlink is well recognized for providing highly secure and reliable blockchain connectivity to the world's largest enterprises, such as Google, Oracle, SWIFT, and many more. This is a unique opportunity to join one of the top companies developing cutting-edge blockchain technology while working closely together with a team of experienced senior developers. 
+ Remote Working JavaScript Blockchain Private Go Blockchain Solidity Token Equity 
+ View 11 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from Chainlink Labs About Chainlink Labs 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Go 
+ Blockchain 
+ JavaScript 
+ Rust 
+ Solidity 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Token equity 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Software EngineerCompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts - 
+ RemoteSponsorship 
+ go blockchain docker ethereum rust solidity typescript 
+ More Info Apply 
+ Blockchain Engineer (Rust) for a cryptocurrency startup$75K - 110K + EquityChorus OneSwitzerland 
+ Build infrastructure for the Internet of Blockchain 
+ Remote 
+ blockchain rust 
+ More Info Apply 
+ Blockchain Application Security Engineer (Smart Contract Auditor)CompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts - 
+ Remote 
+ go blockchain c++ python rust security cybersecurity 
+ More Info Apply 
+ Blockchain Engineer, Integrations 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

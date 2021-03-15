@@ -1,0 +1,18 @@
+ Required Minimum Qualifications: 
+ Â 
+Candidates must have a recent Ph.D. in Mechanical Engineering, Electrical Engineering, or a related discipline.Â 
+ Preferred Qualifications: 
+ Applicants with experience in (1) fault diagnostics and failure prognostics, (2) machine learning and deep learning, and/or (3) experimental/computational studies of lithium-ion batteries are highly encouraged to apply. Particularly, prior research experience in one or more of the following areas are desired: 
+ - Algorithm development for machine learning and deep learning 
+ Preferred Qualifications: 
+ Applicants with experience in (1) fault diagnostics and failure prognostics, (2) machine learning and deep learning, and/or (3) experimental/computational studies of lithium-ion batteries are highly encouraged to apply. Particularly, prior research experience in one or more of the following areas are desired: 
+ - Algorithm development for machine learning and deep learning 
+- Algorithm development for fault diagnostics and failure prognostics 
+- Algorithm development for battery state estimation in BMS 
+- Computational modeling of lithium-ion cell designs and their degradation/lifetime 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 

@@ -1,0 +1,188 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Laravel back-end developer @ VC backed startup 
+ at Guardian Angel 
+ go back to Developer Jobs 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ Laravel back-end developer 
+ Guardian Angel is positively disrupting the death industry with technology. We're a well funded UK startup looking to grow our development team so we can deliver features faster. 
+ We're looking for an experienced backend developer who can dive into an existing Laravel and Vue code base to start delivering features. You should have strong opinions on code and architecture, a drive to improve the messy bits, and an understanding of the tradeoffs between doing things fast and doing them right. Real world project experience like handling merge requests and managing tickets is important. You enjoy working on fast moving projects and deploying multiple times per day. 
+ Us 
+ Guardian Angel was conceived in 2017 following the unexpected death of founder Sam Grice's mother in a road accident. 
+ Having been personally exposed to the end of life industry, the lack of digital efficiency became evident as he and his family struggled to coordinate the tasks and sudden influx of communications. 
+ "The funeral sector has been slow to modernise and digitise its services but we are talking to funeral directors on a daily basis about the benefits of creating a Guardian Angel support hub for their clients, as we believe technology can really help in the bereavement process." 
+ Read More: 
+ 
+ https://guardianangel.network/about 
+ https://www.manchestereveningnews.co.uk/business/business-news/death-tech-start-up-guardian-16136099 
+ 
+ Our products 
+ This is the stuff you'll be helping us to maintain, refactor, and build new features on. There are other products in the pipeline so there will be plenty of greenfield projects too. 
+ 
+ Support hubs
+ 
+ A place for grieving families with a focus on privacy. 
+ 
+ 
+ Online wills
+ 
+ Write your will online, get it checked by an expert, keep it up to date over the years. 
+ 
+ 
+ Secret project (beta)
+ 
+ It's built using Inertia. 
+ 
+ 
+ Admin tool
+ 
+ Laravel Nova. 
+ 
+ 
+ 
+ It's all Laravel and Vue combined in different ways. We need someone to help stay on top of the ever growing list of features and develop new ones. 
+ You 
+ 
+ Can deliver well thought out and complex features across our stack:
+ 
+ Laravel 
+ MySQL 8 
+ Nginx 
+ Envoyer 
+ Inertia 
+ Ubuntu 
+ Git 
+ 
+ 
+ Self motivated. 
+ See the benefits of refactoring, writing tests, pair programming. 
+ Put empathy in to what you build: The people that use our site are grieving, the last thing they need is another convoluted signup, short timeouts on forms, or obnoxious popups vying for their attention. 
+ 
+ We're looking for a "T-shaped" developer, someone with a broad set of skills but a specific focus on Laravel. 
+ If you're more of a front-ender, then we're also looking for someone for that role too so get in touch. 
+ 
+ Remote, UK.
+ 
+ Preferably you can make the occasional trip to London (post-lockdown of course). 
+ 
+ 
+ This is a full-time position, we're not looking for contractors at the moment. 
+ 
+ Why you should work with us 
+ 
+ £30-45k Dependent on experience. 
+ Stock options. 
+ Fast growth environment. 
+ Pick your own hardware, we'll order it and ship it to you. 
+ Nest pension. 
+ Flexible working.
+ 
+ We have 9am and 5pm team zoom calls daily to stay in touch, but it's OK to skip if you're head-down on a task, need to cook dinner for the kids, or you work better at 1am. 
+ 
+ 
+ 
+ 
+ There's just 4 of us so far, so you'll have lots of say in the direction of the products and the tech. The goal is to eventually build a fully fledged product team so we can deliver on all the ideas we have, and we're looking for someone to grow with us as our second developer. 
+ Published at 4 Jan 2021 - Expires on 4 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Guardian Angel 
+ fulltime  Vue front-end developer @ VC backed startup  at Guardian Angel in London 
+ __04-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

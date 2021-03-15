@@ -1,0 +1,207 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Controls Engineer 
+ Brookhaven National Laboratory 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Controls Engineer 
+ Brookhaven National Laboratory 
+ [](mailto:?subject=Controls%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/13993283/controls-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ October 12, 2020 
+ Location: 
+ Upton, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full-time 
+ Why Work at BNL? 
+Brookhaven National Laboratory is a multipurpose research institution funded primarily by the U.S. Department of Energy's Office of Science. Located on the center of Long Island, New York, Brookhaven Lab brings world-class facilities and expertise to the most exciting and important questions in basic and applied science--from the birth of our universe to the sustainable energy technology of tomorrow. We operate cutting-edge large-scale facilities for studies in physics, chemistry, biology, medicine, applied science, and a wide range of advanced technologies. The Laboratory's almost 3,000 scientists, engineers, and support staff are joined each year by more than 4,000 visiting researchers from around the world. Our award-winning history, including seven Nobel Prizes, stretches back to 1947, and we continue to unravel mysteries from the nanoscale to the cosmic scale, and everything in between. Brookhaven is operated and managed by Brookhaven Science Associates, which was founded by the Research Foundation for the State University of New York on behalf of Stony Brook University, and Battelle, a nonprofit applied science and technology organization. 
+ Organizational Overview 
+ Brookhaven National Laboratory is entering an exciting new chapter with one of the newest and most advanced synchrotron facilities in the world. National Synchrotron Light Source II (NSLS-II ) enables the study of material properties and functions with nanoscale resolution and exquisite sensitivity by providing world-leading capabilities for X-ray imaging and high-resolution energy analysis. 
+ This facility is open to users from academia and industry and its operations are at a time when the world enters a new era with a global economy fueled largely by scientific discoveries and technological innovations. NSLS-II provides the research tools needed to foster new discoveries and create breakthroughs in critical areas such as energy security, environment, and human health. 
+ Position Description 
+ The National Synchrotron Light Source-II (NSLS-II) seeks an engineer to join the Core Controls Group that develops software and hardware engineering expertise for 30 state-of-the-art synchrotron beamlines, as well as for a cryo-electron microscopy facility. The working environment in this large-scale research facility combines the scope of a large industrial facility with the excitement and challenges of world-class research experiments. As a National Laboratory, BNL collaborates closely with other national and international research institutions. 
+ This position is focused on the implementation, deployment, and maintenance of NSLS-II beamline systems that control and synchronize high-precision motor-driven positioners, X-Ray detectors, and robotic sample mounters in a Linux-based Experimental Physics and Industrial Control System (EPICS) environment. It will also contribute to ongoing development and support for various database technologies for experiment control and for experimental data handling and processing. 
+ Essential Duties and Responsibilities: 
+ The successful candidate for this position is a middle or advanced level technology development professional who possesses demonstrated expertise in their engineering area and applies working knowledge of multiple related technologies. Responsibilities for the role include development of engineering solutions from planning to design to implementation and documentation, communication with customers and team members, and continued growth of professional expertise. 
+ Position Requirements 
+ Required Knowledge, Skills and Abilities: 
+ 
+ Bachelor's Degree in Computer Science, Electrical Engineering, or a related field of study 
+ At least three years of relevant professional experience 
+ Demonstrated programming experience in multiple languages including at least two of: C, C++, Python, or Java 
+ Experience with developing in a Linux operating system environment 
+ A practical knowledge of software and hardware engineering practices that include requirements gathering, design, testing, documentation, source code management and release procedures 
+ A demonstrated initiative and ability to take ownership of projects and tasks 
+ Effective oral and written communication skills and interpersonal skills 
+ A demonstrated ability to work collaboratively with professionals from diverse backgrounds 
+ 
+ Preferred Knowledge, Skills, and Abilities (One or more of the following): 
+ 
+ An advanced degree in Computer Science, Electrical Engineering, or closely related field of study 
+ Experience with development for Experimental Physics and Industrial Control System (EPICS) 
+ Experience with software support for scientific equipment, especially synchrotron beamlines 
+ Experience with motion control technologies, in particular with timing-critical high-precision positioner control 
+ Python programming experience in a scientific computing environment 
+ Familiarity with data acquisition technologies, hardware and software, A preference for science-based experience 
+ Graphical User Interface design and development experience, especially EPICS related 
+ Experience with both SQL (relational) and NoSQL databases, e.g. MySQL and MongoDB 
+ Experience with one or more laboratory information management systems 
+ A knowledge of PLC programming and interfaces 
+ 
+ Other Information: The selected candidate will be placed at the appropriate level dependent upon depth and breadth of relevant knowledge and skills, as well as the amount of relevant experience. 
+ At Brookhaven National Laboratory we believe that a comprehensive employee benefits program is an important and meaningful part of the compensation employees receive. Our benefits program includes but is not limited to: 
+ 
+ Medical Plans 
+ Vacation 
+ Holidays 
+ Dental Plans 
+ Life Insurance 
+ 401(k) Plan 
+ Retirement Plan 
+ Swimming Pool, Weight room Tennis Courts, and many other employee perks and benefits. 
+ 
+ Brookhaven National Laboratory and the Energy and Photon Sciences Directorate are committed to your success. We offer a supportive work environment and the resources necessary for you to succeed. 
+ Brookhaven National Laboratory (BNL) is an equal opportunity employer that values inclusion and diversity at our Lab. We are committed to ensuring that all qualified applicants receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a veteran, disability or any other federal, state or local protected class. 
+ BNL takes affirmative action in support of its policy and to advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities. We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation. 
+ *VEVRAA Federal Contractor 
+ 
+ 
+ Internal Number: 1764 
+  __  Create a Job Alert for Similar Jobs  
+ About Brookhaven National Laboratory 
+ Brookhaven National Laboratory is a multipurpose research institution funded primarily by the U.S. Department of Energy’s Office of Science. Located on the center of Long Island, New York, Brookhaven Lab brings world-class facilities and expertise to the most exciting and important questions in basic and applied science—from the birth of our universe to the sustainable energy technology of tomorrow. We operate cutting-edge large-scale facilities for studies in physics, chemistry, biology, medicine, applied science, and a wide range of advanced technologies. The Laboratory's almost 3,000 scientists, engineers, and support staff are joined each year by more than 4,000 visiting researchers from around the world. Our award-winning history, including seven Nobel Prizes, stretches back to 1947, and we continue to unravel mysteries from the nanoscale to the cosmic scale, and everything in between. Brookhaven is operated and managed by Brookhaven Science Associates, which was founded by the Research Foundation for the State University of New York on behalf of Stony Brook University, and Battelle, a nonprofit applied science and technology organization. 
+ Connections working at Brookhaven National Laboratory 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Sr. Maintenance Technician, Thin Film Coating 
+ __  Newton, New Jersey 
+ 
+ 
+ 
+ 
+ Thorlabs, Inc. 
+ __3 Days Ago 
+ 
+ 
+ Account Manager – Central Region (USA) 
+ __  Nationwide 
+ 
+ 
+ Gooch & Housego 
+ __3 Days Ago 
+ 
+ 
+ Design Engineer 
+ __  Newton, New Jersey 
+ 
+ 
+ Thorlabs, Inc. 
+ __1 Week Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

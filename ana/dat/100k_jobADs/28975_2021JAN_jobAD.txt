@@ -1,0 +1,78 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ CaptivateIQ (W18) 
+ CaptivateIQ makes it easy to pay your sales teams' commissions. 
+ Product Manager 
+ 
+ Location 
+ San Francisco / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About CaptivateIQ 
+ CaptivateIQ is a software as a service that helps you set, optimize, calculate, and payout sales commissions for your sales people. Over 80% of businesses use spreadsheets to calculate commissions, leading them to compensate teams inaccurately, late, and without proper reporting. We are helping companies reduce costly payout errors and providing access to the most innovative compensation strategies. 
+ The team started working together in November 2017, launched in February 2018, and today have customers including Gusto, Heap Analytics, Iterable, and many more. Our team led commissions at successful companies, including Gusto and BrightRoll and worked at leading companies including Amazon, OpenTable, McKinsey & Company and Carrick Capital. CaptivateIQ is backed by Y-Combinator, Foundation Capital, s28 Capital, and notable enterprise Angels. 
+ About the role 
+ CaptivateIQ’s mission is to enable companies to manage and optimize the financial incentives that align employees with company goals. We think companies missing their goals is a problem rooted in incentives. We also believe that today’s incentives are oversimplified or non-existent because of limitations with tools used to manage them. To enable companies and employees to reach their full potential, CaptivateIQ is designing a new generation of incentive management tools. That’s where you come in: we’re looking for an experienced product manager with a well rounded set of experiences and skills to join our team! 
+ The Product Management team is responsible for understanding our customers' most important priorities/issues, distilling them into opportunities that our platform can solve, and designing solutions that dramatically improve our users’ lives. As a Product Manager at CaptivateIQ, you will help shape the product vision and roadmap, define product requirements, oversee the execution of both large and small initiatives. 
+ Responsibilities: 
+ 
+ 3+ years of product management experience at fast growing, product led companies with at least 2 years in a B2B 
+ SaaS company serving growth/enterprise stage businesses 
+ Experience working with and building complex products and systems 
+ Experience leading substantial product releases from 0 to 1 
+ Strong technical acumen demonstrated through previous work experiences in engineering or analytical roles 
+ Strong written and verbal communication skills to articulate customer needs and to distill into opportunities/requirements for product, design, and engineering teams. 
+ 
+ Who you are: 
+ 
+ You approach product development methodically and embrace an agile mindset 
+ You love collaborating with engineering, design, sales/marketing, and customer experience teams 
+ You're driven by the opportunity to significantly improve our customers' lives 
+ You have experience and enjoy leading the development of complex, technical software products from start to release 
+ You have a whatever-it-takes mentality to ensure your product and team are successful, whether that means performing QA tests yourself or jumping on a call with a customer to better understand an issue 
+ You turn disparate, conflicting, and often ambiguous pieces of data/feedback into solid action plans 
+ You obsess about the continuous improvement of the platform by analyzing product usage, talking to customers, and deploying small and large releases on existing and new features. 
+ 
+ This role can be in San Francisco or Remote anywhere in North America. 
+ Benefits 
+ 
+ Healthcare - 100% and 75% coverage of employee and dependent coverage benefits, respectively for medical, dental, and vision. 
+ Unlimited vacation policy, along with company-paid holidays 
+ Transportation stipend 
+ $1,000 Anniversary Travel Pass 
+ 401k 
+ Newest hardware and tools for the job 
+ 
+ Technology 
+ Python/Django, postgresSQL, heroku, and AWS 
+ Other jobs at CaptivateIQ 
+ Engineering Manager (Remote)  
+ fulltime 
+ Remote 
+ Engineering Manager 
+ 6+ years 
+ Product Design  
+ fulltime 
+ San Francisco / Remote 
+ UI / UX 
+ 3+ years 
+ Product Manager  
+ fulltime 
+ San Francisco / Remote 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,272 @@
+Loading.... 
+ LOGIN     SIGN UP 
+ 
+ 
+ Hire Experts 
+ Find Work 
+ How it Works 
+ About Us 
+ Blog 
+ 
+ 
+ SIGN UP! 
+ Before you proceed to sign up, 
+Please select one of the following! 
+ I want to Hire 
+ 
+ --OR-- 
+ I want to Work as an 
+ 
+ 
+ 
+ Home 
+ » 
+ Freelance Jobs 
+ » 
+ CodeIgniter 
+ 
+ Project Results 
+ By Job Category 
+ 
+ All  (520) 
+ IT & Programming  (197) 
+ Graphic Design & Multimedia  (63) 
+ Writing, Content & Translation  (127) 
+ Data Entry & Admin  (40) 
+ Sales & Marketing  (39) 
+ Customer Service  (8) 
+ Finance & Accounting  (19) 
+ Others  (27) 
+ 
+ By Budget (INR) 
+ 
+ All  (520) 
+ Less than 5000 Rs.   (150) 
+ Between 5,000 - 20,000 Rs.   (139) 
+ Between 20,000 - 50,000 Rs.   (60) 
+ Between 50,000 - 100,000 Rs.   (29) 
+ Greater than 100,000 Rs.   (33) 
+ Not Sure  (109) 
+ 
+ By Project Type 
+ 
+ All  (520) 
+ Featured  (29) 
+ Full Time  (3) 
+ 
+ By Time Left 
+ 
+ Any 
+ Less than 24 hours left 
+ Less than 3 days left 
+ Less than 7 days left 
+ 
+ By Posted Date 
+ 
+ Any 
+ Posted within 24 hours 
+ Posted within 3 days 
+ Posted within 7days 
+ Posted within 14 days 
+ Posted within 30 days 
+ 
+ By Status 
+ 
+ Any 
+ Hiring Open 
+ 
+ Search Job 
+ CodeIgniter Jobs 
+ ( showing 1 - 10 of 11 results ) 
+ CodeIgniter 
+ Clear 
+ Get Project Updates 
+ PAGE 1 OF 1 
+ SORT BY Sort by Job Name Budget(High) Budget(Low) Time Left(High) Time Left(Low) 
+ WnH Recommended 
+ CodeIgniter Super CMS re-usable for serveral sites 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Website Programming  Posted: 21st Jan 2021 Ends: 07th Mar 2021  17 Proposals 
+ For this project 1. You must be having references so we can CONTACT THEM IN PERSON! If no references plz do not bid 2. Offers without BID AMOUNT INDICATION* or just a standard text with no relevance to this project ... 
+ For this project 1. You must be having references so we can CONTACT THEM IN PERSON! If no references plz do not bid 2. Offers without BID AMOUNT INDICATION* or just a standard text with no relevance to this project will be YOU BID WILL BE DIRECTLY DELETED note for bidding - uover 80% we already have available on several sites and can be RE-USED but needs to merged and optimized and improved A FIXED PRICE we will only be agreed when the project has been thoroughly discussed and the existing sites have been shared 3. Plz send your bid a schedule and the delivery time 4. By bidding you should mention 'i have read the requirements and features for codeIgniter Super CMS re-usable for serveral sites' if not YOU BID WILL BE DIRECTLY DELETED 5. contractor will work on my server 6. we will have weekly a progress meeting on skype, at a fixed time, to discuss progress, indistinctness, and needed corrections 7. you may suggest payment terms, but we will not pay in advance (NO PRE-PAYMENT) but can use the escrow services to guarantee the payment PLEASE DO NOT QUOTE WITHOUT BID & IF YOU DO NOT MEET ABOVE REQUIREMENTS WE ONLY TALK WITH COMPLETE AND SERIOUS BIDDERS. So without a bid and a relevant offer with possible raised questions, we will not enter into a conversation! We expect your work and our site minimum meet - https://developers.google.com/speed/pagespeed/insights/ optimize for google speed test results should mobile: >80 / desktop >90 - https://seositecheckup.com optimise for site check-up, is now 90%, all must High Priority and Medium Priority Test failures must be fixed The job DETAILS WILL BE UPLOADED AS ATTACHMENT- WE EXPECT YOU HAVE READ THOSE !, but includes - Including entry page, other pages format and the footer - CMS that must must contain (including filling the data): • Dashboard • Site Setting • Website Management • Member register & login process • Messages • Pages Management Standard (incl metatags) • Pages Management Forms (fixed format forms, incl metatags) • Page Site Texts (is now services) those are multi language (incl metatags) • Selections (dropdown menu's for the fixed forms pages) • Recruitment feature • Guest Blog Feature • Newsletter Feature • Getting Paid (have to write down details) • Members (we have a specific format for this, need also search option) • Contacts Received (from the contact page, we have a specific format for this) • Join Us Application (from Join Us, fixed format form) ------------------------------------------------------------------------------- Additional Information Added on 21st Jan, 2021 The job includes - Including entry page, other pages format and the footer - CMS that must must contain (including filling the data): • Dashboard - management data of site • Site Setting - General (logo Url, favicon, google analytics) - Metatags entry page by language - Social Media (icons/url's shown on website front end) - Contact Us --- Main / HQ address (head office visiting address, shown on front end) (if not given/filled in we will not also not the icon shown on site!) --- Country Offices (Country offices visiting address with a map wit han marker) (if not given/filled in we will not also not the icon shown on site!) --- Maps, location of Offices Global Map and city location - Change CRM password - Entry page entry by country language - Site map • Website Management - set site optional features (Activate on site: join us, teams, recruitment, guest blog, newsletter, member register/login) - Home Page Slider, multi language with details - FAQ 1 main (for in footer, 2 level as categories, in selectable language, selectable by sequence and metatags) - FAQ 2 join us (for on that join us page, only do in English, other features as above) • Member register & login process extra features to be set in CMS/admin are - lost password - accept new member yes/no - login temporary closed down needs to have screen and email message • Messages editable standards for On Screen and Email (need personalized plus logo), only in english a. Contact page b. Join Us c. Apply d. Register as member e. Lost password f. maintenance / login blocked -- Only On ScreeN g. invalid login • Pages Management Standard (incl metatags) for English Footer pages (Terms of use, Privacy Policy etc) • Pages Management Forms (fixed format forms, incl metatags) 'automatic' created pages in forms in several 'translated' languages but most is standard made - Translations static (for used fixed forms forms) - Contact Us Page (fixed format form) - Team (fixed format form) - Join Us (fixed format form) • Page Site Texts (is now services) those are multi language (incl metatags) besides meta tags, need also to set a. Header main pages OR sub pages of a header b url's, metatags, and seuence in menu • Selections (dropdown menu's for the fixed forms pages) - Locations a. region b. country c. state/zone d. province - Contact page a. IM Messenger b. topic c. relevant country d. importance - Teams a. position b. sector c. services - Recruitment - Join us a. position b. work experience c. sector d. services - Guest Blog a. category b. subcategory c. language d. publishing period • Recruitment feature - post job offers (fixed format form) - actual vacancies at front end - apply to a vacancy - anonymous display of profiles - manage as member • Guest Blog Feature - authorisation settings (all, registered member only, subscribtion only) - add guest blog from front-end and from CMS - manage guest blog (activate) • Newsletter Feature - registered and unsubscribed newsletter readers • Getting Paid (have to write down details) - subscriptions - advertisements • Members (we have a specific format for this, need also search option) • Contacts Received (from the contact page, we have a specific format for this) • Join Us Application (from Join Us, fixed format form) 
+ Skills:  CodeIgniter 
+ Client:  connectdirector  ,  Netherlands 
+ Mobile App Developement (Andriod & IOS) 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Mobile Applications  Posted: 2 days ago Ends: 12th Mar 2021  22 Proposals 
+ Looking for experts in ERP product development. • Excellent working knowledge of PHP, MySQL & Codeignitor framework • should have worked on a couple of ERP projects • Educational Domain would ... 
+ Looking for experts in ERP product development. • Excellent working knowledge of PHP, MySQL & Codeignitor framework • should have worked on a couple of ERP projects • Educational Domain would be an added advantage • Full time individuals/teams would be required • Timely updates & delivery a must • Bug fixing & enhancement skills would be really great. • details pertaining to the task list, refer the doc attached • Mobile App Developement (Andriod & IOS) 
+ Skills:  CodeIgniter ,  Android ,  iOS ,  MySQL ,  PHP 
+ Client:  shekaruna1975 
+ I am looking for full-stack PHP developer for long-term project 
+ FIXED PRICE : Not Sure  Application Interface Design  Posted: 19th Jan 2021 Ends: 05th Mar 2021  36 Proposals 
+ Do you consider yourself reliable, focused and want regular work this year? If so, I am looking for a skilled and experienced full-stack PHP developer for long-term project. Job Requirements • Good written En... 
+ Do you consider yourself reliable, focused and want regular work this year? If so, I am looking for a skilled and experienced full-stack PHP developer for long-term project. Job Requirements • Good written English communication and medium-fast typing skills. • Stable and fast broadband connection with Windows 10 for screensharing apps. Job Description • Proficiency with PHP frameworks, HTML, CSS, JavaScript, AJAX, jQuery and Vue.js • Experience with SQLite and JSON database. Job Responsibilities: • Modifying PHP scripts and applications. • Maintain and add new features on a long-term basis. PLEASE NOTE: This is long-term position. Only independent developers apply. No business/sales/project managers, teams or agencies please. I have full brief and specs for applicants to review. 
+ Skills:  CodeIgniter ,  jQuery ,  JSON ,  PHP ,  SQL Lite 
+ Client:  socialsuite 
+ Looking for freelance entrepreneurs 
+ FIXED PRICE : Greater than 100,000 Rs.   Mobile Applications  Posted: 15th Jan 2021 Ends: 01st Mar 2021  9 Proposals 
+ Hello All, We've launched our cricket fantasy application and we are looking for some Individuals or team of entrepreneurs who can work with us on revenue basis. We are looking for mean stack developer, designer,... 
+ Hello All, We've launched our cricket fantasy application and we are looking for some Individuals or team of entrepreneurs who can work with us on revenue basis. We are looking for mean stack developer, designer, Android or IOS Developer who can Work individually and take ownership and help to grow the application aggressively. Looking forward to hear from you guys and start building our futures. 
+ Skills:  Python ,  Database ,  CodeIgniter ,  API ,  Android 
+ Client:  chandan.prasad  ,  India 
+ Full stack Development 
+ FIXED PRICE : Not Sure  Website Programming  Posted: 13th Jan 2021 Ends: 27th Feb 2021  41 Proposals 
+ Hi All, Looking for freelancers who can work on contract/project basis. I have good clients from which I get regular work. Also I have few products in which sometimes I need modification. Freelancer who are willing to w... 
+ Hi All, Looking for freelancers who can work on contract/project basis. I have good clients from which I get regular work. Also I have few products in which sometimes I need modification. Freelancer who are willing to work with dedication and are passionate to earn more can only apply. Mention this things in your proposal 1.) Past works which you think is best from you 2.) Listout the expertise you have in web or app 3.) Your Name, Location, ma-il, mob-ile 4.) Hours you can work in a day 
+ Skills:  iOS ,  CodeIgniter ,  ASP.NET ,  Android ,  PHP 
+ Client:  harry2015  ,  India 
+ Soap api solution in PHP 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Other - Web Development  Posted: 08th Jan 2021 Ends: 22nd Feb 2021  17 Proposals 
+ Need a freelancer who is good in soap api integration in PHP 
+ Need a freelancer who is good in soap api integration in PHP 
+ Skills:  CodeIgniter ,  PHP ,  SOAP 
+ Client:  user.1453517701634340  ,  India 
+ Need Part Time Web developer 
+ FIXED PRICE : Less than 5000 Rs.   Website Programming  Posted: 05th Jan 2021 Ends: 19th Feb 2021  19 Proposals 
+ I need part time php/codeigniter/cakephp developer. Need at least 2 year work experience. Developer from Kolkata location is preferred. 
+ I need part time php/codeigniter/cakephp developer. Need at least 2 year work experience. Developer from Kolkata location is preferred. 
+ Skills:  PHP ,  Oracle MySQL ,  MySQL ,  CodeIgniter ,  CakePHP 
+ Client:  arunangshupradhan17  ,  India 
+ FREELANCE - PHP Developer (7-8 year experience) - With Experience in CodeIgniter 
+ FIXED PRICE : Not Sure  Application Interface Design  Posted: 02nd Jan 2021 Ends: 16th Feb 2021  16 Proposals 
+ We are looking for Freelance PHP Developers with (7-8years experience), who can join us immediately. Additional skills: Good experience in -CodeIgniter Required Skills: PHP, MYSQL, Wordpress, Javascript & Jquer... 
+ We are looking for Freelance PHP Developers with (7-8years experience), who can join us immediately. Additional skills: Good experience in -CodeIgniter Required Skills: PHP, MYSQL, Wordpress, Javascript & Jquery, AngularJS Laravel Frame work 
+ Skills:  CodeIgniter ,  PHP 
+ Client:  indukuri234 
+ Codeignitor developer on month base 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Application Interface Design  Posted: 23rd Dec 2020 Ends: 06th Feb 2021  7 Proposals 
+ i want to hire a full time codeignitor developer on month base on budget of 5k-15k . -candidate can work from home on full time . -connection must be on skype -salary credited between 5-10 of every month -must have... 
+ i want to hire a full time codeignitor developer on month base on budget of 5k-15k . -candidate can work from home on full time . -connection must be on skype -salary credited between 5-10 of every month -must have knowledge of ajax,jquery -redesign of current project so no need to waste time on logic buildings budget is strict for 4-5 months . so if you have high budget and also zero experience plz dont waste time . 
+ Skills:  CodeIgniter ,  PHP 
+ Client:  krait14  ,  India 
+ Codeignitor Developer for month base 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Website Programming  Posted: 23rd Dec 2020 Ends: 06th Feb 2021  6 Proposals 
+ i want to hire a full time codeignitor developer on month base on budget of 5k-15k . -candidate can work from home on full time . -connection must be on skype -salary credited between 5-10 of every month -must have... 
+ i want to hire a full time codeignitor developer on month base on budget of 5k-15k . -candidate can work from home on full time . -connection must be on skype -salary credited between 5-10 of every month -must have knowledge of ajax,jquery -redesign of current project so no need to waste time on logic buildings budget is strict for 4-5 months . so if you have high budget and also zero experience plz dont waste time . 
+ Skills:  CodeIgniter 
+ Client:  maruti2020  ,  India 
+ Need Full Stack Web Developer & Programmer cum Project Manager 
+ FIXED PRICE : Less than 5000 Rs.   Website Project Management  Posted: 14th May 2020 Ends: 31st Mar 2021  26 Proposals 
+ I Need Full Stack Web Developer & Programmer for an upcoming project. The project is still in discovery phase so need someone highly knowledgeable to drive the entire process from scratch and build a team of competen... 
+ I Need Full Stack Web Developer & Programmer for an upcoming project. The project is still in discovery phase so need someone highly knowledgeable to drive the entire process from scratch and build a team of competent people with right skillset as might be needed. The ideal candidate will be more of an all rounder with knowledge and working experience in web development, programming, latest web technologies and managing web development projects. Further details will be provided to the shortlisted applicants. 
+ Skills:  CakePHP ,  CodeIgniter ,  ColdFusion ,  Database ,  JavaScript 
+ Client:  ajittomar  ,  India 
+ Next 
+ NAVIGATE 
+ How it Works 
+ Fees & Pricing 
+Register 
+ Blog 
+ Help 
+ Contact Us 
+ FIND FREELANCERS BY EXPERTISE 
+ 
+ 
+ 
+ Developers & Programmers 
+ 
+ PHP Developers 
+ 
+ 
+ 
+ 
+  Graphic Designers 
+ 
+ Photoshop Experts 
+ 
+ 
+ Article Writers 
+ 
+ Creative Writing 
+ 
+ 
+ Data Entry & Admin 
+ 
+ MS Excel Consultants 
+ 
+ 
+ Sales & Marketing 
+ 
+ Internet Marketing 
+ 
+ 
+ Accountants & Legal 
+ 
+ Finance Consultant 
+ 
+ 
+ 
+ FIND FREELANCERS BY LOCATION 
+ 
+ 
+ 
+ Freelancers In India 
+ 
+ Freelancers In New Delhi 
+ 
+ 
+ 
+ 
+ Freelancers in Noida 
+ 
+ Freelancers in Hyderabad 
+ 
+ 
+ Freelancers in Mumbai 
+ 
+ Freelancers in Jaipur 
+ 
+ 
+  Freelancers in Kolkata 
+ 
+  Freelancers in Bhopal 
+ 
+ 
+ Freelancers in Bangalore 
+ 
+ Freelancers in Punjab 
+ 
+ 
+ Freelancers In Ahmedabad 
+ 
+ Freelancers In Chennai 
+ 
+ 
+ 
+ LOOKING FOR FREELANCING JOBS? 
+ 
+ 
+ 
+ Fresher Jobs 
+ Part Time Jobs 
+ IT Jobs 
+ Work from Home Jobs 
+ Online Jobs 
+ 
+ 
+ 
+ 
+ Web Design Jobs 
+ Technical Writing Jobs 
+ Freelance Writing Jobs 
+ Accounting Jobs 
+ Legal Jobs 
+ 
+ 
+ Mobile Development Jobs 
+ Data Entry Jobs 
+ Game Development Jobs 
+ Photography Jobs 
+ Medical Writing Jobs 
+ 
+ 
+ AutoCAD and 3D Jobs 
+ HR Jobs 
+ SEO & Marketing Jobs 
+ Corporate Trainer Jobs 
+ Web Development Jobs 
+ 
+ 
+ 
+       
+ Copyright (C) 2012-2020   WorknHire Technologies Pvt. Ltd. . All Rights Reserved. 
+ To Top 

@@ -1,0 +1,62 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Jupiter (S19) 
+ Groceries on autopilot 
+ Full-Stack Software Engineering Intern 
+ 
+ Location 
+ San Francisco, CA / Remote 
+ Job Type 
+ Internship 
+ Experience 
+ About Jupiter 
+ At Jupiter, we’re on an (ambitious) mission to eliminate personal food waste by putting groceries on autopilot. We’re based in San Francisco and backed by Khosla Ventures, NFX, and Y Combinator (S19 batch). 
+ Our goal is to make the experience of buying groceries as seamless as paying for running water. By keeping track of our customers’ consumption habits and product preferences, we aim to play a role in reducing the 8 million tons of food that go to waste every year due to spoilage by building the most personalized, comfortable grocery experience for working families. 
+ About the role 
+ Skills:  JavaScript, React, GraphQL, Java, Kotlin, Swift, TypeScript, Machine Learning, Microservices, Data Analytics, PostgreSQL 
+ Hopping onboard our engineering team, you’ll dive right into our TypeScript/Kotlin stack and contribute to making foundational decisions around our architecture. You should be excited about building human-centered products from the ground up. You’ll have the opportunity to marry operations with data to create the most personalized predictive experience for our hundreds of homes in San Francisco. 
+ Learn more about our engineering here:  https://starship.jupiter.co/jupiter-stack/ 
+ Your responsibilities 
+ 
+ Building out a seamless, beautiful customer experience with React, TypeScript, Redux, GraphQL, and/or Swift that feels comfortable and effortless for our customers. 
+ Helping to build out our backend (Kotlin with gRPC on Kubernetes) beyond handling the thousands of items that our fulfillment teams process every single day. 
+ Helping to shape our devops/infra with Bazel, Terraform, and beyond to streamline our CI/CD pipeline from commit to deploy. 
+ Working on supercharging our data stack with predictive analytics, machine learning, and recommender systems. 
+ 
+ You might be a great fit if you... 
+ 
+ Are enthusiastic about learning and diving deeply into new, unfamiliar technologies 
+ Are excited about taking a customer-facing product from conception to execution 
+ Are thrilled about tackling challenging, gnarly technical problems around data, predictive modeling, discrete optimization, and/or operations 
+ Care about writing clean, well-documented code and appreciate static typing 
+ Enjoy working with a small team in a fast-paced environment 
+ Are excited about reinventing the online grocery experience, starting with working families 
+ 
+ Technology 
+ Other jobs at Jupiter 
+ Senior Software Engineer - Full Stack 
+ fulltime 
+ San Francisco, CA, USA 
+ Full Stack 
+ $100k - $130k 
+ 0.80% - 3.00% 
+ 3+ years 
+ Full-Stack Software Engineering Intern 
+ intern 
+ San Francisco, CA / Remote 
+ Full Stack 
+ Any 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

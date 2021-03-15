@@ -1,0 +1,71 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Business Intelligence Data Engineer 
+ Loblaw Digital 
+ __Toronto, ON 
+ Apply Now 
+ At Loblaw Digital, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we’re up for the challenge. From our office in Downtown Toronto, we’ve created leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, and apparel spaces, and we’re only just getting started. 
+ The impact you’ll make 
+As a Business Intelligence Data Engineer, you will impact our business by fueling the best in class data analytic and reporting platform at Loblaw Digital that will empower our business users in making data driven decisions and strategies in their everyday work. 
+ We’re growing our BI team to better serve the enterprise data strategy and want you to be a part of it. You’ll work with users across the organization to understand how data helps them and translate that into solutions that will bring data from various systems into our data warehouse. We’re looking to turn our enviable wealth of data into actionable insights and meaningful recommendations that drive growth and improved engagement across all of our lines of business, and a customer-focused mindset is a must-have. 
+What you'll do 
+Develop and scale quality and performant data pipelines using GCP (Big Query, Compute Engine, Kubernetes, Cloud Composer, Dataflow) and other open source technologies 
+Work with stakeholders to develop solutions that support various data consumers 
+Work with DevOps on setting up environment for new deployment 
+Build and implement robust data models and semantic layer 
+Be a subject matter expert on the entire BI framework stack 
+Support reporting and analytics needs from all areas of the business. For example: Developers, Product Managers, Product Designers, Merchandizers, Marketers, and Operations Analysts 
+Help us in our mission to be a hypotheses-driven product development organization which means data is at the center of everything we do 
+Does this Sound like you? 
+BA/BS in computer science, engineering or related technical field 
+2 years experience as a BI Developer or Data Engineer 
+Hands-on experience with relational databases (e.g. Oracle, MySQL, DB2, etc.) 
+Python experience coding ETLs using various packages/connectors to databases and endpoints (or Java) 
+Working experience with Git and CI/CD pipelines 
+Experience with data pipeline automation using a code focused scheduling tool (e.g. Airflow) 
+Exposure to Kubernetes, docker, and streaming tools (Kafka) 
+Experience working with sourcing and feeding data from REST APIs is nice to have 
+Understanding of data warehouse concept and BI architecture is a plus 
+Strong oral and written communication skills 
+Solid stakeholder management skills 
+Proven team player that will work well in a dynamic and fast-paced environment 
+Experience working in an agile environment 
+Experience in retail or ecommerce is a plus 
+Strong desire to learn and to push the boundaries of what can be done to better empower our business with data 
+How you’ll succeed 
+At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. You will get to work with some of the best digital minds and will have the support of world class technologies to craft products our customers will love! 
+ Loblaw Digital recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

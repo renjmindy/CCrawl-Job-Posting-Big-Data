@@ -1,0 +1,61 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Postdoctoral Fellow 
+ University Health Network 
+ __Toronto, ON 
+ Apply Now 
+ University Health Network (UHN) is looking for an experienced professional to fill the key role of Postdoctoral Research Fellow in Computational Cancer Biology located in Toronto General Hospital Research Institute. 
+ Transforming lives and communities through excellence in care, discovery and learning. 
+ The University Health Network, where “above all else the needs of patients come first”, encompasses Toronto Rehabilitation Institute, Toronto General Hospital, Toronto Western Hospital, Princess Margaret Cancer Centre and the Michener Institute of Education at UHN. The breadth of research, the complexity of the cases treated, and the magnitude of its educational enterprise has made UHN a national and international resource for patient care, research and education. With a long tradition of groundbreaking firsts and a purpose of “Transforming lives and communities through excellence in care, discovery and learning”, the University Health Network (UHN), Canada’s largest research teaching hospital, brings together over 16,000 employees, more than 1,200 physicians, 8,000+ students, and many volunteers. UHN is a caring, creative place where amazing people are amazing the world. 
+ University Health Network (UHN) is a research hospital affiliated with the University of Toronto and a member of the Toronto Academic Health Science Network. The scope of research and complexity of cases at UHN have made it a national and international source for discovery, education and patient care. Research across UHN's five research institutes spans the full spectrum of diseases and disciplines, including cancer, cardiovascular sciences, transplantation, neural and sensory sciences, musculoskeletal health, rehabilitation sciences, and community and population health. Find out about our purpose, values and principles here. 
+ A Postdoctoral Fellowship is being offered jointly between the University Health Network and Ontario Institute for Cancer Research. The successful candidate will be responsible for the inntegrative analysis of multi-dimensional cancer genomics datasets using statistical and machine learning approaches; preprocessing and quality assessment of raw –omics data; development of innovative computational methods and open-source bioinformatics software; visualization and interpretation of –omics data with pathway and network information; writing peer reviewed papers and grant proposals. This is a unique opportunity to perform independent projects within a translational program, and significant potential for research productivity. Position is available immediately. 
+ Qualifications 
+ 
+ A recently obtained PhD (within 5 years) or equivalent degree in bioinformatics, computational biology, statistics, computer science or related fields are strongly preferred 
+ Minimum 3 years of experience with bioinformatics resources, databases, tools and common standard formats 
+ Minimum 3 years of experience with programming and data analysis in R, Python, Perl, Matlab or similar 
+ Minimum 3 years of experience in analysing next-generation sequencing and/or microarray data 
+ Strong scientific publication record in peer-reviewed journals on bioinformatics and/or cancer research 
+ Strong understanding and interest in molecular biology, genomics, and cancer 
+ Practical knowledge of basic statistics; machine learning skills are a definite plus 
+ Familiarity with the Linux or MacOSX environment, shell scripting and system tools; experience with high performance computing is an asset 
+ Minimum 3 years of experience with programming and data analysis in R, Python, Perl, Matlab or similar; 
+ Ability to work independently as well as part of a fast-paced and collaborative team 
+ Excellent verbal and written communication skills in English 
+ 
+ More information can be found at:  https://www.uhn.ca/Transplant and https://oicr.on.ca/research-portfolio/computational-biology/ 
+ If you are interested in making your contribution at UHN, please apply on-line. You will be asked to copy and paste as well as attach your resume, covering letter, three letters of recommendation and a research statement. You will also be required to complete some initial screening questions. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,231 @@
+MyOpsBlog 
+ From IT infrastructure youngster 
+ Menu 
+ Skip to content 
+ 
+ Home 
+ Tech 
+ Travel 
+ Personal 
+ Whoami 
+ 
+ Blogging reasons 
+ 
+ 
+ Contacts 
+ 
+ Category Archives: career 
+ Standard 
+ Posted by 
+ cazorla19 
+ Posted on 
+ April 10, 2017 
+ Posted under 
+ career ,  Personal 
+ Comments 
+ Leave a comment 
+ Startup world: it's all over now! 
+ One year left since the moment I applied to my first startup project. Excitedly I went to open-minded communities. To people with a huge desire to speed up their own personal progress. To people with challenging ideas and plans to capitalize them. 
+ Continue reading -> 
+ Standard 
+ Posted by 
+ cazorla19 
+ Posted on 
+ March 13, 2017 
+ Posted under 
+ career ,  Cloud ,  Databases ,  DevOps ,  Literature ,  PostgreSQL ,  Tech 
+ Comments 
+ Leave a comment 
+ 25 web-sources for Operations Engineering 
+ ****Information in the world of information! Text data in the world of data! Such subjects - the best friends for us and the best enemies at the same time. I recently surprised I hold so many articles and Linux guides about tools I still don’t use. Data juggling is going to be one of the most important qualities of contemporary human. Even more handy than stubbornness and work speed. 
+ Continue reading -> 
+ Standard 
+ Posted by 
+ cazorla19 
+ Posted on 
+ January 2, 2017 
+ Posted under 
+ 10 things ,  career ,  Personal 
+ Comments 
+ Leave a comment 
+ 20 things I’ve done in 2016 
+ **** Disclaimer:  this post is not about personal praise, arrogance and chattery. It’s just a checklist of strikethrough items in my life. Remember, this is my personal blog and I want to write about my life, although having no idea why. There must be some explanations by behavioural psychology I should learn in 2017. 
+ Continue reading -> 
+ Standard 
+ Posted by 
+ cazorla19 
+ Posted on 
+ September 15, 2016 
+ Posted under 
+ AWS ,  Backup ,  career ,  Cloud ,  Configuration Management ,  Continuous Delivery ,  Databases ,  DevOps ,  Monitoring ,  Streaming ,  System Architecture ,  Tech ,  Wowza 
+ Comments 
+ Leave a comment 
+ Infrastructure from scratch. Part 0: Challenge 
+ I tried to write my posts saving a little distance between my life and technologies I’m learning. But my job road was changed. Now I have to describe my thoughts as from technical viewpoint, as sure as from social too. 
+ Continue reading -> 
+ Standard 
+ Posted by 
+ cazorla19 
+ Posted on 
+ January 31, 2016 
+ Posted under 
+ career ,  Personal 
+ Comments 
+ 2 Comments 
+ Pilot post 
+ 
+ Hi to everyone who s found this blog by chance and scroll it for interest. My full name is Mikhail Chinkov, I m IT-student from Russia, you can count me as a beginner. My major IT-field is a system administration. At present it may be called as a operations engineering. Generally it doesn't really matter. Especially I'd like to find out a clear answer on one question: how to build failover, secure and speedy information systems. But also I'm trying to keep my mind open for every common technology and methods that I see. 
+ Continue reading -> 
+ Archives 
+ 
+ June 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ October 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ 
+ Categories 
+ 
+ 10 things  (8)
+ 
+ Travel  (5) 
+ 
+ 
+ Backup  (4) 
+ career  (5) 
+ Cheatsheet  (9) 
+ Cloud  (11)
+ 
+ AWS  (9)
+ 
+ Cloudfront  (1) 
+ Cloudtrail  (1) 
+ EC2  (3) 
+ ELB  (1) 
+ RDS  (2) 
+ S3  (2) 
+ 
+ 
+ 
+ 
+ Databases  (11)
+ 
+ Cassandra  (1) 
+ mysql  (1) 
+ Oracle  (2) 
+ PostgreSQL  (6) 
+ 
+ 
+ Desktop environments  (1)
+ 
+ GNOME  (1) 
+ 
+ 
+ DevOps  (18)
+ 
+ Community  (1) 
+ Configuration Management  (5)
+ 
+ ansible  (2) 
+ Terraform  (4) 
+ 
+ 
+ Continuous Delivery  (3) 
+ continuous integration  (3)
+ 
+ jenkins  (2) 
+ 
+ 
+ Development  (8)
+ 
+ Bash  (5) 
+ PL/SQL  (1) 
+ python  (2) 
+ 
+ 
+ 
+ 
+ Docker  (2) 
+ Documentation  (1) 
+ Hardware  (11)
+ 
+ CPU  (2) 
+ disks  (1) 
+ Memory  (1) 
+ Network  (8)
+ 
+ Multicast  (4) 
+ Wi-Fi  (1) 
+ 
+ 
+ Videocard  (1) 
+ 
+ 
+ Literature  (2) 
+ Logs  (2) 
+ Monitoring  (4)
+ 
+ Zabbix  (3) 
+ 
+ 
+ Operating systems  (16)
+ 
+ Linux  (16)
+ 
+ Fedora  (3) 
+ 
+ 
+ Windows  (1) 
+ 
+ 
+ Personal  (8) 
+ security  (3) 
+ Streaming  (8)
+ 
+ Wowza  (8) 
+ 
+ 
+ System Architecture  (9) 
+ Tech  (51) 
+ testing  (1) 
+ Travel-main  (5) 
+ Uncategorized  (6) 
+ Virtualization  (1)
+ 
+ VMware  (1) 
+ 
+ 
+ Web servers  (3)
+ 
+ Nginx  (3) 
+ 
+ 
+ 
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

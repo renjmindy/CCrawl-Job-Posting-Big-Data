@@ -1,0 +1,237 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Programmer Analyst 
+ Rochester Institute of Technology 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Programmer Analyst 
+ Rochester Institute of Technology 
+ [](mailto:?subject=Programmer%20Analyst&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14237540/programmer-analyst/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 22, 2020 
+ Location: 
+ Rochester, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full-time 
+ Programmer Analyst 
+5454BR 
+Finance & Administration 
+ITS Application Development 
+ Professional Area: 
+ Employment Category:  Fulltime 
+ Staff Job Function:   Wage Band: 
+ Department/College Description 
+ITS Enterprise Student Applications 
+ Detailed Job Description 
+RIT is looking for an accomplished individual with programming, data engineering and ETL experience to join its Enterprise Student Applications team. 
+ Responsibilities include: 
+ 
+ Collaboratively work with RIT technical and business units and external organizations to configure and implement the PeopleSoft Enterprise Campus Solutions and related applications. 
+ Understand and integrate existing third party vendor applications to the new Student Information System. 
+ Develop appropriate documentation of the new system, its interfaces and help create and maintain test scripts. 
+ Participate in the development of department policies regarding the software development life cycle, source code control and change management. 
+ Interface directly with users, developers and other IT staff. 
+ Establish and maintain strong relationships with various customers. 
+ Work effectively as a team member and individually. 
+ Other duties as assigned. 
+ 
+ Required Minimum Qualifications 
+ 
+ Minimum of 3 years related experience in analysis, design and programming with a variety of technical projects. 
+ Minimum of 1 years experience programming for PeopleSoft applications using PeopleTools, Application Designer, SQR, Application Engine, PL/SQL, PS Query, Crystal Reports. 
+ Minimum of 1 years experience with any or all of the following components is required:
+ 
+ Unix or Linux Operating Systems 
+ Oracle Database 11g and above 
+ PeopleSoft v9 Applications and above 
+ PeopleTools v 8.54 and above 
+ 
+ 
+ Demonstrated ability to develop and follow an established development methodology 
+ 
+ Specialized Skills 
+ 
+ Experience with
+ 
+ Building integrations using job-scheduling packages, UC4 experience desired. 
+ PeopleTools 8.5x is required. 
+ The software development lifecycle process, software quality assurance processes, source code control and change management. 
+ 
+ 
+ Strong communication(written and oral) with the ability to work directly with both technical and business partners. 
+ Ensure the completion of quality deliverables to customers in a timely and cost-effective manner. 
+ Ability to analyze a complex business problem and evaluate the impact of potential solutions from both a business and technical perspective. 
+ Possess the self initiative to be given general guidance on an objective and to achieve that objective with minimal managerial guidance. 
+ Excellent analytical, problem solving and troubleshooting skills. 
+ Ability to learn new technical, functional and business concepts relating to the PeopleSoft applications without formal training. 
+ Responsible for understanding and following information security best practices, university policies, and information security standards impacting this role including use of any tools, technologies, services, and processes required to protect the universitys information assets. 
+ Work collaboratively to identify, communicate, and where appropriate, manage or remediate risks and information security vulnerabilities. 
+ 
+ Preferred Skills 
+ 
+ Functional understanding of one or more PeopleSoft modules. 
+ Experience with
+ 
+ Higher Education Student Information Systems development / support. 
+ PeopleSoft Campus Solutions. 
+ Java Script, XML, REST, HTML5, CSS. 
+ Informatica PowerCenter from a developers perspective. 
+ The use of relational databases such as Oracle, from a developers perspective. 
+ Linux scripting. 
+ Formal software methodologies such as Waterfall, Agile, and DevOps. 
+ 
+ 
+ 
+ Preferred Qualifications 
+ Required Application Documents 
+ How to Apply 
+In order to be considered for this position, you must apply for it at:  http://careers.rit.edu/staff . Click the link for search openings and in the keyword search field, enter the title of the position or the BR number. 
+ The direct link to this posting can be found here:  https://sjobs.brassring.com/ 
+ Additional Details 
+ _Rochester Institute of Technology, the 10th largest private university in the U.S., is among the worlds leading technological universities. Its 18,000 undergraduate and graduate students from all 50 states and more than 100 countries are enrolled in over 200 academic programs, including 7 interdisciplinary Ph.D. programs. A pioneer in experiential education, RIT was the first to offer undergraduate degree programs in biotechnology, information technology, software engineering, and microelectronic engineering. As home to the National Technical Institute for the Deaf, the university offers unparalleled academic opportunities and services for the deaf and hard-of-hearing. Founded in 1829, RIT has 115,000 alumni throughout the United States and around the world. RIT has been named by the Chronicle of Higher Education as one of the Great Colleges to Work For. RIT is a National Science Foundation ADVANCE Institutional Transformation site, and is responsive to the needs of dual-career couples through the Upstate NY Higher Education Recruitment Consortium. For more information, visit www.rit.edu/overview/rankings-and-recognition  and  www.rit.edu . 
+ As a member of the RIT community employees receive a well-balanced benefits package that offers a variety of choices and access to additional employment advantages. These benefits, combined with an employees pay, provide a total compensation package that can be tailored to meet your needs. More on RITs Benefits, Health & Wellness program can be found at:  https://www.rit.edu/fa/humanresources/content/benefits-health-and-wellness _ 
+ RIT does not discriminate. RIT is an equal opportunity employer that promotes and values diversity, pluralism, and inclusion. For more information or inquiries, please visit RIT/TitleIX or the U.S. Department of Education at ED.Gov 
+ Copyright 2017 Jobelephant.com Inc. All rights reserved. 
+ Posted by the FREE value-added recruitment advertising agency 
+ jeid-b7cbc0d303a3c84399e06dbc230fc938 
+ 
+ 
+ Internal Number: 2108011 
+  __  Create a Job Alert for Similar Jobs  
+ About Rochester Institute of Technology 
+ Founded in 1829, Rochester Institute of Technology is a diverse and collaborative community of engaged, socially conscious, and intellectually curious minds. Through creativity and innovation, and an intentional blending of technology, the arts and design, we provide exceptional individuals with a wide range of academic opportunities, including a leading research program and an internationally recognized education for deaf and hard-of-hearing students. Beyond our main campus in Rochester, New York, RIT has international campuses in China, Croatia, Dubai, and Kosovo. And with more than 19,000 students and more than 125,000 graduates from all 50 states and over 100 nations, RIT is driving progress in industries and communities around the world. Find out more at www.rit.edu . 
+ Connections working at Rochester Institute of Technology 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Controls Software Engineer 
+ __  Upton, New York 
+ 
+ 
+ 
+ 
+ Brookhaven National Laboratory 
+ __Yesterday 
+ 
+ 
+ Software Developer 
+ __  Pittsburgh, Pennsylvania 
+ 
+ 
+ Automated Health Systems 
+ __2 Days Ago 
+ 
+ 
+ Programmer Analyst II - McDonnell Genome Institute - 50306 
+ __  St. Louis, Missouri 
+ 
+ 
+ Washington University in St. Louis 
+ __3 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

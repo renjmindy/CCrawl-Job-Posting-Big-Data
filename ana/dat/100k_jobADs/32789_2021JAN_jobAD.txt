@@ -1,0 +1,67 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Algolia (W14) 
+ A developer-friendly and enterprise-grade search API. 
+ Technical Support Engineer - APAC time zone 
+ 
+ Location 
+ Remote / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Algolia 
+ Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice. 
+ Algolia is the search-as-a-service platform that enables companies of all sizes to deliver fast and relevant digital experiences that drive real results. More than 8,000 companies including Stripe, Discovery, Medium, LVMH, Lacoste, Zendesk and Birchbox rely on Algolia to manage 70 billion search queries a month. 
+ Founded in 2012, we're backed by $184M in funding from Accel Partners, Alven, DAG Ventures, Founders Circle, Owl Rock Capital, Point Nine Capital, SaaStr Fund, Salesforce Ventures, Storm Ventures and World Innovation Lab. The team is headquartered in San Francisco with offices in Paris, London, Tokyo, New York, and Atlanta. To learn more, visit  www.algolia.com . 
+ 
+ We’re looking for talented, passionate people to build the world’s best search & discovery technology. As an ownership-driven company, we seek team members who thrive within an environment based on autonomy and diversity. 
+ We're committed to building an inclusive and diverse workplace. We care about each other and the world around us, and embrace talented people regardless of their race, age, ancestry, religion, sex, gender identity, sexual orientation, marital status, color, veteran status, disability and socioeconomic background. 
+ About the role 
+ Skills:  JavaScript 
+ Note: This is NOT a Desktop support/IT position. This role will be required to work APAC time zone 2 PM - 11 PM PT 
+ At Algolia, we are passionate about helping developers & product teams connect their users with what matters most in milliseconds! 
+ Algolia was built to help users deliver an intuitive search-as-you-type experience on their websites and mobile apps. We provide a search API used by thousands of customers in more than 100 countries. Billions of search queries are answered every month thanks to the code we push every day into production. 
+ The Technical Support Engineer is a critical role at Algolia. This role is on the front-lines of our company and is often the first person customers contact when they are experiencing problems with our products or services. We're looking for a Technical Support Engineer to assist our technical customers with implementing and supporting Algolia in a variety of web and mobile development technical stacks. This could mean helping a developer trying to build the next big thing in their garage, or Fortune 500 companies (like Medium, Twitch from Amazon, LVMH, ...) focused on providing a world-class experience to their millions of users. 
+ As a Technical Support Engineer you will partner with the customer success, product and engineering teams. We have a hands-on culture, and expect you to roll up your sleeves and get to work solving difficult problems that stand in the way of our customers being successful. 
+ Your Role Will Consist Of: 
+ Handle product and technical requests via phone, web, and email support channels. Effectively troubleshoot and properly document customer’s support issues. Provide customers with regular updates regarding their support tickets. Conduct professional and empathetic conversations with customers to gather information, troubleshoot, and resolve their technical obstacles. Submit software bug reports to the Engineering team for problems needing attention. Partner with Product Teams and Engineering to develop subject matter expertise and serve as a product expert to the rest of the support team. Contribute to internal and external knowledge bases 
+ Requirements: 
+ 2-4 years of experience in Technical Support, supporting SaaS enterprise software. Working knowledge of development languages such as JavaScript, Java, PHP, C#, Objective-C, Swift, Ruby, Python. Experience with REST API, database management, and web development technologies. Strong desire to help people solve problems with the ability to explain complex technical concepts to a broad audience Ability to handle and prioritize a portfolio of tickets at various stages of resolution. Effective communication skills across channels (phone, email, & chat), demonstrating compassion and empathy towards customers. Algolia operates a 24/7 support center, ability to work weekends and holidays as needed may be required. 
+ Nice to have: 
+ Basic familiarity with iOS & Android platforms. Experience supporting open-source projects & their GitHub communities. Working in a 24/7 contact center environment Experience with Shopify, Magento, and Salesforce.com a plus 
+ We’re looking for someone who can live our values: 
+ GRIT - Problem-solving and perseverance capability in an ever-changing and growing environment TRUST - Willingness to trust our co-workers and to take ownership CANDOR - Ability to receive and give constructive feedback. CARE - Genuine care about other team members, our clients and the decisions we make in the company. HUMILITY- Aptitude for learning from others, putting ego aside. 
+ Benefits: 
+ Covered medical, dental, and vision benefits for you and your family 401(k) Matching Plan Unlimited Paid Time Off Paid Parental Leave Pre-tax commuter benefits Life insurance and disability benefits 
+ Perks: 
+ Competitive pay and equity Charitable contribution matching Fully stocked kitchens Catered lunches on Tuesdays and Thursdays Workout Wednesdays w/ personal trainer Bi-monthly meditation sessions 
+ Technology 
+ Algolia is the search-as-a-service platform that enables companies of all sizes to deliver fast and relevant digital experiences that drive real results. With Algolia, consumers are able to find and discover what they want easily across web, mobile, and voice. Algolia allows developers and business teams to build and optimize engaging search experiences to increase online engagement, conversion and revenue. 
+ Other jobs at Algolia 
+ Technical Account Manager - East Coast Time 
+ fulltime 
+ San Francisco / Remote 
+ 3+ years 
+ Technical Support Engineer - APAC time zone  
+ fulltime 
+ Remote / Remote 
+ 3+ years 
+ Technical Support Engineer - Remote from France or the UK 
+ fulltime 
+ Paris/London/Remote from France or the UK / Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

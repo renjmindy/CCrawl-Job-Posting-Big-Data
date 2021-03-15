@@ -1,0 +1,99 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Turing Labs Inc. (W20) 
+ AI for R&D of consumer brands like P&G to develop better products 
+ Customer Success Strategist 
+ $60k - $100k • 0.10% - 0.50% 
+ Location 
+ London, UK | Palo Alto, US | Toronto, Canada| Remote / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Turing Labs Inc. 
+ Do you want to build enterprise-grade software that uses data, ML, and solves industry-specific business problems? Read on. 
+ From soap and shampoo to snacks and beverages, consumer products fill our homes and affect our everyday lives. But it is very hard to build a product; takes years. Not anymore, Turing, enterprise software, uses data and ML to bring speed and operational efficiency to the legacy processes. 
+ Simply put, Turing is becoming the gold standard when it comes to configuration optimal consumer products from millions of combinations. Unlike generic ML, Turing is a domain-specific solution, resulting in exponential growth. 
+ 
+ In Covid, our software use has skyrocketed as employees want to develop new products while staying at home. 
+ 
+ Our customers say Turing is the fastest way to develop new products.  Turing has proven to be the most accurate ML engine outperforming DIY data science software and tech giants. 
+ Founders have decades of domain experience + expertise in top 1% ML algorithms. 
+ Many of the world’s leading brands use Turing to innovate new products. We’re growing quickly; new customers go on the waitlist. We’re remote-friendly, YC backed+other notable SV investors, and well-funded. 
+ We small but a team of warriors. Average employee experience is 10+years - so you are joining a team of highly-seasoned professionals. Our engineers have built large-scale enterprise-grade software for private and government sectors including NSA and homeland security. 
+ See our coverage at TechCrunch, WSJ, Business Insider, and Forbes 
+ About the role 
+ About Turing 
+ At Turing, we’re driven to build software that helps Consumer Packaged Goods (CPG) companies make products that are safer, smarter, and leaner. Our platform uses data, AI, and technology that enable CPG companies to develop best-quality innovative products 10x faster. Simply put, we are disrupting the 120-year process of developing products. We are backed by some of the biggest names in Silicon Valley, and are experiencing rapid success with the biggest brands and household names in the business. 
+We are looking for a Customer Success Strategist to deploy the Turing platform against the biggest challenges facing CPG companies. 
+ Read about us in TechCrunch, The Wall Street Journal, Business Insider, and Forbes. 
+ What You Will Do 
+ The Customer Success Strategist (CSS) will ensure the success and satisfaction of our customers by gathering business requirements, configuring the platform, implementing, and facilitating optimal usage of the Turing platform - and enterprise AI software. Our customers want to be faster and better in manufacturing high-quality products. Your business expertise will help our customers achieve this vision through leveraging the Turing platform to overcome barriers, optimize ROI, and provide responsive, relevant, and excellent support. 
+ Responsibilities: 
+ Own the account and deployment of Turing platform - once the sale has been made, you will become the key point of contact for all things Turing 
+ 
+ In this role you will meet with customers both remotely and in person. 
+ Own entire onboarding and implementation - from establishing milestones, business requirements, data management, metrics and timelines to ensuring customers achieve ROI and are able to make better product decisions. 
+ Navigate an organization’s hierarchy to establish C-level and executive relations, and subsequently persuade and present to them 
+ Manage and respond to shifting customer expectations, identify barriers to success, oversee user training, and increase adoption across the organization 
+ Measure NPS and work towards converting customers into advocates of Turing 
+ Demo Turing platform so customers can understand Turing’s capabilities and how it solves their pain points 
+ Engineering needs you! Guide engineering and products on feature requirements, improving user workflow, and resolving user experience issues 
+ Participate in user testing on behalf of customers and support the release and adoption of new features/versions 
+ 
+ What We Value: 
+ 
+ Entrepreneurial spirit to get things done while managing expectations, aiming big, and maintaining growth within an account 
+ Customer-centric - the needs of the customer are the same as your own 
+ Detail-oriented approach to complex questions. Anyone who thinks outside of the box and challenges the status quo 
+ Diplomatic with customer in terms of expectation vs. delivery vs. success 
+ We are growing extremely fast, and need someone who can maintain and keep up with this momentum 
+ Ability to make decisions within uncertain circumstances 
+ 
+ Qualifications: 
+ 
+ Must have managed large enterprise customers for SaaS - entire cycle post sales to converting customer as advocate 
+ At least 3+ years of experience within a client success capacity 
+ Confidence and credibility necessary for dealings with C-suite executives 
+ Excellent communication skills; both verbal and written 
+ Excellent project management 
+ Must be willing to travel when required 
+ 
+ If the above fits your career goals, please send your resume and cover letter at  [email protected] 
+ Technology 
+ Python, Postgres, Typescript, React or Node.js, and Python. 
+ Other jobs at Turing Labs Inc. 
+ Senior full-stack software engineer (backend specialist)-part of leadership team 
+ fulltime 
+ San Francisco, New York, Toronto (Canada) / Remote 
+ Full Stack 
+ $100k - $150k 
+ 0.50% - 2.00% 
+ 3+ years 
+ Lead Machine Learning/AI Engineer  
+ fulltime 
+ Palo Alto, Virginia, Toronto, or Remote / Remote 
+ Machine Learning 
+ $110k - $190k 
+ 0.25% - 1.50% 
+ 3+ years 
+ Customer Success Strategist 
+ fulltime 
+ London, UK | Palo Alto, US | Toronto, Canada| Remote / Remote 
+ $60k - $100k 
+ 0.10% - 0.50% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

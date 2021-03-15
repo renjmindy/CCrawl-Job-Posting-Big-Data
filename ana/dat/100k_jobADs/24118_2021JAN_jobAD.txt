@@ -1,0 +1,96 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Entry Level - Security Consultant 
+ IBM 
+ __Markham, ON 
+ Apply Now 
+ Introduction 
+Information and Data are some of the most important organizational assets in today’s businesses. As a Security Consultant, you will be a key advisor for IBM’s clients, analyzing business requirements to design and implement the best security solutions for their needs. You will apply your technical skills to find the balance between enabling and securing the client's organization with the cognitive solutions that are making IBM the fastest growing enterprise security business in the world. 
+ Your Role and Responsibilities 
+IBM Security is seeking highly talented candidates to fill consultant, client focused, and security services roles. We are in an era of advanced cybersecurity threats. These threats are persistent and continuously evolving. You need only read the newspaper to know how ever present and sophisticated hackers are today. The attacks are increasing in complexity and the impacts of security breaches on organizations can be devastating. Yesterday’s reactive security programs no longer equip organizations to approach security in a dynamic, strategic manner. At IBM, our clients have security in mind and your job is to help them get there. As part of IBM’s security team, you will work with teams and clients as they transform organizational security. We’re driven by more than just providing security solutions for organizations. We want our clients to succeed. IBMer’s can access our entire organization to develop original ideas that help clients create the world they imagine. At IBM Security, we partner with Fortune 100 clients to deliver real value by: 
+ Bringing together the world’s largest consulting practice with industry-leading security research capabilities 
+Enriching business consulting with advanced security research, analytics and technologies 
+Solving complex client challenges and providing holistic solutions that incorporate people, processes, and technologies to improve security posture 
+Teaming on all phases of engagement to monitor, detect, plan, build, implement, and support advanced security solutions 
+Establishing new, flexible, and iterative approaches that only IBM can offer through our unique combination of skills, experiences and capabilities 
+Providing our clients with an integrated approach to business design and execution, turning strategies into actions 
+ Your Roles & Responsibilities: 
+As a candidate in IBM Security’s Cybersecurity Early Professional (CEP) 2020 Program, you will get exposure to multiple teams, job functions, and roles within IBM Security Services. As part of this program you will receive exceptional training working closely with senior consultants and leadership in a variety of roles following the initial 2-3 months of onboarding and education. Job functions and responsibilities may include shadowing IBM Security consultants and participating in client engagements, assisting with client deliverables, working on Request for Proposals (RFP), participating in client meetings, and providing recommendations to improve clients’ security posture. Additionally, you will have the opportunity to learn about and interact with the different practices that make up IBM Security Services to further build your knowledge and skills in security and prepare you for a career in IBM Security. IBM Security practices include Security, Strategy, Risk and Compliance (SSRC), Identity and Access Management (IAM), Data and Application Security (DAS), Infrastructure and Endpoint Security (IES), Security Intelligence and Operations (SIOC), Managed Security Services (MSS), Cloud Security, Portfolio Management and XForce Red and X Force Incident Response. Throughout the program you will receive exceptional technical, consulting, and industry solution training, hands-on experience, project participation, and structured mentorship that will equip you with the knowledge and skills needed to make an immediate impact and achieve individual growth as a leader. Interacting with our security professionals will provide you the opportunity to gain further experience. Please note, participants may be required to travel up to 50% during the program. See what you can do at IBM. 
+ Office location:  Markham 
+ Must be legally entitled to work in Canada. 
+Start dates are for 2021 
+ Required Technical and Professional Expertise 
+ Knowledge of IT Security concepts and fundamentals 
+Canadian Secret Clearance (L2) or eligibility to obtain clearance 
+Must be able to draw upon professional concepts to collaborate with others to carry out assigned duties 
+Challenge the validity of given procedures and processes with the intent to enhance and improve 
+Demonstrated analytical and problem-solving skills 
+Excellent written, oral communication, and presentation skills 
+Knowledge and/or experience with IT system administration or network administration 
+Experience with Operating Systems - Linux (preferred) / Unix / Windows 
+Knowledge and understanding of TCP/IP Network Fundamentals 
+Knowledge and understanding of basic routing protocol fundamentals 
+Knowledge and understanding of basic network troubleshooting 
+Knowledge of Cyber Threat Analysis and IDS/IPS/SIEM fundamentals 
+Knowledge of firewall fundamentals and/or experience with firewall administration and management 
+ Preferred Technical and Professional Expertise 
+ Bachelor/Master’s degree in computer science, engineering, and/or commerce 
+ 2 + years’ experience with: 
+ 
+ IT system or network administration; Network Troubleshooting and IT Security 
+ Cyber intelligence analysis, including open source research and analytical tradecraft 
+ Identifying cyber threat actors, including advanced persistent threats and associated Tactics, Techniques, and Procedures (TTPs) 
+ Trending/Threat Analysis Report Writing and Performing cyber system security assessments 
+ Cyber Threat Analysis and IDS/IPS/SIEM systems 
+ Firewall administration and management 
+ 
+ 4+ years’ experience with Operating Systems - Linux (preferred) / Unix / Windows 
+1 year experience with QRadar and/or ArcSight and/or Splunk 
+In depth knowledge and understanding of TCP/IP Network Fundamentals 
+One or more professional certifications (CISSP, GIAC, GCIH, GSEC, GCIA, CEH) 
+ About Business Unit 
+IBM’s Cloud and Cognitive software business is committed to bringing the power of IBM’s Cloud and Watson/AI technologies to life for our clients and ecosystem partners around the world. IBM provides you with the most comprehensive and consistent approach to development, security and operations across hybrid environments—with complete software solutions for business and IT operations, development, data science, security, and management. Our experts and software capabilities help organizations develop applications once and deploy them anywhere, integrate security across the breadth of their IT estate, and automate operations with management visibility. With IBM, you also have access to new skills and methods, governance and management approaches, and a deep ecosystem of industry experts and partners. 
+ Your Life @ IBM 
+What matters to you when you’re looking for your next career challenge? 
+ Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities – where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust – where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible. 
+ Impact. Inclusion. Infinite Experiences. Do your best work ever. 
+ About IBM 
+IBM’s greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries. 
+ Location Statement 
+For additional information about location requirements, please discuss with the recruiter following submission of your application. 
+ Being You @ IBM 
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

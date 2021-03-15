@@ -1,0 +1,63 @@
+
+ Role 
+ Description 
+ 
+ Like what you see? Apply Now or hit the back button to search additional career options. 
+ Mobile Web Solutions Architect 
+ Apply Now 
+ Web/ Mobile Architect 
+ Are you an experienced Web/Mobile Architect looking to love your work, make a difference, and be part of an amazing organization? Then we're in luck. We are Power and we are looking for you. 
+ We are reinventing the home remodeling industry and to do that, we need a strong web and mobile platform that supports our people, our ingenuity, and our growth. 
+ With us, you will have the opportunity to work on challenging technology problems and design solutions that are lasting, sustainable and positive. You will get to work alongside other top talent, including our growing team of application architects, UX designers, engineers, and awesome developers. You will be empowered to make decisions and enjoy great latitude in choosing the right tools and methods for the job. And as the architect, you will be responsible for the overall design and development of highly visible products. 
+ Come join Power and see what it's like to brag about where you work. 
+ What we do here 
+ At Power, our technology team builds a custom suite of web and mobile products that run our entire business. We create and deploy complete solutions for marketing, sales, operations, finance, and more. We even have a custom communications platform that connects everyone in the company. We use cutting edge technologies like augmented reality, computer vision, machine learning, speech recognition and processing, geospatial data, and a variety of mobile platforms. 
+ We enjoy all the benefits of a startup (move fast, ship rapidly and iterate quickly) within an established organization that is well-funded and profitable. We get to dip our toes in many different, fascinating areas and solve unique problems that could on their own be standalone apps or companies. We are a tech powerhouse hidden inside a remodeling company. 
+ We value diversity of all types at Power and our team is made up of a kind, thoughtful group of people with a wide range of backgrounds. We actively try to find people with different perspectives and experiences to the ones we already have. 
+ Power has been awarded Computerworld’s Best Places to Work in IT, Fortune Magazine’s #1 Workplace for Millennials, one of Glassdoor’s Best Places to Work, one of Inc. 5000’s Fastest Growing Private Companies, and Philadelphia Magazine Coolest Companies. 
+ Required Qualifications 
+ 
+ 5+ years of experience architecting and developing mobile (Android and iOS) solutions 
+ 15 years of engineering, programming, and architecture experience 
+ Strong development experience with React Native, Swift, Objective-C, and Java 
+ Experience building scalable, always-on, multi-region systems 
+ Experience with modern frontend JavaScript frameworks like React and Angular for consumer-facing web and mobile applications desired 
+ Expert knowledge of agile development methodologies 
+ Proven track record of delivering quality work on time 
+ Ability to work effectively with other architects to help define and develop the direction of the web/ mobile platform 
+ Ability to work across Scrum teams to help guide and mentor developers through the design and delivery of the mobile platform 
+ Enjoy working with product specialists and end-users to understand requirements Solid communication, collaboration, and mentoring skills to work with a range of colleagues from product specialists and end-users, to UX designers and developers 
+ Strong interest in developing other team members and building something that is lasting, sustainable and positive 
+ Strong interest in continued personal and professional development, inclusive of learning new programming languages and technologies 
+ Experience incorporating automation and integration testing 
+ 
+ Preferred Experience 
+ 
+ Mobile frontend: React Native 
+ GraphQL, APNS/GCM 
+ Databases: MySQL, Redis, ElasticSearch, InfluxDB 
+ Team: Scrum, Git, Github 
+ DevOps: Docker, Kubernetes, Jenkins 
+ Languages: Ruby, Python 
+ 
+ Benefits 
+ 
+ Full medical, dental, life and disability insurance plans that can be tailored to your specific needs and the needs of your family 
+ A competitive 401(k) retirement savings program matched by 
+ Power Competitive salary 
+ All the tech you need - We'll pay for whatever hardware and software you need to work and make sure you're regularly upgraded to the latest versions 
+ Personal development - Personal development books, courses, & conferences 
+ Paid parental leave - When the time comes to welcome a new member of the family, we offer paid parental leave 
+ 3 events per year focused on internal development and improvement Location 
+ 
+ Location 
+ 
+ Remote (within 3 hours of EST) or at our state of the art Corporate Headquarters, outside of Philadelphia, PA 
+ 
+ Apply Now 
+ Power Home Remodeling Group is an equal opportunity employer and we are committed to hiring a diverse and talented workforce. 
+ ** 
+ Thanks again for your interest in PHRG. 
+ ** 
+ PHRG is an Equal Opportunity Employer committed to diversity in our workspace. 
+ © Copyright 2021 PHRG - All rights reserved. 

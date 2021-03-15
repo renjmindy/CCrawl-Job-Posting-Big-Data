@@ -1,0 +1,479 @@
+Power Plant Men 
+ True Power Plant Stories 
+ 
+ Complete Chronicle of Power Plant Life 
+ 
+ How Many Different Power Plant Man Jobs? 
+ By  Plant Electrician  on May 28, 2019 
+ In the morning when a Power Plant Man drives through the gate at the plant, with the boilers and smoke stacks looming ahead of them, they know that whatever lies ahead for them can be any one of over 20,000 different Power Plant Man Jobs! Yes. That's right. There are over 20,000 separate jobs that a person can be assigned on over 1,000 different pieces of equipment. 
+ 
+ Power Plant at sunset 
+ The bravery brings to mind the "Charge of the Light Brigade" (by Alfred Lord Tennyson), where "…All in the Valley of Death rode the six hundred"… only there were about 44 He-men and Women to repair whatever was in need of repair that day. And as in the commemorative poem about the Battle of Balaclava where "… Cannon to the right of them, Cannon to the Left of them, Cannon in front of them… Into the Jaws of Death, Into the Mouth of Hell Rode the Six Hundred." Or 44 in the case of the Power Plant Men and Women. 
+ 
+ The Charge of the Light Brigade 
+ It is true of the bravery possessed by True Power Plant Men and Women as they go about their daily quest for perfection. Unlike the Charge of the Light Brigade, who through an error in the command structure was ordered to perform a suicide mission, Power Plant Men go into daily battle well prepared using the correct tools, Safety Gear, Clearance Procedures and the knowledge of how to perform any one of the 20,000 jobs that could be assigned to them on any given day. (wait! Did I just create an extremely long run-on sentence? -- No wonder I could never get an A in English class!). 
+ As Lord Tennyson Memorialized the Battle of Balaclava in 1854 by writing the poem, "The Charge of the Light Brigade", one day when I showed up to work during the spring of 1998, I was assigned a similar task at the Coal-fired Power Plant in North Central Oklahoma. "What's that you say? Similar to writing the Charge of the Light Brigade?" Yeah. You heard me. I was given the job of chronicling each and every task that a Power Plant Man or Woman could possibly ever perform at the Power Plant. 
+ For the next three years, I spent 50% of my time at the plant sitting in front of a computer in the Master Print Room (where the master blueprints for the entire plant are kept) entering each task into the program called SAP. You may have heard me mention this program before. 
+ 
+ SAP Logo 
+ We had started using SAP a year earlier at the Electric Company (1997). The benefit of using this product was that it connected all of the functions of the company together into one application. So, as soon as a Power Plant Man took a part out of the warehouse, it was reflected in the finance system on the Asset Balance sheet. When our time was entered into SAP, the expense was calculated and charged to the actual piece of equipment we had been working on during that day. It gave us a lot of visibility into where and how the company was spending their money. 
+ This became even more useful if we were able to tell SAP more and more about what we did. That was where Ray Eberle and I came in. Ray was assigned to enter all of the Bill of Materials for every piece of equipment at the plant. I was assigned the task of entering all of the possible jobs that could be performed at the plant into SAP. 
+ I entered jobs into a section called "Task Lists". When I created a task about a specific job, I had to tell SAP all about how to perform that job. This is referred to as "Expert Data" in the world of Enterprise Software. (sorry to bother you with all these boring technical terms). 
+ Each task had to include any Safety Concerns about doing the job. It included a list of instruction manuals for the equipment that needed to be repaired and where to find them. I had to the include the Safety clearance procedure that needed to be performed in order to clear out the equipment before working on it. 
+ The Task also included all the parts that could be used to fix the equipment if something was broken along with the warehouse part number. Then I would add a list of tools that would be used to perform the job. This would include every wrench size, screwdriver, soft choker, come-along, pry bar, and nasal spray that might be needed for the job (well, you never know… there could be job that required the use of nasal spray). Ok. You have me… I only threw that in there because I found this great picture of Nasal Spray on Google Images and this was the only way I think of to show it to you: 
+ 
+ Nasal Spray 
+ Finally I would list each of the steps that a person would take to fix the equipment they were assigned to repair. This was a step-by-step procedure about how to perform the job. 
+ My first thought when I was assigned the job of chronicling every possible job a Power Plant Maintenance Man could perform was "Great! I will get to work on the computer! Everyone will be glad to help me with this task as it will make their lives easier!" Well… After I began the task of collecting information about the jobs, I unexpectedly found a lot of opposition to the idea of listing down each of the steps that a Power Plant Man performed to do their job. -- Can you guess why? 
+ Well… Yeah. It's true that I have an annoying personality, and sometimes I may come across as unpleasant, but that wasn't the main reason. Here is what happened…. 
+ When a Maintenance Order was created, one of the planners, Either Ben Davis (Planner 3) or Tony Mena (Planner 4) would flag the work order as needing a Task created for that particular job. 
+ 
+ Ben Davis 
+ I would pull up the list of work orders and start creating the task list for that job. I could tell who was assigned to it, so I figured I would just go up to them and ask them how they were going to fix the equipment. 
+ I remember going up to the first person on my list (Earl Frazier) the first day and explaining to him what I was doing. I asked him if he could tell me the steps to replacing the tail roller on belt 18 in the Surge Bin Tower. His response was, "Why should I tell you? You will just put all of that into the computer and then when you have described how to do all of the jobs, they can just get rid of us and hire some contractors to do our jobs." 
+ 
+ A conveyor Drum Roller similar to the one on the coal conveyor belts 
+ Oh… I hadn't thought about that. It seemed unlikely, because there is a big difference between having a low wage contractor working on something and a dedicated Power Plant Man. There just isn't any comparison. 
+ In order to write up the task for this job, I just waited until the men were up in the Surge Bin Tower pulling the roller off of the belt, and I went up there and watched them. I took notes of all of the tools and equipment they were using, and asked one of them the steps they were taking to get the new roller up to the tower, and how they were taking the old one out, etc. 
+ Ok… I wasn't going to do this… but I can feel your anticipation clear from here while I am writing this, that you really want to know what kind of tools it took to pull the roller from the Surge Bin Tower Conveyor belt…. Here is a list of just the tools needed…. just warning you… reading this list of tools just may cause you to drop whatever you are doing and drive out in the country to your nearest Power Plant and apply for a job…. just to warn you… if you don't think that would be good for you, you may want to skip this next paragraph. 
+ One 9 Foot Extension Ladder. Two 1-1/2 ton come-alongs, and one 3/4 come-along. Two large pry bars, a 15/16 in. and 3/4 inch sockets, an air or electric impact wrench (to be used with the sockets). An 8 foot step ladder. One can of WD-40. a 3/8 in. screwdriver. Oxygen-Acetylene tanks with Torch, a Welding machine, two 8 ft. 2 by 4's (that's two pieces of wood). A hammer, a 1/8 in. wrench. One small pipe wrench. One hook to hold up the roller. Three extension cords, with adapters for the coal-handling safety plug-ins. One 4 in. electric grinder. Two 6 in. C Clamps and four 6 ft. Steel Chokers. 
+ I decided that I would make things easier for myself up front by working on all of the electrician maintenance jobs first since I knew how to do most of those already. So, I spent the first year almost solely working on Electrical and Instrument and Control jobs. I could easily write the task lists for these, because I new all of the steps. 
+ For instance… If I needed to take a clearance on the A Tripper Drive motor, I knew that the breaker was on the Motor Control Center (MCC) 13B Cubicle 1C already. I didn't have to even look that one up. (I often wondered what they were thinking when they put Tripper B on MCC 13B Cubicle 2B. Why not put it in the same place (1C) on the next Motor Control Center? It would make things less confusing -- Just things I think about when I'm sitting on my "thinkin' chair"). 
+ 
+ Power Plant Thinkin' Chair 
+ Some tasks were short and easy. Others were novels. Take "Elevator is Malfunctioning" Maintenance order. I included all sorts of troubleshooting tips for that one. I even drew a sort of diagram of relays showing how they should be picked up and dropped out as the elevator went up and down… When the elevator was going up, I put in a table of relay positions like this (U means the relay is picked up, D means it is dropped out). Those names at the top are the names of the relays. 
+ 
+ 
+ 
+ Elevator 
+ DA 
+ UA 
+ HS 
+ 2LC 
+ LR 
+ LRD 
+ LRU 
+ 
+ 
+ 
+ 
+ At Rest 
+ D 
+ D 
+ D 
+ D 
+ U 
+ D 
+ D 
+ 
+ 
+ At Start up 
+ D 
+ U 
+ D 
+ U 
+ D 
+ D 
+ D 
+ 
+ 
+ Running Up 
+ D 
+ U 
+ U 
+ U 
+ D 
+ D 
+ D 
+ 
+ 
+ Slowdown up 
+ D 
+ D 
+ D 
+ U 
+ D 
+ D 
+ D 
+ 
+ 
+ Slowdown 2 up 
+ D 
+ D 
+ D 
+ D 
+ D 
+ D 
+ U 
+ 
+ 
+ Slowdown 3 up 
+ D 
+ D 
+ D 
+ D 
+ U 
+ D 
+ U 
+ 
+ 
+ At Stop up 
+ D 
+ D 
+ D 
+ D 
+ U 
+ D 
+ D 
+ 
+ 
+ 
+ I wrote a similar one for when the elevator was going down. 
+ Anyway….I mentioned a couple of weeks ago that Ray Eberle and I worked together side-by-side for most of the three years while I was writing the task lists (see the post " Tales of Power Plant Prowess by Ray Eberle "). After I had written a number of novels about different Electrician jobs in the form of task lists, I began working on the general maintenance tasks. 
+ After a while the Mechanics came around and saw the benefits of the task lists. I remember one of the men who had been the most vocal about not telling me how to do his job (yes. Earl Frazier) came up to me after I had written a task list about changing out the number 2 conveyor belt gear box and he asked me to add another wrench to the list. He said, that they had to go all the way back down the belt at the coal yard, drive back to the shop and retrieve the wrench, all because they hadn't taken it with them the first time. I added it in a heartbeat and he left smiling. 
+ Earl Frazier 
+ Every once in a while I would run across a Maintenance Order where I could be somewhat creative. For instance, I had to write a task list about how to inspect the railroad tracks and right-away from the plant to where the tracks entered the town of Red Rock, Oklahoma about 5 miles away. 
+ After explaining how the person connected the railroad truck to the tracks and drove on the tracks toward the growing Metropolis of Red Rock (population 282). I explained about how they were to make sure that all the wildlife was being treated well. I also said that when they arrived at Red Rock, they should go into the feed store and build up our public relations by striking up friendly conversations with the "locals". 
+ After completing over 10,000 different task lists….. I had begun to get into a routine where I felt like my creativity was becoming a little stifled. Then one day, Ray Eberle suggested that when I'm writing my task lists, I should think about how Planner 4 (Tony Mena) would like to see something a little more exciting than the usual…. "this is how you fix this piece of equipment" task list… 
+ One day I remember writing a task list about something called a "Sparser Bar". A sparser bar is something that sprays water at the bottom of a sump to stir up the coal when the pump is running so that it doesn't build up or maybe on a conveyor belt for dust suppression. Anyway… One of the tasks I needed to write was for a person to "create a new Sparser bar". 
+ 
+ An iron pipe like this with holes in it 
+ I wish I had the exact Task List that I wrote. I know that many years later, Ray Eberle sent me a copy of it when he ran across it one day, but I don't have it readily available, so I'll just go by memory (until someone at the plant wants to print it out and send it to me). I don't know… I may be able to write a better one now…. let me see…. 
+ Here are the instruction: 
+ 
+ Cut a one and a quarter inch pipe 30 inches long. 
+ Drill 1/8 inch holes along the pipe so that you have exactly 24 holes evenly distributed across the pipe leaving at least 3 inches on either side of the pipe. 
+ If you accidentally drill 23 holes, then you should add an extra hole so that you end up with exactly 24 holes. 
+ If you drill 25 holes, then you should discard the pipe and start over again. 
+ Note: Do not drill holes that are larger than 1/8 inches in diameter as this will be too big. If you drill holes bigger than 1/8 inches, then discard the new sparser bar and begin again. 
+ Another Note: Do not drill the holes smaller than 1/8 inches in diameter. If you drill holes that are smaller than 1/8 inches, then obtain a 1/8 inch drill bit and use that to increase the diameter of the holes that you have drilled. 
+ Once you have exactly 24 holes in the new Sparser Bar, then rotate the pipe 30 degrees and drill 24 more holes in the exact same positions as the holes that are now 30 degrees from where you are going to drill the new holes. 
+ Note: Do not drill the second set of holes at a 40 degree angle from the first set of holes as this is not the correct angle. Only drill the holes at a 30 degree angle from the first set of holes. 
+ Also Note: Do not drill the holes at a 20 degree angle, as this is also not the correct angle from the first set of holes. 
+ Caution: If you find that you have drilled the second set of holes at an angle other than 30 degrees, please discard the sparser bar and begin again. 
+ Once you have exactly 48 holes (count them… 24 + 24) in the sparser bar, thread both ends of the pipe. 
+ After you have threaded both ends of the new sparser bar, put a metal cap on one end of the sparser bar. 
+ Note: Do Not under any circumstance put a metal cap on both ends of the sparser bar as this will render the sparser bar useless because there will not be any way to attach the sparser bar to the water line. 
+ Caution: If you find that you have accidentally put a metal cap on both ends of the sparser bar, then remove the metal cap from one end (and only one end) of the sparser bar so that it can be attached to the water line. 
+ After you have completed creating the new sparser bar with two rows of 24 1/8 in. holes each at an angle of exactly 30 degrees, then using a medium pipe wrench attach the new sparser bar to the water line. 
+ Align the holes on the sparser bar so that they will have the maximum desired affect when the water is turned on. 
+ 
+ See? Only 7 easy steps. I think Tony Mena said he fell asleep trying to read my "Sparser Bar Task List". I seem to remember Ray Eberle telling me that Tony said, "Kevin's a nut!" 
+ So, I have one more story to tell you about writing task lists, and then I will conclude this post with the proper conclusive paragraph…. 
+ At the plant, every piece of equipment had their own "Cost Center". This came in handy when you were looking for spending trends and things like that. The structure of the cost center was like this: SO-1-FD-A-FDFLOP -- I just made that up. It's not a real cost center… I just wanted to show you the structure…. The first two characters SO represent the plant. The following "1" represents the unit. We had 2 units. The FD represents a "functional area" like "Force Draft Fan. The "A" represents the number of the piece of equipment, like A or B or C, etc…. depending on how many there are. The FDFLOP is the piece of equipment. In this case it might be a Forced Draft Fan Lube Oil Pump. 
+ I'm explaining this apparently boring aspect of Power Plant Life, because I made an attempt to make it a little more interesting. Here is what I did…. The Ultra Clean water that goes in the boilers and are used to turn the turbine are stored in a couple of large water tanks in front of the main power transformer. The code for their functional area just happened to be: "AM". So, when you were creating a task for working on a piece of equipment on the first of the two tanks, the Functional area would look like this: SO-1-AM-A….. 
+ See where I'm going with this? It looks like it is saying… "So I am a…." This quickly reminded me of Jim Arnold, who was the Superintendent of Maintenance. The guy that had assigned me to write all of these task lists in the first place. He always seemed like he was king of the jungle, so I thought I would have a little fun with this…. 
+ I created a completely new Functional Area Cost Center for this water tank for a non-existent piece of equipment…. I called it the "Gould Outdoor Detector". So, when I created the Cost Center string, it looked like this: SO-1-AM-A-GOD. For the Gould Outdoor Detector. -- I know… I was being rotten. 
+ 
+ Jim Arnold in all of his awesomeness 
+ Then using this cost center (that looked like "So, I am a God"), I created a Task List called: "How to be Superintendent of Maintenance". I added a lot of steps to the task about how you can humiliate your employees and over work them, and kick them when they are down, and stuff like that. I don't remember the details. Anyway, that was a lot of fun. 
+ I created task lists up until the day before I left the plant. At my going away party Jim Arnold asked me how many task lists I had created in the last three years… the count was something close to 17,800 task lists. Yeah. That's right. I wrote over 17,000 descriptions of Power Plant Man jobs in three years. Our plant had over three times more task lists in SAP than the rest of the entire electric company put together. 
+ You can see that I was proud of some, like my the novel I wrote about Elevator Maintenance. You can also tell that working side-by-side with Ray Eberle kept us both entertained during those years. We were the best of friends when I left. I don't know how many times I just about passed out because I was laughing so hard while we worked together. 
+ 
+ Ray Eberle 
+ If I were to write Power Plant Tasks today, I think I would write the ones that aren't assigned to a Maintenance Order… they would be more like "How to be a True Power Plant Man". It would be a novel that would describe the tremendous character of each and every True Power Plant Man and Woman that I learned to love during my stay at the "Power Plant Palace." 
+ UPDATE: 
+ NOTE: On December 17, 2019  Mike Gibbs sent me an email from the Power Plant saying that he had been assigned to sweep the Main Electric Switchgear. The tools for the task were these: 
+ 
+ High Precision, extra durable, polished handled, floor sweeping broom. 
+ Dust Pan 
+ plastic trash bags 
+ 
+ The Instruction Manual was this: RED SKELTON'S MANUAL ON CHIMNEY SWEEPS, GARBAGE COLLECTING AND MAINTAINING CUSTODIAL INTEGRITY. 
+ Mike made the comment that I may have to return to the plant to update the new hires on who Red Skelton is. 
+ Mike Gibbs 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ LinkedIn 
+ Reddit 
+ Pinterest 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Posted in:  Biography ,  Friendship ,  Humor ,  Life  | Tagged:  Alfred Lord Tennyson ,  Battle of Balaclava ,  Ben Davis ,  Charge of the Light Brigade ,  Clearance procedures ,  Coal fired ,  Cost Center ,  Electric Company ,  Electrician ,  Expert Data ,  Jim Arnold ,  job ,  Job Description ,  Job Descriptions ,  jobs ,  Joke ,  Maintenance ,  Maintenance Order ,  Master Print Room ,  Men and Women ,  Nasal spray ,  Oklahoma ,  Power Plant ,  Ray Eberle ,  Safety ,  Safety Gear ,  SAP ,  Sparser Bar ,  Task List ,  task lists ,  The Charge of the Light Brigade ,  Tony Mena ,  Tools 
+ Post navigation 
+ <- Older 
+ Newer -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ The Plant 
+ Follow this site via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 3,629 other followers 
+ Email Address: 
+ Follow this site 
+ Blog Stats 
+ 
+ 240,865 views 
+ 
+ Previous Power Plant Posts 
+ 
+ ABC's of Power Plant Safety 
+ Power Plant Imps and Accident Apes 
+ What's That Strange Power Plant Smell? 
+ Power Plant Law of the Hog 
+ A Chance for Power Plant Men to Show Their Quality 
+ Turning the Tables on a Power Plant Telephone Interloper 
+ Early Morning Power Plant Wake Up Call 
+ Doing Dew Point Tests and Lowering Expectations 
+ Making Friends from Foes - A Tale of Power Plant Woes 
+ Vertan or Sand and Making an Enemy of a Power Plant Man 
+ Power Plant Pilfering and Being Peeved with Peavler 
+ The Ken and Randy Power Plant Safety Show 
+ When Enough Power Plant Stuff Just Ain't Enough 
+ Power Plant "We've Got the Power" Program 
+ Weary of Power Plant Drug Testing 
+ Solving the Selection of a Power Plant Solvent 
+ Electric Company Substation Transformer Shooter 
+ Power Plant Paradox of Front to Back and Back to Front 
+ Harmonizing with Dick Dale on Power Plant Christmas Harmonicas 
+ Boppin' With Bif during the Power Plant Downsizing 
+ A Power Plant Backstabbing Experience 
+ Power Plant Women and the EEOC Shuffle 
+ How Power Plant Men "Ate My Lunch" 
+ Why Do Power Plant Men always Lose the Things they Love the Most? 
+ Telling Time Power Plant Man Style 
+ Power Plant Catholic Calibrating Cathodic Protection 
+ When Power Plant Durability and Automation Goes Too Far 
+ Eating Power Plant Pickles, Peppers and Ice Cream 
+ Petty Power Plant Jokes Played on Prominent Power Plant Men 
+ Prolonged Power Plant Pause Before the Panic 
+ Power Plant Men Show Their True Colors 
+ In Pursuit of the Power Plant Gai-tronics Gray Phone Ghost 
+ Lifecycle of a Power Plant Lump of Coal 
+ What do Power Plant Men in North Central Oklahoma Do For Recreation 
+ Not a Fan of French Power Plant Fan Filters 
+ Placed on Light Duty at the Power Plant 
+ Power Plant Lock Out - Tag Out or Just Tag Out 
+ Working Power Plant Wonders with Willard Stark 
+ Importance of Power Plant Backup Battery Preventative Maintenance 
+ Power Plant Phrases Fit for Mixed Company (almost) 
+ Moon Walk in a Power Plant Precipitator 
+ Resistance in a Coal-Fired Power Plant 
+ Something Is In The Water at the Muskogee Power Plant 
+ Personal Power Plant Hero -- Charles Foster 
+ From Power Plant Rags To Riches 
+ Blowing it with Power Plant Retracts and Wall Blowers 
+ Serving Mankind Power Plant Style 
+ Switching in the Power Plant Substation Switchyard 
+ Power Plant Manhole Mania 
+ Rivers and Rose in the Power Plant Palace 
+ Learnin' 'bout 'lectricity with Andy Tubbs 
+ New Home in the Power Plant Electric Shop 
+ Power Plant Christmas Party Party Pooper 
+ Power Plant Christmas Story 
+ Last Days as a Power Plant Labor Crew Hand 
+ Power Plant Summer Help Sanity Check 
+ Marlin McDaniel and the Power Plant Mongoose 
+ Power Plant Carpooling Adventures With Grant Harned 
+ Power Plant Weir Boxes and other Beautiful Sites 
+ Power Plant Secrets Found During Daily Mail Run 
+ Power Plant Men Fighting Fires for Fun 
+ What Does a Hard Hat Sticker Tell You about a Power Plant Man? 
+ How Many Power Plant Men Can You Put in a 1982 Honda Civic? 
+ Power Plant Safety is Job Number One 
+ A Power Plant Halloween Election Story 
+ Power Plant Adventures with Jim Heflin 
+ Life and Death on the Power Plant Lake 
+ Luxuries and Amenities of a Power Plant Labor Crew 
+ "I Think I Can, I Think I Can" and Other Power Plant Chants 
+ Fast And Furious Flat Fixin' Fools Fight the Impact of the Canine Parvovirus 
+ Pioneers of Power Plant Fame Finally Find Peace 
+ Belt Buckle Mania And Turkeys During Power Plant Man Downtime 
+ Power Plant Invocations and Imitations of Sonny Karcher 
+ Cracking a Boiled Egg in the Boiler and Other Days You Wish You Could Take Back 
+ Indian Curse or Brown and Root Blunder 
+ The Heart of a Power Plant 
+ Power Plant Final Presentation 
+ Power Plant Cajun and the Hatchet Man 
+ Power Plant Invisible Diesel Oil Spill Drill 
+ Power Plant Blackbirds and Smokestack Jumpers 
+ Power Plant Lady of the Labor Crew 
+ The Passing of an Old School Power Plant Man - Leroy Godfrey 
+ Power Plant Trouble With Angels 
+ Power Plant Spider in the Eye 
+ Toby Teaches Power Plant Time Management 
+ Power Plant Millennium Experience 
+ Power Plant Train Wreck 
+ Suppressing the Truth about Power Plant Coal Dust Collection 
+ Power Plant Men Learn to Cope with "Boring" 
+ Making Power Plant Friends with Motor Alignment 
+ Destruction of a Power Plant God 
+ Hot Night on the Power Plant Precipitator 
+ Power Plant Quittin' Time 
+ Flying Leap off of a Power Plant Hot Air Duct 
+ The Power Plant Smokestack Third Rail is the Lifesaver 
+ Power Plant Downsizing Disaster and the Left Behinds 
+ Power Plant Black Time and Six Hour Rules 
+ Power Plant Men Take the Corporate Mainframe Computer Home 
+ Power Plant Men Meet The Wild West 
+ Poison Pill For Power Plant Pigeons 
+ Black Ops Raid Power Plant -- Power Plant Men Ignore Attackers 
+ Power Plant Conspiracy Theory 
+ A Day in the Life of Power Plant Man and the Sign Hangin' Chain Gang 
+ Power Plant Men Summoned by Department of Labor 
+ Lizzie Borden meets Power Plant Man 
+ Power Plant Men's Club Prizes and a Story of Luck 
+ Working Smarter with Power Plant Dumb Terminals 
+ In Memory of Sonny Karcher - Power Plant Man 
+ Relay Tests and Radio Quizzes with Ben Davis 
+ Why Stanley Elmore and Other Power Plant Questions 
+ Power Plant Art of Making a Bad First Impression 
+ Wax On Wax Off and Other Power Plant Janitorial Secrets 
+ Bobbin' Along with Bob Kennedy 
+ Tales of a Tall Power Plant A Foreman 
+ Hitting the Power Plant HR Cardboard Ceiling 
+ Spending Long Weekends with Power Plant Men Shoveling Coal 
+ A Window Into the Power Plant Man Bedroom 
+ Angel of Death Passes by the Precipitator Door 
+ Mr. Frog's Wild Power Plant Ride 
+ Crack in Power Plant Armor leads to Gaping Hole in Logic 
+ Power Plant Birthday Phantom 
+ Printing Impossible Power Plant Fast News Post 
+ Power Plant Customer Service Team Gone Wild 
+ Corporate Executive Kent Norris Meets Power Plant Men 
+ Do Power Plant Men and Corporate Headquarters Mix? 
+ Power Plant Raven Comes Home to Roost 
+ GE Geriatric Gentleman and Power Plant Transformers 
+ Power Plant Men Taking the Temperature Down by the River 
+ Power Plant Trip Leads to Game of Frogger 
+ Bohn's Boner and the Power Plant Precipitator Computer 
+ Ed Shiever Trapped in a Confined Space with a Disciple of Ramblin' Ann 
+ A Power Plant Doctor Does a Jig in a Puddle of Acid 
+ When Power Plant Men Talk… It Pays to Listen 
+ A Power Plant Man Becomes An Unlikely Saint 
+ Where Do Knights of the Past Go To Fight Dragons Today 
+ Chief Among Power Plant Machinists 
+ Power Plant Safety As Interpreted by Curtis Love 
+ Psychological Profile of a Power Plant Control Room Operator 
+ Power Plant "We've Got The Power" Stress Buster 
+ Power Plant Electric Shop Summer Help Stories or Rooster Eats Crow 
+ "Take a Note Jan" said the Supervisor of Power Production 
+ Power Plant Painting Lessons with Aubrey Cargill 
+ Experiencing Maggots, Mud and Motor Vehicles with Dee Ball 
+ Power Plant Control Room Operator and the Life of Pi 
+ Power Plant Quest for the Internet 
+ Power Plant Security Guard Finds Fame Amid Mass Murder 
+ Power Plant Arguments with Arthur Hammond 
+ Power Plant Humor and Joking with Gene Day 
+ Bob Lillibridge Meets the Boiler Ghost 
+ Power Plant Spider Wars II -- The Phantom Menace 
+ 
+ Posts by Month 
+ 
+ January 2021  (21) 
+ December 2020  (17) 
+ November 2020  (29) 
+ October 2020  (31) 
+ September 2020  (26) 
+ August 2020  (31) 
+ July 2020  (20) 
+ February 2020  (1) 
+ December 2019  (3) 
+ November 2019  (30) 
+ October 2019  (31) 
+ September 2019  (30) 
+ August 2019  (31) 
+ July 2019  (31) 
+ June 2019  (30) 
+ May 2019  (31) 
+ April 2019  (30) 
+ March 2019  (31) 
+ February 2019  (28) 
+ January 2019  (31) 
+ February 2018  (9) 
+ January 2018  (31) 
+ December 2017  (31) 
+ November 2017  (30) 
+ October 2017  (31) 
+ September 2017  (30) 
+ August 2017  (31) 
+ July 2017  (47) 
+ June 2017  (60) 
+ May 2017  (40) 
+ April 2017  (30) 
+ March 2017  (31) 
+ February 2017  (24) 
+ January 2017  (5) 
+ December 2016  (4) 
+ November 2016  (4) 
+ October 2016  (5) 
+ September 2016  (4) 
+ August 2016  (4) 
+ July 2016  (5) 
+ June 2016  (4) 
+ May 2016  (3) 
+ January 2016  (1) 
+ December 2015  (18) 
+ November 2015  (17) 
+ October 2015  (18) 
+ September 2015  (17) 
+ August 2015  (18) 
+ July 2015  (17) 
+ June 2015  (17) 
+ May 2015  (18) 
+ April 2015  (17) 
+ March 2015  (18) 
+ February 2015  (16) 
+ January 2015  (18) 
+ December 2014  (14) 
+ November 2014  (13) 
+ October 2014  (13) 
+ September 2014  (13) 
+ August 2014  (13) 
+ July 2014  (13) 
+ June 2014  (13) 
+ May 2014  (13) 
+ April 2014  (13) 
+ March 2014  (13) 
+ February 2014  (13) 
+ January 2014  (13) 
+ December 2013  (9) 
+ November 2013  (9) 
+ October 2013  (9) 
+ September 2013  (8) 
+ August 2013  (9) 
+ July 2013  (9) 
+ June 2013  (9) 
+ May 2013  (9) 
+ April 2013  (8) 
+ March 2013  (9) 
+ February 2013  (8) 
+ January 2013  (9) 
+ December 2012  (4) 
+ November 2012  (5) 
+ October 2012  (4) 
+ September 2012  (4) 
+ August 2012  (5) 
+ July 2012  (4) 
+ June 2012  (5) 
+ May 2012  (4) 
+ April 2012  (4) 
+ March 2012  (5) 
+ February 2012  (4) 
+ January 2012  (5) 
+ 
+ Create a free website or blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

@@ -1,0 +1,185 @@
+RyanData 
+ Data and statistical musings from Ryan Womack, Data Librarian 
+ 
+ About Me 
+ 
+ Unofficial and informal tips for job applicants 
+ By  ryandata  on 2019/09/24 
+ Having been involved in several hiring committees over recent years, it is sometimes a bit frustrating to not be able to give advice to applicants. We cannot do that in individual cases as a matter of HR policy. The decision-making process is confidential. But I hope that by offering some general observations I have made after reviewing many applications, that this might be of help to future seekers. We are, after all, trying to find the person who will provide the best job performance, not perform the best in the application process. But since we only have the application to judge the candidate by, learning to perform well in the application is essential. I sincerely wish that every candidate would present their best during the application process. On to specifics… 
+ The Library Work Environment 
+ Librarians have a service ethic. We are (mostly) in this profession to  help  : to help organize information, to help others find information, to help others use information. But information can be complex. So we are usually looking for a combination of  both  specialized technical expertise and the willingness and ability to explain, to teach, to  help . 
+ If you are already a working professional librarian, this paragraph probably does not apply to you, but others read on. We like people who like to read, to study, to use books. However, that is no longer what most library work is about. Even if you have used libraries extensively in the past, you probably do not know the particular requirements of the position we are advertising for. Avoid making sweeping statements about how you will enjoy the work, or will improve the Libraries. You just don't know how that will play out. 
+ The Cover Letter 
+ In many of our positions, we are looking for people with advanced technical skills that they can put to use with us. It is common to find applications that list these skills on the resume, but that add little else. That kind of application might be fine in your discipline, especially for in-demand skills like newer programming languages. But (as mentioned above), we are seeking  skills+service . Your cover letter is the place for you to demonstrate your communication skills and convey any evidence of your helpfulness, desire and experience teaching, and flexibility in learning and adapting to job requirements. 
+ This is basic, but many still don't do it. You should  read  the position description, and your cover letter should address how you meet each of the requirements. If you do not, you will probably be passed over for an applicant who has covered all of those bases. You may be capable of doing the job, but if the cover letter doesn't explain how, we cannot fill in the blanks for you. 
+ Also, it is nice if you think the job will help you develop your skills, be a good progression for your career, and so on. But you should limit discussion of that to just a sentence or two. The reason the job has been posted is that the Libraries need to get some work done. So 90% of your effort should be convincing us that you are the best person to do that work,  not  that the work is the best for you. 
+ The Interview 
+ If you are selected for an interview, it means you are on a very short list of people we are seriously considering for the position, usually just two or three people. So congratulations! 
+ Recognize that it is often not possible to "win" the interview over other candidates just by trying harder or saying things differently. Often it is the fundamental match of skills and experience to the position that determines the choice. A great candidate may just need more experience, or may be developing in a different direction than the Libraries' current needs. Don't sweat it if you are not the match today. Career development is a process, and not a linear one. 
+ Do  be a good sport about every step of the process. Mostly, everyone involved on the employer's side is just trying to do their jobs well. All of academia is a small world, with plenty of chances to meet people again in different contexts. So be courteous and polite because you never know. The vast majority of you don't need this reminder, but unfortunately there are a few who do. 
+ During the interview, you want to continue what you started in your cover letter. Explain how you qualify for the position, and what strengths you have that make you the best candidate. Talk about  both  how you are knowledgeable and how you will be helpful. Show that you have good communication skills in person. 
+ You should  ask questions . It is often difficult for those with less experience and less practice interviewing to know what to ask, but you should prepare some questions beforehand. Questions show that you are seriously thinking about the work involved, and will be an active and engaged worker. At least you can ask what the employers expect to accomplish by hiring someone. 
+ Listen to and respond directly to the questions asked of you. If there are multiple interviewers, which is typical, try to give attention to each person at least part of the time. They are there for a reason, and they will all have a voice in the final decision. Do not assume you know who is in charge, or the most important person in the room, and direct your attention only to them. You might not be right! 
+ You may have many qualifications, but it is hard to list them all in a short interview. So think about the most powerful examples you can talk about in advance and have them ready. If you haven't thought yet about how to describe your qualifications, definitely take the time  before  the interview. Don't spend your limited time by talking about things you know are not as important, or where you may not have made much of a contribution, even if they are very interesting to you. 
+ If you are new to the academic work environment (as compared to the classroom), you might be surprised by just how dry and formal it can be, especially in official settings like a job interview. So save raising any personal or highly opinionated topics for after you are hired. If there are personal issues that affect things like your schedule availability, you can raise those in a neutral way. It is fine to leave those discussions until after you have been selected too. 
+ Good luck with your job search! 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Email 
+ Print 
+ More 
+ 
+ 
+ 
+ Pinterest 
+ Tumblr 
+ 
+ 
+ Reddit 
+ 
+ 
+ Pocket 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Posted in:  Thoughts  | Tagged:  Interviews ,  Library Jobs 
+ Post navigation 
+ <- Older 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Search 
+ Recent Posts 
+ 
+ Unofficial and informal tips for job applicants 
+ R Workshops, a tidyverse approach, Fall 2019 
+ October Python Workshops 
+ Statistical Software and Data Workshops, Fall 2018 
+ Mongolian Multivariate Statistics (at the Mongolian University of Life Sciences) 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ Mongolian Multivaria…  on  PirateBox for Data Litera… 
+ 
+ 
+ 
+ 
+ 
+ ryandata  on  Survival Analysis in R video… 
+ 
+ 
+ 
+ sullybiker  on  Installing Debian/XFCE (Linux)… 
+ 
+ 
+ 
+ ryandata  on  Installing Debian/XFCE (Linux)… 
+ 
+ 
+ Ted on  Installing Debian/XFCE (Linux)… 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ September 2019 
+ October 2018 
+ August 2018 
+ March 2018 
+ December 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ August 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ June 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ September 2014 
+ August 2014 
+ October 2013 
+ September 2013 
+ June 2013 
+ March 2013 
+ January 2013 
+ September 2012 
+ March 2012 
+ January 2012 
+ October 2011 
+ September 2011 
+ July 2011 
+ June 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ September 2010 
+ 
+ Categories 
+ 
+ Data News 
+ Library News 
+ Mongolia 
+ New Dataset 
+ Thoughts 
+ Uncategorized 
+ Websites 
+ Workshops and Training 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Blog at WordPress.com. 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ %d bloggers like this: 

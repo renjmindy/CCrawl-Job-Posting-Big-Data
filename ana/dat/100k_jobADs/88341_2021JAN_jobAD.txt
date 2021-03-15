@@ -1,0 +1,242 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+  IT & Programming jobs  
+ 
+ Evaluating bids 
+ Automate rendering of uniform 3d objects and create 100+ renders 
+ Published on the October 10, 2020 in IT & Programming 
+ 
+ Project 
+ Project Insights New 
+ 
+ About this project 
+ it-programming / others-5 
+ USD 500 - 1,000 
+ I need several hundred pairs of renders of simple uniform 3D objects in daylight and artificial light. For example, a render of a tomato in daylight and a render of the same tomato (same white empty background, same angle), but with artificial lighting. Then the script should load another 3D model, e.g. 
+A banana, and then make two two renders of it as well. Repeat 100+ times. 
+ I understand the objects should be similar and have similar materials for this process to be possible. I assume we can use a ready-made pack of simple food-related 3D models that are sold on the web. I'll purchase the one that is needed, but I need guidance from you regarding the best pack to buy. 
+ Please find attached a photo example of the end result - a tomato in day lighting and in artificial lighting. 
+ Category  IT & Programming 
+Subcategory  Other 
+Project size  Medium 
+Is this a project or a position?  Project 
+I currently have  I have specifications 
+Required availability  As needed 
+ Deadline: Not specified 
+ Skills needed 
+ Python   Script Writing   3d Modelling   3D Rendering   Unity 3D   Unreal Engine 
+ Want to start working on this project? 
+ Log into  your Workana account or  Register  today. Boost your freelance work! 
+ Are you looking for a freelancer to do a similar project? 
+ Create your project and get bids from the best freelancers. 
+ Publish your own project   Send your proposal now 
+   
+  V. S.  
+ 1 
+ Published projects 
+ 0 
+ Projects paid 
+ Member since: October 2020 
+ Project activity 
+ 2 
+ Bids 
+ 3 
+ Interested freelancers 
+  __Previous project  
+  __Next project  
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

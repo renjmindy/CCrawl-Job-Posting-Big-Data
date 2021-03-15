@@ -1,0 +1,12 @@
+ Minimum Qualifications: 
+ Proficiency in a common scripting language 
+ Strong written and verbal communication skills; attentive to details 
+ Strong understanding of web application security and networking fundamentals 
+ Experience hardening Linux based operating systems and familiarity with Linux internals 
+ Able to troubleshoot and debug issues, and demonstrate a methodical approach to root cause analysis 
+ Preferred Qualifications: 
+ Ability to read and write code written in  Python ,  Scala ,  Java ,  C/C++ &  Golang 
+ Experience working with cryptographic hardware (PKCS#11, FIPS 201-1 PIV, smartcards, etc) 
+ Familiarity with configuration management tools ( Ansible ,  Chef ,  Puppet , etc) 
+ It Pays to Work Here 
+ We take a holistic approach to compensation at Gemini, which includes: 

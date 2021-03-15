@@ -1,0 +1,53 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Sqreen (W18) 
+ Sqreen is the application security platform for the modern enterprise 
+ General Applications 
+ 
+ Location 
+ San Francisco, CA, USA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Sqreen 
+ Sqreen is the application security platform for the modern enterprise. More than 800 organizations trust Sqreen to protect, observe and test their applications, APIs and microservices. As opposed to pattern-based approaches, Sqreen analyses in-app execution in real time to deliver more robust security without compromising performance. 
+ About the role 
+ Sqreen is the application security platform for the modern enterprise. More than 800 organizations trust Sqreen to protect, observe and test their applications, APIs and microservices. As opposed to pattern-based approaches, Sqreen analyses in-app execution in real time to deliver more robust security without compromising performance. This empowers security owners to easily extend protection and visibility across their entire application portfolio without requiring on-going maintenance and tuning. With Sqreen, organizations of all sizes can strengthen their application security, decrease the number of security incidents and resolve incidents more quickly when they do occur. 
+ For more information, please visit  www.sqreen.com . 
+ Don’t see the perfect opportunity for your background or interests? No problem! 
+ We’re growing fast, from 55 to 70 employees so far in 2020 - with plenty more to come. We’d love to hear from people who are passionate about democratising security, whether you're an engineer, designer, salesperson, marketer, HR, product or finance person. 
+ Sqreeners come from all corners of the globe and all walks of life. Diversity is important to us, so if you're unsure, please apply! 
+ Technology 
+ Sqreen secures web applications. As such, it runs inside your app, protecting & monitoring your code with 0 modifications thanks to dynamic instrumentation. 
+ We develop instrumentation agents in 6 languages (Python, Node.js, Ruby, PHP, Java and Go). This means Sqreen must have a highly performant backend in order to receive data from the agents, and alert our customers about attacks happening in their apps, and keep them up to date against new threats. 
+ Sqreen targets a wide range of companies, from SMB to enterprises. The Sqreen users in the SMB world are developers. If you want to build a tool you’d actually use, join Sqreen! 
+ Other jobs at Sqreen 
+ General Applications 
+ fulltime 
+ San Francisco, CA, USA / Remote 
+ 3+ years 
+ Engineering Manager, Product Squads 
+ fulltime 
+ Paris, France / Remote 
+ Engineering Manager 
+ 11+ years 
+ Full Stack Engineer 
+ fulltime 
+ Paris, France / Remote 
+ Full Stack 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

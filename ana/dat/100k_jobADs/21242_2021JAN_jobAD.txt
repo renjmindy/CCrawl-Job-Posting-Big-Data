@@ -1,0 +1,324 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ WordPress 
+ 
+ WordPress Freelance Jobs From Brazil 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelance  WordPress Developers  from  Brazil 
+ ](https://www.workana.com/freelancers/brazil/wordpress) 
+ 3 weeks ago 
+ Project manager 
+ Published: 3 weeks ago  Project duration: 1 - 4 weeks Bids: 6 
+ Develop custom features for Wordpress content based platform (similar to Quora). The features to be developed are inovated, not available as plugins. The webplatform is also feeding an Android App, through an API. 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Part time 
+ API Integrations  : Other (Other APIs) 
+ Published by:  R. T. Last reply: 3 weeks ago  Brazil Payment method:  __Verified 
+ Over USD 40 / hour 
+ 3 weeks ago 
+ Product Manager to update and keep custom Wordpress content website 
+ Published: 3 weeks ago  Project duration: 1 - 4 weeks Bids: 18 
+ Maintain website up to date and working well. Execute minor changes, such as ui/ux updates, ab testing, navigate website numbers. 
+ www.frateri.com 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Part time 
+ API Integrations  : Other (Other APIs) 
+ Published by:  R. T. Last reply: 6 days ago  Brazil Payment method:  __Verified 
+ Over USD 40 / hour 
+ 3 weeks ago 
+ Integrating Crypto payments in my Website of subscriptions 
+ Published: 3 weeks ago  Bids: 4 
+ I wanna accept crypto currencies in my sale website. My digital product is of subscription. 
+ My website was created in WordPress. I think that makes it easier, because there are many ready plugins for it. I want a simply integration, can be a simply plugin, nothing complicated, only just offer a button of payment in the website and a checkout with Fiat/Crypto. 
+ I wanna know if there are any way for customers paying in Fiat money because is more knowed for the major piece of people, and I receive athrough crypto. I wanna know if it's possible too. 
+I wanna receive in DAI crypto, because is a StableCoin. 
+ Let me know how much do you would make that job. 
+ PS:. Please budget under $80. 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Roles needed  : Developer, Other 
+ Other roles needed  : Just need only know some Crypto Plugin (subscription) for install in a simply page created in WordPress. 
+ Published by:  N. D. M. Brazil 
+ Less than USD 50 
+ Last month 
+ Build me two websites similar like 
+ Published: Last month  Bids: 3 
+ Hello Freelancers, 
+I wanted to make 2 websites similar like :-  http://heyamico.com/doctor-shares-realities-pandemic-in-video 
+ And 
+ https://goteverythingin.blogspot.com 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Designer, Developer 
+ Published by:  J. Brazil 
+ USD 100 - 250 
+ Last month 
+ Fix a bug on a custom Wordpress Theme 
+ Published: Last month  Project duration: 3 - 4 months Bids: 13 
+ I need a freelancer who is available to work on demand. 
+ The website is a custom built Learning Management System for Wordpress that attends different schools. The system itself has a few custom post types and the user can access the course if he has an active subscription on WooCommerce. 
+ We have encountered a bug where WooCommerce isn't deactivating the user account and users with expired subscriptions are still gaining access to the course. 
+ We have developed a custom code to enable and disable the access to the course and a backend page where the Admin can see the list of active students. All of this touchpoints and codes must be revised and tested to ensure that only active subscriptions or users within their payment period can access the student area. 
+ This would be the first task, there are more tasks and improvements that needs done. 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Custom development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Part time 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.), Other (Other APIs) 
+ Published by:  D. R. Last reply: Last month  Brazil 
+ Less than USD 10 / hour 
+ Last month 
+ Specific Fixing on a Learning Press Plataform 
+ Published: Last month  Deadline: 5 Bids: 9 
+ We are looking for someone to work on two specific things on our platform; 
+ - "New User" subscription E-mail 
+We need a personalized e-mail for our New Users. When we add a new user to the platform a very basic e-mail is sent (to the user) communicating the creeation of the profile. We need a personalized e-mail to improve our UX on the plataform. 
+ Best Regards, we also want to change the sender address so our "New User" e-mails won't arrive at the customer's spam box. 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : Windows 
+ Published by:  S. F. P. Last reply: Last month  Brazil 
+ USD 100 - 250 
+ Last month 
+ Improve mobile site load times 
+ Published: Last month  Bids: 9 
+ I want a professional to configure the front end and backu and of an existing website to substantially improve the loading time of the pages, especially in the mobile version. The professional will be able to change the design of the site as long as it represents an improvement in the loading time measured in tools like google page spid and make all the improvements that he deems necessary, always focusing on improving the performance of the mobile version. 
+ Category  : IT & Programming 
+ Subcategory  : Web design 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Specific need  : Redesign a website 
+ Published by:  M. Last reply: Last month  Brazil 
+ USD 50 - 100 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

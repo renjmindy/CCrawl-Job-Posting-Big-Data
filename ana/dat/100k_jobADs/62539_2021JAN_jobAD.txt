@@ -1,0 +1,309 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Cryptocurrency 
+ 
+ Cryptocurrency Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Cryptocurrency Developer ? 
+ ](https://www.workana.com/hire/cryptocurrency) 
+ 1 week ago 
+ Wallet app 
+ Published: 1 week ago  Bids: 0 
+ I need blockchain app to add backend to my wallet app , pls message , the front is built with react native which I have the front source and it will be provided 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Published by:  T. T. T. Algeria 
+ USD 100 - 250 
+ 3 weeks ago 
+ Data Anaylsis for Bitcoin Spot Market 
+ Published: 3 weeks ago  Deadline: 1 Bids: 2 
+ Hello, I need someone who can make a program/excel file or anything possible that shows the updated volume per hour for the Binance Bitcoin Spot Market (means all the coins that can be converted to Bitcoin). The freelancer should be done with the project max in 10 hours. API can bu used for this project. 
+ Category  : IT & Programming 
+ Subcategory  : Data Science 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  B. Turkey 
+ Less than USD 50 
+ Last month 
+ Building a backend as a base for future projects 
+ Published: Last month  Deadline: 69 Bids: 21 
+ Looking for people to build a modular (microservices based) 7-module API backend platform for our future product needs. 
+- Preparation of database schema 
+- The APIs are preferably built on NodeJS using the NestJS framework, written in TypeScript in a microservices architecture 
+- Data validation and error handling for all inputs 
+- Swagger API documentation required 
+- Proper unit test written and high code coverage for the produced code 
+ A spec sheet of the modules required is attached 
+ Expected timeline: 2 months 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer, Project manager 
+ Published by:  J. L. Last reply: 29 days ago  Malaysia Payment method:  __Verified 
+ Over USD 3,000 
+ Last month 
+ Blockchain system with smart contracts for real estate tokenization 
+ Published: Last month  Bids: 14 
+ Blockchain system with smart contracts for real estate tokenization - we already have a whole formatted project - need to have experience with smart contracts, evm etherium and Blockchain 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Required platforms  : Other 
+ I need to  : Modify an existing app 
+ App type  : Other 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  E. Last reply: 1 week ago  Brazil 
+ Over USD 3,000 
+ 9 months ago 
+ Recover a lost password from a bitcoin wallet 
+ Published: 9 months ago  Bids: 3 
+ I have a bitcoin core  wallet.dat  file and I would like someone to help me recover its password. 
+I’ve lost its password and I can say that it’s formed of lowercase and uppercase letters, digits and special characters. And it’s not short. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Published by:  K. U. C. Last reply: 9 months ago  Brazil 
+ USD 250 - 500 
+ 10 months ago 
+ Php Expert and Crypto Wallet transaction expert for crypto Project 
+ Published: 10 months ago  Bids: 1 
+ As stated this php script is already in place and just needs a bit of tweeking on the crypto wallets and accounting.  I would like to continue the details of this project with the videos that I have created to show the issues and answer your questions.  It is really about the ability to withdraw BTC from a company wallet to the customers wallets. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer, Other 
+ Other roles needed  : I have a PHP script that needs a bit of modification. I already have in place an accounting method where we can credit BTC to a persons account. Then if the person wants to withdraw the BTC then we need to be able to allow the person to withdraw the BTC and move it to his personal wallet. There is also the same issue with a Token that we have already minted It is an ERC20 and the person needs to be able to transfer the Token from his account at our web site to his Ether wallet. These are the basic issues and there are several more that we need. But in order to begin I want to fix these issues first. Then we can move on to the next one. There are a lot of moving parts to this project. I look forward to hearing more from you. 
+ Published by:  D. S. Last reply: 10 months ago  United States 
+ USD 50 - 100 
+ 11 months ago 
+ Creat a cryptocurrency Trading website 
+ Published: 11 months ago  Bids: 4 
+ Hello, 
+I like to create a full cryptocurrency trading website like  yobit.net , you can check the website and we can talk about the price 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer, Designer, Design a landing page 
+ Published by:  B. A. Last reply: 11 months ago  Algeria Payment method:  __Verified 
+ USD 1,000 - 3,000 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

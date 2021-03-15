@@ -1,0 +1,193 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Scala Engineer 
+ [ 
+ Depop 
+ ](/companies/depop) 
+ Manchester, United Kingdom 
+ 13 May, 2019 
+ Apply 
+ More jobs from Depop About Depop 
+ Salary 
+ £50K - 85K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Architecture 
+ Play 
+ PostgreSQL 
+ RabbitMQ 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Stock options 
+ Pension 
+ Diversity dedicated staff 
+ Parental leave 
+ 25 days 
+ Equal opportunity employer 
+ Gym membership 
+ Lots of perks 
+ Meetups 
+ 
+ Help to build a scalable app with a growing community of over 500K active daily users. 
+ Role overview 
+ Welcome to Depop. 
+ We are the social marketplace where over 12M people come to buy, sell and discover unique items. Our mission is to empower creative minds by making our platform the place for the most vibrant communities in the world. 😁 
+ With headquarters in London, spaces in LA and New York, we have a team of more than 100 people dedicated to enhancing and developing the Depop experience for our global communities. And we’re just getting started. 
+ Depop is a rapidly scaling business and we’re on the hunt for a Senior Scala Engineer to join our Tech team.💻 
+ Our Scala engineers are passionate about creating great software from their local environment through to production. We love functional programming and hope you do too. 
+ Want to find out more about Depop & our engineering team? Take a look at our blog! We write about technology, people and smart engineering - https://engineering.depop.com/ 
+ Responsibilities: 
+ 
+ Work closely with Product Managers, Designers, Front-End and other Backend Developers to understand problems and to design solutions. 
+ Produce high quality code which is well-structured and simple to understand which will be used by over 500,000+ active daily users 
+ Embrace agile methodologies and engage in a culture of continuous improvement by attending events such as book club, functional meet up, blameless post-mortems, architecture review, war games, hack days 
+ Collaborate on a daily basis with fellow developers to solve problems and write code 
+ You’ll own your code through its entire lifecycle, including deployment to production 
+ 
+ Requirements 
+ 
+ Significant experience with  Scala  and its ecosystem of libraries 
+ Experience building performant, scalable apps for serving  RESTful content or processing/ingesting data 
+ Experience working with  RDBMS , ideally  Postgres 
+ Ability to proactively find and solve complex problems independently 
+ A desire for continuous learning in software architecture, functional programming or other relevant disciplines. 
+ 
+ Desirable 
+ 
+ Experience with the  Play framework ,  Kinesis  and  DynamoDB 
+ Experience with event driven architectures, preferably using  RabbitMQ 
+ Experience deploying code to production 
+ Experience in using production  AWS  infrastructure, ideally with  Terraform 
+ Contribution to open-source libraries 
+ Tech blog posts 
+ Degree level knowledge of Computer Science or related technical field. 
+ 
+ Benefits 
+ We want to give our engineers the opportunity to learn and grow at Depop. So if you're keen to gain experience in another language or new area of engineering we can make it happen as part of your career journey with us. Depop offers the opportunity to work with such a vibrant and diverse group of people, building a product we all deeply care about. 
+ 
+ [ 
+ Depop 
+ ](/companies/depop) 
+ 
+ 250+ 
+ 
+ Depop is where the world's creatives come to buy, sell and discover the most inspiring and unique things. Depop was founded by co-founder of PIG magazine and RETROSUPERFUTURE sunglasses, Simon Beckerman. Originally a social network where PIG’s readers could buy items featured in the magazine. After realizing that Depop needed a selling function, Simon re-envisioned the app as a global marketplace — a mobile space where you can see what your friends and the people you’re inspired by are liking, buying, and selling. In turn, your friends and creative influencers all over the world can see the things you like, buy, and sell, and are inspired by you. This ecosystem has supported Depop becoming a global conduit of connection, not only in m-commerce, but culture, design, and creative communities around the world. 
+ Fashion Private AWS Kafka Play PostgreSQL Stock Options Pension  
+ View 5 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Depop About Depop 
+ Salary 
+ £50K - 85K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Architecture 
+ Play 
+ PostgreSQL 
+ RabbitMQ 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Stock options 
+ Pension 
+ Diversity dedicated staff 
+ Parental leave 
+ 25 days 
+ Equal opportunity employer 
+ Gym membership 
+ Lots of perks 
+ Meetups 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Scala Engineer£50K - 90KDepopLondon, United Kingdom 
+ Help to build a scalable app with a growing community of over 1M active daily users. 
+ aws architecture play postgresql rabbitmq scala 
+ More Info Apply 
+ Head of Backend Engineering£85K - 110K + EquityDepopLondon, United Kingdom 
+ Lead teams building a growing social marketplace of 20 million users 
+ architecture scala 
+ More Info Apply 
+ Senior Software Backend Engineer - Scala/Java CompetitiveZalando SEBerlin, Germany 
+ You will design, develop and operate business-critical applications at the heart of Zalando 
+ sql akka aws elasticsearch java kubernetes nosql postgresql scala low latency systems 
+ More Info Apply 
+ Senior Scala Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

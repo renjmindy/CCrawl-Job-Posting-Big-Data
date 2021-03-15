@@ -1,0 +1,77 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Chartio (S10) 
+ Chartio is changing how companies work by building the best visualization interface to data. We make connection easy and building dashboards intuitive, so anyone on a team can create beautiful charts and draw meaningful insight from their data. 
+ Senior Product Manager 
+ 
+ Location 
+ San Francisco, CA, USA 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Chartio 
+ Chartio is changing how companies work by building the best visualization interface to data. We make connection easy and building dashboards intuitive, so anyone on a team can create beautiful charts and draw meaningful insight from their data. 
+ Old Business Intelligence tools were complicated, expensive and just plain bad. We mean to change all that. 
+ About the role 
+ At Chartio, we aim to bring working with databases to the masses. Like Excel did 30 years ago (when data mostly meant spreadsheets), we are bringing the ability to work with data back to the business user. We are looking for a talented product manager who is passionate about building modern web applications and is interested in tackling the complex problems of visualizing data. 
+ Working with our engineering and product design team, you will be responsible for the success of the entire application. You must be able to develop deep knowledge of the customer, business, and industry. You must also be able to deliver reference customers and motivate the team through passion and enthusiasm for the product. 
+ You will play a fundamental role in inventing the interface that enables the masses to work with databases and run intelligent businesses. 
+ Role Responsibilities 
+ 
+ This role requires deep knowledge of the customer, both qualitative and quantitative knowledge. This is required in order to make informed decisions. The product manager will be making hundreds of small decisions every week that directly impacts the work of the engineering and design team. 
+ Interviewing, observing, and having conversations with actual customers (and prospects) is a critical part of understanding our customers problems. 
+ Working directly with the engineering and design team the product manager will be responsible for writing and running user tests with both new and existing customers. User testing is an important part of our design process as we like to iterate many times before writing any code. 
+ Similarly, developing functional prototypes is another key part of our process. Prototypes allow us to quickly run user tests and make changes without writing a lot of code. 
+ Our industry is a fast growing and fast paced environment. It will be critical that the product manager understand the different competitors, their strengths and weaknesses, and the product capabilities. While we will forge our own path to solving our customer’s problems, it’s important to understand where our industry is going. 
+ Working across the entire organization is a key part of this role. This will help address risks before we go to market and ensure successful product launches. This means working with virtually every department including marketing, success, finance, sales, and leadership. 
+ Working with the engineering team on creation, prioritization, and management of stories and tickets in each sprint. A strong understanding of the product development process is required. 
+ Organizing the product backlog, milestones, and reviewing tickets submitted by success and other team members. 
+ 
+ Ideal Candidate Characteristics 
+ 
+ Ability to communicate with engineers on technical feasibility of ideas and projects 
+ Able to understand technical processes like databases, SQL and data pipelines 
+ Prior experience working with a technical SaaS product 
+ Ability to quickly iterate and test prototypes 
+ Passion for and experience running user tests 
+ Prior experience working with product designers on requirements, risks, and usability 
+ Aesthetic design capabilities combined with clean UX instincts 
+ Data/technical/SQL experience - an understanding of how databases work 
+ Prior experience working with senior leadership on strategy 
+ Experience with Figma, Sketch, InDesign, or similar tool 
+ 
+ Requirements 
+ 
+ Extensive background (5+ years) in building and managing web applications 
+ An eagerness to interview and work with our customers 
+ Passion for information visualization 
+ Previous experience using Jira or similar ticketing software 
+ 
+ Technology 
+ Chartio is a web application powered by a React, Redux, and JavaScript frontend with a Python, Django, and Celery backend. Underpinning everything is a Java query layer that does all the heavy lifting when it comes to querying and transforming data. 
+ We are deployed on Amazon Web Services and use various AWS Services such as EC2, autoscaling, RDS, Kinesis, Athena, and much more. 
+ Other jobs at Chartio 
+ Senior Product Manager 
+ fulltime 
+ San Francisco, CA, USA 
+ 3+ years 
+ Senior Software Engineer 
+ fulltime 
+ San Francisco, CA or Blacksburg, VA / Remote 
+ Full Stack 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

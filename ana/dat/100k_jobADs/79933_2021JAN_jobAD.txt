@@ -1,0 +1,332 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ E-commerce Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance E-commerce Expert ? 
+ ](https://www.workana.com/en/hire/e-commerce-1) 
+ Yesterday 
+ Commissions management 
+ Published: Yesterday  Deadline: 15 Bids: 2 
+ So, I'm starting a new business in Indonesia, and we have several E-commerce platforms that I'd like to capitalize on. Most have already provided a commissions program that provides referral links, but I'd like a program where if an account (of the e-commerce media) buys through a referral link, the promoter will still receive a commission even if said account buys from another referral link or a non-referral link. Thank you. 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  D. S. Indonesia 
+ USD 50 - 100 
+ 2 days ago 
+ Smart Fishnet 
+ Published: 2 days ago  Deadline: 41 Bids: 3 
+ It is a B to B and B to C business platform where cryptocurrency technology will be used we will be providing the technology as well as the product it can be operated in all devices. Programming language should be Python. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Required platforms  : Android, iPhone, iPad, Other 
+ I need to  : Migrate an app 
+ App type  : Other 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  S. P. Last reply: 6 days ago  India 
+ USD 1,000 - 3,000 
+ 2 weeks ago 
+ E-Commerce Customer Service Specialist (Fluid English) 
+ Published: 2 weeks ago  Project duration: 1 - 2 months Bids: 12 
+ We're looking for new specialists to join our growing online team with 3 emerging E-Commerce Brands in Consumer Goods: 
+ - Flexible, Dedicated problem solver, Team Player (we want to hear about your experiences! :) ) 
+- People-orientated person who enjoys helping customers + colleagues 
+- Proactive about learning new software + product characteristics 
+- Not afraid to step in to stop an error in progress or help upsell a customer that's shopping, independently 
+- Comfortable with communication online with remote teams vias platforms such as: Shared Docs, Chats, Videocalls, Microsoft 365/Google Suite, Asana, Confluence, etc 
+- Is versatile and open to adapting with the company's day-to-day challenges and growth: somedays we're on the phone working with partners and others we need to help build content for marketing campaigns; we adapt as priorities are re-defined week to week, change is welcome. 
+- Position is time-zone flexible and family friendly, our focus is on meeting weekly priorities and fluid communication 
+- If possible, Looking for weekend + off-peak support as much of the team operates M-F 10am-6pm EST. 
+(Hablamos español y somos bilingües también :) ) 
+ Category  : Admin Support 
+ Subcategory  : Customer Support 
+ Is this a project or a position?  : Project 
+ Required availability  : Part time 
+ Published by:  Sarah C. Last reply: 2 weeks ago  Chile Payment method:  __Verified 
+ Less than USD 10 / hour 
+ 3 weeks ago 
+ Create Shopify E-commerce Site 
+ Published: 3 weeks ago  Bids: 15 
+ Hello, 
+ I am a Software Engineer with a small team (a graphic designer and a digital marketer) and I am currently working with a client to create a Shopify e-commerce site for him. I would like to find someone who has a lot of experience creating Shopify websites. 
+ Please leave a few sample of sites you have built with Shopify. 
+ Thanks! 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Roles needed  : Designer, Developer 
+ Published by:  V. C. T. Puerto Rico 
+ USD 250 - 500 
+ 3 weeks ago 
+ Magento E Commerce Development 
+ Published: 3 weeks ago  Bids: 1 
+ So the development of the separate Frontend Portal (browser based) will be for VIP Customers, Vendors, & Clients which will be fully integrated with the e-commerce platform 
+The Frontend Portal will have, Multi-Vendor Login (each vendor having multiple users), Multi-Client (VIP) Login, and Our Users Login, 
+ We do this in stages, so that we can add each functionality one by one 
+We then add Multi-Warehouse Integration, Multi-Courier integration with multiple accounts for each Courier, 
+Easy Channel Listing on Amazon, eBay, Shopify and other channels 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Cloud Storage (Dropbox, Google Drive, etc.), Payment Processor (Paypal, Stripe, etc.), Social media (Facebook, Twitter, etc.), Other (Other APIs) 
+ Roles needed  : Developer, Design a landing page 
+ Published by:  M. D. Last reply: 3 weeks ago  United States 
+ USD 500 - 1,000 
+ 3 weeks ago 
+ Magento E Commerce 
+ Published: 3 weeks ago  Project duration: 1 - 4 weeks Bids: 2 
+ So the development of the separate Frontend Portal (browser based) will be for VIP Customers, Vendors, & Clients which will be fully integrated with the e-commerce platform 
+The Frontend Portal will have, Multi-Vendor Login (each vendor having multiple users), Multi-Client (VIP) Login, and Our Users Login, 
+ We do this in stages, so that we can add each functionality one by one 
+We then add Multi-Warehouse Integration, Multi-Courier integration with multiple accounts for each Courier, 
+Easy Channel Listing on Amazon, eBay, Shopify and other channels 
+ Divide the requirement doc in weekly sprints. So each week there will be a deliverable. We need to manage it on GitHub (privately of course) so that we can have easy access. 
+You need to update it for at least 8 weeks, so that it reflects what you will deliver, every week 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Full time 
+ API Integrations  : Other (Other APIs), Social media (Facebook, Twitter, etc.), Payment Processor (Paypal, Stripe, etc.), Cloud Storage (Dropbox, Google Drive, etc.) 
+ Roles needed  : Developer, Project manager, Design a landing page 
+ Published by:  M. A. United States 
+ Over USD 40 / hour 
+ Last month 
+ Sap Ariba - Punchout 
+ Published: Last month  Bids: 2 
+ We have a web store that must be connected to a SAP Ariba erp system of the clients. The punchout must be done in CXML. Attached cxml documents, as well as sap ariba punchout development documents. 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  A. T. C. Peru 
+ USD 250 - 500 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

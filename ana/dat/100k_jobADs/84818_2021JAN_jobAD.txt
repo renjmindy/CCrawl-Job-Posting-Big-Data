@@ -1,0 +1,204 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Software Engineer 
+ [ 
+ CMDTY 
+ ](/companies/cmdty) 
+ London, United Kingdom 
+ 26 August, 2020 
+ Apply 
+ More jobs from CMDTY About CMDTY 
+ Salary 
+ £70K - 120K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ KUBERNETES 
+ Python 
+ PostgreSQL 
+ React 
+ TERRAFORM 
+ TYPESCRIPT 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Committed to a diverse team 
+ 
+ Diverse New York/London startup using technology to streamline the physical commodities supply chain 
+ Role overview 
+ CMDTY is a well-funded startup that is using technology and data science to create efficiencies in the multi-trillion dollar industry of trading and logistics of physical commodities. We are currently a team of 8 women and 10 men, including technology experts who have revolutionised the ad-tech industry, and commodity experts with years of experience in metals and other commodities. We are based in New York, London, and remote. Having signed our first customer and working on our V1 launch, we are looking to hire more software engineers to join our team in London. 
+ What problem are you trying to solve? 
+ Think about how easy it is for you to purchase something online; you can see various options, filter by different features, and then once ordered, track where your delivery is until it arrives at your doorstep. 
+ It might surprise you that such systems do not yet exist for manufacturers or suppliers who are looking to buy or sell raw material, such as aluminium, copper or cocoa. Thanks to many challenges involved, particularly due to the size of the market, such purchases are currently extremely manual, using a combination of emails, phone calls, text messages to track purchases, sales and deliveries. 
+ What are you doing? 
+ 
+ We are bringing market intelligence and pricing tools to small and big manufacturers and producers of physical commodities. 
+ By providing financing, price discovery and other facilities we are creating a more transparent marketplace and enabling companies to trade with new counterparties. 
+ We are improving logistic and tracking of commodities around the world. This mean optimised delivery routes, with benefits such as a reduction in carbon footprint. 
+ 
+ Where are you now? Who is the team? 
+ We officially started in September 2019, raising a Series A of $10mm. We signed our first customer in July 2020 and are in the process of launching the first version of our product. 
+ Our team is currently 8 women and 10 men with a variety of backgrounds, skills and seniorities - from graduates upwards. We have tech experts who have built systems that handle millions of transactions per second, commodity experts with 60 years combined experience in the industry, and award-winning design and product experts who have worked on complex software products for large enterprises. 
+ Our founding team has experience starting businesses in both the commodity and technology spaces, and has successfully built companies from the ground up to reach 1000+ employees. 
+ Where are you based? How are you dealing with Covid-19? 
+ Currently we are all working from home due to Covid-19, however, we expect to go back to our offices in London and New York in future. The London office will most likely be in central/west London. 
+ This posting is for candidates who are expected to join us in the office in London, where we currently have 4 team members (1 woman and 3 men), however, we may consider fully remote working for the right candidate. 
+ We are fully supportive of our team’s right to keep themselves and their families safe, so you will only be expected to go back to the office when you feel safe to do so. Currently, the plan is to head back to the office in London in the second quarter of 2021. However, it should then still be possible to work from home for a couple of days a week. 
+ Would I fit in? 
+ We will try our best to make sure you feel at home at CMDTY. Our co-founders genuinely believe that a diverse team will set us up for success and as such we are working hard to attract diverse candidates who can add value right from the start, but also grow and thrive further in CMDTY. 
+ We are currently a team of 18 from many different nationalities and races, including 8 women. A lot of the team have children, and we want CMDTY to be super family friendly. We will help you handle the challenges that come with having a family. You can talk to us to find out more, and we can put you in touch with relevant team-members if you'd like to speak to someone directly. 
+ Do I need Commodity experience? 
+ No, and you don’t even need to care that much about commodities to find this space fascinating. Our team includes a former commodities quant who will quickly get you up to speed. We have regular “learn and teach” presentations where we teach each other about various topics, and we share lots of information on our internal wiki. 
+ OK, I am excited, what are you actually after? 
+ In short, we are looking for individuals who are excited to tackle the problems we described above. 
+ You will be working closely with our head of quantitative analysis and data science to implement some core components of the deal intelligence, logistics optimisation, pricing and risk engines. These are the algorithms that will be at the core of our product offering. 
+ You will be working with our CTO and the rest of the technology team to design and build infrastructure and tools to collect and handle data needed to for these algorithms. 
+ You will also be working the rest of the team, including product and design, in a highly collaborative and transparent environment, to build our first products. We have weekly all-hands, and demo meetings, where you can learn what it takes to run a successful startup, and build a great product, not just from an engineering perspective, but also from a product and commercial side. 
+ You should be excited to solve interesting engineering problems, help establish well-designed engineering processes and ship high quality enterprise level product. Given where we are now, you will be able to start building and contributing from day one, and help build the architecture for our systems. As the team grows, you will have more junior developers that you can nurture and develop too. 
+ What is your technology stack? 
+ 
+ Python and GraphQL. 
+ React, Relay, and Typescript. 
+ AWS, Kubernetes, Docker and Terraform. 
+ Automated CI/CD with staging and production environments. 
+ 
+ How senior is the role? What experience do I need? What’s the salary range? 
+ If you can think you can contribute, you should apply, and we will compensate you based on your experience and ability. You can expect a salary of between £70,000 and £120,000, but this may be lower for less experienced candidates, and higher for very senior candidates. 
+ If you are intrigued by the role and are excited to work in our stack, then you should probably apply. 
+ What is your interview process? 
+ Right now our interviews are completely remote. We try to be flexible with our schedule for calls, and to get you through the process quickly. 
+ 
+ An initial call to meet one of our engineers in London. We'll tell you a bit about us, and learn about your background and what you're looking to do. We may ask some short technical questions. 
+ There may be a second interview with another team member to chat more about Cmdty and you. 
+ A take-home technical exercise. We understand you will have other commitments, so we will give you enough time to come up with a solution you are happy with. Most candidates write in python, but you can choose any language. 
+ A follow-up call to discuss your code submission, with one or two engineers. 
+ Finally, you will meet a few other team members from other offices to give both sides opportunity to meet future team mates! These will mostly be general chats, but they could easily get into fun technical discussions if you meet an engineer. 
+ As part of this final round, you will also meet some of our co-founders so you can learn more about their background and the business. 
+ 
+ What information should I provide in my application? 
+ We love a good story, so it will help us if you tell us a little bit about yourself; why this position is interesting to you, what you would add to the team, or anything else you think we should know. 
+ Tell me one more time why CMDTY is great? 
+ 
+ We are handling real material that is used by almost all of us on a daily basis. We think that’s cool. 
+ We are helping our customers optimise their workflow, improve their carbon footprint, and add real value. 
+ We are a start-up, with a start-up culture. We will move and build things quickly, and every team member will have a real impact on where we go and what we build. 
+ But we are well-funded, so we pay market rates. 
+ You get to work with our founding team who have a proven track record. 
+ You will be one of the first team members in London, so you can help set the team culture in London. 
+ 
+ If you have read this far, do drop us a line to say hi! 
+ 
+ [ 
+ CMDTY 
+ ](/companies/cmdty) 
+ 
+ 10-49 
+ 
+ CMDTY is a well-funded startup that is using technology and data science to create efficiencies in the multi-trillion dollar industry of trading and logistics of physical commodities. We are currently a team of 8 women and 10 men, including technology experts who have revolutionised the ad-tech industry, and commodity experts with years of experience in metals and other commodities. We are based in New York, London, and remote. Having signed our first customer and working on our V1 launch, we are looking to hire more software engineers to join our team in London. What problem are we trying to solve? Think about how easy it is for you to purchase something online; you can see various options, filter by different features, and then once ordered, track where your delivery is until it arrives at your doorstep. It might surprise you that such systems do not yet exist for manufacturers or suppliers who are looking to buy or sell raw material, such as aluminium, copper or cocoa. Thanks to many challenges involved, particularly due to the size of the market, such purchases are currently extremely manual, using a combination of emails, phone calls, text messages to track purchases, sales and deliveries. What do we do? We are bringing market intelligence and pricing tools to small and big manufacturers and producers of physical commodities. By providing financing, price discovery and other facilities we are creating a more transparent marketplace and enabling companies to trade with new counterparties. We are improving logistic and tracking of commodities around the world. This mean optimised delivery routes, with benefits such as a reduction in carbon footprint. Where are we now? Who is the team? We officially started in September 2019, raising a Series A of $10mm. We signed our first customer in July 2020 and are in the process of launching the first version of our product. Our team is currently 8 women and 10 men with a variety of backgrounds, skills and seniorities - from graduates upwards. We have tech experts who have built systems that handle millions of transactions per second, commodity experts with 60 years combined experience in the industry, and award-winning design and product experts who have worked on complex software products for large enterprises. Our founding team has experience starting businesses in both the commodity and technology spaces, and has successfully built companies from the ground up to reach 1000+ employees. 
+ Remote Working Logistics Series A AWS GraphQL KUBERNETES PostgreSQL Committed to a diverse team  
+ View 1 job 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from CMDTY About CMDTY 
+ Salary 
+ £70K - 120K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ KUBERNETES 
+ Python 
+ PostgreSQL 
+ React 
+ TERRAFORM 
+ TYPESCRIPT 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Committed to a diverse team 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Lead EngineerCompetitiveGoustoLondon, United Kingdom 
+ Gousto are on a mission to become the UK's favourite way to eat dinner! 
+ aws node.js python react 
+ More Info Apply 
+ Full-Stack Software Developer£35K - 75KCytera CellWorksLondon, United Kingdom 
+ Our solutions are going to transform the way every biotech works. Join us and help us get there! 
+ aws docker javascript node.js react typescript 
+ More Info Apply 
+ Senior Data Engineer£60K - 85K + EquityCredit KudosLondon, United Kingdom 
+ Leveraging Open Banking data to remove the bias in credit scoring 💳 
+ aws gcp golang python terraform bigquery 
+ More Info Apply 
+ Software Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

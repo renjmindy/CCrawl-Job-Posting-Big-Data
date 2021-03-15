@@ -1,0 +1,70 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Web/CMS Developer (Craft) LOCALPERMANENT 
+ Job Description 
+ We're looking for a Craft CMS developer in our Boston office. We recently redeveloped our Craft 3 multisite which includes  https://www.datto.com   https://www.backupify.com  and  https://www.openmesh.com  and we are seeking a team player who loves Craft and likes solving problems. 
+ A look inside the job: 
+ 
+ Develop, test, and deliver clean, secure, production-ready PHP code 
+ Analyze existing code and make dynamic refactoring changes as required 
+ Be a critical thinker and creative problem solver, with acute attention to detail 
+ Be a confident developer and a motivated self-starter with a drive to learn and absorb new technologies 
+ Be a team player, coordinating with our Boston and Norwalk-based web team to craft innovative solutions 
+ Be able to effectively communicate ideas and strategies with project managers and other members of the web team 
+ 
+ About You: 
+ 
+ A minimum of 3 years experience in PHP development 
+ Strong understanding of the MVC pattern / OOP 
+ Strong familiarity with Craft CMS or other PHP based CMS development 
+ Strong knowledge of PHP frameworks such as Yii, Laravel, Symfony, or Zend 
+ MySQL experience, with proven ability to write efficient SQL queries 
+ Solid understanding of web application security principles and practices 
+ Efficiency using the command line, as well as CLI tools and utilities 
+ Demonstrable fundamental knowledge of front-end technologies including JavaScript, HTML, CSS, AJAX, etc. 
+ Strong knowledge of git 
+ Proven understanding of task runners/pre-processors such as grunt, gulp, or webpackh 
+ 
+ Oh, and we have a great time, we make cool stuff (4 storey LED wall with updates through Craft and integrated with Slack? Yeah...), have unlimited paid vacation (yep), great health care, stock options, yadda yadda yadda. Come work with us! 
+ Unfortunately we can't accept remote applications, but we do have relocation assistance for the right candidate. 
+ How to Apply 
+ Apply on our (Craft 3) website here:  https://www.datto.com/careers/job-board/post/1256125 
+ Contact Info 
+ 
+ __ 
+ 
+ Location:  Boston, MA 
+ 
+ __ 
+ 
+ Email Address: 
+ __  Posted August 2, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

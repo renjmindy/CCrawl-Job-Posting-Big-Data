@@ -1,0 +1,77 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ MS Azure Integration Developer 
+ AstraNorth 
+ __Ottawa, ON 
+ Apply Now 
+ Job Description : 
+ Work Location:   Remote during COVID19. But candidate will have to relocate to Ottawa after restrictions are over. 
+ Position Description: 
+Design and implement integration flows using Microsoft Azure services 
+ 
+ Develop system integrations, using Microsoft Azure Integration Services to connect to on-premises, SaaS, and cloud-hosted applications. 
+ Create RESTful or SOAP web services and APIs to transmit data between applications. 
+ Collaborate with Architecture and Integrations team members to develop best practices and methodologies. 
+ Plan, design, coordinate with various functional and application teams to understand requirements. 
+ Support Testing and Validations. 
+ Produce interface design specifications, build and configurations books. 
+ 
+ Required years of experience, training, technical skills, and other requirements for job performance: 
+ 
+ 4+ years IT experience with at least 2 years’ experience in Microsoft Azure or Azure Integration Services. 
+ Experience working with cloud/on-prem and hybrid cloud solutions 
+ Experience using other integration tools like Mulesoft , SAP PI/PO ,SAP CPI will also be considered. 
+ Experience with Microsoft Azure PaaS and SaaS solution development technologies including Logic Apps or PowerShell. 
+ Hands on experience with implementing security protocols like Oauth2 or Basic Authentication. 
+ 
+ Education: 
+ 
+ Bachelor’s Degree in Engineering or foreign equivalent, required from an accredited institution. 
+ Professional certification and post-graduate degree are desired 
+ 
+ Security Clearance: 
+Security Clearance (Enhanced Reliability Status) from Government of Canada or the candidate should be a resident of Canada for 5 continuous years 
+ Job Types: Full-time, Permanent 
+ Pay: $70,000.00-$130,000.00 per year 
+ Schedule: 
+ 
+ Monday to Friday 
+ 
+ Work remotely: 
+ 
+ Temporarily due to COVID-19 
+ 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

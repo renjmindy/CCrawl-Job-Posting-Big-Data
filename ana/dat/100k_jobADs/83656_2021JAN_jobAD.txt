@@ -1,0 +1,419 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ AJAX 
+ 
+ AJAX Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance AJAX Developer ? 
+ ](https://www.workana.com/hire/ajax) 
+ 27 days ago 
+ Ecommerce Project Development 
+ Published: 27 days ago  Bids: 29 
+ Requirements: 
+ We want to create a multi-platform eCommerce project written in PHP from scratch, with a marketplace similar to Wish, eBay, and/or Amazon. 
+ We don’t want you to use CMS like Prestashop, WordPress, Woocommerce, Dokan, Shopify, etc… It is a personalized code written from scratch using up-to-date technologies. 
+ Characteristics: 
+•    Responsive 
+•    Multilanguage 
+•    Marketplace 
+•    Develop the mobile (android and iPhone) and web applications 
+•    Mobile & Website features 
+o    Find your Vendor or Products 
+o    Users can see a list of products for specific vendors 
+o    Products details 
+o    Order tracking 
+o    Etc… 
+•    Etc … 
+ Skills: 
+•    PHP 
+•    MySQL 
+•    AJAX 
+•    Bootstrap 
+•    jQuery 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Create a new store 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Roles needed  : Developer, Designer 
+ Published by:  E. P. D. Last reply: 2 weeks ago  Dominican Republic 
+ Over USD 3,000 
+ 4 months ago 
+ Online Enrollment , Company Agency system , Running Event Website ,... 
+ Published: 4 months ago  Bids: 4 
+ i have created some projects using PHP Codeigniter i make system for Agency and Running Event System during my intern i have experienced using CMS Woocommerce and Informative website 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.), Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  S. A. Philippines 
+ USD 500 - 1,000 
+ 5 months ago 
+ Woocommerce Ajax Checkout 
+ Published: 5 months ago  Deadline: 3 Bids: 4 
+ We are going to use Woocommerce donations plugin in specific posts, what we want to do is when the user clicks the donation button, below of this button or over the button the checkout appears and the user can easily do checkout, once the checkout process is done, the checkout page collapse and a notification appears, everything in same place. 
+ User can donate as many times as he wants from the same page 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Custom development 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Published by:  F. M. Colombia Payment method:  __Verified 
+ Less than USD 50 
+ 8 months ago 
+ Vue.js Developer 
+ Published: 8 months ago  Bids: 7 
+ Company Introduction 
+ChinesePod is the pioneer creator of online resources for learning Mandarin Chinese. With over 4,000 video and audio lessons, ChinesePod houses the largest library of Chinese learning content available on the web. 
+We are looking for an expert JavaScript developer who is highly skilled with  Vue.js. 
+ Your primary focus will be developing user-facing web applications and components. You’ll implement them with the  Vue.js  framework, following generally accepted practices and workflows. You will ensure that you produce robust, secure, modular, and maintainable code. 
+ You will coordinate with other team members, so your commitment to team collaboration, perfect communication, and a quality product is crucial. 
+Responsibilities 
+•    Developing user-facing applications using  Vue.js 
+•    Building modular and reusable components and libraries 
+•    Optimizing your application for performance 
+•    Implementing automated testing integrated into development and maintenance workflows 
+•    Staying up-to-date with all recent developments in the JavaScript and  Vue.js  space 
+•    Keeping an eye on security updates and issues found with  Vue.js  and all project dependencies 
+•    Proposing any upgrades and updates necessary for keeping up with modern security and development best practices 
+Skills 
+• Expertise in working with RESTful APIs, JSON etc. 
+• Strong expertise with HTML5, CSS3, and writing cross-browser compatible code. 
+ • Good understanding of AJAX and JavaScript Dom manipulation Techniques 
+• Good to have experience with Angular or React. 
+• Experience with the full web stack performance optimization techniques 
+• Familiar with unit-testing frameworks 
+• Experience with Git, Jenkins, build and deployment tools 
+• Ability to represent the data in the most readable and efficient manner using charts, smart objects, tables etc. 
+• Experience designing and building cloud native applications on Azure will be an added advantage 
+• Critical thinker and Excellent communication skills & analytical skills 
+• A strong curiosity about our clients’ business needs coupled with a passion to stay on the cutting edge 
+• Experience with Agile Development Practices 
+• Must be an Individual Contributor and able to handle deliverables without supervision 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  S. M. Last reply: 8 months ago  Taiwan 
+ USD 250 - 500 
+ 8 months ago 
+ Increase Seo on Facebook, Instagram, and Twitter 
+ Published: 8 months ago  Bids: 8 
+ I have a small web presence with a website representing a church school  I would like to increase the visibility for Facebook, Twitter, and Instagram to include short articles that have been previously prepared and photos that would be supplied.  Theses Facebook an Twitter Accounts have been set-up for several years, but have been inactive for +1 year. 
+ Category  : Sales & Marketing 
+ Subcategory  : Advertising on Google, Facebook 
+ What do you need?  : Medium-sized campaigns 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  K. S. United States 
+ USD 50 - 100 
+ 9 months ago 
+ X-cart 5 Develper 
+ Published: 9 months ago  Deadline: 3 Bids: 1 
+ Description 
+I need a X-cart 5 develper who can fix bug on template and core fixing 
+According to design you have to set it in pixel exactly 
+1. Home page 
+2.Product page 
+3.Category page 
+4. Vendor page 
+5. 
+Checkout 
+6. All static pages ( for example Sing in, Cart, invoice and ect.) 
+ Time 4 week 
+Budget 500$ 
+ Payment after work is done 
+ Please without agencies and scammers 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  P. Croatia 
+ USD 250 - 500 
+ 10 months ago 
+ Website Screens And App 
+ Published: 10 months ago  Bids: 0 
+ Create account: the pastor / user when entering the site will be able to create the account to manage his church. 
+(There is no need to do the hotsite, only the access programming. The website design is up to us) 
+ Login: the pastor / user will login to access the system. 
+ Recover password: the pastor can recover his password by receiving a link by email. 
+(There is no need to do the hotsite, only the access programming. The website design is up to us) 
+ My Account (profile): the pastor / user logged in the system will be able to edit his own data. 
+ Name, email, password, payment, etc. 
+ Users: the main login (pastor / user) can create logins for other users to also access the system. 
+The main login will create access profiles. Limiting access according to the profile chosen for each user. 
+ The user profile may or may not access the selected modules. And you can also choose which churches / branches the user will have access to. 
+ Senior administrator user - does it all in all churches 
+Example: this user accesses the "People", "Heritage", "Events" screen, etc., Of all churches (headquarters and branches) 
+ Branch administrator user - does everything only at the authorized church / branch. 
+Example 1: this user accesses people, heritage, events, etc., Only from his church / branch. 
+Example 2: He will create a user account for John to access only the "People" screen. John can only see the people at this church / branch. 
+ Example 3: The Senior Administrator User can prohibit that user from accessing the "Financial" screen. Then, that user will be able to do everything in this church / branch, except access the "Financial" screen. 
+ People 
+This is a register of people from the church. They can be "member" or "non-member". 
+Anyone can download the app and create an account. 
+ After this registration (account / login in the app), this registration will appear on this screen. Here the pastor will approve as "member" or "non-member". 
+ At the top of this page there will be a table or in the form of  , or  , or  . You will have the registrations recently made by people on their own private phones through the app. 
+The pastor approves as "member" or "non-member", or excludes.
+ Once approved, the registration disappears from there and appears in the table below. This second table will contain all those registered. 
+ Note: this screen will have a modal so that the pastor can also include someone who does not have a phone for example. Whoever does not have a phone, on this screen the administrator can register anyone. 
+ Churches 
+When the pastor creates his account for the first time on the "create account" screen on the website. A field will be for the name of the church. And when he finishes, the pastor already enters the system with a registered church. 
+ This church will be the main one by default. But, he will be able to create other churches (branches). 
+To use the system he will pay a fee. 
+ Example 100.00 for the main church. For each church he adds he will have to pay an additional cost, for example 30.00 per church. 
+That is, if he creates the account and adds 2 more churches, he will pay 160.00 per month. 
+ 100.00 the main. 
+R $ 30.00 the filial church 1. 
+And R $ 30.00 for the branch church 2. 
+ Dashboard 
+If the user is the Senior Administrator User, they will see the dashboard with data for all churches. Statistics and percentages of all. 
+Example: (if church / branch A had 5 new people registrations, and branch B had 3 new ones) that user will see "People: 8" (total). 
+ If the branch administrator User , is from church / branch A, he will see only "People: 5". 
+If it is from church / branch B, he will see only "People: 3". 
+ System HEAD 
+In the HEAD of the system you will have a combolist with the name of the churches / branches. For the Senior Administrator User, the default is the "all" option, so that he can see all the data for all churches together. 
+Example: if you have in this list selected "all". 
+ When he goes to the "People" screen, he will be able to see all people from all churches / branches. If he later goes to the "Events" screen, he will only see events from that church / branch. If he changes in HEAD "all" to "church / branch A". 
+ Wherever it goes in the system, it will only display data from "church / branch A". 
+ If the pastor / user has more than one church, the dashboard will be with data from all churches. 
+Example: Total number of registered members, from all churches. 
+At the 
+In the upper right corner, you will have a combolist with the churches. 
+ When the pastor logs in, he will open the main church. The dashboard is from the main church, the People screen will appear only people from the main church, etc. 
+At the top, if he clicks on the church list and changes to branch 1, the data is only displayed for church 1. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.), Payment Processor (Paypal, Stripe, etc.) 
+ Roles needed  : Developer 
+ Published by:  D. P. Brazil 
+ USD 250 - 500 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

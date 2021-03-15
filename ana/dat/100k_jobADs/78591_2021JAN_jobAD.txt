@@ -1,0 +1,129 @@
+Skip to content    
+ 
+ Michael Sheyahshe 
+ 3D Artist | Author | Comic Books | Technologist 
+ 
+ About Me 
+ Publications 
+ Lectures & Presentations 
+ Professional Career 
+ eLearning Content Examples 
+ Education 
+ Contact me 
+ More 
+ 
+ July 2, 2018April 18, 2019  by  Michael Sheyahshe 
+ Professional Career 
+ **CIO & CREATIVE TECHNOLOGIST - ANM 
+** 2005 - Present 
+ aNm  is a Native American / Indigenous –owned consultancy that provides custom creative and technical solutions: comics and graphic novels; software and mobile app development; interactive 3D simulations and video games; and 2D animations. aNm is proud to count among its numerous clientele:  Caddo Nation of Oklahoma  ,  Chickasaw Nation Industries  ,  Comanche Nation Cultural Center and Museum  ,  Iowa Tribe of Oklahoma  ,  Pawnee Nation  , and the  Smithsonian Institution’s National Museum of the American Indian . 
+ 
+ "Michael is a talented professional who brings creative, innovative approaches to any project he undertakes. His knowledge of the latest technologies is truly unparalleled. He would be a strong asset to any team!" 
+ Karen Paul  , CFRE 
+Director of Development | Grants | Foundations 
+ 
+ **SENIOR WEB DEVELOPER - PEARSON 
+** 2016 - 2019 
+ Integral part of Pearson’s Learning and Development team that designs and develops innovative and engaging learning solutions. 
+ 
+ Designed and developed bespoke and learner-centric eLearning content and applications leveraging responsive web design built with rapid-development tools –  Captivate  ,  Storyline  , etc. – and  model–view–viewmodel  (MVVM) framework,  EmberJS . 
+ Integral member of migration team for enterprise-level learning management system (LMS). 
+ Organized recurrent in-depth discussions among various members of accessibility team on establishing best practices to ensure eLearning content met  WCAG 2.1 AA  conformance. 
+ Steered vital informational presentations and real-world demonstrations of innovative technology for more engaging and immersive learning content to key line-of-business participants. 
+ 
+ 
+ "I have had the great pleasure of working with Michael across various projects during our time together at Pearson and I always learn something new when I partner with him. Michael is extremely creative, thoughtful and considered and helps those who may not have the same level of knowledge to really understand the details and learn at the same time. Michael is a fantastic thought partner with a high level of integrity and I would not hesitate to either work with him in the future or recommend him as he would be an asset to any team and business." 
+ **Jennifer Parry 
+**Global Learning and Development Manager at Pearson 
+ 
+ **DIRECTOR OF LEARNING TECHNOLOGY - ADVANCED NETWORK INFORMATION (ANI) 
+** 2014 - 2016 
+ 
+ Provided highly customized instructional content development utilizing multiple programming code languages, development tools, and integrated development environments (IDE)s. 
+ Piloted proof-of-concept curated learning content  software-as-a-service  (SaaS) platform built with  Drupal  backend. 
+ Primary point-of-contact for development of custom learning solutions for Institute of Electrical and Electronics Engineers (  IEEE  ),  Visa  , and  Cisco . 
+ 
+ 
+ "I worked with Michael and his team to develop a large-scale training program (targeting 1000+ employees) in our division at Cisco. ANI effectively translated basic learning material of varying maturity into an end to end interactive, dynamic two-hour training. In our engagement with Michael's team at ANI, our expectations were either met or exceeded. We received the support we needed in terms of progress reports, showcase/demonstration and technical clarifications. Michael is not only skilled in his field, but a great collaborator and communicator. I recommend him without reservation, and hope to work with him again in the future. Thank you, Michael!" 
+ **Silma Lange 
+**People Development | Diversity and Inclusion | Sales Enablement 
+ 
+ **SOFTWARE DEVELOPER - ICF INTERNATIONAL 
+** 2011 - 2014 
+ 
+ Authored 3D modeling, animation, simulation, video games for  US Army  , Federal Emergency Management Agency (  FEMA  ) and Federal Aviation Administration (  FAA  ) Aviation Safety Inspectors (ASI) program. 
+ Created custom 3D models and authoring immersive 3D simulations for US Air Force Air Force Medical Modeling and Simulation Training (  AFMMAST  ), Defense Security Service (  DSS  ), and the  FAA  Aviation Safety Inspectors, Interactive Systems Review (ISR). 
+ 
+ 
+ "Michael is one of the most creative individuals I have had the pleasure of working with. He has the rare ability to easily traverse between technical, creative, academic, and artistic worlds. He has an ability to pull disparate team members together and to accomplish complex tasks under tight deadlines. His ability to communicate effectively with other team members and his expertise in eLearning technology made Michael a ‘go-to’ person for many important projects and proposals. Michael also published and presented at conferences represented ICF skillfully, and helped to establish connections with valuable partner organizations and businesses. Michael is a tremendous asset to an organization or team." 
+ **George Napier 
+**Managing Principal at Soundware Media 
+ 
+ **DESIGNER - 3D GRAPHICS ARTIST - RAYTHEON PROFESSIONAL SERVICES 
+** 2008 - 2011 
+ 
+ Developed interactive media for  FAA  Air Traffic Control curriculum leveraging 2D and 3D models, assets, simulation, and animation; video graphics; and various computer programming languages. 
+ Created of  3D models  of various aircraft for use in air traffic controller curriculum. 
+ 
+ 
+ "Michael is a creative professional whose rigorous love for learning and exploring new ways of visualizing have propelled him to success in very dynamic fields. He is a consummate professional whose talents are many and varied; during the time we worked together on the ATISS Contract at the FAA Academy, I had several opportunities to witness his creativity, meticulous attention to detail, and going ‘above and beyond’ firsthand. He is an excellent communicator, a fantastic artist, and an all-around great guy." 
+ Tammara Williams-Dias 
+Instructional Systems Designer, Educator and Academic Technologist 
+ 
+ **INSTRUCTIONAL DESIGN SPECIALIST - COLLEGE OF PUBLIC HEALTH, UNIVERSITY OF OKLAHOMA HEALTH SCIENCES CENTER 
+** 2005 - 2008 
+ 
+ Provided support and consultation for instructional technology, simulation training, and serious game development. Administrated custom Learning Management Systems (LMS). 
+ Initiated development of virtual simulation training module for first-responders. 
+ Chaired committee on Ethnic and Cultural Minority Populations and co-authored CDC publication. 
+ 
+ 
+ "Michael has been a tremendous asset to the Southwest Center for Public Health Preparedness. He has served as the lead for development of game and simulation training modules, designed a newsletter and blog to disseminate timely information and announcements, developed and maintained a learning management system and tools, and has been an integral figure in determining future goals of the agency. He is a pleasure to work with, is conscientious and meticulous, and has been committed to identifying future funding opportunities." 
+ Tracey Burton 
+Program Coordinator, Southwest Preparedness and Emergency Response Learning Center 
+ 
+ **MULTIMEDIA EDUCATION SPECIALIST - COLLEGE OF NURSING, UNIVERSITY OF OKLAHOMA HEALTH SCIENCES CENTER 
+** 2003 - 2005 
+ 
+ Maintained, scheduled, and provided technical support for college’s videoconferencing and distance learning technology. 
+ Created Request for Proposals (RFPs) for technology upgrades. 
+ Interim LAN Administrator. 
+ 
+ 
+ "Michael was our technical support contact for OUHSC IETV classes. Michael was always eager to help resolve the technical difficulties and get the students back online. We've worked together on many different occasions troubleshooting IETV issues, resolving some and finding working alternatives for others. It's been my pleasure to work with Michael; his helpful, eager attitude and knowledge of telecommunications issues made solving IETV problems almost fun." 
+ Terry DeBock 
+Academic Center Math Instructor/Coordinator at Autry Technology Center 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Post navigation 
+ Previous Education 
+ Next Lectures & Presentations 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Blog at WordPress.com. 
+ Create your website at WordPress.com 
+ Get started 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

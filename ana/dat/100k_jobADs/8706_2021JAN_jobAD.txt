@@ -1,0 +1,182 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Senior Full Stack Engineer [REMOTE] 
+ at Stay Nimble 
+ go back to Developer Jobs 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤65000 - ₤80000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤65000 - ₤80000 per year 
+ 
+ 
+ apply now 
+ 
+ Senior Full Stack Engineer 
+ https://staynimble.co.uk 
+ Full Stack Developer | London | £65,000 - £80,000 
+ Stay Nimble is a fast-growing, social enterprise start-up building a unique digital career coaching platform to support millions through career change and to find their purpose in the new world of work. The platform guides people through a journey profiling their strengths, using an algorithmic approach to suggest well-matched career options and directing them to access best-in-class learning and career coaching resources tailored for their needs. 
+ About The Role 
+ As an engineer at Stay Nimble: 
+ 
+ Build amazing user experiences with a small dedicated team. Work with the CTO, product director, designer and existing full stack developer, taking ideas from discovery through user testing to production. 
+ Building APIs in our Kotlin backend 
+ Building delightful user experiences in our React JS front end 
+ Evaluate the (business and technical) performance of delivered features in production 
+ Help us improve our process, tooling and work environment by participating in retrospectives 
+ 
+ From an engineering perspective we value… 
+ 
+ A pragmatic balance of speed and quality, we believe that high quality tested code allows us to experiment faster. 
+ Using XP techniques like: TDD, Pair Programming, CI, Simple Design and Sustainable Pace to embed quality into our product 
+ 
+ At Stay Nimble, we do things differently to many businesses. We have always been a fully remote company, allowing you to do your best work where you want. To take advantage of this we're looking for good communicators who can self organise and are comfortable working in an asynchronous way. 
+ **The Stay Nimble Tech Stack:  ** 
+ 
+ Kotlin REST API  (Don 't know Kotlin? We can teach.) 
+ Spring Boot 2.X Framework 
+ MySql / Redis 
+ React JS 
+ Webpack 
+ Bootstrap 4 (SASS) 
+ Node Package Manager 
+ Google Tag Manager 
+ AWS Infrastructure - ECS Fargate, SQS, SES, VPC 
+ 
+ **Requirements  ** 
+ We're looking for a full stack engineer with experience working on the JVM and in developing React JS applications. 
+ 
+ 
+ Experience developing on the JVM preferably using Spring Boot 2 
+ 
+ If you don't know kotlin but have used other JVM languages we can teach 
+ 
+ 
+ 
+ Experience building React JS applications 
+ 
+ 
+ Good working knowledge of HTML / Bootstrap 4 and building responsive web applications 
+ 
+ 
+ Hands on experience with a range testing techniques and tooling across the stack (Our testing stack - Jasmine, Puppeteer, JUnit, Mockito, AssertJ, AATT) 
+ 
+ 
+ Strong planning and communication skills. 
+ 
+ EG - work with others to formulate a plan, communicate it together with an analysis of strengths, weaknesses and risks. 
+ EG - independently communicate with external stakeholders (business or technical) to support the development of new features 
+ 
+ 
+ 
+ Benefits: 
+ 
+ Competitive Salary + Stock / EMI Scheme 
+ Company Pension Scheme 
+ Company Macbook Pro and generous equipment budget to get your perfect setup 
+ Work where you think best with fully remote, flexible working 
+ Enjoy the time-off you need with a generous holiday package of 25 days + Bank Holidays + Christmas Office Closure 
+ In person meetups twice per year to deep dive into company roadmap and strategy 
+ 
+ About Stay Nimble 
+ Launching in 2018, we've made a great start building an exciting product which we offer to individuals looking for career coaching, to organisations supporting their employees and to public sector organisations helping their residents. We're growing quickly with an exciting set of unique, new features to build and we're looking for a Full Stack Engineer to join the team. 
+ At Stay Nimble, you'll also be joining an organisation with a strong social purpose as a UK-certified social enterprise.  We're ambitious to help millions from all backgrounds on their career journeys helping people build resilience, confidence and new skills in the face of rapid changes to local labour markets. We're driven by reducing unemployment, supporting the 4m in in-work poverty, helping the 40% of us who hate their job, and the millions of us who do not know where to turn for information on changing jobs. Joining Stay Nimble, you'll be joining us on this journey! 
+ We follow the principles of the  Blueprint for Better Business , convinced that business should respect people and be always contributing to a better society. We put trust and mutual respect for each other at the heart of the business, creating a working environment that helps people thrive. 
+ Published at 25 Feb 2020 - Expires on 23 Jan 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

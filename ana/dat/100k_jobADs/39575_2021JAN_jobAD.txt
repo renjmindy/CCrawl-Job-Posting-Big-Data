@@ -1,0 +1,140 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Routable (S17) 
+ We're building the simplest way to send and receive business-to-business payments. If you’re thinking “are they a replacement to Bill.com” then you’re spot on! 
+ Senior Technical Product Manager 
+ 
+ Location 
+ / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Routable 
+ Routable is simplest way to send and receive business-to-business payments. 
+ ✅ Send payments to vendors with just an email 
+ ✅ Get paid faster and keep track of unpaid invoices 
+ ✅ Automatically update your accounting software of choice 
+ We started Routable due to our personal experiences scaling business payments. 
+ Having built in-house solutions, custom integrations to accounting software, and understanding the importance of payments visibility to entire teams, we decided to devote our time to ensuring that companies can be set up with a solution that works for their finance and accounting needs today and in the future. 
+ About the role 
+ 🔮 Product Management at Routable 
+ You would be our second product manager here at Routable. You will work with our design, QA and engineering teams to help shape our product development and engineering culture.It’s a unique opportunity to influence how to build an amazing product that customers love. 
+ 🔍 Key Areas of Focus 
+ 
+ Ramp up your expertise in the business payments domain to a develop deep understanding and empathy for our customer’s pain points 
+ Obtain comprehensive product knowledge 
+ Develop a deep understanding around our business goals and how they correlate to our product roadmap 
+ Prioritize the team’s deliverables, capture any dependencies, and highlight any potential roadblocks 
+ Keep our product development team on track to hit our sprint objectives, by understanding any interdepencies, surfacing any blockers, and serving as a continuous feedback loop for the team 
+ Talk with our customers to more deeply understand the problems that we can address for them 
+ Own our product requirement documentation, keeping it comprehensive and up-to-date 
+ Distill our product feature requirements into an actionable backlog of epics and tickets (JIRA) 
+ Pair with our QA team to produce clearly defined acceptance criteria and tests for our product 
+ Be a true champion of accurately scoping work 
+ 
+ 🕵️‍♀️ Who we’re looking for: 
+ 
+ You love to build systems, processes and tools 
+ You are a master in collaborating with teams across the organization -You are a highly skilled communicator 
+ You are data driven 
+ You have ample technical, design, and analytics skills 
+ You love to support others, ultimately wanting the team to succeed 
+ You are a quick learner, and hungry for product mastery 
+ You are thrilled about working in a fast-paced start-up environment (you're not a 9-to-5-er) 
+ 
+ 💻 Need to have: 
+ 
+ 3+ years experience as a Technical Product Manager 
+ 3+ years experience working with JIRA, or other product management tools 
+ 3+ years experience analyzing product metrics, funnels and making data driven decisions 
+ Experience with managing remote software development teams 
+ An analytical mind and strong quantitative skills 
+ Ability to thrive in an autonomous environment, and manage projects through to delivery 
+ Strong product development lifecycle understanding 
+ Strong people and project management skills 
+ Empathy and the ability to connect with others on many levels 
+ Sound business intuition and solid technical judgement in project planning and decision making 
+ High oral and written communication proficiency 
+ You’ve contributed code and/or design to a live product that serviced thousands of users 
+ 
+ ➕ Nice to have: 
+ 
+ Experience managing SaaS product development 
+ Experience with financial products or services 
+ You know how to code 
+ 
+ Benefits 
+ 🚀 Remote 
+ 
+ We are a remote friendly culture! 
+ Rather than restrict ourselves to only find talent in one city, we’d rather find the absolute best people regardless of where they live. One amazing benefit to our remote culture, is that it enables our team to enjoy traveling ✈️ more regularly since they can literally work from wherever! 
+ 
+ 🤠 Rendezvous 
+ 
+ To help foster amazing relationships with our coworkers, we meet up quarterly as a whole team in some pretty awesome cities! 
+ In the past we’ve met up in San Diego, Seattle, and Austin. 
+ We’d rather invest money into memorable team events rather than expensive offices. 
+ During our meet-up team time, we love to spend time learning a new skill together, and solving problems. 
+ Most recently this has taken on the form of a bread-making class and defeating an Escape Room. Yeah.. We love to compete together as a team. 
+ 
+ 🧘‍♀️Recharge 
+ 
+ We encourage our team to relax and recharge each weekend. 
+ We’ve all been a part of startups before, and know how important it is to take care of yourself so that you can consistently contribute your best. 
+ Quality downtime enables quality uptime. 
+ Yes, we do have super-humans on the team, but even they need their R&R. 
+ 
+ Some Perks 
+ 🏥 Amazing health insurance 
+ 😁 Dental insurance 
+ 👀 Vision insurance 
+ 📈 Stock options 
+ 🚀 We're a remote team 
+ 📅 Unlimited PTO 
+ Technology 
+ 💻 Fronted stack: React / Redux 
+ ⚙️ Backend stack: Python (Django) 
+ Other jobs at Routable 
+ Principal Software Engineer 
+ fulltime 
+ United States / Remote 
+ Backend 
+ 11+ years 
+ Head of Sales (B2B)  
+ fulltime 
+ United States / Remote 
+ 6+ years 
+ Senior Product Designer 
+ fulltime 
+ / Remote 
+ UI / UX 
+ 6+ years 
+ Senior Full-Stack Software Engineer 
+ fulltime 
+ / Remote 
+ Full Stack 
+ 6+ years 
+ Software QA Manager  
+ fulltime 
+ / Remote 
+ Engineering Manager 
+ 6+ years 
+ Senior Technical Product Manager 
+ fulltime 
+ / Remote 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

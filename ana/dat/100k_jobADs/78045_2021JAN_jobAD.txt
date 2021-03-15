@@ -1,0 +1,69 @@
+Skip to content 
+ 
+ Workship 
+ Workship Blog 
+ Menu 
+ 
+ Blog 
+ Login 
+ 
+ How To Get Through Google's Interview Process: Inside Information 
+ Published Apr 24, 2020 
+ Inside information about the Google Interview Process revealed by an Ex-Googler, that will help you get an edge over the other candidates! 
+ A nearly trillion-dollar company, with over 1,00,000 employees Google is becoming an empire in itself. More than one-fourth of this empire consists of software developers, who drive  2 billion lines of code  in Google’s repository. Not an easy task, right? 
+ That’s why Google is extremely cautious about adding new members to its team. Out of more than  2 million applications  (twice the size of its existing workforce!)  that it receives every year, Google hires only about 15,000 employees. This ratio is one-tenth of the selection ratio at Harvard, so you are more likely to get through Harvard than get a job at Google. 
+ Filtering out the perfect candidate from a lot this size, cannot be easy. So, Google has a rather elaborate and structured hiring process. It starts with a recruiter screen and a telephonic round, followed by a series of technical interviews, finally getting you to the hiring committee which decides your fate. Once past the hiring committee, you offer is just a few reviews and compensation discussions away. 
+ **Here’s what Google’s hiring process looks like:  ** 
+ Source:  Visually 
+ While each step of the hiring process has its own value, the most crucial part is the technical interview rounds that you have to get through. Fortunately, the number of interviews conducted for candidate selection was reduced down from 12 to 4 in 2016, after  Google's People Analytics Team’s study which examined five years of interviewing data and feedback.  Post that, Google found out that “four interviews were enough to predict whether someone should be hired at Google with 86 percent confidence." 
+ Even with four rounds, the process is as concrete as it can get, and cracking it is not a cakewalk. So, we decided to consult someone who has been on both sides of the table. As an Ex-Googler, who was also on Google’s interview panel for nearly 7 years, Rodney Martis has insights about the Google’s Interview Process, that are not common knowledge and cannot be found on well, Google search! 
+ Here are 5 learnings from our discussion with Rodney Martis, who took over 200 interviews at Google. If you’d rather prefer to hear from the horse’s mouth, watch our discussion here: 
+ 5 Things About Google’s Interview Process Revealed By An Insider 
+ 1. You can get to Google, even if it doesn’t come to your college. 
+ As a fresh college graduate, you should not get dejected if Google does not recruit from your college. If it’s your dream company, there are several other ways you can try. First of all, of course, there’s its  referral system.  If you know someone already working there, or can befriend someone from the company via Linkedin, they can become your way in. Rodney, however, had a better way for you. 
+ “Google also has these  coding competitions  regularly, where you can continuously take part and improve your rankings to get noticed.” Adding a word of caution, Rodney said, “Coding competitions may help you get noticed or prepare for your interviews, but they will not be a deciding factor in your selection.” 
+ On similar lines,  Google Summer of Code  is a great way and one of the most efficient techniques to crack Google. It’s a global program for college students, which if you are selected to, gets you direct mentorship from Google to work on a 3-month open-source software development project. 
+ Lastly, you always have the option of applying through  Google Careers.  
+ 2. **Do a holistic preparation, and be ready to be surprised.  ** 
+ Well, it’s obvious that getting through Google will require you to prepare a lot. But what Rodney wants is for you to do a more rational preparation and covering the basics. To do that, he highlighted three major preparation tacts: 
+ Strengthen your CS fundamentals and understanding of time-space complexity 
+ Any technical interview will definitely judge you on your CS fundamentals. So, even if you are an experienced candidate, don’t overlook the fundamentals. Any interview would have three types of questions for you:  algorithm, data structure and system design.  The type of question your interviewer chooses to ask, depends on them and your experience. 
+ “Google never recruits a person for a particular role. So the interview is very generic. They check out your ability to solve problems, your coding ability, or CS fundamental ability. And the idea is that if you clear that bar, you can work in any team in Google”, revealed Rodney. 
+ Another key aspect often judged in interviews is your analysis of  time-space complexity,  so you should be prepared to tackle questions related to it. Because as Rodney mentioned, “ Until there's a P0 issue in the code that you have written and your system is down and you have to sit and solve it, you won't know how important time and space complexity is in a production system.” 
+ Prepare questions from sources, but don’t expect the same questions in the interview 
+ There are a lot of resources available online claiming a list of questions that you could prepare for your Google interview. They would be questions revealed by certain candidates who went through Google’s Interview Process or were involved in it in some manner. However, there’s a catch there. 
+ Google’s more prepared for the interview than you are. Rodney shares, “Google has an  internal question bank,  which is accessed by all its interviewers. And when anyone from the team feels that  a question has been leaked, they blacklist that question.  And you're not supposed to ask a blacklisted question in the interview.” There’s a high chance that all the questions you prepared for, have already been blacklisted by Google as it knows very well that they’ve been leaked. With that said, there’s no harm in practising those questions anyway. “If there were, let's say, five questions, which are banned by Google, and if you are able to solve those five questions, your chances of solving a brand new sixth question are much higher. So, that knowledge definitely gives you an experience.” 
+ Interview elsewhere first, before sitting for your Google Interview 
+ A key part of preparing for interviews is taking interviews. If you have a dream company, and that's Google for you, sit through a couple of interviews to get familiar with the interview environment. Sharing a personal anecdote, Rodney said, “For one of the companies I interviewed with, I got rejected in the telephonic round due to a question I couldn’t crack. When later I tried to solve it, I found that it required the use of Hashmaps. Learning from that experience, every question I was posed in interviews after that, I tried to gauge whether a Hashmap can be used here to get an optimised solution.” 
+ So, you get a lot of learning from introspecting on how you performed at interviews. 
+ 3. **Your interviewer will try to help you.  ** 
+ Interviewers are shouldered with the responsibility to help Google filter out unfit candidates and choose the right ones. To do that, they have various  tacts up their sleeves  to know you better. The first part of that is to make you feel comfortable in an interview so that you do the coding and answer the technical questions with a relaxed mind. Not just that, they don’t want to let go of a good candidate just because he missed the right data structure to use in the question. So, they are prepared with hints to help you get to the solution. 
+ And that’s a key way to judge you. “If the candidate optimised the code without needing a hint, it will be highlighted in the feedback. If there was a very direct hint given and the candidate didn’t pick it up, it will be highlighted too.” So, you should be keenly listening to your interviewer. When your interviewer says, “Why are you using this data structure?”, they are probably hinting that you are heading in the wrong direction. 
+ 4. **Communication is important but in limits.  ** 
+ To know your capabilities better, your interviewer needs to understand your  thought process.  And you can help them by communicating the process you are following while working on the solution during the interview. 
+ “The key is to communicate but not overdo it. Once you get a problem, you should take some time to understand the problem. Go through a few solutions in your mind before talking aloud. If you just jump on and start talking aloud and bring in all kinds of data structures, it looks really bad. At the same time, it’s difficult to judge a candidate who was silent for 20 minutes, and then at the end of 20 minutes, says, this is the solution. He may be right or wrong, but I won’t know the process he followed.” 
+ 5. **A single person is not responsible for deciding your fate.  ** 
+ One bad interview round, and you start feeling dejected and hopeless that you won’t get through? Well, one bad interview cannot decide your selection at Google. Google ensures a rather fool-proof plan to cancel out the possibility of someone’s selection based on a one-off performance. 
+ To do that, first of all, interviewers at each round, are not aware of the feedback shared by the interviewer before them to avoid any prejudice against the candidate. So, whether you rocked your previous interview or you couldn’t make a good impression, either way, you would have a clean slate in the next round of interview. It is only after all the four rounds that the interviewers get to know each other’s feedback. 
+ Even then, the final decision is not theirs. A hiring committee which rationalises and analyses each of the feedbacks takes the final decision. “The committee understands the interviewers better. So, if they know that an interviewer is strict, then they’d consider a “No Hire” feedback as a “Hire” feedback but probably not a “Strong Hire”.” 
+ Hope these insights helped you understand the Google Interview Process better. We are regularly engaging with leaders and experts across the industry to understand the landscape better and help you prepare for growth. Know more about our latest webinar and register for free  _here.  _ 
+ Published by Workship 
+ Workship is a tech-driven recruitment portal for amazing job opportunities in tech-startups in India. Find your next startup job now!   View all posts by Workship  
+ Leave a Reply  Cancel reply 
+ Your email address will not be published. Required fields are marked * 
+ Comment 
+ Name * 
+ Email * 
+ Website 
+ Post navigation 
+ Previous Previous post: 5 Myths About Remote Work That Every Employee Must Let Go 
+ Next Next post: Preparing For And Dealing With An Economic Recession 
+ 
+ Start Now 
+ Blog 
+ Privacy Policy 
+ For Companies 
+ About Workship 
+ 
+               
+ (C) 2021 Sadepach Labs Pvt. Ltd. 

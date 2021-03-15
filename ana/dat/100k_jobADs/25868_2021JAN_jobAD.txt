@@ -1,0 +1,47 @@
+Skip to content 
+ GOTO 0 
+ thoughts about programming 
+ Search for: 
+ All Topics 
+ 
+ Design 
+ Erlang 
+ Functional Programming 
+ iOS 
+ Other 
+ Startup Life 
+ Test Driven Development 
+ Uncategorized 
+ 
+ Other Readings 
+ 
+ Hacker News 
+ Lambda the Ultimate 
+ Programming in the 21st Century 
+ Sealed Abstract 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ I like the feeling of beauty inside a program. Not just any program. My background has been focused around OOP, but I am trying to branch out into other territories, such as Functional Languages. I want to go back to an idea of simplicity. 
+ the letter   e  @  cubelogic   dot   o  -  r  -  g 
+   me  on Twitter 
+   cubelogic  on Twitter 
+   my code  on GitHub 
+   me  on Goodreads 
+ Tag: steve jobs 
+ Steve Jobs 
+ apple.com 2011-10-05 at 10.43.35 PM 
+ When  Steve Jobs  died, the world lost a complex visionary. The asshole who declared floppy disks obsolete in circa 1989. The weirdo that gave us the  NeXT cube , with its absurd magnesium body, its beautifully architected OS and this obscure language no-one else was using, Objective-C. The man who gave a name to those strange devices called "MP3 players" that nobody was using, and who insisted on the necessity of single-button mice. Not forgetting the businessman unafraid to admit his LSD experiences. 
+ You don't see too many people like that. More holistically, this guy made me understand that engineering and business can meet with art and idealism, and for that I am grateful. 
+ By  ettore in  Other October 5, 2011January 29, 2016 126 Words Leave a comment 
+ Create a free website or blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

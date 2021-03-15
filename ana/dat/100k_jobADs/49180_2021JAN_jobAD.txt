@@ -1,0 +1,301 @@
+Skip to main content 
+ Javascript is disabled on your browser. In order to display this website properly, please enable javascript. 
+  Workiva Workiva.com  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Partners 
+ Connectors 
+ Security 
+ 
+ 
+ Solutions 
+ 
+ Capital Market Transactions 
+ Internal Audit Management 
+ Management Reporting 
+ SEC Reporting 
+ SOX Compliance 
+ Statutory Reporting 
+ + 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ Industries 
+ 
+ Banking 
+ Energy and Utilities 
+ Government 
+ Higher Education 
+ Insurance 
+ Investments 
+ + 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Customers 
+ The nicest thing about the Workiva platform is just feeling in control. 
+ ](/customers) 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Education 
+ 
+ Community 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Off the Books Podcast 
+ Surfing the uncharted waters of accounting, finance, and wherever else the waves take us. 
+ ](/off-the-books-podcast) 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Request Demo 
+ 
+ 
+ Sign In 
+ 
+ 
+ Menu 
+ Giving back: dsmHack 2020 
+ April 17, 2020 
+ Mark Rusciano 
+ dsmHack was held  Thursday, March 5 – Saturday, March 7, 2020 
+ Hackathons are generally multi-day events where teams compete to develop a piece of software to meet a certain set of criteria. An example might be: create an application that takes full advantage of all the fancy sensors on a new mobile device. Participants will often pull all-nighters, fueling themselves with endless free food and energy drinks. Since most hackathons only last 48 to 72 hours, it is the ultimate test of paring down a list of software requirements to what’s called the “MVP” or “minimum viable product” – the absolute minimum set of features that would allow a product to serve its intended purpose. At the very end of the event, each team presents their finished, or not-so-finished project and the judges announce the winners. 
+ Held at the beginning of each year in Des Moines, Iowa, dsmHack has teams, projects, snacks, and energy drinks, but no winners.  Instead, dsmHack is a charity hackathon where team members volunteer their time and talents in order to solve a software-related problem for a non-profit organization. Everyone wins! This was my third year participating in dsmHack, and there hasn’t been a year when a charity walked away without a working solution to their problem. 
+ Workiva provides us eight hours of “volunteer time off” each year to give back to our community. I chose to use mine by volunteering at dsmHack again this year because it’s a meaningful way I can work with my incredible colleagues and also give back to non-profits doing important work in the community. It’s also a lot of fun! 
+ At the start of the event, participants interview the various charities to find a match for their technical expertise and interests. Once matched, that group of individuals becomes your team. My team this year included a mix of software engineers, product managers, delivery managers, and UX designers from Workiva and other organizations. 
+ With the clock already ticking, we worked to learn every detail about our charity: DMARC United, an Iowa food bank. We needed to understand their problem and what they hoped to get out of a solution so that we could determine the requirements of our build. Then we grouped those requirements into MVP requirements and nice-to-have features. 
+ Our project was to modify the existing DMARC United website to allow users to update their information using a laptop or mobile device. This feature is especially important because it determines the amount of food a user can request. 
+ To be successful at dsmHack, above all, your software needs to work. At Workiva, features are produced with the customer use case in mind. At dsmHack we needed to ensure all users could be successful with the solution we developed, meaning the project must be usable by the members of the charity without requiring a course in software engineering. 
+ User-experience, bug fixes, and validating common user workflows were all critically important parts of our work to ensure the solution could be “put into production” the minute after the closing ceremonies. Having an inclusive, multidisciplinary team allowed us to view the problem from different perspectives. Each team member was able to leverage their strengths: from planning functionality, to delivering that functionality on-time, to polishing the user-experience. At each roadblock, we found solutions that would be sustainable for the non-profit to maintain on their own. 
+ All of this collaboration paid off with a fully functional solution wrapped up in the last few minutes of the hackathon! We were even able to build an enhancement to the system: a new online storefront that lets users build their order based off of available items at the food bank. This allows the food bank to better plan inventory and more efficiently pack their trailers when making long-haul trips to deliver food to rural Iowa. 
+ At the end of the 48 hours, our team was tired, but incredibly proud of what we had built. Being able to present DMARC United with a working solution to their problem was so rewarding, and getting to do it all with some of my favorite coworkers made it especially fun. 
+ I’m already looking forward to next year’s event – dsmHack is a weekend I’d never miss! 
+ Culture 
+ Giving Back 
+ Software 
+ Teamwork 
+ Testing 
+ 
+ Most Popular 
+ Takeaways from Five Dysfunctions of a Team Training 
+ Workiva One of Fortune Magazine’s 100 Best Companies to Work For 
+ DSM Hack 2018 - My Experience 
+ Popular Categories 
+ Giving Back 
+ Culture 
+ Communication 
+ Leadership 
+ Mark Rusciano 
+ _ 
+ Manager of Solution Engineering 
+ _ Workiva 
+ About the Author 
+ Mark Rusciano, Manager of Solution Engineering at Workiva, works with organizations of many sizes and across industries to help them identify and execute on opportunities to improve their reporting processes. Mark helps organizations understand their current data architectures, develop state-of-the-art visions for the data that supports their reporting, and execute on a plan to move toward their vision. Mark focuses on creating solutions that not only benefit one reporting team, but solutions that can scale to benefit reporting teams across the organization. 
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Connectors 
+ Partners 
+ Security 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Support 
+ 
+ Community 
+ Customer Support 
+ Developers 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Locations 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Twitter 
+ 
+ 
+ YouTube 
+ 
+ 
+ Select Region 
+ 
+ 
+ 
+ 
+ Legal 
+ Privacy Policy 
+ Sitemap 
+ 
+ (C)2021 Workiva 
+ 2900 University Blvd 
+Ames, IA 50010 
+  AICPA  
+ 
+ __ 
+ In the meantime, visit the resources below. 
+ [ 
+ Handbook: Surviving the New Normal 
+ ](/new-normal) 
+ [ 
+ How Sysco and Blackbaud kept business as usual 
+ ](/resources/how-sysco-and-blackbaud-kept-business-usual) 
+ [ 
+ Connected Reporting and Compliance Brochure 
+ ](/resources/connected-reporting-and-compliance-brochure) 
+ Select Region 
+ 
+ Australia 
+ France 
+ Germany 
+ Netherlands 
+ Singapore 
+ United Kingdom 
+ United States 
+ 
+ Online registration is currently unavailable. 
+ Please email  events@workiva  to register for this event. 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Thank you 
+ A Workiva team member will follow up with you shortly. 
+ Thank you for registering 
+ You'll receive a confirmation email shortly. 
+ Thank you 
+ You are now subscribed to receive blog updates. 
+ Thank you 
+ Your preferences have been updated. 

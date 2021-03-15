@@ -1,0 +1,173 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Senior Webapp Developer at YourTour 
+ at YourTour 
+ go back to Developer Jobs 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤36000 - ₤51000 per year 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤36000 - ₤51000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ YourTour 
+ 
+ Website:  virtual-visits.co.uk 
+ 
+ YourTour is an innovative,  well-funded  and ambitious company dedicated to digitally replicating the spatial and emotional engagement of an in-person experience. We work closely with universities in the UK to develop cutting-edge technologies and bring these to market. Our products currently range from a suite of desktop, mobile and web applications that allow our users to create, share and consume 360° video 'virtual visits'. 
+ Our team of engineers work on deep, ground-breaking innovations, part-funded by the UK Government in the form of Innovate UK grants. 
+ Our customers range from heritage to property to education. You'll have the opportunity to work at the edge of research and innovation, whilst at the same time delivering production-ready products to our customers, including Oculus. 
+ 
+ Opportunity: incredible opportunity to push your limits, develop significant experience by owning and delivering mission critical features within our product range. The role is not limited to just software development, you will also be involved in product, strategy and design. 
+ 
+ 
+ Salary: £36-£51k depending on experience, plus share options 
+ 
+ 
+ Experience: 3-5 years as professional software developer (we expect you can jump in and contribute on our web-apps immediately) 
+ 
+ 
+ Contract: 6 months Full Time Contract with possibility for extension, UK residents only due to the nature of our funding and the role is remote. 
+ 
+ What we are looking for 
+ You are a talented and motivated frontend developer who thrives on developing innovative and easy to use web applications. You are independent, proactive, and not afraid to try new technologies or to seek out new solutions. You are committed to delivering excellent user experience and great quality products. 
+ What you'll do 
+ The role is primarily frontend-focused but you will also contribute to other parts of the product life cycle such as backend development, dev ops. 
+ 
+ Design and build a modern, scalable, distributed cloud-based application using cutting-edge technologies 
+ Work on the full life cycle, turning an initial brief into production-ready code 
+ Make technology decisions and contribute to product strategy 
+ Write clean, performant, maintainable and well-tested software that has few regressions 
+ Address issues related to performance, scalability, and reliability 
+ Ensure the codebase meets cross-browser, accessibility and high-speed requirements 
+ The first project will involve in refactoring and improving our web 360 video tour player and to add support for VR in our Player. 
+ 
+ Essential 
+ 
+ Proven experience working extensively with JavaScript 
+ Good understanding of web fundamentals, HTML and CSS 
+ Experience applying development best practices and patterns in relation to security, scalability and performance 
+ Good understanding of frontend technologies such as Angular/Vue/React 
+ Experienced in interfacing with API backend 
+ Experience with task runners and package managers (such as npm, yarn, webpack and Grunt) 
+ Experience with unit testing 
+ Experience with version control systems (Git) 
+ A very keen eye for detail 
+ Can demonstrate having developed / created complex web-app(s) 
+ Eligible to work in the UK and registered as a UK tax payer 
+ 
+ Our Stack 
+ 
+ Frontend: JavaScript, HTML & CSS [open to you bringing a framework into our stack such as React, Vue or AngularJS] 
+ Backend: .NET 
+ DevOps: Azure 
+ 
+ How to apply 
+ Email CV and covering letter  including links to some of the work you have done (essential that you can jump in and start contributing with minimal training) 
+ Published at 13 Jan 2021 - Expires on 13 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  YourTour 
+ fulltime  Junior Webapp Developer at YourTour  at YourTour in London 
+ __13-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

@@ -1,0 +1,174 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Mixpanel (S09) 
+ Product analytics to help convert, engage, and retain more users. 
+ Technical Product Designer 
+ 
+ Location 
+ San Francisco, CA 
+ Job Type 
+ Full-time 
+ Experience 
+ 1+ years 
+ About Mixpanel 
+ About Mixpanel 
+ At Mixpanel, our mission is to increase the rate of innovation. Not only as a company, but for the businesses we serve. Through our analytics platform, companies can analyze how and why their users engage, convert, and retain in real time across web, mobile, and smart devices. Then they can use that data to improve their business and products. 
+ About Mixpanel Engineering 
+ 
+ 
+ The Engineering, Product and Design teams at Mixpanel together build Mixpanel’s product. The team consists of very talented and nice people who collaborate to solve problems. 
+ 
+ 
+ We organize in Product Groups which are small groups (3 to 8 people) comprised of engineers, product managers and designers working on a problem or an investment area with complete autonomy over the development process. 
+ 
+ 
+ We are customer focused and data driven - We like to iterate, learn and improve quickly using qualitative and quantitative data to continuously deliver customer value. 
+ 
+ 
+ Our engineering team gets to work on really challenging and exciting engineering problems because of the nature of our product and our scale. 
+ 
+ 
+ We use our own product on a daily basis! 
+ 
+ 
+ Mixpanel serves over 26,000 companies from different industries around the world, including Samsung, Twitter, and BMW. Headquartered in San Francisco, Mixpanel has offices in New York, Seattle, Austin, London, Barcelona, Paris, Amsterdam and Singapore. 
+ About the role 
+ Skills:  JavaScript, Python 
+ About Mixpanel: 
+At Mixpanel, our mission is to increase the rate of innovation. Not only as a company but for the businesses we serve. Through our analytics platform, companies can analyze how and why their users engage, convert, and retain in real-time across web, mobile, and smart devices. Then they can use that data to improve their business and products. 
+ Mixpanel serves over 26,000 companies from different industries around the world, including Twitter, Expedia, and Ancestry. Headquartered in San Francisco, Mixpanel has offices in New York, Seattle, Austin, London, Barcelona, and Singapore. 
+ About the role: 
+As a designer working with the Data Trust team, you will help technically-minded users get their data into Mixpanel and maintain its quality over time. Your focus will be reimagining the developer experience as well as improving our existing data management and debugging tools. This is critical to customer success because product analytics isn't very useful without accurate, reliable data. Recent projects from this team include: 
+ 
+ Lexicon Schemas API — sync an internal data dictionary or tracking plan with Mixpanel 
+ Lexicon Import — import data definitions from Segment, mParticle, Iteratively, or Avo 
+ Service Accounts — authenticate requests to APIs with this special type of user 
+ 
+ What You’ll Work On: 
+ 
+ Designing and building public APIs and documentation infrastructure 
+ Improving the quality and understanding of data via our data governance tools 
+ Creating tools to help customers identify, debug, and fix incorrect data 
+ Ensuring Mixpanel works flawlessly with other best-of-bread tools 
+ 
+ We’re Looking For Someone Who: 
+ 
+ Has the ability to design user interfaces, user flows, interactions and prototypes that bring clarity to complex problems 
+ Possesses a high level of comfort with the technical aspects of an Enterprise tool and/or API product 
+ Understands modern engineering tools and practices 
+ Leverages quantitative as well as qualitative data to audit and analyze their work 
+ Works closely with designers, product managers and engineers to see a project from concept through implementation and beyond 
+ Connects every design decision to business and user goals 
+ Presents to teammates and stakeholders 
+ 
+ Benefits and Perks: 
+ 
+ Competitive Medical, Vision, and Dental Care and 401(K) 
+ Wellness Reimbursement 
+ Generous vacation policy 
+ Company wide holiday shut down 
+ Volunteer time off 
+ 
+ Culture Values: 
+ Be Open:  When knowledge becomes open, we can come together as a team to collaborate around a shared purpose 
+ Customer Focus:  Our customers’ success is our success 
+ Lead Change:  Everyone at Mixpanel has the capacity to make an impact on the business 
+ Results Oriented:  Driving results in a measurable way ensures we stay focused on the highest impact initiatives 
+ One Team:  We can’t win without each other 
+ Why choose Mixpanel? 
+A clear market leader in the product analytics space, Mixpanel has raised $77M from world-renowned VC firms like Andreessen-Horowitz, Sequoia, and YC, and our revenue has \grown significantly since then. Our ambitious, collaborative team makes it possible by finding creative solutions to new challenges with scaling, reliability, design, and customer service. 
+ Mixpanel is an equal opportunity employer supporting workforce diversity. We actively encourage women, people with disabilities, veterans, underrepresented minorities, and LGBTQ+ people to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, or disability status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. 
+ Technology 
+ Javascript, Golang, C, C++, Python 
+ Other jobs at Mixpanel 
+ Frontend Engineer, (San Francisco, CA) 
+ fulltime 
+ San Francisco, CA, USA 
+ Frontend 
+ 1+ years 
+ Fullstack Engineer, (San Francisco, CA) 
+ fulltime 
+ San Francisco, CA, USA 
+ Full Stack 
+ 3+ years 
+ Analysis, Full Stack Software Engineer (San Francisco, CA) 
+ fulltime 
+ San Francisco, CA, USA 
+ Full Stack 
+ 3+ years 
+ Infrastructure Software Engineer, (San Francisco, CA) 
+ fulltime 
+ San Francisco, CA, USA 
+ Backend 
+ 3+ years 
+ Frontend Engineer, (Austin TX) 
+ fulltime 
+ Austin, TX, USA / Remote 
+ Frontend 
+ 3+ years 
+ Fullstack Engineer, (Austin TX) 
+ fulltime 
+ Austin, TX, USA / Remote 
+ Full Stack 
+ 3+ years 
+ Lead Engineer, Growth 
+ fulltime 
+ San Francisco, CA, USA 
+ Frontend 
+ 3+ years 
+ Software Engineer - Data (San Francisco) 
+ fulltime 
+ San francisco, CA 
+ Full Stack 
+ 3+ years 
+ DevOps Engineer 
+ fulltime 
+ Seattle, WA / Remote 
+ Devops 
+ 3+ years 
+ Frontend Software Engineer (Seattle) 
+ fulltime 
+ Seattle, WA, USA 
+ Frontend 
+ 3+ years 
+ Fullstack Software Engineer (Seattle) 
+ fulltime 
+ Seattle 
+ Full Stack 
+ 3+ years 
+ Relevance & Discovery (R&D), Fullstack Software Engineer (Seattle) 
+ fulltime 
+ Seattle, WA, USA 
+ Full Stack 
+ 3+ years 
+ FP&A Manager 
+ fulltime 
+ San Francisco, CA, USA 
+ 6+ years 
+ Enterprise Relationship Manager 
+ fulltime 
+ San Francisco, CA, USA 
+ 6+ years 
+ Technical Product Designer 
+ fulltime 
+ San Francisco, CA 
+ UI / UX 
+ 1+ years 
+ Tier 1 Tech Account Executive 
+ fulltime 
+ San Francisco, CA, USA 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

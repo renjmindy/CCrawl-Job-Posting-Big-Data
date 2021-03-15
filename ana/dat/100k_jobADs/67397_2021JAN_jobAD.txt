@@ -1,0 +1,89 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Mutiny (S18) 
+ Mutiny helps companies personalize their website for each visitor, in order to convert customers. 
+ Product Lead 
+ $120k - $150k • 0.40% - 0.70% 
+ Location 
+ / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Mutiny 
+ Mutiny helps companies grow, by engaging their customers with empathy. We do this through website personalization, allowing companies to speak visitors individually and surface the most relevant parts of their product. For example, we will dynamically change a website’s messaging (such as customer testimonials and logos) to match the visitor’s industry or company size. Our early customers include Gusto, Amplitude, Peerspace and Brex, and they are seeing up to 150% lift in conversion from personalization using our platform. 
+ https://techcrunch.com/2018/08/17/y-combinator-mutiny/ 
+ About the role 
+ Hi there, this is Jaleh, CEO of Mutiny. 
+ Let’s start with some context on our product category. 
+ For decades traditional B2B companies have relied on sales to personalize their message for each customer, helping them communicate with empathy and clarity. As customer interactions have shifted online due to SaaS and changing consumer behavior, we have failed to adapt our online experiences. Virtually every B2B website displays the same generic content to all people. Today, over 99% of B2B customers bounce when they visit a website because they didn’t immediately find what they were looking for. 
+ Mutiny is creating a new product category to help companies personalize their online buying experience for each customer. Our starting point is helping SaaS companies personalize their website. Our ambition is to ultimately help every company in the world personalize their entire buying experience from website to ads to emails. Mutiny was born out of our own experience. I led marketing at Gusto from ~10 to 500 employees. As we scaled our revenue, I learned that while our product was great for many different businesses, the same marketing messages did not resonate across the board. Personalization helped our users understand why we were great for them, but doing so required many engineers, data scientists and analysts. 
+ Nikhil (my co-founder) and I started Mutiny to help every company that wants to provide a better user experience and grow faster, but lacks the technical expertise to do so. We were featured by TechCrunch Disrupt as one of the most innovative companies in 2019 and were ranked #1 product of the day by Product Hunt. We are backed by some of the best seed investors in the valley including Y Combinator, growth and engineering leaders from Slack, Google, Facebook, Square, Yelp and Salesforce, and Cowboy Ventures and Uncork Capital (backers of Postmates, Intercom, Sendgrid and Eventbrite). 
+ Before I tell you about the job, I want you to understand our culture. 
+ Nikhil and I started Mutiny by first codifying what type of company and culture we wanted to build. These values define how we approach our work every single day: 
+ 
+ Work should feel like play 
+ Faster always wins 
+ Stir the post, regularly 
+ Do the right thing when no one’s watching 
+ All hands on deck 
+ 
+ We also believe in balanced teams, which is why we have maintained a 50% male to female ratio in our investors and are committed to maintaining diversity of gender, lifestyle, ethnicity and thinking in our team as we scale. 
+ But enough about us, let’s talk about you and what you’d be doing at Mutiny. 
+ The Product Lead role, in a nutshell: 
+ We are looking for a product management lead to join our rapidly growing team. With over $1M in ARR and 12 people on the team, we’re at a stage where we can welcome a dedicated product owner to build our product organization. 
+ In this role you’d partner with the founders to translate business strategy into a prioritized roadmap, work with customers and CX to refine the goals and value prop for each product feature, and collaborate with designers and engineers to create detailed specs and execution timelines. You’d also lead our weekly product sessions, where we share progress on different projects, review changes to the roadmap and finalize high level specs. As you might have guessed, this position requires someone that can zoom in and out with the same level of efficacy and grace. 
+ Sky's the limit for how far this position can scale since we do not have a CPO/Co-founder at Mutiny. We are open to a talented senior PM who can set direction and execute autonomously as an individual, but we are also jazzed about more senior profiles who have been managing a small team and are looking to grow into a Head of Product at a startup. Regardless of your experience level, you’d start as an individual contributor for ~6 months, and then have the opportunity to grow into a player/coach and eventually a pure coach as the company grows. This role is designed for someone with 5-8 years of product experience, which means you already know what a product manager does day to day and I don’t want to state the obvious. 
+ Instead, here are the core skills we’re looking for: 
+ 
+ #1 First principles thinker:  Can identify the crux of the problem without a ton of domain expertise. Knows what to research and where to focus. Has an analytical mind and can determine a quantitative metric to measure a qualitative business or user outcome. 
+ #2 Detail oriented and hands on:  Can think through the ideal user flow and high level engineering implementation. Identifies holes and assumptions, and can concretely validate them through usage of other products, reading documentation and focused customer interviews. Anticipates and elegantly solves for edge cases upfront. In other words, smart and fast-moving engineers love them to PM their projects. 
+ #3 Can simplify and prioritize:  Has a nose for what matters and what doesn’t, and is able to remove complexity by saying no to one-off requests and doubling down on the most broadly applicable use cases. Can find 80/20 ways to maximize our engineering efforts throughout their specs. In other words, can process numerous requests and ideas into elegant solutions that do not “frankenstein” the product foundation. 
+ #4 Strong communicator and orchestrator:  Can explain and advocate for their point of view, while also listening, absorbing new information and asking great questions. Fosters a collaborative environment that encourages all points of views and can articulate the why behind controversial prioritization decisions. Can synthesize multiple points of view to set a clear direction forward. 
+ 
+ Along with these skills, here are a few other things that’d make you the perfect match: 
+ 
+ 5-8 years of product management experience as a PM or founder and has created a valuable product (or major feature) from scratch, including leading the business strategy, product conception and ongoing optimization. 
+ An undergraduate degree in an analytical field such as engineering, mathematics, science or economics. This is more of an 80/20 filter, not a hard line. 
+ A genuine empathy for growth marketers and a strong intuition for how to help companies grow and optimize their user experience. That said, we do not require deep familiarity with growth technology and are happy to train you on our industry. 
+ An exceptionally high performance bar for yourself and everyone on the team. Unafraid to communicate what’s working and what needs to change. 
+ Someone who is energized by ambiguity and can create structure in a dynamic, fast-paced environment. 
+ A kind human who wants to build an extraordinary product, culture and brand. 
+ 
+ If this sounds like your dream job, let’s talk :) 
+ Technology 
+ Our stack consists of Golang, TypeScript, and Ruby, as well as Kafka, Redis, and Postgres for data stores, and React and GraphQL on the frontend. Our CTO comes from an infrastructure background, and brings an engineering first approach to growth technology. 
+ Some of our challenges include: 
+ 
+ Architecting low latency data infrastructure that processes millions of events from various data sources to create a single profile of a customer. We keep latency to a ridiculously low number using a combination of CDN edge caching with Fastly, AWS Lambda functions, efficient Kafka pipelines, and data store optimizations in order to serve this profile for use in the browser. 
+ Democratizing machine learning infrastructure for identifying and surfacing audience segments ripe for personalization. We use data points from user activity, firmographic data, and HTTP request attributes to cluster users and determine the best personalized content for them to see. 
+ Building efficient content delivery libraries for use in the browser, enabling non-technical team members to easily personalize their website. We make use of native browser APIs for efficient DOM rendering using features like MutationObservers, WebWorkers, and hooks for browser layouts. 
+ 
+ Other jobs at Mutiny 
+ Product Lead 
+ fulltime 
+ / Remote 
+ $120k - $150k 
+ 0.40% - 0.70% 
+ 6+ years 
+ Full Stack Software Engineer 
+ fulltime 
+ San Francisco/Remote / Remote 
+ Full Stack 
+ $100k - $140k 
+ 0.20% - 0.60% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

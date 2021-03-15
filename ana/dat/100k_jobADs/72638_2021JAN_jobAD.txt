@@ -1,0 +1,75 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ SafetyWing (W18) 
+ Global social safety net for remote workers 
+ SafetyWing (YC W18) is seeking a rational and creative back-end engineer 
+ 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About SafetyWing 
+ SafetyWing is building a global social safety net for the digital workforce. This mean global health, dental, disability, pensions and doctor's appointments for digital nomads and distributed startups. We've just raised series A funding. 
+ We work fully remotely, but have an office in SF. 
+ About the role 
+ Skills:  Java, MySQL, Google App Engine 
+ We are building a global social safety net, providing insurance, doctor appointments and pension savings globally. Our current customers are digital nomads (b2c) and remote companies (b2b). We raised series A in 2020, are growing rapidly and we are consistently adding features and products. 
+ We're a strong team of 20, with an office/house in San Francisco, while our international team is fully distributed stretching 10 timezones (Finland to California). 
+ Responsibilities 
+ Together with the rest of the team, you will be responsible for building our products and tools on our backend-end, as well as participating in bug fixing days. 
+ Requirements 
+ We're looking for a technical back-end developer with strong architectural instincts, and knowledge of the following areas: 
+ 
+ Java 
+ IntelliJ 
+ Dependency injection (we use Guice) 
+ Relational database system (we use MySQL, Hibernate, Liquibase) 
+ Cloud (we use Google App Engine) 
+ 
+ Bonus skills 
+ 
+ Security (HIPAA) 
+ Devops 
+ Full-stack/front-end: React with Flux/Redux 
+ 
+ In addition we are looking for someone who: 
+ 
+ wants to help build a global social safety net on the Internet 
+ thinks for themselves instead of copying others 
+ is creative and bold in the face of any problem 
+ is intellectually honest and have high integrity 
+ 
+ You will receive both salary and equity compensation, health insurance, laptop, and during non-covid times we have three to four yearly gatherings where you will join us. The previous three were in Norway, Mexico and San Francisco respectively. The next one is planned for Ljubljana when the border situation gets better. 
+ Find out more about us and our products at  www.safetywing.com . 
+ Looking forward to hearing from you! 
+ Technology 
+ On the frontend we use react with redux. Our backend is built with java, hosted on google cloud. 
+ Other jobs at SafetyWing 
+ Frontend engineer 
+ fulltime 
+ Remote 
+ Frontend 
+ $100k 
+ 0.05% - 0.20% 
+ 3+ years 
+ SafetyWing (YC W18) is seeking a rational and creative back-end engineer 
+ fulltime 
+ Remote 
+ Backend 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

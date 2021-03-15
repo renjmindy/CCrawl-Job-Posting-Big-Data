@@ -1,0 +1,86 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Newfront Insurance (W18) 
+ Modern insurance brokerage. 
+ Biz Ops Manager 
+ 
+ Location 
+ San Francisco, CA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Newfront Insurance 
+ Newfront is the modern insurance brokerage bringing the industry into the 21st century. 
+ Backed by the world's leading investors, Newfront is a fast-growing startup modernizing the $274bn commercial insurance industry by supercharging brokers with technology. At our office in San Francisco, you'll have the opportunity to join a talented team of brokers, engineers, and operators, hitting the ground running with a singular focus: to bring an otherwise legacy industry into the 21st century. 
+ About the role 
+ Newfront Overview 
+ Insurance is a half trillion dollar market that plays a foundational role in our economy and society but is generally slow, archaic, and filled with paperwork. 
+ Newfront is building a modern insurance brokerage. We have been recognized  here ,  here , and  here  as one of the most promising fintech startups on the planet. We leverage technology to simplify the selling process for brokers and the buying process for clients. Our singular mission is to create the future of work for this massive industry. 
+ Newfront scales by hiring brokers who join with their book of business. The hiring of each broker represents hundreds of thousands (and often millions) of dollars to Newfront in recurring revenue. Many fundamental strategies from the world of tech have never been applied to this industry, and we apply expertise and technology from the startup ecosystem to generate interest within this broker community. 
+ We're looking for a sharp generalist to join as a Manager on our business operations team, operating at the intersection of strategy and operations, defining and tackling projects of the highest importance to the company. 
+ You'll be responsible to: 
+ 
+ Scope and own cross-functional projects affecting sales, marketing, operations, and new product development 
+ Build centralized KPIs, metrics, and reporting for the team, executives, and board of directors 
+ Work with finance to bridge the gap between day-to-day operations and the operating model 
+ Act as an internal consultant and place yourself within existing business units to help them achieve their next level of scale 
+ 
+ You'll be a great fit if you have/are: 
+ 
+ 3-5 years of experience at the intersection of strategy and operations (business operations, consulting, or finance) 
+ Comfort navigating ambiguity and prioritizing projects in a quickly changing environment 
+ A bias towards process improvement and data-driven decision making 
+ Results driven and a willingness to walk through walls to achieve your goals 
+ 
+ Technology 
+ Our business is built on the idea that there are certain tasks that humans do really well and others that are better suited for computers. We supercharge our brokers so that they can focus on the highest-value work and use technology for everything else. This includes machine learning to structure PDF documents, Phantom.js scripts to pass data to insurance carriers, and a beautiful customer dashboard. 
+ Who we're looking for: 
+ 
+ You are product-focused and put the user's needs front and center 
+ You prefer no code to less code and less code to more code 
+ You are able to own engineering projects from start to finish, including making design decisions and communicating with other teams 
+ 
+ Some of the technology we use: 
+ 
+ Node.js APIs 
+ React frontend with Next.js 
+ Postgres database 
+ Github/CircleCI 
+ DataDog 
+ Heroku, Vercel, and AWS with Docker 
+ 
+ Other jobs at Newfront Insurance 
+ Frontend Lead Software Engineer 
+ fulltime 
+ Remote / Remote 
+ Frontend 
+ 6+ years 
+ Engineering Manager 
+ fulltime 
+ US Time Zone Preferred / Remote 
+ Engineering Manager 
+ 6+ years 
+ Backend Lead Software Engineer 
+ fulltime 
+ US Time Zone Preferred / Remote 
+ Backend 
+ 6+ years 
+ Biz Ops Manager 
+ fulltime 
+ San Francisco, CA / Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

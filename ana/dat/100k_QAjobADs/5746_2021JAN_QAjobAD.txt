@@ -1,0 +1,6 @@
+ Qualifications: 
+ BS/MS in Mathematics, Engineering, Computer Science, Data Science, Informatics or Statistics 
+ Strong knowledge of statistics and experience using statistical packages for analyzing large datasets (Minitab, SPSS, SAS, Excel, etc) 
+ Technical expertise regarding data models, database design development, data mining and segmentation techniques 
+ Customer interface and communication skills 
+ A passion for empirical research and answering hard questions with data 

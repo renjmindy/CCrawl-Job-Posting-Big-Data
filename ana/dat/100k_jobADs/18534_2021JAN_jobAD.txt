@@ -1,0 +1,199 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Java Engineer 
+ DWP Digital 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Java Engineer 
+ DWP Digital 
+ [](mailto:?subject=Java%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14296589/java-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 11, 2021 
+ Location: 
+ Bayswater, United Kingdom 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ DWP. Digital with Purpose. 
+ **We 're looking for talented Java Software Devs and Engineers to join our growing community of experts and become a key part of one of the biggest and high profile digital transformation programmes in the world. ** 
+ As a Senior Software Engineer you will be an integral part of the team designing and delivering products and services that are used by millions people in the UK, including some of the most vulnerable people in our society. 
+ If you're looking for a software role where you'll apply your skills in a unique context, with uniquely interesting problems to solve at a scale and with an impact unlike anything else out there, then click apply now. 
+ We are a building a Software Engineering community that believes in nurturing the talent of our people. You'll work on a high profile, high priority project. We want to invest in your talent, and help you fast track your development and your career. 
+ Duties. Work. Projects. You and your role. 
+ You'll join our London team as a Java Software Engineer where you'll work on the most demanding and exciting new digital service for the UK government. 
+ You'll help build DWP's flagship welfare reform programme, one that will change the face of public services and have the potential to dramatically transform the future of millions of people. 
+ What really excites us, and you, is problem-solving and the opportunity to deliver innovative technology that carries real value for users. You'll draw value from collaboration with others, and actively seek input and insight from teammates from lots of different disciplines - developers, designers, researchers, architects, testers and more. 
+ Our multi-disciplinary agile team is a testing ground and an incubator for ideas and ways of working that will influence the way things are done across government. 
+ We're proving that our creative, innovative approach can work in the public sector, that technology can change lives, and that we can successfully transform the delivery of government products and services. We want you to help us. 
+ Your skills: 
+ 
+ Recent experience with Java 8 (or newer) in large scale, transactional microservice architectures. 
+ Open source technologies like Java, JavaScript, Node.js, 
+ Developing on cloud based environments like AWS and Azure 
+ Have a good understanding of TDD and BDD 
+ SQL and noSQL database applications such as Postgres, MySQL, and MongoDB 
+ Distributed version control systems such as Git 
+ Containerisation - tools such as Docker and Kubernetes 
+ Have the skills to build up a useful, robust automated test suite to support a continuous deployment environment 
+ Have working knowledge of Unix-like operating systems such as Linux and/or Mac OS X 
+ Knowledge and experience of APIs, RESTful services and Microservice Architectures 
+ An understanding of responsive web design and progressive enhancement 
+ 
+ **Where You 'll Work 
+** 
+ You'll join us in our brilliant digital hub in London 
+ We also have all the tools and tech we need to enable our people to work flexibly, and many of us are working remotely at the moment due to COVID-19. 
+ We are an equal opportunity employer and we welcome applications regardless of age, gender, race or sexuality. 
+ Details. Wages. Perks. 
+ In return for your skills we offer competitive salary up to £53,931, a brilliant civil service pension with 27%+ employer contributions, and a generous leave package. We also have a broad benefits package built around your work-life balance which includes: 
+ 
+ Flexible working family friendly policies 
+ Volunteering and charitable giving 
+ Discounts and savings on shopping, fun days out and more 
+ Interest-free loans to buy a bike or a season ticket, so it's even easier for you to get to work and start making a difference 
+ Sports and social activities 
+ Learning, development, coaching and mentoring 
+ Career pathways and progression 
+ Bring your authentic self to work with 'I can be me in DWP' 
+ Work in an environment nominated as 'Best Place to Work in Digital' 
+ 
+ APPLY 
+ For further information and to start your application click apply. You'll be redirected to Civil Service Jobs where you can get fuller details and start an application. We'll ask you to show us in your application that you have all the skills we're looking for. Show us what you're all about. 
+ 
+ 
+ Internal Number: 9366475 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at DWP Digital 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Postdoctoral Research Fellowships (Machine Vision/Image Analysis) 
+ __  Boston, Massachusetts 
+ 
+ 
+ 
+ 
+ Guillermo J. Tearney, M.D., Ph.D. 
+ __1 Week Ago 
+ 
+ 
+ Software Engineer - Futures Technology 
+ __  London, United Kingdom 
+ 
+ 
+ Goldman Sachs 
+ __Today 
+ 
+ 
+ Product Development Manager 
+ __  New York, New York 
+ 
+ 
+ BNY Mellon 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

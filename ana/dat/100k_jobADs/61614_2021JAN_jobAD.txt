@@ -1,0 +1,63 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ SafeButler (S17) 
+ Your chief servant for shopping insurance 
+ Software Engineer Intern 
+ 
+ Location 
+ Remote 
+ Job Type 
+ Internship 
+ Experience 
+ About SafeButler 
+ SafeButler searches insurance sites to help you find the information you need to make smarter decisions on insurance. We use technologies to simplify the flow so that you don't need to fill out lengthy forms and get quotes instantly from top-rated companies. 
+ About the role 
+ Skills:  CSS, HTML, JavaScript, React 
+ Who we're looking for 
+ If you are an entrepreneur-minded student, have built some projects to solve a real-life problem, and have a solid background in software engineering, we welcome you to join our team to make a dent in the trillion-dollar insurance industry. 
+ Within your internship, you will own projects from end-to-end and become a decision-maker and active contributor throughout the product cycle, making impacts to tens of thousands of consumers and insurance agents around the US. 
+ Responsibilities: 
+ 
+ Create customer-obsessed experience with React/HTML/CSS 
+ Design experiments and metrics to help you with task #1 
+ Drive your projects from end to end 
+ Bring innovative and fresh ideas to the table 
+ 
+ Requirements: 
+ 
+ Experience with React/Redux/HTML/CSS 
+ Know REST API 
+ Have experience in coding to solve a real-world problem 
+ Understand algorithms without the necessity to solve brainteasers 
+ Entrepreneur-mind is preferred 
+ 
+ What can you expect from us? 
+ 
+ Learn experience in a fast-pace startup 
+ We support CPT and academic credit internships 
+ 
+ About SafeButler 
+ SafeButler is a free service whose mission is to help consumers effortlessly compare insurance. It is a YCombinator-funded startup that uses AI and automation to simplify the shopping process, saving time and money. They have perfect ratings from both the BBB as well as Google for their intuitive, trustworthy service. 
+ Visit  safebutler.com  to learn more. 
+ Technology 
+ React <> Django <> AWS 
+ Other jobs at SafeButler 
+ Software Engineer Intern 
+ intern 
+ Remote 
+ Frontend 
+ Any 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

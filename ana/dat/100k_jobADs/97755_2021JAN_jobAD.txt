@@ -1,0 +1,190 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Zero-Knowledge Cryptographer & Protocol Developer 
+ [ 
+ Metastate 
+ ](/companies/metastate) 
+ 
+ Remote 
+ 16 November, 2020 
+ Apply 
+ More jobs from Metastate About Metastate 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Agda 
+ Cryptography 
+ Haskell 
+ Idris 
+ Mathematics 
+ OCaml 
+ Rust 
+ COQ 
+ APPLIED CRYPTOGRAPHY 
+ discrete mathematics 
+ zero-knowledge proofs 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 
+ Apply the latest zero-knowledge cryptographic protocols to concrete problems in the blockchain space. 
+ Role overview 
+ Role overview 
+ Metastate is looking for a cryptographer & researcher interested in zero-knowledge cryptographic protocols and their application to distributed ledger technology to work with us to design, evaluate, and implement zero-knowledge proof constructions such as zkSNARKs and zkSTARKs, distributed cryptographic protocols such as threshold encryption and distributed key generation, and cryptographic primitives such as elliptic curves and hash functions, then put this cryptography into practice in order to realise privacy and scalability capabilities required by the next generation of blockchain networks. 
+ This role offers the chance to work closely with a small team on compelling cross-disciplinary problems in theoretical computer science, cryptography, game theory, economics, and systems design, and enjoy a high degree of independence in working conditions and task prioritization. 
+ Responsibilities 
+ 
+ Evaluate and analyze existing zkSNARK and zkSTARK proof systems such as Groth '16, Ben-Sasson '18, and PLONK for security, expressivity, and performance; monitor the state of the research field for compelling new theoretical advances 
+ Update & alter existing cryptographic protocols, customize them for specific proof-of-concept and production use-cases 
+ Produce technical specifications for designs & instantiations of cryptographic protocols and assist with implementation in coordination with team members 
+ Implement, review, and test cryptographic operations & protocols, primarily in Rust, evaluate existing implementations 
+ 
+ Example projects & publications 
+ 
+ The Multi-Asset Shielded Pool  (to be published soon) 
+ PLONK & plookup  (in progress) 
+ The PLONK by hand series 
+ The Demystification series  (Supersonic, Fractal) 
+ 
+ Qualifications 
+ 
+ Prior experience with cryptographic protocols, especially zkSNARKS or zkSTARKs (though not specifically required) 
+ Prior experience in low-level systems programming, ideally in Rust 
+ Self-motivated & self-organized 
+ 
+ Bonus Qualifications 
+ 
+ Academic research background in mathematics, computer science, economics, and/or game theory 
+ Prior experience with distributed ledger (blockchain) technology 
+ Experience in a functional programming language such as Haskell or Ocaml 
+ Experience with a proof assistance such as Idris, Coq, or Agda 
+ 
+ Misc. 
+ Remote or local (Zürich/Zug, Berlin). When remote, preferred if mostly located within (+/- 7 hours) Central European time zones. North America is fine. 
+ Ideally someone who enjoys travel, nature and hiking. Often we find that protocols are best designed not in a meeting room but rather on a trail. 
+ 
+ [ 
+ Metastate 
+ ](/companies/metastate) 
+ 
+ 10-49 
+ 
+ Metastate is a research and engineering team focused on implementing cutting-edge research from numerous disciplines (distributed systems, PLT, zero-knowledge cryptography) and deploying them to solve hard problems in the blockchain space, such as scalability, secure smart contract languages, secure randomness or privacy. Metastate is a remote-first team, currently composed of 15 cross-disciplinary researchers and engineers located around the world. Our work culture is characterized by open-allocation, where team members have a high degree of freedom and autonomy in choosing when to work, what to work on, and whom to work with. Metastate was founded in early 2019 by @adrian_brink, @awasunyin and @cwgoes, with extensive experience in the blockchain space and who previously co-founded Cryptium Labs, a security-oriented proof-of-stake validator from the Swiss Alps. 
+ Haskell OCaml Rust Remote Working Flexible Working Blockchain Early Stage Venture Idris 
+ View 7 jobs 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Metastate About Metastate 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Agda 
+ Cryptography 
+ Haskell 
+ Idris 
+ Mathematics 
+ OCaml 
+ Rust 
+ COQ 
+ APPLIED CRYPTOGRAPHY 
+ discrete mathematics 
+ zero-knowledge proofs 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Functional Compiler EngineerCompetitiveMetastateSwitzerland 
+ Smart contracts are not secure enough for finance, law, or systems engineering. 
+ Remote 
+ agda compiler compiler design compilers functional programming haskell idris open source coq agda2 compiler engineering 
+ More Info Apply 
+ Type Theorist & Formal Verification Engineer CompetitiveMetastateSwitzerland 
+ Smart contracts are not secure enough for finance, law, or systems engineering. 
+ Remote 
+ agda dependent types formal methods haskell idris open source formal verification coq agda2 formal language theory type theory 
+ More Info Apply 
+ Senior Protocol Engineer$140K - 160K + EquityO(1) LabsUnited States of America 
+ Build a protocol that brings formal verification to the blockchain 
+ Remote 
+ blockchain cryptography cryptocurrency functional programming haskell ocaml smart contracts 
+ More Info Apply 
+ Zero-Knowledge Cryptographer & Protocol Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

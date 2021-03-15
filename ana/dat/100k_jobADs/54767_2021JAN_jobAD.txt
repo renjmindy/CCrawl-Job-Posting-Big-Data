@@ -1,0 +1,183 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Lab Automation Engineer III 
+ Calico 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Lab Automation Engineer III 
+ Calico 
+ [](mailto:?subject=Lab%20Automation%20Engineer%20III&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14179027/lab-automation-engineer-iii/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 7, 2020 
+ Location: 
+ South San Francisco , California 
+ __ Show Map 
+ Type: 
+ Full Time - Experienced 
+ Sector: 
+ Private Industry 
+ Preferred Education: 
+ Masters 
+ Who we are: 
+ Calico is a research and development company whose mission is to understand the biology of aging, and to help people to lead longer and healthier lives. We aim to combine the best biomedical science with cutting edge technology and computing. 
+ Position Description: 
+ Calico is seeking an experienced and motivated Senior Laboratory Automation Engineer. This person will be responsible for assembling core laboratory automation infrastructure including: the selection and deployment of liquid handling systems and robotic integrations, building custom hardware and software, and creating processes and controls that enable scientists to effectively use those systems. Day-to-day tasks will include: 
+ 
+ Working directly with scientists and management stakeholders to understand their processes and translating those requirements into specifications for automation solutions 
+ Programming commercial liquid handling and automation systems, and also modifying and extending those systems to increase capability and usability 
+ Designing and building custom prototype devices and systems to enable novel research 
+ 
+ 
+ Position Requirements: 
+ 
+ Experience implementing complex systems and equipment: defining system requirements, establishing best practices, and proactively monitoring system performance 
+ Experience with microbiology, molecular biology, flow cytometry, high content analysis (HCA), high throughput screening (HTS), genomics and sequencing, mass spectrometry, and/or any other standard life-science laboratory workflows 
+ BS/MS in science or engineering discipline, minimum 10 years of relevant experience, PhD not required 
+ 
+ Expertise with commercial automation equipment: 
+ 
+ Detailed knowledge of multiple commercial liquid handling systems (Tecan EVO and Fluent, Agilent Bravo, Beckman Coulter FX/NX/iSeries, Hamilton STAR and Vantage) 
+ Expertise with development and operation of integrated robotic systems and automation scheduling software applications (Agilent VWorks, Biosero GreenButtonGo, PAA Overlord) 
+ Up-to-date knowledge of commercial options for large- and small-scale equipment 
+ 
+ Custom hardware and software development, any of the following: 
+ 
+ Significant experience with software development:
+ 
+ 5+ years experience with any major programming language (C#.NET, C/C++, Python) 
+ Communication with 3rd party devices and software through APIs, web-services, and/or direct commands, and the ability to write interfaces for receiving commands 
+ Database design: schema development, basic administration, and front-end integration 
+ 
+ 
+ Mechanical design using CAD software (e.g. SolidWorks, AutoCAD, Rhino): able to generate parts, assemblies, and drawings for manufacture and rapid prototyping 
+ Electrical engineering skills: ability to read and draw circuit diagrams, wire and solder components 
+ Microfluidics: experience building interfaces to microfluidic systems, experience with custom design and fabrication of microfluidic devices 
+ 
+ 
+ Internal Number: 207 
+  __  Create a Job Alert for Similar Jobs  
+ About Calico 
+ Calico is a research and development company whose mission is to harness advanced technologies to increase our understanding of the biology that controls lifespan. We will use that knowledge to devise interventions that enable people to lead longer and healthier lives. Executing on this mission will require an unprecedented level of interdisciplinary effort and a long-term focus for which funding is already in place. 
+ Connections working at Calico 
+ More Jobs Like This 
+ 
+ 
+ 
+ Software Engineer 
+ __  Ithaca, New York 
+ 
+ 
+ 
+ 
+ Cornell University 
+ __1 Month Ago 
+ 
+ 
+ Facilities Tech III - Controls Technician - Operations & Facilities Management - 49939 
+ __  St. Louis, Missouri 
+ 
+ 
+ Washington University in St. Louis 
+ __1 Month Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

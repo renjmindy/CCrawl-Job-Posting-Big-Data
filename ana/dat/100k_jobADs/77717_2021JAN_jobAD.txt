@@ -1,0 +1,112 @@
+working with devs… 
+ databases should not be bottlenecks 
+ __ 
+ Main menu 
+ Skip to content 
+ 
+ Blog 
+ Consulting 
+ Speaking 
+ About me 
+ RSS 
+ 
+ Does automation result in job cuts? 
+ by  Alex Yates  on  June 23, 2014  in  Observations 
+ Despite this blog largely being about technology, I often talk about people. This is because Continuous Delivery (CD) is not just a tool – it is a mind-set. If the people are not on board, you won’t get anywhere. 
+ The trouble is, people tend to have a polarised opinions about CD. Individuals often either love it or hate it. This often causes tension within teams and blocks progress. 
+ One reason why some people fear CD is because they see a lot of the work that they are responsible for being automated. They are afraid that they are being replaced by a computer. This fear for their job is entirely natural and uncomfortable for the individual. Sometimes people are happy to speak about this fear openly but often this anxiety is left unsaid. 
+ In this post, with the help of some employment statistics, I will openly discuss my opinions about both the truths and flaws in this logic in the hope that people can get past this fear and take away some actions such that they remain employable in the new world order. 
+ 
+ Are people really losing their jobs? 
+ The idea of Continuous Integration (CI) came out of the extreme programming movement in the late 90s. The basic idea is to automate a build every time you commit to source control so that you catch bugs early and write cleaner code. As a result, you spend less time fixing bugs and ship better code more quickly. 
+ During the 2000s many different CI servers became popular including Hudson/Jenkins, TeamCity, CruiseControl and Bamboo. These CI servers were used to automate builds and tests which previously were tasks carried out by humans. Over time their use has grown to include automation of more and more stuff including, unit tests, integration tests, UI tests and deployments. There is much debate about when automation really became popular but most would agree that during the 2000s many day to day tasks in software development were automated. 
+ In addition, new software languages and tools were being written that made writing code much easier. For example, LESS and MORE reduced the amount of repetition in your CSS, JQuery simplified client side HTML scripting and the .NET framework introduced LINQ (and more besides)… Also –  intellisense! 
+ If it is true that automating stuff or making stuff easier or cutting the number of hours that it takes to do tasks results in job cuts we would probably expect to see a drop in the number of people employed as software engineers during this time period. We might also expect to see this compounded towards the end of the decade with the world economy taking a nose dive. 
+ I had a look at the United States Bureau of Labour Statistics to see if this hypothesis was born out in practice. (You can look for yourself  here .) Unfortunately they changed the way they recorded the data in 2010 such that it is not comparable to earlier dates but the period from 2001 until 2009 should be good enough for our purposes given the industry development during this time: 
+ 
+ Clearly the total number of jobs in the software development sector has increased, even as more tasks have been automated and the economy went bust. This does not mean that there have not been job cuts, but if there have it does mean that new jobs have been created faster than jobs have been cut. (At least in the USA). 
+ So why are we hiring more people, despite the fact that fewer people can now do more work at higher quality? 
+ You might have noticed that there is more pressure nowadays to complete work and release more quickly? 
+ At first, as individual teams started to automate stuff they realised that they could complete work and get it to users more quickly and they could do this with more reliability. This was a competitive advantage in the first-past-the-post, winner-takes-all economy of the web. Now, as these practices and technologies become the norm rather than the exception, if you have not adopted them your competitors are probably getting that advantage over you. Hence, the industry is putting pressure on all software shops to automate the manual tasks in order to keep up. 
+ Your competitors have (probably) taken the view that rather than doing the same work with fewer people, they can do more work with the same number of people in less time and get to market faster. 
+ So what does this mean for you? Well the days of handling simple tasks by hand probably are numbered. (By ‘simple tasks’ I mean most tests, most deployments and most backup and monitoring tasks. If you have checklists full of manual steps that are individually quite simple I’m talking about you). The industry is dictating that these tasks be automated, but someone is needed to manage the automated system and check it works OK. 
+ As our codebases grow, as the size of our databases grow and the complexity of our legacy systems gets worse there are all sorts of complex problems that we are facing and we don’t yet know all the answers. How do we get a fast feedback loop on that horrible legacy code? How do we quickly validate the deployment worked on our production database and that we have not lost any data? We don’t yet know how to improve things further. We need clever people with backgrounds in software to answer these questions. This is far more important than wasting time on something that can be automated. 
+ Frankly, we need to use computers for what they are good at (repetitive tasks that require accuracy) and we need to use humans for what they are best at (intuition and inspiration based on knowledge and experience). The industry needs you to be humans – not computers. Computers are cheap, humans are much more expensive and much more valuable. 
+ 
+ So does that mean that my job is safe? 
+ No. I’m afraid not. I can’t make any promises. In my experience, where automation has happened at the same time as job cuts it has been for one of two reasons: 
+ 
+ It is a fact of life that sometimes companies don’t make enough money to pay the bills. Sometimes they attempt to balance the books by reducing the headcount in order to cut costs. When trying to think about how they can get the same results out of their IT team with fewer people they often look at automation as the solution. Once they have it up and running they are able to reduce the headcount. In this scenario the need to cut jobs was the cause and automation was the effect, not the other way around. 
+ A company wants to automate stuff for whatever reason. This is entirely natural given the traditional business and engineering benefits. Within that company the workforce need to get on board and make this happen. If there are people who do not agree with automating stuff they are often unhappy about the decision or, in extreme circumstances, they can actively block the company from moving forward. Don’t be that guy. It doesn’t end well for you. 
+ 
+ What can I do to protect myself? 
+ The good news is the industry is growing and the total number of jobs available is increasing. This is at the same time that there is a skills shortage. Even if you do lose your current job there is a good chance that you’ll find another one elsewhere. 
+ However, in all industries people need to keep their skills up to date. I wouldn’t hire someone into any sector if their skills were more than a few years out of date and they were competing against people who could demonstrate up to date knowledge and skills - and neither would you. While software development is a highly paid industry with a skills shortage and plenty of vacancies (relatively speaking), it is also one of the fastest moving. If you want to work in it you need to keep your skills up to date with the industry. This is non-negotiable I’m afraid. 
+ The short and sweet of it is that the industry has chosen automation. It has already arrived and if you aren’t automating stuff you are in the minority. You can either skill up and learn how to use this technology, or you’ll be that guy in the corner of the office who still uses classic ASP out of choice. (Unless you already got rid of him?) 
+ If you want proof – even highly regulated industries that typically are the last to adopt new technologies (e.g. banking, government and health care - where failed deployments kill people) are adopting this stuff now. In fact, it is these sectors that are providing me with most of my work right now. The other sectors have already been doing this for years and don’t need my help any more - mostly. 
+ Post navigation 
+ <- Woodland creature story sizing in practice 
+ Deploying Red Gate database packages with Octopus deploy -> 
+ __  1 comment for "Does automation result in job cuts?" 
+ Leave a Reply  Cancel reply 
+ Your email address will not be published. Required fields are marked * 
+ Comment 
+ Name * 
+ Email * 
+ Website 
+ Save my name, email, and website in this browser for the next time I comment. 
+ Search for: 
+ Tags 
+ Atlassian   Bamboo   ContinuousIntegration   Database drift   Database Lifecycle Management (DLM)   DLM Consultants   Oracle   rants   Redgate   unit tests 
+ Archives 
+ 
+ June 2020  (1) 
+ February 2020  (1) 
+ November 2019  (1) 
+ October 2019  (3) 
+ September 2019  (1) 
+ May 2019  (1) 
+ March 2019  (1) 
+ June 2018  (3) 
+ April 2018  (1) 
+ January 2018  (3) 
+ December 2017  (4) 
+ November 2017  (2) 
+ October 2017  (1) 
+ July 2017  (1) 
+ May 2017  (1) 
+ January 2017  (1) 
+ December 2016  (2) 
+ November 2016  (3) 
+ October 2016  (2) 
+ August 2016  (6) 
+ July 2016  (2) 
+ June 2016  (4) 
+ May 2016  (2) 
+ April 2016  (1) 
+ March 2016  (2) 
+ January 2016  (1) 
+ December 2015  (3) 
+ November 2015  (2) 
+ October 2015  (2) 
+ August 2015  (4) 
+ July 2015  (1) 
+ June 2015  (4) 
+ May 2015  (1) 
+ April 2015  (1) 
+ March 2015  (2) 
+ January 2015  (4) 
+ December 2014  (3) 
+ November 2014  (1) 
+ October 2014  (3) 
+ September 2014  (4) 
+ August 2014  (5) 
+ July 2014  (3) 
+ June 2014  (3) 
+ May 2014  (5) 
+ April 2014  (2) 
+ March 2014  (1) 
+ 
+ Tweets by @ AlexYates 
+ Copyright (C) 2021  working with devs... . All Rights Reserved. __Designed by bavotasan.com . 
+ 

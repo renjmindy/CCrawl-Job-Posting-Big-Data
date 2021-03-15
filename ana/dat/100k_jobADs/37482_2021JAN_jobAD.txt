@@ -1,0 +1,86 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Systems Analyst 
+ Hudson's Bay Company (HBC) 
+ __Toronto, ON 
+ Apply Now 
+ Who We Are: 
+HBC is a diversified global retailer, focused on driving the performance of high quality stores and their all-channel offerings, growing through acquisitions, and unlocking the value of real estate holdings. 
+ Founded in 1670, HBC is the oldest company in North America. Our portfolio today includes formats ranging from luxury to premium department stores to off price fashion shopping destinations, with more than 480 stores and over 66,000 employees around the world. 
+ Our leading banners across North America include Hudson�s Bay, Saks Fifth Avenue, and Saks OFF 5TH. 
+ We have significant investments in real estate joint ventures. HBC has partnered with Simon Property Group Inc. in the HBC Global Properties Joint Venture, which owns properties in the United States and Germany. In Canada, HBC has partnered with RioCan Real Estate Investment Trust in the RioCan-HBC Joint Venture. 
+ A truly global corporate citizen, HBC is committed to responsible business practices to bring about positive change, and we work hard to shape a sustainable future for people and the planet. Our philanthropic initiatives help create healthy families, strong communities, and sport excellence in the cities and countries in which we operate around the world, while striving to create innovative programs and resources that provide flexibility for work-life balance in order to maintain a positive working environment. 
+ What This Position Is All About: 
+As a systems analyst you are responsible for the development of fully integrated business solutions and/or the integration of legacy systems and other acquired software packages. Working on all sizes of development projects and programs, you will implement all portions of systems through analysis, design, build, testing, documentation, warranty, operational hand-off, and training. May sometimes function as Project Leader. 
+ Who You Are: 
+Ability to develop complex mappings, workflows, specifications in accordance with requirements. 
+Ability to support developers and other peers during the project development phases as required. 
+Strong communication & interpersonal skills with focus on teamwork, sharing knowledge & expertise as it relates to the role. 
+Self-starter and quick learner. Sound ability to handle several tasks simultaneously. 
+Ability to take ownership of assigned work. Ability to operate in a fast and dynamic organization with tight deadlines. 
+ You Also Have: 
+Post secondary education in Information Technology, Process Engineering or related field. 
+3-5 years� experience in application design & implementation; ideally with Retail systems (Merchandising; Supply Chain; Logistics) 
+Excellent analytical, problem-solving and conceptual skills. 
+Ability to make decisions and take an innovative approach to business problems. 
+Understands and expierenced with end to end SDLC process. 
+Flexible with respect to both Waterfall or Agile methodologies 
+Proficient in MS Office tools including MS Visio, MS Excel, and MS PowerPoint. 
+Previous programming experience. Knowledge of and possible working experience with PL/SQL, Informatica/Informatica BDM, MQ, Web Services/SOAP, Bi Publisher, ODI/XML, Unix O/S including shell script development, .NET Framework - v4 and higher, C# (VB.NET exposure), ASP.NET MVC - v4 and higher, WCF, JSON, Web API, JavaScript - jQuery, AngularJS, SQL Server 2010 and higher, Oracle 11g and higher, TFS 2010. 
+Understanding of, and possible working experience, with Hadoop Environment, particularly Kafka, Scoop, Hive, Spark, HBase, H-SQL / SQL. 
+Understanding of and possible working experience with Informatica Big Data managements as well as Cloudera specific components: Impala & Kudu 
+ As The Systems Analyst, You Will: 
+Collaborate with business partners and IT teams in the planning, design and development of new applications, and enhancements to existing applications. 
+Develop functional designs and technical specifications for interfaces, data conversions, reports and application extensions in the implementation of enterprise business solutions. 
+Design and develop feasible technical solutions to meet simple to complex business needs. 
+Develop and integrate solutions in accordance with HBC�s development methodology and programming standards. 
+Creative problem solving � producing quick and well thought out solutions. 
+Understand critical business needs and prioritize tasks for team. 
+Communicate analysis results and make recommendations to management. 
+Work with the QA and Support teams in the testing and implementation of developed solutions. 
+Lead people and small projects as required. 
+ How Often You May Travel: 
+Up to 5% travel. 
+ Your Life and Career at HBC: 
+Be part of a world-class team; work with an adventurous spirit; think and act like an owner- operator! 
+Exposure to rewarding career advancement opportunities, from retail to supply chain, to digital or corporate. 
+A culture that promotes a healthy, fulfilling work/life balance. 
+Benefits package for all eligible full-time employees (including medical, vision and dental). 
+An amazing employee discount. 
+ Thank you for your interest with HBC. We look forward to reviewing your application. 
+ HBC provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, HBC complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. 
+ HBC welcomes all applicants for this position. Should you be individually selected to participate in an assessment or selection process, accommodations are available upon request in relation to the materials or processes to be used. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,258 @@
+r.j.'s space 
+ on the economy, energy, & the environment 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ <- December 13 graphics 
+ December 20 graphics: -> 
+ November's retail sales and producer prices, October's inventories and job openings 
+ Posted on  December 14, 2014  by  rjsigmund 
+ the key release this week was on retail sales for November from the Census Bureau; in addition, there were also two Census reports on October wholesale and business inventories, giving us the first look at what impact that the change in inventories might have on fourth quarter GDP…we also saw the Producer Price Index for November and the Job Openings and Labor Turnover Survey (JOLTS) for October, both of which were from the Bureau of Labor Statistics… 
+ Retail Sales Rise 0.7% in November; October Increase Revised to + 0.5% 
+ the  Advance Retail Sales Report for November  (pdf) from the Census Bureau estimated that our total seasonally adjusted retail and food services sales were at $449.3 billion in November, which was an increase of 0.7% (±0.5%) from the revised October sales of $446.1 billion, and 5.1% (±0.9%) above sales in November of last year….October's seasonally adjusted sales were  originally reported at $444.5 billion , and with that upward revision the percentage change from September October was revised from +0.3 percent (±0.5%)* to +0.5 percent (±0.2%)…thus, for the first two months of the fourth quarter, retail sales have grown by 1.2%, or  at a 7.6% annual rate , suggesting a strong contribution from goods to 4th quarter personal consumption expenditures, which account for 23% of GDP….estimated unadjusted sales in November,  extrapolated from surveys of a small sampling of retailers , indicated sales rose to $443,832 million in November from $441,814 million in October, and up from the $429,408 million of sales in November a year ago, a 3.36% year over year increase which suggests an aberration in the seasonal adjustment, likely due to the lessening influence of recession data on the basis.. 
+ to break down the details of this initial November retail sales estimate, we'll again start by including the table of monthly and yearly percentage changes in sales by business type taken  from the Census pdf …..the first double column below gives us the seasonally adjusted percentage change in sales for each type of retail business type from October to November in the first sub-column, and then the year over year percentage change for those businesses since last November in the 2nd column; the second pair of columns gives us the revision of last month’s October advance monthly estimates (now called "preliminary") as revised in this report, likewise for each business type, with the September to October change under "Sep 2014 revised" and the revised October 2013 to October 2014 percentage change in the last column shown…for reference,  here is what those October percentage changes looked like before this month's revision …. 
+ 
+ looking at the details for November sales in the first column above, it's fairly clear that the seasonally adjusted 1.7% increase in motor vehicle and parts sales to $91,929 million was a major reason for the stronger than expected headline increase for the month, but even excluding motor vehicles and parts, retail sales rose 0.5% to $357,353 million…other than automotive products, November's retail sales were stronger than October's for building material and garden supply stores, where sales rose 1.4% to $28,086 million, for clothing stores, where sales rose by 1.2% to $21,458 million; for non-store retailers, where sales rose by 1.0% to $41,256 million, for electronics and appliance stores, where sales rose 0.9% to $9,374 million; for drug stores, where sales rose 0.8% to $25,511 million, for bars and restaurant, where sales rose 0.7% to $49,351 million, for furniture stores, where sales rose 0.5% to $8,551 million, and for general merchandise stores, where sales also rose by 0.5% to $56,050 million…the only business types that saw seasonally adjusted sales fall in November were gas stations, where sales fell 0.8% to $43,578 million, and miscellaneous store retailers, where sales fell 1.7% to $10,032 million… 
+ looking at the  revisions to October sales in the table above  and comparing them to  the table from the advance report for October sales as released last month , we find that a large factor in the revision of October's sales from an increase of 0.3% to an increase of 0.5% was the revision of sales of motor vehicles and parts, from the previously reported increase of 0.5% to an increase of 0.8%, with car dealers specifically seeing a 0.9% increase; but even so, October's sales without automotive sales are still now up 0.5% vs the previously reported 0.3% increase..other retail businesses seeing sizable upward revisions to last months sales included the miscellaneous store category, where October sales were revised from an increase of 0.5% to a 1.3% jump, sales at specialty stores, ie, sporting goods, book and music stores, which have been revised from an increase of 1.2% to an increase of 1.8%; sales at electronic and appliance stores, which were revised from a drop of 1.6% to a decrease of 1.0%, sales at restaurants and bars, who saw sales rise 1.4% rather than the 0.9% first reported, and sales at furniture stores, which were revised from the original 0.2% gain to an increase of 0.7%…meanwhile, sales at drug stores increased by just 0.2%, not the 0.7% first reported, while October sales at non-store retailers were revised down from a 1.9% jump to an increase of 1.6%… 
+ Producer Prices Fall 0.2% in November; Intermediate and Raw Goods Lower on the Year 
+ the  November report on the Producer Price Index  from the Bureau of Labor Statistics showed that the seasonally adjusted producer price index for final demand fell by 0.2%, after rising 0.2% in September and falling 0.1% in August, reducing the year over year increase in the index to 1.4%, the lowest year over year reading since February…lower prices overall were led by the price index for final demand for goods, aka 'finished goods', which fell by 0.7% after falling 0.4% in October, 0.2% in September and 0.3% in August, as the price index for final demand for energy fell 3.1%, driven by  a 6.5% drop in the wholesale price of LP gas  and a 6.3% drop in wholesale gasoline prices…the price index for final demand for foods was 0.2% lower, as  11.0% higher prices for wholesale fresh vegetables  and 10.6% higher priced oilseeds offset lower prices in other foods, including a 8.7% drop in wholesale pork products…even the index for final demand for core goods fell by 0.1% in November, as prices for industrial chemicals were 3.3% lower…meanwhile, the index for final demand for services rose by 0.1%, even though the index for final demand for transportation and warehousing services fell 0.8%, as the index for final demand for trade services and the index for final demand for services less trade, transportation, and warehousing services both rose 0.1%… 
+ this report also showed the price index for processed goods for intermediate demand fell by 1.0%, the largest decrease since a 1.1% decline in March of 2013, and is now negative for the year, as prices for intermediate processed energy goods fell 3.4%, while prices for intermediate processed foods and feeds fell 0.3% and even core intermediate producer prices were 0.5% lower as  intermediate materials used in nondurable manufacturing were priced 2.2% lower ….in addition, the price index for intermediate unprocessed goods fell by 1.3% after falling 2.4% in October and is now 1.6% below the level of a year ago, on a 3.7% drop in the index for raw energy materials and a 1.6% drop in prices for unprocessed nonfood materials less energy, while producer prices for for unprocessed foods and feeds rose by 0.9%……finally, the price index for services for intermediate demand rose 0.3% in November, as a 0.3% decrease in the index for  transportation and warehousing services for intermediate demand was offset by a 0.4% decrease in prices for intermediate services less trade, transportation, and warehousing, while prices for trade services for intermediate demand were unchanged…over the 12 months ended in November, the price index for services for intermediate demand rose 1.5%… 
+ October Wholesale Inventories Increase 0.4%; Overall Business Inventories Rise 0.2% 
+ the first release on inventories we saw this week was the  Wholesale Trade, Sales and Inventories Report for October  from the Census Bureau, which estimated that seasonally adjusted sales of wholesale merchants rose 0.2 percent (+/-0.9)* to $454.6 billion from the revised September estimate of $453.7 billion, and were up 4.3% (+/-1.6%) from October a year earlier…the September preliminary sales estimate was revised down by $0.6 billion or 0.1%, and hence was statistically unchanged from August….October wholesale sales of durable goods were up 0.8 percent (+/-1.2%)* over September and were up 6.0 percent (+/-1.4%)* from October a year ago, as wholesale electrical and electronics sales rose 1.9% while wholesale automotive sales fell 1.1%…seasonally adjusted sales of nondurable goods were down 0.3% (+/-1.1%)* from September but were up 2.8 percent  (+/-2.5%) from last October as wholesale sales of farm products rose 8.0% while wholesale sales of petroleum and petroleum products fell 5.8%…note that the asterisks indicate that Census does not yet have sufficient statistical evidence to determine whether sales actually rose of fell for the periods indicated….this release also reported that seasonally adjusted wholesale inventories were valued at $542.0 billion at the end of October, 0.4% (+/-0.4%)* higher than the revised September level and  6.8% (+/-1.1%) above last October's level, while September's preliminary inventory estimate was revised up by $0.9 billion or 0.2%…wholesale durable goods inventories were up statistically unchanged (+/-0.4%) from September and up 8.5 percent (+/-1.4%) from a year ago, with wholesale inventories of computers, peripherals and software down 3.6% while inventories of hardware and plumbing and heating equipment were up 1.6%….inventories of nondurable goods were up 1.2% (+/-0.7%) from September while they were up 4.2% (+/-1.2%) from last October, as wholesale inventories of drugs and drugstore supplies were up by 3.2% while wholesale inventories of petroleum and petroleum products were down 1.9%… finally, the closely watched inventory to sales ratio of merchant wholesalers was at 1.19, unchanged from September but up from the inventory to sales ratio of 1.16 in October of last year… 
+ then on Thursday, the Census Bureau released  the Manufacturing and Trade Inventories and Sales report for October , which is  covered in the media as the business inventories report, and which estimated the combined value of seasonally adjusted distributive trade sales and manufacturers' shipments was at $1,350.9 billion in October, down 0.1% (±0.3%)* from September, while 3.4% (±0.5%) above the total monthly sales level of October of last year…manufacturers sales were estimated at $499,247 million, down 0.8%, while retailer's sales were estimated up 0.4% at $397,048 million and merchant wholesalers, up 0.2%, accounted for $454,587 million of the overall total….meanwhile, total manufacturer's and trade inventories were estimated to have increased 0.2 percent (±0.1%) from September to a seasonally adjusted $1,760.4 billion at the end of October, which was up 4.8 percent (±0.5%) from October a year earlier…seasonally adjusted inventories of manufacturers were estimated to be valued at $655,603 million, inventories of retailers were estimated to be valued at $562,780 million, and inventories of wholesalers were estimated to be valued at $541,985 million at the end of October…the month end total business inventories to total sales ratio, the metric which is watched to determine if inventories are becoming excessive, was at 1.30, unchanged from September but up a bit from 1.29 October a year ago… 
+ October Job Openings and Quits Remain Near Post Recession Highs 
+ the  October Job Openings and Labor Turnover Survey  (JOLTS) from the Bureau of Labor Statistics estimated that seasonally adjusted job openings rose by 149,000 to 4,834,000 at the end of October, while the estimate for jobs open at the end of September was revised down by 50,000 from the originally reported 4,735,000 openings to 4,685,000…. job openings in restaurants and hotels rose by 61,000 to 669,000  and openings in construction rose by 24,000 to 136,000, while openings for state and local government jobs fell by 41,000 to 354,000…..job openings as a percentage of the employed labor force rose to 3.3% from 3.2% in September, up from 2.8% in October a year ago and up from a low of 2.7% in January…based on  8,995,000 officially unemployed in October , there would be 1.9 unemployed who were actually looking for work during October for every job opening; that, of course, does not count those who might have wanted a job but didn't look for work during the month… 
+ the JOLTS release also reports on labor turnover, which consists of hires and job separations, which in turn is further divided into layoffs and discharges, those who quit, and 'other separations', which include retirements and deaths…. in October, seasonally adjusted  new hires totaled 5,055,000 , down 20,000 from the 5,075,000 hired or rehired in September, as the hiring rate as a percentage of all employed remained unchanged at 3.6%, while up from 3.4% in August and up from the 3.4% hiring rate in October a year earlier…while hiring rose by 85,000 to 778,000 in retail, it fell by 89,000 to 1,079,000 in professional and business services…. meanwhile,  total separations rose , from 4,809,000 in September to 4,824,000 in October, as the separations rate as a percentage of the employed rose from 3.4% to 3.5%, and up from 3.1% a year earlier…subtracting the 4,824,000 total separations from the total hires of 5,055,000 would imply an increase of 231,000 jobs in October, 12,000 less than  the revised payroll job increase of 243,000 jobs for October reported by the BLS establishment survey last week , a difference not unexpected between these two surveys that both have wide confidence intervals… 
+ further breaking down the seasonally adjusted job separations, we find that  2,720,000 quit their jobs in October , 15,000 less than the revised post recession high of 2,735,000 who quit their jobs in September, while the quits rate,  an indicator of worker confidence which is being watched by the Fed , fell from 2.0% to 1.9% of total employment…..in addition to those who quit, another  1,618,000 were either laid off, fired or otherwise discharged in October , up 45,000 from the 1,573,000 discharges in September, which nonetheless left the discharges rate unchanged at 1.2% of all those who were employed during the month….meanwhile,  other separations, which includes retirement and death, were at 405,000 in October , down from 420,000 in September, for an 'other separations' rate of 0.3%, which was unchanged…. our FRED graph for this report below  shows job openings in blue in thousands monthly since January 2005, and monthly hires in orange and monthly separations in violet over the same span…note that months when separations in purple were above hires in orange, we were losing jobs…the two major components of separations are also included below, the count of layoffs and firings is tracked in red, while the number of those quitting their jobs monthly is shown in green, slightly down from the post recession high…. 
+ 
+ 
+ (the above is the synopsis that accompanied my regular sunday morning links emailing, which in turn was mostly   selected from my weekly blog post   on the   global glass onion   …if you’d be interested in receiving my weekly emailing of selected links that accompanies these commentaries, most from the aforementioned GGO posts,   contact me   …) 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- December 13 graphics 
+ December 20 graphics: -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ global oil supply near December's demand; US distillates exports at a 40 mo low​; gasoline production at a 34 week low​ 
+ December's consumer & producer prices, retail sales, & industrial production; November's business inventories & JOLTS 
+ tables and graphs for January 16 
+ gasoline demand at a 32 week low, gasoline supplies up ​most in 3​5 weeks; distillate​s​ supplies​ up most in 31 weeks​ 
+ December's jobs report; November's trade deficit, construction spending, factory inventories, and wholesale trade.. 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ rjsigmund  on  tables and graphics for Novemb… 
+ 
+ 
+ 
+ 
+ Marsha Boggs on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ godfrey on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ rjsigmund  on  http://windowslivehelp.com/pro… 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ October 2011 
+ September 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ 
+ 
+ 
+ Categories 
+ 
+ mortgage crisis 
+ retail sales 
+ Uncategorized 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  r.j.'s space  
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

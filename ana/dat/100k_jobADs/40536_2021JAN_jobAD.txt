@@ -1,0 +1,605 @@
+Prashanth Jayaram 
+ DB Technology Enthusiast [Cloud, SQL To NoSQL] & PowerShell Scripting 
+ Skip to content 
+ 
+ Home 
+ About 
+ Free SQL formatter overview 
+ How to do a quick "Row Count only" comparison in two large SQL Server databases 
+ Overview of the SQL LIKE Operator 
+ SQL Coalesce in SQL Server 
+ What’s new in SQL Server 2017 
+ 
+ <- SQL - Backup Report 
+ PowerShell - System Information -> 
+ SQL Jobs - Complete Information - SQL 2000/2005/2008/R2 
+ Posted on  March 11, 2014  by  Prashanth Jayaram 
+ SQL Job details - The script can be executed across all SQL version from SQL 2000 onwards. 
+ The below are the columns listed in the output 
+ 
+ ServerName 
+ ScheduleID 
+ ScheduleName 
+ IsEnabled 
+ ScheduleType 
+ Occurrence 
+ Recurrence 
+ Frequency 
+ ScheduleUsage 
+ StartDate 
+ ScheduleUsage 
+ EndDate 
+ ScheduleCreatedOn 
+ ScheduleLastModifiedOn 
+ 
+ For more information about the columns refer the below the link 
+ http://technet.microsoft.com/en-us/library/ms178644.aspx 
+ Download :-  SQL Jobs Details 
+ Code:- 
+ IF  (left(cast(SERVERPROPERTY('ProductVersion')as varchar),5)='10.00' and SERVERPROPERTY('EngineEdition')=3) OR (left(cast(SERVERPROPERTY('ProductVersion')as varchar),5)='10.50' and SERVERPROPERTY('EngineEdition')in(2,3)) OR (left(cast(SERVERPROPERTY('ProductVersion')as varchar),5)='9.00.' and SERVERPROPERTY('EngineEdition')in(2,3)) 
+BEGIN 
+DECLARE @DML1 VARCHAR(8000) 
+DECLARE @DML2 VARCHAR(8000) 
+DECLARE @DML3 VARCHAR(8000) 
+
+SET @DML1='SELECT '''+ @@Servername +''' ServerName, 
+    [Schedule_UID] AS [ScheduleID] 
+    , [name] AS [ScheduleName] 
+    , CASE [enabled] 
+        WHEN 1 THEN ''Yes'' 
+        WHEN 0 THEN ''No'' 
+      END AS [IsEnabled] 
+    , CASE  
+        WHEN [freq_type] = 64 THEN ''Start automatically when SQL Server Agent starts'' 
+        WHEN [freq_type] = 128 THEN ''Start whenever the CPUs become idle'' 
+        WHEN [freq_type] IN (4,8,16,32) THEN ''Recurring'' 
+        WHEN [freq_type] = 1 THEN ''One Time'' 
+      END [ScheduleType] 
+    , CASE [freq_type] 
+        WHEN 1 THEN ''One Time'' 
+        WHEN 4 THEN ''Daily'' 
+        WHEN 8 THEN ''Weekly'' 
+        WHEN 16 THEN ''Monthly'' 
+        WHEN 32 THEN ''Monthly - Relative to Frequency Interval'' 
+        WHEN 64 THEN ''Start automatically when SQL Server Agent starts'' 
+        WHEN 128 THEN ''Start whenever the CPUs become idle'' 
+      END [Occurrence] 
+    , 
+     CASE [freq_type] 
+        WHEN 4 THEN ''Occurs every '' + CAST([freq_interval] AS VARCHAR(3)) + '' day(s)'' 
+        WHEN 8 THEN ''Occurs every '' + CAST([freq_recurrence_factor] AS VARCHAR(3))  
+                    + '' week(s) on '' 
+                    + CASE WHEN [freq_interval] & 1 = 1 THEN ''Sunday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 2 = 2 THEN '', Monday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 4 = 4 THEN '', Tuesday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 8 = 8 THEN '', Wednesday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 16 = 16 THEN '', Thursday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 32 = 32 THEN '', Friday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 64 = 64 THEN '', Saturday'' ELSE '''' END 
+        WHEN 16 THEN ''Occurs on Day '' + CAST([freq_interval] AS VARCHAR(3))  
+                     + '' of every '' 
+                     + CAST([freq_recurrence_factor] AS VARCHAR(3)) + '' month(s)'' 
+        WHEN 32 THEN ''Occurs on '' 
+                     + CASE [freq_relative_interval] 
+                        WHEN 1 THEN ''First'' 
+                        WHEN 2 THEN ''Second'' 
+                        WHEN 4 THEN ''Third'' 
+                        WHEN 8 THEN ''Fourth'' 
+                        WHEN 16 THEN ''Last'' 
+                       END 
+                     + '' ''  
+                     + CASE [freq_interval] 
+                        WHEN 1 THEN ''Sunday'' 
+                        WHEN 2 THEN ''Monday'' 
+                        WHEN 3 THEN ''Tuesday'' 
+                        WHEN 4 THEN ''Wednesday'' 
+                        WHEN 5 THEN ''Thursday'' 
+                        WHEN 6 THEN ''Friday'' 
+                        WHEN 7 THEN ''Saturday'' 
+                        WHEN 8 THEN ''Day'' 
+                        WHEN 9 THEN ''Weekday'' 
+                        WHEN 10 THEN ''Weekend day'' 
+                       END 
+                     + '' of every '' + CAST([freq_recurrence_factor] AS VARCHAR(3))  
+                     + '' month(s)'' 
+      END AS [Recurrence] 
+    , 
+
+   CASE [freq_subday_type] 
+        WHEN 1 THEN ''Occurs once at ''  
+                    + STUFF( 
+                 STUFF(RIGHT(''000000'' + CAST([active_start_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'') 
+        WHEN 2 THEN ''Occurs every ''  
+                    + CAST([freq_subday_interval] AS VARCHAR(3)) + '' Second(s) between ''  
+                    + STUFF( 
+                   STUFF(RIGHT(''000000'' + CAST([active_start_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                           , 6, 0, '':'') 
+                    + '' & ''  
+                    + STUFF( 
+                    STUFF(RIGHT(''000000'' + CAST([active_end_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'')' 
+        SET @DML2='WHEN 4 THEN ''Occurs every ''  
+                    + CAST([freq_subday_interval] AS VARCHAR(3)) + '' Minute(s) between ''  
+                    + STUFF( 
+                   STUFF(RIGHT(''000000'' + CAST([active_start_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'') 
+                    + '' & ''  
+                    + STUFF( 
+                    STUFF(RIGHT(''000000'' + CAST([active_end_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'') 
+        WHEN 8 THEN ''Occurs every ''  
+                    + CAST([freq_subday_interval] AS VARCHAR(3)) + '' Hour(s) between ''  
+                    + STUFF( 
+                    STUFF(RIGHT(''000000'' + CAST([active_start_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'') 
+                    + '' & ''  
+                    + STUFF( 
+                    STUFF(RIGHT(''000000'' + CAST([active_end_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'') 
+      END [Frequency] 
+    , STUFF( 
+            STUFF(CAST([active_start_date] AS VARCHAR(8)), 5, 0, ''-'') 
+                , 8, 0, ''-'') AS [ScheduleUsageStartDate] 
+    , STUFF( 
+            STUFF(CAST([active_end_date] AS VARCHAR(8)), 5, 0, ''-'') 
+                , 8, 0, ''-'') AS [ScheduleUsageEndDate] 
+    , [date_created] AS [ScheduleCreatedOn] 
+    , [date_modified] AS [ScheduleLastModifiedOn] 
+FROM [msdb].[dbo].[sysschedules] 
+ORDER BY [ScheduleName] 
+' 
+
+SET @DML3=@DML1+@DML2 
+exec (@DML3) 
+
+END 
+IF  (left(cast(SERVERPROPERTY('ProductVersion')as varchar),5)='8.00.' and SERVERPROPERTY('EngineEdition')in(2,3)) 
+BEGIN 
+
+SET @DML1='SELECT '''+ @@Servername +''' ServerName, 
+    so.[job_id] AS [ScheduleID] 
+    , so.[name] AS [ScheduleName] 
+    , CASE so.[enabled] 
+        WHEN 1 THEN ''Yes'' 
+        WHEN 0 THEN ''No'' 
+      END AS [IsEnabled] 
+    , CASE  
+        WHEN [freq_type] = 64 THEN ''Start automatically when SQL Server Agent starts'' 
+        WHEN [freq_type] = 128 THEN ''Start whenever the CPUs become idle'' 
+        WHEN [freq_type] IN (4,8,16,32) THEN ''Recurring'' 
+        WHEN [freq_type] = 1 THEN ''One Time'' 
+      END [ScheduleType] 
+    , CASE [freq_type] 
+        WHEN 1 THEN ''One Time'' 
+        WHEN 4 THEN ''Daily'' 
+        WHEN 8 THEN ''Weekly'' 
+        WHEN 16 THEN ''Monthly'' 
+        WHEN 32 THEN ''Monthly - Relative to Frequency Interval'' 
+        WHEN 64 THEN ''Start automatically when SQL Server Agent starts'' 
+        WHEN 128 THEN ''Start whenever the CPUs become idle'' 
+      END [Occurrence] 
+    , 
+     CASE [freq_type] 
+        WHEN 4 THEN ''Occurs every '' + CAST([freq_interval] AS VARCHAR(3)) + '' day(s)'' 
+        WHEN 8 THEN ''Occurs every '' + CAST([freq_recurrence_factor] AS VARCHAR(3))  
+                    + '' week(s) on '' 
+                    + CASE WHEN [freq_interval] & 1 = 1 THEN ''Sunday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 2 = 2 THEN '', Monday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 4 = 4 THEN '', Tuesday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 8 = 8 THEN '', Wednesday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 16 = 16 THEN '', Thursday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 32 = 32 THEN '', Friday'' ELSE '''' END 
+                    + CASE WHEN [freq_interval] & 64 = 64 THEN '', Saturday'' ELSE '''' END 
+        WHEN 16 THEN ''Occurs on Day '' + CAST([freq_interval] AS VARCHAR(3))  
+                     + '' of every '' 
+                     + CAST([freq_recurrence_factor] AS VARCHAR(3)) + '' month(s)'' 
+        WHEN 32 THEN ''Occurs on '' 
+                     + CASE [freq_relative_interval] 
+                        WHEN 1 THEN ''First'' 
+                        WHEN 2 THEN ''Second'' 
+                        WHEN 4 THEN ''Third'' 
+                        WHEN 8 THEN ''Fourth'' 
+                        WHEN 16 THEN ''Last'' 
+                       END 
+                     + '' ''  
+                     + CASE [freq_interval] 
+                        WHEN 1 THEN ''Sunday'' 
+                        WHEN 2 THEN ''Monday'' 
+                        WHEN 3 THEN ''Tuesday'' 
+                        WHEN 4 THEN ''Wednesday'' 
+                        WHEN 5 THEN ''Thursday'' 
+                        WHEN 6 THEN ''Friday'' 
+                        WHEN 7 THEN ''Saturday'' 
+                        WHEN 8 THEN ''Day'' 
+                        WHEN 9 THEN ''Weekday'' 
+                        WHEN 10 THEN ''Weekend day'' 
+                       END 
+                     + '' of every '' + CAST([freq_recurrence_factor] AS VARCHAR(3))  
+                     + '' month(s)'' 
+      END AS [Recurrence] 
+    , 
+
+   CASE [freq_subday_type] 
+        WHEN 1 THEN ''Occurs once at ''  
+                    + STUFF( 
+                 STUFF(RIGHT(''000000'' + CAST([active_start_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'') 
+        WHEN 2 THEN ''Occurs every ''  
+                    + CAST([freq_subday_interval] AS VARCHAR(3)) + '' Second(s) between ''  
+                    + STUFF( 
+                   STUFF(RIGHT(''000000'' + CAST([active_start_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                           , 6, 0, '':'') 
+                    + '' & ''  
+                    + STUFF( 
+                    STUFF(RIGHT(''000000'' + CAST([active_end_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'')' 
+        SET @DML2='WHEN 4 THEN ''Occurs every ''  
+                    + CAST([freq_subday_interval] AS VARCHAR(3)) + '' Minute(s) between ''  
+                    + STUFF( 
+                   STUFF(RIGHT(''000000'' + CAST([active_start_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'') 
+                    + '' & ''  
+                    + STUFF( 
+                    STUFF(RIGHT(''000000'' + CAST([active_end_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'') 
+        WHEN 8 THEN ''Occurs every ''  
+                    + CAST([freq_subday_interval] AS VARCHAR(3)) + '' Hour(s) between ''  
+                    + STUFF( 
+                    STUFF(RIGHT(''000000'' + CAST([active_start_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'') 
+                    + '' & ''  
+                    + STUFF( 
+                    STUFF(RIGHT(''000000'' + CAST([active_end_time] AS VARCHAR(6)), 6) 
+                                , 3, 0, '':'') 
+                            , 6, 0, '':'') 
+      END [Frequency] 
+    , STUFF( 
+            STUFF(CAST([active_start_date] AS VARCHAR(8)), 5, 0, ''-'') 
+                , 8, 0, ''-'') AS [ScheduleUsageStartDate] 
+    , STUFF( 
+            STUFF(CAST([active_end_date] AS VARCHAR(8)), 5, 0, ''-'') 
+                , 8, 0, ''-'') AS [ScheduleUsageEndDate] 
+    , so.[date_created] AS [ScheduleCreatedOn] 
+    , [date_modified] AS [ScheduleLastModifiedOn] 
+FROM [msdb].[dbo].[sysjobschedules] sj 
+inner join msdb.dbo.sysjobs so on so.job_id=sj.job_id' 
+
+SET @DML3=@DML1+@DML2 
+exec (@DML3) 
+END
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ LinkedIn 
+ More 
+ 
+ 
+ 
+ Tumblr 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ About Prashanth Jayaram 
+ DB Technologist, Author, Blogger, Service Delivery Manager at CTS, Automation Expert, Technet WIKI Ninja, MVB and Powershell Geek My Profile: https://social.technet.microsoft.com/profile/prashanth jayaram/ http://www.sqlshack.com/author/prashanth/ http://codingsight.com/author/prashanthjayaram/ https://www.red-gate.com/simple-talk/author/prashanthjayaram/ http://www.sqlservercentral.com/blogs/powersql-by-prashanth-jayaram/ Connect Me: Twitter @prashantjayaram GMAIL powershellsql@gmail.com The articles are published in: http://www.ssas-info.com/analysis-services-articles/ http://db-pub.com/ http://www.sswug.org/sswugresearch/community/ 
+  View all posts by Prashanth Jayaram ->  
+ This entry was posted in  SQL  and tagged  Job Frequency ,  job schedule ,  SQL Jobs ,  sysschedules . Bookmark the  permalink . 
+ <- SQL - Backup Report 
+ PowerShell - System Information -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Blog Stats 
+ 
+ 398,785 hits 
+ 
+ 
+ 
+ 
+ 
+ 
+ Prashanth Jayaram 
+ 
+ 
+ DB Technologist, Author, Blogger, Service Delivery Manager at CTS, Automation Expert, Technet WIKI Ninja, MVB and Powershell Geek My Profile: https://social.technet.microsoft.com/profile/prashanth jayaram/ http://www.sqlshack.com/author/prashanth/ http://codingsight.com/author/prashanthjayaram/ https://www.red-gate.com/simple-talk/author/prashanthjayaram/ http://www.sqlservercentral.com/blogs/powersql-by-prashanth-jayaram/ Connect Me: Twitter @prashantjayaram GMAIL powershellsql@gmail.com The articles are published in: http://www.ssas-info.com/analysis-services-articles/ http://db-pub.com/ http://www.sswug.org/sswugresearch/community/ 
+ Personal Links 
+ * [ Prashanth Jayaram ](https://sqlpowershell.wordpress.com)
+* [ Technet Profile ](http://social.technet.microsoft.com)
+* [ SQLServerCentral.com ](http://www.sqlservercentral.com)
+* [ sqlshack Profile ](http://www.sqlshack.com)
+* [ Codingsight ](http://codingsight.com/author/prashanthjayaram/)
+* [ simple-talk ](https://www.red-gate.com/simple-talk/author/prashanthjayaram/)
+ 
+ Verified Services 
+ * [ ](http://prashantjayaram.tumblr.com/ "prashantjayaram on Tumblr")
+ 
+  View Full Profile ->  
+ 
+ 
+ Top 30 PowerShell bloggers of 2018 
+ 
+ 
+   
+ https://www.sqlshack.com/top-50-powershell-bloggers-of-2018/#Prashanth%20Jayaram 
+ 
+ 
+ My Blog is ranked amongst the Top 50 SQL blogs worldwide 
+ 
+ 
+   
+ http://blog.feedspot.com/sql_blogs/ 
+ 
+ 
+ DZone MVB 
+ 
+ 
+   
+ 
+ 
+ Microsoft 
+ 
+ 
+   
+ 
+ 
+ Follow Blog via Email 
+ 
+ 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 327 other followers 
+ Email Address: 
+ Follow 
+ 
+ 
+ Archives 
+ 
+ January 2021  (1) 
+ October 2020  (1) 
+ June 2019  (1) 
+ May 2019  (2) 
+ April 2019  (1) 
+ March 2019  (1) 
+ January 2019  (3) 
+ December 2018  (8) 
+ October 2018  (3) 
+ September 2018  (5) 
+ August 2018  (1) 
+ July 2018  (9) 
+ June 2018  (5) 
+ May 2018  (8) 
+ April 2018  (5) 
+ March 2018  (6) 
+ February 2018  (1) 
+ January 2018  (4) 
+ December 2017  (3) 
+ November 2017  (3) 
+ October 2017  (5) 
+ September 2017  (3) 
+ August 2017  (3) 
+ July 2017  (3) 
+ June 2017  (3) 
+ May 2017  (3) 
+ April 2017  (1) 
+ March 2017  (4) 
+ February 2017  (1) 
+ January 2017  (3) 
+ December 2016  (1) 
+ November 2016  (2) 
+ October 2016  (2) 
+ September 2016  (2) 
+ August 2016  (3) 
+ July 2016  (6) 
+ June 2016  (2) 
+ May 2016  (9) 
+ April 2016  (12) 
+ March 2016  (4) 
+ February 2016  (2) 
+ January 2016  (6) 
+ December 2015  (2) 
+ August 2015  (1) 
+ March 2015  (3) 
+ February 2015  (3) 
+ January 2015  (5) 
+ December 2014  (4) 
+ November 2014  (3) 
+ October 2014  (1) 
+ September 2014  (1) 
+ August 2014  (1) 
+ July 2014  (1) 
+ June 2014  (1) 
+ May 2014  (2) 
+ April 2014  (4) 
+ March 2014  (4) 
+ February 2014  (5) 
+ January 2014  (8) 
+ December 2013  (2) 
+ November 2013  (1) 
+ October 2013  (2) 
+ September 2013  (6) 
+ August 2013  (5) 
+ July 2013  (6) 
+ June 2013  (6) 
+ May 2013  (9) 
+ April 2013  (16) 
+ 
+ 
+ 
+ Top Posts & Pages 
+ 
+ The RPC server is unavailable. (Exception from HRESULT: 0x800706BA) 
+ T-SQL - Read CSV files using OpenRowSet 
+ SQL vs NoSQL 
+ SQL Server : Could not load file or assembly 'Microsoft.SqlServer.BatchParser, Version=10.0.0.0 
+ Mailbox Statistics report with Email addresses 
+ PowerShell - Get CPU Details and its Usage 
+ MongoDB - Insert,Update,Upsert and Delete Examples - CRUD 
+ PowerShell- Monitoring Multiple Services On Multiple Servers Using Win 
+ How to Change Suspect Mode to Normal Mode in SQL Server Database 
+ PowerSQL - Database Backup Report across all Servers - Centralized Approach 
+ 
+ 
+ 
+ * []()
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Categories 
+ 
+ AlwaysOn  (1) 
+ awards  (2) 
+ Backup and Restore  (14) 
+ Citrix  (1) 
+ databases_files  (2) 
+ docker  (5) 
+ Exchange  (2) 
+ FileProperty  (1) 
+ GDPR  (1) 
+ GENERAL  (3) 
+ Graph database  (1) 
+ JSON  (4) 
+ Logshipping on Linux  (1) 
+ MongoDB  (16) 
+ NoSQL  (1) 
+ Philosophy  (1) 
+ PowerShell  (64) 
+ Python  (4) 
+ Robocopy  (2) 
+ SCCM  (1) 
+ Security  (3)
+ 
+ Vulnerability  (1) 
+ 
+ 
+ SETVAR  (2) 
+ sp_msforeachDB  (1) 
+ sp_MSforeachtable  (1) 
+ SQL  (99) 
+ SQL 2012  (4) 
+ SQL 2016  (11) 
+ SQL 2017  (7) 
+ SQL 2017 on Linux  (5) 
+ SQL and Python  (1) 
+ SQL AZURE  (2) 
+ SQL Indexes  (1) 
+ SQL Joins  (1) 
+ SQL On Linux  (1) 
+ SQL Ops Studio  (1) 
+ SQL Server 2017  (11) 
+ SQL Server Backup  (10) 
+ SQL Server DevOps  (1) 
+ SQL Server Tools  (1) 
+ SQL Server vNext  (2) 
+ SQL String  (1) 
+ SQL tools  (2) 
+ SQL XML  (1) 
+ SQLCMD  (3) 
+ SSAS  (4) 
+ SSRS  (3) 
+ String handling  (2) 
+ sysfiles  (3) 
+ T-SQL  (37) 
+ Uncategorized  (42) 
+ Variable Passing  (1) 
+ XenApp VDA  (1) 
+ XenDesktop VDA  (1) 
+ XML  (2) 
+ 
+ 
+ 
+ Follow Prashanth Jayaram on WordPress.com 
+ 
+ 
+ ****January 28, 2021 
+ 
+ 
+ The big day is here. 
+ 
+ The Big Day  October 25, 2016 
+ 
+ The big day is here. 
+ 
+ 
+ Recent Posts 
+ 
+ SQL PowerShell to check and repair Ad-hoc distributed queries Vulnerability  January 4, 2021 
+ Hadoop Workflow Automation using Apache spark and Oozie  October 30, 2020 
+ Import Local SQL Server Database to Azure – Pick the Best Method  June 11, 2019 
+ Microsoft SQL Server Error 5243 – Top 3 Ways To Fix This Issue  May 21, 2019 
+ Restore SQL Server 2014 Database from Backup – Step By Step Guide  May 6, 2019 
+ Know How to Repair SQL Database Marked as Suspect Mode in SQL Server  April 30, 2019 
+ Kernel Migrator for SQL Server - Expert Product Review  March 17, 2019 
+ SQL Power Doc to Discover, Diagnose and Document SQL Server  January 22, 2019 
+ Today, I'm making my 100th post on SQLShack  January 14, 2019 
+ How to Change Suspect Mode to Normal Mode in SQL Server Database  January 7, 2019 
+ Shrinking Tempdb in SQL Server won't work?  December 28, 2018 
+ Automation to list all TCP static and dynamic ports of SQL Server instances using PowerShell  December 27, 2018 
+ Select-AzureRmProfile : The term 'Select-AzureRmProfile' is not recognized as the name of a cmdlet, function, script file, or operable program  December 21, 2018 
+ Top 50 PowerShell bloggers of 2018  December 18, 2018 
+ How to automatically Discover SQL Server instances  December 17, 2018 
+ SQL Server Essentials for beginners  December 10, 2018 
+ SQL Date functions in SQL Server  December 4, 2018 
+ Overview of DML Operations - SQL Delete  December 3, 2018 
+ Overview of the SQL Insert statement  October 26, 2018 
+ SQL Pivot and Unpivot relational operatots  October 15, 2018 
+ 
+ 
+ 
+ PowershellSQL 
+ 
+ 
+   RSS - Posts 
+ 
+ 
+ Blog Stats 
+ 
+ 398,785 hits 
+ 
+ 
+ 
+  Prashanth Jayaram  
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ %d bloggers like this: 

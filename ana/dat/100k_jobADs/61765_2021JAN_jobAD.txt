@@ -1,0 +1,111 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Full time mid-weight to senior developer LOCALPERMANENT 
+ Job Description 
+ We are looking for a mid-weight to senior developer to join us. You will be working with an energetic creative team to build digital projects for our clients. We are an integrated brand consultancy, continually looking at ways to push the potential of digital from a functional and emotional perspective to support the larger brand narratives we create. 
+ The job is to realise and build digital experiences, working closely with the team and our clients. We primarily use CraftCMS and work with front-end Javascript frameworks such as Vue to create fluid user experiences and maintainable code. Our work often extends beyond the browser and we continually encourage ways to bring code into the design process. 
+ Key Responsibilities 
+ 
+ Working with the creative team to build digital brand experiences 
+ Problem solving with clients and the team to turn ideas into reality and produce the best technical outcome 
+ Ability to develop responsive websites and progressive mobile apps using best practices 
+ Build reusable code and libraries for future use 
+ Advise on best practice across a variety of applications from external facing websites to internal web-apps that help organisations 
+ Optimise applications for performance and scalability 
+ Developing and mentoring team members 
+ 
+ Skills And Experience 
+ 
+ 
+ Proficient understanding of HTML5, CSS3 and Javascript / ES6, accessible HTML, CSS pre-processors such as Sass, cross-browser compatibility and REST 
+ 
+ 
+ Understanding of build tools such as Gulp and Webpack 
+ 
+ 
+ Familiar with package managers such as Yarn and NPM 
+ 
+ 
+ Good use of Node.js and client-side frameworks such as VueJS*, React and Angular 
+ 
+ 
+ Headless API CMS Experience (Such as Craft CMS*, Contentful) 
+ 
+ 
+ Ideally from an agency background working with designers to create the most technically brilliant, creative output 
+ 
+ 
+ Experience working with third-party API’s to build real world applications 
+ 
+ 
+ Desirable 
+ 
+ 
+ About Wiedemann Lampe 
+ We are Wiedemann Lampe, an international brand consultancy based in London. We harness the power of culture to create meaningful dialogue, building brands where communities can flourish. 
+ Through emotionally-tuned, detail-driven strategy, technology and design, we elevate brands to a place where vision and connection coexist. 
+ We seamlessly bridge physical, digital and everything in between. Our diverse team allows us to bring the same expertise and attention to coding as we do to kerning. 
+ What you will get 
+ 
+ Competitive salary depending on experience 
+ A range of exciting, ambitious projects to work on 
+ 22 days paid holiday per year with us generous time off around Christmas 
+ Pension scheme with employer contributions 
+ Constant opportunities to develop your skills 
+ A beautiful studio space based in Shoreditch 
+ A supportive and friendly working environment 
+ Free lunch provided for the team 
+ 
+ How to Apply 
+ Please email your CV along with links to your work and a covering letter to  [email protected] 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Wiedemann Lampe 
+ 
+ __ 
+ 
+ Location:  London 
+ 
+ __ 
+ 
+ Phone Number:  [0044 207 655 4448](0044 207 655 4448) 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://www.wiedemannlampe.com/ 
+ __  Posted January 8, 2020 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

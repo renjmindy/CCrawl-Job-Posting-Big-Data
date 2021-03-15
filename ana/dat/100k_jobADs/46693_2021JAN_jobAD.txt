@@ -1,0 +1,185 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ SENIOR WINDOWS ENGINEER 
+ University of Washington 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ SENIOR WINDOWS ENGINEER 
+ __ University of Washington 
+ [](mailto:?subject=SENIOR%20WINDOWS%20ENGINEER&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14244907/senior-windows-engineer/ "Email")  
+ Application 
+   
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 27, 2020 
+ Location: 
+ Seattle, Washington 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ | As a UW employee, you have a unique opportunity to change lives on our campuses, in our state and around the world. UW employees offer their boundless energy, creative problem solving skills and dedication to build stronger minds and a healthier world. 
+ UW faculty and staff also enjoy outstanding benefits, professional growth opportunities and unique resources in an environment noted for diversity, intellectual excitement, artistic pursuits and natural beauty. All of which has allowed the UW to be nationally recognized as a “Great College to Work For” for six consecutive years. 
+ UW Information Technology (UW-IT) is the central information technology organization for the University of Washington, responsible for strategic planning, oversight, and direction of the UW’s IT infrastructure, resources, and services. UW-IT provides critical technology support to all three campuses, UW medical centers, and research operations around the world. UW-IT partners with the UW community to enable innovation, learning, discovery, and service. 
+ IT Infrastructure provides knowledgeable system design and administration, software engineering, and operational support for academic systems, administrative systems, and research computing. The Computing and Storage team designs, implements, and operates enterprise-level virtual and physical servers, as well as data storage services (storage area networks, network-attached storage, backups, and archiving). 
+ UW-IT has an outstanding opportunity for a Senior Windows Engineer. 
+ The Senior Windows Engineer position requires a team-oriented IT professional, experienced in designing, implementing and managing complex Windows systems and infrastructure in a highly-available clustered and virtualized environment. This position directly supports the research, teaching, and administrative missions of the University. 
+ REQUIREMENTS: 
+ 
+ 
+ Bachelor’s Degree in computer science or a related field or equivalent experience. 
+ 
+ 
+ Minimum of 4 years’ experience in a production IT environment managing mission critical enterprise-class IT infrastructure including servers, storage and databases. 
+ 
+ 
+ Windows systems engineering experience, including extensive hands-on expertise and knowledge of Windows Server, security policies and protocols, Active Directory, IIS, SQL Server and Group Policy. 
+ 
+ 
+ Strong VMware ESXi knowledge and experience. 
+ 
+ 
+ Strong SQL Server clustering (shared disk and Always On) experience. 
+ 
+ 
+ Demonstrated ability to work with minimal supervision, both independently and as part of a team. 
+ 
+ 
+ Demonstrated excellent written/oral communication skills, technical documentation skills, user liaison skills, and personal interaction abilities. 
+ 
+ 
+ Equivalent education/experience will substitute for all minimum qualifications except when there are legal requirements, such as a license/certification/registration. 
+ DESIRED: 
+ 
+ 
+ Hands-on Dell EMC VMAX Windows clustering experience (SRDF/SE) 
+ 
+ 
+ Veeam Backup and Replication experience 
+ 
+ 
+ Prior consulting or managed services/hosting experience is highly desired 
+ 
+ 
+ Hands-on Azure experience is highly desired 
+ 
+ 
+ Experience in a research university or other academic institution 
+ 
+ 
+ Experience with many of the following technologies: DNS, VPNs, IPSec, Firewalls, Load-balancing, .NET, Visual Studio, LDAP, Kerberos, Shibboleth, Spectrum Protect and X509 digital certificates 
+ 
+ 
+ CONDITIONS OF EMPLOYMENT: 
+ Working conditions include typical office environments and university data centers. 
+This is an essential position and is required to report to work remotely when UW suspends operations. 
+Position participates in an on-call rotation and must be able to respond to outages during off-hours. 
+This is an essential position and is required to report to work when UW suspends operations. 
+ Application Process: 
+The application process for UW positions may include completion of a variety of online assessments to obtain additional information that will be used in the evaluation process. These assessments may include Work Authorization, Cover Letter and/or others. Any assessments that you need to complete will appear on your screen as soon as you select “Apply to this position”. Once you begin an assessment, it must be completed at that time; if you do not complete the assessment you will be prompted to do so the next time you access your “My Jobs” page. If you select to take it later, it will appear on your "My Jobs" page to take when you are ready.  Please note that your application will not be reviewed, and you will not be considered for this position until all required assessments have been completed. 
+ ---|--- 
+ 
+ Internal Number: 185775 
+  __  Create a Job Alert for Similar Jobs  
+ About  University of Washington 
+ Founded in 1861, the University of Washington is one of the oldest public institutions in the west coast and one of the preeminent research universities in the world. The University of Washington is a multi-campus university comprised of three different campuses: Seattle, Tacoma, and Bothell. The Seattle campus is made up of sixteen schools and colleges that serve students ranging from an undergraduate level to a doctoral level. The university is home to world-class libraries, arts, music, drama, and sports, as well as the highest quality medical care in Washington State and a world-class academic medical center. The teaching and research of the University’s many professional schools provide undergraduate and graduate students the education necessary toward achieving an excellence that will serve the state, the region, and the nation. As part of a large and diverse community, the University of Washington serves more students than any other institution in the Northwest. 
+ Connections working at  University of Washington 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

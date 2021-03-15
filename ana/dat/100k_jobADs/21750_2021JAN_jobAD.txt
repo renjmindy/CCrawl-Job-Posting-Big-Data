@@ -1,0 +1,182 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Principal Engineer 
+ at Nutmeg 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ Who we are   : 
+ Nutmeg is Europe’s leading Digital Wealth Manager, but we don’t want to stop there! We’re continuing to build our platform to help us achieve our mission of being the most trusted Digital Wealth Manager in the world. 
+ Job in a nutshell: 
+ We run a pure AWS-based cloud environment and deliver features using a continuous delivery approach. Our platform is in the process of being migrated from Mesos to Kubernetes and all our deployments are either containerised services or native mobile apps. Prometheus, Thanos and Grafana are used for observability. 
+ We are also migrating into an Event-Driven Architecture with Apache Kafka as its backbone and a polyglot mix of microservices designed following Domain Driven Design principles. 
+ We run a strong domain ownership model. As a Principal Engineer you will be a trusted technical authority and someone who communicates to the domains a consistent strategic direction adhering to architecture blueprints and ensuring the highest quality implementation. 
+ We are looking for someone with previous job experience as an engineering lead/principal engineer ideally within a financial services company. 
+ Requirements 
+ Your skills: 
+ 
+ Great team player with strong technical views focused on achieving best outcomes collaboratively 
+ Ability to influence very experienced engineering teams in adopting designs and implementing standards 
+ Strong expertise in designing, implementing and maintaining highly-scalable distributed systems 
+ A good understanding of CI/CD pipelines and automated testing 
+ Experience with cloud platforms, ideally AWS, and containerisation tools such as Docker 
+ Passion for quality and observability, an ability to understand complex systems and a desire to constantly make things better. 
+ Lead cross-team working groups to improve standards, engagement and collaboration and drive enhancements 
+ Passionate about technology with a strong record of delivering world-class technology in a tech-led space 
+ Previous experience with one or more of the following: 
+ 
+ 
+ Distributed systems (designing, managing, failures, testing) 
+ JVM based languages (Java, Kotlin) 
+ SQL and NoSQL databases (MySQL, DynamoDB, Redis, etc) 
+ Cloud experience 
+ Data modelling (OLTP) 
+ 
+ You might also have: 
+ 
+ Previous experience with one or more of the following: 
+ 
+ 
+ Kubernetes and Cloud Native 
+ Kafka, Kafka Streams, Kafka Connect 
+ Serverless 
+ Event Driven Architecture 
+ Spring & Spring Boot ecosystem 
+ Domain driven design 
+ 
+ 
+ Also knowledge of monitoring, metrics and Site Reliability Engineering principals 
+ Use of agile/lean methodologies for continuous delivery and improvement 
+ Knowledge of monitoring, metrics or Site Reliability Engineering 
+ Understanding of application security standards 
+ Experience of public speaking (can be company internal) 
+ 
+ Benefits 
+ 
+ 25 days’ holiday 
+ Birthday day off 
+ 2 days’ paid community leave 
+ Daily delivery of fresh fruit and artisanal coffee 
+ Cycle storage and showers onsite 
+ Choice of hardware 
+ Generous pension plan 
+ Private healthcare from day 1 
+ Season ticket loans 
+ Competitive salary 
+ Access to coaching platform & regular knowledge sharing 
+ Part of a diverse and inclusive Nutmeg team 
+ 
+ Published at 27 Aug 2020 - Expires on 21 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Nutmeg 
+ fulltime  Client Services Team Manager  at Nutmeg in London 
+ __21-10-2020 
+ fulltime  Front-End Engineer  at Nutmeg in London 
+ __09-11-2020 
+ fulltime  Senior Wealth Manager  at Nutmeg in London 
+ __13-11-2020 
+ fulltime  Android Developer  at Nutmeg in London 
+ __04-12-2020 
+ fulltime  Front-End Engineer - Contract (Outside IR35)  at Nutmeg in London 
+ __22-12-2020 
+ fulltime  Compliance & Risk Analyst  at Nutmeg in London 
+ __30-12-2020 
+ fulltime  Operations Admin Officer - 6 month FTC  at Nutmeg in London 
+ __17-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

@@ -1,0 +1,171 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Elixir / Phoenix Developer 
+ [ 
+ Joydrive 
+ ](/companies/joydrive) 
+ 
+ Remote 
+ 03 November, 2020 
+ Apply More jobs from Joydrive About Joydrive 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Elixir 
+ phoenix 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health care contributions 
+ 
+ Improve the car buying process with this brilliant platform 
+ Role overview 
+ Joydrive is changing the way people buy or lease their cars. We are the first online store offering customers a 100% digital solution to buy new and used cars from dealerships, including a customers trade-in, financing and home delivery. We want to make car buying enjoyable again! With financing and trade-ins built directly into the mobile-friendly platform, home delivery in as fast as one day, and a five-day return period, customers experience a seamless, transparent, and worry-free purchasing transaction all handled by licensed professionals. 
+ We have a dynamic culture of continuous improvement and work collaboratively in an educational environment to develop excellence in our products, service, and customer experience. Everything we do is founded on having a great team and a culture of growth. 
+ Job Description 
+ We are looking for a developer experienced with Elixir, Phoenix, and JavaScript and interested in expanding into new technologies to join our growing team. Youll work with our existing technology team to build a platform that is forever changing the way people buy cars from dealerships. Joydrive web developers are able to build high-quality, test-driven web applications. Well-qualified candidates have an excellent knowledge of Elixir/Phoenix and JavaScript. 
+ Job Duties 
+ 
+ Understanding and experience using git and GitHub as part of your workflow 
+ Build and deploy production web applications in Elixir and Phoenix 
+ Identify, troubleshoot and optimize slow or non-optimal parts of the system 
+ Enthusiasm for code quality and maintaining codebase and system health 
+ Regularly practice test-driven development & pair programming 
+ Comfort with JavaScript and bonus points for experience in client-side frameworks (React, Cycle.js, Vue.js, etc.) 
+ Knowledge of SQL, including what GROUP BY and LEFT OUTER JOIN do 
+ 
+ Qualifications 
+ 
+ Experience working in an agile development process and a design sprint approach 
+ Experience working on a distributed team (or experience working remotely) 
+ Ability to work in a fast-paced, rapidly changing environment 
+ Desire and passion to change a decades-old industry 
+ Strong work ethic and positive attitude 
+ Asks questions and challenges decision they disagree with thorough & thoughtful discourse 
+ All persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification upon hire. 
+ 
+ Compensation and Benefits 
+ This position will be full time and remote-based. We offer a competitive salary and excellent benefits, including medical, dental, and vision. 
+ 
+ [ 
+ Joydrive 
+ ](/companies/joydrive) 
+ 
+ 1-9 
+ 
+ Buying a car is not fun. But what if it was? Rather than spending 6 hours at a dealership, what if you could buy a car the way you actually wanted to? You would pick your new or pre-owned car from your couch, skip the “let me check with my manager”, have the car delivered, and enjoy a 5-day return period to ensure you love it. With Joydrive, now you can. We are automotive, technology, finance and consumer industry veterans, and we are passionate about creating an experience that is easy, fast, online, and actually fun. It’s time to get your weekend back. Stay home, buy online, and start having fun! 
+ Elixir Flexible Working JavaScript Retail Early Stage Venture phoenix Health Care Contributions 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from Joydrive About Joydrive 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Elixir 
+ phoenix 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health care contributions 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Product ManagerCompetitiveCAISUnited States of America 
+ Senior Product Manager to join an agile and growing team of problem solvers. 
+ Remote 
+ elixir elm 
+ More Info Apply 
+ Engineering Manager$125K - 145KSmartLogicUnited States of America 
+ This position is fully remote within the United States and its Territories. 
+ Remote 
+ elixir javascript react ruby 
+ More Info Apply 
+ Senior Platform Engineer$130K - 175KThe RealRealSan Francisco, CA, US 
+ As a Senior Software Engineer, you’ll design and build software for automating critical operation processes. 
+ elixir erlang ruby 
+ More Info Apply 
+ Elixir / Phoenix Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

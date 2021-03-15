@@ -1,0 +1,347 @@
+BTC/USD 
+$ 29,465  -2.01% 
+ BTC/EUR 
+€ 24,203  -2.14% 
+ BTC/CNY 
+¥ 195,762  -2.10% 
+ BTC/GBP 
+£ 21,519  -1.90% 
+ BTC/RUB 
+₽ 2,165,164  -2.13% 
+ BTC volume 
+$ 26.34B 
+ Altcoin volume 
+$ 52.41B 
+ Crypto market cap 
+$ 813.94B 
+   
+ 
+ 
+ 
+ Toggle navigation 
+ USD 
+ 
+ 
+ __BTC 
+ 
+ 
+ __ETH 
+ 
+ 
+ __USD 
+ 
+ 
+ __EUR 
+ 
+ 
+ __CNY 
+ 
+ 
+ __RUB 
+ 
+ 
+ __GBP 
+ 
+ 
+ __CAD 
+ 
+ 
+ __JPY 
+ 
+ 
+ __HKD 
+ 
+ 
+ __BRL 
+ 
+ 
+ __IDR 
+ 
+ 
+ __AUD 
+ 
+ 
+ __KRW 
+ 
+ 
+ __INR 
+ 
+ 
+ __TRY 
+ 
+ 
+ __ZAR 
+ 
+ 
+ __PLN 
+ 
+ 
+ __USDT 
+ 
+ 
+ __CHF 
+ 
+ 
+ __THB 
+ 
+ 
+ Home 
+ 
+ 
+ Stats 
+ 
+ 
+ Total Volume 
+ Trending 
+ Overview 
+ All time high 
+ Year to Year 
+ 
+ Markets 
+ 
+ Spot 
+ Derivatives 
+ Open Interest 
+ Perpetuals 
+ Futures 
+ Options 
+ Farming 
+ 
+ Exchanges 
+ 
+ Spot 
+ Perpetuals 
+ Futures 
+ Options 
+ 
+ News 
+ Resources 
+ 
+ Calendar 
+ ICO calendar 
+ Events 
+ Tools 
+ Api 
+ Widget 
+ 
+ 
+ Watchlist 
+ 
+ 
+ Portfolio 
+ 
+ 
+ Home 
+ 
+ 
+ Login 
+ 
+ 
+ Watchlist 
+ 
+ 
+ Portfolio 
+ 
+ 
+ Stats 
+ 
+ Total Volume 
+ Trending 
+ Overview 
+ All time high 
+ Year to year 
+ 
+ 
+ 
+ Markets 
+ 
+ Spot 
+ Derivatives 
+ Open Interest 
+ Perpetuals 
+ Futures 
+ Options 
+ Farming 
+ 
+ 
+ 
+ Exchanges 
+ 
+ Spot 
+ Perpetuals 
+ Futures 
+ Options 
+ 
+ 
+ 
+ News 
+ 
+ 
+ Resources 
+ 
+ ICO calendar 
+ Events 
+ Api 
+ Widget 
+ 
+ 
+ 
+ 
+ Dark mode 
+ 
+ 
+ __ 
+ __ 
+ USD 
+ 
+ __BTC 
+ __ETH 
+ __USD 
+ __EUR 
+ __CNY 
+ __RUB 
+ __GBP 
+ __CAD 
+ __JPY 
+ __HKD 
+ __BRL 
+ __IDR 
+ __AUD 
+ __KRW 
+ __INR 
+ __TRY 
+ __ZAR 
+ __PLN 
+ __USDT 
+ __CHF 
+ __THB 
+ 
+ 
+ 
+ 
+ 
+ 
+ Last price 
+ % 
+ 24 high 
+ 24 low 
+ 24 volume 
+ # Coins 
+ Market cap 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bitjob 
+ | 
+ STU 
+ |  $ 0.000461  | 0 % |  $ 0.000461  |  $ 0.000461  |  |  | 
+ 
+ Bitjob STU 
+ Last price 
+ $ 0.000461 
+ % 
+ 0 % 
+ Bitjob STU 
+ Last price  $ 0.000461 
+0 % 
+ 24 high 
+ $  0.000461 
+ 24 low 
+ $ 0.000461 
+ 24 volume 
+ # Coins 
+ Market cap 
+ [Trade](javascript:void(0) " Trade Instantly StormGain - x200 LEVERAGE FOR YOUR PROFIT Try crypto trading today and make a profit! ")
+ __Watchlist   __Watchlist   __Portfolio 
+ __Website   __Explorer   __Discussion 
+ [Trade](javascript:void(0) " Trade Instantly StormGain - x200 LEVERAGE FOR YOUR PROFIT Try crypto trading today and make a profit! ")
+ __Watchlist   __Watchlist   __Portfolio 
+ 
+ Main 
+ Exchanges 
+ Markets 
+ Tools 
+ Rates 
+ Historical 
+ Video 
+ 
+ Bitjob STU Exchanges 
+ Bitjob STU is listed on  3  exchanges with a total 24 hour traded volume of  0 USD 
+ The exchanges with the highest trading volumes for Bitjob STU are  ForkDelta  ,  Hitbtc  and  Liquid 
+ Volume by Exchange 
+ Volume chart 1 month 
+ |  | Exchange Pair | Pair | Price 24 volume | 24 volume | 24 volume % 
+ ---|---|---|---|---|---|--- 
+1 |  |  [ 
+ ForkDelta 
+ STU/ETH ](/exchange/forkdelta) |  STU/ETH  | $ 0.001179$ 0.00 | $ 0.00 | 0.00% 
+2 |  |  [ 
+ Hitbtc 
+ STU/ETH ](/exchange/hitbtc) |  STU/ETH  | $ 0.000884$ 0.00 | $ 0.00 | 0.00% 
+3 |  |  [ 
+ Hitbtc 
+ STU/USDT ](/exchange/hitbtc) |  STU/USDT  | $ 0.000589$ 0.00 | $ 0.00 | 0.00% 
+4 |  |  [ 
+ Liquid 
+ STU/BTC ](/exchange/liquid) |  STU/BTC  | $ 0.001179$ 0.00 | $ 0.00 | 0.00% 
+5 |  |  [ 
+ Liquid 
+ STU/ETH ](/exchange/liquid) |  STU/ETH  | $ 0.000589$ 0.00 | $ 0.00 | 0.00% 
+ We will update this as soon as possible. If you like to help, you can  contact us. 
+ Add coin __ 
+ Coins are added __ 
+ You need an account on WorldCoinIndex to this functionality. Please  login  or  register  to start managing your portfolio. 
+ Add Coin __ 
+ You need an account on WorldCoinIndex to this functionality. Please  login  or  register  to start managing your watchlist. 
+ Guides 
+ 
+ What is Bitcoin 
+ How to buy Bitcoin 
+ What is Ethereum 
+ What is Litecoin 
+ How to buy Cryptocurrency 
+ 
+ Tools 
+ 
+ English 
+ 
+ Bahasa Indonesia   Bahasa Melayu   Dansk   Deutsch   Español   Filipino   Français   Italiano   Magyar   Nederlands   Norsk   Polski   Portugues   Romană   Slovenščina   Suomi   Svenska   Tiếng   Turkçe   Ελληνικά   български език   Русский   العربية   हिन्दी   বাংলা   ภาษาไทย   한국어   中文(简体)   日本語 
+ 
+ Year to year 
+ Widgets 
+ API 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ About us 
+ Coin request 
+ Exchange request 
+ Contact us 
+ Forum 
+ 
+ Follow us 
+ 
+ Facebook 
+ Twitter 
+ 
+ © 2021 WorldCoinIndex    |     Disclaimer    |    Privacy policy    |    Terms of use 
+ We use cookies for analytics, advertising and to improve our site. To find out more about our cookies, see our Privacy Policy. If you agree to our use of cookies, please continue to use our site or press the accept button.  Learn more 
+ Accept 

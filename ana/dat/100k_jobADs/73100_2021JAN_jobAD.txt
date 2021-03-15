@@ -1,0 +1,208 @@
+  
+ Menu   ≡ ╳ 
+ 
+  __ Home   
+  __ Job boards   
+  __ Freelancer & Gigs   
+  __ General and COVID-19 Specific Resources   
+  __ Jobs with Impact   
+  __ Courses   
+ __ 
+ 
+ Job boards 
+ Below is a list of job boards specifically for remote jobs. 
+ You can reference the legend below which includes icons to better match each job board to your specific preferences or situation. 
+ 🖥 | Software Development 🎨 | Design 👫 | Customer Support 
+ 📊 | Data Science 📢 | Marketing 💾 | Non-Tech 
+ 😃 | A little bit of everything 
+ 🌍| Worldwide 🇺🇸 | America 🇪🇺 | Europe 
+ 🥢 | Asia 🐪 | Middle East 🦁 | África 🦘| Oceania 
+ 🌍😃  Remotees 
+ A daily listing of remote jobs 
+ 🌍😃  AngelList 
+ Search for the best remote work opportunities updated every day 
+ 🌍😃 Remote OK 
+ The #1 rated remote job board in the world 
+ 🌍😃 Remote Hub 
+ Compiles remote companies with their locations, benefits, tech stack, and more – to help you find your next remote team to join 
+ 🇺🇸 EdSurge 
+ Connect the emerging community of education technology entrepreneurs and educators. Primarily focused on US Education. 
+ 🌍🇪🇺😃  Four day week 
+ For employment opportunities that are flexible. Remote, with reduced hours, flexi-time or, four-day weeks. This is not for relaxed or casual work but great (limited) roles with progressive companies 
+ 🌍😃 We Work Remotely 
+ 🌍😃 Creative Mornings 
+ The largest remote work community in the world. 
+ "Bringing together people who are driven by passion and purpose, confident that they will inspire one another, and inspire change in neighborhoods and cities around the world." 
+ 🇺🇸😃 Virtual Vocations 
+ "Our mission to help you find legitimate telecommuting jobs quickly, easily and safely is the driving force behind what we do." 
+ 🌍😃 Remote 4 me 
+ Categorized by type of remote work. Jobs for full remote potential are tagged as “work from wherever you want” or “100% remote”. Limited remote work tagged as “you can work remotely once a week”. Potential remote work tagged as “may consider remote for a highly qualified candidate” or “50% remote”. The Javascript, Java and, Python jobs go into different categories under “Developer jobs". 
+ So you can simply browse the category that meets your needs. Additionally, other tags are available for things like time zone. 
+ 🌍😃 Awesome Jobs 
+ A curated—and constantly updated—list of remote job opportunities. 
+ 🌍😃 JustRemote 
+ Discover fully and partially remote jobs from the greatest remote working companies. 
+ 🇪🇺😃 Europe Remotely 
+ Large portion of the remote jobs posted on regular job boards are intended only for US citizens or people living within US time zones. Europe Remotely is manually curated and contains only jobs from companies that are happy to work with developers living in Europe. 
+ 🌍😃 Travel Massive 
+ The world’s largest community for travel industry professionals to build connections, learn, and share their stories. 
+ 🌍😃 Remoters 
+ Resources for Digital Nomads, Remote Working Professionals & Teams. 
+ 🌍😃 Hitmarker 
+ Find your next job in gaming or sports. 
+ 🌍😃 Cryptocurrency Jobs 
+ Bringing you the best new blockchain jobs at leading companies and startups that use blockchain technology. 
+ 🌍😃 Remote Woman 
+ "We’ve helped the world’s top companies hire a talented, diverse pool of job candidates." 
+ 🌍😃🖥 JobFluent 
+ Search for your new role in Software Development and Startups. 
+ 🌍😃 Let Work Remotely 
+ "We’re more than just a remote job board, we’re a 100,000+ member remote community." 
+ 🌍😃 The Muse 
+ The go-to destination for the next gen workforce to research companies and careers. 
+ 🌍😃 Top Language Jobs 
+ The European leader in online Bilingual and Multilingual recruitment advertising. Search with the keyword “remote”. 
+ 🌍😃 Flexjobs 
+ "Our first goal is to remove the key pain point of finding great remote and flexible job opportunities that are typically harder and more-time consuming to find anywhere else." 
+ 🌍😃 Linkedin 
+ Access knowledge, insights and opportunities. 
+ 🌍😃 Skip the drive 
+ Simplify the process of finding remote and work-from-home jobs. 
+ 🌍🖥 Ruby Now 
+ The Original Ruby Job Board. 
+ 🌍😃 Dynamite Jobs 
+ The ‘Most Human’ Remote Job Board. 
+ 🌍🖥 Well Paid 
+ The tech job board for experienced contractors. 
+ 🌍😃 Glassdoor 
+ One of the world’s largest job and recruiting sites. Not just for remote work. 
+ 🇺🇸😃 Krop 
+ Creative industry job board and portfolio hosting website. 
+ 🌍😃 Remote Circle 
+ Remote Circle is a remote jobs site that helps you find real jobs that you can do from home, regardless of where you are in the world. 
+ 🌍🖥 Remote Phyton 
+ Find Python jobs you can do from wherever you are in the world. Increase your options by hiring Python developers from anywhere in the world 
+ 🌍😃 Remote Habits 
+ RemoteHabits aims to help you understand remote work 
+ 🌍😃 Pitch Me 
+ Unique jobs marketplace where anyone with relevant skillset can find a job regardless of their age, gender, educational background, and employment history 
+ 🌍🖥🎨 Smashing Magazine 
+ Smashing Magazine delivers reliable, useful, but most importantly practical articles to web designers and developers 
+ 🌍😃 Simply Hired 
+ Browse SimplyHired for jobs, view local and national salary information, discover companies, and learn about the job market in a specific city 
+ 🌍😃 Guavabean 
+ One of the fastest growing online communities for worldwide freelancers of all levels and skills  We make your newsfeed brighter with daily remote job listings, funny memes, and valuable content. There’s no better place to jumpstart your freelance career! 
+ Facebook Community and great newsletters 
+ 🌍😃 Working Nomads 
+ WorkingNomads.co curates lists of the most interesting remote job offers in many professional career areas. We connect professionals who want to work remotely with innovative companies offering independent positions 
+ 🌍😃 Startup.Jobs 
+ Helping shape the future of the fastest growing technology startups 
+ 🌍😃 Remote Global 
+ Remote Global is a job board for a wide variety of remote jobs online. These jobs can also be called telecommute, virtual, or work from home 
+ 🌍😃 Outsourcely 
+ Find a Great Remote Job In Every Industry 
+ 🌍😃 Pactera Remote 
+ Pactera Remote offers you opportunities to work on global brands. If you’re a fan of pop-culture, movies, and current ecommerce and technology trends, you’ll enjoy the projects we have to offer 
+ 🇪🇺😃 Remoteur 
+ Remote jobs in Europe delivered to your inbox every two weeks 
+ 🌍😃 Remote Jobs Club 
+ The Remote Jobs Club is a weekly email that sends you the best remote jobs for free 
+ 🌍😃 Remotely Awesome Jobs 
+ Remotely Awesome Jobs currently crawl ten sites for job posts and are adding more every day 
+ 🌍🖥📊 Remote Developer Jobs 
+ Job board for software engineers with awesome programming skills to work remotely online from home or anywhere else 
+ 🌍😃 Pangian 
+ Find the best curated & verified remote jobs at reputable companies 
+ 🌍🎨 Dribbble 
+ Dribbble is the heart of the design community and the best resource to discover and connect with designers and jobs worldwide 
+ 🌍😃 Jobspresso 
+ 100% of our jobs are hand-picked, manually reviewed and expertly curated 
+ 🌍😃 Workew 
+ We post remote jobs on a daily basis so you can apply and become a digital nomad to work from anywhere in the world, the comfort of your home, coworking spaces or your favorite coffee shops 
+ 🌍🖥 Stack Over Flow 
+ Stack Overflow is an open community for anyone that codes. We help you get answers to your toughest coding questions, share knowledge with your coworkers in private, and find your next dream job 
+ 🇺🇸😃 Career Builder 
+ CareerBuilder has helped millions of people find jobs and has equipped hundreds of thousands of employers with the talent they need 
+ 🌍😃 Power to Fly 
+ Their Mission is to encourage diversity recruiting and hiring by building the tools and employer branding services that emerging businesses and enterprises need 
+ 🇪🇺😃 ZipRecruiter 
+ Use keywords like “remote work” or “homebased” 
+ 🌍😃 Monster 
+ Monster is a global online employment solution for people seeking jobs and the employers who need great people 
+ 🌍😃 F6s 
+ We’ll match you to Startups looking for your skills 
+ 🌍😃 Remote.co 
+ Remote.co is a resource for companies that see remote work as an opportunity 
+ 🌍🖥  Botjobs 
+ Best bot jobs. 
+ 🌍😃 HubStaff talent 
+ Hubstaff has thousands of remote startups, software companies, agencies, and ecommerce businesses that are looking for talent just like you. Sign up for a profile so they can contact you directly for work they need done. 
+ 🌍🖥  FossJobs 
+ We only list jobs that improve and involve FOSS or open hardware projects. 
+ 🇺🇸🖥😃 Dice 
+ Dice is the best place to accelerate your career. We have the latest information on everything from salaries to trending skills, and can put you in front of the opportunities that make the most sense at every stage of your career 
+ 🌍🖥 Drupal 
+ Drupal Jobs is where talent and people looking for Drupal talent come together 
+ 🌍🖥 Elixir Career 
+ Elixir Career is the best place to find, list jobs and developer community space specifically for Elixir Programming Language 
+ 🌍🖥 Golang Projects 
+ Remote work job listings for Golang developers 
+ 🌍🖥 Lara Jobs 
+ The official Laravel job board 
+ 🌍🖥 We Love Golang 
+ 🌍🖥 We Work Meteor 
+ 🌍😃 Remotive 
+ Their mission is to help tech professional go remote 
+ 🐪😃 Bayt 
+ Leading job site in the Middle East and North Africa, connecting job seekers with employers looking to hire. Every day, thousands of new job vacancies are listed on the award-winning platform from the region’s top employers 
+ 🌍😃 Nodesk 
+ Find remote jobs and connect with companies that offer you the freedom to work remotely from home or places around the world. 
+ 🌍📊 Kaggle 
+ Browse the top data science careers. 
+ The jobs board sources career openings for data professionals like you. Subscribe to be notified of new opportunities in data science, machine learning, statistics, and other analytics jobs 
+ 🌍🖥 WP Hired 
+ First WordPress Job Board connecting small to large business with talented WordPress talents 
+ 🌍🖥 KeyValues 
+ Help software developers find engineering teams that share their values 
+ 🌍🖥 Hacker News 
+ Anything that good hackers would find interesting 
+ 🌍🖥📊 Icrunchdata 
+ Job board for technology, analytics, and data-related jobs and professional advancement worldwide 
+ 🌍🖥 Landing Jobs 
+ Landing.jobs is a candidate-driven tech careers marketplace. We’re dedicated to matchmaking great tech talent with great opportunities 
+ 🌍😃 Start Us 
+ StartUs is a network connecting you with the European Startup Community. 
+ 🌍😃 Torre 
+ Community-driven job hunting. Torre Remote ranks candidates based on recommendation weight, popular appeal, and the preferences of both candidate and company. Intelligent, dynamic rankings are important because when it comes to remote work, each professional may be a good fit for thousands of job opportunities. Similarly, for each job opportunity, a company may find thousands of good candidates. 
+ 🌍😃 6nomads 
+ Remote-focused job platform for tech talent 
+ AI matching that will connect you with companies relevant to your timezone, salary expectations, and tech stack. 
+ 🌍😃 Hire my mom 
+ Helping mom professionals find flexible, legitimate, home-based work giving them the freedom and flexibility they desire. 
+ 🌍🖥 GitHub 
+ Opportunities @github 
+ 🌍😃 Indeed 
+ We foster a collaborative workplace that strives to create the best experience for job seekers 
+ 🌍 HigherEd Jobs 
+ HigherEdJobs is the leading source for jobs and career information in academia 
+ Leave a Reply  Cancel reply 
+ Your email address will not be published. Required fields are marked * 
+ Comment 
+ Name * 
+ Email * 
+ Website 
+ Save my name, email, and website in this browser for the next time I comment. 
+ Contact us 
+ workfromneptune@gmail.com 
+ Form to Send Useful Information 
+ https://bit.ly/wfnform 
+ Author's Social Media 
+ Follow for Fun or Connect for Serious Talks :) 
+ 
+  instagram  
+  tiktok  
+  linkedin  
+ 
+ Credits 
+ Header: Photo by  Daniel Olah  on  Unsplash 
+ (C) All rights reserved 2015 -  Work From Neptune .   Designed   by RoyalwpThemes 

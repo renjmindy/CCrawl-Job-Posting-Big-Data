@@ -1,0 +1,81 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Standard Cognition (S17) 
+ AI-powered checkout for retail. 
+ Backend Engineer (Inventory) 
+ 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Standard Cognition 
+ About the role 
+ Skills:  Python 
+ At Standard Cognition, we’re rethinking the way retail works. We are enabling autonomous checkout for brick & mortar retailers with our AI-powered computer vision platform. Since launching in November 2017, Standard has contracts with multiple global retailers and is in the process of deploying our Standard Checkout solution across thousands of stores globally. We’re backed by some of Silicon Valley’s leading investors including CRV, Initialized, Draper Associates and YCombinator. We announced our Series B in July 2019. 
+ Our Inventory Team is responsible for understanding every facet of a store well before a customer walks in. We build tools to map the 3D layout of stores, to calibrate and predict camera placement, to detect and annotate products on shelves using Computer Vision, and to manage these products, among other things. These tools, and the data they serve, feed into every other division in Standard, and are responsible for the metrics that drive Standard to constantly iterate and improve. In this role you’ll help us by setting up or expanding micro-services, building or re-building data models, and establishing integrations with anything from client API’s to ML services. And of course, if you think we’ve missed a feature of the store in our model, we’d love it hear it. 
+ This is a FULL TIME REMOTE role located anywhere in the United States. 
+ What you'll do here: 
+ 
+ Work to understand the needs of internal stakeholders, and design tools to meet these needs 
+ Build and implement data models and micro-services to support internal products 
+ Write code that is scalable, maintainable, and reliable 
+ Use and define metrics to track the efficacy of our tools and iterate quickly 
+ Find and fix performance bottlenecks in our services 
+ 
+ Who you are: 
+ 
+ You have completed one prior internship. 
+ You have experience in Python (or a similar language) for writing services and REST APIs 
+ You have experience with cloud platforms (we use GCP) 
+ You care a lot about delivering quality systems through automated testing and monitoring. 
+ You like to help other developers become better, through code review, design discussions, and more. 
+ You have personal or professional projects that demonstrate your enthusiasm 
+ 
+ Only meet some of these traits or experiences? We'd still love to hear from you! 
+ Why you might want to work with us: 
+ 
+ We take care of you and your family with health, vision, and dental insurance. 
+ You will have the option to contribute to a 401k. 
+ You're excited to work on a product that will impact almost any consumer, almost anywhere. 
+ Standard is a remote first company. We trust you to get your job done in the location that works best for you. 
+ We dress casually. Some of us wear slippers in the office. In current work from home standings, we’re super comfy. 
+ We believe in a culture of learning, and want to keep building our skills, experiences, and capabilities. 
+ We offer flexible work schedules. We trust our team to know how they will do their best work. 
+ We're family friendly. We want our teammates to focus on what they need to when they need to. 
+ We offer very competitive compensation, including equity in Standard, to each one of our employees. 
+ 
+ Standard provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities. 
+ Not quite ready to apply? Send us an email at  [email protected] . Someone from the team will follow up to answer your questions. 
+ Technology 
+ Other jobs at Standard Cognition 
+ Senior Backend Engineer 
+ fulltime 
+ Remote 
+ Backend 
+ 6+ years 
+ Backend Engineer (Inventory) 
+ fulltime 
+ Remote 
+ Backend 
+ Any (new grads ok) 
+ Senior Software Engineer (Interaction) 
+ fulltime 
+ Remote 
+ Machine Learning 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

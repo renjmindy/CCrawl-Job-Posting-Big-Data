@@ -1,0 +1,12 @@
+ Required Qualifications: 
+ • 4+ years building modern web applications/sites in a professional environment 
+• Minimum of 4 years in semantic HTML5 and CSS3, and comfortable with preprocessors 
+• Minimum of 4 years with JavaScript and proficient in at least one modern JavaScript framework (e.g. React, Vue.js, AngularJS) – including the ability to work with remote APIs and third-party web services, loading data asynchronously, understanding state management, using JavaScript templates and dynamic views 
+• Comfortable with version control, preferably Git 
+• Proficient in responsive design development methodologies and best practices 
+ Preferred Qualifications: 
+• Ability to work independently, with minimal supervision and guidance 
+• Experience using Docker to package and deploy web applications 
+• Experience with cloud-based web services and database systems (e.g. AWS, Google Cloud, Microsoft Azure) 
+• Familiarity with server-side programming (e.g. Node.js, Python) 
+• Experience customizing Content Management Systems 

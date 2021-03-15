@@ -1,0 +1,44 @@
+  
+ Group 65Go to Workiz 
+ All Collections 
+ FAQ 
+ Searching for jobs, leads, and clients 
+ Searching for jobs, leads, and clients 
+ How to find a job, client, lead or invoice quickly 
+ Written by  Dan 
+Updated over a week ago 
+ With Workiz, you can quickly find information using our search bar, which allows you to search through a large collection of jobs, clients, or leads by simply typing text into a field. 
+ The top search bar 
+ Use the top search bar to search for a client's name, job ID, or part of an address. 
+ Click on the top search icon and hit the Enter key or the search icon. 
+ 
+ Client page search bar 
+ 
+ From the left-hand navigation bar, select  "Clients." 
+ 
+ 
+ 2. Within the client list, on the right-hand side you can start typing a name, email, or phone number and the client list will narrow down accordingly. 
+ 
+ Invoice page search bar 
+ 
+ From the left-hand navigation bar, select "  Invoices  " 
+ 
+ 
+ 2. Within the invoice list, on the right you can start typing a name, ID, or amount, and the client list will narrow down. 
+ 
+ If you can't find the invoice you are looking for, try changing the date range from the top-right date picker. 
+ 
+ 
+ Need more help? See related articles below: 
+ Customizing Your Invoice and Estimates 
+ Creating an Invoice 
+ Sending an Invoice and Requesting a Payment 
+ Setting Up Custom Fields by Job Type 
+ Did this answer your question? 
+   
+ 
+   
+   
+   
+ 
+ We run on Intercom 

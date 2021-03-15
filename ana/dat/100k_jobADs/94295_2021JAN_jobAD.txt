@@ -1,0 +1,189 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Golang Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ GolangWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Engineering Lead, IBC 
+ [ 
+ Interchain GmbH 
+ ](/companies/interchain-gmbh) 
+ 
+ Remote 
+ 20 January, 2021 
+ Apply 
+ More jobs from Interchain GmbH About Interchain GmbH 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Distributed Systems 
+ Golang 
+ engineering manager 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Paid sick days 
+ Learning budget 
+ Gym memberships 
+ Full visa coverage 
+ Free coffee 
+ Medical insurance 
+ Free lunch & snacks 
+ Extra vacation days 
+ Maternity & paternity leave 
+ Conferences 
+ 
+ Lead technical development of the interblockchain communication (IBC) protocol. 
+ Role overview 
+ COMPANY IN BRIEF 
+ Interchain GmbH is a 13-person company which works on core blockchain technology. We’re headquartered in Berlin, Germany, but our team stretches from New York, NY to Ulyanovsk, Russia. We keep in touch through Github, Slack, and Zoom, and meet in person periodically (when COVID permits). All in all, the software we develop secures billions of dollars in value across many different systems, but we don’t take ourselves too seriously. We strive to build world-class software while having plenty of laughs along the way. 
+ POSITION IN BRIEF 
+ So far, our engineering team has led development and stewardship of the  Tendermint Core consensus engine  and the  Inter-Blockchain Communication protocol  (IBC). IBC is an open-source protocol for end-to-end communication between heterogeneous distributed ledgers — in many ways analogous to TCP/IP, an open-source protocol for end-to-end communication between heterogeneous machines. As IBC reaches the 1.0 release milestone and moves into production on the Cosmos Hub, we’re looking for an engineering lead to spearhead the next phase of IBC development for the Cosmos ecosystem and beyond. 
+ As IBC engineering lead, you’ll be responsible for setting a development roadmap in collaboration with the research team, managing engineering efforts to implement new protocol features, extensions, and improvements, heading stewardship of the  x/ibc subsection of the Cosmos SDK repository , and occasionally contributing to various parts of the Cosmos stack (such as the SDK &  Gaia ) as necessary to support IBC. 
+ YOUR ACTIVITIES WILL INCLUDE 
+ 
+ Working closely with the protocol research teams at IG and Informal Systems and community stakeholders to build consensus around a post-1.0 IBC development roadmap for the entire ecosystem 
+ Leading sustainable open-source stewardship for the x/ibc subsection of the Cosmos SDK Github repository, creating contribution guidelines, reviewing community code submissions, answering questions, and coordinating open-source collaborators along with the internal team 
+ Managing engineering efforts to implement new IBC features such as  cross-chain validation ,  1-n broadcast channels , and  directed acyclic packet ordering , address potential performance bottlenecks, and improve internal software quality 
+ Contributing directly to development in Golang, reviewing code, ensuring that standards of quality and test-case coverage are met, and cross-testing Golang implementations against IBC implementations in other languages developed by other teams 
+ Keeping an ever-vigilant eye on security considerations, ensuring that contributions (internal or external) receive adequate review, and coordinating with ecosystem stakeholders to handle security incidents when they occur 
+ In coordination with other Interchain GmbH team members and the development roadmap, determining resource requirements, writing job descriptions, and conducting hiring processes for engineers on the IBC team 
+ 
+ This is a pretty open-ended job description. IBC is an open-source protocol with a wide stakeholder set and many possible future directions. Part of your role will be to help define it! 
+ WHAT EXPERTISE WE’RE LOOKING FOR 
+ 
+ Experience leading engineering teams, especially ones working on a cutting-edge, complex, real-world software product with security-critical safety considerations 
+ Expertise in systems design and an appropriate taste for simplicity, both in internal abstraction structure and in choice of third-party dependencies 
+ Top-notch communications skills, clear written prose, and a knack for working with a diverse range of contributors and users, synthesizing different perspectives, and mediating occasional disputes 
+ Experience in open-source development, stewardship, and/or maintenance, especially for a piece of software with substantial community involvement and a diverse contributor base 
+ A working familiarity with the Go programming language, consensus algorithms and distributed systems, TCP/IP networking, and blockchains or other distributed databases 
+ A high degree of personal responsibility and ownership: you’ll be responsible for setting deadlines and holding yourself and your team accountable to them 
+ A home base within our working timezones, probably from UTC - 5 (New York) to UTC + 3 (Moscow), and the ability to travel to continental Europe at least occasionally (post-COVID) 
+ 
+ There are no hard requirements on previous experience. Not sure if you're a fit? Please feel free to apply anyways, and we'll take it from there. 
+ 
+ [ 
+ Interchain GmbH 
+ ](/companies/interchain-gmbh) 
+ 
+ 10-49 
+ 
+ Interchain Berlin maintains the Tendermint Project, leads the architecture of the Inter-Blockchain Communication (IBC) Protocol and contributes to the Cosmos SDK in service of the Cosmos Network and the greater Interchain. 
+ Technology Private Blockchain Distributed Systems Golang tendermint Paid Sick Days Learning budget 
+ View 1 job 
+ Engineers who find a new job through Golang Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Interchain GmbH About Interchain GmbH 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Distributed Systems 
+ Golang 
+ engineering manager 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Paid sick days 
+ Learning budget 
+ Gym memberships 
+ Full visa coverage 
+ Free coffee 
+ Medical insurance 
+ Free lunch & snacks 
+ Extra vacation days 
+ Maternity & paternity leave 
+ Conferences 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Director, TechnologyC$125K - 140KSynqrinusCanada 
+ Shape the future of technology at Synqrinus 
+ Remote 
+ clojure communication distributed systems functional programming engineering manager 
+ More Info Apply 
+ Golang DeveloperBTC20K - 65KSkycoinChina 
+ We are looking for experienced Golang developers! 
+ Remote 
+ go golang python 
+ More Info Apply 
+ Principal EngineerCompetitiveShiftUnited States of America 
+ Opportunity to join a fantastic team at a hi-tech fast-paced company which is transforming an entire industry! 
+ Remote 
+ golang python ruby 
+ More Info Apply 
+ Engineering Lead, IBC 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Go jobs Golang jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Golang articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

@@ -1,0 +1,428 @@
+Skip to content 
+ 
+ mymotorwheels 
+ For the auto enthusiasts who are crazy enough to change the world. 
+ Menu 
+ 
+ About 
+ Automotive Jobs 
+ Travel 
+ Spares and Services @Visakhapatnam 
+ 
+   
+ Tag: Careers at automotive startups 
+ Current Openings at Jugnoo Autos 
+ Jugnoo is hyperlocal on demand multi service provider based out of Chandigarh which employs auto rickshaws as its logistic partners. More about Jugnoo at  Wikipedia(Jugnoo Autos)   Current Openings 
+ 1. HR Manager 
+ Looking for a skilled HR manager to oversee all aspects of Human Resources practices and processes. You will support business needs and ensure the proper implementation of company strategy and objectives. 
+ Location : Chandigarh 
+ Pre-Requisites: 
+ 
+ Proven working experience as HR manager 
+ People oriented and results driven 
+ Demonstrable experience with HR metrics 
+ Knowledge of HR systems and databases 
+ Ability to architect strategy along with leadership skills 
+ Excellent active listening, negotiation and presentation skills 
+ Competence to build and effectively manage interpersonal relationships at all levels of the company 
+ In-depth knowledge of labor law and HR best practices 
+ 
+ Responsibilities: 
+ 
+ Develop and implement HR strategies and initiatives aligned with the overall business strategy 
+ Support current and future business needs through the development, engagement, motivation and preservation of human capital 
+ Develop and monitor overall HR strategies, systems, tactics and procedures across the organization 
+ Bridge management and employee relations by addressing demands, grievances or other issues 
+ Nurture a positive working environment 
+ Manage the recruitment and selection process 
+ Oversee and manage a performance appraisal system that drives high performance 
+ Maintain pay plan and benefits program 
+ Assess training needs to apply and monitor training programs 
+ Report to management and provide decision support through HR metrics 
+ Ensure legal compliance 
+ 
+ APPLY HERE 
+ 
+ 2. iOS Engineer 
+ Jugnoo is looking for a skilled Software Engineer proficient enough in working on building apps on the iOS platform. Your primary focus will be maintaining and developing Jugnoo app and integrate with backend services. 
+ Location : Chandigarh 
+ Pre-Requisites: 
+ 
+ Experience in native iOS development 
+ Excellent command on an Objective C/Swift 
+ Bachelors degree in Computer Science. 
+ Excellent knowledge of GPS usage on iOS platform and battery conservation strategies 
+ Excellent understanding of working with REST Web Services and Git. 
+ Excellent understanding of caching strategies and asynchronous calls 
+ Good understanding of software development life cycle 
+ Must have very good knowledge of SCM with strong emphasis on Git and complete understanding of Git Flow 
+ Understanding Apple's design principles and interface guidelines 
+ 
+ Responsibilities: 
+ 
+ Developing and maintaining Jugnoo mobile app on iOS platform 
+ Self motivated and ability to work without detailed instructions 
+ Translate designs and wire-frames into high quality code 
+ Identify bottlenecks and fix bugs 
+ Implement new technology and maximize development efficiency 
+ 
+ APPLY HERE 
+ 
+ 3. Manager Operations 
+ Manager Operations Role comes with a wide range of responsibilities. Jugnoo is looking towards dynamic, energetic leaders who take risks with a go getter attitude for this role. 
+ Location : Ahmedabad 
+ Pre-Requisites: 
+ 
+ 3 + years of relevant work experience. 
+ Require familiarity with the geography and local language of the location. 
+ Prior team management experience is a must. 
+ Allocation of targets and formulating incentive plans for the team would be a bonus 
+ Comfortable with ambiguity and unpredictable work hours 
+ 
+ Responsibilities: 
+ 
+ Strong Analytics - Manager should identify trends looking at Qualitative and Quantitative Data 
+ Strategy - Responsible in building road map and strategies for the growth of the city assigned 
+ Decision Making - Take important decision which will directly effect growth of Jugnoo in the City 
+ Growing and optimizing supply 
+ Manpower planning and hiring for the city 
+ Monitoring Work, defining KRAs and managing team's performance 
+ Coordinating with Central operations team 
+ Managing Cross functional team 
+ Continuous interaction with the blue collar subscriber base and engaging them. 
+ Most importantly, a cherishing role of working on Product, Operations & Pure Jugaad 
+ 
+ APPLY HERE 
+ 
+ 4. Backend Developer 
+ Jugnoo is looking for a talented Backend Developer who will be responsible for turning data into information, information into insight, and insight into business decisions. He/she will conduct full life cycle activities to include requirements analysis, design, report development, and continuous refinement and improvement. 
+ Location : Chandigarh 
+ Pre-Requisites: 
+ 
+ 2+ years experience 
+ Experience as a fullstack / backend developer, REST API design 
+ Should be familiar with Node.JS and Angular.JS 
+ Understanding of data analytics, web analytics, direct response marketing measurement, traditional marketing metrics and key performance indicators 
+ Experience in combining and implementing analytical and creative problem-solving techniques and approaches 
+ Ability to interpret information and communicate effectively to stakeholders at multiple levels of our organization 
+ Attention to detail and quality work output in a fast-paced environment 
+ Bachelor's degree or equivalent in Mathematics, Computer Science, Statistics, or other related fields from reputed colleges 
+ 
+ Responsibilities: 
+ 
+ Explore design implications and work towards appropriate balance between functionality, performance, and maintainability 
+ Working with a cross discipline team of User Experience, Visual Design, Project Management, Development and testing 
+ Maintain high standards of software quality within the team by establishing good coding practices and habits 
+ Research and evaluate a variety of software products 
+ Ability to manage and organize a team of technical staff 
+ Develop a strategy that the team will use to reach its goal 
+ Provide timely training to team members on latest technology 
+ 
+ APPLY HERE 
+ 
+ 5. Creative Designer - UI/UX 
+ Design is religion and Jugnoo worships the insane creativity that has engulfed technology over years. Being an app based product, we seek designers who can develop aesthetically pleasing application which is currently being used by 150,000 users and adding more in the list. We love to make our users happy and design is one big aspect of the process; we love design, do you? 
+ Location : Chandigarh 
+ Pre-Requisites: 
+ 
+ Highly proficient with designing & prototyping tools 
+ Excellent visual design knowledge 
+ Excellent communication skills 
+ Experience in product design 
+ Design degree from respected design colleges is a plus and, 
+ A portfolio worth dying 
+ 
+ Responsibilities: 
+ 
+ Create design flows and experiences that are incredibly simple and elegant 
+ Conceptualizing, designing and prototyping new features for our core product 
+ Conducting frequent, iterative usability testing in parallel with development 
+ 
+ APPLY HERE 
+ 
+ 6. Front End Developer 
+ Jugnoo is looking for a skillful and dedicated Frontend Developer to join a high performance start up team for building and expanding the business. If you take pleasure in seamless user experiences, have an eye for great design, and have the ability to combine brilliant UI with art of programming, we are looking for you. 
+ Location : Chandigarh 
+ Pre-Requisites: 
+ 
+ 3+ years of software development experience and 2+ years of experience developing frontend experience using HTML5, JavaScript, AJAX, JSON technologies 
+ 3+ years of experience using the JavaScript libraries specifically JQuery and Underscore.js 
+ 1+ years of experience in adaptive UI templating frameworks. 
+ Experience in cross browser compatibility issues 
+ Strong passion for design and experience working closely with design teams 
+ Ability and passion to learn new technologies quickly 
+ 
+ Responsibilities: 
+ 
+ Develop fast and highly scalable (responsive) web and mobile sites, using HTML5, CSS3 and latest Javascript standards and best practices 
+ Strong understanding of HTML5, CSS3 & Javascript and relevant frameworks such as Bootstrap, Angular JS and others 
+ Work closely with a cross-functional teams that includes product owners, backend developers and designers 
+ Collaborate with designers to make sure all user interactions and features are implemented correctly 
+ Ensure technical feasibility of UI/UX designs 
+ 
+ APPLY HERE 
+ 
+ 7. Android Engineer 
+ Jugnoo is looking for skilled Software Engineers proficient enough in working on building apps on the Android platform. You will be working on different layers of infrastructure along with other team members. 
+ Location : Chandigarh 
+ Pre-Requisites: 
+ 
+ Experience in native android development with excellent command on an OOPS, specially Java. 
+ Bachelors degree in Computer Science from reputed college. 
+ Excellent knowledge of GPS usage on android platform and battery conservation strategies 
+ Excellent understanding of working with REST Web Services, payment gateways and Google APIs. 
+ Understanding of caching strategies and asynchronous calls 
+ Good knowledge of software development life cycle 
+ Must have very good knowledge of SCM with strong emphasis on Git and complete understanding of Git Flow 
+ Must not have 9 to 5, 5 day a week work culture attitude. Expect urgencies and a very flexible attitude is required. 
+ Strong knowledge of SDK integration 
+ Full fledged knowledge of Google's android design principles and interface guidelines 
+ 
+ Responsibilities: 
+ 
+ Developing and maintaining Jugnoo mobile app on Android platform 
+ Self motivated and ability to work without detailed instructions 
+ Translate designs and wire-frames into high quality code 
+ Identify bottlenecks and fix bugs 
+ Implement new technology and maximize development efficiency 
+ 
+ APPLY HERE 
+ 
+ 8. Product Development Manager 
+ At Jugnoo, we believe our users come first. We have been constantly trying to solve our user's problem by making our product more user friendly and convenient. Products like Jugnoo, Fatafat, Dodo have been created with an ideology that convenience to users and simplicity to use are key aspects to prosper. A ProductManager at Jugnoo closely works with our technical experts and connects regularly with business stakeholders to gather requirements and present it in an implementable format, taking forward ideas from conceptualization to launch phase. 
+ Location : Chandigarh 
+ Pre-Requisites: 
+ 
+ Engineering Graduates from Tier 1/2 Colleges. 
+ MBA/MS would be a plus. 
+ 3+ years of total work experience with 2+ years of recent product/project management experience. 
+ Flexible with stretched working hours. 
+ 
+ Responsibilities: 
+ 
+ Drive ideation, technical development and launch of products. 
+ Establish shared vision across the company by building consensus on priorities leading to product execution. 
+ Lead product development, working with a team of world-class engineers and designers. 
+ Define and analyse metrics that inform the success of products. 
+ Constantly keep on improving internal processes to maximize productivity and efficiency at both resource and company level. 
+ Be commercially aware and take a lead on all potential strategic partnerships to improve product usability. 
+ 
+ APPLY HERE 
+ 
+ Share this: 
+ 
+ Facebook 
+ WhatsApp 
+ Twitter 
+ LinkedIn 
+ Print 
+ More 
+ 
+ 
+ 
+ Reddit 
+ Email 
+ 
+ 
+ Skype 
+ 
+ 
+ Tumblr 
+ 
+ 
+ Pinterest 
+ 
+ 
+ Pocket 
+ 
+ 
+ Telegram 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Author   Prasanth Chunduri Posted on  November 24, 2016 Categories  Automotive Jobs ,  startup Tags  Android Developer India ,  Back-end Front-end Developer ,  Careers at automotive startups ,  Current openings Automobile India ,  HR manager ,  iOS Engineer ,  Job opportunities Auto Industry Startup ,  JUGNOO AUTO RICKSHAW ,  Jugnoo Chandigarh ,  Transportation Logistics Startup Jugnoo Jobs ,  UI/UX Designer Leave a comment on Current Openings at Jugnoo Autos 
+ Search for: Search 
+ Top Posts & Pages 
+ 
+ Have you ever wondered what is 'Drive-by-wire' or 'x-by-wire'? 
+ India's first electric reverse trike: Orxa Energies Mantis 
+ Suzuki's Gujarat plant in India starts operation; Another plant in pipeline which will come into operation by 2019! 
+ 
+ posts by date 
+ 
+ 
+ 
+ January 2021 M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 
+ 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 
+ 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 
+ 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 
+ 
+ 
+ « Jan 
+ Categories 
+ 
+ Automotive Jobs  (34) 
+ automotive supplier  (10) 
+ Autonomous Driving  (6) 
+ Bikes  (59) 
+ cars  (291) 
+ Commercial Vehicles  (42) 
+ Coupons  (2) 
+ electric  (35) 
+ Hybrid Vehicles  (13) 
+ Know your technology  (4)
+ 
+ Automatic Transmission  (1) 
+ 
+ 
+ Polls Surveys Quizzes and Ratings  (1) 
+ railways  (3) 
+ review  (1) 
+ Shared Economy  (5) 
+ startup  (43) 
+ Statistics  (62) 
+ Travel  (20) 
+ Trucks  (37) 
+ Uncategorized  (153) 
+ Videos  (39) 
+ 
+ facebook 
+ 
+ facebook 
+ 
+ Follow me on Twitter 
+ My Tweets 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 673 other followers 
+ Email Address: 
+ Follow 
+   RSS - Posts 
+ Tags 
+ 
+ acquisition 
+ ADAS 
+ bmw 
+ CES 2017 
+ chennai 
+ Consumer Electronics Show 
+ current openings 
+ daimler 
+ Denso Corporation 
+ electric vehicles 
+ EV 
+ ford 
+ general motors 
+ germany 
+ honda 
+ india 
+ job opportunities 
+ Joint Venture 
+ mahindra 
+ make in india 
+ maruti suzuki 
+ maruti suzuki india 
+ mercedes benz 
+ mou 
+ nissan 
+ renault 
+ renault kwid 
+ tata hexa 
+ tata motors 
+ tata tiago 
+ toyota 
+ Travel 
+ uber 
+ usa 
+ video 
+ 
+ Blog Stats 
+ 
+ 65,819 hits 
+ 
+ Follow blog on 
+ 
+ 
+ View mymotorwheels's profile on Facebook 
+ 
+ 
+ View MyMotorWheels's profile on Twitter 
+ 
+ 
+ About 
+ 
+ 
+ Automotive Jobs 
+ 
+ 
+ Travel 
+ 
+ 
+ Spares and Services @Visakhapatnam 
+ 
+ 
+ mymotorwheels   A WordPress.com Website . 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

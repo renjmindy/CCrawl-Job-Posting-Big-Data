@@ -1,0 +1,304 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ Engineer your career - Part 1 
+ Nick Maraj 5 March, 2019 | 3 min read 
+ Career advice HIRING Interview guide 
+ I have recruited for some of the world’s most demanding technology companies. From some of the most successful quantitative hedge funds to the latest hot tech start-ups building never before imagined technology to solve problems we didn't know we had. I have gained an interesting data set borne from thousands of interviews across hundreds of technology companies. 
+ But, what have I learnt and what knowledge can I share with job seekers? 
+ Well let’s start by accepting that there are no hard and fast rules. Like many things in life, getting into your dream company is complicated and subject to influence from a lot of variables you just have no control over. Don’t jump out the window just yet though, I am sure we can dissect this problem a little bit and see what history can teach us. 
+ Let’s start with you. You are a skilled Software Engineer, you did everything right, you studied, you practiced, you went to the right school, why the hell aren’t these companies calling you directly?! Well that is the first step, what you are and what you want is only half the story. 
+ What candidates tell me that they want 
+ I want to work with smart people! 
+ Everyone wants to work among smart people. But what you actually need is to strike a balance between being amongst smart people you can learn from, without feeling too intellectually inferior or unable to ever make your own impact within a company. This could be down to personality, technical ability, ambitions or any combination of hard and soft factors. Having respect for and being stimulated by your peer group is critical so you need to find companies that will actually strike this balance for you, so be honest with yourself about who you are. 
+ I want to work with cool technology! 
+ Technical people are technical for a reason, in general you always were interested in new technology and so would like to keep yourself relevant and stimulated, out of intellectual curiosity more than anything. If there is a new powerful tool to make your life easier you really don’t want people telling you you cannot investigate or implement it. This is fair enough, but by entering the private sector there are a lot of realities centred on being commercial and everybody agreeing on what tools are to be widely approved. Google approving a new technology will happen to a very different timeline to a start-up for example. 
+ I want a decent working environment! 
+ This is a well-trodden path that the tech industry has been sure to litter with pool tables and onsite caterers. However evidence suggests what programmers really mean is something along the lines of the Joel Test. I had an interviewee leave the office of a start-up amazed at how anyone got any work done amongst the chaos of distractions and noise. Contrary to that I placed somebody at another start-up who told me that no one talks during core hours after an initial morning meeting. All these environmental factors will by osmosis influence how projects, workflows, sprints and releases are managed. Will table tennis or more space help you be more happy and productive? Will a high or low touch line manager motivate you? 
+ I want to be valued as critical, not just necessary! 
+ The software engineers I work with are educated, aware and articulate. They have done their 10k hours to master their craft and want that to be recognised wherever they work as a critical part of the business, not a support function. The companies I have helped source technical talent for are driven by technology, run by technical people and their businesses revolve around their technology regardless of the industry. Who are the business’ founders and do they have a business that is implementing technology or are they a technology company approaching a business area? 
+ I want to be fairly paid! 
+ Don’t we all? I have noticed however on average that most people are generally happy with how they are paid. With a small amount of people feeling undervalued which I would say is understandable if you are 5 years into your programming career and struggling to surpass $100k (~£60k) and then a few people who are very money motivated and constantly striving for the top percentile of compensation (yes you could earn £200k+ doing the same job in finance!). If you are a productive and valuable member of staff in a successful company the evidence suggests you will be compensated according to market rate and likely above. 
+ I want to make a difference! 
+ You want your life to have meaning and purpose, you want to change the world and be able to say ‘I helped build that’. How many ideas change the world? How many people at Microsoft or Google get to design new global products or self-driving cars? The reality is there is a disparity between what people think will make them happy and what actually makes them happy. Of course we need to find the middle ground between your dreams and what a commercial company needs, however think about all those other things you have asked for. Most people will not get to work on that 1% project but you really can find drive and satisfaction by ticking several other boxes. 
+ This takes us nicely onto the second half of your love story, your potential employer. But I don't want to overload you so jump over to  part 2 , where I will be exploring what top tech companies tell me they want! 
+ Nick Maraj 
+ COO at WorksHub - Building an innovative hiring platform in Clojure. 
+ 
+ Technical Recruiting 
+ Team Leadership 
+ HubSpot 
+ Related Articles 
+ Setting up your first Next.js project with Tailwind and Jest James Calmus 15 January, 2021 | 6 min read | 2 boosts 
+ JavaScript React Beginner Testing jest next.js TailwindCSS 
+ Working at Chainlink - Connect Smart Contracts to the Real World Mihaela Popa 14 January, 2021 | 3 min read | 1 boost 
+ AWS Blockchain Golang Remote TECH STARTUPS TYPESCRIPT 
+ When working remotely, communication is key to productivity bnrosa_dev 8 January, 2021 | 3 min read | 8 boosts 
+ Remote Working 100% remote work 100% remote working Fully Remote 
+ Working at MotoRefi - Build a Simple Way to Refinance Mihaela Popa 22 December, 2020 | 2 min read | 57 boosts 
+ Scala Clojure Haskell Python Ruby TYPESCRIPT start-up REACT JS 
+ Working at Flipside Crypto - Decode Blockchain Behaviours Mihaela Popa 21 December, 2020 | 4 min read | 75 boosts 
+ Python Go Blockchain Cryptocurrency Kafka STARTUP Spark TYPESCRIPT REACT JS 
+ Crypto and Coffee Q&A with Gemini: Aris Agdere, Senior Software Engineer Aris Agdere 18 December, 2020 | 2 min read | 21 boosts 
+ Scala Java Blockchain Cryptocurrency 
+ Why should you use PHP Framework instead of Core PHP? Nemanja Grubor 18 December, 2020 | 5 min read | 1 boost 
+ Laravel software security core php 
+ Ace Your Interview: A Strategy for Coding in Interviews Adam Dangoor 15 December, 2020 | 4 min read | 83 boosts 
+ Coding Interview Interview Preparation Interview Questions Interview Tips Interview guide 
+ React Native Boilerplate 2021  Handi Priyono 12 December, 2020 | 2 min read | 21 boosts 
+ Node.js JavaScript React Android iOS REDUX React Hooks React Native TYPESCRIPT REACT JS iOS Development 
+ Related Issues 
+ WorksHub / client 
+ WorksHub / client 
+ Embed PDF into company's application view of candidate 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 17 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ $150 
+ 
+ 
+ viebel / klipse-clj 
+ viebel / klipse-clj 
+ Support PREPL format 
+ 
+ 
+ Open 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ How To Build CLJS Cache Files ? 
+ 
+ 
+ Open 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ when hosting Klipse locally, fonts are loaded from the internet 
+ 
+ 
+ Submitted 
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Golang support using Gopherjs or Joy 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 2 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ $80 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Perl support using Perlito 
+ 
+ 
+ Open 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ Advanced 
+ 
+ 
+ Clojure 
+ 
+ 
+ $80 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Klipse cannot be built with shadow-cljs 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 2 
+ 
+ 
+ Advanced 
+ 
+ 
+ Clojure 
+ 
+ 
+ $180 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Import klisp as an object 
+ 
+ 
+ Started 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ Intermediate 
+ 
+ 
+ Clojure 
+ 
+ 
+ viebel / klipse 
+ viebel / klipse 
+ Run computation in isolated context 
+ 
+ 
+ Submitted 
+ 
+ 
+ 1 
+ 
+ 
+ 1 
+ 
+ 
+ Advanced 
+ 
+ 
+ Clojure 
+ 
+ 
+ $300 
+ 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ 35 
+ 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

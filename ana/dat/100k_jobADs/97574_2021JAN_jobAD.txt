@@ -1,0 +1,339 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+  IT & Programming  
+ 
+ IT & Programming Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelancers for your project here 
+ ](https://www.workana.com/hire/) 
+ 6 days ago 
+ I need a designer 
+ Published: 6 days ago  Deadline: 15 Bids: 8 
+ I need a blog designer example- https://bit.ly/35vdSuy 
+. 
+So I can create Blog and earn money more then my yt channel in it so yeah 
+ Category  : IT & Programming 
+ Subcategory  : Web design 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Specific need  : Redesign a website 
+ Published by:  M. R. India 
+ Over USD 3,000 
+ 6 days ago 
+ Python Programmer 
+ Published: 6 days ago  Deadline: 4 Bids: 0 
+ The current process consist of a person (Nora) sending a text message via Whatsapp to all the chilean employees, the message contains today's menu with the different alternatives for lunch. 
+ 
+ Hello! 
+I share with you today's menu :) 
+ Option 1: Corn pie, Salad and Dessert 
+Option 2: Chicken Nugget Rice, Salad and Dessert 
+Option 3: Rice with hamburger, Salad and Dessert 
+Option 4: Premium chicken Salad and Dessert. 
+ Have a nice day! 
+ 
+ With the new system, Nora should be able to: 
+ - Create a menu for a specific date. 
+- Send a Slack reminder with today's menu to all chilean employees (this process needs to be asynchronous). 
+ The employees should be able to: 
+ - Choose their preferred meal (until 11 am clt). 
+- Specify customizations (e.g. No tomatoes in the salad). 
+ Nora should be the only user to be able to see what the Cshop employees have requested, and to create and edit today's menu. The employees should be able to specify what they want for lunch but they shouldn't be able to see what others have requested. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  E. P. Last reply: 5 days ago  Costa Rica 
+ USD 50 - 100 
+ 6 days ago 
+ My websites are not opening 
+ Published: 6 days ago  Bids: 4 
+ I am a beginner blogger and run 5 websites on hostinger but suddenlyexcept two website non of other are  opening.The  web sites are  wphindiworld.com  /  thenaradnews.com  /  thejilatop.com 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.), Cloud Storage (Dropbox, Google Drive, etc.) 
+ Roles needed  : Developer 
+ Published by:  A. Last reply: 6 days ago  India 
+ Less than USD 50 
+ 6 days ago 
+ Convert Matlab code to Javascript code 
+ Published: 6 days ago  Bids: 2 
+ I'm running psychological experiments using Matlab (PsychToolbox). I need to move to on-line experiments so I need someone that convert these experiments to JavaScript (jspsych). You should be regular user of PsychToolbox. 
+ The script to be converted is in  https://github.com/joseluisblues/Transl/tree/main/FischerTask 
+In this folder there several m files. The main scripts are arranged alphabetically (aa, bb ...), There are also some functions and material related to the task. 
+The converted script should be fully functional to be run at  https://www.cognition.run/ 
+ Contact me if you are interested and let me know how long it will take you to create the javascript code. 
+ Category  : IT & Programming 
+ Subcategory  : Data Science 
+ Project size  : Large 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  J. L. U. Last reply: 6 days ago  Chile 
+ USD 250 - 500 
+ 1 week ago 
+ Applicant Tracking System 
+ Published: 1 week ago  Bids: 5 
+ To provide machine learning and artificial intelligence in ats, to create profile matching, hiring need prediction, job recommendation, offering acceptance, good people, new hire attrition. 
+ Category  : IT & Programming 
+ Subcategory  : Data Science 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  R. M. Indonesia 
+ Over USD 3,000 
+ 1 week ago 
+ We need to accomplish an app like Food panda and Gawin.ph app 
+ Published: 1 week ago  Bids: 6 
+ We have two projects in mind one is delivering food app with service provider and the second one is roadside assistance app. If you can check the app for  Gawin.ph  and Goodwork we want similar app like it. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ I need to  : Create an app 
+ Similar apps  : Uber 
+ Published by:  G. P. Philippines 
+ USD 250 - 500 
+ 1 week ago 
+ Mobile application, Social network in the field of well-being 
+ Published: 1 week ago  Bids: 9 
+ Mobile application, Social network in the field of well-being. 
+After going through a selection of the best candidates, we will disclose more information 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : iPhone, Android 
+ I need to  : Modify an existing app 
+ App type  : Social media 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  L. Last reply: 5 days ago  United States 
+ USD 500 - 1,000 
+ Previous 
+ Next 
+ 
+ Home 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

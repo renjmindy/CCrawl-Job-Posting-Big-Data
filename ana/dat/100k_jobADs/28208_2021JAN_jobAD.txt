@@ -1,0 +1,226 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Research and Development Scientist and Engineer 
+ Stanford University 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Research and Development Scientist and Engineer 
+ Stanford University 
+ [](mailto:?subject=Research%20and%20Development%20Scientist%20and%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14208111/research-and-development-scientist-and-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 12, 2020 
+ Location: 
+ Stanford, California 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full-time 
+ **Research and Development Scientist and Engineer 
+ Stanford University 
+ Job Number:** 88082 
+ Stanford University and the Urologic Cancer Innovation Laboratory ( http://ucil.stanford.edu ) is seeking a creative, highly motivated, Research and Development Scientist and Engineer 1 with an interest in image processing and machine learning methods to assess disease presence, progression and treatment response in clinical applications. 
+ Current projects are focused on identifying radiologic signatures of cancers and aggressive diseases via complex multi-modal data sets including clinical assessments, laboratory results, radiological images and pathological findings. The successful candidate will join the Department of Urology at Stanford University and will work with a multi-disciplinary team of clinicians, statisticians, computer scientists, and trainees. This position is available immediately. 
+ Duties include: 
+ 
+ Design and develop specialized software, systems and tools; coordinate detailed phases of work related to responsibility for part of a major project or for an entire project of moderate scope. 
+ Develop technical and methodological solutions to complex engineering/scientific problems requiring independent analytical thinking and advanced knowledge. 
+ Develop creative new or improved equipment, materials, technologies, processes, methods, or software important to the advancement of the field. 
+ Contribute technical expertise, and perform basic research and development in support of programs/projects; act as advisor/consultant in area of specialty. 
+ Contribute to portions of published articles or presentations; prepare and write reports; draft and prepare scientific papers. 
+ Provide technical direction to other research staff, engineering associates, technicians, and/or students, as needed. 
+ 
+ * - Other duties may also be assigned 
+ DESIRED QUALIFICATIONS: 
+ 
+ Candidates should have prior experience in software development and C++/python programming, and be familiar with toolkits, e.g., ITK, opencv, sklearn. 
+ Candidates with experience in radiomics, segmentation, image registration are strongly encouraged to apply. 
+ Candidates should have demonstrated ability to work independently, attention to details, be dedicated and self-motivated. 
+ Collaborative team spirit, strong communication skills, positive attitude and adherence to highest ethical principles are necessary to be considered. 
+ 
+ EDUCATION & EXPERIENCE (REQUIRED): 
+ 
+ Minimum education requirements include Bachelor's degree and three years of relevant experience or combination of education and relevant experience. 
+ Preferred candidates will have an M.S. with relevant experience or Ph.D. in Biomedical Engineering, Electrical Engineering, Biomedical Informatics, Computer Science or related fields. 
+ 
+ KNOWLEDGE, SKILLS AND ABILITIES (REQUIRED): 
+ 
+ Thorough knowledge of the principles of engineering and related natural sciences. 
+ Demonstrated project management experience. 
+ 
+ PHYSICAL REQUIREMENTS : * 
+ 
+ Frequently grasp lightly/fine manipulation, perform desk-based computer tasks, lift/carry/push/pull objects that weigh up to 10 pounds. 
+ Occasionally stand/walk, sit, twist/bend/stoop/squat, grasp forcefully. 
+ Rarely kneel/crawl, climb (ladders, scaffolds, or other), reach/work above shoulders, use a telephone, writing by hand, sort/file paperwork or parts, operate foot and/or hand controls, lift/carry/push/pull objects that weigh >40 pounds. 
+ 
+ * - Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of his or her job. 
+ WORKING CONDITIONS: 
+ 
+ May be exposed to high voltage electricity, radiation or electromagnetic fields, lasers, noise > 80dB TWA, Allergens/Biohazards/Chemicals /Asbestos, confined spaces, working at heights ?10 feet, temperature extremes, heavy metals, unusual work hours or routine overtime and/or inclement weather. 
+ May require travel. 
+ 
+ WORK STANDARDS: 
+ 
+ Interpersonal Skills: Demonstrates the ability to work well with Stanford colleagues and clients and with external organizations. 
+ Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for safety; communicates safety concerns; uses and promotes safe behaviors based on training and lessons learned. 
+ Subject to and expected to comply with all applicable University policies and procedures, including but not limited to the personnel policies and other policies found in the University's Administrative Guide,  http://adminguide.stanford.edu . 
+ 
+ Additional Information 
+ 
+ Schedule: Full-time 
+ Job Code: 4981 
+ Employee Status: Regular 
+ Grade: J 
+ Department URL:  http://urology.stanford.edu/ 
+ Requisition ID: 88082 
+ 
+ Job: 
+ Location:  School of Medicine, Stanford, California, United States 
+ Schedule: 
+ Classification Level: 
+ To be considered for this position please visit our web site and apply on line at the following link:   stanfordcareers.stanford.edu 
+ Stanford is an equal opportunity employer and all qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other characteristic protected by law. 
+ Copyright 2017 Jobelephant.com Inc. All rights reserved. 
+ Posted by the FREE value-added recruitment advertising agency 
+ jeid-1a3f20d10824384b8c53ad562d1fdbde 
+ 
+ 
+ Internal Number: 2098961 
+  __  Create a Job Alert for Similar Jobs  
+ About Stanford University 
+ Located between San Francisco and San Jose in the heart of Silicon Valley, Stanford University is recognized as one of the world's leading research and teaching institutions. Leland and Jane Stanford founded the University to "promote the public welfare by exercising an influence on behalf of humanity and civilization." Stanford opened its doors in 1891, and more than a century later, it remains dedicated to finding solutions to the great challenges of the day and to preparing students for leadership in a complex world. The University's thriving diverse community is comprised of nearly 7000 undergraduate students, 12000 graduate students, 2000 faculty members, 1900 postdoctoral scholars, and over 11,000 academic and administrative staff in seven schools including several interdisciplinary research centers and institutes. The campus spreads over 8000 contiguous acres and nearly all undergraduates live on campus. Stanford offers bachelor's and master's degrees in addition to doctoral degrees (PhD, MD, DMA and JD) plus a number of professional and continuing education programs and certifications. More at http://facts.stanford.edu and http://www.stanford.edu. Stanford is an equal empl...oyment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law. Stanford also welcomes applications from others who would bring additional dimensions to the University’s research, teaching and clinical missions. 
+ Show more 
+ Show less 
+ Connections working at Stanford University 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Postdoctoral positions in Biomedical Optics 
+ __  Boston, Massachusetts 
+ 
+ 
+ 
+ 
+ Optical Micromechanics Lab -Wellman Center at Harvard Medical School and Massachusetts General Hosp 
+ __2 Days Ago 
+ 
+ 
+ Optical Systems Scientist 
+ __  Santa Barbara, California 
+ 
+ 
+ Thorlabs, Inc. 
+ __5 Days Ago 
+ 
+ 
+ Engineer (optical system) 
+ __  Chiang Mai, Thailand 
+ 
+ 
+ National Astronomical Research Institute of Thailand (Public Organization) 
+ __1 Month Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

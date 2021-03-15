@@ -1,0 +1,78 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ QA Lead 
+ Granify 
+ __Edmonton, AB 
+ Apply Now 
+ Edmonton, AB 
+ Granify is a rapidly evolving, exciting company at the intersection of e-commerce, machine intelligence and psychology. We are building an industry-leading optimization platform for online retailers wanting to create a better online shopping experience for their customers. 
+ Looking to get your foot in the door at an exciting technology firm in downtown Edmonton? Are you extremely detail-oriented, process-driven, excited to learn, and eager to help others? Your passion for quality and excellent computer skills will allow you to thrive in this role while gaining experience in the industry. We’re hiring a Quality Assurance Lead who values self-improvement, focus, and positivity to help ensure we are creating the best possible product - if this is you, we want you to be a part of it! 
+ What You'll Do 
+ Lead the team that ensures our product is running correctly on our client sites 
+Review and test code to ensure correct functionality and appearance 
+Report and track bug issues directly to team members 
+Verify fixes and perform regression testing 
+Troubleshooting, testing, and debugging to your heart’s content 
+Contributing to retrospectives, relevant documentation, and QA procedures 
+Participate in sharing knowledge, feedback, and ideas - teaching and learning, it’s a two-way street that leads down the road to improvement (pun intended) 
+ You Are… 
+ Passionate about quality and want to deliver nothing but the best work 
+Positive and personable - we're all tackling these challenges together! 
+Able to communicate with clarity and brevity 
+Known for your meticulous attention to detail 
+Enthusiastic and eager to contribute in any way you can 
+Curious, consistently looking for better ways to do things and willing to learn about emerging technologies 
+Are comfortable around code and very technical subjects, being able to code is ideal 
+Committed to mastery and craftsmanship in your work 
+Interested in consumer behavior and online retail 
+ Fundamentals: 
+Extremely organized, with good time management 
+Experience with different operating systems and web browsers 
+Able to collaborate well and work cohesively with multiple groups 
+Prior QA experience 
+ Bonus points: 
+Prior development experience 
+Experience with automating QA tests 
+Experience with virtualization (e.g. Docker) 
+ Experience with third party testing tools (e.g. Sauce Labs, Browserstack) 
+ Understanding of coding fundamentals such as HTML, CSS, and/or JavaScript 
+IT troubleshooting and/or networking skills 
+Account administration 
+ Why Granify? 
+ With our unique culture and How We Work at Granify framework, you’ll develop core skills that will change how you work, how you think and how you live for the rest of your life. We have a clear system in place to help you grow as a person and as a pro and we take it very seriously. 
+ You’ll work closely with an incredible group of the smartest, most interesting, genuinely good people around. You’ll work hard, learn quickly, and have plenty of excitement. You’ll also get a first hand view into the rapidly evolving, exciting intersection of e-commerce, machine intelligence and psychology. 
+ Did you know? Granify is backed by early investors in Facebook, Uber, Twitter, Airbnb, Paypal, Pinterest, Palantir and Yelp. Wouldn’t it have been great to get in at one of those companies as they were taking off... 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

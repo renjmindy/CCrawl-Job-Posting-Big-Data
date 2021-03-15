@@ -1,0 +1,343 @@
+MissyHissy's Job Centre 
+ Welcome to the Job Centre for the Sims 3. Here, you'll find all the careers I create for the Sims 3 available for download. 
+ Skip to content 
+ 
+ Home 
+ Updates 
+ Notices 
+ 
+ A Note About Translations 
+ Languages 
+ Ad-Free Status 
+ 
+ 
+ The Job Board 
+ The Student Board 
+ Forum 
+ Creation Policies 
+ FAQ 
+ 
+ Reporting Issues 
+ Requesting Careers 
+ 
+ 
+ The Wiki 
+ 
+ <- Diving Career 
+ Archaeology Career -> 
+ Critic Career 
+ Posted on  December 4, 2018  by  missyhissy 
+ I bring you a Critic Career! Loosely inspired by the Sims 4 Critic Career however the only similarities are that the career branches into Food Critic and Art Critic. The levels are completely different. 
+ For this career to show up in game, you’ll need  Nraas Careers Mod . 
+ You will need  World Adventures  ,  Late Night  and  University  for this career. Various skills from each of these three expansions are used. It was made with patch 1.69. 
+The career is in  English  , and supports  German  ,  Russian  ,  Brazilian Portuguese  ,  Dutch  and  French  translations. I’ll include translation instructions at the end. 
+ The career is based at the  Business and Journalism  Office. To change the designated rabbithole to suit your own requirements, I have a tutorial  HERE . 
+ It splits into two branches: The Food Critic and Art Critic branches. Each have 5 levels and focuses on the Charisma, Writing and Social Networking skills. The Food Branch also uses the Nectar Making, Cooking and Mixology skills and the Art branch uses the Painting skill. 
+There are uniforms for all levels in this career. You can edit career outfits with patch 1.31 and above, so I highly suggest using this feature to give your Sims a uniform of your own choosing 
+There are 7 Opportunities for the career. Details for these opportunities can be found  Here . 
+Your Sim may receive a bonus on Snowflake Day if Seasons is installed. 
+There is no boss for the top levels of the career. For other levels, Bosses can be controlled using  Master Controller . 
+There are two custom tones: 
+Write Review Notes, which builds the Writing skill 
+Post Reviews To Blog, which builds the Social Networking skill. 
+ 
+ Career Levels 
+ 1.  Critical Blogger  ~ There are some things in the world that just drive you mad. The paintings you saw at the latest art show at the gallery just weren't quite right and there was something extremely off-putting in that meal you dined on last week. Instead of keeping these criticisms to yourself, you're going to put them out to the world on a blog designed for a critic. 
+§20/hour 
+Hours: 12.00pm ~ 5.00pm 
+Days: Monday, Tuesday, Wednesday, Thursday, Friday 
+ Food Branch 
+ 2.  Critical Reporter  ~ Every so often, a catering magazine asks you to report on the experimental dishes the local restaurants produce in order to make recommendations to the readers. It's entirely up to you to take the reins and sample the dishes before making your decisions. Be fair and reasonable but above all, be honest. 
+§45/hour 
+Hours: 9.00am ~ 4.30pm 
+Days: Monday, Tuesday, Thursday, Friday, Saturday 
+ 3.  Radio Reviewer  ~ After great success with your critiques, the local radio station wants you to have the dinner time slot to air your critiques and reach a wider audience. It's a prime slot and could mean greater acclaim and respect for you as a critic and valued reviewer. Once again, keep the reviews honest and fair. 
+§105/hour 
+Hours: 4.00pm ~ 7.00pm 
+Days: Monday, Tuesday, Wednesday, Thursday, Friday 
+ 4.  Columnist  ~ Having reached an audience as far away as SimCity, the local newspaper is interested in you having a regular Food column to put your critiques and opinions into print for people to refer to. The pay's good and the hours aren't bad. The praise you're receiving for your work is heart warming and so with that in mind, go forth and write regularly! 
+§185/hour 
+Hours: 9.00am ~ 1.30pm 
+Days: Monday, Wednesday, Thursday, Friday 
+ 5.  Restaurant Reviewer  ~ Not only has your food reviews hit the spot and reached larger audiences than ever anticipated, but the papers and radio stations want you t start reviewing the restaurants themselves for cleanliness, politeness of staff and general food quality. This job is very important and you can't help but beam as you bear down on a new restaurant with pad and pen in hand. 
+§235/hour 
+Hours: 9.00am ~ 3.30pm 
+Days: Monday, Teusday, Friday, Saturday 
+ Art Branch 
+ 2.  Critical Reporter  ~ Each art show that comes into town has a selection of reporters, critics and reviewers in attendance to give opinions and reviews on the latest works of art. Now, you've been invited to share your opinions and reports on the shows with your followers. 
+§45/hour 
+Hours: 9.00pm ~ 2.30pm 
+Days: Monday, Tuesday, Wednesday, Friday, Saturday 
+ 3.  Art Evaluator  ~ Your opinions have grown to be respected within the Fine Art community and you've been asked to attend a course in Art Evaluation. A very prestigious offer and one you can't turn down. Once you pass, you'll be asked to evaluate certain pieces of art and factor this into your reports and reviews. Good luck! 
+§125/hour 
+Hours: 9.00am ~ 3.00pm 
+Days: Monday, Tuesday, Wednesday, Thursday, Friday 
+ 4.  Columnist  ~ Having reached an audience as far away as SimCity, the local newspaper is interested in you having a regular Fine Art column to put your critiques and opinions into print for people to refer to. The pay's good and the hours aren't bad. The praise you're receiving for your work is heart warming and so with that in mind, go forth and write regularly! 
+§185/hour 
+Hours: 9.00am ~ 1.30pm 
+Days: Monday, Tuesday, Wednesday, Thursday, Friday 
+ 5.  Art Appraiser  ~ The artwork you've experienced so far has ranged from the truly incredible to the decidedly awful and as such, you've developed quite an opinion on all things artistic. Now is your time to shine and share those opinions with all and sundry. Enjoy the job, it's yours to keep! 
+§235/hour 
+Hours: 9.00am ~ 2.30pm 
+Days: Monday, Wednesday, Friday 
+ Translating 
+I’m not fluent enough in any other languages to translate, so if you’re interested in translating this career into your language, then please download this  Language Strings  file and open the file up in Notepad. 
+ Gameplay/Excel/Careers/CareerList:Example 
+   Translate This Text   
+ Do that for the entire file, then email me your translation to: missyhissy0913@hotmail.co.uk and let me know which language you’re translating to. 
+ The career works for me but if you have any issues, please don’t hesitate to let me know and I’ll do my best to sort it as quickly as possible. 
+ Credits go to: 
+Twallan, for his wonderful Career mod! 
+The NRaas team for keeping Twallan's mods updated! 
+Arsil for teaching me how to make the opportunities 
+Finally,  Angie  ,  Victor  ,  Doctsim  ,  Lessien Vardamir  and  SecretX  for translating! 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ Tumblr 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Full-Time Career  and tagged  Full-Time ,  Late Night ,  Opportunities ,  Uniforms ,  University ,  World Adventures . Bookmark the  permalink . 
+ <- Diving Career 
+ Archaeology Career -> 
+ 2 Responses to  Critic Career 
+ 
+ Angie  says: 
+ 
+  December 20, 2018 at 12:08 am 
+ Hello MissyHissy, the translation in german is on the way 🙂 
+ Reply 
+ * [missyhissy](https://missyhissysjobcentre.wordpress.com/) says:
+ 
+  December 20, 2018 at 12:58 pm 
+ Thank you! All updated! 
+ Reply 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Search for: 
+ 
+ 
+ 
+ 
+ 
+ Come and find me on Tumblr! 
+ 
+ 
+ Follow The Job Centre 
+ 
+  Tumblr  
+  Twitter  
+   
+ 
+ 
+ 
+ Useful Information 
+ 
+ Recommended Mods & Additions 
+ Custom Rabbitholes 
+ Zerbu's Ultimate Careers & My Careers 
+ 
+ 
+ 
+ Recent Posts 
+ 
+ Local Council Career 
+ Basketball Career 
+ Snowboarding Career 
+ Football Career 
+ Career Creators Chat Day! 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Snowboarder Career…  on  Snowboarding Career 
+ 
+ 
+ 
+ 
+ 
+ The Basics for Orcha…  on  Veterinary Career 
+ 
+ 
+ 
+ missyhissy  on  Nursing Career 
+ 
+ 
+ Cbot_22 on  Nursing Career 
+ 
+ 
+ 
+ 
+ missyhissy  on  IT Career 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ July 2020 
+ December 2019 
+ November 2019 
+ June 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ August 2016 
+ April 2016 
+ February 2016 
+ September 2015 
+ April 2015 
+ March 2015 
+ August 2014 
+ October 2013 
+ September 2013 
+ August 2013 
+ May 2013 
+ 
+ 
+ 
+ Categories 
+ 
+ 
+ Categories Select Category Full-Time Career Uncategorized 
+ 
+ 
+ Tags 
+ 
+ Afterschool Activities 
+ Ambitions 
+ Apprenticeships 
+ Base Game 
+ Career 
+ Full-Time 
+ Late Night 
+ Opportunities 
+ Pets 
+ Seasons 
+ Showtime 
+ Supernatural 
+ Uniforms 
+ University 
+ University Degree 
+ World Adventures 
+ 
+ 
+ 
+ Follow Blog via Email 
+ 
+ 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Email Address: 
+ Follow 
+ 
+ 
+ Discord Channels 
+ 
+ Creators Cave 
+ MissyHissy's Job Centre 
+ 
+ 
+ 
+ Downloads 
+ 
+ Ace Creators 
+ Anubis Under the Sun 
+ Around the Sims 3 
+ b5Studio 
+ Camille's Blog 
+ Ice-Cream for Breakfast 
+ Juliana's Corner 
+ Kawab's Career Centre 
+ Kimmie's Simmies 
+ Lily's Sim Antics 
+ Richard's The Sims 3 Custom Careers 
+ SimSaraBim 
+ The Sims Lounge 
+ Totally Sims 
+ Totally Sims Blog 
+ Virtual Artisan 
+ 
+ 
+ 
+ Forums 
+ 
+ MissyHissy's Job Centre Forum 
+ Nraas 
+ Pixelated Puddings 
+ 
+ 
+ 
+ MissyHissy 
+ 
+ MissyHissy's College of Further Education 
+ MissyHissy's Irish Dance Studio 
+ MissyHissy's School For Gifted Sims 
+ Sul-Sul Estate Agents 
+ They're More Than Just Pixels 
+ 
+ 
+ 
+ Sims 4 Stories 
+ 
+ A Little Piece of England 
+ The Daily Plumbob 
+ The Moussa Generations 
+ 
+ 
+ 
+ Stories 
+ 
+ Bimlico 
+ Entering Missy Valley 
+ Honeycomb Valley 
+ Margot's Sims 3 Jumble 
+ Orchard Stables 
+ Sandy Valley 
+ SOLV2 
+ Sunset Valley Chronicles 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  MissyHissy's Job Centre  
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ %d bloggers like this: 

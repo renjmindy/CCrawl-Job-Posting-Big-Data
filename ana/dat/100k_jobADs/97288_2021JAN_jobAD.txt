@@ -1,0 +1,417 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ 
+ Freelance Online Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelancers for your project here 
+ ](https://www.workana.com/hire/) 
+ 2 days ago 
+ World War Ii 
+ Published: 2 days ago  Bids: 4 
+ This Project is for remind story of world war II  and to give  a good story of world for next generation your child my child and for all of you child 
+Thank You. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android 
+ I need to  : Create an app 
+ App type  : Game 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  X. Indonesia 
+ USD 500 - 1,000 
+ 2 days ago 
+ Create an Excel Macro to Extract Mail from Outlook and Summarize it 
+ Published: 2 days ago  Bids: 5 
+ Hello. My name is Nalini. 
+Description of project: 
+ 1.This  project is to extract some of the emails based on the keywords. 
+ 2. Summarize the body of the mail into a table based on needed fields. 
+3. It needs to be updated every time I receive the email. 
+** Please refer to my attachment. 
+**Due 31/03/2021 
+Approach me for more information. 
+ Thank you. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Published by:  N. Last reply: 23 hours ago  Malaysia 
+ USD 100 - 250 
+ 2 days ago 
+ Threejs Code 
+ Published: 2 days ago  Deadline: 4 Bids: 1 
+ I need a simple code for the three js that can form a ring using coordinates below. 
+First it forms a 2d shape, then it extrudes the circle. 
+Note that it is divided into 2 surfaces: inner and outer 
+{ 
+outerProfileShapes: [ 
+{ 
+arc: { 
+disposition: "top-right", 
+p1x: 5, 
+p1y: 0.8641, 
+p2x: 4.6106, 
+p2y: 0.3302, 
+cx: 4.4394, 
+cy: 0.8641, 
+dir: "CW", 
+}, 
+}, 
+{ 
+arc: { 
+disposition: "top", 
+p1x: 4.6106, 
+p1y: 0.3302, 
+p2x: 0.3894, 
+p2y: 0.3302, 
+cx: 2.5, 
+cy: 6.9114, 
+dir: "CW", 
+}, 
+}, 
+{ 
+arc: { 
+disposition: "top-left", 
+p1x: 0.3894, 
+p1y: 0.3302, 
+p2x: 0, 
+p2y: 0.8641, 
+cx: 0.5606, 
+cy: 0.8641, 
+dir: "CW", 
+}, 
+}, 
+], 
+innerProfileShapes: [ 
+{ 
+segment: { 
+disposition: "left", 
+p1x: 0, 
+p1y: 0.8641, 
+p2x: 0, 
+p2y: 0.9361, 
+}, 
+}, 
+{ 
+arc: { 
+disposition: "bottom-left", 
+p1x: 0, 
+p1y: 0.9361, 
+p2x: 0.3894, 
+p2y: 1.4699, 
+cx: 0.5606, 
+cy: 0.9361, 
+dir: "CW", 
+}, 
+}, 
+{ 
+arc: { 
+disposition: "bottom", 
+p1x: 0.3894, 
+p1y: 1.4699, 
+p2x: 4.6106, 
+p2y: 1.4699, 
+cx: 2.5, 
+cy: -5.1113, 
+dir: "CW", 
+}, 
+}, 
+{ 
+arc: { 
+disposition: "bottom-right", 
+p1x: 4.6106, 
+p1y: 1.4699, 
+p2x: 5, 
+p2y: 0.9361, 
+cx: 4.4394, 
+cy: 0.9361, 
+dir: "CW", 
+}, 
+}, 
+{ 
+segment: { 
+disposition: "right", 
+p1x: 5, 
+p1y: 0.9361, 
+p2x: 5, 
+p2y: 0.8 
+641, 
+}, 
+}, 
+], 
+circumference: 64, 
+} 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  D. A. Last reply: Yesterday  Brazil 
+ USD 100 - 250 
+ 2 days ago 
+ Become a better version of yourself 
+ Published: 2 days ago  Bids: 5 
+ Don't try to be the best for someone, become the best for yourself! When you set your personal priorities correctly, you will no longer want to prove something to other people. You will just know that you have your own path and your own tasks that will definitely lead to success. 
+ Category  : Writing & Translation 
+ Subcategory  : Article writing 
+ How many words?  : Between 1,000 and 5,000 words 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  A. A. Italy 
+ Less than USD 50 
+ 2 days ago 
+ Virtual/Administrative Assistance 
+ Published: 2 days ago  Project duration: 1 - 2 months Bids: 10 
+ Routines: 
+Personnel administration, Coordination and day-to-day planning and help in making decisions, receiving and paying bills, shopping, organizing and tracking trips, typing and sending documents and emails, managing the budget, preparing meetings , among other things. 
+ Category  : Admin Support 
+ Subcategory  : Virtual Assistant 
+ Is this a project or a position?  : Project 
+ Required availability  : Part time 
+ Published by:  A. W. Last reply: 10 hours ago  Brazil 
+ Less than USD 10 / hour 
+ 2 days ago 
+ Copywriting english 
+ Published: 2 days ago  Deadline: 1 Bids: 10 
+ Content writing for post in English. This job could be recurring depending on your fees and your knowledge. It is to create articles optimized for google, uploaded to wordpress. 
+Plugin: rankmath 
+ Category  : Writing & Translation 
+ Subcategory  : Writing for websites 
+ How many words?  : Less than 1,000 words 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  A. Last reply: 2 days ago  Peru Payment method:  __Verified 
+ Less than USD 50 
+ 2 days ago 
+ Customer service and Job breifings 
+ Published: 2 days ago  Bids: 3 
+ We are looking for virtual assistance who are familiarity with current technologies, like desktop sharing, with good communication skills; And can also prepare customer spreadsheets and keep online records. 
+ Category  : Admin Support 
+ Subcategory  : Customer Support 
+ Time required  : Between 10 and 20 hours 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  L. J. United States 
+ Less than USD 50 
+ Previous 
+ Next 
+ 
+ Home 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

@@ -1,0 +1,177 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Post-Doctoral Research Fellow, Computational Cancer Biology 
+ Fred Hutchinson Cancer Research Center 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Post-Doctoral Research Fellow, Computational Cancer Biology 
+ __ Fred Hutchinson Cancer Research Center 
+ [](mailto:?subject=Post%2DDoctoral%20Research%20Fellow%2C%20Computational%20Cancer%20Biology&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14021279/post-doctoral-research-fellow-computational-cancer-biology/ "Email")  
+ Application 
+   
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ October 21, 2020 
+ Location: 
+ Seattle, Washington 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full-time 
+ Cures Start Here.  At Fred Hutchinson Cancer Research Center, home to three Nobel laureates, interdisciplinary teams of world-renowned scientists seek new and innovative ways to prevent, diagnose and treat cancer, HIV/AIDS and other life-threatening diseases. Fred Hutchs pioneering work in bone marrow transplantation led to the development of immunotherapy, which harnesses the power of the immune system to treat cancer. An independent, nonprofit research institute based in Seattle, Fred Hutch houses the nations first cancer prevention research program, as well as the clinical coordinating center of the Womens Health Initiative and the international headquarters of the HIV Vaccine Trials Network.  Careers Start Here. 
+ At Fred Hutch, we believe that the innovation, collaboration, and rigor that result from diversity and inclusion are critical to our mission of eliminating cancer and related diseases. We seek employees who bring different and innovative ways of seeing the world and solving problems. Fred Hutch is in pursuit of becoming an antiracist organization. We are committed to ensuring that all candidates hired share our commitment to diversity, antiracism, and inclusion. 
+ 
+ Thelaboratoryof  Dr. Gavin Ha  has a  Post-DoctoralResearchFellow  positionopeninthe  Computational Biology Program  of the Public Health Sciences and Human Biology Divisions.Weare seeking a highly motivated individual whoisinterested indeveloping and implementing innovativecomputational and analyticalapproachesto study the genetics and epigenetics of cancer.Candidates who are excited about large/complex omics data analysisof cancergenomes,computationalmethods development, andliquid biopsy researchare encouraged to apply.The position hasacompetitivesalarywithgreat benefits. 
+ Dr. HaisaProstate Cancer Foundation Young Investigator, V Foundation Scholar, andholds anNCI Transition Career Development Award. Hislaboratorydevelops computational approachesto study cancer genomes from tumors andliquid biopsies,suchascirculating tumorDNA.See the lab websites for more information:  https://gavinhalab.org/  . 
+ Weworkin an interdisciplinaryteam environment with manylocal and externalexperts.All of our projectsinvolve partnering withinvestigatorswho havediverseexpertise inmolecular and experimental biology, cancer biology, and clinical research.Potential projectswill be part of collaborations with _ Dr.Peter Nelson  _ (Director, Prostate Cancer Research Program, Fred Hutch), _ Dr. Andrew Hsieh  _ (Deputy Director, Bladder CancerProgram, Fred Hutch), and investigators studyingother cancers. 
+ Responsibilities 
+ The successful candidate will have the opportunity towork on transformative andleading-edgeresearch problemsin cancer research: 
+ 
+ Cancer Genome Analysis  studytumor evolution,non-coding genome alterations, genome rearrangements andchromatinorganization, cell plasticity, metastatic disease 
+ Liquid Biopsies  developnovelapproachestoanalyzecirculating tumorDNA. 
+ Multi-omicDataintegration  study of advanced bladder cancer 
+ Methods DevelopmentforNewTechnologies  linked-read or long-read genome sequencing of tumors. 
+ For examples of recentstudies, see  PMID:29909985  ,  PMID:29109393  ,  PMID:25060187 
+ 
+ Qualifications 
+ Applicants must have a PhDor MD(orequivalent)withtraininginone of these disciplines: 
+ 
+ Computational biology, bioinformatics, computer science, data science, statistics, computer/electrical engineering, physics, or other related fields. 
+ 
+ Applicants should have someor allof the following skills and experience: 
+ 
+ Work well in team environments, havestrong communication/organization skillsandisdetail-oriented 
+ Highlymotivatedindividualwhothink independently but also enjoy working in a dynamic, collaborative, multidisciplinary team 
+ Strong programming experience (R, Python,Matlab, Java, C/C++, Perl or other languages for research) 
+ Experience with cancer genome data analysis is considered a strong asset 
+ A background in cancer biology (especiallyin prostate) is considered a strong asset. 
+ Experience with analyzing sequencing data is considered a strong asset 
+ Experience with high performance computing environments and cloud computing environments is a plus 
+ Applicantsmusthave a demonstrated publication track record 
+ 
+ Candidateswith stronginterestand/orexpertisein any of these research areasare highly encouraged to apply: 
+ 
+ Cancergenomics, liquid biopsies,tumor evolution/heterogeneity 
+ Application ofstatistical modeling, algorithm design,machine learningto study cancer and genetics 
+ Analysis of large, complexgenome, epigenome,andtranscriptomedata 
+ 
+ To apply, please submit yourapplication with the following: 
+ 
+ A several paragraph statement of research interests 
+ CV 
+ Names and email addresses of three references 
+ Two representative publications or preprints(if available) 
+ 
+ A  statement  describing your commitment and contributions toward greater diversity, equity, inclusion, and anti-racism in your career or that will be made through work at Fred Hutch is requested of all finalists. 
+ Our Commitment to Diversity 
+ We are proud to be an Equal Employment Opportunity (EEO) and Vietnam Era Veterans Readjustment Assistance Act (VEVRAA) Employer. We are committed to cultivating a workplace in which diverse perspectives and experiences are welcomed and respected. We do not discriminate on the basis of race, color, religion, creed, ancestry, national origin, sex, age, disability (physical or mental), marital or veteran status, genetic information, sexual orientation, gender identity, political ideology, or membership in any other legally protected class. We are an Affirmative Action employer. We encourage individuals with diverse backgrounds to apply and desire priority referrals of protected veterans. If due to a disability you need assistance/and or a reasonable accommodation during the application or recruiting process, please send a request to our Employee Services Center at hrops@fredhutch.org or by calling 206-667-4700. 
+ Not ready to apply?  Connect with us  for general consideration. 
+ Application FAQs 
+ Software Powered by iCIMS 
+ www.icims.com 
+ 
+ 
+ Internal Number: 18174 
+  __  Create a Job Alert for Similar Jobs  
+ About  Fred Hutchinson Cancer Research Center 
+ At Fred Hutchinson Cancer Research Center, teams of world-renowned scientists and humanitarians work together to prevent, diagnose and treat cancer, HIV/AIDS and other diseases. Researchers are discovering new ways to detect cancers earlier, improve treatments, and learn how to prevent cancers from growing. Although Fred Hutchinson opened its doors in 1975, its history began about 20 years before that. In 1962 Fred Hutchinson envisioned a center devoted to studying cancer, a disease that took his brother’s life. Today Fred Hutchinson is contributing to the next waves of breakthrough treatments and prevention strategies. Fred Hutchinson collaborates with the Seattle Cancer Alliance, the National Cancer Institute, and the University of Washington. 
+ Connections working at  Fred Hutchinson Cancer Research Center 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

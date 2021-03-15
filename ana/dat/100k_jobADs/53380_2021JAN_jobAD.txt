@@ -1,0 +1,235 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Android Developer 
+ at Yoto 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ About Yoto: 
+ Yoto is an interactive audio platform founded by experienced entrepreneurs that aims to change the way children access audio content. The Yoto ecosystem revolves around a curated library of stories, music, activities, sound effects, podcasts and radio. Children listen to the content on Yoto Player, a safely connected speaker that is controlled using physical cards with NFC technology. Additionally, the Yoto App allows parents to retain a level of control, enabling volume control, remote play and more. 
+ We launched our first hardware product, Yoto Player, on Kickstarter in November 2017, reaching its funding target after only 5 days, and receiving a Red Dot Design award in the process. The product shipped for Christmas 2018 to a great customer reaction. Our partners include Roald Dahl Story Company, Penguin Random House, Hachette, Macmillan, Harper Collins, Naxos, Storynory and more. Luke Kelly, grandson of Roald Dahl and MD of the Roald Dahl Story Company, is on our board, and we are well-funded - backed by leading investors. 
+ At the start of 2020, having worked with Pentagram on the redesign of the product and our brand, we relaunched Yoto Player. Since then, and despite certain major world events, sales have been doubling (and sometimes tripling) MOM, we've launched UK and US websites, won multiple awards including TIME's Best Invention 2020, had a tonne of good press across the world and started to build some great buzz. 
+ The role 
+ We're looking for an experienced Android developer to join the team in charge of building our flagship mobile app which complements the Yoto Player hardware but also functions as a stand-alone audio player for content from our platform. 
+ The role is currently fully remote but we have an office in King's Cross, London, where you'll be expected to visit from time to time. Whilst this is not a remote only position, we offer flexible working hours or remote working where possible and appropriate. Many of the team are parents and we truly understand that life and work need to work together. 
+ You will 
+ 
+ 
+ Write clean and robust code following good development principles (SOLID, DRY, KISS, YAGNI) 
+ 
+ 
+ Use TDD incl. unit, integration and end-to-end tests and be prepared to write tests for all feature delivery 
+ 
+ 
+ Set up and maintain CI/CD flows 
+ 
+ 
+ Be instrumental in architecture, standards and tooling decisions 
+ 
+ 
+ Take part in researching, estimating and prioritizing features for roadmap 
+ 
+ 
+ You 'll need 
+ 
+ 
+ Native Android development experience 
+ 
+ 
+ History of commercial apps released to app stores 
+ 
+ 
+ Understanding ​of Android app development design patterns and native Android APIs 
+ 
+ 
+ Understanding of MVVM, MVP , MVI etc. 
+ 
+ 
+ Good knowledge​ of security best practices 
+ 
+ 
+ Experience consuming 3rd party APIs and familiarity with standard authentication 
+ 
+ 
+ mechanisms (OAuth) 
+ Our stack 
+ 
+ Kotlin, KOIN, Android navigation, Coroutines, OkHttp, Retrofit, Auth0, Protobuf, Espressif, Lottie, Crashlytics, Firebase, Bugfender, Bitbucket pipelines CI, Espresso, Junit, Mockk, Mockable.io, Wiremock 
+ 
+ We're a small team so you'll get a chance to play with plenty of different things all the time -   bonus points  ​ for any experience or desire to dig into any of the following: 
+ 
+ 
+ Device testing in the cloud (AWS, Genymotion etc.) 
+ 
+ 
+ Javascript, Node.js 
+ 
+ 
+ iOS development 
+ 
+ 
+ Cloud based infrastructures (AWS), serverless development 
+ 
+ 
+ SQL and/or NoSQL database experience 
+ 
+ 
+ Experience with popular IoT protocols (RFID/NFC, Bluetooth/BLE, WiFi, MQTT) 
+ 
+ 
+ Web development (HTML & CSS/Sass/pre/post-processor tools, React.js, etc) 
+ 
+ 
+ Android Auto 
+ 
+ 
+ Understanding responsive design principles, speed optimization techniques, web 
+ 
+ 
+ standards, accessibility 
+ 
+ 
+ (Big) data processing and analytics, AI/machine learning 
+ 
+ 
+ Pub/sub, message queuing protocols 
+ 
+ 
+ Media streaming and​ audio processing (codecs, live streaming, normalization, etc) 
+ 
+ 
+ What we offer: 
+ 
+ 
+ Competitive salary and equity (EMI share options) 
+ 
+ 
+ 25 days holidays 
+ 
+ 
+ Workplace pension 
+ 
+ 
+ Currently fully remote, but in more normal times, we operate a flexible work environment 
+ 
+ 
+ Exciting ride in a fast-growth start-up 
+ 
+ 
+ NB: This is a full-time role based in London and you must be eligible to work in the UK as we are unable to offer visa sponsorship. No recruiters please! 
+ Published at 9 Dec 2020 - Expires on 9 Feb 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Yoto 
+ fulltime  Embedded Software Engineer - C/C++, RTOS/FreeRTOS Firmware  at Yoto in London 
+ __09-12-2020 
+ fulltime  Data Expert (Scientist/Analyst/Engineer)  at Yoto in London 
+ __09-12-2020 
+ fulltime  Senior Front End Web Developer  at Yoto in London 
+ __09-12-2020 
+ fulltime  Back-end Developer - Node.JS, AWS, Serverless, API, IoT, Full-stack (Senior/Junior Engineer)  at Yoto in London 
+ __09-12-2020 
+ fulltime  iOS Developer  at Yoto in London 
+ __09-12-2020 
+ fulltime  Head of People  at Yoto in London 
+ __30-12-2020 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

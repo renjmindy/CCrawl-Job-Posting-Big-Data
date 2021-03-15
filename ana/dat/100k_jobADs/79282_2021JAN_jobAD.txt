@@ -1,0 +1,362 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ PHP 
+ 
+ PHP Freelance Jobs From Colombia 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelance  PHP Developers  from  Colombia 
+ ](https://www.workana.com/freelancers/colombia/php) 
+ 2 hours ago 
+ Website (Easy) 
+ Published: 2 hours ago  Bids: 6 
+ Hi! I want to quickly set up a website for a real estate consultant company. I want something VERY simple (see example1).  This project shouldn't take longer than 6 hours (the example website my old guy did within 4 hours). 
+ Pictures can be taken for google and the different tabs I want is only the following ones: 
+- Home 
+- Consultant service: For example(Sales & Marketing, Strategy, Customer Experience) 
+- About Us 
+- Case study 
+- Partners 
+- Contact 
+ 
+ Inspirational website 
+ 
+ 
+ http://www.realestateconsultancy.co.uk/ 
+ https://www.stratosphere-ltd.com/ 
+ 
+ I mainly want the website to be good enough for a quick over view. I need the website to be done within Wednesday/Thursday. 
+ Example1:  https://www.stratosphere-ltd.com/ 
+Example2:  https://www.bain.com/industry-expertise/infrastructure-construction-building-products/real-estate/ 
+ For more information text me. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  M. E. D. Last reply: Just now  Colombia Payment method:  __Verified 
+ USD 100 - 250 
+ 2 weeks ago 
+ Trafficbots 100 -1000 users on stripchat and chaturbate.com they ca... 
+ Published: 2 weeks ago  Bids: 1 
+ Descripción: 
+Im looking for person who will build bot or app or know how to generate people/viewers to room on  chaturbate.com  and  stripchat.com  I need about 100-1000 people. They can be fake. 
+ Software can be delivered as service or program. 
+ What is should be able to do : 
+Creating users on the site. 
+Saving the accounts for reuse. 
+Rotating names of bots 
+Entering a room as Registered and not registered user 
+Able to add own usernames in a list/database. 
+ Able to handle multiple rooms. 
+Able to be scheduled. 
+Able to use a different proxy for every user in viewing and creation. 
+ Entering a room throttled. (Like 500 user enters in 30 minutes in random pauses) 
+To keep bandwith low switch of the video. (If it will be a program). 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  G. R. Last reply: 2 weeks ago  Colombia 
+ USD 100 - 250 
+ 2 weeks ago 
+ Traffic for stripchat and chatur 500-10000 visitors. 
+ Published: 2 weeks ago  Bids: 1 
+ Im looking for person who will build bot or app or know how to generate people/viewers to room on  chaturbate.com  and  stripchat.com  I need about 500-10000 people. They can be fake. 
+ Software can be delivered as service or program. 
+ What is should be able to do : 
+Creating users on the site. 
+Saving the accounts for reuse. 
+Rotating names of bots 
+Entering a room as Registered and not registered user 
+Able to add own usernames in a list/database. 
+ Able to handle multiple rooms. 
+Able to be scheduled. 
+Able to use a different proxy for every user in viewing and creation. 
+ Entering a room throttled. (Like 500 user enters in 30 minutes in random pauses) 
+To keep bandwith low switch of the video. (If it will be a program). 
+ And a simple management page. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  G. R. Last reply: 2 weeks ago  Colombia 
+ USD 250 - 500 
+ 29 days ago 
+ Software developers for startup backed by early Spacex and Facebook... 
+ Published: 29 days ago  Project duration: 3 - 4 months Bids: 6 
+ Torre is a moonshot. We are backed by early investors in Twitter, SpaceX, Facebook, Pinterest, Square, Buzzfeed, Salesforce. We want to make work fulfilling for everyone. 
+To get there, we need to build an amazing product. To both accelerate and deal with our growth, we're expanding our team of Senior Software Engineers. 
+ We've made significant progress, and we're gaining solid traction (you're experiencing it right now!), but we need more outstanding people to keep growing. 
+ If you like being entrepreneurial, working alongside some of the best practitioners in their field, rising to meet significant challenges, paying great attention to detail, and leading others to their full potential, this opportunity is for you! 
+ Compensation depends on the candidate's technical and entrepreneurial experience. All roles are fully remote and get stock options and benefits. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Full time 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  M. C. B. Colombia 
+ Over USD 40 / hour 
+ Last month 
+ Develop a module that replaces the payment methods of the script 
+ Published: Last month  Bids: 2 
+ I need to develop a module to replace the payment methods of the script. 
+ The script is coded in Ioncube so a parallel module must be developed that works with the script and uses my own payment methods: 
+ 1. Develop a module to use my own payment methods in the script 
+ 2. Make the module have the same script administrator login credentials even if they change. 
+ 3. The payment methods can be activated or deactivated / enter the corresponding payment method information in the module 
+ 4. We will start with the coinpayments payment method to receive bitcoin / ethereum or others supported by coinpayments and can add or remove coins. (It should be possible to add other payment processors later, once this part is completed, PerfectMoney, Payeer, Coinbase, Paykassa and others will be added) 
+ 
+ The payment method must be integrated and shown in the script without leaving it. 
+ 
+ 6. When choosing a plan in the script and processing the payment, the balance must be automatically added to the user correctly 
+ 7. Automatic Withdrawals if the payment processor in this case coinpayments allows automatic withdrawals from the user's account in the script, it must be possible to activate or deactivate automatic withdrawals. 
+ 8. The user's account must be able to deposit with the account balance if available or make the deposit with my payment methods. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Roles needed  : Developer 
+ Published by:  B. Colombia 
+ USD 100 - 250 
+ Last month 
+ Medical directory 
+ Published: Last month  Bids: 2 
+ Hello good morning, I would like your services for the realization of a medical directory, I need the creation of a page and at the same time that it is also a mobile application 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Published by:  M. Last reply: Last month  Colombia 
+ Less than USD 50 
+ Last month 
+ Project annex 
+ Published: Last month  Bids: 1 
+ Hello, good morning, this is my project. I await your prompt response as soon as possible, to assess the price at which you can carry out the project, its cost. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Published by:  M. Last reply: Last month  Colombia 
+ Less than USD 50 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

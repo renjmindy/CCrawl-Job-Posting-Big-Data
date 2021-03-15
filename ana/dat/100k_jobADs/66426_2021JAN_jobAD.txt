@@ -1,0 +1,346 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Kubernetes Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Kubernetes Expert ? 
+ ](https://www.workana.com/en/hire/kubernetes) 
+ Last month 
+ Looking for Kubernetes and Microservices Expert in India 
+ Published: Last month  Project duration: 3 - 4 months Bids: 0 
+ Hi, Talents 
+This is a long-term work and I am looking for a real expert in Kubernetes and Microservices. 
+You will work in an excellent team and will be regularly paid every month more than you expect. 
+I need a ID verification before moving forward with the candidate because I don't want a fake developer. 
+ Please share your previous works and your understanding of this subject. 
+Looking forward to hear from you soon. 
+Thanks 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Full time 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer, Project manager 
+ Published by:  S. Last reply: Last month  Singapore 
+ Over USD 40 / hour 
+ 2 months ago 
+ Infrastructure / dev ops 
+ Published: 2 months ago  Bids: 4 
+ Looking for an experienced dev ops for some freelancing work around cloud infrastructure, Kubernetes, clusters. Need someone with experience in various cloud tools that can provide recommendations. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Cloud Storage (Dropbox, Google Drive, etc.) 
+ Roles needed  : Other 
+ Other roles needed  : Dev Ops 
+ Published by:  H. United Kingdom Payment method:  __Verified 
+ USD 250 - 500 
+ 2 months ago 
+ Front-end React Developer (Uruguay & Argentina) 
+ Published: 2 months ago  Bids: 10 
+ We need a motivated and self-directed engineer who wants to deliver real business value. You seek to understand the purpose of your project and how it fits into the larger view. You help your team and peers align to the company vision and mission. 
+You consistently leave code and projects better than you found them. You love to up-level the engineers around you by setting a good example and investing time in helping them succeed. Sound like you? Keep reading. 
+ What you'll be doing: 
+ Designing and building client side applications using best of breed languages, frameworks, and technologies 
+Providing technical leadership for multi-team engineering initiatives through clear written and oral communication to define and track dependencies and technical contracts 
+Developing client side applications with clear boundaries of responsibility and contracts for integration 
+Mentoring junior engineers on your team, providing guidance and support with a sense of stewardship for their growth 
+Influencing the wider engineering team through demos, brown bag topics, and design proposals 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  A. S. Argentina 
+ Over USD 3,000 
+ 2 months ago 
+ Nodejs Micro-services Architect (Uruguay or Argentina) 
+ Published: 2 months ago  Project duration: 3 - 4 months Bids: 1 
+ Node Architect 
+ We seek engineers who want to deliver real business value. You seek to understand the purpose of your project and how it fits into the larger view. You help your team and peers align to the company vision and mission. 
+You consistently leave code and projects better than you found them. You love to up-level the engineers around you by setting a good example and investing time in helping them succeed. Sound like you? Keep reading. 
+ What you'll be doing: 
+ Architect NodeJS microservices, operations and team culture 
+Decompose a Rails application into microservices with clear boundaries, responsibilities and operations 
+Providing technical leadership for multi-team engineering initiatives through clear written and oral communication to define and track dependencies and technical contracts 
+Mentoring junior engineers on your team, providing guidance and support with a sense of stewardship for their growth 
+Influencing the wider engineering team through demos, brown bag topics, and design proposals 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Full time 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  A. S. Argentina 
+ Over USD 40 / hour 
+ 2 months ago 
+ Propose a design for a microservices architecture 
+ Published: 2 months ago  Deadline: 2 Bids: 4 
+ We need help designing a microservices architecture for a current monolitich architecture. There is no programming involved, only the architecture diagram. 
+ We need help to design an architecture for microservices related to a crowdsourcing website/mobile app related to flower observation by tourists. 
+ We just need a proposal related to the DDD for microservices, best PaaS and related services to implement it (Azure/AWS, Kubernets, etc.) 
+ As far as the web app is related, we would like to use Spring Boot (backend) and ReactJS (frontend). 
+ For more information, please contact me. Depending of your experience we can adjust the budget and work more hours than the fixed price. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  I. V. Portugal 
+ Less than USD 50 
+ 3 months ago 
+ Python |Backend | Microservices | Kubernetes 
+ Published: 3 months ago  Project duration: 1 - 4 weeks Bids: 4 
+ Hi, 
+I need a backend developer who has good understanding of Microservices, Kubernetes, MongoDB and Python. 
+ The apps front end is being developed in React Native and we have about 30 screens to be developed. 
+ My overall budget for this project is $500 and I would like to understand if you would be interested in working on this project. The budget is fixed, and we can’t go above that. 
+The payments would be done in increments of 10 screens. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : Part time 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.), Cloud Storage (Dropbox, Google Drive, etc.), Social media (Facebook, Twitter, etc.) 
+ Roles needed  : Developer 
+ Published by:  R. J. Last reply: 3 months ago  United States 
+ USD 20 - 30 / hour 
+ 5 months ago 
+ Sr/Ssr .Net + Angular & Sql Developer 
+ Published: 5 months ago  Project duration: 3 - 4 months Bids: 1 
+ Are you an avid programmer ????? 
+ GT is seeking a Sr/Ssr Dev .NET + Angular & SQL (+2 years ) 
+ Technical aspects: 
+ Message Broker - RabbitMQ 
+Health checker - Beat Pulse 
+Diagnostic monitor (Azure Diagnostics / Splunk open source) 
+Orchestrator (Azure Kubernetes - Load Balancer - Whitelist) 
+Hypermedia (versioning services / Evolvable APIS) 
+ Full time & 100% remote work!! 
+Type of Work: Freelance 
+ -------------------------------- 
+ ¿Amante de la programación ????? 
+ En GT estamos buscando un Dev Sr/Ssr .NET + Angular & SQL (+2 años ) 
+ Aspectos técnicos: 
+ Message Broker - RabbitMQ 
+Health checker - Beat Pulse 
+Diagnostic monitor (Azure Diagnostics / Splunk open source) 
+Orchestrator (Azure Kubernetes - Load Balancer - Whitelist) 
+Hypermedia (versioning services / Evolvable APIS) 
+ Full time & 100% remoto! 
+Modalidad: Freelance 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Full time 
+ Roles needed  : Developer 
+ Published by:  E. Argentina 
+ USD 20 - 30 / hour 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

@@ -1,0 +1,357 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Linux Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Linux Expert ? 
+ ](https://www.workana.com/en/hire/linux) 
+ 2 days ago 
+ Desarrollo de app para Ios, Android, Mac, Windows y Linux 
+ Published: 2 days ago  Deadline: 35 Bids: 8 
+ Necesito una app de mensajería instantanea tipo whatsapp o telegram que pueda ser multiplataforma. 
+ Tengo algunos archivos para revisón que son opersource. 
+ Envía un mensaje para más información. 
+ ================ 
+ I need a messenger app like whatsapp or telegram, that can run in multiple platforms. 
+ I have some files that are opensource that need to be checked. 
+ Send a message for more information. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone, Other 
+ I need to  : Modify an existing app 
+ App type  : Social media 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  M. S. Last reply: 5 hours ago  Mexico Payment method:  __Verified 
+ USD 1,000 - 3,000 
+ 2 months ago 
+ Linux system administrator 
+ Published: 2 months ago  Bids: 0 
+ Linux Centos VPS server: -To change and configure the current Master DNS in Centos -Implement sync/replication between master dns [new] and slave dns -SSL installation [Lets Encrypt] -Fix a document root missing problem -Fix SSL issue 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  M. O. Last reply: 2 months ago  Malaysia 
+ Less than USD 50 
+ 5 months ago 
+ Senior Software Developer (Java/Python/Shell script/Django, Sql)  enterprise client 
+ Published: 5 months ago  Project duration: 1 - 2 months Bids: 11 
+ We're looking for a freelancer as follows to help in a project : 
+~ Full-time position (work remotely) 
+~ Expertise in designing, developing, testing, and deploying applications. 
+~ Proficiency with application design and data modeling. 
+~ Skills and Knowledge Required: Java/Python/Shell script/Django, SQL 
+~ Have relevant experience of at least 5 years. 
+ More details will be provided later. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ Required availability  : Full time 
+ Roles needed  : Developer 
+ Published by:  P. L. Malaysia 
+ Open 
+ 5 months ago 
+ Linux and dock expert with some database management knowledge 
+ Published: 5 months ago  Bids: 7 
+ Hi freelancer, 
+We are looking for Linux and Docker Expert with some database management knowledge. We prefer if you are located anywhere in Europe. Please bid a salary for 1 month and according to your expertise. 
+ 1. DevOps: Experience with Linux and Docker. Some database management knowledge. Backend: Requires up-to-date knowledge of Laravel and PHP 7.4+. 
+Familiarity with SOLID programming principles. Database management experience, best practices, and normalization approaches. At least some knowledge of enterprise-level application architecture approaches and specifically Domain Driven Design, Repository pattern, Actions pattern. 
+Experience with unit and feature testing using PHPUnit - Continuous Integration familiarity. 
+ 2. Frontend: Requires experience with Blade (html), scss and js. Specifically knowledge of Bootstrap style framework and Vue JS framework + some knowledge of jQuery. On the server-side requires experience with Linux and Docker. 
+ Thank you 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  J. M. A. Last reply: 5 months ago  Cyprus 
+ USD 1,000 - 3,000 
+ 5 months ago 
+ Server Based Block Grabber for an android program called Amazon Flex 
+ Published: 5 months ago  Bids: 1 
+ I am wanting a Server Based Block Grabber for an android program called Amazon Flex. Blocks are released by their server and I am trying to be able to grab them before they get out to other users. 
+ You will need to install a proxy server onto a VPS. You will need to have this connect to the server to access the blocks for the Flex program/app. I need it to check for blocks between 10-20 times per second. 
+Then when a block becomes available I would like it to be grabbed from the server to where an Android phone can then accept. 
+ Ask me any questions that you might have. 
+ https://uberpeople.net/threads/make-your-own-fast-amazon-flex-block-grabber-step-by-step.188718 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android, Other, iPhone, iPad 
+ I need to  : Modify an existing app 
+ App type  : Utility - Utility application (flash, calculator, etc.) 
+ Similar apps  : Other 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  N. G. United States Payment method:  __Verified 
+ USD 250 - 500 
+ 5 months ago 
+ Web Ui app with integrated ffmpeg commands for transcoding live str... 
+ Published: 5 months ago  Deadline: 14 Bids: 2 
+ PHP/Python App need to be implemented with these specifications for Ubuntu Server 18.04: 
+ 1. web ui status page dashboard) 
+- monitor for a number of total streams, active streams ( online, offline, kb/s bitrate ) 
+- monitor for nvidia gpus status nvdec and nvenc load - exemple in  https://github.com/ngi644/datadog_nvml 
+- Monotor for CPU, Ram and HDD load 
+All Monitors need to have a history for load od last 24h 
+ 2. Streams page 
+- Manage Streams: List all Streams, Transcoding Profile used in streams (info), Current and continious Transcoding Streams Output Bitrate ( kb/s), Bottons for Stream Start, Stop and Edit. 
+ - Adding New Stream: Fill Name of stream, Fill Input source, Drop menu with choise for Transcoding Profile (already predefenied in Transcoding Profiles), Choise for Output Publish Stream ( hls or http, dependig the nginx settings ) 
+ 3. Transcoding Profiles 
+- Manage Profiles: FIll Name, Edit, Delate Profile. 
+- Add new profile: Fill Name of profile, Fill FFmpeg command (manualy addedd command for executing FFmpeng bin that will be worknig with the input and output provided in every single stream) 
+Instalation of all dependeces and plugins will be manualy compiled, so just I need these commands to be executed from the App with input and output 
+ 
+ Nginx 
+- Server HTTP Port: Add port, change. 
+- Security Whitelist: Add ip address; other ip address; .... (Add IPs that will be able to connect to output strems http port ) 
+ 
+ 5. Settings 
+- Backup all settings 
+- Restore all settings 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  A. B. Switzerland 
+ USD 100 - 250 
+ 6 months ago 
+ 4 assignments of programation & It Manager 
+ Published: 6 months ago  Deadline: 1 Bids: 0 
+ 4 Assingments [very Short] 
+ Agent for Apache logs parsing 
+NRPE server configuration file 
+Frames Reconstruction 
+Resource discovery using PCAP file 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Experience in this type of projects  : No (I haven’t managed this kind of project before) 
+ Roles needed  : Other 
+ Other roles needed  : 4 assignments 
+ Published by:  P. J. Last reply: 6 months ago  Portugal 
+ Less than USD 50 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

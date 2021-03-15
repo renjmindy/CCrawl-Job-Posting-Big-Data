@@ -1,0 +1,174 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Senior Platform Engineer (Remote within the UK) 
+ at Chip 
+ go back to Developer Jobs 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤70000 - ₤85000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ ₤70000 - ₤85000 per year 
+ 
+ 
+ apply now 
+ 
+ We're Chip. We're here to make saving effortless, easy and fun. Our mission is to build the best savings app in the world. 
+ We help people save up money automatically. Infact, we've automatically saved more than £150 million for tens of thousands of our savers already. 
+ We've done all this by using AI, Open Banking and a disruptive approach to traditional banking. 
+ Now, we're helping people get better returns automatically, too. 
+ You can open a market leading savings account in a couple of taps in Chip, as well as deposit, track and withdraw your money. 
+ As you sit back, save and earn interest, we'll keep going to the banks on your behalf to negotiate better rates. 
+ This was a service that used to only be available to the super-rich, but we've done some clever things to pool Chip savers' money, so we can negotiate with banks like you're a millionaire. 
+ Sounds pretty good, eh? And we're just getting started. 
+ Chip is being built by a fast-growing team of designers, developers, customer service professionals, marketers, banking experts, and entrepreneurs, with the backing of more than 11,000 investors and a huge community of Chip savers. 
+ If you want to join us, we always want to hear from anyone who believes technology can make saving effortless, easy and fun. 
+ We're growing fast and we have some very exciting plans. We're looking for a Senior Platform Engineer ** ** to help us make them happen. 
+ **Senior Platform Engineer  **responsibilities include deploying product updates, identifying issues and implementing integrations that meet customer needs. If you have a solid background in software engineering and are familiar with AWS and Terraform, we'd like to meet you. 
+ What you can expect to be doing: 
+ You will be working with a talented team of engineers to help build the Chip platform. We're all about automation and security at scale - Terraform, AWS and Kubernetes in production. You can expect to be using a range of tools such as Terraform, GitLab, comprehensive logging and monitoring tools and more in your day to day role. We have multiple dedicated AWS accounts, all doing different things, controlled from our application pipelines, with dedicated infrastructure for each application. You should be able to be flexible in response to customer needs and work closely with a team of developers to help build the world's best savings app. 
+ 
+ What we 're looking for : * 
+ 
+ Scripting experience: Bash, Python, GoLang 
+ Infrastructure Experience: Terraform, Pulumi, CloudFormation 
+ Cloud Service Providers: AWS, Azure, GCP 
+ Container / Container Orchestration experience: Docker (e.g. ECS, EKS, Rancher, Kubernetes, etc) 
+ Experience deploying containers into highly automated AWS environments 
+ Experience with DNS management (Route53, especially with split horizon) 
+ Experience defining and deploying secure IAM access controls across hub-and-spoke accounts, with a strong understanding of federated protocols 
+ Security awareness (access controls, deep packet inspection, security groups, network ACLs) 
+ Understanding of Microservice Architecture / Mesh technologies and how to deploy / manage them 
+ 
+ 
+ What we 're really looking for:  ✍️ 
+ Although we're in the financial space, and under the scrutiny that comes with it, the current engineering team works well together, and even sometimes with a smile. We're sure you've got the technical skills, otherwise you would have stopped reading by now, so let us be clear in what will make us want to work with you. 
+ We want a real person, with interests outside of code, to join our work family. You could be a dancer, a gamer, a musician, a parent, a hockey fan, or even that one person that still writes Twilight fan-fiction. Doesn't matter to us. At the interview stages will be looking for empathy, eq, fun stories, and ability to smile even when things are tough. Code monkeys need not apply. 
+ 
+ **PERKS  **🎁 
+ 
+ £70,000 - £85,000 per annum dependant on experience 
+ Share option scheme. 
+ Workplace pension scheme (Employer: 3% / Employee: 4% / Tax Relief: 1% / Total: 8%) 
+ We are an equal opportunity employer and value diversity 
+ Flexible working arrangements 
+ Unlimited holiday (28 days contracted but policy not to count) ✈️ 
+ Free Classpass membership or gym membership 
+ MacBook Pro or similar 
+ Based in the heart of Chancery Lane 
+ Opportunity to have a huge impact on our product while fast-tracking your knowledge, responsibility and skills in a high growth fintech startup. 
+ 
+ 
+ Our Interview process:   📖 
+ 
+ Phone Screen with someone from our Talent team 
+ Video interview with the hiring manager 
+ Final Interview with HR & Product Manager 
+ 
+ _ _ 
+ Note to Agencies 
+ Chip does not accept unsolicited CVs from recruiters or employment agencies in response to any of our live roles on our career page. Chip will not consider or agree to payment of any referral compensation or recruiter fee relating to these unsolicited CVs. Chip explicitly reserves the right to hire those candidate(s) without any financial obligation to the recruiter or agency. Any unsolicited CVs, including those submitted to hiring managers, are deemed to be the property of Chip. 
+ Published at 26 Nov 2020 - Expires on 26 Jan 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Chip 
+ fulltime  Operations Manager  at Chip in London 
+ __26-10-2020 
+ fulltime  Data Engineer (Remote within the UK)  at Chip in London 
+ __19-11-2020 
+ fulltime  Senior Backend QA Engineer (Remote within the UK)  at Chip in London 
+ __26-11-2020 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

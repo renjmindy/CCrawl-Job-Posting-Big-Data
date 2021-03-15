@@ -1,0 +1,6 @@
+ Education Qualification: 
+Bachelor's/Master’s degree in Computer Science, Engineering, Information Technology, Cybersecurity, or related field. 
+Minimum of 7 years’ professional experience in network or UNIX/Linux system administration, software engineering, software development, 
+Must have at least one of the following certifications: 
+SANS: GCIH, GCFA 
+Certified Ethical Hacker (CEH) from EC council 

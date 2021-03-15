@@ -1,0 +1,104 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Craft CMS Developer (Essex, UK or UK remote) REMOTEPERMANENT 
+ Job Description 
+ Enovate is seeking to hire an enthusiastic and ambitious PHP Web Developer ideally with previous agency experience to work on an a range of existing and new website and web application projects utilising Craft CMS and Laravel. 
+ We don't want to limit applications so applicants can either be based in our office in Chelmsford, Essex or work remotely from anywhere in the UK or a mixture of both. We're also open to a part-time arrangement and already have other staff who only work 4 days per week. 
+ This is a permanent role with an initial 3 month probationary period. 
+ Responsibilities 
+ The successful applicant will be comfortable with developing websites and web applications from scratch. The role will include developing, extending and maintaining custom plugins for Craft CMS and contributing to Laravel projects so experience with Laravel and Craft/Yii would be very beneficial. Requirements gathering, scoping and time estimates are also essential aspects of the role. Along with an ability to communicate your technical vision to both non-technical team members and clients. 
+ You have: 
+ 
+ Excellent PHP programming skills including OOP, HTTP principles and PHP optimisation 
+ Strong JavaScript skills and experience with frameworks such as Vue.js and jQuery 
+ Excellent knowledge of MySQL database design and development 
+ Knowledge of Git version control 
+ Familiarity with Linux shell 
+ Acute attention to detail and will stop at nothing to achieve perfection 
+ Ability to work autonomously and manage your workload and deadlines effectively 
+ A relentless drive for efficiency, performance and speed throughout all your work 
+ A readiness to embrace and use new approaches and to keep up-to-date with industry advances 
+ Superb written and verbal communication skills 
+ 
+ Not essential but it would be good if you have: 
+ 
+ Experience with Craft CMS 
+ Experience with Laravel 
+ A relevant university degree 
+ Experience with Nginx 
+ Experience with cloud infrastructure such as AWS 
+ Project management experience 
+ Knowledge of SEO 
+ 
+ We have: 
+ 
+ A great salary, commensurate with experience 
+ 24 days holiday 
+ A relaxed working atmosphere 
+ Interesting and varied projects to get your teeth into 
+ Monthly training time to tackle a task/project/goal of your choosing 
+ Company pension 
+ Modern, air conditioned office 
+ Christmas and summer parties 
+ Paid for outings to industry events/conferences 
+ 
+ How to Apply 
+ Candidates should send a covering letter and CV to  [email protected] . 
+ Please answer the following questions in your covering letter: 
+ 
+ Will you be working from our office or remotely (if remotely, please state where you are based)? 
+ When are you available? 
+ How many days a week can you commit? 
+ Why did you apply for this particular job? 
+ 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Enovate 
+ 
+ __ 
+ 
+ Location:  Essex, UK 
+ 
+ __ 
+ 
+ Phone Number:  [01245 646464](01245 646464) 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://www.enovate.co.uk/ 
+ __  Posted October 29, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

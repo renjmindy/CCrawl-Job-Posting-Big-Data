@@ -1,0 +1,205 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Software Engineer - Regulatory Engineering 
+ Goldman Sachs 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Software Engineer - Regulatory Engineering 
+ Goldman Sachs 
+ [](mailto:?subject=Software%20Engineer%20%2D%20Regulatory%20Engineering&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14260132/software-engineer-regulatory-engineering/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 4, 2021 
+ Location: 
+ Singapore, Singapore 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ MORE ABOUT THIS JOB 
+ YOUR IMPACT 
+ Are you passionate about technology and building creative channels to reach your audience? We are seeking a talented & motivated hands-on senior Developer to work in a dynamic team developing various applications supporting Regulatory Reporting function. A successful candidate will have strong design and problem solving skills. The role will involve all aspects of project life cycle including analysis/design, development, testing and deployment. The role allows interaction with business users, architects, developers and functional analysts globally both within the team and with other GS groups. 
+ OUR IMPACT 
+ Our team of engineers builds solutions to the most complex problems. We develop cutting-edge systems and processes that form the core of our key business and enable transactions to move in milliseconds. We provide real-time access to critical deal information and crunch billions of data points each day to inform firm-wide market insights and strategies. Team members have the opportunity to work at the forefront of technology innovation alongside industry leaders and make significant contributions to the field. 
+ ABOUT REGULATORY ENGINEERING 
+ Regulatory Engineering and the associated technology team are responsible for protecting this reputation through taking responsibility for the reporting of all of the firm's activities to the many regulators throughout the world. In order to achieve this, the team processes all of the firm's activity, be it securities or derivatives, within each of the jurisdictions in which the firm operates. The candidate will be part of the global team with presence in New York, London, Warsaw, Bangalore, Singapore and Tokyo 
+ RESPONSIBILITIES AND QUALIFICATIONS 
+ HOW WILL YOU FULFILL YOUR POTENTIAL? 
+ 
+ Work closely with technology and strategy teams across the firm to build high quality, secure, and maintainable systems using approved tools and software development practices 
+ You will partner with the global technology and business teams to develop and implement solutions to fulfil regulatory obligations of the firm 
+ Manage relationship and workflows with multiple stakeholders and enhance business understanding in a cross product role 
+ Analyse key performance metrics, monitoring success of initiatives, optimizing the approach and reporting to key stakeholders 
+ Enhance your technology skills by working closely with engineers working on cutting edge system 
+ 
+ RESPONSIBILITIES 
+ 
+ Providing leadership to projects by leading project discussions, design, development and testing 
+ Defining and enforcing compliance to development processes and best practices 
+ Leading by example and guiding the team effectively 
+ 
+ DEVELOPMENT PROSPECTS 
+Successful candidates have a great opportunity to work in a dedicated and highly-motivated team, work closely with functional, technical and business experts, and develop an understanding of the full range of products traded by the firm. Ambitious candidates will be able to progress to technical expert roles, within the team. 
+ SKILLS AND EXPERIENCE WE ARE LOOKING FOR 
+ Technical 
+ 
+ 8+ years' experience with a proven track record in designing and implementing Real time distributed processing systems and event processing architecture. 
+ Experience in BigData processing platform/tools like Hadoop and Spark is preferred. 
+ Focus on software quality - ability to write clean code and encourage others to do so 
+ Experience with near real time transactional systems with NoSQL databases (Kafka, Elastic Search) 
+ Excellent problem solving and Design skills 
+ Experience in BPMN and user workflow based systems is preferred 
+ Experience with JavaScript based web development e.g. Angular / ReactJS 
+ Good knowledge of testing frameworks (JUnit/Testing/Fitnesse) and concepts (Test Driven Development, Regression and Parametric Testing) 
+ Strong knowledge of data structures, algorithms and designing for performance and resiliency 
+ 
+ Relevant 
+ 
+ Demonstrates strong oral, written, and presentation skills. Substantial degree of interaction with clients to provide technical solutions 
+ Able to work under pressure and manage multiple projects simultaneously and executes projects independently . Agile Methodology planning is preferred. 
+ Experience in leading development teams with multiple global stakeholders 
+ Provides guidance to other team members and teams on a project basis 
+ 
+ ABOUT GOLDMAN SACHS 
+ABOUT GOLDMAN SACHS 
+ At Goldman Sachs, we commit our people, capital and ideas to help our clients, shareholders and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities and investment management firm. Headquartered in New York, we maintain offices around the world. 
+ We believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. Learn more about our culture, benefits, and people at GS.com/careers . 
+ We're committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. Learn more: https:// www.goldmansachs.com/careers/footer/disability-statement.html 
+ © The Goldman Sachs Group, Inc., 2020. All rights reserved. 
+Goldman Sachs is an equal employment/affirmative action employer Female/Minority/Disability/Veteran/Sexual Orientation/Gender Identity 
+ 
+ 
+ Internal Number: 8559634 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Goldman Sachs 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Optical Systems Scientist 
+ __  Santa Barbara, California 
+ 
+ 
+ 
+ 
+ Thorlabs, Inc. 
+ __Yesterday 
+ 
+ 
+ CodeV Optical Engineer 
+ __  San Francisco, California 
+ 
+ 
+ Kura AR 
+ __3 Days Ago 
+ 
+ 
+ Account Manager – Central Region (USA) 
+ __  Nationwide 
+ 
+ 
+ Gooch & Housego 
+ __4 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

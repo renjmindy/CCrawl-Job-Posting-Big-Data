@@ -1,0 +1,57 @@
+  
+ Group 65Go to Workiz 
+ All Collections 
+ FAQ 
+ Add Files & Images to Jobs From Your Computer 
+ Add Files & Images to Jobs From Your Computer 
+ Learn how to send clients jobs, invoices and estimates with files and images attached 
+ Written by  Topaz Eitan 
+Updated over a week ago 
+ Upload files and images to jobs, estimates and invoices, which you can then send to customers. You can send before and after pictures, waivers of cancellations, warranties, pictures from a job or anything else. 
+ Just upload the images of files, add a description, and send it off to your customer. 
+ How to add files and images to a Job from your computer? 
+ 1.  Click on one of your jobs 
+ 2. Click on the 'Files' tab on the right 
+ 
+ 3. Click on the  'Upload'  button to attach your file or image. 
+ 
+ 4. Once your file has been added, you can view and edit your file info. 
+ 
+ View your attachment  : Click the file icon 
+ Edit your file name and description  : Click on the text description. You can change the file name and add a description. Click  Save  , to save any changes made. 
+ 
+ 
+ Send an invoice with files and images attached 
+ 1.  Click on one of your jobs 
+2. Click the 'Items' tab to create an invoice. 
+ 
+ 3. Click'  'View Invoice' 
+ 
+ 4. The Invoice screen appears. Scroll down to the bottom of the page, to the 'Invoice Attachments' section. 
+ 
+ To view your files attached to this invoice  : Click the file icon 
+ To add a new file to this invoice  : Click  Add Attachments . 
+ To delete a file attached to this invoice  : Hover over the text located to the right of the file icon and click the  Delete  button. 
+ 
+ 
+ 5. Scroll to the top of the page and click on  'Send' 
+ 
+ 6. The  'Send Invoice'  screen opens. 
+Fill in the required info, and select whether to send this by sms or email to your customer. 
+ 
+ 7. Your client should receive an email or an sms with their invoice, attached with all relevant files or images. 
+ 
+ 
+ Need more help? See the related articles below: 
+ How to Add Files & Images to Jobs from your mobile app 
+ Managing Items, Products, and Services in Workiz 
+ Creating an Invoice 
+ Sending an Invoice and Requesting a Payment 
+ Did this answer your question? 
+   
+ 
+   
+   
+   
+ 
+ We run on Intercom 

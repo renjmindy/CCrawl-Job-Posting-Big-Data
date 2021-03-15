@@ -1,0 +1,137 @@
+  
+ 
+ Home 
+ About Us 
+ Services 
+ Job Positions 
+ Job Sectors 
+ Blog 
+ Contact Us 
+ Apply for a position 
+ 
+ Senior IT Systems/Network Cloud Engineer 
+ Full Time 
+ 
+ __Post Date: December 15, 2020 
+ __Apply Before: February 28, 2021 
+ 
+ Job Description 
+ Work Channel Recruitment is working closely with a digital services company and they are looking to recruit a Senior IT Systems/Network Cloud Engineer to join their team. 
+ Job Responsibilities 
+ 
+ Build and setup new development tools and infrastructure, including among others Continuous Integration, Continuous Delivery and Continuous Deployment pipelines 
+ Implement and manage cloud infrastructures using “infrastructure as code” practices and tools 
+ Manage deployments and operations on Kubernetes clusters 
+ Optimize and automate development and release processes for maximum speed and scalability 
+ Analyze software deployment and release requirements and provide recommendations. 
+ Standardize and harmonize deployment and infrastructure management policies 
+ Ensure the availability of managed systems 
+ Ensure that safety and security of managed systems 
+ Investigate and resolve technical issues 
+ Design procedures for system troubleshooting and maintenance 
+ Direct collaboration with development to ensure that development follows established processes and works as intended (proper configuration and release management) 
+ Creates, updates, and maintains documentation, diagrams and other detailed instructions. 
+ Create tutorials to help end-users use a variety of applications 
+ Planning out projects and being involved in project management decisions. 
+ Participating in continuing education and training to remain current on best practices 
+ 
+ Job Requirements 
+ 
+ BSc in Computer Science, Engineering or relevant field 
+ Proven working experience as IT Systems/Network Cloud Engineer or similar role - working in DevOps teams and prior experience with highly scalable systems (cloud) 
+ Experience with user acceptance testing and environment troubleshooting 
+ Hands-on experience with RESTful services and Microservices Architectures 
+ Knowledge of cloud technologies e.g. Google Cloud/ Amazon AWS 
+ Strong experience with continuous integration, automation, orchestration, container management and build tools such as GitLab, Jenkins, Ant, Maven, Gradle, Docker, Kubernetes, Terraform, Vagrant, etc. 
+ Experience with monitoring tools such as Graphite, Grafana and Prometheus or other 
+ Experience creating infrastructure as code, including applications/servers’ blueprints, load balancers, networks, and other deployments 
+ Expertise in security management in containers and clusters 
+ In-depth knowledge of GNU / Linux (Ubuntu/Debian/Centos) and Windows systems 
+ Experience with infrastructure scripting solutions such as Shell, PowerShell or Python 
+ Ability to quickly grasp complex technical concepts and simplify them 
+ Problem solving skills 
+ Good time-management skills 
+ Team spirit; strong communication skills to collaborate with various stakeholders 
+ Fluency in English (written and spoken) 
+ 
+ What our client offers 
+ 
+ Full-time permanent employment contract 
+ Competitive net salary and conditions corresponding to the demands of the position 
+ 13th salary 
+ 22 annual leave days 
+ Private medical insurance (after probation period - 3 months) 
+ Flexible working hours – 7 hours per day with 1-hour break 
+ Work from home policy 
+ Encouragement of innovation and support in personal and professional growth 
+ Opportunity to deal with International customers 
+ Team building activities 
+ 
+ How to Apply 
+ If interested and you match all the requirements, please send your CV to andriana.p@work-channel.com, including the title of the position in the subject line 
+ Please note  that due to the high volume of applications received, only successful candidates will be contacted 
+ __Shortlist    __Apply Now  __Apply with Linkedin 
+ Share 
+ 
+ __ 
+ __ 
+ __ 
+ 
+   
+ ** 
+   ** 
+ 
+ __ 
+ 
+ Email:   info@applabprojects.com 
+ View all Jobs  Contact US 
+ × 
+ __ 
+ __ 
+ __ 
+ You accepts our  Terms and Conditions 
+ Related Jobs 
+ 
+ Back-End Developer in Nicosia 
+ 
+ Posted on 5 days ago, by  Charalambous Valentina 
+ 
+ QA & Customer Service Officer in Nicosia 
+ 
+ Posted on 6 days ago, by  Charalambous Valentina 
+ 
+ Senior Web Application / Back-End Developer in Nicosia 
+ 
+ Posted on 6 days ago, by  Charalambous Valentina 
+ 
+ Web Designer in Limassol 
+ 
+ Posted on 3 weeks ago, by  Charalambous Valentina 
+ 
+ Senior Back-End Java Developer 
+ 
+ Posted on 1 month ago, by  Charalambous Valentina 
+ 
+ Senior Front-End Developer 
+ 
+ Posted on 1 month ago, by  Charalambous Valentina 
+ 
+ Senior Front-End Developer in Limassol 
+ 
+ Posted on 2 months ago, by  Charalambous Valentina 
+ 
+ Lead Software Engineer in Limassol 
+ 
+ Posted on 2 months ago, by  Charalambous Valentina 
+ 
+ Senior Full Stack Developer in Limassol 
+ 
+ Posted on 2 months ago, by  Charalambous Valentina 
+ 
+ Support Engineer in Nicosia 
+ 
+ Posted on 2 months ago, by  Charalambous Valentina 
+ 
+ © 2019 Work Channel - [License/ Αδεια: 371 |  Privacy Policy  - ]() All rights reserved. Design and Developed by  Applab Projects 
+ Back to top __ 
+ This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.AcceptReject  Read More 

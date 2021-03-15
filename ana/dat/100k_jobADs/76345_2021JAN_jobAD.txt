@@ -1,0 +1,112 @@
+  
+ What:  job title, keywords or skills 
+ Where:  country, city or area 
+ 
+  HOME  
+ REGISTER 
+ SEARCH 
+ LOGIN 
+ BROWSE 
+ DIRECTORY 
+ INFO 
+ CONTACT 
+ 
+ Job Highlights 
+ 
+ Location:  Uxbridge, England 
+ Rate:  £80000 - £90000 per annum + £6.7K Car Allowance + 15% bonus 
+ Type:  Permanent 
+ 
+ This job has been posted for more than 30 working days and has expired. 
+ Principal Software Engineer 
+ Our Tech Stack 
+On the Client-Side: Vanilla JavaScript / ECMAScript (ES5+), AngularJS / Angular, React / React Native, Flow or TypeScript. 
+ CSS3 with LESS/SASS & HTML5 
+ On the Server-Side: Java 8 with AspectJ & Maven, Spring Framework including AOP, Boot, Cloud, JDBC, MVC, Security. 
+ Relational databases such as PostgreSQL, Oracle & Amazon RDS. 
+ Message brokers including ActiveMQ, RabbitMQ or Amazon SNS/SQS. 
+ PHP with Zend. 
+Continuous Integration with Jenkins, Test-Driven Development with Chai, JUnit, Karma, Mocha, & Sinon, Behaviour-Driven Development with Cucumber / Protractor, Agile Software Development and practical experience of Extreme Programming, Kanban & Scrum 
+ Candidates with any of the following skills will be strongly preferred: Amazon Web Services, Docker, Kubernetes, Hazelcast, Hystrix, OpenShift, Redis, Zuul 
+ Key Skills & Experience 
+Ideally you'll possess a computer science degree or comparable real-world experience and have previously been employed in a technical leadership role with line management responsibilities. 
+ We are looking to hire an experienced Principal Software Engineer to maintain and upgrade all existing software. 
+ The Principal Software Engineer's responsibilities include recommending adjustments to resolve software issues, improving the functionality of existing software, and ensuring that the design, application, and maintenance of software meets the quality standards of the company. 
+ You should also be able to mentor, guide and train other engineers. 
+ To be successful as a Principal Software Engineer, you should be able to evaluate the user's needs, time limitations and system limitations when developing software. 
+ A stand-out Principal Software Engineer is one who is up to date on new technologies and software development practices. 
+ Principal Software Engineer Responsibilities: 
+Designing, coding, and debugging software. 
+Improving the performance of existing software. 
+Providing training to other engineers. 
+Maintaining and upgrading existing software. 
+Recommending new technologies that can help increase productivity. 
+Supervising and overseeing the technical aspects of projects. 
+Investigating software-related complaints and making necessary adjustments to ensure optimal software performance. 
+Regularly attending team meetings to discuss projects, brainstorm ideas, and put forward solutions to any issues. 
+Principal Software Engineer Requirements: 
+ Strong analytical skills. 
+Excellent communication and people skills. 
+Excellent organizational and leadership skills 
+Proven experience in high-level programming languages, like Java. 
+Proven experience in software development methodologies. 
+Proven experience building complex web systems. 
+The ability to multi-task. 
+ This Principal Software Engineer position is based in Uxbridge and pays c£80-90K + £6.7K Car Allowance + 15% Bonus, depending on relevant experience. 
+ Of course remote working is available. 
+ 
+ 
+ Start:  ASAP 
+ 
+ 
+ Duration:  12 months 
+ 
+ 
+ Rate:  £80000 - £90000 per annum + £6.7K Car Allowance + 15% bonus 
+ 
+ 
+ Location:  Uxbridge, England 
+ 
+ 
+ Type:  Permanent 
+ 
+ 
+ Industry:  IT 
+ 
+ 
+ Recruiter:  Definitive 
+ 
+ 
+ Tel:  01895 457 455 
+ 
+ 
+ Email:  to view click here 
+ 
+ 
+ Posted:  2020-11-06 00:24:56 - 
+ 
+ 
+ View all Jobs from Definitive  
+ 
+ 
+ 
+ More Jobs from Definitive 
+ 
+ DevOps Engineer 
+ Site Reliability Engineer - SRE 
+ Senior Java Software Engineer  
+ Tech Lead 
+ Data Engineering Tech Lead 
+ Data Engineering Tech Lead 
+ DevOps Engineer 
+ Java Software Engineer 
+ Junior Data Engineer 
+ Tech Lead 
+ Data Engineering Tech Lead 
+ Data Engineer 
+ Data Engineer Team Lead 
+ Data Scientist 
+ Senior Java Developer 
+ 
+ Terms of Use  |  Login  |  Register  |  RSS Feed 
+ Copyright (C) 2001-2021 Forgroup Internet Limited. All Rights Reserved. 

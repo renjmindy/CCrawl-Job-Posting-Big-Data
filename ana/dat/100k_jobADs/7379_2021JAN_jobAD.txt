@@ -1,0 +1,185 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Integration Software Engineer 
+ ConsultUSA 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Integration Software Engineer 
+ ConsultUSA 
+ [](mailto:?subject=Integration%20Software%20Engineer%20&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14302454/integration-software-engineer/ "Email")  
+ Application 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 12, 2021 
+ Location: 
+ Pittsburgh, Pennsylvania 
+ __ Show Map 
+ Type: 
+ Full Time - Experienced 
+ Preferred Education: 
+ 4 Year Degree 
+ Description: 
+ Our client has an immediate need for an  Integration Software Engineer . In this role, you will be responsible for resolving issues prioritized by business partners, through an Agile, cloud-based approach. 
+ Requirements: 
+ 
+ 3+ years of experience 
+ In depth knowledge working with and implementing Microsoft Azure products (Data Factory, Logic App, Micro services, DevOps, CI/CD) 
+ Azure Database capabilities:(CosmosDBM Azure SQL DB, Azure SQL Managed Instance) 
+ Strong experience in coding languages: (C#, .Net, HTML, CSS, JS) 
+ Familiar with implementing polyglot database strategies 
+ Microsoft Kusto Query language 
+ Strong verbal and written communication skills 
+ Experience working in an Agile environment is desirable 
+ Capabilities implementing SOAP and RESTful APIs is preferred 
+ Prior knowledge of implementation and design of unit tests is useful 
+ 
+ Additional Responsibilities: 
+ 
+ Document works, participate in team meetings, and contribute to project work as needed. 
+ Continuously adapt to latest technologies and patterns 
+ Collaborate with business and development partners in the creation and implementation of full stack solutions 
+ Work together with tech leads to maintain architecture continuity across systems and quality assurance units to test solutions 
+ Perform code reviews and resolve incoming production defects 
+ Implement deployment processes (CI/CD) 
+ Create Proof of Concepts/Prototypes utilizing new technologies to determine technical and cultural fit 
+ 
+ How to Apply: 
+ To submit your application, please click the  “Apply Now”  button located at the top and bottom of the page. 
+ ConsultUSA is an Equal Opportunity Employer 
+ For a complete listing of all ConsultUSA jobs please visit   www.consultusa.com 
+ Follow us on Twitter:   @ConsultUSA_Jobs 
+ 
+ 
+ Internal Number: 12420P 
+  __  Create a Job Alert for Similar Jobs  
+ About ConsultUSA 
+ Founded in 1997, ConsultUSA specializes in Project Management and Business Analysis focused IT positions within various industries. We also offer challenging technical engagements in Application Development, Data Warehouse/BI, QA, & Network Engineering. We are partnered with solutions company PMCentersUSA, a world-class consulting/training organization distinguished as a PMI® award winner and federal GSA-approved supplier. Together, we offer remarkable career choices for talented individuals to assist our many clients with their IT project-based needs, strategic business projects, and organizational improvement initiatives. For salaried employees, we offer a range of outstanding benefits, including; Healthcare Insurance (medical, dental & vision), 401K Savings Plan with Employer Matching, Short- and Long-Term Disability, Life Insurance, Paid Holidays, Paid Time Off, and Industry Certification cost reimbursement. Once you’re on board, a dedicated Account Manager will work with you to identify specific goals to help you advance in your career and provide you with cost-free enrollment in our professional development courses provided by our partner, PMCentersUSA. 
+ Connections working at ConsultUSA 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ CodeV Optical Engineer 
+ __  San Francisco, California 
+ 
+ 
+ 
+ 
+ Kura AR 
+ __1 Week Ago 
+ 
+ 
+ Engineer (optical system) 
+ __  Chiang Mai, Thailand 
+ 
+ 
+ National Astronomical Research Institute of Thailand (Public Organization) 
+ __1 Month Ago 
+ 
+ 
+ Software Engineering 
+ __  Glasgow, United Kingdom 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

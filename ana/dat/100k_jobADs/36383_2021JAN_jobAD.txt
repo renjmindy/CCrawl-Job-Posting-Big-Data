@@ -1,0 +1,163 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Data/Software Engineer - Python and AWS 
+ Capital Group 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Data/Software Engineer - Python and AWS 
+ Capital Group 
+ [](mailto:?subject=Senior%20Data%2FSoftware%20Engineer%20%2D%20Python%20and%20AWS&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14162310/senior-data-software-engineer-python-and-aws/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 3, 2020 
+ Location: 
+ United States 
+ __ Show Map 
+ Salary: 
+ Open 
+ Req ID:  37551 
+ Location:  Irvine, CA 
+ Other location(s):  N/A 
+ Relocation benefits offered:  Yes 
+ Travel required:  None 
+ "I can be myself at work." 
+ You define yourself by more than just a job title, and we want you to feel comfortable bringing your true self to work. We value your talents, your traditions and your take on the world everything that makes you unique. We're working hard to advance diversity, equity and inclusion in our organization and our communities because we know that what makes us different makes us better. 
+ We want you to feel a strong sense of belonging. We value and welcome your experiences, ideas and identity. Over 40 employee resource groups unite our people and help to develop our collective empathy through unfiltered conversations about race, ethnicity, gender, gender identity, sexual orientation, faith, disabilities, mental health and so much more. 
+ "I can influence my income." 
+ You want to feel recognized at work. Your performance will be reviewed annually, and your compensation will be designed to motivate and reward the value that you provide. You'll receive a competitive salary, bonuses and benefits. Your company-funded retirement contribution will be the equivalent of 15% of your annual pay (including bonuses). 
+ "I can lead a full life." 
+ You bring unique goals and interests to your job and your life. Whether you're raising a family, you're passionate about where you volunteer, or you want to explore different career paths, we'll give you the resources that can set you up for success. 
+ 
+ Enjoy generous time-away and health benefits from day one, with the opportunity for flexible work options 
+ Receive 2-for-1 matching gifts for your charitable contributions and the opportunity to secure annual grants for the organizations you love 
+ Access on-demand professional development resources that allow you to hone existing skills and learn new ones 
+ 
+ COVID-19 HIRING: Our recruiting and onboarding activities are virtual during the pandemic and we've transitioned to a work-from-home environment until further notice. We are offering generous work-from-home benefits to improve our associate's ability to work remotely. 
+ "I can succeed as a Senior Data Engineer at Capital Group." 
+ As a Senior Data Engineer, you will contribute to our data technology strategy and roadmap, end-to-end solution delivery, and integrate with our business and IT partners in support of and partnership with the analytic and digital roadmaps. Through your expertise, you will contribute to building and launching transformative data that empowers intelligent and adaptive digital client interactions as well being the engine that runs many of our key business operations related to sales planning and execution. 
+ From SaaS and packaged software to custom technology products and services, you ensure the right solution for the business problem at hand and address challenges at their core. You contribute to the development of products, services, and experiences that disrupt markets, generate value, and positively impact millions of lives. 
+ "I am the person Capital Group is looking for." 
+ 
+ You have a bachelor's degree in Information Management, Computer Science, Engineering, or a related field 
+ You have at least 7 years of data engineering/devops skills in any or all of the following: pipeline ingestion, database architectures, data models, CI/CD pipeline (python, AWS, EMR, Lambda, Step functions, postgres, CDK pipelines) 
+ You have expertise leading data application architecture, design, development, and deployment of end-to-end technology solutions including core data processing, data and data integration across batch, near real, and real time interfaces 
+ You have experience designing, developing, and deploying cloud native technology solutions (preferably on AWS) with expertise in Infrastructure as Code and PaaS, and a proactive approach towards application alternatives, performance, and security as they relate to the design and development process 
+ You're thoughtful in your approach to software engineering best practices. You lead code review to enable a future-ready, high quality, and responsive code base 
+ Your agile mindset and passion for designing product user experiences enable rapid business growth 
+ You demonstrate thought leadership, a deep understanding of business needs on data, and appropriately apply industry trends/products/solutions to solve business problems 
+ You have technology vendor management experience. You've provided technology direction, guidance and oversight of vendor solutions and integrations 
+ 
+ "I can apply in less than 4 minutes." 
+ You've reviewed this job posting and you're ready to start the candidate journey with us. Apply now to move to the next step in our recruiting process. If this role isn't what you're looking for, check out our other opportunities and join our talent community. 
+ "I can learn more about Capital Group." 
+ At Capital Group, the success of the people who invest with us depends on the people in whom we invest. That's why we offer a culture, compensation and opportunities that empower our associates to build successful and prosperous careers. Through nine decades, our goal has been to improve people's lives through successful investing. We know that our history is a testament to the strength of the people we hire. More than 7,800 associates in 30+ offices around the world help our clients and each other grow and thrive every day. Find us on LinkedIn, Glassdoor, FairyGodBoss, DiversityJobs and Instagram. 
+ We are an equal opportunity employer, which means we comply with all federal, state and local laws that prohibit discrimination when making all decisions about employment. As equal opportunity employers, our policies prohibit unlawful discrimination on the basis of race, religion, color, national origin, ancestry, sex (including gender and gender identity), pregnancy, childbirth and related medical conditions, age, physical or mental disability, medical condition, genetic information, marital status, sexual orientation, citizenship status, AIDS/HIV status, political activities or affiliations, military or veteran status, status as a victim of domestic violence, assault or stalking or any other characteristic protected by federal, state or local law. 
+ Nearest Major Market:  Irvine California 
+ Nearest Secondary Market:  Los Angeles 
+ Job Segment:  Database, Developer, Social Media, Computer Science, Cloud, Technology, Marketing 
+ 
+ 
+ Internal Number: 37551 
+  __  Create a Job Alert for Similar Jobs  
+ About Capital Group 
+ At Capital Group, the success of the people who invest with us depends on the people in whom we invest. That’s why we offer a culture, compensation, and opportunities that empower our associates to build successful and prosperous careers. Through nine decades, Capital Group’s goal has been to improve people’s lives through successful investing. We know that our history is a testament to the strength of the people we hire. Private ownership allows us to keep our eyes on the long term while more than 7,800 associates in 30+ offices around the world help our clients and each other grow and thrive every day. 
+ Connections working at Capital Group 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

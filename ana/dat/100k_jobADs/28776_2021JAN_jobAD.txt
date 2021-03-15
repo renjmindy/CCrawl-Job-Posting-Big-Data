@@ -1,0 +1,89 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Craft CMS developer position LOCALPERMANENT 
+ Job Description 
+ We're recruiting for a talented, technically astute Craft CMS developer to join our team. 
+ About Mud 
+ Mud are a creative, digital agency based in the centre of the historic city of Bath. A growing team, we work with a range of interesting clients from film studios to schools, charities to SMEs and e-commerce sites. And we work as digital partners for a number of internationally renowned creative agencies. Find out more about us here ->  ournameismud.co.uk 
+ We love creating beautiful, engaging, award winning websites. And we take pride in the close relationships we develop with our clients - in our experience collaborative approaches always lead to the best work. 
+ The role 
+ The job primarily involves the CMS development for our websites, predominantly on the Craft CMS platform. You will be involved thoughout our projects, from planning out and building sites through testing/QA, deployment, delivery and post-launch support. You will typically be working on 2-3 projects at a time and work closely with our front-end developers integrating their template code into content-managed sites and dynamic web applications. 
+ You'll also be working with the team in supporting our catalogue of existing sites and providing ongoing support to our project managers and our clients. 
+ You will be enthusiastic about web development (especially Craft!) and excited about new tools, techniques and technologies but know when this distracts from Getting Things Done. You must be self-motivated, organised and focused in your work but happy collaborating with others. 
+ What are we offering? 
+ A relaxed yet fast paced and fun working environment, where you will be regularly challenged and helped to develop your skillset. We strive to produce the best work we can – no cutting corners, we take pride in making our work the best it can be. 
+ We’re not just about the work though. We organise regular team days, a variety of social activities and set ourselves fun side projects to learn new skills and scratch those itches (such as https://ontheplane.futbol/) 
+ What you'll get 
+ 
+ A salary of between £30k - £35k, depending on experience 
+ A range of exciting projects to work on, for a mix of clients big and small 
+ A sensible work / life balance - no mad Friday night deadlines here, we know a successful creative agency can be run on a normal 9-5:30 routine 
+ 23 days holiday, and usually extra time off around Xmas, and your birthday off 
+ Pension Scheme with employer contributions 
+ Flexible working and remote working opportunities 
+ Constant opportunities to learn - we support our team to develop as much as we can 
+ A £500 'curiousity and inspiration' training budget 
+ A supportive and friendly working environment 
+ Regular socials 
+ 
+ Necessary skills and requirements 
+ 
+ Experience building websites with Craft CMS 
+ Using version control systems, notably Git 
+ Configuring and working with LAMP/Nginx server hosting and DNS 
+ Working/integrating with third-party APIs 
+ Organisational skills to make most effective use of your time 
+ 
+ Nice to haves 
+ 
+ Experience with ExpressionEngine CMS or Wordpress 
+ Experience developing custom PHP with Yii or similar framework (eg Laravel) 
+ Building and working with eCommerce websites, payment gateways, etc 
+ Familiarity with front-end technologies, especially JavaScript/AJAX 
+ 
+ The role will be based in our Bath office. No full-time remote working, sorry. 
+ How to Apply 
+ Please email your CV - outlining your skills, experience (including examples of your work) and interests along with links to your Github and profile (if relevant) - and a covering letter to  [email protected] 
+ Contact Info 
+ 
+ __ 
+ 
+ Location:  Bath, UK 
+ 
+ __ 
+ 
+ Phone Number:  [01225 471 465](01225 471 465) 
+ 
+ __ 
+ 
+ Email Address: 
+ __  Posted January 6, 2020 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

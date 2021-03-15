@@ -1,0 +1,177 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Computer Scientist 
+ Columbia University 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Computer Scientist 
+ Columbia University 
+ [](mailto:?subject=Computer%20Scientist&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/13784373/computer-scientist/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ August 4, 2020 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full-time 
+ 
+ Job Type: Officer of Administration 
+ Regular/Temporary: Regular 
+ Hours Per Week: 35 
+ Salary Range: Commensurate with experience 
+ 
+ 
+ Position Summary 
+ The Computer Scientist will further develop SEQSpark which was developed to analyze large scale genetic epidemiological data. 
+ 
+ Responsibilities 
+ The Computer Scientist will lead the development of a Python API for extending SEQSpark with various association testing methods written in Python and R. S/he will also implement through the API linear mixed models (LMM), generalized LMM, and methods for detecting pleiotropy and interactions, etc. 
+ 
+ Minimum Qualifications 
+ Bachelor's Degree in computer science, software engineering, or related field or equivalent in education and experience plus three years of experience. 
+ 
+ Preferred Qualifications 
+ Experience in distributed computing with Spark, Python software design, and scientific computing in Python (TensorFlow). 
+ 
+ Equal Opportunity Employer / Disability / Veteran 
+ Columbia University is committed to the hiring of qualified local residents. 
+ 
+ 
+ Internal Number: 508079 
+  __  Create a Job Alert for Similar Jobs  
+ About Columbia University 
+ Columbia University is one of the world's most important centers of research and at the same time a distinctive and distinguished learning environment for undergraduates and graduate students in many scholarly and professional fields. The University recognizes the importance of its location in New York City and seeks to link its research and teaching to the vast resources of a great metropolis. It seeks to attract a diverse and international faculty and student body, to support research and teaching on global issues, and to create academic relationships with many countries and regions. It expects all areas of the university to advance knowledge and learning at the highest level and to convey the products of its efforts to the world. 
+ Connections working at Columbia University 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Optical Systems Scientist 
+ __  Santa Barbara, California 
+ 
+ 
+ 
+ 
+ Thorlabs, Inc. 
+ __Today 
+ 
+ 
+ Data Scientist 
+ __  Santiago, Chile 
+ 
+ 
+ European Southern Observatory 
+ __3 Weeks Ago 
+ 
+ 
+ Machine Learning Engineer 
+ __  Singapore, Singapore 
+ 
+ 
+ Charterhouse Partnership Singapore, EA Licence No: 16S8066 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

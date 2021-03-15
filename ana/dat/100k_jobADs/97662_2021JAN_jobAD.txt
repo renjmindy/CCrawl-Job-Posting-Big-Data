@@ -1,0 +1,133 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ (CAN) Manager, Pricing Process and Tool Support 
+ Walmart Canada 
+ __Mississauga, ON 
+ Apply Now 
+ 1. Act as business point of contact for all pricing processes, tools and system support. Act as the local/onsite issue escalation contact for the various stakeholders like Merchants, Pricing team, leadership team and perform under pressure. Answer ad hoc and urgent questions from users with desk drops, emails, zoom calls and still be organized and manage rest of the work. 
+ 2. Create tickets on behalf of users in service now, Jira or other ticketing system. Be on top of tracking issues and manage SLAs. Manage proactive communication between users, technology team and leadership. Successfully project manage small/medium/large scale issues, low/medium/high priority issues, easy/complex/highly complex issues. Coordinate and lead meetings as needed including 1:1 meetings, few people, to large group and leadership meetings. 
+ 3. Determine the root cause of pricing issue (training, business process, frontend, backend data-feed, enhancement to tool etc.); Funnel the issue to right team, follow up and coordinate to resolve issues (with multiple international tech teams, multiple local tech teams, super users, Product Managers, item file team, Merch ops team etc.). Partner with pricing product management and strategy team for technical discussions with various support and engineering teams to ensure timely and effective knowledge sharing, issue resolution, and root cause analysis and prevent recurrence of issues. 
+ 4. Perform end-to-end analysis (User to price change in store/online) to determine magnitude of issue by deep dive on business process and querying large datasets using SQL. Present to leadership in clear and concise manner to help make decisions on prioritization of issues and pros and cons of each options to help make informed decision. Document each finding and decisions made. Demonstrate critical thinking when prioritizing the resolution of production issues, especially when dealing with various support counterparts 
+ 5. Keep prompt and clear communication with business/technology/pricing leadership. Provide effective written / oral communication to various audiences (leadership / executive, business, product, engineering, peers, etc.) when providing status updates on an issue. Create and maintain knowledge articles (for self-service); maintain training documentation by working along with Business Product Manager. Drive user adoption and business continuity by maintaining all SLAs based on business impact. 
+ 6. Test new features as developed (in agile MVP approach), work alongside product team, Canada tech team and International tech team. Design test plans and write end-to-end test cases. Effectively communicate product quality issues and collaborate with software development and product to accelerate issue resolution. Create automation framework, maintaining and writing new tests and test suites. Comfortable leading all aspects of testing/validation/UAT. Designs test reporting and metrics appropriate to project needs. Develop deep expertise in our product suite. Designs test strategies and test cases for complex systems and execute various types of testing (e.g. functional, integration, end-to-end) on a variety of systems (e.g. JDA strategic pricing, JDA promo, price execution systems, in-house systems). 
+ 7. Become subject matter expert in supporting in pricing processes and applications ecosystem; mainly in-house developed systems, to list few GPI – price execution system, PnO – ecomm price execution system, PMT – price management tool, PCST – Price change submission template and 3rd party system like JDA Pricing. 
+ 8. Create and run reports to prevent the issues (e.g. wrong price execution in future), report to leadership, find root cause and fix process, training or request for tool enhancement. Perform UAT of the tool to get familiar with new enhancements and highlight any challenge from end to end process/user perspective. Be active participant of discovery/requirement gathering sessions to highlight process gaps and end-to-end thinking from pricing and merchant perspective. 
+ Skills and Knowledge 
+ 
+ 3+ years of working experience (preferably in retail or eCommerce) 
+ Working knowledge of JIRA and ticket management and documentation systems: Jira, Service now and Confluence 
+ Hands on experience on programming, algorithm building, VBA macros, scripting, business analysis, slice and dice data, outlier detection 
+ Strong knowledge of SQL and querying large data sets 
+ Python would be an asset 
+ Excel (advanced knowledge), Access, Alteryx 
+ Frontend programming language knowledge like .Net, HTML, XML etc. 
+ Data sources and Database knowledge 
+ 
+ o POS data, Transaction data, competition data etc. 
+o Teradata, SQL server, Hadoop etc. 
+ 
+ Ability to de-bug code and understand business logic 
+ Strong foundational knowledge of system architecture and how data flows between various corporate systems 
+ Ability to talk to business users in business language and transform business issue into technology terms 
+ Business process knowledge and process mapping experience 
+ Pricing tools and system knowledge 
+ Strong problem solving and critical thinking 
+ Quick learner and very well Organized (also keep other teams organized) 
+ Presentation building and influencing skills 
+ Strong Facilitation skillset 
+ Strong verbal and written Communication skills 
+ Ability to think end to end and figure out pros and cons options and its business implications 
+ Sense of urgency and ability to prioritize and track issues 
+ Build relationship with users, tech partners and 3rd party providers 
+ Pricing and promotion knowledge and experience with supporting pricing tools would be an asset 
+ An undergraduate degree in Computer Science or related Technical field is an asset 
+ 
+ Minimum Education Required:  Bachelor's Degree 
+ Minimum Years of Experience Required:  3-5 years 
+ Minimum Qualifications...Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. 
+ Age – 16 or older 
+ Preferred Qualifications...Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. 
+ Walmart will accommodate the disability-related needs of applicants and associates as required by law. 
+ Position Summary... 
+Reporting to the Director, Pricing Strategy & Analytics, and this role is responsible to troubleshoot and present issues with pricing tools and processes for merchants and pricing team by looking at end-to-end process. This position will act as SME for all pricing technology solutions and work with product manager, product support, pricing execution, Canada tech and international tech. 
+ What you'll do... 
+ 1. Act as business point of contact for all pricing processes, tools and system support. Act as the local/onsite issue escalation contact for the various stakeholders like Merchants, Pricing team, leadership team and perform under pressure. Answer ad hoc and urgent questions from users with desk drops, emails, zoom calls and still be organized and manage rest of the work. 
+ 2. Create tickets on behalf of users in service now, Jira or other ticketing system. Be on top of tracking issues and manage SLAs. Manage proactive communication between users, technology team and leadership. Successfully project manage small/medium/large scale issues, low/medium/high priority issues, easy/complex/highly complex issues. Coordinate and lead meetings as needed including 1:1 meetings, few people, to large group and leadership meetings. 
+ 3. Determine the root cause of pricing issue (training, business process, frontend, backend data-feed, enhancement to tool etc.); Funnel the issue to right team, follow up and coordinate to resolve issues (with multiple international tech teams, multiple local tech teams, super users, Product Managers, item file team, Merch ops team etc.). Partner with pricing product management and strategy team for technical discussions with various support and engineering teams to ensure timely and effective knowledge sharing, issue resolution, and root cause analysis and prevent recurrence of issues. 
+ 4. Perform end-to-end analysis (User to price change in store/online) to determine magnitude of issue by deep dive on business process and querying large datasets using SQL. Present to leadership in clear and concise manner to help make decisions on prioritization of issues and pros and cons of each options to help make informed decision. Document each finding and decisions made. Demonstrate critical thinking when prioritizing the resolution of production issues, especially when dealing with various support counterparts 
+ 5. Keep prompt and clear communication with business/technology/pricing leadership. Provide effective written / oral communication to various audiences (leadership / executive, business, product, engineering, peers, etc.) when providing status updates on an issue. Create and maintain knowledge articles (for self-service); maintain training documentation by working along with Business Product Manager. Drive user adoption and business continuity by maintaining all SLAs based on business impact. 
+ 6. Test new features as developed (in agile MVP approach), work alongside product team, Canada tech team and International tech team. Design test plans and write end-to-end test cases. Effectively communicate product quality issues and collaborate with software development and product to accelerate issue resolution. Create automation framework, maintaining and writing new tests and test suites. Comfortable leading all aspects of testing/validation/UAT. Designs test reporting and metrics appropriate to project needs. Develop deep expertise in our product suite. Designs test strategies and test cases for complex systems and execute various types of testing (e.g. functional, integration, end-to-end) on a variety of systems (e.g. JDA strategic pricing, JDA promo, price execution systems, in-house systems). 
+ 7. Become subject matter expert in supporting in pricing processes and applications ecosystem; mainly in-house developed systems, to list few GPI – price execution system, PnO – ecomm price execution system, PMT – price management tool, PCST – Price change submission template and 3rd party system like JDA Pricing. 
+ 8. Create and run reports to prevent the issues (e.g. wrong price execution in future), report to leadership, find root cause and fix process, training or request for tool enhancement. Perform UAT of the tool to get familiar with new enhancements and highlight any challenge from end to end process/user perspective. Be active participant of discovery/requirement gathering sessions to highlight process gaps and end-to-end thinking from pricing and merchant perspective. 
+ Skills and Knowledge 
+ 
+ 3+ years of working experience (preferably in retail or eCommerce) 
+ Working knowledge of JIRA and ticket management and documentation systems: Jira, Service now and Confluence 
+ Hands on experience on programming, algorithm building, VBA macros, scripting, business analysis, slice and dice data, outlier detection 
+ Strong knowledge of SQL and querying large data sets 
+ Python would be an asset 
+ Excel (advanced knowledge), Access, Alteryx 
+ Frontend programming language knowledge like .Net, HTML, XML etc. 
+ Data sources and Database knowledge 
+ 
+ o POS data, Transaction data, competition data etc. 
+o Teradata, SQL server, Hadoop etc. 
+ 
+ Ability to de-bug code and understand business logic 
+ Strong foundational knowledge of system architecture and how data flows between various corporate systems 
+ Ability to talk to business users in business language and transform business issue into technology terms 
+ Business process knowledge and process mapping experience 
+ Pricing tools and system knowledge 
+ Strong problem solving and critical thinking 
+ Quick learner and very well Organized (also keep other teams organized) 
+ Presentation building and influencing skills 
+ Strong Facilitation skillset 
+ Strong verbal and written Communication skills 
+ Ability to think end to end and figure out pros and cons options and its business implications 
+ Sense of urgency and ability to prioritize and track issues 
+ Build relationship with users, tech partners and 3rd party providers 
+ Pricing and promotion knowledge and experience with supporting pricing tools would be an asset 
+ An undergraduate degree in Computer Science or related Technical field is an asset 
+ 
+ Minimum Education Required:  Bachelor's Degree 
+ Minimum Years of Experience Required:  3-5 years 
+ Minimum Qualifications... 
+ Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. 
+ Age – 16 or older 
+ Preferred Qualifications... 
+ Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. 
+ Walmart will accommodate the disability-related needs of applicants and associates as required by law. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

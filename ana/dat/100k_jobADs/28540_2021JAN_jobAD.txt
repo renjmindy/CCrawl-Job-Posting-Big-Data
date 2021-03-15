@@ -1,0 +1,84 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Full-Stack Developer at TrendyMinds REMOTEPERMANENT 
+ Job Description 
+ We’re on the hunt for an experienced full-stack developer who is passionate about building websites using HTML, CSS, JavaScript, PHP and more! 
+ We’re searching for a bright, energetic person to join our creative and development teams to bring complex websites to life—all while being mindful of the latest development trends and keeping both the client’s goals and the end user in mind. 
+ As a full-stack developer at TrendyMinds you will 
+ 
+ Help write semantic, modular and accessible  HTML  ,  CSS  and  JavaScript  to create strong foundations for our projects. 
+ Be performance-focused to make our  Lighthouse  scores as close to 100 as possible! 
+ Integrate websites into  PHP-based CMSs  like  Craft CMS  ,  Wordpress  and  ExpressionEngine . 
+ Build out dynamic front-end interfaces using frameworks and libraries like  React  and  Vue.js 
+ Need to be comfortable  writing and maintaining custom PHP  that utilizes Craft CMS, Wordpress and ExpressionEngine's API platforms 
+ Utilize templating tools such as  Twig  ,  JSX  and  Handlebars 
+ Be comfortable  writing and maintaining Node.js 
+ Heavily utilize both  Git  and  GitHub  for our deployment workflow and code review processes 
+ Be part of a team of other individuals who  love to collaborate  and  continue growing  their capabilities 
+ Have opportunities to expand our capabilities help us grow to the next level 
+ 
+ A snapshot of what it's like to work at TrendyMinds 
+ 
+ Collaborating with our design team  : While our solid team of UI/UX designers design things that people will gush over, the more you have a basic understanding of Sketch and Photoshop, the better. From time to time, we might ask you to provide technical insight to our web team. 
+ Nerd out with data and process  : Know how to scale websites as they increase in traffic and complexity, and understand the importance of progressive enhancement and graceful degradation. 
+ Be a catalyst  : Be vigilant about web standards, performance, accessibility and usability by researching and providing recommendations on services/technologies for various projects. We’ll also want you to be cognizant of site performance and speed, including best practices for reducing HTTP requests, browser repaints and mobile overhead. 
+ Juggling master  : You should be able to handle multiple projects and deadlines while also being focused enough to remain committed to those that span multiple months. 
+ Stunning interactions  : You should be able to show how you think in development as it relates to UI/UX. Show us what you’ve been working on! 
+ Troubleshooting skills  : Yeah, we want you to be able to figure it out, whatever “it” is. 
+ Taste matters  : Our clients come to us because we care about making them look amazing in their customers' eyes. Show us that you know what people like. 
+ Start to finish  : You can go from brainstorming with the team to delivering thoughtful mock-ups for all digital platforms. You can see a project through to completion, no matter what obstacles stand in your way. Stick to budget. Not only are you wise with our clients’ money, you also know how to accurately quote your work. 
+ Don’t procrastinate. Initiate.  : You know how to suggest and spearhead development. Here, your ideas matter. We expect you to put them into action when you see an unfulfilled need. 
+ Play on a team.  : Participate in internal meetings on behalf of client accounts—and be willing to jump into the fray when help is needed. We expect you to follow our standards while working in the pipeline with other team members, including the UI/UX team. 
+ 
+ If you have a great personality, enjoy cracking difficult problems and are an all-around team superstar, you’ll go far with our agency. If you're wondering what makes TrendyMinds a great place to work,  check out some of the perks here . Join us! 
+ Here’s what you’ll need 
+ 
+ At least three years of professional, post-collegiate experience 
+ A B.S., B.F.A. or equivalent work experience 
+ Must be a U.S. resident. 
+ 
+ How to Apply 
+ To apply  please fill out the application on our website . 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  TrendyMinds 
+ 
+ __ 
+ 
+ Location:  Indianapolis, IN 
+ 
+ __ 
+ 
+ Website:   https://trendyminds.com 
+ __  Posted July 18, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

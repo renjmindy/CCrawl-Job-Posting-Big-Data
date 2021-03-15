@@ -1,0 +1,179 @@
+What You're Doing Is Rather Desperate 
+ Notes from the life of a [data] scientist 
+ Menu Skip to content 
+ 
+ Home 
+ About 
+ 
+ Biography 
+ Resumé 
+ Social networks 
+ Why desperate? 
+ 
+ 
+ Blog 
+ Contact 
+ Current Work 
+ Previous Research 
+ Publications 
+ 
+ Search 
+ Search for: 
+ Configuring the R BatchJobs package for Torque batch queues 
+ April 1, 2015April 1, 2015  /  nsaunders 
+ I was asked recently to look at some R code which performs "embarrassingly parallel" computations (the same function, multiple times, different parameters) and see whether I could modify it to run on one of our high-performance computing clusters. The machine has 63 virtual compute nodes and uses the  TORQUE  batch queue system to allocate nodes to compute jobs. 
+ First stop: the CRAN Task View  High-Performance and Parallel Computing with R . Two promising packages there:  BatchJobs  and  BatchExperiments . Their documentation is quite extensive with useful examples, but I found it a little disjointed and confusing. What I wanted was a simple, step-by-step guide to setting up for a first-time user. So here is my attempt. As always, it's for "Linux-like" systems. 
+ 1. Installation 
+Quite easy from Github using  devtools . 
+ 
+library(devtools)
+install_github("tudo-r/BatchJobs")
+install_github("tudo-r/BatchExperiments") # if required
+ 
+ My system runs an older R version (3.0.2) and so gave a warning that  testthat  was not available, but that did not prevent installation of the other packages. 
+ 2. Edit the batch system template file 
+One aspect of the  BatchJobs  documentation that I found unclear was that the term "configuration file" is used, but it was not always obvious which file was being discussed. 
+ BatchJobs  requires two files. One of these is a template file which tells R how to submit jobs to the batch queue. The other, discussed in the next section, is a more general configuration file which defines more generally how  BatchJobs  runs (email notifications, database system and so on). 
+ I started by creating a working directory named  jobs  and copying the example template file for the TORQUE batch queue system,  simple.tmpl  , from Github: 
+ 
+mkdir ~/jobs
+cd ~/jobs
+wget --no-check-certificate https://raw.githubusercontent.com/tudo-r/BatchJobs/master/examples/cfTorque/simple.tmpl
+ 
+ I use that file pretty much as-is, except (a) there appears to be a stray "M" character at the end of line 6 which I removed and (b) my system uses  modules , so requires the addition of  module load R  before R is called. 
+ 
+#PBS -N <%= job.name %>
+## merge standard error and output
+#PBS -j oe
+## direct streams to our logfile
+#PBS -o <%= log.file %>
+#PBS -l walltime=<%= resources$walltime %>,nodes=<%= resources$nodes %>,vmem=<%= resources$memory %>
+## remove this line if your cluster does not support arrayjobs
+#PBS -t 1-<%= arrayjobs %>
+  
+## Run R:
+## we merge R output with stdout from PBS, which gets then logged via -o option
+module load R
+R CMD BATCH --no-save --no-restore "<%= rscript %>" /dev/stdout
+ 
+ Note the variables used in line 6: you need to recall their names later on. 
+ 3. Edit the main configuration file 
+When you load the  BatchJobs  library, you'll see a message telling you that a global configuration file was sourced. I'm assuming here that you installed  BatchJobs  into  ~/R/x86_64-pc-linux-gnu-library/3.0.2/lib ; if not, change for the location of your R libraries. 
+ 
+library(BatchJobs)
+Loading required package: BBmisc
+Sourcing configuration file: '~/R/x86_64-pc-linux-gnu-library/3.0.2/lib/BatchJobs/etc/BatchJobs_global_config.R'
+# more output...
+ 
+ This is  not  what you want, since the default configuration runs "interactive" jobs; that is they run sequentially on the head node of your cluster and don't use the batch queue. 
+ You override the defaults by creating a configuration file named  .BatchJobs.R  in the working directory. To use TORQUE, the only line that differs from the default file is the first one. It just says that we want to use a cluster with TORQUE and points to the template file from step (2). 
+ 
+cp ~/R/x86_64-pc-linux-gnu-library/3.0.2/lib/BatchJobs/etc/BatchJobs_global_config.R
+# edit the first line to look like this
+cluster.functions = makeClusterFunctionsTorque("simple.tmpl")
+ 
+ Now the next time that you run R code from  ~/jobs  and call  library(BatchJobs) , the local  .BatchJobs.R  file will override the global configuration. You can also load and override at any time in R using  loadConfig() . 
+ 
+loadConfig()
+Sourcing configuration file: '.BatchJobs.R'
+ 
+ 4. Submitting jobs 
+We're configured and ready to go. In this toy example (inspired by  this mailing list discussion ), we'll create a list of 10 elements, each containing a numeric vector with 100 values. Then we'll write a function to calculate the median value for each of the 10 vectors. This will be split into 10 jobs for submission to the batch queue. Each job will run on one node and return the median value for its set of 100 values. 
+ 
+# define the data and the function
+starts <- replicate(10, rnorm(100), simplify = FALSE)
+myFun  <- function(start) { median(start) }
+
+# create a registry
+reg <- makeRegistry(id = "batchtest")
+
+# map function and data to jobs and submit
+ids  <- batchMap(reg, myFun, starts)
+done <- submitJobs(reg, resources = list(nodes = 1))
+
+## if it all goes badly wrong run this to delete and start over
+removeRegistry(reg)
+ 
+ When you run  makeRegistry()  with the  id  argument, a directory named  id-files  is created in the working directory with the following contents: 
+ 
+batchtest-files/
+|-- BatchJobs.db
+|-- conf.RData
+|-- exports/
+|-- functions/
+|-- jobs/
+|-- pending/
+|-- registry.RData
+`-- resources/
+ 
+ batchMap()  sets up the jobs which are then submitted using  submitJobs() . The names in list  resources  map to line 6 in the  .BatchJobs.R  config file. You need to specify at a minimum the  nodes  parameter, one per job in this case. 
+ If everything work as expected, you should see something like this: 
+ 
+Saving conf: /datastore/sau103/scratch/jobs/batchtest-files/conf.RData
+Submitting 10 chunks / 10 jobs.
+Cluster functions: Torque.
+Auto-mailer settings: start=none, done=none, error=none.
+Writing 10 R scripts...
+SubmitJobs |+                                                       
+           |   0% (00:00:00)SubmitJobs |+                                                       
+           |   0% (00:00:00)SubmitJobs |++++++                                                  
+           |  10% (00:00:00)SubmitJobs |+++++++++++                                             
+           |  20% (00:00:00)SubmitJobs |+++++++++++++++++                                       
+           |  30% (00:00:00)SubmitJobs |++++++++++++++++++++++                                  
+           |  40% (00:00:00)SubmitJobs |++++++++++++++++++++++++++++                            
+           |  50% (00:00:00)SubmitJobs |++++++++++++++++++++++++++++++++++                      
+           |  60% (00:00:00)SubmitJobs |+++++++++++++++++++++++++++++++++++++++                 
+           |  70% (00:00:00)SubmitJobs |+++++++++++++++++++++++++++++++++++++++++++++           
+           |  80% (00:00:00)SubmitJobs |++++++++++++++++++++++++++++++++++++++++++++++++++      
+           |  90% (00:00:00)SubmitJobs |++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+           | 100% (00:00:00)
+Sending 10 submit messages...
+Might take some time, do not interrupt this!
+ 
+ and  qsub  will show jobs in the queue. 
+ The results of each job are saved in the sub-directories  jobs/NN  where NN is the job number (01, 02, 03…10 in this case). You'll find the R script which was submitted to the node, a text output file that you can inspect and an RData file containing the result. 
+ 
+batchtest-files/jobs/01
+|-- 1-result.RData
+|-- 1.R
+`-- 1.out-1
+ 
+ BatchJobs  provides a number of "reduce-like" functions to summarise output. The function reduceResultsVector() returns a vector of the 10 median values. 
+ 
+reduceResultsVector(reg, fun = function(job, res) res, progressbar = FALSE)
+Reducing 10 results...
+           1            2            3            4            5            6            7            8 
+ 0.032699812  0.035309734 -0.025205021  0.224939960 -0.024140551  0.119700979  0.022718529  0.003126253 
+           9           10 
+-0.129746085  0.056802318
+
+# we can check the result by comparing with sapply
+sapply(starts, median)
+ [1]  0.032699812  0.035309734 -0.025205021  0.224939960 -0.024140551  0.119700979  0.022718529  0.003126253
+ [9] -0.129746085  0.056802318
+ 
+ Summary 
+That's the basics of  BatchJobs  + TORQUE. There's a lot more to it and the associated  BatchExperiments  , which looks very useful. 
+ Share this: 
+ 
+ Twitter 
+ Print 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ programming ,  R ,  research diary ,  statistics 
+ batch queue ,  cluster ,  hpc ,  torque 
+ Post navigation 
+ <- Please read "It’s time to reboot bioinformatics education" 
+ Exploring the NCBI taxonomy database using Entrez Direct -> 
+ One thought on "Configuring the R BatchJobs package for Torque batch queues" 
+ 
+ Pingback:  Distilled News | Data Analytics & R 
+ 
+ Comments are closed. 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

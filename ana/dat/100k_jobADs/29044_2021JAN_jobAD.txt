@@ -1,0 +1,358 @@
+Skip to main content 
+ Javascript is disabled on your browser. In order to display this website properly, please enable javascript. 
+  Workiva Workiva.com  
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Partners 
+ Connectors 
+ Security 
+ 
+ 
+ Solutions 
+ 
+ Capital Market Transactions 
+ Internal Audit Management 
+ Management Reporting 
+ SEC Reporting 
+ SOX Compliance 
+ Statutory Reporting 
+ + 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ Industries 
+ 
+ Banking 
+ Energy and Utilities 
+ Government 
+ Higher Education 
+ Insurance 
+ Investments 
+ + 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Customers 
+ The nicest thing about the Workiva platform is just feeling in control. 
+ ](/customers) 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Education 
+ 
+ Community 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Off the Books Podcast 
+ Surfing the uncharted waters of accounting, finance, and wherever else the waves take us. 
+ ](/off-the-books-podcast) 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Request Demo 
+ 
+ 
+ Sign In 
+ 
+ 
+ Menu 
+ 17 People. Multiple Locations. One Team Culture. 
+ November 19, 2020 
+ Matthew Zach 
+ Meet our Team 
+ All of Workiva’s product teams have something in common: none of us have all of our team members working under one roof on a daily basis. The Presentations product team is no exception. We are primarily located across two locations: Ames, IA and Missoula, MT. We have three engineers in Missoula, one engineer who works remotely, and the remaining portion of the squad is based in Ames. 
+ Pre-pandemic photo captured in the Workiva Ames office. 
+ With members from different backgrounds, a recurring theme emerged around team communication lines. From time to time we would inadvertently end up with pockets of information known by some, but not by all team members. People felt uninformed and/or forgotten in one way or another. We wanted better. Below is our journey and steps that other teams can consider implementing when tackling similar issues. 
+ Stating the Goal 
+ One of the goals the Presentations team set for last year was to establish a single, unified team culture across our locations. Regardless of what city or desk someone sat at, we wanted everyone to have timely access to all information and feel connected to the team identity. 
+ As a Result: 
+ 
+ All team members have a shared understanding of communication expectation. 
+ Remote team members feel they had an equal voice and representation on the team. 
+ Local team members are focused on operating remote-first. 
+ 
+ Creating A Remote-First Culture 
+ A remote-first culture simply means that all work-relevant conversations are accessible by all. For a more comprehensive read on remote-first culture, CircleCI has an informational article that can be found  here . 
+ Presentations recognized that we should have a default mode for team chatter. Solving a vexing problem, arriving at a decision, or having an interesting hallway conversation are all things that should be on one platform. 
+ The other element of a remote-first culture is remembering to share non-work related information, too. Between moments of building an awesome product, real life happens and ignoring this is a mistake. You’d likely share these events with a team member who’s standing right in front of you, so why not share with your remote team members as well? 
+ As a Result: 
+ 
+ With a more level playing field, less verbal team members can more actively share their contributions and personality via their online persona. 
+ Behaviors are changing to reflect the new normal: anything newsworthy for the team can now be found in one centralized place. 
+ 
+ Adding Time Post-Standup 
+ With our stated goal of a single conduit of communication in mind, we began to change our behaviors when it came to how we set up our virtual standup meetings. It started with the “16th minute.” Rather than setting up the meeting for a standard 15 minute standup and then ending the call, we decided to start leaving the meeting open for 30 minutes. This provided time for anyone to chat and talk through a project in further detail. Additionally, our tech lead purposefully made himself available for questions or guidance every day during this time. 
+ As a Result: 
+ 
+ After standup, no one feels pressured to get back to work without the answers they need. 
+ Engineers can opt-in to join a “16th minute” that they may not be directly working on, helping to break silos of information. 
+ As a bonus, the above comes with a low cost of context switching. 
+ 
+ Adding Time Pre-Standup 
+ After discovering the benefits of additional time post-standup, we decided why not do the same before? With standup starting at 10:15 a.m. CT, we decided to start opening the meeting at 10 a.m. The purpose was to provide an opportunity for water cooler talk that is commonplace within physical offices, except now it can be interoffice. It would also provide an avenue for our remote engineer(s) to participate in these conversations, who were previously left out. We talk about work. We don’t talk about work. It’s fifteen minutes of the day dedicated to a shared team experience. Anything goes. 
+ As a Result: 
+ 
+ People now have a warm-up period. 
+ Everyone can greet everyone else for the day and take attendance of who is in and out of the office. 
+ Sometimes problems that would have normally been introduced in standup get discussed and refined before standup even starts. Now, when standup does start, the problem is better framed for team discussion. 
+ As a bonus, in some circumstances, a problem is discussed and resolved before standup starts. 
+ 
+ Pre-pandemic in the Workiva Missoula office. 
+ 
+ Going All In 
+ One day we had a lightbulb moment: What if we tried leaving the virtual meeting open all day? The extra 45 minutes we had each day before and after our standup was working great, so we went all in and had it running all day. 
+ The implications of this decision would mean that there would be “chatter” that no longer would be boxed by time. If a problem was getting discussed, everyone would hear it. Interruptions could/would now be taken to a whole new level. 
+ As a Result: 
+ 
+ Regardless of location, all team members have a home. If they join the meeting, they can reach any member of the team at any time. 
+ Every engineer now has equal access to our tech lead. 
+ When guidance or decisions are shared verbally, it is only shared once and in real time. It is usually highly relevant to the work going on in the moment. 
+ Meeting appointments are simplified. We no longer need to fight for conference rooms for team meetings because we meet where we are. 
+ 
+ Additionally, we had some results that surprised us: 
+ Surprise #1: Every so often an Ames-based engineer (outside of the Presentations team) might have a question for a Missoula-based Presentations team member. Rather than engaging in text-only communication through email or chat, the person needing assistance can instantly connect virtually. This also helps de-silo expertise. Anyone who is interested can hear the answer to questions. This simple, but repetitive activity helps level up others. If these questions were answered out of band, this wouldn't be possible. 
+ Surprise #2: The Presentations team often needs to interact with employees outside the team. To bring Ames (or non-Ames) based employees into the land of Presentations engineers is now a snap. We send them our permanent hangout link. Instantly, all engineers now hear the feedback, decisions, and conversations first hand. No delay. No telephone game. 
+ What’s the Catch? 
+ The journey above actually happened, and I think it's safe to say the Presentations team will never go back. However, to be pragmatic, we must point out some caveats: 
+ 
+ Not everyone wants to hear everything. This is a valid concern. Our team has talked about this at length and unanimously concluded: if team members want less, they turn off the volume. This small sacrifice is well worth the trade of being plugged into the hive. 
+ In an office setting this method generates additional “noise” for neighboring teams. We had that concern too. However, when we checked with our neighbors, there were no complaints. Also: volume buttons! 
+ There are individuals who don’t love having a camera and speaker on for most of the day. By providing individuals the flexibility to unplug and walk away to private spaces from time to time, we have found it worth the price to form a single team identity. 
+ We've had to learn how to "pace" conversations to accommodate the delay over the wire so we don't speak over one another. This is normal meeting etiquette, but it took some getting used to. 
+ 
+ Implementing These Tactics for 100% Virtual Work 
+ The Presentations team had mainstreamed our all-day virtual meetings for about 6 months before Covid-19 landed. After all of the team went to working virtually, we reacted like most other business teams in the world. We spent some time setting up our new offices and figuring out our new non-work schedules – things like grocery delivery, kid schooling, and exercise. 
+ However, unlike most teams, as we went through these individual disruptions, our work life disruption was non-existent. Our daily standup and all other team meetings were already oriented and operated normally. Team members were already adjusted to video meeting etiquette as well as following up conversations with a post for those not on the meeting. 
+ Most importantly, team information and team communication continues at the exact same level of efficiency. In fact, we believe it has slightly increased because everyone has their own microphone and all voices can be heard more clearly. 
+ While other newly minted all-virtual teams were getting used to new communication cadences, we simply flipped on the meeting each morning to greet each other and "hang out" for the day. We are able to share individual quarantine experiences with each other in real time, providing a needed support system. This was especially true for those who miss the office the most or who live alone. 
+ As forecasted, we haven't gone back to offices just yet. However, our 17 people: 1 team mentality is paying off when we need it the most. 
+ Your Turn 
+ If you think your team could benefit from an expanded use of virtual meetings, I highly suggest trying out the method for a day. It’s been invaluable to our team and helps us maintain our workflow and sense of connection after we moved to fully virtual work. 
+ “If presentations’ comms have taught me anything, it is that if you have a foundation of fun, work happens more organically. The team generally enjoys joking around and sharing and this provides a very fun atmosphere in the virtual space. I noticed that it is easy for our team to go from joking mode to discussion mode very easily. And we’ve gotten pretty good at listening for the difference and joining the discussion if we were not active before. And we tend to loop people into the discussion if they weren’t present.” - Presentations Engineer 
+ Interested in joining the Workiva team? Visit  workiva.com/careers ! 
+ Culture 
+ Teamwork 
+ Working Remote 
+ 
+ Most Popular 
+ Takeaways from Five Dysfunctions of a Team Training 
+ Workiva One of Fortune Magazine’s 100 Best Companies to Work For 
+ DSM Hack 2018 - My Experience 
+ Popular Categories 
+ Giving Back 
+ Culture 
+ Communication 
+ Leadership 
+ Matthew Zach 
+ _ 
+ Senior Engineering Manager - Charts & Presentations 
+ _ Workiva 
+ About the Author 
+ Matthew joined Workiva in 2019 as a Sr. Engineering Manager on the Presentations & Charts team. Prior to joining Workiva, Matthew led agile and CICD initiatives at two previous companies. The supportive company culture and focus on product development is what drew him to Workiva. One of Matthew’s favorite Workiva memories is mountain hiking in Montana with his teammates. 
+ 
+ 
+ Platform 
+ 
+ Overview 
+ 
+ Connectors 
+ Partners 
+ Security 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ Who We Serve 
+ 
+ Teams 
+ 
+ Accounting 
+ Audit 
+ FP&A 
+ Financial Services 
+ Legal 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ Resource Center 
+ 
+ Blog 
+ Customer Stories 
+ Events & Webinars 
+ 
+ 
+ Support 
+ 
+ Community 
+ Customer Support 
+ Developers 
+ Help Center 
+ Learning Hub 
+ 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ About 
+ 
+ Contact 
+ Leadership 
+ Locations 
+ Our Story 
+ 
+ 
+ Careers 
+ 
+ Diversity Equity & Inclusion 
+ Internships 
+ Workiva Life Blog 
+ 
+ 
+ Investors 
+ 
+ Financial Reports 
+ Stock Information 
+ 
+ 
+ Newsroom 
+ 
+ News 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Twitter 
+ 
+ 
+ YouTube 
+ 
+ 
+ Select Region 
+ 
+ 
+ 
+ 
+ Legal 
+ Privacy Policy 
+ Sitemap 
+ 
+ (C)2021 Workiva 
+ 2900 University Blvd 
+Ames, IA 50010 
+  AICPA  
+ 
+ __ 
+ In the meantime, visit the resources below. 
+ [ 
+ Handbook: Surviving the New Normal 
+ ](/new-normal) 
+ [ 
+ How Sysco and Blackbaud kept business as usual 
+ ](/resources/how-sysco-and-blackbaud-kept-business-usual) 
+ [ 
+ Connected Reporting and Compliance Brochure 
+ ](/resources/connected-reporting-and-compliance-brochure) 
+ Select Region 
+ 
+ Australia 
+ France 
+ Germany 
+ Netherlands 
+ Singapore 
+ United Kingdom 
+ United States 
+ 
+ Online registration is currently unavailable. 
+ Please email  events@workiva  to register for this event. 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Our forms are currently down. 
+ Please contact us at  info@workiva.com 
+ Thank you 
+ A Workiva team member will follow up with you shortly. 
+ Thank you for registering 
+ You'll receive a confirmation email shortly. 
+ Thank you 
+ You are now subscribed to receive blog updates. 
+ Thank you 
+ Your preferences have been updated. 

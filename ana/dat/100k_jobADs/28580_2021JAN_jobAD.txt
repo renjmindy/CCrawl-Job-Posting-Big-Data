@@ -1,0 +1,184 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ SOFTWARE ENGINEER 
+ University of Washington 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ SOFTWARE ENGINEER 
+ __ University of Washington 
+ [](mailto:?subject=SOFTWARE%20ENGINEER&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14116580/software-engineer/ "Email")  
+ Application 
+   
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ November 18, 2020 
+ Location: 
+ Seattle, Washington 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ | As a UW employee, you have a unique opportunity to change lives on our campuses, in our state and around the world. UW employees offer their boundless energy, creative problem solving skills and dedication to build stronger minds and a healthier world. 
+ UW faculty and staff also enjoy outstanding benefits, professional growth opportunities and unique resources in an environment noted for diversity, intellectual excitement, artistic pursuits and natural beauty. All of which has allowed the UW to be nationally recognized as a “Great College to Work For” for six consecutive years. 
+ The Applied Physics Laboratory, University of Washington (APL/UW) is a premier center for research, development and advanced education in science and engineering. APL/UW was formed in 1943 at the request of the U.S. Navy to bring university resources to bear on urgent WWII defense problems. From a wartime beginning focused on effective torpedo exploders, APL/UW initiated acoustic studies and oceanographic research programs to understand how variations in the ocean environment affected the performance of Navy systems. Decades of acoustic and oceanographic studies yielded an understanding of the world's deep oceans. 
+ Today our scientists and engineers make important contributions to understanding the earth's climate cycles with satellite and in situ sensing of ocean winds, currents, and air-sea fluxes; observations of Arctic sea ice, its variations and effects on mid-latitude oceans; and ocean tomography that reveals how the abyssal ocean mixes and sequesters carbon. APL-UW continues to lead research in the basic and applied physics of sound—from sonars used to probe the geology of the deep ocean floor to hand-held high-frequency focused ultrasound devices to image and stop internal bleeding without surgery. 
+ The Electronic and Photonics Systems Department (EPS) has an outstanding opportunity for a Software Engineer. 
+ **  Position Purpose: ** 
+The Electronic and Photonics Systems Department (EPS) builds world class and innovative ocean instrumentation and data collection systems. The Software Engineer’s primary responsibility will be to customize and create interface drivers for an environmental display and situational awareness application. This program will communicate with assets in the Arctic through satellite communication as well as retrieve environmental data from national data centers. The application will create a unified graphical view that can be visualized over time to allow operators to update mission planning and steer assets based on updated knowledge of the changing environment. The Software Engineer will also work on other projects as needed in the department such as real time data collection systems, acoustic data recording systems and custom scientific instrumentation using a variety of operating systems and languages such as C, Java, Python, Linux and Windows. 
+ **  Position Complexities: ** 
+This situational awareness application must aggregate multiple real time data sources from across the country and provide a unified view of the current asset location and status overlaid with environmental data collected from multiple organizations. The position must negotiate the all of these interfaces with our partners and program the drivers according to these documented protocols. 
+ **  Position Dimensions and Impact to the University: ** 
+This is a multi-million dollar, 5 year research program with the United States Navy. 
+ **  Duties & Responsibilities: ** 
+The successful candidate must be able to operate independently and will be responsible for all phases of software application development from requirements gathering, system definition, releases and life cycle maintenance. The candidate will be responsible for interacting with the various entities that generate data to obtain or define interfaces for pulling data automatically, writing the needed software modules to use those interfaces and then integrate the data into a common database format that can be easily integrated with other data sources in the native application format. Will be responsible for configuring the application to enable users to setup standard views of the data and customize the application as needed. 
+ The candidate should be well versed in software development and testing tools such as Subversion for version control, bug tracking tools, performance and system monitoring tools, debugging tools and strategies. The candidate will be expected to be disciplined in using the project defined coding conventions and interface documentation techniques. 
+ The candidate will work closely with the system architects when creating parts of the applications to make sure it meets the desired goals. The candidate will be responsible for fully testing their own code before checking it into the repository as well full system regression testing often to ensure their code is functioning properly. 
+ Software Development (40%) 
+-Work independently to customize an environmental display and situational awareness application. 
+- Write drivers to collect data from a wide variety of data sources. 
+- Write code for instrumentation and data collection and control software programs. 
+ Reporting and documenting (20%) 
+- Review and iterate software requirements with the customer and team 
+- Report to the program manager on weekly progress; identify current and anticipated challenges impacting quality, project timeline, or budget, and ways to address and resolve them. 
+- Participate and present system design information at program design reviews. 
+- Create formal interface documentation and document code as needed. 
+ Testing (20%) 
+- Unit test new or updated code. 
+- Regression test full system capabilities. 
+ System Definition, Implementation and Operations (20%) 
+-Collect System requirements 
+-Procure and Establish Computing and Network Resources to run Application in Production Environment. 
+-Maintain operating environment and support users base as needed. 
+-Verify and Validate data sources and inputs especially during ongoing operations.. 
+ **  Minimum Qualifications: ** 
+Bachelor's degree in Computer Science, Electrical Engineering, or similar field. Equivalent experience can substitute for degree requirement. 
+At least four years of software engineering experience, which includes: 
+•At least three years of experience in software application development 
+•Understanding of software development process 
+•Demonstrated success working independently and as part of a team, and interacting cooperatively with people to solve problems effectively. 
+•Demonstrated excellent organizational skills, including: 
+o Documentation 
+o Attention to detail 
+o Communication skills 
+o Time management 
+ Equivalent education and/or experience may substitute for minimum requirements. 
+ **  Desired Education, Work Experience: ** 
+•Current active DoD security clearance. 
+•Excellent Java programming skills 
+•Linux systems operation experience 
+•User Interface development experience 
+•Experience with Software Revision Control systems 
+•Experience with collaborative bug tracking systems 
+•Experience with Data Visualization. 
+•Experience with Databases and Database Interfaces 
+•Experience with system and application performance monitoring tools. 
+•Familiarity with Unix network configuration 
+ Application Process: 
+May be subject to successful completion of E-Verify process. 
+ The application process for UW positions may include completion of a variety of online assessments to obtain additional information that will be used in the evaluation process. These assessments may include Work Authorization,  Cover Letter  and/or others. Any assessments that you need to complete will appear on your screen as soon as you select “Apply to this position”. Once you begin an assessment, it must be completed at that time; if you do not complete the assessment you will be prompted to do so the next time you access your “My Jobs” page. If you select to take it later, it will appear on your "My Jobs" page to take when you are ready.  Please note that your application will not be reviewed, and you will not be considered for this position until all required assessments have been completed. 
+ ---|--- 
+ 
+ Internal Number: 184623 
+  __  Create a Job Alert for Similar Jobs  
+ About  University of Washington 
+ Founded in 1861, the University of Washington is one of the oldest public institutions in the west coast and one of the preeminent research universities in the world. The University of Washington is a multi-campus university comprised of three different campuses: Seattle, Tacoma, and Bothell. The Seattle campus is made up of sixteen schools and colleges that serve students ranging from an undergraduate level to a doctoral level. The university is home to world-class libraries, arts, music, drama, and sports, as well as the highest quality medical care in Washington State and a world-class academic medical center. The teaching and research of the University’s many professional schools provide undergraduate and graduate students the education necessary toward achieving an excellence that will serve the state, the region, and the nation. As part of a large and diverse community, the University of Washington serves more students than any other institution in the Northwest. 
+ Connections working at  University of Washington 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

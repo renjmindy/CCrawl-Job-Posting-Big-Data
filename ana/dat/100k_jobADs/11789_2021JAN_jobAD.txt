@@ -1,0 +1,106 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ IT Business Sr Analyst 
+ Citi 
+ __Mississauga, ON 
+ Apply Now 
+ The Olympus Markets Data Strategy team is building a next generation Data Fabric to solve the evolving Business, Analytical and Regulatory needs of Citi’s Institutional Clients Group (ICG). The Fabric will bring together disparate data sources for the Global Markets organization and enable industry-leading analytics, client reporting, regulatory, surveillance, supervisory reporting(s) and data science solutions. It will also provide enhanced data quality controls , completeness and accuracy, reconciliations, entitlements, performance, management of data retention and archival per regulatory guidelines. As part of this program build out the team are developing best in class applications to meet these use cases and managing complex data\application migrations to the Olympus Architecture. 
+ The role of the Olympus Business Analyst Involves being part of a dynamic team program managing the product rollout, software development and application\data migrations. Specifically we are looking for individual able to manage the effective of the group, through program management activities, controls and Analyse tasks. The ideal candidate will have Front Office and pre/post trade analytics experience as well as a background in analysing, building and optimizing data systems. The candidate will work closely with sales and trading partners, systems architects, data scientists, and developers (Strong stakeholder management skills are essential) to help develop the industry leading Olympus Architecture. 
+ Key Responsibilities: 
+Ensure adherence to and develop best practices supporting Citi’s Project Management Standards 
+Ensuring proper development life cycle is followed with artefacts to support Internal Audit and any inquiries 
+Project management & oversight of the deliverables across the book of work 
+Provide regular updates to senior management in technology, middle office & front office 
+Training of relevant teams prior to go-live of new business processes/products, functionality or applications 
+Work as lead business analyst/project manager in the Olympus team supporting client analytics 
+Work with Data Governance and Quality teams to understand data issues 
+Work with technology leads across various teams to accomplish objectives 
+Work with various technology leads to ensure the gaps in the data completeness or accuracy are converted into prioritized Book of Work items 
+Develop Subject Matter Expertise on the key data elements that are consumed for client analytics 
+Gather business requirements, perform detailed analysis, and produce associated functional specifications across multiple functions. 
+Contribute to the definition of cutover strategy from existing solutions to newer strategic solutions 
+Contribute to managing & participating in SIT/UAT testing cycles managing technology and business stakeholders 
+Contribute to Produce implementation approach, timelines, go-live strategy 
+ Qualifications: 
+Exceptional candidates who do not meet these criteria may be considered for the role provided they have the necessary skills and experience. 
+ 5+ years of business analysis experience in client facing analytical roles 
+A history of delivering against agreed objectives 
+Ability to leverage strong interpersonal collaboration skills in a fast-paced team environment 
+Ability to multi-task and work under pressure 
+Ability to pick up new concepts and apply the knowledge. 
+Comfortable in presenting suggestions for change and or improving work flow 
+Familiarity with full software development lifecycle, particularly agile 
+Familiarity wtih project\program management approaches such as PMP, Prince2 and ideally Citi PTS-W 
+Enthusiastic and proactive approach with Willingness to learn 
+Excellent analytical and process-based skills, i.e. process flow diagrams, business modelling, and functional design; 
+Excellent communication skills (there is a requirement to be Business facing) 
+Excellent organizational and multi-tasking skills with tremendous attention to detail 
+Experience working with teams supporting business intelligence platforms such as Tableau, QlikView will be a plus 
+Familiarity or the ability to quickly understand and formulate application level requirements pertaining to complex workflows, or integration with external applications 
+Problem-solving and facilitation skills 
+Proficient at writing and delivering business requirement documents and presentations 
+Proven interpersonal skills with ability to partner and influence across organizational lines 
+Self-motivation and prioritization of tasks and actions to hit deadlines according to business priorities 
+Significant Business Analysis experience across the full project lifecycle (requirements, design, development, testing and deployment). 
+The candidate is expected to be dynamic, flexible with a high energy level as this is a demanding and rapidly changing environment 
+Thoroughness and organization is expected, as well as sound judgment 
+Graduate or undergraduate degree in Computer Science, Information Systems or equivalent 
+Experience with Global Markets Product Knowledge (Equities Cash & Derivatives, ETFs, Structured Equities ) 
+Familiarity with Listed Derivatives, Future/Options will be a plus 
+Front, Middle and Back Office exposure, particularly in the Cash space 
+Basic knowledge of regulatory rules and expousure to deliverie of regulatory projects (MiFID II, SFTR, SDRE (EMIR, CFTC Etc), Volcker) 
+Microsoft Office – Excel, Word, Project, Visio, PowerPoint, 
+Strong SQL with experience working with RDMS such as oracle, sybase, netezza 
+Strong understanding of FIX message specification 
+Understanding of NoSQL Database such as Mongo 
+Experience with modern software development practices (test-driven development, Agile continuous integration) 
+ Citi Canada is an equal opportunity employer. Accordingly, we will make accommodations to respond to the needs of people with disabilities (including, without limitation, physical and mental health disabilities) during the recruitment process and otherwise in accordance with law. Individuals who view themselves as Aboriginals, members of visible minority or racialized communities, and people with disabilities are encouraged to apply. 
+ - 
+ Job Family Group: 
+Technology 
+ - 
+ Job Family: 
+Business Analysis / Client Services 
+ - 
+ Time Type: 
+- 
+ Citi is an equal opportunity and affirmative action employer. 
+ Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. 
+ Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi. 
+ View the "EEO is the Law" poster. View the EEO is the Law Supplement. 
+ View the EEO Policy Statement. 
+ View the Pay Transparency Posting 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

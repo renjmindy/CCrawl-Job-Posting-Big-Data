@@ -1,0 +1,80 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Caper (W16) 
+ Plug-and-play cashier-less retail powered by computer vision and AI 
+ Caper Chief Operating Officer (COO) 
+ 
+ Location 
+ New York 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Caper 
+ Caper builds intelligent shopping carts - powered by deep learning and computer vision - to detect and identify items (with cameras mounted in the cart) as they are added to the basket. Caper costs less than 1% of Amazon Go's infrastructure, and it is a plug-and-play integration for stores. Caper is the fastest growing retail automation technology company, with already launched pilots and a rapidly expanding customer base. E-commerce is only 8% of total retail, and Caper is innovating the other 92% of the untapped potential. ​ 
+ Caper is currently backed by First Round Capital, Y Combinator, and top executives from Instacart, Plated, Albertsons and Walmart. 
+ We’re a team of incredibly motivated individuals looking to put a dent in the retail industry. We are looking for a founding employee who will add to our talented technical team. You’ll be directly working under the CTO and the opportunity offers plenty of room for rapid internal growth. 
+ About the role 
+ About Us: 
+ Caper builds smart shopping carts - powered by deep learning and computer vision - to enable a seamless grab-and-go retail experience. Caper differentiates from technologies like Amazon Go by creating a plug-and-play solution that does not require store renovation, operational overhaul, heavy compute, and endless image labeling & training; retailers can just buy the carts, and the entire store is upgraded with cashierless capabilities. Caper costs less than 1% of Amazon Go’s infrastructure, and it is already actively being used in the market. Caper is the fastest-growing retail automation technology company and is backed by First Round Capital, Y Combinator, LUX Capital, and top executives from Instacart, Plated, Albertsons, and Walmart. E-commerce only accounts for 8% of total retail transaction volume, and Caper is innovating the other 92% of the untapped offline retail potential. 
+ Responsibilities: 
+ Design and implement operations strategies, supply chain structure and deployment plans Establish scalable tech deployment processes, and create operational support and maintenance structure for clients Oversee daily operations of the company and the work of managers across HR, finance, operations, supply chain and project departments Establish policies that promote company culture and vision Set comprehensive goals for performance and growth, and steer company strategies to meet metrics Create effective measurement tools to gauge the efficiency and effectiveness of internal and external processes Spearhead budget planning and resource allocation across various departments Oversee company’s spendings and financial health, and prepare quarterly financial reports with the finance team Forge strategic partnerships and relationships with clients, vendors, investors and all other professional business relationships Recruit and mentor employees to build a world-class team Participate in fundraising 
+ Requirements: 
+ Proven experience as Chief Operating Officer or relevant role with 10+ years of experience in operational roles in a reputable technology company Proven track record of outstanding performance in a previous complex enterprise Have extensive experience working with deployment of new technologies in stores and establishing scalable operation processes Experience with hardware and retail preferred Deep understanding of business functions such as project management, HR, finance, business development, tech support, etc. Outstanding organizational, communication and leadership abilities 
+ Technology 
+ Harder + Software + Database Integration + ML + CV 
+ Java, React.js, Ruby on Rails, Microservices 
+ Other jobs at Caper 
+ Deep learning & computer vision engineer @ a fast growing tech company 
+ fulltime 
+ Brooklyn, NY 
+ Machine Learning 
+ $120k - $250k 
+ 3+ years 
+ Backend Engineer at a Cool NY Startup! 
+ fulltime 
+ Brooklyn, NY 
+ Backend 
+ $90k - $120k 
+ 0.00% - 0.20% 
+ 1+ years 
+ Senior Backend Engineer at an AI Startup! 
+ fulltime 
+ Brooklyn, NY 
+ Backend 
+ $100k - $150k 
+ 0.00% - 0.30% 
+ 3+ years 
+ DevOps Engineering at a DL startup! 
+ fulltime 
+ New York 
+ Devops 
+ 3+ years 
+ Integration Engineer @ Caper 
+ fulltime 
+ Brooklyn, NY 
+ Full Stack 
+ 1+ years 
+ Android Engineer @ Caper 
+ fulltime 
+ New York 
+ Android 
+ 1+ years 
+ Caper Chief Operating Officer (COO) 
+ fulltime 
+ New York 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

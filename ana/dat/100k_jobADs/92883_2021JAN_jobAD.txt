@@ -1,0 +1,155 @@
+[ 
+ WorkForThem 
+ ](/) 
+ 
+ Blog 
+ RSS 
+ Remote Jobs 
+ Find More Jobs 
+ Post a job 
+ 
+ Menu Close 
+ 
+ Blog 
+ RSS 
+ Remote Jobs 
+ Find More Jobs 
+ Post a job 
+ 
+ Backend / Devops Software Engineer 
+ Edmit 
+ Full time 
+ Boston, MA, USA Remote 
+ Jan 12 
+ Join  Edmit ’s mission-driven team if you are passionate about helping high school students make smarter college and career choices. Our product is free to high schools and families thanks to partnerships with financial institutions and other mission-aligned organizations. We won best startup at SXSW EDU and have helped over 1 million families. 
+ We are hiring a backend/devops engineer to deliver new features to customers at a rapid pace and to maintain and grow our cloud infrastructure. You'll contribute to and review user stories, requirements, and design documents and ship great code. We're reimagining the way people evaluate one of the most important financial decisions they'll make in their lifetime and are building an engineering team where every team member has true individual ownership and responsibilities over projects. 
+ Our engineering team has a commitment to: 
+ 
+ Curiosity and passion for the craft of software engineering 
+ Open discussion and feedback both with engineering colleagues and across functions 
+ Efficient and effective execution 
+ Ownership, accountability, measurement 
+ 
+ Responsibilities 
+ 
+ Ownership of devops strategy and infrastructure. Make recommendations and implement improvements based on current usage and future demand 
+ Development of backend features with an emphasis on quality, performance and maintainability 
+ Management of upgrades to development tools and platforms, such as Kotlin, Postgres and Kubernetes 
+ Maintenance of data engineering pipeline 
+ Focus on development team process improvements 
+ 
+ Requirements 
+ 
+ 5+ years’ experience in high performing teams; demonstrated experience with engineering best practices and exposure to the concepts of lean startup development 
+ Exposure to security concepts, best practices and policies for cloud-based deployments 
+ Understanding of database design and implementation 
+ A passion for consumer technology businesses and experience or demonstrated interest in higher education or fintech 
+ Candidates should exemplify  each of our company values 
+ Familiarity with our tech stack (or related technologies) is preferred: 
+ Frontend: TypeScript, React, Redux, Gatsby 
+ Backend: Kotlin, Postgres, GraphQL 
+ Infrastructure: Docker, Kubernetes, dbt 
+ 
+ Benefits 
+ We are a distributed team headquartered in Boston, with team members across the country. Our culture allows flexibility as to when, where and how you work best. 
+ Benefits include: 
+ 
+ Competitive salary 
+ Health, dental, and vision benefits 
+ 401k benefits 
+ Unlimited PTO 
+ 
+ Apply for this position 
+ Apply 
+ Your application has been successfully submitted. 
+ Please fix the errors below and resubmit. 
+ Something went wrong. Please try again later or contact us. 
+ Personal information 
+ First name * 
+ Last name * 
+ Email * 
+ Address (Optional) 
+ Profile 
+ Summary (Optional) 
+ Resume * 
+ Details 
+ Cover letter * 
+ Submit application 
+   
+ Edmit 
+ We help families make smarter financial decisions about college. 
+ Website   Twitter 
+ Apply for this position 
+ Share this job 
+ [Tweet](https://twitter.com/share?text=Edmit is hiring a Backend / Devops Software Engineer in Boston, MA, USA&url=https://workforthem.com/job/15278-backend-devops-software-engineer)  Share  [Share](https://www.linkedin.com/shareArticle?mini=true&summary=Edmit is hiring a Backend / Devops Software Engineer in Boston, MA, USA&url=https://workforthem.com/job/15278-backend-devops-software-engineer&source=WorkForThem) 
+ 
+ 
+ WorkForThem 
+ 
+ 
+ Contact us 
+ 
+ 
+ Twitter 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Terms Of Service 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Menu 
+ 
+ 
+ Blog 
+ 
+ 
+ RSS 
+ 
+ 
+ Remote Jobs 
+ 
+ 
+ Find More Jobs 
+ 
+ 
+ Post a job 
+ 
+ 
+ Browse Jobs By 
+ 
+ 
+ Companies 
+ 
+ 
+ Locations 
+ 
+ 
+ Categories 
+ 
+ 
+ Jobs By Type 
+ 
+ 
+ Full time 
+ 
+ 
+ Part time 
+ 
+ 
+ Freelance 
+ 
+ 
+ Internship 
+ 
+ 
+ Contract 
+ 
+ 

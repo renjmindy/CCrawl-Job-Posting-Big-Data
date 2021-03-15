@@ -1,0 +1,70 @@
+Skip to content 
+ Mateo Uribe-Castro 
+ Menu 
+ 
+ Home 
+ Research 
+ Data 
+ Teaching 
+ Contact 
+ Blog 
+ 
+ Drinking more coffee was bad (for developing countries’ industrialization) 
+ Mateo Uribe-Castro  is a PhD candidate in Economics at the University of Maryland, College Park. 
+ This blog post takes “ Dependency theory ” seriously. The global trade patterns that appeared around 1900 allowed developing countries to export primary goods to the developed world. Did they leverage that push and increased manufacturing and services? Or did they specialize in agriculture? These questions have been a matter of debate for a long time, starting with pioneering works by Rosenstein-Rodan, Lewis, Schultz, Hirschman and others. Development economists have proposed mechanisms pointing at both directions (e.g.  income effects ,  terms of trade ,  linkages , or  trade openness ). Therefore, using only economic theory might not be enough to disentangle the long run effects of export booms. Figuring out which mechanism dominates is context specific and ultimately an empirical question. 
+ In my  job market paper , I focus on Colombia’s expansion of coffee cultivation during the first two decades of the 20th century. The four-fold coffee production expansion between 1905 and 1921 is comparable to the largest expansion of modern agricultural exports ( palm oil in Indonesia (Edwards, 2019) ). My paper paints a long-term picture of Colombian local economies. It brings in new data from Colombia’s first coffee farms census and two pre-1950 Census of Population, and combines them with the first industrial census and two modern Census of Population. The objective is to track counties that adopted coffee cultivation by 1920 and compare their sectoral employment shares with those of otherwise similar counties throughout the 20th century. 
+ The main finding is that coffee cultivation had a negative impact on the structural transformation of Colombian counties during the 20th century. Figure 1 shows employment in manufacturing and services as share of the labor force for coffee-producing counties in 1920, labeled “Coffee”, and counties with no coffee trees in 1920, labeled “Non-Coffee.” The figure excludes Colombia’s 13 main cities. In 1912, when coffee cultivation was taking off, employment shares in manufacturing and services were not different between the two groups of counties. However, by 1973 a considerably lower share of the labor force was employed in manufacturing in coffee-producing counties. According to the estimates in the paper, going from the median level of 1920 coffee cultivation to the 75th percentile would decrease 1973 manufacturing employment by 8% with respect to the mean. While differences in manufacturing employment had largely disappeared by 2005, non-coffee counties had a larger services sector. These sharp differences in the processes of structural transformation during the 20th century resulted in 1920 coffee counties having higher poverty rates in 2005. Again, moving from the median county to the 75th percentile in terms of 1920 coffee cultivation would increase the poverty rate in 2005 by 3% with respect to the mean. 
+ Share of labor force by sector (manufacturing or services) and type of county (coffee or non coffee producing counties, excluding 13 main cities). 
+ Was it really coffee cultivation? 
+ Identifying the causal relationship between coffee cultivation and structural transformation is challenging. For example, regions that had more difficulty importing capital goods might have seen a profitable opportunity in coffee bean production since it was transportable by mules. More generally, counties that would not have developed a strong manufacturing sector in the early 20th century might have taken up coffee cultivation as an alternative. 
+ I use two sources of variation to deal with omitted variable bias problem. First, I instrument 1920 coffee cultivation with potential coffee yields given by climatic conditions specific to coffee cultivation (data from FAO-GAEZ). One of those conditions is average temperature between 16 and 24 degrees Celsius (60 to 75 degrees Fahrenheit). Given Colombia’s tropical location, the temperature bandwidth mapped roughly to an altitude bandwidth between 400 and 2,400 meters (1,312 to 7,874 feet).  Though temperature decreases continuously with altitude, pamphlets published in the late 19th century promoting coffee cultivation explicitly identified towns with average altitude just below and just above 2,400 meters in order to illustrate, given the lack of thermometers, which locations were suitable to grow coffee trees. The dissemination of information about coffee cultivation generated a discontinuous reduction in the probability that a county grew coffee at 2,400 meters. 
+ Excerpt of a pamphlet promoting coffee cultivation written by Mariano Ospina in 1880. Ospina suggests coffee grows in places at or below 17 degrees celsius and benchmarks that temperature with different towns. Rio-negro is located at 2,200 meters and average temperature was 17 degrees. Santa-Rosa de Osos and Sonson are located at 2,500 and 2,450 meters of altitude, respectively. 
+ I use the discontinuity at 2,400 meters as the second source of variation to instrument 1920 coffee cultivation in a fuzzy regression discontinuity design. I focus on counties with average altitude higher than 1,800 meters and compare counties above and below 2,400 meters. Though this approach uses only 20 percent of Colombian counties, thus reducing statistical power, it compares very similar counties, especially in terms of their geographic location. 
+ How did coffee cultivation lead to slower structural transformation? 
+ The adoption of coffee cultivation effectively increased land productivity in places used to grow staple goods like beans and corn. Moreover, coffee production was labor-intensive, given the need to pick and classify coffee cherries by hand. Previous works show that technical change in agriculture can crowd out manufacturing employment ( Foster and Rosenzweig, 2004 ;  Bustos, Caprettini, and Ponticelli, 2016 ;  Moscona, 2019 ). While this explanation fits well data from the later part of the 20th century, it is not enough to understand the effect of the expansion of agricultural exports during the first part of the 20th century. Most workers were still employed in agriculture in developing countries in 1920. In Colombia, more than 80% of the labor force was employed in agriculture in 1912. Beyond a shift from manufacturing into agriculture, an explanation needs to account for the differential growth of manufacturing and services employment between coffee producing counties and other similar localities. 
+ Coffee cultivation and human capital 
+ One potential explanation is that the expansion of coffee cultivation increased the opportunity cost of education, shifting the type of skills workers accumulated. In coffee counties, the labor force specialized in agricultural skills, which slowed down the process of industrialization relative to other counties with a higher supply of workers with skills valued outside agriculture. This argument was made theoretically by  Caselli and Coleman II (2001)  and  Acemoglu and Guerrieri (2008) . Recently,  Porzio and Santangello (2019)  presented causal evidence across countries and within Indonesia in favor of this mechanism 
+ I show first that the effect of coffee cultivation on manufacturing employment in Colombia was concentrated in industrial sectors that were more intensive in human capital, like chemicals or beverages (mostly beer), as opposed to basic industrial sectors, like leather or wooden manufactures. Second, I find that cohorts born in coffee counties and exposed to higher coffee prices during school age accumulate fewer years of education. In other words, children who should have been attending school, were more likely to drop out in order to work in coffee production when coffee prices were relatively higher. This finding complements Carrillo (2019) evidence for the second half of the 20th century.A key question thus arises: what share of the impact of coffee cultivation on manufacturing employment can be explained through the human capital channel? The mediation analysis proposed by  Dippel, Gold, Heblich, and Pinto (2019)  provides a suggestive answer: around 70% of the effect of coffee cultivation on manufacturing employment is generated by education. One big caveat applies here. This result only holds under a strict assumption:  the source of omitted variable bias present when estimating coffee’s effect on cohorts’ education are identical to the source of bias when estimating coffee’s effect on cohorts’ employment in manufacturing. 
+ Take-away 
+ While the capacity to export primary goods to the developed world was beneficial in the short run, labor-intensive commodities generated strong incentives for households and landowners in developing countries to reduce investments in human capital. Therefore, the supply of non-agricultural workers decreased, causing the process of structural transformation to be slower, and reducing income as a result. Ideas about the long-run effect of agricultural exports on economic development inform political discussions about trade and industrial policy. Given the theoretical models developed during the past decades, it is important to understand the specific mechanisms at play under different contexts. That is the role, I believe, of the economic historian.  To that end, my job market paper contributes to our understanding of the long-term effects of globalization on developing countries. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ December 2, 2019December 2, 2019 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Post navigation 
+ Previous Previous post: Why Colombians still live in Colombia 
+ 
+ Home 
+ Research 
+ Data 
+ Teaching 
+ Contact 
+ Blog 
+ 
+ Website Built with WordPress.com . 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

@@ -1,0 +1,712 @@
+Skip to content 
+ 
+ Welcome to Ray Kim's 'blog 
+ Thoughts about professional development, technical communication, technology, and living life 
+ Primary Menu 
+ 
+ Home 
+ About 
+ My presentations 
+ The Write Stuff 
+ Troy -- A Major-League City 
+ 
+ When Troy Was A Major League City -- Acknowledgements and Bibliography 
+ 
+ 
+ Contact 
+ 
+   
+ Category: Recruiting Spam 
+ My #JobHunt presentation is online #PASSProfDev @PASS_ProfDev @CASSUG_Albany #SQLFamily #ProfessionalDevelopment 
+   
+ If you missed my job hunt presentation, it is now available on YouTube.  Click here to view my presentation ! 
+ Additionally, my presentation slides  can be downloaded from here ! 
+ Posted on  May 28, 2020  by  pianorayk Posted in  Being better ,  Career ,  Change ,  Dealing with change ,  Job Interview ,  Job search ,  LinkedIn ,  Networking ,  Professional Development ,  Public Speaking ,  Recruiters ,  Recruiting Spam ,  Resumes ,  Self-employment ,  User Groups Leave a comment 
+ How to (and how NOT to) connect on #LinkedIn 
+   
+ Lately, it seems like I've been getting more and more request to connect on  LinkedIn . LinkedIn is the go-to social networking tool for connecting with people professionally. Ever since I (1) announced that  I was looking for a new job , and (2) announced that  I'd started a new LLC , the number of connect requests I've been getting has increased. 
+ I had comments on my LinkedIn summary saying that I won't connect with cold-call LinkedIn requests (and I still won't, but we'll get to that in a moment), but I toned the language down after my job hunt kicked into gear. 
+ This isn't the first time I've written about LinkedIn connect requests , but people whom I don't know or have never heard of still persist in connecting with me.  I've said it before: networking is about relationships . If you're trying to establish a network (which is what LinkedIn connect requests are about), you need to establish a relationship. 
+ Yet here I am, once again, writing about this topic , because people still don't get it. So, here are a few tips about how to (and how NOT to) establish a LinkedIn connection with me. 
+ Things that will establish a connection between me and you 
+ 
+ 
+ You're a friend or colleague whom I know and trust, and I recognize your name immediately, regardless of whether or not you include an accompanying note. 
+ 
+ 
+ You're someone whom I invited to connect. 
+ 
+ 
+ You're an acquaintance whom I don't know well, but you include a note saying "we worked together at such-and-such place," or "we were classmates in such-and-such school," or "I was one of your students at place-where-I taught." 
+ 
+ 
+ I don't know you at all, but you include a note saying "we met at SQL Saturday," or "I enjoyed your presentation," or "we met at such-and-such place," or "(a mutual connection) said we should hook up," and so on, and so on, and so on. 
+ 
+ 
+ One of the best examples of this was the following note I received after I spoke at a  SQL Saturday . Although I didn't know her at all, I was happy to connect with her. 
+ “I really enjoyed your presentation on technical writing at SQL Saturday today! The tie challenge was a really interesting way to get the point across. I’d like to stay in touch and maybe pick your brain about tech writing again at some point in the future.” 
+ One note that I should add: try to be specific about how we're connected. Mention where we met, which of my presentations you saw, what you liked (or didn't like) about my presentation, why our mutual friend said we should connect, and so on. For all I know, you might be stalking my profile, just happen to see a connection on it, and say "so-and-so told me to connect." If you don't explain  why  we're connecting, that's not going to cut it. I don't have any tolerance for BS'ers. 
+ 
+ You're a legitimate (key word!) recruiter who actually knows and respects what I'm looking for, and doesn't blindly send me requests for jobs in which I have absolutely no interest. (See below for the opposite of this.) 
+ 
+ I want to point out that, except for the first two bullet points, all of these have something in common:  that you include a note telling me who you are and how we 're connected.  This is key in establishing a connection. 
+ Things that will make me delete your connect request immediately 
+ These types of requests irritate me to no end, and will nearly guarantee that I will delete your connect request. 
+ 
+ 
+ I have no idea who you are, and you do NOT include any note of any kind telling me who you are. 
+ 
+ 
+ Same as above, even if we're connected in some way (e.g. same user group, same workplace, same activity, etc.). If we're connected, and I don't know you well (or at all),  don 't just assume I know who you are and how we're connected!  Tell me who you are!!! Don't make me work to figure it out!!! 
+ 
+ 
+ Including a note, but making no mention about how we're related. I recently received a connect request from someone asking me if I was looking to hire developers. My business is a single-person LLC (for now), and I am not looking to hire anyone, at least not yet. Maybe several years from now, when I'm pulling in over a half-million dollars worth of assets and have more work than I can handle, then sure, I might look to hire people. But until that happens, please tell me how we're connected. I felt bad for the poor guy, but he didn't give me any reason for me to connect with him, other than "I'm looking for a job." 
+ 
+ 
+ Kissing my ass. This is something that pisses me off to no end. My number one pet peeve is insulting my intelligence. Doing so guarantees that you will end up on my shit list. 
+ 
+ 
+ The most egregious example was a connect request I received that said this: 
+ “I’m always looking to build my network with great people and would be delighted to have you in my network. I hope you’ll consider connecting!” 
+ Not only did she try to kiss up to me, she insulted my intelligence. I could not delete her connect request fast enough. 
+ 
+ Try to talk about a relationship that doesn't exist. I recently received a request that said this: 
+ 
+ " Thanks in advance for connecting. Tons of value in connecting with other sales professionals." 
+ Um, did you actually  read  my LinkedIn profile?!? Name ONE thing in it that says I am, in any way, interested in sales!!! (Here's a hint: I'M NOT!!!) 
+ 
+ 
+ I make no secret of the fact that I have a deep contempt for  spam recruiters . It is well-known by legitimate recruiters and scores of IT professionals that  spam recruiters are radioactive and should be treated as such . If you're a so-called "recruiter" who doesn't give a damn about your client, doesn't try to get to know what I want or am looking for, sends me a job in which I have zero interest, tries to send me a cold-call connect request when I don't know you, have never heard of you, have no idea who you are, and only cares about how much you get paid and not about your client's well-being, then don't even bother trying to contact or connect with me. 
+ 
+ 
+ Trying to sell me something, or push something on me that I either don't want or don't care about. Again, this is about establishing relationships. It's a two-way street. If it's something that's  only  for your benefit, then I don't want anything to do with you. 
+ 
+ 
+ 
+ In a nutshell, if you're looking to connect with someone over LinkedIn,  always  include a note that explains your relationship with that person. I guarantee that you will increase your chances that he or she will connect with you, and your networking experience will go much better. 
+ Posted on  May 26, 2020May 26, 2020  by  pianorayk Posted in  Being better ,  Career ,  Job search ,  LinkedIn ,  Living life ,  Networking ,  Professional Development ,  Recruiters ,  Recruiting Spam ,  Relationships ,  Social Media ,  Spam 1 Comment 
+ No cold calls!!! 
+   
+ This is something that is one of my biggest pet peeves.  I've written about this before . Because it keeps happening, I'm writing about this again. 
+ I often get requests to connect from people I don't know. I will only connect with people with whom I have  some kind of established relationship . It's so bad that I put this note prominently at the top of my LinkedIn profile. 
+ 
+ If you want to connect with me, please indicate how we're connected; otherwise, I will ignore or delete your request. I do NOT accept unsolicited connect requests from people I don't know. 
+ 
+ I especially hold a strong contempt for spam recruiters. For starters,  I once had a bad experience with a spam recruiter . There are also  many documented cases about spam recruiters being bad for professional development . And their queries are often downright insulting to me. They make absolutely no attempt to get to know me or what I want; all they do is look for buzzwords in my LinkedIn profile or resume. Any connect request I receive from a recruiter I've never heard of gets deleted immediately. 
+ Granted, just because I don't know you doesn't mean I won't connect with you. However, you need to give me a reason as to  why  I should connect with you. It doesn't have to be much -- even something as simple as, "I enjoyed (meeting/talking/listening/whatever) to you at (user group/activity/party/whatever). Can we connect?" is enough for me to at least acknowledge you. 
+ There are a number of people who think that just because we have friends or groups in common that they can just connect with me. The fact is, if I don't know who you are, and you don't tell me how we're connected, I will not connect with you. Just because we're part of the same user group doesn't mean I will connect with you. Several user groups and activities I'm in often have numbers of people whom I don't know. You need to  tell  me we're in the same user group. Do  not  make me have to work to figure out who you are. 
+ I am very particular about this, especially in this day and age of identity theft and data security. It's one thing to be asked a favor, but it's quite another to be taken advantage of. There is a difference. 
+ Networking is about relationships. Tell me what our relationship is, and I'll be happy to connect with you, even if I don't know you. But if you send me an unsolicited connect request with absolutely no indication as to how we're connected, chances are I will delete or ignore your request. Don't send me a cold-call connect request with no explanation as to how we're connected and expect me to connect with you. 
+ Posted on  February 12, 2020  by  pianorayk Posted in  LinkedIn ,  Networking ,  Professional Development ,  Recruiting Spam ,  Relationships ,  Spam Leave a comment 
+ When does a request for info become spam? 
+   
+ I recently saw a post in a  Facebook  group that I manage for a user group to which I belong. She was brand-new to the group, having joined just hours (maybe even minutes) before she posted. 
+ She turned out to be a recruiter. I won't say too much about her because her firm is one with which I have a very good relationship. That said, I'd never heard of her, which made me wonder how new she was. 
+ It also made me question her motives for joining the group. It's one thing if she joined to become an active member of the group or to network, with which I have no problem, but it's quite another if her sole reason for joining is to post online job solicitations -- something with which I take issue. Since she seems new, I'm giving her the benefit of the doubt. I sent her a PM, explained my relationship with her firm, and asked if I could assist. 
+ It made me think: when do job solicitations become spam? 
+ This isn't the first time I've written about recruiter spam , and, of course,  I've written extensively about networking . Those of you who are inundated with recruiter emails or postings know how downright aggravating it gets. Unless we're actively looking for a new position, we have no time or patience for responding to the deluge of messages about which we couldn't care less. And it's only once in a great while where we come across one that looks interesting enough to look into it further. And for those of you who think these things are harmless,  I once had a bad experience with a spam recruiter . 
+ I do give leeway if the message is from a recruiter or firm that I know.  As I've written before , it's about relationships and trust. If  a recruiter that I know  asks me if I know someone with a certain set of skills, I would be happy to refer someone to him or her, and I'll be more likely to take their job search requests more seriously. But if the recruiter is someone I don't know who cold-calls me asking for a referral, what do you think the chances are that I would give one? In all likelihood, slim to none. 
+ So in my mind, the difference between a referral and spam is the relationship. If the person who posted that request already had a preexisting relationship with our group, I'd be happy to see the post. But that she posted nearly immediately after joining the Facebook group has me questioning her motives. Establish yourself before you go looking for favors. 
+ Postscript:  As I was winding up this article, the recruiter to whom I sent the PM responded to me, and in doing so, dropped the name of someone I know. I now trust her a bit more, and I feel a little more comfortable with her posting. 
+ Posted on  January 29, 2020  by  pianorayk Posted in  Career ,  Facebook ,  Job search ,  Networking ,  Recruiters ,  Recruiting Spam ,  Relationships ,  Social Media ,  Spam ,  User Groups Leave a comment 
+ Characteristics of good recruiters 
+   
+ I've written some articles about  spam recruiters . To put it very bluntly, spam recruiters are evil. They do not work for your best interests; they are just looking to make a buck. And it's a pervasive problem.  Do a Google search for "recruiter spam"  and take a look at all the hits that come up. Quite frankly, I hate them. I've had bad experiences with them.  I've done plenty of ranting about them . Every time I get an email from a spam recruiter, it goes right into the trash. 
+ "Okay, Ray," you might say. "We get it. You hate recruiter spam. So what do you think makes a good recruiter?" 
+ That's a fair question. Let's talk about that. 
+ I'll say that I have a number of friends who are recruiters. I have very good relationships with many of them. There are many good recruiters out there who make good networking contacts. I can easily drop them a line to say "what's up?" Every now and then, they'll send messages like, "I'm looking to fill such-and-such position. Can you help me out?" If I know someone, I'll gladly pass names along. If I have a good relationship with a recruiter, I make sure that I maintain it -- even if I'm not actively looking for a new position. 
+ So in my mind, here are some of the things that make a good recruiter. 
+ 
+ A good recruiter takes the time to get to know you.   As I wrote before , networking is about relationships. (S)he will sit down with you and ask what you want in an ideal position, how you work, your strengths, what you like, and so on. (S)he will also critique your resume and provide some advice based on what you tell him or her. More often than not, these discussions are more conversational, not necessarily a full-blown interview (although it might not hurt a prospective candidate to treat it as such). 
+ 
+ In my consulting position, I regularly have lunch with my consulting firm contact -- who is himself a recruiter -- about every couple of months. We'll discuss a variety of things -- how're things going, what's going on, etc. I enjoy these conversations that I have with him; they make me feel as though he's looking out for me -- which he is. 
+ Simply put, a good recruiter looks to establish a relationship with you. You are not just another number to him or her. 
+ 
+ A good recruiter is honest with you.  I've had conversations with recruiters who've said, "I don't have anything that's a good fit for you right now." That's okay. If (s)he doesn't have a position that's a good match for me, then it is what it is. (S)he will not try to force you into a position that is not a good fit. 
+ 
+ I have a friend -- a recruiter -- who is brutally honest with her clients. She has given me comments about my resume and job hunt activities in the past that I haven't necessarily wanted to hear, but when it came down to it, I realized that she was often right. She doesn't want to steer her clients wrong, and wants to make sure they end up in a good situation. I have some friends who've been placed by her, and they all attest that she is a great recruiter. 
+ 
+ A good recruiter doesn 't spam you. Rather, (s)he'll ask for favors.  I often get emails from my recruiter friends saying something like, "we are looking to fill (insert name of position here). If you're interested, or if you know someone, please let me know." 
+ 
+ What's the difference between this request and a spammer? These emails come from people with whom I have an established relationship.  As I've written before , networking is bidirectional and symbiotic. They've helped me with my job search. In turn, they're likely looking for a favor from me. Maybe I know someone who can help them. And as I wrote above, they've taken the time to get to know me. They know what I look for, and they know the kind of professionals with whom I likely associate. Contrast that to spam recruiters, who send you emails based on keywords that they find in your resume or your  LinkedIn profile . A legitimate recruiter is someone with whom you've established a measure of trust. 
+ Speaking of trust… 
+ 
+ A good recruiter is someone you trust.  Can you trust that a recruiter acts in your best interest? Is (s)he someone you feel is reliable? Do you feel comfortable talking to your recruiter? If you're looking for a position, do you feel that (s)he will place you in the best possible position? Is (s)he open and honest with you? Do you accept his or her feedback? 
+ 
+ If the answer to these is yes, then you have a good recruiter you can trust. 
+ These are some of the characteristics that I feel make a good recruiter (and if you have any more that I've left out, feel free to add them below in the comments section). Good recruiters are good people with whom to establish relationships -- even if you're not looking for a job -- and may very well be some of the best networking contacts you could have. 
+ Posted on  July 30, 2019  by  pianorayk Posted in  Career ,  Job search ,  Networking ,  Professional Development ,  Recruiters ,  Recruiting Spam ,  Relationships 1 Comment 
+ Ranting my frustration about connect requests 
+   
+ This article may seem to go against one of the things that  I preach in my 'blogging presentation , and that is to avoid frustrated rants and "getting it out of your system." Maybe I should be a little more specific. One should avoid  mindless  rants in which you angrily spew your passions without any thoughts, and in which you say things that you'll later regret. 
+ Yes, this article is a rant. However, it is not without thought, and there is a purpose to this post. 
+ As many of my regular followers (both of you) are likely aware, I write and present primarily on professional development topics. I'm not as technically sharp as I once was, but I still contribute to groups such as  PASS  and  SQL Saturday  in the form of "soft" topics that are of interest to industry professionals. I've started using this analogy during my presentation introductions: "when it comes to my relationship with PASS and SQL Saturday, I'm the professor at  MIT  who teaches  English Lit ." 
+ Among other things -- and if you follow my 'blog and my presentations, you probably already know this --  I write a lot about networking . These days, networking is the lifeblood of one's career path. 
+ However, there is a difference between  networking  and  connecting . Therein lies the heart of my rant. I've written before about  people who don't give a crap about actual networking , as well as  spam recruiters . 
+ I still get connect requests from these people, and it frustrates me to no end. So with that… 
+ <Rant>
+ 
+ 
+ If I don 't know who you are, tell me how we're connected!!!  I get a lot of  LinkedIn  requests from people whom I don't know from Adam. Some might be people I've met from  my user group  or at a  SQL Saturday , but if I'm not friends with you, I didn't invite you to connect, I don't interact with you on a semi-regular basis, or we don't have some kind of common relationship (more on that below), chances are that I'm not going to know or remember who you are.  I do NOT connect with random strangers that I don 't know.   If you tell me how we're connected , then I will be happy to connect with you. But if you send me a cold-connect request with no explanation whatsoever -- or worse, send me a message where you kiss my ass without explaining how we're connected (I've had that happen before) -- then there is about a 98% chance* that I will delete your request. (And if you try to kiss up to me, insult my intelligence, or try to sell me something, that shoots all the way up to 100%.) 
+ 
+ (*If I recognize where you're from, then there's a  slight  chance that I might at least retain the request, not delete it altogether. But if I don't know you, I still won't connect until you tell me who you are. Don't make me have to work to figure out who you are.) 
+ 
+ 
+ I am NOT in a contest to see if I can get the most connections.  So you have 3000+ connections. That's great. But if you ask me for a recommendation, will I know anything about you?  Networking is about relationships . If I need a favor (for example, let's say I lose my job and am looking for a new one), are you willing to help me out? Or are you looking for something for me and are not willing to give anything back? If the answer no to the first question and yes to the latter, then don't even bother with me. 
+ 
+ 
+ We don 't have to be friends. We just need to have something in common.  I don't expect to be buddies with all my networking connections. Many of these people I will likely not recognize if I bumped into them on the street. Some might even be people with whom I have some kind of conflict. But if we're both members of the same "family" (e.g. my  alma mater , my  fraternity , my  gym , # SQLFamily , etc.), then I'm more likely to connect with you. If we're friends, great, but having a networking relationship with acquaintances is okay. 
+ 
+ 
+ And I have a special rant regarding  spam recruiters . I hate spam recruiters passionately. (I once had a bad experience with a spam recruiter -- if you really want to hear more about it, I talk about it in the link.) They give legitimate recruiters a bad name. All of the above bullet points about connecting apply, along with these points. 
+ 
+ 
+ I will NOT relocate. If you try to sell me a position that requires me to move, consider your message deleted immediately.  I have a home and a life. I have roots where I am, and I will NOT pull them up unless I desperately have to do so. I will NOT even  look  at  any  message that tells me about a job in someplace I've never heard of or located hundreds of miles from where I live.  Every  time I see a message like that in my inbox, it goes straight into the trash. I won't even bother reading what it says. 
+ 
+ 
+ Don 't even bother contacting me about sales or help desk call positions.  Although I'm open-minded enough that I'd look into nearly any job depending on the circumstances, there are some positions in which I have absolutely zero interest. I have no interest at all in any type of sales associate or help desk call* position, and  I state that very clearly in my LinkedIn overview . (There are a number of other positions as well, but those are the ones about which I get the most emails.) I don't even know what on my resume says that I have any kind of interest in either position. 
+ 
+ 
+ (*I  might  consider a position that involves  managing  or  supporting  a help desk, but again, it depends on the circumstances.) 
+ 
+ No growth? No dice.  I'm always looking to grow. That doesn't necessarily mean climbing the ladder (although it  could  mean that). It means improving myself, learning new skills, and possibly even  furthering my education . If you don't offer that, chances are that I won't budge. 
+ 
+ Having gotten that out of my system, I do have some points for  legitimate  recruiters (some of whom are my friends). 
+ 
+ 
+ I am not  actively  looking for a position (at least not as of this article), but I  do  look passively.  If something that looks interesting drops in my lap, I'd be stupid to at least not look into it. And if it's something that works for me -- whether it's an increase in salary or an upward move -- then who knows? 
+ 
+ 
+ No, I won 't relocate, but…  I do enjoy traveling, so I give bonus points for a position in which I get to do some traveling. Also, I would consider a position where I can work from home full-time, even if the prospective employer is located hundreds of miles away. 
+ 
+ 
+ Okay. That's out of my system. I feel better now. 
+ Posted on  July 24, 2019  by  pianorayk Posted in  Being better ,  Career ,  LinkedIn ,  Networking ,  Professional Development ,  Recruiters ,  Recruiting Spam ,  Spam 2 Comments 
+ A tale of two LinkedIn requests 
+   
+ Over the weekend (specifically, while I was at  SQL Saturday Philadelphia ), I received two different  LinkedIn  connect requests. The two requests were polar opposites, and I thought they were worthwhile writing about in this article. 
+ As a technical professional, I often receive "cold-call" connect requests or emails. I am very wary and picky about with whom I connect; indeed,  I've written before about spam recruiters . The problem has become so pervasive that I included this note at the top of my LinkedIn profile summary: "If you want to connect with me, please indicate how we're connected; otherwise, I will ignore or delete your request. I do NOT accept unsolicited connect requests from people I don't know." 
+ In  my networking presentation , I include a section on "how to break the ice" -- that is, how to initiate a networking contact with someone you don't know. The two requests I received were perfect case studies as to what to do -- and what NOT to do. 
+ I'll start with the one that describes what  not  to do. I received a "cold-call" connect request from someone who sent me the following note. Keep in mind that I do  not  know this person. 
+ 
+ "I’m always looking to build my network with great people and would be delighted to have you in my network. I hope you’ll consider connecting!" 
+ (name withheld) 
+ 
+ If you've attended my presentation, or if you've downloaded or perused my PowerPoint slides, you'll know that I include a section of what not to do. This person's email checked off one of the boxes in that category: brown-nosing/sucking up/kissing up. The message was canned, impersonal, and insincere. Not only that, but she gave absolutely no indication as to how we're connected or if we have any kind of (business) relationship. She gave me absolutely no reason for me to connect with her. "Wanting to build my network with great people" is NOT a reason for me to connect with you!!! Not only did she not give me a reason to connect, the tone of her message insulted my intelligence. This message is a perfect example of how NOT to establish a networking contact. 
+ (And in case you're wondering, I deleted this person's request immediately.) 
+ On the other side of the coin, I received this message from someone who attended my SQL Saturday presentation this past weekend. Again, I did not know this person. However… 
+ 
+ "I really enjoyed your presentation on technical writing at SQL Saturday today! The tie challenge was a really interesting way to get the point across. I'd like to stay in touch and maybe pick your brain about tech writing again at some point in the future." 
+ (name also withheld) 
+ 
+ (Note: the "tie challenge" refers to a demo in my presentation. If you haven't seen my presentation, I'm not telling you what it is. You'll have to attend to find out! 🙂 ) 
+ To the person who wrote this email (if you're reading this): nice job! The message was sincere, complimentary ("I enjoyed the presentation"), referred to specific things (so I knew she attended my presentation; therefore, we have a connection of some type), and asked to potentially continue a conversation ("maybe pick your brain"). This is a perfect example as to how to initiate contact and break the ice. I was happy to connect with this person, and I did. 
+ (P.S. I might use your message as an example the next time I give my networking presentation!) 
+ If you want to establish a networking contact, you need to be sincere and give the person a reason to connect. Make the person feel valued. This applies to any networking situation, regardless of whether it's face-to-face or online. Following this guideline will ensure that your networking efforts are much more successful. 
+ Posted on  May 6, 2019  by  pianorayk Posted in  Career ,  Email ,  LinkedIn ,  Networking ,  Professional Development ,  Recruiters ,  Recruiting Spam Tagged  Breaking the ice ,  Initiating contact .  3 Comments 
+ The bane of unsolicited recruiters 
+   
+ If you are a technology professional, chances are you've received the emails. They usually look something like this: 
+ 
+ To: Ray_Kim@MyEmail.com* 
+From: SomeRecruiterIveNeverHeardOf@somecompany.com 
+Subject: [Some job that doesn't interest me] located in [some place where I'm not willing to relocate] 
+ Dear job seeker: 
+ I trust you are having a pleasant day! 
+ I came across your profile, and I believe you are a perfect fit for our exciting job opportunity! We have a position for [some position about which I couldn't care less] located in [some place where I'm not willing to move]. 
+ If you think you are an ideal candidate for this exciting position, please call me immediately at (800) 555-1212! 
+ 
+ (* My actual email address is suppressed for reasons I think are obvious.) 
+ To me, these emails are no different from the email spam I receive that says I need to respond to claim $1,000,000 from a bank in Nigeria. I'll make this clear: spam is a  major  pet peeve of mine, and is something I hate  passionately . 
+ I came across  this link that perfectly sums up why I hate these recruitment tactics . I recently performed a  Google  search on " recruiting spam " -- and the number of links I saw was overwhelming. 
+ Among other things, I found a link by my friend,  James Serra , who wrote  this article about low-rate recruiters . I also recently saw one of his  SQL Saturday  presentations where  he talks about enhancing your career . (It is an excellent presentation; I recommend it highly.) 
+ In his presentation, James talks about taking risks, and he told stories about how he pulled up stakes to seek lucrative opportunities elsewhere. Personally, I am not willing to pull up my roots and relocate (having said that, you are not me), but I do understand what he means by taking risks, especially calculated ones. You need to take risks to get ahead, and you need to step out of your comfort zone. (This is outside the scope of this article, and is another topic for another time.) 
+ However, it's one thing for opportunity (where you'd take a risk) to present itself. It is quite another when a "get rich scheme" crosses your inbox. 
+ I once had a bad experience with a spam recruiter. He set me up on an interview. When I asked the company with which I was interviewing, he would only say it was "an insurance company." He did not reveal much in the way of information. I only found out where I was interviewing only hours before I was supposed to interview. It ended up being for a company where I was not interested in working. After that experience, I told myself that not only was I never going to work with that recruiter again, I also would never again accept any unsolicited recruiter requests. 
+ A good ethical recruiter will take the time to get to know you, gauge your career interests, get an idea of where you want to go, and respect what you want to do. A spam recruiter could not care less about any of this. All they want to do is make a buck, and they are willing to exploit you to do it. 
+ I recently responded to a recruiter in which I apologized for my harsh response. Like so many unsolicited recruiting emails, he pitched a position outside my geographic interests that did not interest me. After I responded, he wrote me back to apologize, and he was sincere in his response. I had made numerous attempts to unsubscribe from his list, to no avail (a fact that I mentioned in my email to him). He mentioned that he had looked into it, confirmed that there was an issue, and made efforts to correct it. His efforts actually swayed me. I wrote back to apologize and to say that I was willing to work with him. (Legitimate recruiters, take note; efforts like this go a long way.) 
+ (Disclosure: I am not, I repeat,  not  , actively seeking new employment; I'm happy in my current position. However, I would also be remiss if I did not consider opportunities that could potentially represent a step up. See my paragraph above about taking calculated risks.) 
+ Swimming in the candidate pool can be an interesting, exciting, and even rewarding experience. Just be aware that, within that pool, you might be swimming with sharks. 
+ Posted on  March 27, 2018March 28, 2018  by  pianorayk Posted in  Career ,  Email ,  Job search ,  Professional Development ,  Recruiters ,  Recruiting Spam ,  Spam Tagged  Job hunt ,  Professional Development ,  Recruiting Spam .  7 Comments 
+ Search for: 
+ Just an average guy and my opinions . . . 
+ Follow me on Twitter 
+ My Tweets 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 453 other followers 
+ Email Address: 
+ Follow 
+ Follow Welcome to Ray Kim's 'blog on WordPress.com 
+ 
+ 
+ View PianoRayK's profile on LinkedIn 
+ 
+ 
+ Home 
+ 
+ 
+ About 
+ 
+ 
+ My presentations 
+ 
+ 
+ The Write Stuff 
+ 
+ 
+ Troy -- A Major-League City 
+ 
+ When Troy Was A Major League City -- Acknowledgements and Bibliography 
+ 
+ 
+ 
+ Contact 
+ 
+ 
+ Recent Posts 
+ 
+ Setting up my #Sessionize profile, and speaking opportunities -- #DataSaturday  January 25, 2021 
+ #DataSaturday  January 23, 2021 
+ Archiving my talks, part 3: PASS Summit -- #PASS  January 7, 2021 
+ Goals for 2021  January 1, 2021 
+ January CASSUG Monthly Meeting  December 29, 2020 
+ 
+ 
+ 
+ 
+ January 2021 S 
+ M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 
+ 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 
+ 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 
+ 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ « Dec 
+ Archives 
+ 
+ January 2021  (4) 
+ December 2020  (10) 
+ November 2020  (9) 
+ October 2020  (8) 
+ September 2020  (11) 
+ August 2020  (7) 
+ July 2020  (13) 
+ June 2020  (8) 
+ May 2020  (16) 
+ April 2020  (18) 
+ March 2020  (9) 
+ February 2020  (10) 
+ January 2020  (12) 
+ December 2019  (9) 
+ November 2019  (9) 
+ October 2019  (15) 
+ September 2019  (15) 
+ August 2019  (21) 
+ July 2019  (19) 
+ June 2019  (12) 
+ May 2019  (14) 
+ April 2019  (15) 
+ March 2019  (8) 
+ February 2019  (12) 
+ January 2019  (9) 
+ December 2018  (10) 
+ November 2018  (6) 
+ October 2018  (4) 
+ September 2018  (5) 
+ August 2018  (11) 
+ July 2018  (9) 
+ June 2018  (8) 
+ May 2018  (7) 
+ April 2018  (8) 
+ March 2018  (10) 
+ February 2018  (5) 
+ January 2018  (5) 
+ December 2017  (5) 
+ November 2017  (2) 
+ October 2017  (2) 
+ September 2017  (2) 
+ August 2017  (1) 
+ July 2017  (3) 
+ June 2017  (4) 
+ May 2017  (7) 
+ April 2017  (1) 
+ March 2017  (6) 
+ February 2017  (1) 
+ January 2017  (1) 
+ October 2016  (1) 
+ September 2016  (2) 
+ August 2016  (4) 
+ July 2016  (8) 
+ June 2016  (7) 
+ May 2016  (8) 
+ 
+ Categories 
+ 
+ 9/11  (4) 
+ Being better  (142)
+ 
+ Mistakes  (8) 
+ 
+ 
+ Books  (8)
+ 
+ Albom, Mitch  (1)
+ 
+ Tuesdays with Morrie  (1) 
+ 
+ 
+ Brooks, Terry  (1)
+ 
+ The Sword of Shannara  (1) 
+ 
+ 
+ Carnegie, Dale  (2)
+ 
+ How To Stop Worrying and Start Living  (1) 
+ How to Win Friends and Influence People  (1) 
+ 
+ 
+ Gawande, Atul  (3)
+ 
+ The Checklist Manifesto  (3) 
+ 
+ 
+ Norman, Don  (1)
+ 
+ The Design of Everyday Things  (1) 
+ 
+ 
+ 
+ 
+ Branding  (23) 
+ Business Intelligence  (14)
+ 
+ #BI101  (5) 
+ Data warehousing  (2) 
+ 
+ 
+ Career  (376)
+ 
+ #SQLCareer  (1) 
+ Job search  (77)
+ 
+ Job Interview  (15) 
+ Recruiters  (14) 
+ Recruiting Spam  (8) 
+ Resumes  (12) 
+ 
+ 
+ Networking  (202) 
+ Professional Development  (363)
+ 
+ Code Camp  (2) 
+ Data Saturday  (2) 
+ Decision making  (11) 
+ Disaster Recovery  (13) 
+ Feedback  (19) 
+ Mentoring  (3) 
+ PASS Summit  (42)
+ 
+ #PASSSummit2020  (6) 
+ 
+ 
+ Public Speaking  (141) 
+ Roles  (8) 
+ SQL Saturday  (131) 
+ Teamwork  (9) 
+ Technical Communication  (163)
+ 
+ Design  (24)
+ 
+ UX/UI  (15) 
+ 
+ 
+ Documentation  (102) 
+ Technical Writing  (79) 
+ 
+ 
+ User Groups  (61) 
+ 
+ 
+ Self-employment  (14) 
+ Work  (4) 
+ 
+ 
+ Change  (88)
+ 
+ Dealing with change  (73) 
+ 
+ 
+ Computers  (3)
+ 
+ Hardware  (2)
+ 
+ Storage  (1) 
+ 
+ 
+ Software  (2) 
+ 
+ 
+ Cultures  (47) 
+ Data processing  (25) 
+ Data security  (19) 
+ Database  (78)
+ 
+ #SQL101  (8) 
+ Oracle  (1) 
+ SQL Server  (72)
+ 
+ SSIS  (2) 
+ 
+ 
+ 
+ 
+ Living life  (167)
+ 
+ Extracurricular activities  (22)
+ 
+ Hobbies  (3) 
+ 
+ 
+ Food  (4) 
+ Holidays  (11)
+ 
+ Christmas  (1) 
+ Memorial Day  (3) 
+ New Year's Day  (1) 
+ 
+ 
+ Music  (17)
+ 
+ MIDI Sequencing  (2) 
+ Recording  (3) 
+ 
+ 
+ Relationships  (50) 
+ Travel  (27)
+ 
+ SQL Travels  (11) 
+ 
+ 
+ Wellness  (54)
+ 
+ Health  (53)
+ 
+ Coronavirus  (31)
+ 
+ #CoronavirusChronicles  (23) 
+ COVID-19  (30) 
+ 
+ 
+ Exercise  (14)
+ 
+ CrossFit  (10) 
+ Fitness  (11) 
+ Working Out  (9) 
+ 
+ 
+ Stress  (7) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maintenance  (39) 
+ Microsoft  (38)
+ 
+ Power BI  (3) 
+ PowerShell  (4) 
+ Windows  (1) 
+ 
+ 
+ Open Source  (2)
+ 
+ Docker  (2) 
+ 
+ 
+ Programming  (8)
+ 
+ REST  (1)
+ 
+ #REST101  (1) 
+ 
+ 
+ Script programming  (2) 
+ 
+ 
+ Reference  (6) 
+ Religion  (1) 
+ Social Media  (54)
+ 
+ Blog  (33)
+ 
+ Blog ground rules  (1) 
+ First blog post  (5) 
+ 
+ 
+ Facebook  (8) 
+ LinkedIn  (16) 
+ Podcast  (2) 
+ Twitter  (4) 
+ 
+ 
+ Sports  (24)
+ 
+ Baseball  (11) 
+ Basketball  (3)
+ 
+ College basketball  (3) 
+ 
+ 
+ Football  (3)
+ 
+ College football  (2) 
+ Fantasy football  (1) 
+ 
+ 
+ Hockey  (1)
+ 
+ College hockey  (1) 
+ 
+ 
+ Running  (3) 
+ 
+ 
+ Stuff  (67)
+ 
+ Email  (9)
+ 
+ Spam  (5) 
+ 
+ 
+ Getting started  (26) 
+ Ideas  (13) 
+ Just for fun  (13)
+ 
+ #TheBestOf  (3) 
+ 
+ 
+ Memorization  (2) 
+ Ownership  (1) 
+ Politics  (7) 
+ School spirit  (5) 
+ Video games  (1) 
+ Welcome  (1) 
+ 
+ 
+ Support systems  (25) 
+ Uncategorized  (6) 
+ Web Development  (9) 
+ 
+ Blogs I Follow 
+ 
+ HRTact 
+ creativegoddess.wordpress.com/ 
+ The Write Stuff Technical Documentation Services, LLC 
+ Deb the DBA 
+ FLX SQL with Andy Levy 
+ A Shot of SQLEspresso 
+ SQLKohai - always a student 
+ George Walters 
+ The Rest is Just Code 
+ Voice of the DBA 
+ Daniel Bowlin SQL Server BI Blog 
+ greenmountainsoftware 
+ James Serra's Blog 
+ Discover 
+ The Daily Post 
+ The WordPress.com Blog 
+ 
+ Create a free website or blog at WordPress.com. 
+ HRTact 
+ Cultivate Your Workforce with Effective Human Strategies 
+ creativegoddess.wordpress.com/ 
+ The Write Stuff Technical Documentation Services, LLC 
+ "My job is to make other people's jobs easier" 
+ Deb the DBA 
+ Just me and the databases... 
+ FLX SQL with Andy Levy 
+ Hand-Crafted SQL and PowerShell from New York's Finger Lakes 
+ A Shot of SQLEspresso 
+ SQL Blogs by Monica Rathbun 
+ SQLKohai - always a student 
+ George Walters 
+ Microsoft Azure, Data Platform, SQL, Speaking, Community 
+ The Rest is Just Code 
+ Ideas are the hard part...the rest is just code 
+ Voice of the DBA 
+ Writings from Steve Jones, the Voice of the DBA 
+ Daniel Bowlin SQL Server BI Blog 
+ greenmountainsoftware 
+ Thoughts on SQL, Disasters and thinking 
+ James Serra's Blog 
+ Big Data and Data Warehousing 
+ Discover 
+ A daily selection of the best content published on WordPress, collected for you by humans who love to read. 
+ The Daily Post 
+ The Art and Craft of Blogging 
+ The WordPress.com Blog 
+ The latest news on WordPress.com and the WordPress community. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

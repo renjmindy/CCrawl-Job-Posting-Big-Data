@@ -1,0 +1,70 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Doppler (W19) 
+ The first Universal Secrets Manager. 
+ Growth Marketer 
+ 
+ Location 
+ San Francisco / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Doppler 
+ We believe every company and its customers deserve great security. We strive to build tools that not only increase security but also empower teams to be more productive, which will help makes the internet a more secure place. We want you to have the career of your life. We invest in and support curious, mission-minded people who are committed to solving some of the toughest developer problems. 
+ You’ll be joining an exceptionally lean, supportive, and fast-moving team of self-starter individuals, where being a major part of the story behind one of the most ambitious endeavors allows you to carve out your own significant contribution efforts. Plus, we are backed by some of the world’s best investors and entrepreneurs. 
+ Doppler is growing and we encourage you to apply if you’re excited in joining us with prominent skin in the game as a critical hire of this exciting, enduring journey. If your experiences don’t exactly align with the job description, don’t fret — we are always open to applications that don’t perfectly match. Feel free to attach a note and let us know what makes you stand out, and what made you decide to take the non-traditional path. 
+ About the role 
+ About Doppler 
+ We believe every company and its customers deserve great security. We strive to build tools that not only increase security but also empower teams to be more productive, which will help makes the internet a more secure place. We want you to have the career of your life. We invest in and support curious, mission-minded people who are committed to solving some of the toughest developer problems. 
+ You’ll be joining an exceptionally lean, supportive, and fast-moving team of self-starter individuals, where being a major part of the story behind one of the most ambitious endeavors allows you to carve out your own significant contribution efforts. Plus, we are backed by some of the world’s best investors and entrepreneurs. 
+ Doppler is growing and we encourage you to apply if you’re excited in joining us with prominent skin in the game as a critical hire of this exciting, enduring journey. If your experiences don’t exactly align with the job description, don’t fret — we are always open to applications that don’t perfectly match. Feel free to attach a note and let us know what makes you stand out, and what made you decide to take the non-traditional path. 
+ The Role 
+ We are looking for our first Growth Marketer to develop our growth team for our next phase of growth. Our Growth Marketer will have the opportunity to lead the growth strategy around how Doppler will be part of every developer's toolkit. We are seeing good organic growth but we are looking for someone who can help amplify this. You will be working directly with the CEO and Lead Product Engineer. Join us early on at this rocket ship! 
+ Responsibilities: 
+ -Build a growth strategy plan that will make Doppler part of every Developer's toolkit. -Experiment with scalable and sustainable ways to grow Doppler -Improve our SEO to drive organic traffic -Build strong partnerships with developers and companies -Gather a deep understanding of the market and our users to identify opportunities -Experiment with ads on Google and other platforms -Help building a positive, friendly & active community around Doppler -Interface with product teams to gather data and run experiments 
+ Core Requirements: 
+ -Prior experience growing a SaaS B2B startup -3+ years of experience with SEO -3+ years implementing successful campaigns and strategies on social media -Experience with Google Ads and other ads platforms -Experience utilizing marketing tools 
+ Closing 
+ We know that looking for a new role can be both exciting and time-consuming, and we truly appreciate your effort. Tell us in your cover letter what you're really interested in building and why you want to build it at Doppler - we do love a good story. 
+ Doppler is proud to be an equal employment workplace and an affirmative action employer. By valuing inclusion and diversity of all forms, we strictly prohibit and do not discriminate based on race, color, religion, national origin, gender, gender identity, gender expression, age, ancestry, citizenship, sexual orientation, status as a protected veteran, or any other legally protected characteristic. 
+ Technology 
+ 
+ Node.js (Express) 
+ Go 
+ Postgres 
+ Redis 
+ Docker 
+ Kubernetes 
+ 
+ Other jobs at Doppler 
+ Senior Full Stack Engineer 
+ fulltime 
+ San Francisco 
+ Full Stack 
+ $150k 
+ 3+ years 
+ Senior DevSecOps Engineer 
+ fulltime 
+ San Francisco 
+ Full Stack 
+ $200k 
+ 3+ years 
+ Growth Marketer 
+ fulltime 
+ San Francisco / Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

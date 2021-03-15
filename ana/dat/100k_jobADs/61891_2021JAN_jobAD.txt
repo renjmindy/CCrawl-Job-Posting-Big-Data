@@ -1,0 +1,52 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Sorting Robotics (W19) 
+ We create automation technology for the cannabis industry. 
+ Chief of Staff 
+ $70k - $100k • 0.25% - 0.50% 
+ Location 
+ Los Angeles 
+ Job Type 
+ Full-time 
+ Experience 
+ 1+ years 
+ About Sorting Robotics 
+ We build computer vision powered robots that automate and improve human-centric processes for companies. 
+ Our first robot sorted Magic: The Gathering cards and we sold units to the biggest trading card companies in the North American market. As of Fall 2019 we sold that product line and pivoted into focusing solely on automation for the blossoming cannabis industry. 
+ Our most recent system sorts biomass, and looks to improve the efficiencies of all downstream processes by removing undesirable waste material, in addition to allowing customers to sort by size, color, strain, and more. 
+ We are currently working on automation for oil cartridge filling, and improving the efficiency of packaging processes in the cannabis industry by introducing novel robotics to join processes together. 
+ About the role 
+ Sorting Robotics is looking to hire a Chief of Staff to start as soon as available at our office in Los Angeles. 
+ A little about Sorting Robotics: We are former NASA engineers who initially started the company to create the world’s first robotic card sorter for Magic: The Gathering with the  Roca Sorter . After getting into Y Combinator for W19 we pivoted the company into the cannabis industry and have been focused exclusively on creating automation and robotics solutions for cannabis operators for the last two years. We have numerous products concurrently under development, including an  optical biomass sorting system , an oil cartridge filling system (partnered with one of the biggest brands in cannabis), and a joint infusion device, with other products on our roadmap. 
+ What we are looking for: The role will initially be Chief of Staff reporting directly to the CEO, with the potential to grow into a VP of Operations or Chief Operating Officer role over time. This position will straddle a lot of activities at Sorting and the candidate will be responsible for: 
+ 
+ Strategy: Developing financial strategy and projections and building pitch decks and investment docs directly with the CEO. 
+ Legal: Contract drafting with our general counsel and IP management with our IP counsel. 
+ Business: Annual business filings at the Federal and State level. 
+ Finance: Managing the finances for the company, including bookkeeping, monthly reconciliation, and accounts payable/receivable. 
+ Operations: Company infrastructure like file sharing, payroll & benefits oversight, hiring pipeline. 
+ 
+ The duties of the Chief of Staff listed above are a starting point. The candidate will continue to mold and inform the policies and practices of the company as we deploy more products and grow the company. No two weeks will be the same, and the candidate will learn a ton about startups from top to bottom in a short time. 
+ Technology 
+ We operate at the intersection of software and hardware, building a full stack solution to inventory management. Our tech stack includes: Android, JavaScript, PHP, CSS, HTML, Python, AWS, mechatronics, industrial design, manufacturing, Solidworks, and embedded systems. Creating a robotic system is the easiest it has ever been, but it is still incredibly difficult because software has to blend with dynamic hardware in a seamless fashion. 
+ Other jobs at Sorting Robotics 
+ Chief of Staff 
+ fulltime 
+ Los Angeles 
+ $70k - $100k 
+ 0.25% - 0.50% 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

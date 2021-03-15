@@ -1,0 +1,106 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ People.ai (S16) 
+ Harnesses business activity to unlock growth. 
+ Staff Product Manager, Data Platform and Machine Learning 
+ 
+ Location 
+ San Francisco, CA, USA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About People.ai 
+ At People.ai, we believe that people enrich the world around them in countless ways. We believe that the more time they spend applying their creativity, resourcefulness and critical thinking to activities that matter most in their professional life, the more effective a professional they become. We're developing a deep understanding of the professional world, mapping people, companies, and the information that flows between in the world's largest business activity and identity graph, fed by massive amounts of realtime human activity data. Our team is a diverse, outspoken group of creatives and critical thinkers, hyper-focused on driving enterprise growth. We embrace different. We applaud non-traditional career paths. We're inspired by people who have made processes their own. 
+ You’ll be joining an all-star engineering team who previously shipped product and built infrastructure at companies like Facebook, Google, Twitter and Uber. 
+ People.ai is based in San Francisco and is backed by some of Silicon Valley’s top investors including Y-Combinator, Andreessen Horowitz, Lightspeed, Index, GGV, and Shasta. 
+ About the role 
+ People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contact and customer activity data, dynamically updating CRM and other systems of record, and providing actionable intelligence across management tools to realize the full selling capacity of the enterprise. Some of the world’s best brands are leveraging People.ai to transform their business, including Lyft, New Relic, Okta, Tanium, and Zoom. 
+ At People.ai, we believe that people enrich the world around them in countless ways. We believe that the more time they spend applying their creativity, resourcefulness and critical thinking to activities that matter most in their professional life, the more effective a professional they become. We're developing a deep understanding of the professional world, mapping people, companies, and the information that flows between them through natural language processing and machine learning. Our team is a diverse, outspoken group of creatives and critical thinkers, hyper-focused on driving enterprise growth. We embrace different. We applaud non-traditional career paths. We're inspired by people who have made processes their own. 
+ As our product leader for data platform and machine learning, you drive the vision, mission, and strategy of the data platform that powers the entire People.ai product portfolio. 
+ The People.ai data platform is an enterprise game changer: It provides best in class activity capture, classification, and matching to provide AI-based business insights to some of the most successful and fastest growing companies in the industry. 
+ As the product lead, you own the roadmap for the data platform, identify and resolve blockers, partner with cross functional teams across the company, and build relationships with customers to make them successful. 
+ Responsibilities: 
+ 
+ Provide the vision and roadmap for building an ai-powered data platform that thrives in complex enterprise environments 
+ Push the envelope to build the best in class business activity capture and matching engine 
+ Deliver a performant, enterprise level business activity capture pipeline 
+ Design and build machine learning models that accurately classify and match business activity data to provide actionable insights 
+ Partner with design, engineering, sales, and support to build products that make our customers successful 
+ 
+ Requirements: 
+ 
+ 5+ year(s) of product management experience 
+ Experience working with big data and machine learning 
+ Experience working with enterprise scale products 
+ Experience working with CRM systems (Salesforce, Dynamics CRM, Hubspot, and others) 
+ 
+ Founded in 2016 and based in San Francisco, the company is backed by ICONIQ Capital, Andreessen Horowitz, Lightspeed Venture Partners, Y Combinator and others. In 2019, People.ai was recognized as a winner of the 2019 Bay Area Best Places To Work, an awards program presented by the San Francisco Business Times and the Silicon Valley Business Journal. 
+ Technology 
+ Some of the technologies and languages we use are: 
+ 
+ Python 
+ Scala 
+ Spark 
+ AWS 
+ Kubernetes 
+ ElasticSearch 
+ 
+ Other jobs at People.ai 
+ Lead Software Engineer 
+ fulltime 
+ San Francisco, CA, USA / Remote 
+ Full Stack 
+ 6+ years 
+ Staff Backend Engineer - Kyiv, Ukraine 
+ fulltime 
+ Kyiv city, Ukraine / Remote 
+ Backend 
+ 6+ years 
+ Staff Backend Engineer 
+ fulltime 
+ Toronto, ON, Canada / Remote 
+ Backend 
+ 6+ years 
+ Staff Product Manager, Data Platform and Machine Learning 
+ fulltime 
+ San Francisco, CA, USA / Remote 
+ 6+ years 
+ Senior Software Engineer 
+ fulltime 
+ San Francisco, CA / Remote 
+ Full Stack 
+ 6+ years 
+ Lead Software Engineer 
+ fulltime 
+ / Remote 
+ Full Stack 
+ 6+ years 
+ Head of Core Infrastructure 
+ fulltime 
+ San Francisco, CA / Remote 
+ Engineering Manager 
+ 11+ years 
+ Salesforce Engineer 
+ fulltime 
+ / Remote 
+ Full Stack 
+ 3+ years 
+ Head of Growth 
+ fulltime 
+ / Remote 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

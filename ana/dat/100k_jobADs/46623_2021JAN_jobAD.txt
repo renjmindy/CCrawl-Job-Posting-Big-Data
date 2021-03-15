@@ -1,0 +1,181 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Lead Engineer 
+ [ 
+ Gousto 
+ ](/companies/gousto) 
+ London, United Kingdom 
+ 24 July, 2020 
+ Apply 
+ More jobs from Gousto About Gousto 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Node.js 
+ Python 
+ React 
+ 
+ Benefits & perks 
+ 
+ Pension contributions 
+ Health care 
+ 25 days holiday + all bank holidays 
+ 
+ Gousto are on a mission to become the UK's favourite way to eat dinner! 
+ Role overview 
+ About Gousto 
+ Gousto is the UK’s leading recipe box company delivering precise ingredients, delicious recipes and a dollop of adventure to thousands of homes across the UK. 
+ As one of Europe’s fastest-growing independent companies, you’ll be part of an exciting, expanding team and trailblazing company. 
+ Food and tech are at the heart of what we do. Using industry-leading technology, we’ve connected over 6 million people to delicious food so far. By 2025 we’ll have delivered 400 million delicious meals to dinner tables across the country... and we’re only just getting started. 
+ Our mission is to reduce food waste and we've committed to cutting down the plastic in our boxes by 50% by the end of the year, this is one of the larger projects the team are working on at the moment. 
+ Join us and let’s dream big and deliver bigger. Unbox possibility. 
+ The Opportunity 
+ The code we write powers every aspect of our business from the menu recommendation engine to driving our supply chain. We are a scale up business on a steep growth trajectory, and with that comes the need to build a platform that can scale. In parallel to this, we need to expand our team, evolving effective tools and processes that ensure we can continue to deliver quality code at pace. 
+ Our platform is entirely cloud-based, and many of our backend services are now delivered via AWS Lambda. Our continuous delivery pipeline is fully automated and we release code to production multiple times a day. We’re in the process of moving our microservices architecture to containers. 
+ Your skills and experience will help us move to the next level. We know we’ve got lots of things right but we also have many things still to improve. Right now we’re working on creating robust seed data for testing and flexible developer environments for coding. 
+ We are making huge investments in technology, and plan to triple the size of our team to over 200 people in the next few years. As well as providing lots of career growth for our team, there will be plenty of opportunities to lead, mentor, influence and learn. 
+ What’s it really like to work here? 
+ 
+ We are customer-centric, data-driven and outcome-focused, using lean principles to work iteratively, experiment and learn fast. 
+ We work in cross-functional squads which we are slowly evolving to include business partners. This allows us to work more closely with our colleagues in food, operations and marketing, enabling greater alignment, collaboration and innovation. 
+ Our squads have a high level of autonomy to decide both what outcomes they should pursue and how they will achieve them. 
+ We believe in being agile rather than committing to a single framework. We have a set of lean and agile principles which we follow, but beyond that squads are empowered and encouraged to tailor their working processes. 
+ We discourage pigeon-holing which means our engineers are responsible for designing, writing, testing, deploying and maintaining their code in production. We don’t have QAs, and our architect works closely with squads to consult and collaborate. 
+ A DevOps culture is central to our way of working and our squads are responsible for running their solutions in production. 
+ Pairing and TDD are practices we champion and want to keep improving. 
+ 10% of our time is dedicated to tech innovation and we hold regular brown bags. 
+ We are committed to being involved in the wider tech community, hosting meetups, speaking at events and sharing learnings via our  blog . 
+ 
+ What skills and experience will you need? 
+ 
+ Coaching and mentoring other engineers. 
+ Deep knowledge of a high-level programming language - but it doesn’t need to be a language that we use here. Great engineers learn quickly and are keen to adopt new languages. 
+ Designing and delivering scalable, distributed, cloud-based systems in a highly available manner. 
+ Working with async and event-driven architectures. 
+ Experience of CI/CD tooling and responsibly running solutions in production, working with logging, monitoring and alerting stacks. 
+ A good understanding of lean product discovery and delivery practices. 
+ 
+ What we look for in a great Lead Engineer 
+ Great engineering - and this is so much more than writing great code. As well as an excellent knowledge of software craftsmanship, you’ll have a test-first approach and know what automated testing to apply at which level of the stack. You’ll have great design and architectural knowledge and plenty of experience of maintaining your code in production. 
+ Leadership and Coaching - you are highly proactive, you take ownership of problems and propose solutions. You create forums to drive good principles and practices across all of engineering. You mentor and coach all levels of engineering using your knowledge and experience to drive improvements across the team. 
+ Outcome-focus - you develop a deep understanding of the problem you’re solving before you build it. You are product-oriented and customer-focused, balancing technical direction with business value. You know when to compromise and when not to. 
+ Lean delivery - you deliver rapidly in small batches, reducing risk and creating a fast feedback loop. You have a continuous improvement mindset, constantly seeking to reduce waste and avoid re-work. 
+ Growth mindset - you are curious and are always looking to learn. You encourage a culture of learning, emphasising the importance of breadth as well as depth of knowledge. You value feedback as a learning tool, and you offer constructive feedback with empathy. 
+ 
+ [ 
+ Gousto 
+ ](/companies/gousto) 
+ 
+ 250+ 
+ 
+ Gousto is the UK’s leading recipe box company delivering precise ingredients, delicious recipes and a dollop of adventure to thousands of homes across the UK. As one of Europe’s fastest growing independent companies, you’ll be part of an exciting, expanding team and trailblazing company. Food and tech is at the heart of what we do. Using industry-leading technology, we’ve connected over 6 million people to delicious food so far. By 2025 we’ll have delivered 400 million delicious meals to dinner tables across the country... and we’re only just getting started. Join us and let’s dream big and deliver bigger. Unbox possibility. The Opportunity The code we write powers every aspect of our business from the menu recommendation engine to driving our supply chain. We are a scale up business on a steep growth trajectory, and with that comes the need to build a platform that can scale. In parallel to this, we need to expand our team, evolving effective tools and processes that ensure we can continue to deliver quality code at pace. Our platform is entirely cloud-based, and many of our backend services are now delivered via AWS Lambda. Our continuous delivery pipeline is fully automated and we release code to production multiple times a day. We’re in the process of moving our microservices architecture to containers. Your skills and experience will help us move to the next level. We know we’ve got lots of things right but we also have many things still to improve. Right now we’re working on creating robust seed data for testing and flexible developer environments for coding. We are making huge investments in technology, and plan to triple the size of our team to over 200 people in the next few years. As well as providing lots of career growth for our team, there will be plenty of opportunities to lead, mentor, influence and learn. What’s it really like to work here? We are customer-centric, data driven and outcome focused, using lean principles to work iteratively, experiment and learn fast. We work in cross-functional squads which we are slowly evolving to include business partners. This allows us to work more closely with our colleagues in food, operations and marketing, enabling greater alignment, collaboration and innovation. Our squads have a high level of autonomy to decide both what outcomes they should pursue and how they will achieve them. We believe in being agile rather than committing to a single framework. We have a set of lean and agile principles which we follow, but beyond that squads are empowered and encouraged to tailor their working processes. We discourage pigeon-holing which means our engineers are responsible for designing, writing, testing, deploying and maintaining their code in production. We don’t have QAs, and our architect works closely with squads to consult and collaborate. A devops culture is central to our way of working and our squads are responsible for running their solutions in production. Pairing and TDD are practices we champion and want to keep improving. 10% of our time is dedicated to tech innovation and we hold regular brown bags. We are committed to being involved in the wider tech community, hosting meetups, speaking at events and sharing learnings via our blog. 
+ React Food Late Stage Venture AWS TDD aws lambda Pension Contributions Health care 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Gousto About Gousto 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Node.js 
+ Python 
+ React 
+ 
+ Benefits & perks 
+ 
+ Pension contributions 
+ Health care 
+ 25 days holiday + all bank holidays 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Full Stack Engineer£65K - 80K + EquityMimicaLondon, United Kingdom 
+ Our software learns to automate work just by observing it 
+ Sponsorship 
+ javascript node.js python react 
+ More Info Apply 
+ Lead Developer£50K - 60KDeesonUnited Kingdom 
+ Lead a team creating transformational digital platforms using open source technology ✨ 
+ Remote 
+ angular javascript node.js python react 
+ More Info Apply 
+ Full-Stack Software Developer£35K - 75KCytera CellWorksLondon, United Kingdom 
+ Our solutions are going to transform the way every biotech works. Join us and help us get there! 
+ aws docker javascript node.js react typescript 
+ More Info Apply 
+ Lead Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

@@ -1,0 +1,65 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Scientific Associate II 
+ University Health Network 
+ __Toronto, ON 
+ Apply Now 
+ Our research group at Princess Margaret focuses on lymphoid malignancies and, in particular, on scenarios that are associated with poor outcome such as early progression after treatment, transformation to aggressive lymphoma and relapse in the central nervous system. We are applying cutting-edge tools to primary patient samples to unravel tumour heterogeneity and to develop novel, innovative biomarkers to predict outcome in lymphoma. Our ultimate goal is to improve patient outcomes through a better understanding of the diversity of responses to treatment and by tailoring therapy to each individual patient. See our lab website for further information: www.kridel-lab.ca. 
+ We are seeking a highly motivated individual to maintain large-scale bioinformatics projects, analyze high-throughput data and oversee computational activities in the lab. This individual will work closely with computational biology post-docs, research technicians and our clinical research coordinator. Within our academic environment, this position allows to make a significant contribution to cancer research and directly impact on our patients’ lives, by nature of our strong ties to the clinic. This position will also provide ample opportunities for professional development, for research planning and strategy, and for dissemination of findings at national and international meetings. 
+ The individual will be responsible for maintaining large omics datasets, deploying state-of-the-art computational tools and developing methods, if needed. The individual will also be responsible for ensuring reproducibility of findings, presenting results to internal and external stakeholders and supervising more junior colleagues. 
+ QUALIFICATIONS: 
+PhD in bioinformatics, computer science or statistics. 
+Minimum of 2 years related experience post graduate degree. 
+Exceptional computational skills. 
+Strong background with Unix/Linux, Perl and/or Python. 
+Advanced knowledge of NGS platforms and datatypes (FASTQ, BAM, VCF, MAF). 
+Experience with analysis of targeted, exome or genome sequencing data. 
+Experience with the integration of large-scale omics datasets. 
+Prior experience with cancer genomics is required. 
+Solid skills in statistical analysis (ANOVA, regression, clustering, phylogenetics, survival). 
+Expertise with R and Bioconductor. 
+Experience with machine learning and data modelling. 
+Excellent communication skills 
+Willingness to work in a team environment. 
+Excellent publication record. 
+ Princess Margaret Cancer Centre 
+The Princess Margaret Cancer Centre is one of the top 5 cancer centres in the world. We are a teaching hospital within the University Health Network and affiliated with the University of Toronto, with the largest cancer research program in Canada. This rich working environment provides ample opportunities for collaboration and scientific exchange with a large community of clinical, genomics, computational biology and machine learning groups at the University of Toronto and associated institutions, such as the Ontario Institute of Cancer Research, Hospital for Sick Children and Donnelly Centre. 
+ If you are interested in making your contribution at UHN, please apply on-line. You will be asked to copy and paste as well as attach your resume and covering letter. You will also be required to complete some initial screening questions. 
+ POSTED DATE:  November 20, 2020 CLOSING DATE: Until Filled 
+ For UHN employees, only those who have successfully completed their probationary period, have a good employee record along with satisfactory attendance in accordance with UHN's attendance management program, and possess all the required experience and qualifications should apply. 
+ UHN thanks all applicants, however, only those selected for an interview will be contacted. 
+ UHN is a respectful, caring, and inclusive workplace. We are committed to championing accessibility, diversity and equal opportunity. Requests for accommodation can be made at any stage of the recruitment process providing the applicant has met the Bona-fide requirements for the open position. Applicants need to make their requirements known when contacted. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

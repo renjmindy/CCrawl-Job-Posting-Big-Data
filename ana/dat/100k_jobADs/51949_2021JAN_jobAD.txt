@@ -1,0 +1,70 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Odeko (S19) 
+ Odeko builds software for local coffee shops, cafes, and bakeries. 
+ Senior iOS Engineer 
+ $125k - $180k • 0.01% - 0.50% 
+ Location 
+ / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Odeko 
+ Odeko builds mobile ordering and supply chain management software for independent coffee shops, cafes, and bakeries. 
+ About the role 
+ Skills:  iOS, Swift 
+ Are you a top-notch engineer looking for a role where you will have a direct impact on the success of your company? Are you looking for a fun, new challenge where problem solving and innovation are necessary? If so, Odeko is the place for you! 
+ Odeko is a purpose-driven tech platform that provides mobile ordering and supply chain management tools for coffee shops, cafés, and bakeries. Founded in 2019 with offices and facilities in New York City and Charlotte, Odeko helps small businesses grow their revenue, lower supply costs, and reduce their overall waste. Odeko’s platform provides these businesses with the tools they need to grow, while focusing on their customers. 
+ At Odeko, we ship software that makes life better for our customers, so we rely on our team, culture, and tools to make sure that happens! We greatly value individual ownership and accountability, within the framework of a team. We truly care about our customers and their success, and we know you will too. And we pick the best tools for every job! 
+ Requirements: 
+ 
+ You have at least four years of experience building and supporting mission-critical, production applications on iOS devices 
+ You’re a committed team player and love to collaborate on solutions with others, both inside and outside of Engineering 
+ You have a track record of delivering high-quality software on time 
+ You’re motivated to improve the product and codebase beyond what’s expected 
+ You have strong design intuition and can empathize with users 
+ You have a strong sense of ownership and believe in only delivering high-quality software 
+ If you don’t know something, you find the answer 
+ 
+ Our tech stack is comprised of JavaScript, Vue.js, iOS (Swift), Android (Kotlin), Ruby on Rails, Haskell, and Servant on top of Kubernetes and AWS. 
+ Odeko is committed to building an inclusive, diverse team. We offer competitive benefits and the opportunity to truly grow. If this sounds good to you, we’d love to hear from you! 
+ Remote is great US work authorization is required No third-parties please 
+ Contact us at  [email protected] 
+ Technology 
+ Our stack is hosted on AWS, with two native mobile apps (Swift, Kotlin) and multiple web apps built primarily with Vue.js! 
+ Other jobs at Odeko 
+ Product Manager 
+ fulltime 
+ / Remote 
+ $75k - $90k 
+ 0.01% - 0.05% 
+ 3+ years 
+ Senior Front-end Developer 
+ fulltime 
+ / Remote 
+ Frontend 
+ $125k - $180k 
+ 0.01% - 0.50% 
+ 3+ years 
+ Senior iOS Engineer 
+ fulltime 
+ / Remote 
+ iOS 
+ $125k - $180k 
+ 0.01% - 0.50% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

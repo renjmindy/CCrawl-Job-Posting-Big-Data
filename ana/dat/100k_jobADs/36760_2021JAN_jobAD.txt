@@ -1,0 +1,35 @@
+Skip to content 
+ Search for: 
+ Nadav Zohar 
+ Menu 
+ 
+ Home 
+ Résumé 
+ Portfolio 
+ Thinking out loud 
+ Contact 
+ 
+ Category: Career/Goals/etc. 
+ July 11, 2020   Admin   Career/Goals/etc. ,  Customer experience ,  UX practice 
+ The Vicious Cycle of Recruiting With Unpaid Work 
+ The pandemic has left lots of people unemployed, including many UX professionals. Some companies are taking advantage of this situation to automate and scale their recruiting. (Historically this has been called " carpetbagging ", and it hasn't gone away.) I have seen one company even make the completion of unpaid work part of their application process: after an initial screening interview with a third-party recruiter, the applicant is sent a link to Usertesting.com, where he or she is asked to watch a video of a user interacting with the company's software and then evaluate the session. Applicants are not compensated for this work, which the recruiter told me takes about three quarters of an hour. 
+ Forty-five minutes of uncompensated work in exchange for a shot at a steady job might seem like an okay deal for someone just entering the field, or who is for other reasons desperate. But if ten people go through this process, then the company has received 7.5 hours of free labor. If 100 people go through this process, then they have received nearly two weeks of free labor. It becomes easy to see how the incentives become misaligned. 
+ When the prospect of being hired is drastically reduced, going through an application process like this is an unambiguously negative experience. Luckily, quality UX candidates have a passion for improving experiences. They want to work somewhere they can put this passion to use, which means a place where their recommendations will be taken seriously. A company that persists in putting people through bad experiences will ultimately fail to attract quality candidates; it's a vicious cycle. 
+ The unpaid work I described above was  ostensibly  meant to show the company how the candidate evaluates a usability session. Here are two alternatives to that kind of recruiting method: 
+ 
+ Pay applicants for the time they spend evaluating your usability sessions. That at least keeps the incentives more aligned and steers clear of unethical "carpetbagging" practices. 
+ Talk to candidates instead. Quality candidates will be willing to spend time interviewing, because an interview gives them visibility into the process they're participating in, realtime feedback about how they're doing, and a personal sense of who they're going to be working with. 
+ 
+ March 6, 2019March 12, 2019   Admin   Career/Goals/etc. ,  News 
+ What's in a name? 
+ Recently I changed my "branding" here and on LinkedIn to describe myself as an "experience researcher" -- as opposed to a UX, Usability, User, Human Factors, or other kind of researcher. This reflects an evolution in my thinking that's been going on for a couple years now, as I've meditated on how my strengths align with my goals and the things I'm interested in. This blog post is an attempt to summarize it, mostly for myself but also in case anyone's curious. 
+ For whatever reason, "UX" tends to connote users' interactions with software systems in particular, whereas I like to take a more holistic view in my work, and generally find other kinds of systems -- procedural, organizational, taxonomic, etc. -- more important and interesting anyway; software systems are but one component among these. So I stopped putting the term "UX" in front of "Researcher". 
+ In most industries, "Human Factors" has to do with the interactions between humans and a wider set of systems than just software, but there does seem to be a bit of an emphasis on hardware, so Human Factors is often lumped in with ergonomics. At my last job my title was Human Factors Associate, which reflected both the type of work I was doing and the mindset of that company. I admire that company and am proud of the work I did there, but I see my path going forward as somewhat different, and so "Human Factors" doesn't feel quite appropriate for me anymore. 
+ "User" tends to imply a machine or computer technology, whether hardware or software; it doesn't seem like the right term for someone who interacts with more nebulous types of systems such as onboarding or professional development. "User" also doesn't describe people experiencing change in the workplace (people aren't "users" of change), and that experience is what I see my work as anchored to. 
+ "Usability" is usually all about making things easier, quicker, lighter, more pleasant and learnable and understandable. This is obviously important and applies to everything from individual Word documents to massive interconnected software systems, and usability research is what my work is largely composed of, but like "user", the term "usability" doesn't seem to fit with how people experience less tangible kinds of systems or workplace change. 
+ What I ultimately realized is that all the work I'm doing has to do with people's experiences, and none of it doesn't, and so simply placing the word "Experience" before "Researcher" was the most accurate and succinct way to describe my professional self. I hypothesize it's also a fairly accessible term: people who are accustomed to thinking or reading about "UX", "Human Factors", "Usability", and so on will see "Experience Researcher" and have a reasonably accurate idea of what that means. (Do you agree?) 
+ Website Powered by WordPress.com . 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

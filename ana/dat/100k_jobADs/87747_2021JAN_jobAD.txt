@@ -1,0 +1,411 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Drupal 
+ 
+ Drupal Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Drupal Developer ? 
+ ](https://www.workana.com/hire/drupal) 
+ 5 months ago 
+ (Drupal, Magento, or Salesforce) Back-end Developer Job for a Globa... 
+ Published: 5 months ago  Bids: 1 
+ This role is for MRM/McCann, a global leading digital marketing agency. 
+ Currently looking for full-time QA Analyst (JD below), and for freelancers (kindly include your expected hourly rate and how many hours a week would you be able to commit) 
+ Job Description: 
+• Assure the quality of assigned digital projects through a combination of manual and automated test strategies. 
+• Help to better integrate QA to the overall agency process and ensure assigned projects meet functional requirements, design specifications, and brand guidelines. 
+• Work in partnership with technology teams to decompose projects into smaller testable components and advise project managers on documentation needs. 
+ • Perform all aspects of testing, including: functional, regression, user acceptance testing, exploratory, and smoke testing. 
+• Utilize test management platform, Zephyr, in collaboration with managers and developers to write test plans, design test cases, develop test scripts, test conditions, test procedures, and expected results. 
+• Use knowledge of systems and technologies, as well as troubleshooting skills, to investigate defects to determine potential causes of failed tests. 
+ • Carefully detailing issues within the defect tracking system (JIRA), adhering to established workflows. 
+• Actively participate in continuous practice improvement. 
+ Qualifications: 
+• 2-4 years of Quality Assurance and testing experience. 
+• Experience with testing across different devices, browsers, and operating systems (eg. Android, IOS, Windows) 
+• Experience with test case management and defect tracking tools (eg. 
+JIRA, Zephyr) 
+• Familiarity with web content management platforms (Sitecore - certification is a strong plus!). 
+• Understanding of API methods 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer, Other 
+ Other roles needed  : Quality Assurance 
+ Published by:  K. D. P. Philippines 
+ USD 100 - 250 
+ 5 months ago 
+ Sr. Drupal Developer 
+ Published: 5 months ago  Bids: 3 
+ PK is looking for a Sr. Drupal Developer that would like to help us in a migration project. 
+ Responsibilities 
+ •    Responsible primarily for extracting content from Drupal for a migration project 
+•    Create custom Drupal modules, leverage APIs and existing modules to build a custom content as a service layer 
+•    Collaborate with onshore, offshore and near-shore teams on work items with some time-zone overlap 
+•    Participate in discussions, own Drupal platform work items, propose Drupal design alternatives with recommendations and collaborate with lead architect on solution discussions 
+•    Work closely with broader team to understand Drupal current state architecture, ask smart questions that will lead the current state conversation 
+•    Create documentation on current approach in depth, as well as target state solution 
+•    Will be working as part of a larger team to migrate existing Drupal content to another CMS 
+ Qualifications 
+ •    Over 5 years of experience working on Drupal 
+•    Strong understanding of Drupal 7/8 or later version and the differences between those versions 
+•    Hands-on Drupal Lead Developer, heavily invested in the backend design and development on Drupal 
+•    Strong understanding of Drupal content structure, modules and content services that can export Drupal content, somewhat similar to a headless CMS 
+•    Strong understanding of Drupal nodes, content types, page structures, and underlying APIs 
+•    Ability to architect enterprise Drupal solutions including data, display, and information architecture 
+•    Have experience building custom services or used modules to export page content from Drupal 
+•    English communication skills: Advanced 
+•    Understanding of a headless architecture the Drupal-way will be great. 
+•    Understanding of other comparable CMS like WordPress, and ColdFusion will be great, but not required 
+•    Good with front-end development and theming along with back-end/module integration and development (php, html, css, js, jquery, etc.). 
+•    Solid understanding of Drupal themes and modules and functional extensions 
+•    Advanced site-building experience including deep familiarity with Drupal modules such as CTools, Views, and Panels 
+•    Working closely with the team and the customer to ensure an effective, visually appealing, and intuitive implementation 
+•    Designing and implementing new features and functionality, establishing and guiding the website’s architecture, ensuring high-performance and availability, and managing all technical aspects of the CMS 
+ In order to provide equal employment and advancement opportunities to all individuals, employment decisions at PK are based exclusively on merit. PK does not discriminate in employment opportunities or practices based on race, color, religion, sex, including gender identity and identity expression, national origin, age, or any other characteristic protected by law. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer, Other 
+ Other roles needed  : Hands-on Drupal Lead Developer with ability to architect enterprise Drupal solutions including data, display, and information architecture. 
+ Published by:  M. P. Mexico 
+ USD 1,000 - 3,000 
+ 7 months ago 
+ I Need my site to be revamped with new look and feel 
+ Published: 7 months ago  Bids: 3 
+ I Need my site to be revamped with new look and feel and a lot more product categories. Please visit the site ( https://www.onesociety.shop/home)  and study it. I need fresh ideas. 
+I'd need hosting too, any suggestions would be highly appreciated. 
+ I stumbled upon this site( https://thinkwebindia.com/)  and I liked the way this site has used the on screen real estate, i.e., The width of the page. Check their Portfolio section [ https://thinkwebindia.com/our-portfolio/] , I loved the way ther blog is shown, using the maximum possible width. The way these guys are showcasing their images, I Love it. 
+I want to display my product image gallery on every page like this [ https://thinkwebindia.com/portfolio/saviour-geo-location-enabled-peer-assistance-mobile-app/].   Details on the gallery can be discussed later once the job is finalized. 
+ I'd like something like this to be built but with ecommerce features. I need a payment gateway that works flawlessly in India. The site should be able to accept payment in multiple currencies, viz., 
+Indian Rupees, US Dollars, etc. I'll need to be apprised in advance of the charges, if any, from the payment gateway. 
+ Please respond with your quotes, estimated time to build and POA of the build! I'm attaching 3 images that are a demo setup shared to me by a freelancer. 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Create a new store 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Roles needed  : Designer, Developer, Design a landing page 
+ Published by:  C. J. India 
+ USD 500 - 1,000 
+ 7 months ago 
+ Drupal Youtube background player 
+ Published: 7 months ago  Bids: 0 
+ Hi Drupal devs, 
+I'm a D7 very occasional builder, beginner on D8-D9. 
+I'd like to display a hero containing a YouTube background video, thanks to a powerful library: 
+ https://github.com/pupunzi/jquery.mb.YTPlayer/wiki 
+ On D7, I already did it here:  http://www.randopays.fr 
+ What I need: 
+ - a drupal 8 module with a backoffice service where to setup some parameters 
+--- youtube video url :  https://youtu.be/D5A_aFdlWEs 
+or only D5A_aFdlWEs 
+--- Video quality : auto, 1080p, 720p, etc 
+--- Audio mute: on/off 
+--- CoverImage : default image to display in case the video is not displayed 
+--- Mask: transparent png image to display over the video 
+- ytplayer library should be 3.0+ version 
+- Toggle buttons play/pause 
+- other features possible according to dev skills. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  I. France 
+ USD 50 - 100 
+ 8 months ago 
+ Página web realizada en Drupal. 
+ Published: 8 months ago  Deadline: 60 Bids: 6 
+ I need a website designed and coded with the latest Drupal version. 
+ The website has to be finished to be pay. I will not accepted and will not pay for partial works. 
+ I need the admin be able to create roles, assign a specific role to some specific users (su), assign a specific language for each su: 
+a. Visitor is who goes to the website without login. 
+A1. 
+ User is who signs up. 
+ A2. Specific Users (SU) with privileges have to be able to create content on certain pages, depending the language assigned or the role assigned by the admin. SU will be able to log in into Drupal dashboard.  
+ 
+ I need the admin be able to create menus and sub-menus on the main bar. 
+I need the admin be able to create menus and sub-menus on the left site page and be able to change the position between them. 
+ The admin will be able to post new content and create other su, as well as give them different permissions as on which pages the su can post write, photos, records (mp3), videos or linked videos like to youtube. 
+ Responsive design 
+ The website has to be in English, Mandarin Chinese, Hindi, Bengali, Spanish, Arabic, Russian, Portuguese, French, Italian and Catalan. When the user land on the page, the language shown has to be the browser language. 
+Each language will has its own content, so its own pages. 
+ The emails sent to the users has to be on user's language. 
+ When necessary need to send a email, the email has to be on the user's language, which will be in one of the languages above written. The text of email is already written, even on different languages, but not on all of the languages. 
+ Banner: depending the browser language the banner has to be shown different pictures. The admin has to be able to add or delete pictures on each language. 
+ ReCAPTCHA v3 
+use: Less:  http://lesscss.org/  for all website even for Drupal dashboard. 
+ Once the website is already built and works well the website Performance Scores have to be above of : 
+PageSpeed Score A (95%)        YSlow Score: B (95%) 
+Tool to check website:  https://gtmetrix.com/ 
+ The URL to login into the Drupal dashboard should be  https://admin.dashboard.domain.com 
+SSL by:  https://letsencrypt.org/ 
+ A page to accept donations by.  https://stripe.com/docs 
+After the donation will be sent an email to the donor to let him knows about the donation, on the email should be shown the amount 
+ Bar design:  https://free-css-menu.com/variable-width-css-drop-down.html 
+ Each page will be explain at the time you need it, making sure all of them work well. 
+ It is very important the programmer has already worked with res api. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.), Other (Other APIs) 
+ Roles needed  : Designer, Developer, Business analyst 
+ Published by:  S. S. Last reply: 8 months ago  United Kingdom 
+ USD 500 - 1,000 
+ 10 months ago 
+ Upgrading, migration and fixes from Drupal. 
+ Published: 10 months ago  Bids: 6 
+ I need to migrate an existing content from a website to another with certain additional components such as upgrading, fixes and mobile responsiveness. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  N. R. Singapore 
+ Open 
+ 10 months ago 
+ Unity Frontend android/Ios Application connected to simple Php/Dru... 
+ Published: 10 months ago  Bids: 3 
+ Deliverable: 
+ Unity/C# Application - Simple 2D Scrolling world, with Menu, Settings, user feed of content, leaderboards, as well as access phone with QR scanner and Camera. 
+Drupal/PHP Web Application - Admin CMS Connected to app, can upload bio, text, picture, news, and polls, and feed item. 
+Database to store data. 
+ We will be able to purchase simple assets from the Unity store that will speed up delivery of the product and not come out of your budget. We can discuss the budget if it is reasonable. 
+ Requirements: 
+ Development of Front end Unity Application must be completed first and begin testing with content as first milestone. 
+Second milestone will be the ability to integrate the CMS with the  Front End Unity Application. 
+ Time Frame: 
+2-3 Weeks. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Game 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  J. M. Portugal 
+ USD 1,000 - 3,000 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

@@ -1,0 +1,6 @@
+ Qualifications: 
+ Extensive experience with Linux operating systems and automation (e.g. bash, scripting); 
+ Proficiency with HPC technologies including cluster schedulers such as Slurm; 
+ Experience with container technology such as docker and singularity; 
+ Experience deploying and operating software in a team environment, including understanding of modern development lifecycles; 
+ Practical experience with version control tools (such as git and GitHub); 

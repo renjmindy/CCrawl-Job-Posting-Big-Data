@@ -1,0 +1,187 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Full Stack Engineer 
+ [ 
+ PathAI 
+ ](/companies/pathai) 
+ Boston, MA, US 
+ 22 October, 2020 
+ Apply More jobs from PathAI About PathAI 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Django 
+ Python 
+ SOFTWARE DEVELOPMENT 
+ Software Engineer 
+ full stack 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Amazing office 
+ Free meals & snacks 
+ 
+ Come build and enhance our AI platform 
+ Role overview 
+ At PathAI, we're applying Machine Learning, Computer Vision and AI in amazing ways to pathology, healthcare, and detecting cancer and other diseases. We're applying our work to drug development, the clinical space, and as a global health initiative. Since it's early days for us, there's a lot of work to do and a lot of great product to build, and we recognize that a great, polished, engaging experience is critical to the success of everything we aspire to do. 
+ We're looking for skilled and experienced engineers to join our team and help lay the groundwork for our growing software platform. We believe in using the best tool for the job. While we’re always looking to improve, in this role, those tools currently include: 
+ 
+ Python/Django 
+ Django REST framework 
+ PostgreSQL 
+ VueJS 
+ 
+ If you're the right candidate, you'll be exercising all the skills you have and building new ones along the way: 
+ 
+ Solve interesting problems with code. 
+ Build new features for internal and external users, and refactor existing ones to make them better. 
+ Work with a wide range of systems, processes, and technologies to solve problems in sustainable ways. Sometimes you'll be neck-deep in low-level systems, and other times you'll be pairing up with the front-end team on the user interface. 
+ Drive the architecture of our application platform, considering the team and our future product roadmap. 
+ Collaborate with product, design, front-end, machine learning, and infrastructure teams. 
+ Drive and uphold high engineering standards, bringing consistency to the codebases you encounter and ensuring software is adequately reviewed, tested, and integrated. 
+ Mentor, learn, and share knowledge with others along the way. 
+ 
+ Requirements 
+ Our employees come in all shapes and sizes, but to be successful in this role with us, you'll at least need: 
+ 
+ Experience. You've been around the block a more than a couple times, typically via 5+ years of work in this field. 
+ Education. Generally, a bachelor's degree is really helpful in working with our team on this kind of work. But feel free to convince us if you're the exception. 
+ An insatiable intellectual curiosity and the ability to learn quickly in a complex space 
+ 
+ Benefits 
+ For the right candidate, we'll offer a competitive salary plus equity. Your compensation is rounded out by a strong benefits package: 
+ 
+ Flexible work hours, with work-from-home options available for many roles 
+ Three weeks of paid leave per year, an additional two weeks of sick time, plus extended holidays and team-approved leave 
+ Ten days of 100% subsidized childcare per year 
+ Healthcare, vision, and dental insurance plans (HMO or PPO), with voluntary add-ons available for dependent care, life, and accident coverage 
+ Commuter benefit available for public transit or parking 
+ Convertible sit-stand desks 
+ Weekly in-office yoga classes 
+ Free in-office lunch on Tuesdays and Fridays 
+ Snacks and drinks in the office – which currently include a mountain of Milano cookies, endless Fruit Snacks, as well as cold brew coffee and kombucha on tap, among many other options. Our in-house Snackologist is also happy to take your requests! 
+ 
+ Most importantly, you'll be doing important work with a team of people you'll genuinely enjoy spending the day with. 
+ PathAI is an equal opportunity employer, dedicated to creating a workplace that is free of harassment and discrimination. We base our employment decisions on business needs, job requirements, and qualifications — that's all. We do not discriminate based on race, gender, religion, health, personal beliefs, age, family or parental status, or any other status.  **  We don't tolerate any kind of discrimination or bias, and we are looking for teammates who feel the same way. ** 
+ 
+ [ 
+ PathAI 
+ ](/companies/pathai) 
+ 
+ 50-249 
+ 
+ PathAI's mission is to improve patient outcomes with AI-powered pathology. Our platform promises substantial improvements to the accuracy of diagnosis and the efficacy of treatment of diseases like cancer, leveraging modern approaches in machine learning. We are a company of diverse employees with a wide range of backgrounds and experiences. Our world class team is passionate about solving challenging problems and making a huge impact. Our office is located in the heart of Fenway. PathAI was recently voted one of Boston's Best Places to Work! 
+ Health Series B AWS Django Vue.js Postgress Amazing office Free meals & snacks 
+ View 1 job 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from PathAI About PathAI 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Django 
+ Python 
+ SOFTWARE DEVELOPMENT 
+ Software Engineer 
+ full stack 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Amazing office 
+ Free meals & snacks 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Backend EngineerCompetitiveNewtonXNew York, NY, US 
+ Join our small team to help design and develop the backend systems and infrastructure that power our platform! 
+ django google cloud python postgresql rabbitmq celery 
+ More Info Apply 
+ Senior Software Engineer - BackendCompetitiveHyperscienceUnited States of America 
+ We're looking to grow our Engineering Team with the addition of a Senior Backend Engineer. 
+ RemoteSponsorship 
+ sql api computer science django nosql object-oriented programming python 
+ More Info Apply 
+ Senior Data ScientistCompetitiveMission LaneRichmond, VA, US 
+ leverage data as an asset- building models, performing statistical analyses,& creating data-centric solutions 
+ python 
+ More Info Apply 
+ Full Stack Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

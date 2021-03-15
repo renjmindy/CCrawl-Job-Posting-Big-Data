@@ -1,0 +1,168 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Software Engineer II - Laboratory and Genomic Medicine (LGM) - 48926 
+ Washington University in St. Louis 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Software Engineer II - Laboratory and Genomic Medicine (LGM) - 48926 
+ __ Washington University in St. Louis 
+ [](mailto:?subject=Software%20Engineer%20II%20%2D%20Laboratory%20and%20Genomic%20Medicine%20%28LGM%29%20%2D%2048926&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/13895405/software-engineer-ii-laboratory-and-genomic-medicine-lgm-48926/ "Email")  
+ Application 
+   
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ September 12, 2020 
+ Location: 
+ St. Louis, Missouri 
+ __ Show Map 
+ Salary: 
+ Open 
+ EOE Statement: 
+ Washington University is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity or expression, national origin, genetic information, disability, or protected veteran status. 
+ Job Type/Schedule: 
+ This position is full-time and works approximately 40 hours per week. 
+ Department Name/Job Location: 
+ This position is in the Department of Laboratory and Genomic Medicine (LGM). The position is located at 4444 Forest Park. This position is for the Medical School Campus. 
+ Essential Functions: 
+ POSITION SUMMARY: 
+ This position provides technical and analytical work to develop, design, and/or support applications for research and clinical functions of scientists and clinicians.� Employees participate in the design and development of informatics solutions using software engineering expertise to include maintenance, modification, or novel implementation of complex inter-related applications/solutions.� Solutions link technical knowledge with research and/or clinical solutions and involve participating in design and development, and implementation of simple single systems or interfaces that inter-connect enterprise applications.� Duties include participating in designs, developing code based on the architecture and technical design finalized and approved by more senior technical staff, creating and performing unit tests, mentoring junior software engineers and other technical staff and students, and playing a more active role in test case planning for components and functions developed by the employee. Employees should be able to work independently with minimal supervision. 
+ PRIMARY DUTIES AND RESPONSIBILITIES: 
+ 
+ Applies fundamental knowledge of software engineering principles (e.g., object-oriented programing and n-tiered application design) and core concepts (e.g., data structures, algorithms, computer architecture, operating systems, and databases) to write original software to meet research-based needs. 
+ Applies scientific and mathematical concepts in the design of single software applications or interfaces. 
+ Applies scientific and mathematical concepts to ensure sound implementation of software based on design and architecture approved by more senior technical personnel. 
+ Applies core computer science concepts in the development, testing, and documentation of software units. 
+ Maintains and enhances client and web-based applications using enterprise scale languages/tools such as Java, Grails, Spring, Java Script, Hibernate, WildFly, ajax, HTML and XML. 
+ Participates in the identification of and comprehension of new technologies to develop prototypes or working code in existing applications using such novel technologies. 
+ Mentors junior software engineers and other technical staff and students in computer science-related tasks. 
+ Participates as a member of the technical team in the review of new features of an existing application or of requirements and use cases of a novel application or interface. 
+ Participates as a member of the testing team to plan test cases within components developed by the employee and review test cases proposed by more junior technical staff. 
+ Participates in code reviews of more junior technical staff under the supervision of more senior technical staff. 
+ 
+ Required Qualifications: 
+ Bachelor’s degree in computer science or related field with a minimum of two years of relevant experience in Information Technology.� 
+ Preferred Qualifications: 
+ 
+ Bachelor’s degree in Computer Science or any other Engineering disciplines with minimum five years of experience in application development and programming. 
+ Experience in Java programming and Web application development is desirable. 
+ Experience in working with Oracle database and Java Grails Framework will be a plus. 
+ 
+ Salary Range: 
+ The hiring range for this position is $56,472 - $73,403 annually. 
+ Pre-Employment Screening: 
+ All external candidates receiving an offer for employment will be required to submit to pre-employment screening for this position. Current employees applying for a new position within the university may be subject to this requirement. The screenings will include a criminal background check and, as applicable for the position, other background checks, drug screen, employment and education or licensure/certification verification, physical examination, certain vaccinations and/or governmental registry checks. All offers are contingent upon successful completion of required screening. 
+ Benefits: 
+ This position is eligible for full-time benefits. Please click the following link to view a summary of benefits:  https://wustl.box.com/s/8wkhs25yssf0775x9d6nd6vqa7obpth7 . 
+ Internal Applicant Instruction: 
+ This position is grade G12. 
+ Please attach a copy of your most current signed performance evaluation (completed within the last 18 months) to your online account. If you have not received a performance evaluation, you may provide two current signed letters of recommendation (written within the last 18 months), preferably to include one letter from either a current or recent former supervisor. To attach these documents, go to: My Career Tools, Add Attachment, Attachment Type – Performance Reviews or Letters of Recommendation. 
+ Applicant Special Instructions: 
+ 
+ Standard computer department working environment with standing, walking, and lifting less than 50 pounds required. 
+ A moderate amount of work performed at customer site. 
+ 
+ 
+ 
+ Internal Number: 48926 
+  __  Create a Job Alert for Similar Jobs  
+ About  Washington University in St. Louis 
+ Washington University in St. Louis, a medium-sized, independent university, is dedicated to challenging its faculty and students alike to seek new knowledge and greater understanding of an ever-changing, multicultural world. The University offers more than 90 programs and almost 1,500 courses leading to bachelor's, master's and doctoral degrees in a broad spectrum of traditional and interdisciplinary fields, with additional opportunities for minor concentrations and individualized programs. The faculty is composed of scholars, scientists, artists and members of the learned professions. They serve society by teaching; by adding to the store of human art, creativity, understanding, and wisdom; and by providing direct services, such as health care. 
+ Connections working at  Washington University in St. Louis 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

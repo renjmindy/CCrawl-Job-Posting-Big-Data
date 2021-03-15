@@ -1,0 +1,57 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ GOAT Group (W11) 
+ Platform for the greatest products from the past, present and future. 
+ Senior Backend Engineer 
+ 
+ Location 
+ Los Angeles 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About GOAT Group 
+ GOAT Group represents the leading platforms for authentic sneakers, apparel, and accessories. Operating two distinct brands – GOAT, the global platform for style and Flight Club, the original sneaker consignment store – GOAT Group has a global community of over 25M members across 164 countries. The greatest selection from the past, present and future are displayed on company-operated mobile apps, e-commerce sites and retail stores. Through its innovative technology and service, GOAT Group has changed the landscape of commerce, converging the primary and resale markets. 
+ About the role 
+ Skills:  Ruby on Rails, Amazon Web Services (AWS), Go, Ruby 
+ With over 20 million members, GOAT Group is a global platform for style. The GOAT Engineering team builds and maintains the core services of our platform, which serve as the backbone for our web, mobile, and internal applications. 
+ We are looking for an experienced Senior Engineer to help design and implement new features across multiple backend applications. As a senior presence and a core individual contributor on a small team, you will play a key role in both enhancing a Ruby on Rails backend at the heart of the business and building out a new, more scalable service-driven architecture. 
+ As a Senior Engineer, you’re expected to: 
+ Tackle projects and problems of significantly larger scopes Formulate an efficient game plan for delivering a stable, well-tested feature on time Make technical decisions that improve the codebase while minimizing risk Identify and fix (or, ideally, avoid) bugs and performance bottlenecks Coordinate and communicate seamlessly across other technical and product teams Be a helpful and supportive presence on the team, contributing to code reviews and other team process 
+ We’re looking for: 
+ BS degree preferred 5+ years of experience in software engineering with Ruby on Rails (Python, Go, PHP, or Java is ok too) Experience with e-Commerce/Web Applications Familiar and comfortable with the technologies, the tradeoffs, and the design patterns emerging in web services A quick learner, a self-starter, able to work independently, and you're willing (and able) to handle the pressures of an increasing level of responsibility 
+ GOAT is the global platform for style. Founded in 2015 to bring trust to the sneaker community, the technology platform has since expanded to offer apparel and accessories from the world’s leading contemporary, avant garde and luxury brands. Through its unique positioning between the primary and resale markets, the company is able to surface styles from the past, present and future, delivering authentic product to over 20M members across 164 countries. 
+ The company is backed by strategic investor Foot Locker, Inc. as well as some of the leading names in venture capital including Accel, Andreessen Horowitz, Index Ventures, Matrix Partners, Upfront Ventures, Webb Investment Network and Y Combinator. 
+ GOAT Group will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance, if applicable. If you are a California resident, please review our California Privacy Rights Notice for Job Applicants. 
+ Technology 
+ GOAT’s cutting edge authentication processes leverage AI and machine learning to prevent counterfeits on the platform. In 2019, GOAT Group prevented over $72M in counterfeit sneaker transactions. GOAT fuels its proprietary AI and machine learning authentication systems by collecting multiple data points on every style that has been listed on the platform 
+ Other jobs at GOAT Group 
+ Senior Android Engineer 
+ fulltime 
+ Los Angeles, CA, USA / Remote 
+ Android 
+ 3+ years 
+ Senior Frontend Engineer 
+ fulltime 
+ Los Angeles, CA, USA 
+ Frontend 
+ 3+ years 
+ Senior Backend Engineer 
+ fulltime 
+ Los Angeles 
+ Backend 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

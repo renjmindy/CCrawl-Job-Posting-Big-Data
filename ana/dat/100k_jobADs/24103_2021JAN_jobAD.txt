@@ -1,0 +1,123 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Legalist (S16) 
+ Tech-enabled legal asset manager 
+ Litigation Investment Counsel 
+ $115k - $145k • 0.00% - 0.00% 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Legalist 
+ We are on a mission to change the way that legal disputes are resolved by financing attorneys and plaintiffs who can't afford the high costs of litigation, leveling the playing field, and moving the legal system to more equitable outcomes. We fund lawsuits, and we want to see plaintiffs with meritorious lawsuits get justice. We're a team of engineers, lawyers, finance gurus, and data scientists who make real-time investment decisions in a fast-paced environment. 
+ About the role 
+ About Legalist 
+ Legalist  is the world’s first AI legal asset finance firm. We source, underwrite, and invest in the best litigation-related situations aided by cutting-edge artificial intelligence technology. We recently closed our second fund, and we’re disrupting a booming new asset class, backed by top VC’s, including Y Combinator, David Lee and Alexander Tamas. Legalist continues to grow rapidly and we’re looking to continue to reinforce our business and philosophy as we expand our team. Could this be you? 
+ We’re hiring an  Investment Counsel  to help us deploy our latest litigation finance fund. You’ll join a kickass team of lawyers, engineers, and data scientists to make real-time decisions in a fast-paced environment. If you’re an incredible litigator, and interested in building the future by bridging law, technology, and finance, Legalist might be for you. 
+ Core responsibilities 
+ As Investment Counsel, you’ll be our unsung hero on the front lines performing last-mile diligence on cases, assessing their merits, damages, collectability, and other assorted risks. Our small legal team is augmented by our proprietary technology to make your job easier. 
+ 
+ Legal research and due diligence on investment opportunities  We’re looking for someone who has an eye on every possible angle of litigation. Once onboarded, you’ll find that we’re a team of diverse problem solvers who are driven to help our clients succeed. 
+ Preparation of investment memos  You’ll vet winning investment opportunities, discern if your recommendations are justifiably worth pursuing, and advise the investment committee on real-time investment decisions. You’ll work closely with our General Counsel to make final investment decisions on cases, so collaboration skills are a must. Bonus points if you’re a natural proofreader, extremely thorough, with a quick eye to catch typos. 
+ Translate legal knowledge into automation  As you’ll be client-facing, the ability to communicate legal terms without sounding intimidating (okay, maybe a little), nor confusing should be exciting for you. Once onboarded, you’ll also work with our engineering team to help build better technology to support our business goals. You should want to communicate your expertise like you’re doing a Ted Talk. 
+ 
+ Required experience for the role 
+ 
+ J.D. from a top 20 law school 
+ 4+ years of experience at a mid-size firm 
+ 1+ trials chaired 
+ 
+ Please note: litigation experience only; corporate law experience is not necessary. 
+ Helpful skills and traits for this role 
+ 
+ Specialty experience in one (or more) of the following areas:
+ 
+ Intellectual property 
+ Whistleblower claims 
+ Antitrust 
+ Class actions 
+ Mass Torts 
+ 
+ 
+ Clear and concise written skills with an ability to distill and communicate complexities. 
+ 
+ Technology 
+ Technology is the core of our business. We have developed sourcing and diligencing tools that allow us to underwrite thousands of lawsuits at scale. The platform is powered by GCP and AWS, and is composed of a central PostgreSQL database, a django application, and many micro-services. 
+ Our goal is to improve the current platform by introducing new technologies and methodologies to our development process. Our engineers work closely with our business and underwriting teams to improve their ability to service our clients. 
+ Candidates should expect to take ownership over their own projects and to have the latitude and ability to solve complex issues, take ownership of them and execute and deliver. Our extremely diverse team spans legal, finance, engineering, and operations and works on the cutting edge of the legal industry. 
+ Other jobs at Legalist 
+ Sales Representative 
+ fulltime 
+ Remote 
+ $40k - $70k 
+ 1+ years 
+ Sales Representative/Account Manager 
+ fulltime 
+ Remote 
+ $45k - $60k 
+ 0.00% - 0.00% 
+ 1+ years 
+ Sales Representative/Account Exec 
+ fulltime 
+ Remote 
+ $45k - $60k 
+ 0.00% - 0.00% 
+ 1+ years 
+ Sales Rep (Investments) 
+ fulltime 
+ Remote 
+ $45k - $60k 
+ 0.00% - 0.00% 
+ 1+ years 
+ Sales Representative 
+ fulltime 
+ Remote 
+ $45k - $60k 
+ 0.00% - 0.00% 
+ 1+ years 
+ VP of Sales 
+ fulltime 
+ Remote 
+ $100k - $160k 
+ 0.00% - 0.00% 
+ 6+ years 
+ Sales Rep/Account Manager 
+ fulltime 
+ Remote 
+ $45k - $60k 
+ 0.00% - 0.00% 
+ 1+ years 
+ Account Executive 
+ fulltime 
+ Remote 
+ $45k - $60k 
+ 0.00% - 0.00% 
+ 1+ years 
+ Litigation Investment Counsel 
+ fulltime 
+ Remote 
+ $115k - $145k 
+ 0.00% - 0.00% 
+ 6+ years 
+ Senior / Lead Product Manager 
+ fulltime 
+ Remote 
+ $100k - $140k 
+ 0.00% - 0.20% 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

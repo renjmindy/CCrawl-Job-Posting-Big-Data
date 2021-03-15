@@ -1,0 +1,131 @@
+Skip to content 
+ 
+ InterMine 
+ Open source data warehouse system for the integration and analysis of biological data. 
+ Menu and widgets 
+ Search for: 
+ Tags 
+ 
+ Authentication 
+ availability 
+ beany mines 
+ BioJS 
+ bioschemas 
+ BiVi 
+ blazegraph 
+ bluegenes 
+ bosc 
+ cdn 
+ community 
+ community call 
+ community tools 
+ conference 
+ Cross InterMine Search 
+ data browser 
+ Developer conference 2017 
+ downtime 
+ Events 
+ FAIR 
+ FlyCAGE 
+ FlyMine 
+ grant writing 
+ graph databases 
+ gsoc 
+ GSoC 2017 
+ GSoC 2018 
+ GSoC 2019 
+ GSoC 2020 
+ GSoC Final Project 
+ HumanMine 
+ InterMine 
+ InterMine 2.0 
+ intermine Boot 
+ InterMine Model 
+ InterMineR 
+ internships 
+ interview 
+ iOS 
+ javascript 
+ maintenance 
+ MOLD 
+ motif search 
+ neo4j 
+ New build 
+ new datasources 
+ News 
+ open access 
+ opencon 
+ openconcam 
+ open data 
+ open science 
+ open source 
+ outage 
+ Outreachy 
+ Outreachy 2020 
+ Outreachy blogs 
+ python 
+ R 
+ registry 
+ Release notes 
+ releases 
+ request-for-feedback 
+ science festival 
+ semantic web 
+ similarity 
+ Software Development 
+ Solr 
+ student-post 
+ targetmine 
+ teaching science through crime 
+ usability 
+ visualisations 
+ wheretofindus 
+ whodunit 
+ 
+ Recent Tweets 
+ My Tweets 
+ Our Projects 
+ 
+ BlueGenes 
+ 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 928 other followers 
+ Email Address: 
+ Follow 
+ Where to find us 
+ Department of Genetics 
+University of Cambridge 
+Downing Street 
+Cambridge 
+Cambs CB2 3EH 
+United Kingdom 
+ Category Cloud 
+ bluegenes   community   Conferences   Cool Stuff Roundup   ELIXIR   Events   Flymine   gsoc   HumanMine   InterMine   InterMOD   internships   Interviews with InterMiners   KTP   maintenance   News   Outreachy   Projects   Release notes   Software Development   Uncategorized 
+ InterMine Mobile 
+ 
+ Tag: careers 
+   
+ Research software engineering as a career, #RSE2018, and programming languages as poetry… 
+ Research software engineering as a career path 
+ What is an RSE (Research Software Engineer), you may ask? It's a role that has existed for decades, but has only been using this name for a few years. As RSEs, we tend to be software engineers who work in academia, or perhaps academics who write production-ready code - or maybe both. 
+ A common theme seems to be universities establishing RSE groups who work in consultancy-style ways - academics who have code, or have a need for code, approach the groups and are helped through their tasks, whether it be refactoring some old/messy/slow code, providing suggestions, or writing code to make their research easier. The RSE group may also provide training in programming languages, version control, best practices and other relevant computational basics that ease the needs of researchers. 
+ Whilst I think most or all of us at InterMine would consider ourselves to be RSEs, we don't really fit this model - we all write code, we all contribute to papers, but all of our sub-projects and work focus around a single primary project - some of us are working to  make InterMine more FAIR , others to make it easy to  launch InterMine on the cloud , but it's still all InterMine. I'm sure we're not the only group like this, and it makes me wonder if there should be names for the different flavours of RSE groups out there. Central RSE groups vs. dedicated RSE groups? Consultancy / support / advocacy RSEs vs. RSE specialist groups? I'm not sure if any of these are quite right, and I'd be curious to hear what others think. 
+ RSE 2018: a grassroots conference for research software engineers 
+ Moving on from musing about job titles, though - a bit about the recent conference.  RSE2018  is the third annual UK conference for Research Software Engineers, but it's the first time I've attended, personally. It made a change to have a conference where everyone around was working in research and software development, but not all of it was open source or bioinformatics related. I relished the chance to meet and discuss career paths with others, and enjoyed perhaps too much when the late-night conference dinner descended into attempts to assign poetry genres to different programming languages. Java is obviously  epic poetry , but others get trickier. Terse Clojure might be a  haiku , and perhaps Python, with its structured whitespace, is a form of  concrete poetry ? 
+ The conference keynotes varied - there was an introduction to a digital humanities project,  Oracc , which hosts annotated and transcribed  cuneiform , we were introduced to the Microsoft Hololens and some of the challenges and history of its creation, a talk about Google Deepmind, and I particularly enjoyed the keynote talking about the sustainability of research software. Given how chaotic dependencies make everything, it's no wonder that maintaining software takes a significant amount of time and money! 
+ 
+ You could think of software dependencies like ripples on rainy water: all spreading out and interacting, becoming beautiful chaos as ripples interact with one another, say  @jameshowison . 
+ Oh yes, I like this description.  #RSE18 
+ -- yo yehudi🏳️‍🌈🇪🇺 (@yoyehudi)  September 4, 2018 
+ 
+ There were some hands-on tutorials and workshops, but I mostly attended RSE-community related sessions. A couple that stood out to me, in no particular order: 
+ 
+ Diversity in recruiting RSEs. We had speakers from Microsoft talking about their efforts to make their research staffing pool more diverse, which included gruelling-sounding half-days sessions where candidates were interviewed by four different interviewers in an attempt to remove bias. Somewhat entertainingly, the room this was conducted in -  the senate chamber  - had red throne-like seats and eight large portraits on the walls, every single one depicting an older white male. The irony was not lost upon the session attendees! 
+ The RSE community AGM. Rather than being an informal gathering of individuals, the UK RSE group will soon be  re-launching as an official society  that members can join for a nominal fee. The AGM gave us a chance to hear about some of their plans (you can  sign up to hear about the launch date ), as well as the opportunity to share your wish list of likes, dislikes, and comments on the activities the group performs. I'm looking forward to interacting with the society and seeing where they head! 
+ 
+ It's a conference I'd definitely like to attend again. If you missed out, you can catch up with many of the relevant points on twitter, under the hashtag  #RSE18 . 
+ Posted on  2018-09-07 Author  yoyehudi Categories  Conferences Tags  careers ,  research software engineering ,  RSE18 ,  RSE2018 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

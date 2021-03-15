@@ -1,0 +1,18 @@
+ **Responsibilities & Qualifications: ** 
+ Position Responsibilities: 
+ Spearhead security strategy/implementation throughout the software lifecycle through design, implementation to deployment and support 
+ Work with stakeholders to develop/implement an application security strategy 
+ Assist other technology teams in assessing the security of the platform including: 
+ Contribute to relevant design and code reviews 
+ Certifications in Application Security and Penetration Testing preferred (such as OSCP, OSCE, OSWE, CEH, CISSP, etc.) 
+ Proficient technical skills in several of the following: 
+ Development languages: C/C++, Java, Javascript, Python, etc. 
+ Application architectural patterns (micro-services, service-oriented, event-driven, etc.) 
+ IP networking, firewalls, network security rules, etc. 
+ Cloud computing technologies and delivery patterns (PaaS, IaaS, serverless, etc). 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 

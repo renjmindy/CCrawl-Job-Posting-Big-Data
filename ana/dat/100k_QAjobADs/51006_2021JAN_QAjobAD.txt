@@ -1,0 +1,6 @@
+ Required Qualifications: 
+ At least 5 years of experience in the industry 
+ Strong grasp of fundamentals: linear algebra, finite state machines, discrete and continuous optimization, supervised and unsupervised methods, generative and discriminative methods. 
+ Masters Degree in Computer Science or other relevant areas. PhD preferred. 
+ Expertise in one or more focus areas or their subfields: acoustic modelling, language modelling, audio-visual ASR, deep learning, graphical models, search, model compression, multi-task learning, etc, 
+ Extensive experience with deep learning frameworks Tensorflow, Caffe, PyTorch, Theano, etc (any of them) 

@@ -1,0 +1,118 @@
+Telliamed Revisited 
+ Skip to content 
+ 
+ Home 
+ Science 
+ Education 
+ Old Books 
+ Humor 
+ About 
+ 
+   
+ Tag Archives: job market 
+ December 16, 2013 * 12:55 pm 
+ Lenski Interview with The Molecular Ecologist 
+ John Stanton-Geddes  asked me some great questions for a series on “People Behind the Science” at  The Molecular Ecologist  blog. He gave me permission to repost  the interview  here. 
+ 1) Did you always think you’d become an evolutionary biologist? 
+ No! I always enjoyed being outdoors (sports and hiking), but I didn’t have any particular interest in biology. However, my  mother  (who dropped out of college when she married, but then co-authored a sociology textbook with my  father ) was very interested in biology. She would give me articles she had read and enjoyed from  Natural History  and elsewhere. 
+ I went to  Oberlin College , where I thought that I might major in government. But I disliked my first government class. I also took a team-taught biology class for non-majors. All of the instructors spoke on topics about which they cared deeply, and I was hooked! I took more biology courses, and I was especially drawn to ecology because there were so many ideas and questions. At that time, I wrongly viewed evolutionary biology as a more descriptive, old-fashioned field with fewer questions that one might still address. (By the way, several other evolutionary biologists were at Oberlin when I was there including  Deborah Gordon ,  Joe Graves ,  Kurt Schwenk , and  Ruth Shaw . Not bad for a small school!) 
+ I went to graduate school at the University of North Carolina, where  Nelson Hairston, Sr. , was my advisor. Nelson was interested in the interface of ecology and evolution, and that opened my eyes. I was also influenced by  Janis Antonovics , then at Duke University. I took his Ecological Genetics course, and he served on my committee. Janis had  written a paper  in which he argued that “The distinction between ‘ecological time’ and ‘evolutionary time’ is artificial and misleading.” That really got me thinking. I tried to develop a couple of field-based projects that would address evolutionary questions, but I didn’t know what I was doing and they failed. In the end, my dissertation project was pure ecology. 
+ By then, though, I knew I wanted to pursue evolutionary biology. While we were finishing our doctoral projects, a fellow grad student  Phil Service  and I spent a lot of time discussing model systems for studying evolution. For his postdoc, Phil chose to work with  Drosophila . I recalled an undergrad course in which we read about elegant experiments with microbes that addressed fundamental questions, such as one by  Salvador Luria and Max Delbrück  showing that mutations happen at random and not in response to selection. Meanwhile, in a graduate seminar, we  read a paper  by  Lin Chao  and  Bruce Levin  on the  coevolution of bacteria and viruses . I wrote Bruce to ask if he might have an opening for a postdoc. Lucky for me, Bruce knew Nelson and invited me for a visit. 
+ 2) You’ve described the theme of your research as “the tension between chance and necessity”. Can you comment on how chance and necessity have shaped your career? 
+ The ancient Greek philosopher  Democritus  said, “Everything existing in the universe is the fruit of chance and necessity.” In my  long-term evolution experiment with  E. coli , we can explore the tension between chance and necessity because we have replicate populations started with the same ancestor and evolving under identical conditions, and because we can replay evolution from different points along the way. But it’s difficult, if not impossible, to tease apart the roles of chance and necessity with a sample size of one, which is the life that each of us has experienced, and without the ability to replay our own lives. (On that last point, let me recommend  Replay , a science-fiction novel by Ken Grimwood.) 
+ I would say, though, that most people who have had some success in their adult lives also started out very lucky. We were fortunate to be born at times and in places where we had food, familial love, education, and opportunity. 
+ 3) Reading your blog it’s clear that you are a student of the philosophy and history of science. Do you think we should include more history and philosophy in scientific training? Any advice on something we should all go out and read? 
+ I do think that the history and philosophy of science deserve more emphasis in science and education than they usually receive. But I didn’t have any formal education in those areas. Instead, I became interested in these issues through teachers, mentors, colleagues, and my own explorations. 
+ For something to read in this area, I suggest  Darwin’s Century  by  Loren Eiseley . (Originally published in 1958, it was republished in 2009 by Barnes & Noble.) The book discusses the fascinating history of evolutionary thought in the decades before and after the publication of  The Origin of Species . I first read  Darwin’s Century  in a course at Oberlin taught by  James Stewart . 
+ 4) If you were starting your career today, what would you study? 
+ If I were starting today,  and at my present age  , I might choose to study the history of science, especially evolutionary biology and its antecedents. 
+ But if I were starting out young, as one usually does, I’d like things to unfold as they did. It might be tempting to skip the rough patches, but dissatisfaction with my early research led me to make the switch to microbial evolution. Would I have enjoyed this lab-based work as much, if I hadn’t discovered that I was not nearly as good at fieldwork as many of my peers? 
+ 5) How close have you come to giving up as a researcher and doing something completely different? 
+ The job market was tough when I was a postdoc, and I had a growing family to support. So after a slew of applications and rejections, and a period of uncertain funding, I started to think about other possibilities. Luckily for me, things turned around before I had to make a switch. (You can read more about it in my blog post,  The Good Old Days .) 
+ 6) What’s the meaning of life? 
+ I think that some understanding of evolution—at a basic level accessible to anyone with an open mind and a decent education—gives perspective about our place, both as individuals and as a species, in the grand sweep of time and space. Recognizing the transience of my personal existence fills me with awe and respect for the continuity of life and ideas. And belonging to a species that is profoundly altering the world that enabled the continuity of life reminds me of our responsibility for ensuring its future. 
+ 2 Comments 
+ Filed under  Science 
+ Tagged as  academic life ,  blogging ,  Bruce Levin ,  chance and necessity ,  ecology ,  education ,  evolution ,  family ,  history of science ,  Janis Antonovics ,  job market ,  LTEE ,  luck ,  mentoring ,  microbiology ,  Nelson Hairston ,  Oberlin College ,  replays ,  science ,  time travel ,  work-life balance 
+ December 10, 2013 * 6:41 am 
+ An Alternative to Schekman’s Boycott of Luxury Journals 
+ In a provocative  op-ed that appeared in The Guardian , Nobel Laureate Randy Schekman says that he and his scientific team will “avoid” luxury journals, and he “encourage[s] others to do likewise”. In effect, Prof. Schekman is calling for scientists to boycott  Science  ,  Nature  , and  Cell  , probably the three most prestigious scientific journals in the world. 
+ Prof. Schekman raises some important issues about scientific publishing—ones that are receiving more and more attention as scholars and publishers alike experiment with new modes and models for publishing. 
+ But Prof. Schekman’s biggest concern seems to be with the problems that “luxury” journals (or ‘glam’ journals, as they’re called on Twitter) create in terms of excessive attention and inappropriate incentives. These are important issues, too, but I think there are some flaws in his argument. 
+ Prof. Schekman compares luxury journals and the problems they create with Wall Street’s out-sized bonuses and the problems they’ve caused for the financial system. That certainly grabs attention. 
+ Prof. Schekman is a professor at the University of California, Berkeley, one of the luxury universities. Here’s the title and one key paragraph from his opinion piece: 
+ “How journals like Nature, Cell and Science are damaging science” 
+ “These luxury journals are supposed to be the epitome of quality, publishing only the best research. Because funding and appointment panels often use place of publication as a proxy for quality of science, appearing in these titles often leads to grants and professorships. But the big journals' reputations are only partly warranted. While they publish many outstanding papers, they do not publish only outstanding papers. Neither are they the only publishers of outstanding research.” 
+ Now let’s make a few small changes. I don’t think the words I’ve substituted are any less true than those that Prof. Schekman wrote. I’ve changed only those words in italics: **** 
+ “How  universities  like  Harvard, Caltech, and Berkeley  are damaging science” 
+ “These luxury  universities  are supposed to be the epitome of quality,  training  only the best  students . Because funding and appointment panels often use place of  degree  as a proxy for quality of science,  obtaining degrees from these institutions  often leads to  fellowships  and professorships. But the big  universities’  reputations are only partly warranted. While they  produce  many outstanding  scientists  , they do not  produce  only outstanding  scientists . Neither are they the only  producers  of outstanding  scientists .” 
+ So, will Prof. Schekman and his group also avoid luxury universities, and will he encourage others to do the same? 
+ [EDIT: ADDED 1:30 PM] Let me be clear: I am  not  suggesting that these universities should be boycotted. Rather, I simply want to point out that there  many  dimension of "luxury" and "glamor" in science (as in life more generally), and these can distort attention and incentives. I'm not convinced that boycotts are the best way to address the underlying issues with respect to either journals or universities. 
+ [EDIT #2: ADDED 1:35 PM] Let me also say I think  eLife  is off to a great start, with some new ideas on how to improve scientific publication. I wish Prof. Schekman and the journal every success. 
+ 17 Comments 
+ Filed under  Science ,  Uncategorized 
+ Tagged as  academic life ,  competition ,  education ,  incentives ,  job market ,  journals ,  publication ,  science ,  social media ,  twitter 
+ September 9, 2013 * 11:08 pm 
+ The Good Old Days 
+ I started applying for faculty jobs in 1983, after about a year and a half as a postdoc. The job market was tight then, as the US was coming out of a deep recession. (Sound familiar?) And faculty jobs in microbial evolution simply didn’t exist in those days. So I applied for any and all positions that had anything to do with ecology or evolution, whether at big universities, small colleges, or anywhere else. The first year I sent out around 75 applications, as I recall. And I do mean sent out, because in those days applicants had to copy things and mail them. I had one interview, but no offer. Meanwhile,  Bruce Levin ’s grant that was going to support me going forward got rejected. 
+ My wife and I had one child, and our second was on the way. I wasn’t panicked, although maybe I should have been! However, I did start vaguely thinking about back-up plans. I was good with numbers, and I’d written a couple of papers on the  analysis of life-table data with Phil Service  when we were grad students. So when I saw an announcement for some talk on actuarial analysis, it caught my eye. I thought that might be a possible alternative career. I went to the talk, and I might even have gotten a business card from the speaker. 
+ In the months ahead, Bruce revised and resubmitted the grant and, thankfully, it was funded, so I was secure for a while longer. The next year, I again sent out applications far and wide. I had a couple more papers, so my CV was stronger and the economy was improving, too. I got three interviews and, with my postdoc secure, I actually declined another one. However, the interviews were near the due-date for our second child, so I worried that I might have to cancel (and reschedule, if they’d allow it) the interviews. Luckily, #2 arrived in time. So I left my wife at home with a 10-day old baby and a toddler … and took off for back-to-back-to-back interviews. Soon after I got home, I got two job offers on the same day. (When it rains, it pours.) One offer was from UC-Irvine, and that’s where we went after deferring the start for a year so I could get more research done as a postdoc. 
+ I see there’s a lot of angst out there about the job market in academics. And rightfully so. Positions are scarce, and the competition is extraordinary. I feel fortunate that I got a very good faculty position to start my career. Things  were  tough back in the day, but they are much tougher now. I admire all of you who are pursuing your dreams, but it never hurts to consider a backup plan – whether you need to use it or not. There are, after all, many roads to happiness and success. 
+ 12 Comments 
+ Filed under  Uncategorized 
+ Tagged as  academic life ,  Bruce Levin ,  family ,  job market ,  luck ,  work-life balance 
+ 
+ 
+ Follow This Blog 
+ 
+ 
+ Enter your email address to receive notifications of new posts by email. 
+ Join 464 other followers 
+ Email Address: 
+ Follow 
+ 
+ 
+ Recent Posts 
+ 
+ An Engineering Perspective on Accelerating Vaccine Distribution 
+ They're back! 
+ Six Months 
+ How to Write a Response to Reviewers in Ten Easy Steps 
+ Words of Wisdom for the Next Pandemic? 
+ Celebrating Black in STEM 
+ Five More Years 
+ 
+ 
+ 
+ Tags 
+ 
+ 
+ academic life   adaptation   BEACON   behavior   beneficial mutations   blogging   book reviews   Bruce Levin   Charles Darwin   competition   coronavirus   COVID-19   Darwinian medicine   Devin Lake   disease   diversity   Dom Schneider   ecology   education   epidemiology   evolution   experimental evolution   experimental methods   family   fitness   freezer management   frequency-dependent selection   genetics   genomics   giving talks   history of science   humor   infectious disease   job market   Kyle Card   liberty   life   logic   LTEE   luck   mentoring   Michael Behe   microbiology   Mike Travisano   misrepresentation   musings on science   must-read papers   mutation   natural selection   Neerja Hajela   Neil Shubin   Nelson Hairston   Nkrumah Grant   NSF   old books   Paul Turner   peer review   philosophy of science   public health   research   Rob Pennock   SARS-CoV-2   science   science and religion   science communication   social media   teaching   teamwork   theory and experiments   time   time travel   twitter   work-life balance   Wuhan corona virus   Zachary Blount 
+ 
+ 
+ Top Posts 
+ 
+ How to Write a Response to Reviewers in Ten Easy Steps 
+ An Engineering Perspective on Accelerating Vaccine Distribution 
+ On damaged genes and polar bears 
+ Six Months 
+ A Blast from the Past 
+ They're back! 
+ Element 666 to be Named  
+ 
+ 
+ 
+ Blog Stats 
+ 
+ 243,323 hits 
+ 
+ 
+ 
+ Blog Search 
+ 
+ 
+ Search for: 
+ Telliamed Revisited  * Evolutionary science: past, present, and future 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

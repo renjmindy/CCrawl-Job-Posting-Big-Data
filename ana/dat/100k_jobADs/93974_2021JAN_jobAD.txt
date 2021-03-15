@@ -1,0 +1,902 @@
+SecurityHeadhunter.com -Our Blog 
+ Breaches, Tips, Stories & Insights from a true Security Headhunter 
+ Menu 
+ Skip to content 
+ 
+ Home 
+ About Me 
+ Contact Us 
+ 
+ Category Archives: Security Jobs 
+ Security Job: AVP Infosec 
+ Posted on  August 13, 2012  by  Wils Bell 
+ 
+ AVP Information Technology Security 
+ 
+ Job Type:  Full-time employee 
+ Job Location  : Boston, MA area 
+ Compensation  : Base of mid $100’s plus bonus plans. (call for specific details) 
+ Telecommute  : No 
+ Education  : BS Degree and a Masters is a plus 
+ Travel %  : minimal 
+ Relo Paid  : Yes – case by case basis 
+ Status:  US Citizen or Green Card – Sorry, no Visa Sponsorship 
+ **** SecurityHeadhunter.com , a Security Search Firm, has been selected to conduct a search for a top shelf AVP candidate to manage the Security Operations Center (SOC) for a fortune 500 organization. 
+ As the selected candidate, you will have knowledge of INFOSEC best practices and be responsible for overseeing the overall state of security for the organization and for working with management to ensure that INFOSEC objectives are aligned with corporate risk tolerance and strategic goals. You will also be responsible for developing and keeping up to date security policies and procedures to ensure operational compliance. 
+ You will need a  minimum  of 8+ years of IT experience with at least 5 years developing and implementing security policies / best practices within a multi-platform environment. You will need good project management skills and excellent oral and written communication skills. Managing staff for at least 4 years in technical leadership roles is required. 
+ Additional responsibilities and duties include: 
+ 
+ 
+ Managing and mentoring a staff (2 direct and 25+ indirect) and developing them for future growth within the security department in additional to conducting performance appraisals, interviewing and proper discipline. 
+ 
+ 
+ As relate to the needs of the SOC and OGC (operational governance groups), oversee the development and management of RFP’s, expense budgets and business plans. 
+ 
+ 
+ Contributing to the design, maintenance and execution of Corporate Security Policy and Incident Response Plans. 
+ 
+ 
+ Reporting on the state of Security of the computing environment to the executive level. 
+ 
+ 
+ Must be knowledgeable of INFOSEC systems including SIEM platforms, firewalls, virus protection and vulnerability testing. 
+ 
+ 
+ Must be knowledgeable in a broad range of technologies including OS, mainframes, mid ranges and client server. 
+ 
+ 
+ Must be knowledgeable in SOX and PCI and understand how to deal with regulators when needed. 
+ 
+ 
+ Must be able to make appropriate recommendations (and coordinate implementation) on the design / purchase of security tools to be utilized by the SOC, Operational Governance and the Security Intelligence groups. 
+ 
+ 
+ Directing and creating remediation priorities based on level of vulnerability / scope of impact. 
+ 
+ 
+ Implementing policies that will ensure there are correct levels of scanning, monitoring, and incident response when needed. 
+ 
+ 
+ Developing procedures which will ensure there is as minimal impact and disruption to business operations and systems during any remediation of vulnerability issues. 
+ 
+ 
+ Providing the appropriate direction and methodology for forensic analysis and reporting. 
+ 
+ 
+ Developing and implementing security standards and procedures for controlling access / authentication to many systems and applications. 
+ 
+ 
+ Must maintain or create procedures to continually evaluate security administration standards and procedures to ensure compliance with best practice standards and audit requirements. 
+ 
+ 
+ Ability to partner with other departments and groups to understand the user needs for access to corporate data and applications and ensuring that data has been appropriately classified as public, private, sensitive, or confidential. 
+ 
+ 
+ Reviewing and evaluating projections on the needed resources for INFOSEC projects (i.e. capital costs, FT staff, contractors, etc.) 
+ 
+ 
+ Reviewing and prioritizing INFOSEC projects portfolio. 
+ 
+ 
+ Partnering and/or working with other IT groups to secure participation from key people /contributors from other departments and notifying senior management for additional resources. Allocating resources as needed to support strategic company goals. 
+ 
+ 
+ Collaborating and working with other departments (App Dev, Systems, Infrastructure, Architecture, etc) to clarify INFOSEC expectations for securing systems to ensure adherence to policies and standards. 
+ 
+ 
+ To be considered for this position  , please contact Wils Bell  directly  at 407-365-2404 or email a confidential resume to:  Bell@SecurityHeadhunter.com 
+ Wils Bell 
+President 
+SecurityHeadHunter.com 
+ POB 620298 * Oviedo, FL32762 
+Direct: 407-365-2404 
+ Bell@SecurityHeadhunter.com  l  SecurityHeadhunter.com 
+ HELPFUL LINKS 
+ 
+ 
+ **** Hiring Companies   – visit our website 
+ 
+ 
+ Security Professionals   – visit our website 
+ 
+ 
+ Twitter  (Follow me for latest Jobs, Breaches, and News) 
+ 
+ 
+ LinkedIn  **** (I accept all security professional’s Invites) 
+ 
+ 
+ Posted in  Security Jobs  |   Leave a comment 
+ Security Breaches, Security News & More (week ending 2-17-12) 
+ Posted on  February 17, 2012  by  Wils Bell 
+ 
+ 
+ Anonymous Plans To Take Down The Internet:  
+ Low-Tech Fraud Targets Banks, CUs 
+ 4 Crime Rings to Watch 
+ NC: Online security breach hits Charlotte college campus, officials warn 
+ Auditor IV: The Card Data Breach 
+ Central Connecticut State University server infected with Z-Bot; over 18,000 notified of incident 
+ Best Practices to Prevent Document Leaks 
+ Lessons from the Nortel Networks Breach 
+ The Truth Behind Data Breaches 
+ What You Need to Know About the RSA Key Research 
+ Court Orders Defendant to Decrypt Her Computer 
+ Coping With a Lost Laptop 
+ The 15 worst data security breaches of the 21st Century 
+ Romanian police arrest alleged hacker in Pentagon, NASA breaches 
+ Analysing the cyber scam that tried to fool an infosec professional's wife 
+ Profiling Advanced Persistent Threat (APT) 
+ Are Self-Signed SSL Certificates As Insecure As They Say? 
+ Twitter Admits Storing IPhone Contact Data 
+ Disclosures: How Much Sharing is Too Much? 
+ Did A Decade-Long Hack Trigger Nortel's Demise? 
+ Weak RSA Keys Plague Embedded Devices, But Experts Caution Against Panic 
+ 
+ Follow my  Twitter  feeds for daily breach and security news. 
+ Wils Bell - President 
+ Direct:  407-365-2404 
+ Email:   Bell@SecurityHeadhunter.com 
+ HELPFUL LINKS 
+ 
+ 
+ **** Hiring Companies   – visit our website 
+ 
+ 
+ Security Professionals   – visit our website 
+ 
+ 
+ Twitter  (Follow me for latest Jobs, Breaches, and News) 
+ 
+ 
+ LinkedIn  **** (I accept all security professional’s Invites) 
+ 
+ 
+ Posted in  HeadHunting Stories ,  My LinkedIn Profile ,  Security Articles ,  Security Breaches ,  Security Jobs  |   Leave a comment 
+ Breaches From Across the Net Week ending 1-13-12 
+ Posted on  January 13, 2012  by  Wils Bell 
+ 
+ 
+ Follow my  Twitter  feeds for daily breach and security news. 
+ 
+ 
+ Phishing Campaign Using Spoofed US-CERT Emails 
+ 
+ 
+ Leahy promises to amend Senate version of SOPA before vote 
+ 
+ 
+ Can You Trust Data-Recovery Service Providers? 
+ 
+ 
+ Teenager Sentenced for Card Skimming 
+ 
+ 
+ Stratfor Website Back Online After Hack, CEO Apologizes 
+ 
+ 
+ Microsoft Readying Real Time Hosted Threat Intelligence Feed 
+ 
+ 
+ Class action lawsuit seeks $4.9 billion over TRICARE data breach 
+ 
+ 
+ Homeland Security gets $888m for infrastructure protection and information security 
+ 
+ 
+ The Lords of Dharmaraja Faked Indian Gov't Memo 
+ 
+ 
+ Ten Years After Gates's Memo, Effects Still Being Felt 
+ 
+ 
+ Malicious URLs being disguised by QR codes 
+ 
+ 
+ Carrier IQ detection tool converted to premium SMS Trojan 
+ 
+ 
+ Vermont tax agency posts social security numbers, federal tax IDs online 
+ 
+ 
+ Wils Bell - President 
+ Direct:  407-365-2404 
+ Email:   Bell@SecurityHeadhunter.com 
+ HELPFUL LINKS 
+ 
+ 
+ **** Hiring Companies   – visit our website 
+ 
+ 
+ Security Professionals   – visit our website 
+ 
+ 
+ Twitter  (Follow me for latest Jobs, Breaches, and News) 
+ 
+ 
+ LinkedIn  **** (I accept all security professional’s Invites) 
+ 
+ 
+ Posted in  HeadHunting Stories ,  My LinkedIn Profile ,  Security Articles ,  Security Breaches ,  Security Jobs  |   Leave a comment 
+ Security Job: Due Diligence Marketing Representative 
+ Posted on  January 11, 2012  by  Wils Bell 
+ Security Job Title:   Due Diligence Marketing Representative 
+ Job Type:  Full-time 
+ Job Location  : May be based anywhere 
+ Compensation  : Base of $80,000K to $120K plus solid commission structure 
+ Total Package:  Average Rep’s earn between **$200K - $300K **or more 
+ Education  : Prefer BS, but will consider work / education combination 
+ Travel %  : minimal 
+ SecurityHeadhunter.com , an Executive Search Firm, has been retained to identify and recruit a solid candidate to join an established and growing (20-30% annually) firm that performs due diligence background reports on both companies and individuals around the globe. My client works with a large variety of Corporations to include but not limited to 25% of the Fortune 100 Companies, Regulatory Agencies, Multinational Law Firms, Governments and other Service Providers who specialize in the Energy, Defense, Gaming, Technology, Medical, Manufacturing and Finance Sectors. 
+ Corporations are expanding their services, products and brand globally. As such, many of these same corporations need to attain due diligence reports on partners, vendors, employees, etc. This is my client’s specialty and is one of the factors propelling their solid annual growth. 
+ As a successful candidate you need to have solid experience in client development and sales. Experience selling a business risk product or service is a big plus. 
+ My client’s service is generally sold to C Levels executives; General Counsel, Chief Legal Officer, Chief Risk Officer. As such, having relationships with these contacts is a must and will accelerate your sales cycle. 
+ Duties & Responsibilities 
+ 
+ Must have solid sales / marketing experience to C Level executives (General Counsel, Risk Officer, Legal Department) and have relationships with these levels 
+ Must be able to develop new business through referrals and cold calling 
+ Must be able (after training) to explain how due diligence services can and will benefit clients and what separates company from competitors 
+ You must understand that client service is major selling point of the company 
+ Will act as primary the point-of-contact for the client 
+ Will thoroughly read due diligence report and discuss findings with client 
+ Must have ability to maintain current client relationships while building new relationships 
+ Ability to work independently and in a telecommuting capacity in required 
+ Must be very detailed oriented 
+ Must have good written and verbal communication skills 
+ 
+ Contact: 
+ Wils Bell 
+ 407-365-2404 
+ Bell@SecurityHeadhunter.com 
+ SecurityHeadhunter.com  
+ Posted in  Security Jobs  |   Leave a comment 
+ Breaches & Security News From Around the Web 12-06-11 
+ Posted on  December 6, 2011  by  Wils Bell 
+ Breaches and Security News from around the web as posted through my  Twitter  Account. 
+ Follow me on  Twitter 
+ Ex-Army researcher links Conficker to Stuxnet 
+ Russian media, election watchdog silenced through cyberattacks 
+ Small firms have fewer resources to deal with more cyberthreats, House panel told 
+ MIT researchers: US needs single agency to protect electric grid from cyberattacks 
+ Getting Past Security 's Fuzzy Math ROI 
+ Is the Security Response System for SCADA-ICS Broken? 
+ Holiday Shopping At Work Raises Risks 
+ Raytheon Acquires Cybersecurity Firm Pikewerks 
+ Executives Lack Confidence in Infosec Strategies 
+ Controls Have to be Executed Perfectly Every Day 
+ Carrier IQ Controversy Spawns Lawsuits 
+ FBI Warns of New Fraud Scam 
+ Congress Probes TRICARE Breach 
+ Organizing a Breach Notification Team 
+ Wils Bell 
+ Bell (at ) SecurityHeadhunter.com 
+ 407-365-2404 
+ Posted in  Security Articles ,  Security Breaches ,  Security Jobs  |   Leave a comment 
+ Security Job: Manager; Security Breach Response 
+ Posted on  January 24, 2011  by  Wils Bell 
+ Security Job :  Manager; Security Breach Response 
+ ** 
+** 
+ 
+ Note:  This is a great opportunity and the position is very detailed. Below is just a brief description to provide a general understanding of the basic responsibilities. For a full confidential discussion of this exciting opportunity, please call  Wils Bell - 407-365-2404 
+ 
+ 
+ Job Type:  Full-time (not a consulting firm) 
+ Job Location  : Positions available in - New York City, Philadelphia or Chicago 
+ Compensation  : Base of up $140,000 (maybe higher) plus bonus 
+ Telecommute  : No 
+ Education  : 4 year degree is a must 
+ Travel %  : up to 40% 
+ Relo Paid  : Prefer local to either Chicago, New York City or Philadelphia 
+ 
+ SecurityHeadhunter.com , a Security Search Firm, has been selected to conduct a search for a client interested in hiring a Manager of Information Security Breach Response. The chosen candidate will be responsible for working closing with the upper management and C level executives at organizations that have had a serious cyber breach to direct and coordinate a response and remediation efforts with internal resources and outside 3rd parties as required. In addition to having a good understanding of Information Risk / Security, the successful candidate will probably have had positions working in a client facing role (Sales or Sr. Consultant), but not necessarily . A solid understanding of how Information Risk and business functions interact is a real plus. 
+ Our client is an established organization with “excellent” benefits and a great career path. 
+ Responsibilities: 
+ 
+ Ability to direct and coordinate the breach response activities at affected organizations. 
+ Direct internal resources and 3rd party service providers that are involved in the breach response and remediation. This could include but not limited to Forensics Consultants, Credit Bureaus, Lawyers, Law Enforcement and other services as needed. 
+ 3rd party service provider relationships to include; selection, contract negotiation, and performance evaluation. 
+ For major breaches, ability to coordinate and direct response efforts onsite at affected organizations location. 
+ Provide onsite breach response assistance for clients as needed for significant breaches. 
+ Ability to educate organizations on the need for proper incident response and the liabilities of failure to do so. 
+ 
+ Skills and Abilities 
+ 
+ You must have excellent written and verbal communication skills 
+ Ability to work with people during high pressure and crisis modes. 
+ 
+ To be considered for this position, please contact  Wils Bell  directly OR email a confidential resume to  :   Bell@SecurityHeadhunter.com 
+ Wils Bell 
+President 
+SecurityHeadHunter.com, Inc. 
+POB 620298 * Oviedo, FL 32762 
+Direct: 407-365-2404 
+ Email:   Bell@SecurityHeadhunter.com 
+ Web  :  SecurityHeadhunter.com 
+ Posted in  Security Jobs  |   Leave a comment 
+ A Funny Thing Happened During the Interview 
+ Posted on  September 29, 2010  by  Wils Bell 
+ A Unique Security Interview 
+ During a conversation today I was reminded of a situation that in some regards was funny and on the other hand was actually rude. It does have a lesson to those employees of companies involved in the interview process. 
+ Here's what happened. I had a position here in Florida for a senior hands-on technical Security candidate. The client was a solid company with operations around the USA, Caribbean and Central and South America. Even though this company had many bilingual employees due to their different business locations, it was not required on this particular position. 
+ Since the candidate (let's call them Dave") I recruited was available ASAP, had recently relocated to Florida and was local, the employer scheduled an in-house interview for one afternoon. ( I'd known Dave for several years since I recruited him for another opportunity when he lived in the Carolina's. Still has his Carolina accent.) 
+ The day of the interview arrived and Dave was off to meet everyone. Dave called me on his drive home from the interview to share his thoughts of the company, the position, the people, etc. He met with Human Resources and got all the HR information and was taken on a brief tour of the facility by another HR representative on the way to interview with the technical security staff and manager. Dave was taken to a conference room where the manager and 2 project managers were all waiting to conduct a group interview, even though the interview itinerary was stated differently, but no big deal. 
+ Here's where it begin to get a little funny and rude at the same time. All three employees of the client were asking Dave questions related to the job. As usual, the questions started out relatively easy and progressed quickly to more difficult questions since Dave was able to answer correctly without any issues. He knew he were doing well. He knew he knew more than the project manager he would report too. He knew the manager thought he would not be challenged for long in the job. He knew he blew away all the other candidates interviewed thus far, and many other insights. 
+ Now you ask, why would these employees conducting the interview discuss these comments directly in front of Dave. Simple, they were speaking Spanish. Yes they were interviewing in English, but discussing amongst themselves their comments about the candidate. How rude was that, but the fact that Dave was able to understand about 75% of the Spanish was the funny part. 
+ Yes, here's someone with a Carolina accent that had a real good handle on understanding Spanish. He had worked for a firm in the past with many Latin American clients and spent 5 years travelling south and picked up Spanish enough to understand people fairly well. 
+ Dave thought it was a real insightful interview situation that most people would never experience, while also being rude. 
+ One we jot to the actual job, regardless of the rudeness factor, Dave stated that the client indeed had some real security issues, as I had indicted. Once those issues were resolved over the next many months, the job would not be challenging. Even though he was ready to go to work, this was not going to present a long-term opportunity. (The client still made him an offer, even though I said it was not necessary) 
+ The overall problem I saw was the client was discussing Dave and his answers and comments right in front of him in a language they thought he did not understand. Whether he understood or not I felt and he felt it was rude. Would that have been the normal work environment and atmosphere. In fairness, I did share with the CIO that Dave turned down the position based on opportunity, but for future reference he night want to discuss with his managers their interview style. 
+ I supposed the moral of the story would be never assume anything, like you are not being overheard or understood by those around you. 
+ Have a great Wednesday. 
+ Posted in  HeadHunting Stories ,  Security Articles ,  Security Jobs  |   1 Comment 
+ Security Job: Web Application Security Engineer 
+ Posted on  September 21, 2010  by  Wils Bell 
+ Security Job:  Web Application Security Engineer 
+ Job Type:  Full-time salaried position 
+ Job Locations  : If you are open to any of the following areas we should talk: Illinois, North Carolina, Nebraska, Pennsylvania, Indiana, and Connecticut 
+ Compensation  : $90,000 to $110,000 salary, maybe more 
+ Telecommute  : No 
+ Education  : BS strongly preferred, but not required. 
+ Travel %  : minimal 
+ Relo Paid  : Possible assistance available on a case by case basis 
+ Certifications Preferred:  CISA, CISSP 
+ 
+ SecurityHeadhunter.com  is conducting a search for Web Application Security Engineers. Our client, a Fortune 500 organization, has engaged us to identify, recruit and prescreen candidates that have a passion for web security. These are full time positions working on site for the organization. The client is not a consulting firm. 
+ Our client really wants to see candidates that have at least 3-5 years of software / application development  and /or  web development skills in Java OR .NET environment and has moved over to the Security side for at least the last 2-3 years. 
+ Having a software or Web Development background prior to Web Application Security is NOT a must have, but is a big plus for the positions. 
+ The selected candidate(s) will be working on new web application security as well as legacy systems from time to time. Selected candidate(s) must be very knowledgeable of  OWASP TOP 10 . 
+ RESPONSIBILITIES & DUTIES 
+ 
+ Conducting web application security assessments on both new and existing web applications. 
+ These assessments involve manual testing and analysis as well as the use of automated web application vulnerability scanning and testing tools to include but not limited to Fortify, IBM App Scan, HP Web Inspector, Hail Storm testing tools. 
+ Utilizing company standard reporting format to prepare formal security assessment reports for each application, using our standard reporting format. 
+ Participate and lead when necessary conference calls with internal business customers to review security assessment results. 
+ Consult with these internal business customers on remediation options and the retesting of security vulnerabilities that have been fixed and republishing your report to indicate the results. 
+ Participate and lead when necessary conference calls with potential internal business customers to review newly requested security assessments and estimate the amount of time required to complete the assessment. 
+ Ability to assist in the deployment and/or support of web application firewalls. 
+ Experience working with static code analysis tools 
+ Ability to communicate complex security subjects in easy-to-understand terms. 
+ Desire to stay current with emerging technologies and industry trends. 
+ Solid understanding of OWASP along with the ability to apply the application those security concepts. 
+ Thorough understanding of both TCP/IP and HTTP. 
+ Ability to work in a fast paced, challenging and sometimes stressful environment while keeping a cool head. 
+ Ability to look at the big picture and help in finding acceptable solutions and remedies. 
+ Strong focus and ability to dealing with internal users and customers 
+ Solid written and verbal communication skills. 
+ 
+ For information on this or other Security related positions, please contact: 
+ Wils Bell  **** 
+President 
+ SecurityHeadHunter.com, Inc. 
+POB 620298 * Oviedo, FL 32762 
+Direct: 407-365-2404 
+ Bell@SecurityHeadhunter.com  *  SecurityHeadhunter.com  *  www.Linkedin.com/in/wilsbell 
+ Posted in  Security Jobs  | Tagged  Computer Security ,  Information Security ,  Security Architect ,  Security Breach ,  Security Job ,  Security Jobs ,  Web Security  |   Leave a comment 
+ Security Job: Chief Software Security Architect 
+ Posted on  September 21, 2010  by  Wils Bell 
+ Security Job:  Chief Software Security Architect 
+ Job Type:  Full-time 
+ Job Location:  New York or Pennsylvania 
+C  ompensation:  Base – starts at $200,000K and will go up from there DOE -- 
+ Bonus Estimate  : $75 -$100,000 
+ Telecommute:  No 
+ Education:  BS Degree Preferred, but client will consider total experience 
+ Relo Paid:   Yes 
+ Other:  GSSP Certification a plus 
+ SecurityHeadhunter.com  is actively recruiting a senior level candidate for the position of Chief “Software” Security Architect for a major New York client. You can choose to work in New York or work in their Pennsylvania location. (FOR FULL DETAILS CONTACT US TODAY!) 
+ This is a new and very key role. You will be responsible for all software / application security architecture for the corporation. You must posses a technical background from the Software Security side. Any experience as a structure hacker would be a benefit. 
+ You’ll also need a good understanding of network, host, and physical aspects of the security infrastructure. Any experience dealing with offshore systems development would be a plus but not required. You’ll need the same communication and interpersonal skills as a senior principal / partner of a large security and information protection agency. 
+ Responsibilities will include 
+• Provide solutions and guidance in the form of design, development, and deployment on all aspects of software & application security to the development teams on a national and international basis. 
+• Implementation of: 
+o Software Security Services 
+o Security Architecture Analysis and Design Reviews 
+o Security Code review 
+o Recommendations of procedural and technological compensating controls 
+o Secure Coding best practices implementation and training 
+o Application Threat modeling and Mitigation Services. 
+• Strengthen the Risk Assessment process with pertinent technical criteria to better assess the risk ratings of client applications. 
+• Strengthen client Vulnerability Management process which includes bugs, patches, configuration management advice. 
+• Comprehensive and holistic level perspective required for implementing security methodologies and best practices across all lines of business of the organization; including Technology. 
+• Must apply structured thinking, methodology and disciplines to a complex environment of business and technical requirements. 
+ Qualifications 
+• Core security, vulnerability scanning & pen testing tools 
+• Core security analysis 
+• Understanding of secure HTTP, application security, web security, SHH, SFTP, SSL and additionally application vulnerabilities. 
+• An understanding of application security over OS’s (Linux, Sun, Windows, Novell, etc.) 
+• Must have a minimum experience 10 years developing scalable, distributed applications with a thorough understanding of platforms like Enterprise Java, .NET with security aspects of Java, C#, C++ languages. 5 years in the Application Security space; including information (storage, transmission, etc.), application (design & development), deployment, run-time (access), operation/support. 
+ To share your confidential resume please email a resume ******" directly" **to:  careers@securityHeadhunter.com  or contact: 
+ Wils Bell  **** 
+President 
+ SecurityHeadHunter.com, Inc. 
+POB 620298 * Oviedo, FL 32762 
+Direct: 407-365-2404 
+ Bell@SecurityHeadhunter.com  *  SecurityHeadhunter.com  *  www.Linkedin.com/in/wilsbell 
+ _ "A Security Search Firm” _ 
+P Go Green - print only if necessary 
+ Posted in  Security Jobs  | Tagged  Computer Security ,  Security Architect ,  Security Job ,  Security Jobs  |   Leave a comment 
+ Security Job: Application Security Architect 
+ Posted on  August 3, 2010  by  Wils Bell 
+ Application Security Architect 
+ Job Type: Full-time 
+ Job Location: State of Washington 
+ Compensation: “Very Competitive Package” –You won’t be disappointed!!! 
+ Telecommute: No 
+ Education: BS & MS is strongly preferred, however experience may be considered in lieu of degree. 
+ Travel %: none 
+ Relo Paid: Yes –excellent package!!!! 
+ Other: 
+ SecurityHeadhunter.com is currently recruiting for a client in the state of Washington. This is NOT an entry level position, but rather the successful candidate will need to have an in-depth and solid understanding of software / application security. Our client is looking for the best of the best and is open to paying for those excellent application security skills, within reason of course. 
+ As an individual, you will need to be a good communicator since you will be working in a team environment with many different people and with software developers within the company. 
+ If you truly love being part of the software development process to ensure that new and existing applications, website, etc, are build with the most cutting edge security functionality, then this position is for you! 
+ Our client is a well funded organization with a solid and growing security department. Although a 4 year degree or MS is some cases would be preferred, client will look at candidates that have solid work experience to over-ride the degree. As a successful candidate you will need to have good references and be able to get through a standard criminal background check with no major problems. Minor blemishes may not be a problem and will be reviewed on a case by case basis. 
+ Duties may include but not limited to: 
+ • Review and evaluate new and exciting security products 
+ • Assist in Security policy and procedure development 
+ • You should have good understanding of Security Compliance issues 
+ • Act a SME to other technical people and have the ability to train others 
+ • As a SME you’ll need to be able to sell others on the security process 
+ • Be responsible for risk assessments from outside vendors 
+ What you need to be considered for this opportunity: 
+ • Excellent and current experience within Application Security 
+ • Solid software development skills in various software, i.e. C++, Java, C, etc. 
+ • Knowledge of Networking, Network Security, Systems Security, Security Protocols, Scripting, Security Remedy, Authentication, Security Vulnerabilities, Threat Modeling. 
+ As you have seen, this is a very general description on the position, but will give you a basic idea of what I am recruiting for with this client and others. If you currently are working as a Software / Application Security expert for your firm, I would like to talk with you in more detail on a completely confidential basis. 
+ For information on this or other Security positions, please contact: 
+ Wils Bell 
+ President 
+ SecurityHeadHunter.com, Inc. 
+ "A Security Search Firm" 
+ POB 620298 * Oviedo, FL 32762 
+ Desk: 407-365-2404 
+ Bell@SecurityHeadhunter.com 
+ SecurityHeadhunter.com 
+ Posted in  Security Jobs  | Tagged  Computer Security ,  Information Security ,  Security Architect ,  Security Job ,  Security Jobs  |   Leave a comment 
+ Security Job: Chief Security Architect 
+ Posted on  August 3, 2010  by  Wils Bell 
+ CHIEF SECURITY ARCHITECT 
+ 
+ 
+ Job Type:  Full-time 
+ Job Location  : New York 
+ Compensation  : Base - $200,000K (maybe more) Bonus Estimate: $75 -$100,000 
+ Telecommute  : No 
+ Education  : BS Degree Preferred, but client will consider total experience 
+ Relo Paid  : Possibly some assistance on a case by case basis. 
+ Other  : GSSP Certification a plus 
+ SecurityHeadhunter.com is actively recruiting a senior level candidate for the position of Chief Security Architect for a major New York client. This position will have very broad enterprise impact. You’ll be setting strategies which will translate into tactical decision making, influencing technology implementations and business operations processes. You must have implemented an enterprise scale threat mitigation and assurance strategy for software development. You’ll also need a good understanding of network, host, and physical aspects of security the infrastructure. Any experience dealing with offshore systems development would be a plus but not required. 
+ You’ll need the same communication and interpersonal skills as a senior principal / partner of a large security and information protection agency. 
+ Responsibilities will include 
+ 
+ Provide solutions and guidance in the form of design, development, and deployment on all aspects of software & application security to the development teams on a national and international basis. 
+ Implementation of:
+ 
+ Software Security Services 
+ Security Architecture Analysis and Design Reviews 
+ Security Code review 
+ Recommendations of procedural and technological compensating controls 
+ Secure Coding best practices implementation and training 
+ Application Threat modeling and Mitigation Services. 
+ 
+ 
+ Strengthen the Risk Assessment process with pertinent technical criteria to better assess the risk ratings of client applications. 
+ Strengthen client Vulnerability Management process which includes bugs, patches, configuration management advice. 
+ Comprehensive and holistic level perspective required for implementing security methodologies and best practices across all lines of business of the organization; including Technology. 
+ Must apply structured thinking, methodology and disciplines to a complex environment of business and technical requirements. 
+ 
+ Qualifications 
+ 
+ Core security, vulnerability scanning & pen testing tools **** 
+ Core security analysis 
+ Understanding of secure HTTP, application security, web security, SHH, SFTP, SSL and additionally application vulnerabilities. 
+ An understanding of application security over OS’s (Linux, Sun, Windows, Novell, etc.) 
+ Must have a minimum experience 10 years developing scalable, distributed applications with a thorough understanding of platforms like Enterprise Java, .NET with security aspects of Java, C#, C++ languages. 5 years in the Application Security space; including information (storage, transmission, etc.), application (design & development), deployment, run-time (access), operation/support. 
+ 
+ To forward a confidential version of your resume, please email directly to: Bell@SecurityHeadhunter.com 
+ or contact: 
+ Wils Bell  **** 
+President 
+ SecurityHeadHunter.com, Inc. 
+POB 620298 * Oviedo, FL 32762 
+Direct: 407-365-2404 
+ Bell@SecurityHeadhunter.com  *  SecurityHeadhunter.com  *  www.Linkedin.com/in/wilsbell 
+ _ "A Security Search Firm” _ 
+ Posted in  Security Jobs  |   Leave a comment 
+ Security Job: Compliance Manager 
+ Posted on  February 24, 2010  by  Wils Bell 
+ Position Summary for 
+ Compliance Manager 
+ 
+ 
+ 
+ Job Type: 
+ Full Time 
+ 
+ 
+ 
+ 
+ Job Location: 
+ New York   / Manhattan 
+ 
+ 
+ Compensation: 
+ $120,000 plus bonus 
+ 
+ 
+ Telecommute: 
+ No 
+ 
+ 
+ Education: 
+ BS Required, Masters a plus 
+ 
+ 
+ Certifications: 
+ **** 
+ 
+ 
+ Travel %: 
+ Minimal 
+ 
+ 
+ Relo Paid: 
+ No 
+ 
+ 
+ 
+ Responsibilities 
+ 
+ Manage and lead an array of Compliance Programs to include but not limited to Sarbanes-Oxley (SOX), Continuous & Ad hoc internal audit programs, Technology Audits, Controlled Access to Production Systems (CAPS) exercises, Internal Audit Issues, and others 
+ Work with fellow team members, Technologists and Vendors to ensure that all the program deliverables are responded to the Enterprise-level Program teams in a timely fashion. 
+ Ensure that the most efficient governance process in place for the Compliance Programs 
+ Interface with Senior management including C-level Technology Executives (by providing them continuous status updates on all Compliance Programs), as well as the technology managers and their team members to ensure that the program goals and objectives are addressed and executed on a day-to-day basis to achieve the overall goals 
+ Interface with the Central Operation Risk Management team of Global Markets Technology, infrastructure groups, and the Global Auditors (internal and external) for the department 
+ Stay abreast of the upcoming audit schedule and requirements for the GRCT team and track any open audit items across the department to remediation and closure 
+ 
+ Required: __  Required for being successful 
+ 
+ Seven (7+) years experience in either a Program Management Office (PMO) or Business Management Office (BMO) in a compliance-based role 
+ Excellent inter-personal, negotiation and influencing skills 
+ Strong problem solving and analytical skills 
+ Excellent organizational, planning, writing and communication skills 
+ Self-starter with a proven track record of taking initiative 
+ Persistency, poise and perseverance to get things accomplished under pressure and within the set timelines 
+ Interest and track record of ensuring accuracy, clarity and quality of work with attention to detail 
+ Past experience of working with senior management 
+ Excellent MS-Office skills (including PowerPoint (for presentations) and Excel ( for manipulating large amounts of data) 
+ 
+ __ 
+ Preferred  : Not mandatory but preferred – 
+ 
+ Project Management Certification - PMI or PRINCE 2, etc. 
+ 
+ For additional information on this or other Security Jobs, please contact: 
+ Wils Bell  **** 
+ Information Security Recruiter 
+ Security   Headhunter   .com, Inc. 
+ POB 620298 
+ Oviedo, FL 32762 
+ Desk:  407-365-2404 
+ Cell:  407-718-7764 
+ Email:   Bell@SecurityHeadhunter.com   
+ Posted in  Security Jobs  | Tagged  Compliance Manager ,  Computer Security ,  Information Security ,  IT Audit ,  Security Architect ,  Security Breach ,  Web Security  |   Leave a comment 
+ Security Job: Web Application Security Consultant 
+ Posted on  February 24, 2010  by  Wils Bell 
+ Position Summary for 
+ Web Application Security Consultant w/ Java 
+ 
+ “70% Telecommute Opportunity” 
+ 
+ 
+ 
+ Job Type: 
+ Consultant 
+ 
+ 
+ 
+ 
+ Job Location: 
+ Telecommute from home 70%+ of time 
+ 
+ 
+ Compensation: 
+ **$70 - $80 per hour; maybe more ** 
+ 
+ 
+ Telecommute: 
+ Yes 
+ 
+ 
+ Education: 
+ Degree a plus, but not required 
+ 
+ 
+ Certifications: 
+ See Below 
+ 
+ 
+ Travel %: 
+ 20-30% 
+ 
+ 
+ Relo Paid: 
+ N/A 
+ 
+ 
+ 
+ Our Client has developed a very strong track record of delivering web application security services on a consulting basis to their financial and banking industry clients. 
+ This strong record of exceptional service has results in additional long-term assignments and the need for additional team members. 
+ SecurityHeadhunter.com is seeking  Web Application Security consultants  to lead and participate in web application security consulting assignments. The current team is made up of seasoned software engineering professionals who have 20+ years of total experience. That experience includes building large Java enterprise applications. 
+ As stated above, our client’s solid delivery and track record has created a situation where their clients invite them back for additional projects. 
+ In this role, a consultant will perform  application security assessments  through both on-site and off-site project assignments. Successful consultant will lead small review teams and will consult on threats and mitigation approaches. 
+ Majority of work will be done in a telecommute fashion whereby you can work from your home office. Expected travel will only be in the 20-30% range on weekdays only. You’ll be home on weekends. 
+ Possible travel sites: NC, MN, PA, CA 
+ Required Background: 
+ 
+ A BS in math, computer science or engineering discipline is preferred. 
+ Education at the Masters level is appreciated. 
+ Certifications to include the CISSP, CSSLP, EC-Council E|CSP and/or SANS, GIAC Secure Software Programmer - Java (GSSP-JAVA) are highly appreciated. 
+ 
+ A consultant must demonstrate the following: 
+ • A very solid and deep knowledge & understanding of web application security threats, risk models and tools. 
+ • Static analysis experience with Fortify (preferred) or IBM Ounce Labs tools. 
+ • Architectural review, manual source code review, dynamic analysis. 
+ • Solid technical background that includes Java enterprise application technology. 
+ • Ability to interact with customers presentation and communication purposes. 
+ • Ability to manage small technical teams and projects. 
+ • Must be experienced on helping clients to build security into their software development processes. 
+ The successful candidate must be able to read and understand Java code, APIs and architecture (JSP, Servlet, EJB, Hibernate, Struts, Ant, etc.). A prior Java programming background is strongly preferred. 
+ Desired Skills 
+ A background that includes Microsoft application technology is appreciated (.NET, classic VB and ASP). Technical project management / team leadership experience is required. 
+ To learn more about this situation or others, please contact: 
+ Wils Bell  **** 
+ Security Recruiter 
+ Security   Headhunter   .com, Inc. 
+ POB 620298 
+ Oviedo, FL 32762 
+ Desk:  407-365-2404 
+ Cell:  407-718-7764 
+ Email:   Bell@SecurityHeadhunter.com   
+ LinkedIn Profile:   http://www.linkedin.com/in/wilsbell 
+ Web:   SecurityHeadhunter.com  
+ Blog:   SecurityHeadhunter.wordpress.com 
+ Twitter:   security_REC 
+ "I'm a great believer in luck, and I find the harder I work, the more I have of it." -- Thomas Jefferson 
+ P Go Green - print only if necessary 
+ Posted in  Security Jobs  | Tagged  Computer Forensics ,  Computer Security ,  Information Security ,  Security Architect ,  Security Manager ,  Security Recruiter ,  Web Security  |   Leave a comment 
+ IT Auditor w/SOX skills 
+ Posted on  February 22, 2010  by  Wils Bell 
+ Senior IT Auditor 
+ 
+ 
+ 
+ 
+ Job Type: 
+ Full Time 
+ 
+ 
+ 
+ 
+ Job Location: 
+ NJ 
+ 
+ 
+ Compensation: 
+ 100,000 -$120,000 plus bonus 
+ 
+ 
+ Telecommute: 
+ No 
+ 
+ 
+ Education: 
+ Degree a plus BUT not required 
+ 
+ 
+ Certifications: 
+ CISA is a must!!! 
+ 
+ 
+ Travel %: 
+ minimal 
+ 
+ 
+ Relo Paid: 
+ No relo offered 
+ 
+ 
+ 
+ Position Summary 
+ Successful candidate will have 5 - 10 years of IT internal audit and/or related work experience in the  financial or securities industry . 
+ Successful candidate must have  a CISA –no exceptions. 
+ Experience Needed 
+ Strong knowledge of IT systems configuration and operations to include; 
+ 
+ operating systems - Windows, Linux 
+ databases - Sybase, Oracle, SQL Server 
+ security & access configuration - infrastructure & application level 
+ business applications - general ledger, trading & clearing, risk management, etc. 
+ programming experience a plus - SQL, Java, C 
+ Strong knowledge of securities trading & back office activities - equities & fixed income: order routing & execution, settlement & clearing 
+ 
+ Position Responsibilities: 
+ 
+ Assess the IT control environment for audits assigned, develop audit scoping and test document (RAM) and effectively execute audit fieldwork. 
+ Identify and communicate audit issues and develop practical recommendations to assist departments to better control businesses and processes. 
+ Draft audit reports, identifying audit scope, findings, and conclusion. 
+ Meet with Senior Management to discuss audit coverage and the status of audit issue follow up. 
+ Appropriately update and execute the  Sarbanes Oxley IT Program  and identify control design and operational deficiencies. 
+ Maintain current in relevant technology trends, standards, requirements, and best practices. 
+ Assist in preparing presentations for management and the Finance & Audit Committee. 
+ Keep IT Audit Director and IA Managing Director updated on work in process. 
+ Execute special projects as required. 
+ 
+ For full details please contact: 
+ Wils Bell  **** 
+ Information Security Recruiter 
+ Security   Headhunter   .com, Inc. 
+ POB 620298 
+ Oviedo, FL 32762 
+ Desk:  407-365-2404 
+ Cell:  407-718-7764 
+ Email:   Bell@SecurityHeadhunter.com   
+ Posted in  Non Security Jobs ,  Security Jobs  | Tagged  IT Audit ,  SOX  |   Leave a comment 
+ Security Job: Cyber Counterintelligence Instructor 
+ Posted on  January 4, 2010  by  Wils Bell 
+ Security Job : 
+ Cyber Counterintelligence Instructor 
+ SecurityHeadhunter.com has been tasked with identify and recruiting a senior level candidate to work as an Instructor for Cyber Counterintelligence. 
+ Please note that the education and security clearance requirements are  FIRM  , BUT the client will have some flexibly on other requirements  SO  please read this entire spec closely!! 
+ 
+ 
+ 
+ Job Type: 
+ Full Time 
+ 
+ 
+ 
+ 
+ Job Location: 
+ Maryland 
+ 
+ 
+ Compensation: 
+ to $100,000 and above –Depending on Experience 
+ 
+ 
+ Telecommute: 
+ No 
+ 
+ 
+ Education: 
+ 4 Year degree as a minimum 
+ 
+ 
+ Clearance: 
+ Must have current **** Top Secret  **** & ability to obtain a **** SCI is a must!  **** 
+ 
+ 
+ Travel %: 
+ None 
+ 
+ 
+ Prior Instructor Exp: 
+ No 
+ 
+ 
+ Relo Paid: 
+ Yes, case by case basis. 
+ 
+ 
+ 
+ JOB SUMMARY 
+ The real key to this position is Counterintelligence experience even though you must have Cyber Security experience also. The students to be taught are already trained in Counterintelligence, but need to be brought up to speed on Cyber Counterintelligence. 
+ As an Instructor, the courses are to be fairly basic and will principally be for  familiarizing  the counterintelligence agents / students with cyber threats and the capability to deter and exploit. Under this premise, the Cyber Security experience level can be 3-5 years as long as the overall counterintelligence experience is solid and credentialed. What is needed is a candidate that can “walk the walk & talk the talk” relating to “counterintelligence” and has worked with / has experience in cyber security applications. What the client does not need is a pure computer forensics / security type individual with  no  counterintelligence. Again, (some – see below) previous counterintelligence experience is a must. 
+ Client would like someone who has conducted (or closely supported) investigations of cyber threats and approaches and/or has exploited any such approach (operations). They also would be interested in anyone with a strong (3-5 years) cyber analysis background…having looked at the threats, capabilities, and patterns. 
+ Counterintelligence experience through Military or Federal (FBI, etc,) service is great, but client will also look at civilians that have been /are accredited / certified in CI. 
+ The ideal candidate will have 10-15 years of counterintelligence with 3-5 years cyber investigations, operations, or analytic experience. ENCASE trained. 
+ The client will possibly consider 5-7 years in the  military  or  a civilian  with a technical (computer forensics / security) background  who can at least claim they are  experienced in Counterintelligence and is also ENCASE trained. 
+ Specific expertise in the area of CI Force Protection, CI Investigations, CI/CE Operations and/or CI analysis is desired. 
+ INSTRUCTOR DUTIES: 
+ As a  Cyber Counterintelligence  (hereinafter CI)  Instructor  , you will be responsible for: 
+ 
+ The development and delivery of training courses for Cyber CI and Information Operations. 
+ Maintaining a working knowledge of the subject matter, the class dates, and any and all problems associated with delivery of training materials. 
+ Coordinating with the Joint CI Training Academy (JCITA) and the military Board of Governors (BoG) and their field units to identify training requirements. 
+ Ensuring course materials are maintained, updated / improved to meet current training requirements of the DOD and the Defense Counterintelligence and Human Intelligence Center (DCHC) under the supervision of the Defense Intelligence Agency DIA. 
+ Routinely providing timely responses to queries and support requests from DCHC staff and military services. 
+ Providing sound & accurate advice, guidance and counsel on any issues dealing with training. 
+ Appropriately handling and safeguarding classified / sensitive information in accordance with applicable security directives and where needed, incorporate policy changes into the course curriculum. 
+ Maintaining liaison contacts with appropriate national agencies and their officials to ensure timely exchange of training related material and information. 
+ Ensuring remote learning packages/computer based training (CBT) on information operations meet the needs of field personnel. 
+ Developing, preparing, and presenting briefings/lessons to students and senior level community officials. Briefings need to be clear, concise, well researched, and well organized in a logical and easy to understand fashion. Briefings and lectures need to be up-to-date, timely, adequately address the subject matter, and meet the expected level of information by the intended audience.  For consideration on this or other Security positions, please contact: 
+ 
+ Wils Bell  **** 
+ Information Security Recruiter 
+ Security   Headhunter   .com, Inc. 
+ POB 620298 
+ Oviedo, FL 32762 
+ Desk:  407-365-2404 
+ Cell:  407-718-7764 
+ Email:   Bell@SecurityHeadhunter.com   
+ LinkedIn Profile:   http://www.linkedin.com/in/wilsbell 
+ Web:   SecurityHeadhunter.com  
+ Blog:   SecurityHeadhunter.wordpress.com 
+ Twitter:   security_REC 
+ "I'm a great believer in luck, and I find the harder I work, the more I have of it." -- Thomas Jefferson 
+ P Go Green - print only if necessary 
+ Posted in  Security Jobs  |   Leave a comment 
+ Recent Posts 
+ 
+ Security Job - Director Cyber Security / NERC CIP Solutions & Business Development 
+ Security Breaches & Security News 
+ Breaches & Security News 
+ Security Job: AVP Infosec 
+ Security Breaches & Security News 
+ Latest Infosec News 
+ Where's that document I signed? 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Security Breaches, Security News & More (week ending 2-17-12) 
+ Breaches, Cyber Crime & Security News Highlights 
+ Breaches & Information Security News 
+ Breaches From Across the Net Week ending 1-13-12 
+ Security Job: Due Diligence Marketing Representative 
+ Breaches and Security Articles from Around the Web 
+ Breaches & Security News from Around the Internet 
+ Breaches & Security Articles from Around the Web 12-14-11 
+ Breaches & Security News From Around the Web 12-06-11 
+ Breaches & Security Articles From Around The Web 12-2-11 
+ Interviewing Advice 
+ Security Job: Application Security Consultant 
+ 
+ Twitter Updates 
+ 
+ France rejects Google's appeal on right to be forgotten   csoonline.com/article/298505…  via @ csoonline   5 years ago 
+ RT @ Sec_Headhunter : The Next Wave of Cyberattacks Won’t Steal Data — They’ll Change It   defenseone.com/threats/2015/0…   #Security   #infosec   5 years ago 
+ 
+ Follow @Security_REC 
+ Blogroll 
+ 
+ About Us 
+ Blog Catalog 
+ Client Recommendations 
+ My LinkedIn Profile 
+ SecurityHeadhunter Website 
+ Today's Audit Journal 
+ Twitter - Follow Me 
+ WordPress.com 
+ 
+   Subscribe to RSS 
+ 
+ Security Job – Director Cyber Security / NERC CIP Solutions & Business Development 
+ Security Breaches & Security News 
+ Breaches & Security News 
+ Security Job: AVP Infosec 
+ Security Breaches & Security News 
+ 
+ Twitter Posts 
+ 
+ France rejects Google's appeal on right to be forgotten   csoonline.com/article/298505…  via @ csoonline   5 years ago 
+ RT @ Sec_Headhunter : The Next Wave of Cyberattacks Won’t Steal Data — They’ll Change It   defenseone.com/threats/2015/0…   #Security   #infosec   5 years ago 
+ 
+ Follow @Security_REC 
+ Categories 
+ 
+ HeadHunting Stories  (40) 
+ Helpful Tips: Candidates  (10) 
+ My LinkedIn Profile  (2) 
+ Non Security Jobs  (3) 
+ Security Articles  (22) 
+ Security Breaches  (18) 
+ Security Jobs  (15) 
+ Uncategorized  (6) 
+ 
+ Create a free website or blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

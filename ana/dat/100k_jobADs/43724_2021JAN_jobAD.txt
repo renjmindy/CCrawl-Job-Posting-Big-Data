@@ -1,0 +1,202 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Electrical Engineer, Analog/RF 
+ Brookhaven National Laboratory 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Electrical Engineer, Analog/RF 
+ Brookhaven National Laboratory 
+ [](mailto:?subject=Electrical%20Engineer%2C%20Analog%2FRF&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/13492689/electrical-engineer-analog-rf/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ March 28, 2020 
+ Location: 
+ Upton, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full-time 
+ Why Work at BNL? 
+Brookhaven National Laboratory (www.bnl.gov) delivers discovery science and transformative technology to power and secure the nation's future. Brookhaven Lab is a multidisciplinary laboratory with seven Nobel Prize-winning discoveries, 37 R&D; 100 Awards, and more than 70 years of pioneering research. The Lab is primarily supported by the U.S. Department;of Energy's (DOE) Office of Science. Brookhaven Science Associates (BSA) operates and manages the Laboratory for DOE. BSA is a partnership between Battelle and The Research Foundation for the State University of New York on behalf of Stony Brook University. 
+ Organizational Overview 
+ The mission of the Collider-Accelerator Department (C-AD) is to operate, maintain, improve, and upgrade the suite of electron, proton, and heavy ion accelerators used to carry out a program of accelerator-based experiments at Brookhaven National Laboratory (BNL). To support this program, the C-AD must design, fabricate, assemble, test, install, and operate unique research equipment to generate, transport, transfer, accelerate, focus, track, collide, and absorb high intensity particle beams up to energies of 250 GeV. This includes a combination of custom designed and built parts and vendor produced components developed by a collaboration of the C-AD scientific, engineering, and technical staff. The C-AD supports an international user community of over 1,500 scientists. The C-AD performs all these functions in an environmentally responsible and safe manner, under a rigorous conduct of operations approach. 
+ Position Description 
+ The Collider Accelerator Department has an opening for an Electrical Engineer to design, develop, integrate, commission and support the operation of complex beam line instrumentation systems. These include beam current and charge monitoring devices, screen and wire transverse profile monitors, position monitors, and tune meters. The position involves responsibilities for new and existing beam instrumentation systems, signal processing electronics, calibrations, interface to the Linux based Controls system and overall performance to meet the needs of the physics program. Will work as a contributing and productive member of a team of engineers and assist in the direction of technicians during all phases of component selection, prototyping, construction, commissioning and equipment operation. The Accelerator Components & Instrumentation Group is responsible for operation and upgrade of a wide variety of beam instrumentation systems for the RHIC (Relatvistic Heavy Ion Collider) complex of particle accelerators and other existing and planned accelerator systems. This will require understanding of systems details within your responsibility and understanding how and why they are important to the overall operation of the machines. Must possess the keen ability to push the leading edge and recommend methods for solving problems. 
+ Position Requirements 
+ Required Knowledge, Skills, and Abilities: 
+ 
+ Requires a bachelor's degree in electrical engineering or closely related field 
+ A minimum of seven years relevant experience 
+ Knowledge of analog and digital electronic circuits and troubleshooting experience to the component level 
+ Experience with electronics test equipment, scopes, spectrum analyzers and multi-meters. 
+ Use of CAD design tools for electronic circuit simulation and design 
+ Excellent written and verbal communication and good interpersonal skills are required to interact with a diverse group of scientists and technical staff 
+ Ability to support a team with diverse skills and talents during all phases of design, construction, testing, repair and upgrade of existing equipment and operations support 
+ 
+ Preferred Knowledge, Skills, and Abilities: 
+ 
+ MS degree in electrical engineering 
+ Prior experience with particle beam current and charge monitoring, transverse profile and position measurement and tune meter systems. 
+ Experience with RF and analog circuit design, amplifiers, gated integrators, digitizers and digital signal processing, 
+ Experience with P-Spice, Cadence and LabVIEW software. 
+ Experience with Linux operating systems, FPGA programming and Microsoft Office applications. 
+ 
+ OTHER: 
+ 
+ Must be able to lift up to 30 lbs 
+ Must be able to work at heights of up to five (5) feet 
+ Must have valid driver's license 
+ 
+ At Brookhaven National Laboratory we believe that a comprehensive employee benefits program is an important and meaningful part of the compensation employees receive. Our benefits program includes, but is not limited to: 
+ 
+ Medical Plans 
+ Dental Plans 
+ Vacation 
+ Holidays 
+ Life Insurance 
+ 401(k) Plan 
+ Retirement Plan 
+ Paid Parental Leave 
+ Swimming Pool, Weight Room, Tennis Courts, and many other employee perks and benefits 
+ 
+ Brookhaven National Laboratory (BNL) is an equal opportunity employer that values inclusion and diversity at our Lab. We are committed to ensuring that all qualified applicants receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a veteran, disability or any other federal, state or local protected class. 
+ BNL takes affirmative action in support of its policy and to advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities. We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation. 
+ *VEVRAA Federal Contractor 
+ 
+ 
+ Internal Number: 2139 
+  __  Create a Job Alert for Similar Jobs  
+ About Brookhaven National Laboratory 
+ Brookhaven National Laboratory is a multipurpose research institution funded primarily by the U.S. Department of Energy’s Office of Science. Located on the center of Long Island, New York, Brookhaven Lab brings world-class facilities and expertise to the most exciting and important questions in basic and applied science—from the birth of our universe to the sustainable energy technology of tomorrow. We operate cutting-edge large-scale facilities for studies in physics, chemistry, biology, medicine, applied science, and a wide range of advanced technologies. The Laboratory's almost 3,000 scientists, engineers, and support staff are joined each year by more than 4,000 visiting researchers from around the world. Our award-winning history, including seven Nobel Prizes, stretches back to 1947, and we continue to unravel mysteries from the nanoscale to the cosmic scale, and everything in between. Brookhaven is operated and managed by Brookhaven Science Associates, which was founded by the Research Foundation for the State University of New York on behalf of Stony Brook University, and Battelle, a nonprofit applied science and technology organization. 
+ Connections working at Brookhaven National Laboratory 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Sr. Maintenance Technician, Thin Film Coating 
+ __  Newton, New Jersey 
+ 
+ 
+ 
+ 
+ Thorlabs, Inc. 
+ __2 Days Ago 
+ 
+ 
+ Postdoctoral Research Fellowships (Machine Vision/Image Analysis) 
+ __  Boston, Massachusetts 
+ 
+ 
+ Guillermo J. Tearney, M.D., Ph.D. 
+ __2 Days Ago 
+ 
+ 
+ Applications Specialist 
+ __  Newton, Virginia 
+ 
+ 
+ Thorlabs, Inc. 
+ __5 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

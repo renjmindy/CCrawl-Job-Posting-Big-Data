@@ -1,0 +1,6 @@
+ Qualifications 
+ Passion for designing incredible user experiences Outstanding UX ability, visual design and product thinking for mobile apps At least +3 years experience in full stack design Comfort with an iterative design process that includes accepting and acting on feedback 
+ Bonus  A diverse design portfolio that showcases a deep understanding of human-centered interaction design and a strong design aesthetic Experience leading other designers, providing feedback and directing work Previous experience at a high-growth company or in a consumer-focused tech organization Familiarity with creating interactive prototypes Branding or other creative experiences 
+ Technology 
+ Titan uses Javascript from the DB (Mongo) all the way through to the client application (React Native). 
+ Other jobs at Titan 

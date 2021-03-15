@@ -1,0 +1,89 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Wanderlog (W19) 
+ Travel planner for researching, organizing, and mapping itineraries 
+ Full-stack software engineer (any level of experience, remote-friendly) 
+ $55k - $80k • 0.25% - 1.25% 
+ Location 
+ San Francisco / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Wanderlog 
+ Wanderlog is building tools to make leisure travel easier. We believe that travel makes us and the world better, and are trying to lower the bar to it. Our product so far is a Google Docs for planning travel and sharing recommendations. 
+ We’re an engineering and product-heavy team. A typical week’s work involves talking to users, prioritizing tasks on a kanban, designing on Figma, and building and shipping continuously. Harry and I have worked at Stripe, McKinsey, and Google and studied Computer Science at Yale, and at Wanderlog, we try to take the best parts of each of the places we’ve been and bring them together. 
+ We believe in work-life balance. We work regular hours, take time off as a team to eat lunch together (and even cook!), exercise, and enjoy time with friends and family. We love travel and believe it rejuvenates us and makes us better people, and have quarterly travel offsites where the goal is to just enjoy visiting a new place and use the tools we’ve built. 
+ If you enjoy travel, and would love to make it easier for the rest of the world to do it, send us a note at  [email protected] ! We’d love for you to join our team. 
+ About the role 
+ Skills:  JavaScript, Node.js, React, React Native, TypeScript 
+ Warning  : if you're outside of the Americas timezones, unfortunately, we're only hiring for engineers with at least timezone overlap! 
+ Wanderlog  helps make leisure travel easier. We believe that travel makes the world better, and are building tools that lower the bar to it. Our first product is a Google Docs for planning travel and sharing recommendations. We're now the top-ranked app on the Android Play Store for terms like "itinerary" and "trip planner", and on Google for terms like "travel planner" and "itinerary planner". Even during COVID, we've seen our userbase grow. 
+ Our founders are twin brothers. Peter worked as an engineer at Stripe and a consultant at McKinsey, and Harry as a product manager at Google. We’re an engineering and product-driven team: the founders studied computer science at Yale, and have built successful, bootstrapped travel companies (BookWithMatrix and All the Flight Deals) with products people love before starting Wanderlog. 
+ We're now a team of 5, including Namphuong, a former Doordash designer, Catherine, an engineer previously at Workday, and Gabe, a current full-year Yale student intern! 
+ We also love traveling. Whether it’s a short hop to Austin, Seattle, or New Orleans; or a longer jaunt to Australia, Hawaii, or Banff National Park (all places the team’s traveled to in the past year!), travel broadens our horizons, builds empathy, and challenges us to grow. We’re working to bring these experiences to more of the world. 
+ What you’ll do: 
+ We’re looking to hire a full-stack engineer to help us build out the future of travel planning. As an engineer, you will: 
+ 
+ Build new features on our website and mobile app. (Our stack is full Javascript: modern React, Node.js, Typescript, and React Native.) 
+ Design and decide what to build based on what would help travelers and drive growth. You won’t be handed a spec; you’ll be coming up with it! 
+ Build data pipelines to crawl, process, and synthesize data from various sources around the web. 
+ Write tests and and build out engineering infrastructure. Our code is fully typed (Typescript) and tested. 
+ Debug and fix bugs and scale the infrastructure as it grows. 
+ Review code written by other engineers. 
+ 
+ This position is a full-time role reporting to the cofounders who currently live in San Francisco. Our company is fully remote during the pandemic, though we’d want to work together closely or in person for a few weeks when we start. 
+ What you might work on: 
+ 
+ Improvements to our React Native mobile app that will let our users add rental car reservations, buses, and trains in addition to flights and hotels (which you can already do). 
+ A widget in the Wanderlog editor to see information from more sites around the web about places that you add to a trip planning document. 
+ Better invite and collaboration tools to encourage people using Wanderlog to get more friends to join them. 
+ A profile page that lets travelers on Wanderlog show off where they’ve been, see how many people they’ve helped, and follow other friends and their trips. 
+ 
+ You may be a good fit if you: 
+ 
+ Are a Javascript developer comfortable with React and/or React Native. 
+ Are a product person: you’ve built products end-to-end before, and really care about the people who use them. 
+ Are comfortable with picking up various technologies for the task at hand. We quickly evaluate libraries and tools that could help our product, and variously use Redis, Elasticsearch, and Python as needed too. We’re not experts, but we learn! 
+ Are entrepreneurial: excited about joining a small, high-growth team and talking to users, doing product and design, and wearing a variety of hats. 
+ Love travel and believe in it as a positive force personally and for the world. 
+ 
+ What’s it like to work here? 
+ We’re an engineering and product-heavy team. Travel’s something everyone does, and we love using the tools we build. A typical week’s work involves talking to users, prioritizing tasks in Sheets, designing on Figma, and building and shipping them continuously. 
+ We believe in work-life balance. We stop working and eat together for lunch. We work reasonable hours, and make time for working out, and enjoying life with friends and family. We love travel and believe it rejuvenates us and makes us better people, and have quarterly travel offsites where the goal is to just enjoy visiting a new place and use the tools we’ve built. 
+ Our hiring process 
+ We’ll chat with you about your past work in a short interview mostly based off your resume, and then work on a standard coding exercise on a laptop. We'll then do another coding interview; if that goes well, it's followed by a full-day onsite of the same process. 
+ Founders 
+ Peter Xu and Harry Yu are twin brothers. Peter shuttled between Los Angeles, Houston, New York, Tokyo, and Hong Kong as a consultant at McKinsey before settling down at Stripe as a full-stack engineer, where he worked closely with support teams to build tools that made support agents’ work more productive. 
+ Harry worked at Google as a product manager for the past 5 years on Hotel Search, Chrome, and finally Google Assistant for the past three, where he was one of the early PMs on the team. 
+ Before building Wanderlog, they had built Coursetable (featured in the New York Times) and travel sites All the Flight Deals (a flight deals aggregator) and BookWithMatrix (a power-traveler flight search tool), which together make over $600,000 in monthly flight bookings. 
+ Technology 
+ Our core stack is: 
+ 
+ React for front-end 
+ Node.js/Express for back-end 
+ MySQL database 
+ 
+ As an engineer, you'll also be working with the wild and wonderful world of geospatial data. We integrate information from Google Maps, Tripadvisor, Yelp, blogs around the web, and more, and are experts at crawling data and ingesting it. 
+ Other jobs at Wanderlog 
+ Full-stack software engineer (any level of experience, remote-friendly) 
+ fulltime 
+ San Francisco / Remote 
+ Full Stack 
+ $55k - $80k 
+ 0.25% - 1.25% 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

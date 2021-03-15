@@ -1,0 +1,192 @@
+Mathematical Matters of the Heart 
+ Mirams' Modelling Musings. A place to put interesting observations, problems, and other musings that aren't big enough for whole journal articles! 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ Tag Archives: job 
+ Job Available: Statistical inference for mechanistic models 
+ Posted on  October 4, 2019  by  Gary Mirams 
+ N.B. Applications for this position are now closed. We are offering a 3 year position as a research fellow in statistical inference for mechanistic models. This is offered at either Postdoc or Senior postdoc level (equivalent grade to Assistant Professor) …  Continue reading -> 
+ Posted in  Action Potential Models ,  Drug action ,  Experimental Design ,  Ion Channel Models ,  Model Development ,  Numerics ,  Stats and Inference  | Tagged  Bayesian Inference ,  calibration ,  identifiability ,  inference ,  inverse problem ,  job ,  jobs ,  model complexity ,  model construction ,  model discrepancy ,  model selection ,  parameter fitting ,  validation  |  Leave a comment 
+ Job Available: Research Software Engineer 
+ Posted on  February 11, 2019  by  Gary Mirams 
+ Edit: please note the deadline for applications has now passed. Here's a great opportunity to join our team at the University of Nottingham on a 5 year Research Software Engineering (RSE) position:  https://www.nottingham.ac.uk/jobs/currentvacancies/ref/IS046219  The deadline for applications is 3rd March …  Continue reading -> 
+ Posted in  Action Potential Models ,  Drug action ,  Future developments ,  Ion Channel Models ,  Model Development ,  Numerics ,  Safety Pharmacology ,  Stats and Inference  | Tagged  Cloud computing ,  GPGPU ,  HPC ,  job ,  jobs ,  research software engineer ,  RSE ,  simulation ,  training  |  Leave a comment 
+ Postdoctoral Research Positions Available 
+ Posted on  December 15, 2018  by  Gary Mirams 
+ N.B. 16th Jan 2019 - the applications for these positions are now closed. This post is to let people know about some opportunities for postdoctoral research here in the Centre for Mathematical Medicine & Biology, based in Mathematical Sciences, University …  Continue reading -> 
+ Posted in  Action Potential Models ,  Drug action ,  Experimental Design ,  Future developments ,  Ion Channel Models ,  Model Development ,  Safety Pharmacology ,  Stats and Inference  | Tagged  job ,  jobs ,  PhD ,  Postdoc ,  training  |  1 Comment 
+ Postdoc position available 
+ Posted on  September 4, 2017  by  Gary Mirams 
+ N.B. This position is now closed. Another short post, just to advertise a postdoctoral research associate (PDRA) position available to work with me. It's a two year position, based at the Centre for Mathematical Medicine & Biology at the University …  Continue reading -> 
+ Posted in  Drug action ,  Experimental Design ,  Future developments ,  Ion Channel Models ,  Model Development ,  Safety Pharmacology ,  Stats and Inference  | Tagged  CiPA ,  job ,  PDRA  |  Leave a comment 
+ Job Advert 
+ Posted on  June 26, 2015  by  Gary Mirams 
+ A quick shameless plug for a job we are advertising. This is a 3 year postdoctoral position to work with me in the Computational Biology Group in the Department of Computer Science, University of Oxford. It would best suit someone …  Continue reading -> 
+ Posted in  Future developments  | Tagged  inference ,  inverse problem ,  job ,  model comparison ,  model construction ,  parameter fitting ,  uncertainty  |  Leave a comment 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ Our new review on fitting cardiac models 
+ Job Available: Statistical inference for mechanistic models 
+ Hodgkin-Huxley models and Markov equivalents 
+ Three potassium channel modelling papers 
+ Job Available: Research Software Engineer 
+ 
+ 
+ 
+ Archived posts 
+ 
+ 
+ Archived posts Select Month February 2020  (1) October 2019  (1) September 2019  (2) February 2019  (1) December 2018  (1) October 2018  (1) July 2018  (1) May 2018  (1) April 2018  (1) September 2017  (1) August 2017  (1) March 2017  (1) November 2016  (1) August 2016  (1) June 2016  (1) May 2016  (1) February 2016  (1) October 2015  (1) September 2015  (1) June 2015  (2) May 2015  (1) March 2015  (1) December 2014  (1) July 2014  (2) May 2014  (1) April 2014  (1) March 2014  (1) January 2014  (2) October 2013  (1) 
+ 
+ 
+ Tag cloud 
+ 
+ ablation 
+ Action potential 
+ alpine cyclamen 
+ APD 
+ Bayesian Inference 
+ benchmark 
+ bidomain 
+ block 
+ calibration 
+ Cardiac electrophysiology 
+ CellML 
+ CiPA 
+ concentration-effect 
+ conductances 
+ connexin 
+ curation 
+ dose-response 
+ drug 
+ Drug action 
+ Drug safety 
+ ECG 
+ Finite element 
+ finite element meshes 
+ finite element simulations 
+ Functional Curation 
+ Future 
+ hERG 
+ high-throughput 
+ Hypothesis 
+ IC50 
+ identifiability 
+ IKr 
+ inference 
+ initial conditions 
+ inverse problem 
+ ion channel 
+ ion current 
+ job 
+ jobs 
+ logistic 
+ log logistic 
+ Meshing 
+ model 
+ model comparison 
+ model complexity 
+ model construction 
+ Models 
+ model selection 
+ mouse 
+ numerical methods 
+ ODE solving 
+ open questions 
+ opinion 
+ parameter fitting 
+ pIC50 
+ QT 
+ Safety pharmacology 
+ scar 
+ screening 
+ SED-ML 
+ sensitivity 
+ sensitivity analysis 
+ Silly 
+ simulation 
+ standing wave 
+ steady state 
+ tetrahedral mesh 
+ tetrahedral meshes 
+ tissue simulation 
+ training 
+ uncertainty 
+ validation 
+ Virtual experiments 
+ wave 
+ Web Lab 
+ 
+ 
+ 
+ Categories 
+ 
+ Academia-in-general 
+ Action Potential Models 
+ Blog 
+ Drug action 
+ Experimental Design 
+ Future developments 
+ Ion Channel Models 
+ Model Development 
+ Numerics 
+ Safety Pharmacology 
+ Silly 
+ Stats and Inference 
+ Tissue Simulations 
+ Uncategorized 
+ Unexplained 
+ Virtual Experiments 
+ 
+ 
+ 
+ Follow me on Twitter 
+ 
+ 
+ My Tweets 
+ 
+ 
+ Blog Stats 
+ 
+ 22,224 hits 
+ 
+ 
+ 
+ RSS Feeds 
+ 
+ 
+   RSS - Posts 
+   RSS - Comments 
+ 
+ 
+ Follow Blog via Email 
+ 
+ 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 624 other followers 
+ Email Address: 
+ Follow 
+ 
+ 
+ Wordpress Links 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  Mathematical Matters of the Heart  
+  Create a website or blog at WordPress.com  
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

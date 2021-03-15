@@ -1,0 +1,157 @@
+SecurityHeadhunter.com -Our Blog 
+ Breaches, Tips, Stories & Insights from a true Security Headhunter 
+ Menu 
+ Skip to content 
+ 
+ Home 
+ About Me 
+ Contact Us 
+ 
+ Security Job: Application Security Consultant 
+ Posted on  April 4, 2011  by  Wils Bell 
+ Applications  **** Security  **** Engineer 
+ 
+ (Client will consider someone on a telecommuting basis that is "VERY" experienced in Web AppSec source code review with solid 
+ utilization of source code review tools.) 
+ 
+ 
+ Job Type:  Full-time salaried position 
+ Job Locations  : Telecommute 
+ Compensation  : $90,000 to $115,000 salary, maybe more 
+ Telecommute  : Yes 
+ Education  : BS strongly preferred, but not required. 
+ Travel %  : minimal 
+ Relo Paid  : Possible assistance available on a case by case basis 
+ Certifications Preferred:  CISSP is NOT required, but would be a plus 
+ SecurityHeadhunter.com   ,  a Security Search Firm, has been selected to conduct a search for a Web Application Security Consultant. Our client is looking for a person who has a passion for Web AppSec and understands that this area continues to evolve. The successful candidate needs to have solid Web AppSec experience working performing  secure code reviews . Should have experience with one of the leading  source code review tools  such as Fortify, AppScan, HP Web Inspector or Hail Storm. 
+ A true understanding of the  OWASP Top 10  is also needed. 
+ Successful candidate needs to be able to work with and relate to software developers during any and all remediation processes. 
+ Any experience as a software developer working with Java and /or .Net would be very desirable. 
+ RESPONSIBILITIES & DUTIES 
+ 
+ Conducting web application security source code review / analysis and application vulnerability assessments on both new and existing web applications. **** 
+ Successful candidate will have solid experience performing assessments and testing combined with researching exploits and vulnerabilities 
+ Solid understanding of best practices and methodologies of source code reviews. 
+ Ability to prepare formal security assessment reports for all applications. 
+ Participate and lead  when necessary  conference calls with internal business customers to review security assessment results. 
+ Consult with these internal business customers on remediation options and the retesting of security vulnerabilities that have been fixed and republishing your report to indicate the results. 
+ Ability to communicate complex security subjects in easy-to-understand terms. 
+ Desire to stay current with emerging technologies and industry trends. 
+ Ability to work in a fast paced, challenging and sometimes stressful environment while keeping a cool head. 
+ Ability to look at the big picture and help in finding acceptable solutions and remedies. 
+ Strong focus and ability to dealing with internal users and customers 
+ Solid written and verbal communication skills. 
+ 
+ To be considered for this position, please contact  Wils Bell  directly OR email a confidential resume to  :   Bell@SecurityHeadhunter.com  **** 
+ Wils Bell 
+President 
+SecurityHeadHunter.com, Inc. 
+POB 620298 * Oviedo, FL 32762 
+Direct: 407-365-2404 
+ Email:   Bell@SecurityHeadhunter.com 
+ Web  :  SecurityHeadhunter.com 
+ __ 
+ _ "A Security Search Firm” _ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  HeadHunting Stories . Bookmark the  permalink . 
+ Post navigation 
+ <- Traditional Recruitment Methods in the Security Niche 
+ Interviewing Advice -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Recent Posts 
+ 
+ Security Job - Director Cyber Security / NERC CIP Solutions & Business Development 
+ Security Breaches & Security News 
+ Breaches & Security News 
+ Security Job: AVP Infosec 
+ Security Breaches & Security News 
+ Latest Infosec News 
+ Where's that document I signed? 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Security Breaches, Security News & More (week ending 2-17-12) 
+ Breaches, Cyber Crime & Security News Highlights 
+ Breaches & Information Security News 
+ Breaches From Across the Net Week ending 1-13-12 
+ Security Job: Due Diligence Marketing Representative 
+ Breaches and Security Articles from Around the Web 
+ Breaches & Security News from Around the Internet 
+ Breaches & Security Articles from Around the Web 12-14-11 
+ Breaches & Security News From Around the Web 12-06-11 
+ Breaches & Security Articles From Around The Web 12-2-11 
+ Interviewing Advice 
+ Security Job: Application Security Consultant 
+ 
+ Twitter Updates 
+ 
+ France rejects Google's appeal on right to be forgotten   csoonline.com/article/298505…  via @ csoonline   5 years ago 
+ RT @ Sec_Headhunter : The Next Wave of Cyberattacks Won’t Steal Data — They’ll Change It   defenseone.com/threats/2015/0…   #Security   #infosec   5 years ago 
+ 
+ Follow @Security_REC 
+ Blogroll 
+ 
+ About Us 
+ Blog Catalog 
+ Client Recommendations 
+ My LinkedIn Profile 
+ SecurityHeadhunter Website 
+ Today's Audit Journal 
+ Twitter - Follow Me 
+ WordPress.com 
+ 
+   Subscribe to RSS 
+ 
+ Security Job – Director Cyber Security / NERC CIP Solutions & Business Development 
+ Security Breaches & Security News 
+ Breaches & Security News 
+ Security Job: AVP Infosec 
+ Security Breaches & Security News 
+ 
+ Twitter Posts 
+ 
+ France rejects Google's appeal on right to be forgotten   csoonline.com/article/298505…  via @ csoonline   5 years ago 
+ RT @ Sec_Headhunter : The Next Wave of Cyberattacks Won’t Steal Data — They’ll Change It   defenseone.com/threats/2015/0…   #Security   #infosec   5 years ago 
+ 
+ Follow @Security_REC 
+ Categories 
+ 
+ HeadHunting Stories  (40) 
+ Helpful Tips: Candidates  (10) 
+ My LinkedIn Profile  (2) 
+ Non Security Jobs  (3) 
+ Security Articles  (22) 
+ Security Breaches  (18) 
+ Security Jobs  (15) 
+ Uncategorized  (6) 
+ 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

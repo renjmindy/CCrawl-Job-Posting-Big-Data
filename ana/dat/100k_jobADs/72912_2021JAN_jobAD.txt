@@ -1,0 +1,164 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Full Stack Developer 
+ at Howbout 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ What is Howbout?   🎈 
+ Howbout is a social planning app that modernises the calendar and the way you organise your social & personal life. It helps you instantly find a date you're all free, easily organise any in-person or virtual event and quickly manage everything you've got going on. 
+ Following a really exciting 1st year - where we were downloaded 30,000 times, were featured 3x by Apple, helped users in >100 countries organise more than 700 events a day and got backing from a senior Snapchat exec - we're looking to grow our team and take Howbout to the next level. For more information about Howbout, check out our  website . 
+ Who are we looking for?   👋 
+ We're looking for a full-time Full Stack Developer to help us continue building the ultimate social planning app. You'll contribute new product ideas and plan, develop and test new app features, across frontend and backend systems. 
+ **What 's the role? ** 💻 
+ 
+ As a Software Engineer at Howbout, you'll be working alongside our 2 existing engineers, Duncan and Cal. Given our early stage, your work will actively drive the company's next stage of growth and you'll be working on all elements of the tech stack 
+ Although your main role will be focused on the tech side of the business, you'll be working closely with the founding team, allowing you to input on key development and business issues 
+ 
+ What will you be doing?  👨‍💻 
+ 
+ Working on all elements of our tech stack 
+ Designing, implementing and testing new product and platform features, including frontend and backend development of the app 
+ API and infrastructure development 
+ Working in an agile team environment with daily stand-ups 
+ Contributing to design and product meetings 
+ 
+ **What 's the Howbout stack? ** 🤖 
+ 
+ Ionic Cordova app for iOS and Android, written in Typescript 
+ Laravel API, written in PHP, served by AWS Lambda 
+ AWS Aurora MySQL database 
+ 
+ What do we need from you?   😃 
+ 
+ Knowledge and experience of the following Howbout stack technologies is not directly required but preferred:
+ 
+ Angular / TypeScript / JavaScript 
+ Laravel / PHP 
+ HTML5 / SASS / CSS 
+ SQL 
+ 
+ 
+ A drive to automate everything and ensure anything newly built is fully tested 
+ Experience with Git or other version control systems 
+ A strong work ethic, team player mentality and ability to work independently 
+ A sense of humour - we don't take life too seriously at Howbout! 
+ The passion to learn new technologies 
+ A degree in Computer Science or a related field, or the personal or professional experience to show that this doesn't matter 
+ 
+ **What 's in it for you? ** 🙌 
+ 
+ Full-time position at a high growth tech startup 
+ Opportunity to shape the company as one of its earliest employees 
+ Competitive salary and generous share option package 
+ Remote working during Covid, including a contribution towards your WFH setup 
+ Post-pandemic, flexible WFH policy 
+ Regular company events with a young, social team 
+ Early finish Fridays 
+ Training and career progression opportunities 
+ + more as we continue to grow and expand our office, team and social perks 
+ 
+ **What 're the next steps? ** 🤝 
+ If you're interested, please shoot us your CV and, if you have any, examples of previous work / projects (e.g. via GitHub) and we'll be in touch. 
+ Published at 13 Jan 2021 - Expires on 28 Feb 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Howbout 
+ fulltime  Head of Marketing  at Howbout in London 
+ __13-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

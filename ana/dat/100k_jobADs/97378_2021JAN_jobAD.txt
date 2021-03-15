@@ -1,0 +1,389 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Android Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Android Developer ? 
+ ](https://www.workana.com/en/hire/android) 
+ 1 hour ago 
+ Aplicación compatible con Android y Ios (en inglés) 
+ Published: 1 hour ago  Bids: 0 
+ Se necesita realizar una aplicación móvil; estos son los detalles: 
+ - App made in the technology that runs on android and iOS. 
+- In general i'd love it to be as simple and intuitive as possible. 
+ The idea: 
+PhaseUs is an app that connects couples during different phases of the female's menstrual cycle. Both partners receive notifications referring to the particular cycle phase which help them understand the circumstances and needs of those phases and giving them helpful tips. 
+ Subsequent steps (screens) to illustrate the navigation from the moment of the app download: 
+ 1 - welcome screen with all the necessary links (Privacy Policy and Terms of Use consents). 
+ 2 - get reminders and hints about your cycle phases. PhaseUs will help you and your partner with better communication during different phases of your menstrual cycle (+Agree button) 
+ 3 - (3 sliding screens with texts as below on the bottom half of the screen and an animated relevant graphics on top half of the screen) 
+3a - PhaseUs is the first app that connects couples during different phases of the female's menstrual cycle 
+3b - Both you and your partner share the app 
+3c - PhaseUs will send you notifications with helpful tips referring to the particular cycle phase 
+3d - Understand yourself better than ever and share this with your partner 
+3e - Enjoy helpful tips and expert articles on your cycle and the best approach both you and your partner can take for a better mutual understanding. 
+(+Next button) 
+ 4 - Choose your plan 
+30 day free trial 
+(or) 
+1 month PLN .. 
+ Try free 
+(or) 
+Provide payment details (->form for payment details) 
+ 5 - Date of your last period (calendar to tap and choose the first day and number of days of the period) 
+(when selected, a popup appears) Log 3 previous periods here to make our predictions accurate. 
+(Next button) 
+ 6 - Phases of your current cycle (4 cycle phases: menstruation, the follicular phase, ovulation and the luteal phase marked on the X axis; letter "i" above each phase name with the brief information on them) 
+ 7 - Share PhaseUs with your partner. 
+ - Adding partner to the app by scanning the (qr?) code from the app downloaded by the female, or the sms link if the partner doesn't have the qr scanning app and doesn't want to download it, then - enter your phone number screen. 
+ - Logging through Facebook. 
+ - If 2 people already have the app, one can view the code and the other can scan it with the app. 
+ - A special link that the app supports and pairs with the person who sends the link. 
+ - Or maybe it would be possible to send a link that: 
+a) if there is no application installed -> opens the app store / google play, downloads the application and immediately pairs with this person, 
+b) if there is an application -> pairs with this person.) 
+ 8 - App usage 
+MVP is one screen with an X axis graph of the cycle and its successive phases + possibility (for a woman) to select symptoms in each of the 4 phases of the cycle plus matching notifications (I have them all listed) 
+The man will have a graph plus notifications for each day of each phase along with directions based on the symptoms he or she reports (each symptom is a different clue for him - I also have them listed). 
+ 9 - tell your friends about PhaseUS 
+- invite your friends, send link by sms, FB messenger, email 
+- share on social media 
+ Possible further steps to enrich the app: 
+- enriching the app with dietary and psychological advice (what to provide the body in subsequent phases of the cycle so that it runs as calmly as possible, natural methods of reducing stress, etc. 
+- possibility to connect and import cycle data from the currently used cycle tracking app 
+- version for lesbian couples 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Utility - Utility application (flash, calculator, etc.) 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  A. Germany 
+ USD 500 - 1,000 
+ 10 hours ago 
+ World War Ii 
+ Published: 10 hours ago  Bids: 4 
+ This Project is for remind story of world war II  and to give  a good story of world for next generation your child my child and for all of you child 
+Thank You. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android 
+ I need to  : Create an app 
+ App type  : Game 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  X. Indonesia 
+ USD 500 - 1,000 
+ Yesterday 
+ Autism learning app 
+ Published: Yesterday  Deadline: 20 Bids: 5 
+ I need a mobile application for autism Kids for English language learning. Just the English learning will do. I will give the design and I just want it to be applied in the app. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Other 
+ App type  : Other 
+ Similar apps  : Other 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  T. M. Malaysia 
+ USD 100 - 250 
+ Yesterday 
+ Image and video editor 
+ Published: Yesterday  Bids: 2 
+ Need a freelancer to design & develop a video editor - preferably as a plug-in to the native camera, to upload immediately to different social media sites by adding watermark - similar to "kinemaster". 
+ Few features, but not limited, I am interested to see as part of this project: 
+- Templates that accept videos and adjust the video to templated format - like video for Youtube, Instagram, Facebook, etc. 
+- filters (few will be paid) 
+- ad-integration 
+- special affects - glitter, snowing, rain, etc 
+- +1 for cloud editor functionality and invocation - footprint on mobile reduced and can accommodate more functionality 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android 
+ I need to  : Create an app 
+ App type  : Utility - Utility application (flash, calculator, etc.) 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  M. S. Last reply: 2 weeks ago  India 
+ USD 500 - 1,000 
+ Yesterday 
+ Video upload mobile app 
+ Published: Yesterday  Bids: 3 
+ Design and implement a video upload android app - preferably personal sharing and without copyright violations, with different social media sharing options, emoji comment, like/dislike along with tags and inbuilt video editing (minimal). 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android 
+ I need to  : Create an app 
+ App type  : Social media 
+ Similar apps  : Other 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  M. S. Last reply: 6 days ago  India 
+ USD 500 - 1,000 
+ 2 days ago 
+ App for skilled worker 
+ Published: 2 days ago  Bids: 4 
+ i want to manage my team of skilled worker 
+i want an app that can cater our customer outside and my skilled worker services 
+i can use this app to expand my list of skilled worker and my potential client 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Promotion - Application to promote your business/company 
+ Similar apps  : Other 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  B. S. Last reply: 2 hours ago  Philippines 
+ USD 250 - 500 
+ 2 days ago 
+ Smart Fishnet 
+ Published: 2 days ago  Deadline: 41 Bids: 3 
+ It is a B to B and B to C business platform where cryptocurrency technology will be used we will be providing the technology as well as the product it can be operated in all devices. Programming language should be Python. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Required platforms  : Android, iPhone, iPad, Other 
+ I need to  : Migrate an app 
+ App type  : Other 
+ Back-end is required  : Yes 
+ Payment gateway  : Yes 
+ Published by:  S. P. Last reply: 6 days ago  India 
+ USD 1,000 - 3,000 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

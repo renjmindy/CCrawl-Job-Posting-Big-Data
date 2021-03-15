@@ -1,0 +1,264 @@
+Andrew Leigh's Archived Blog 2004-2010 
+ An archive of blog entries written as an ANU economist 
+ Skip to content 
+ 
+ Home 
+ 
+ <- Inquiring minds 
+ Do Household Handouts Help? -> 
+ Can you help ONA do a better job? 
+ Posted on  September 20, 2009  by  andrewleigh 
+ I attended a fascinating roundtable last week on ‘open-source intelligence’ at the  Office of National Assessments  (ONA), a body whose mandate to ‘provide all-source assessments on international political, strategic and economic developments to the Prime Minister’. As a  recent US report  describes the topic: 
+ 
+ Open source information (OSINT) is derived from newspapers, journals, radio and television, and the Internet. Intelligence analysts have long used such information to supplement classified data, but systematically collecting open source information has not been a priority of the U.S. Intelligence Community. In recent years, given changes in the international environment, there have been calls, from Congress and the 9/11 Commission among others, for a more intense and focused investment in open source collection and analysis. However, some still emphasize that the primary business of intelligence continues to be obtaining and analyzing secrets. 
+ 
+ As a tech-savvy bunch of readers, let me ask the question: if you were in the business of using publicly available data to fulfill ONA’s mandate, are there any novel or unusual sources that you would draw upon? This includes sources that would provide new information, as well as those that might help sift the wheat from the chaff. 
+ (xposted @ Core) 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- Inquiring minds 
+ Do Household Handouts Help? -> 
+ 7 Responses to  Can you help ONA do a better  job? 
+ 
+ Anthony says: 
+ 
+  September 20, 2009 at 8:09 pm 
+ Decades ago historian AJP Taylor thought trained historians and journalists could dig out most of the information of interest to foreign governments from newspapers, magazines, telephone books, timetables and other sources in the public domain. A CIA experiment in the 1950s proved just that: a team of 5 Yale undergraduates managed to work out the entire US Army order of battle along with accurate appraisals of naval and air strength, all from documents in the public domain. 
+ This suggests the futility of much of what passes for espionage. The other sensible option is that suggested by Lord Egremont, secretary to Harold Macmillan: 'Much better if the Russians saw Cabinet minutes twice a week. Prevent all that f***ing dangerous guesswork' 
+ 
+ John Quiggin says: 
+ 
+  September 20, 2009 at 11:22 pm 
+ Henry Stimson was right (modulo some obvious social changes) when he said  Gentlemen don't read other gentlemen's mail . 
+ The crucial point is not to find better open sources but to abandon the futile search for covert sources with positive information content. Standard game theoretic reasoning shows that, under realistic conditions, no such source can exist. 
+ 
+ peter says: 
+ 
+  September 21, 2009 at 2:52 am 
+ The key challenge for foreign intelligence agencies has never been finding information, but discerning intent. In the 1970s, CIA obtained a Soviet plan to over-run western Europe using only conventional weapons, and to aim to do so too quickly for the US to respond effectively. But was the plan genuine, or was it mis-information? And if genuine, when were the Soviets planning to execute it? 
+ Discerning intent means understanding the mind of your enemies (or potential enemies) and this requires deep knowledge of, and even sympathy for, their culture, society and history. Robert McNamara, in the film "The Fog of War", argues that the US never had this deep understanding of the culture and society of Vietnam. Arguably, the West does not currently have this deep understanding of Islamic societies and culture. 
+ 
+ Kevin Cox says: 
+ 
+  September 21, 2009 at 4:42 am 
+ ONA should not be about "secrets" in fact I would be surprised if it was. ONA is a different animal from what we normally think about as "intelligence" and if it isn't then it has strayed from its mandate. 
+ I would think they should work closely with the people who are in the business of classification of which the main ones are the search researchers. I would be attempting to become a beta tester for Google. More importantly I would support and collaborate with companies in Australia that are in the search business. For example FunnelWeb is a company in Australia that ONA should support by asking them the same question. FunnelWeb can then apply its technologies to "the web". 
+ There are researchers in Australia who are looking at other methods and I would be attempting to support and work with those researchers. For example, anyone working on graph theory and the properties of networks in its broadest sense would be the areas where insights into "what is out there" are likely to give interesting results. This research is really getting machines to help do assessments. 
+ However, the best source of untapped information for ONA is the government's own data. ONA should be 100% behind Open Government 2.0 and in particular behind opening up data to the general population. Like all government the best use of resources is not in "doing things yourself" but in empowering the population to do the work for you. 
+ For example, if ONA worked on getting tax information available for researchers like yourself then that would achieve more than it trolling through data itself. 
+ So my advice to ONA if they want to draw on "novel and unusual sources" is to 
+ 1. Work on the mechanisms that will allow citizens, as well as themselves, to do assessments by helping others get access to information. 
+ 2. Support and encourage research in the areas of machine classifications and knowledge discovery. 
+ 
+ Andrew Norton  says: 
+ 
+  September 21, 2009 at 8:46 am 
+ This reminds me of a story in Timothy Garton Ash's book, The File. After the fall of communism in East Germany, he was able to get the file on him kept by East German intelligence when he had lived there. They thought he was working for MI6, and were trying to work out what he was sending back to London. In fact he was working for The Spectator magazine under a pseudonym, and all the East Germans needed to do find out what he was sending back to London was buy it. 
+ 
+ NikolasTM  says: 
+ 
+  September 21, 2009 at 9:17 am 
+ Thanks for an explanation, the easier, the better … 
+ 
+ Leon says: 
+ 
+  September 21, 2009 at 9:47 am 
+ Some kind of natural language processing technology might help -- like  Columbia Newsblaster , which tries to provide coherent summaries of news stories from multiple sources. 
+ Comments are closed. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Recent Posts 
+ 
+ The purpose of this blog 
+ Turning Points 
+ France Wins Clark Medal Again 
+ Of Becker and Mills, Picasso and Friedman 
+ Did the Tampa Stop Beazley Becoming PM? 
+ 
+ 
+ 
+ Recent Comments 
+ 
+ 
+ 
+ 
+ 
+ PJD on  Turning Points 
+ 
+ 
+ 
+ 
+ 
+ PJD on  Turning Points 
+ 
+ 
+ 
+ Clinton McMurray on  Turning Points 
+ 
+ 
+ 
+ ChrisPer on  Turning Points 
+ 
+ 
+ 
+ 
+ Daniel Waldenström  on  Turning Points 
+ 
+ 
+ 
+ 
+ 
+ Archives 
+ 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+ February 2005 
+ January 2005 
+ December 2004 
+ November 2004 
+ October 2004 
+ September 2004 
+ August 2004 
+ July 2004 
+ 
+ 
+ 
+ Categories 
+ 
+ Australian issues 
+ Australian Politics 
+ Behavioural Economics 
+ Blogging 
+ Book launch stuff 
+ Books 
+ Coming Events 
+ Current Affairs 
+ Development Economics 
+ Eclectic Observations 
+ Econometrics 
+ Economics & Public Policy Course 
+ Economics for Government Course 
+ Economics Generally 
+ Economics of Education 
+ Economics of Elections 
+ Economics of National Security 
+ Economics of the Family 
+ Election 
+ Environmental Economics 
+ Film 
+ Finance 
+ Food and Drink 
+ From the Frontiers 
+ Games 
+ Global issues 
+ Health economics 
+ Indigenous Policy 
+ Inequality 
+ Interesting stuff 
+ Iraq 
+ Jobs 
+ Labour Economics 
+ Law 
+ Low Wage Work 
+ Macroeconomics 
+ Media 
+ Prediction Markets 
+ Randomisation 
+ Religion 
+ Social Capital 
+ Sport 
+ Sports 
+ Tax 
+ Television 
+ Thinktanks 
+ Trade & Development 
+ Travel 
+ Uncategorized 
+ Universities 
+ Urban Economics 
+ US Politics 
+ Web/Tech 
+ Weblogs 
+ What I'm Reading 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ 
+ 
+  Andrew Leigh's Archived Blog 2004-2010  
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

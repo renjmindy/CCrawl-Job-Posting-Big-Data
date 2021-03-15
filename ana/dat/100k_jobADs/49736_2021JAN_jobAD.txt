@@ -1,0 +1,353 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ HTML Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance HTML Developer ? 
+ ](https://www.workana.com/en/hire/html) 
+ 2 days ago 
+ Mobile App for Inspection of activities on site 
+ Published: 2 days ago  Deadline: 54 Bids: 18 
+ 1. Development of Mobile App for Android Only 
+2. Mobile App functionalities need to read/write data based on Offline Mode & Sych once connected to Internet to the System Backend 
+3. API Development for the Backend System 
+4. 
+Duration of 1 & Half Month 
+5. Connected with Map Services for Location Based / Location of Inspection 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android 
+ I need to  : Create an app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  D. A. I. Last reply: 16 hours ago  Malaysia 
+ Over USD 3,000 
+ 8 minutes ago 
+ Property Website 
+ Published: 8 minutes ago  Deadline: 62 Bids: 0 
+ We need a corporate website featuring our company's vision, team members, contact form and all of our listings. 
+For our listings, we would also like to have a filter function that allows our clients to search by area, property type,  no.of  bedrooms, price range etc. 
+Also, we would like on build on a CRM system that allows us to automatically update potential clients when we have new listings in the future 
+ If you have any previous projects/websites related to property, could you kindly send us the links so we can have a general idea of what it would be like? 
+ We would like to get started as soon as possible. Looking forward to hear from you! 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Setup software bundle 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.) 
+ Published by:  N. Malaysia 
+ USD 1,000 - 3,000 
+ 35 minutes ago 
+ Need Trainer in Mern Stack 5-6 Hr daily / 25-30 Hr weekly 
+ Published: 35 minutes ago  Bids: 0 
+ Need Trainer in Mern Stack 5-6 Hr daily / 25-30 Hr weekly. 
+People should have good english  and be well versed with MERN Stack .. 
+Mongo 
+Expres 
+React 
+Node JS 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  B. C. India 
+ USD 250 - 500 
+ 8 hours ago 
+ Design Wordpress page and menus for online course 
+ Published: 8 hours ago  Bids: 1 
+ Hi. 
+ I need to design a web page for an online course. 
+ The web is in Wordpress and has the Enfold theme installed, which is very versatile. 
+ You only need to make a single template page. It is not required to do the whole web, only the template page. 
+ The design must be as similar as possible to the attached image: 
+ - Side menu that shows by default only the mother pages (pages), the children (subpages) will be seen only when clicking. 
+ - The side menu will be fixed, it will not scroll when scrolling on the screen. Only the content will scroll. If the menu options are too many to appear with the fixed menu, the menu will scroll, but independent of the content section. 
+As seen in the attached image. 
+ - Although it is not necessary for the design to be exactly like the image, it must be clear and clean. I have tried with Wordpress menu plugins and they are not clear and with good design. 
+ - It must be responsive, and the menu must work on tablets and mobiles 
+ Thank you. 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Custom development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  V. United States 
+ USD 50 - 100 
+ 12 hours ago 
+ Senior React and Node.Js Developers - Your talent is needed. 
+ Published: 12 hours ago  Bids: 6 
+ Hello Dev! 
+ I'm looking for an experienced developer for a 3 month - 1 year project.  You will work with a team of international experts for this project and help us using React and NodeJs. 
+This is a remote opportunity for developers based in Portugal, with an immediate start. 
+ Make the difference! 
+ Don't forget to share this opportunity with a friend who might be interested ;) 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  A. C. Last reply: 8 hours ago  United States 
+ Over USD 3,000 
+ 11 hours ago 
+ Roundcube: Elastic Skin: Modify default colors to reflect corporate... 
+ Published: 11 hours ago  Bids: 1 
+ I need someone who can take the elastic skin in roundcube and modify its colors to reflect our corporate colors (2 colors only). I need the job done correctly using the LESS compiler. There is nothing else that has to be done. 
+I don't want any other changes in the files than those reflected through the use of the LESS compiler. 
+ More info on the skin here: 
+ https://fossies.org/linux/roundcubemail/skins/elastic/README.md 
+ Category  : IT & Programming 
+ Subcategory  : Web design 
+ What is the scope of the project?  : Small update to an existing design 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Specific need  : Redesign a website 
+ Published by:  I. G. P. Last reply: 8 hours ago  Spain 
+ Less than USD 50 
+ 13 hours ago 
+ University conference management system 
+ Published: 13 hours ago  Bids: 2 
+ Hi. I need to develop a conference website for my university staff. Sample website: EasyChair. 
+My client's requirement is registration, manuscript submission, paper review process (reviewer assignment and paper review (blind review)), the announcement of review results and camera-ready paper (crp) submission. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.), Cloud Storage (Dropbox, Google Drive, etc.) 
+ Roles needed  : Developer, Designer, Project manager 
+ Published by:  T. R. Last reply: 7 hours ago  Malaysia 
+ USD 50 - 100 
+ Yesterday 
+ Website For Auto Claim Proccess 
+ Published: Yesterday  Bids: 7 
+ I need a website as soon as possible i have the domain. Need someone with experience. Im paying 100 dollars, please send your offers 
+ Category  : Design & Multimedia 
+ Subcategory  : Web design 
+ What do you need?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  L. R. Last reply: Yesterday  United States Payment method:  __Verified 
+ USD 50 - 100 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

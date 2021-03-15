@@ -1,0 +1,38 @@
+Skip to content 
+ 
+ Biographer 
+ 
+ Menu 
+ 
+ Home 
+ About 
+ Contact 
+ 
+ Specialized Search Engines: Articles, Jobs, Personals. . . 
+ Excerpt from the  patent  specification: 
+ 
+ FIG. 81 depicts a level 2 advanced USE embodiment optimized for searching job listings. Here, the user sets his or her ideal value for numbers of hours of work per week, for instance, and available positions are ranked under a “hours per week” subcomponent according to how close each listed position comes to the user’s ideal. Intracomponent weighting is again performed according to weights input by the user. 
+ FIG. 82 depicts a level 2 advanced USE optimized for searching an automobile ad database, again providing data entry fields through which a user can assign an ideal and a weight to a given subcomponent. In this particular example, a field is also included whereby a user can submit an e-mail address where search results can be sent. 
+ FIG. 83 depicts a variation of the level 2 advanced USE embodiment that provides two search components having subcomponents, optimized for searching a personal ads database. In this example, the results from each of two depicted compound components can be weighted relative to each other. Specifically, a given record is ranked according to each subcomponent in a “physical traits” compound component and these results are weighted and combined to produce a single score for that compound component. The same is done for a “personal traits” compound component. Then the result of the physical traits component is combined with the result of the personal traits component according to the user assigned weights of each compound component so as to produce a single overall score for the given record. 
+ FIG. 84 depicts a level 3 advanced USE. In a level 3 advanced USE, not only can a weight and an ideal be assigned to a subcomponent, but also a tolerance level with respect to variation from the ideal can be assigned. The tolerance level essentially serves as a filter mechanism as opposed to a scoring mechanism. In other words, records falling outside of an acceptable level of variation get no score under the search component. Alternately, at the choice of the given UET Company, records that exceed the tolerance set by the user can be excluded from search results altogether. 
+ In either case, the syntax a user uses to enter a tolerance level that can be properly processed can take whatever form the UET Company chooses to support. For instance, the tolerance level can be specified using a percentage accompanied by a plus (+) or minus sign (-); an integer that simply indicates how many units away from the ideal threshold an item can fall before exclusion; a greater than/less than relationship; or any other relative or absolute indicator that will serve to establish a meaningful boundary for acceptable variation. 
+ Thus, in FIG. 84, a search algorithm input form is depicted that includes two simple search components, A and B, and one compound search component, C. The compound search component provides subcomponents whereby searches on language, length, author rating, publication rating, and freshness of an article can be defined. Each subcomponent provides a data entry field for ideal, weight, and tolerance assigning for the given subcomponent. As shown, for the length subcomponent, the user has input “+50%/-5%” to indicate a willingness to accept articles that are up to 50 percent longer than the user-established ideal length (400 words in the depicted example) and down to 5 percent shorter than this ideal length. The user has entered a “0” in the tolerance field for author rating to indicate that no variation from the ideal is acceptable in this subcomponent. The user has entered a “+” in the tolerance field for the publication rating to indicate that variation of any magnitude is acceptable provided that this variation is positive, i.e., values greater than the user-established ideal are acceptable and values less than the ideal are not. 
+ FIG. 85 depicts a variation of the level 2 advanced USE in which one search component, labeled “must have”, serves as a filter, while the second component, labeled “prefer to have”, serves to rank results that have passed through the filter. The particular example is a USE optimized for searching airline flights. 
+ FIG. 86 depicts a primary USE with but a single field. This particular embodiment, of course, is attractive for its simplicity. Rather than having separate fields for selection of a search methodology and input of user-assigned weights and search terms, all three characteristics of a simple search component are input using operators that are parsed by the UET Company computers after submission by the user. 
+ Thus, in the depicted example, the first search component is defined via two main parts: (I) a search term (“finger-picking”) and (II) some information in parentheses. The information in parentheses identifies a search methodology to be used in the search under the given search component and a weight to be assigned to results of the given search component relative to other search components. Specifically, a number appears first and then is separated by a comma from a methodology selection. Thus, following the first search term in the depicted example is the information “(25, linksto)”. This information puts an intercomponent weight of “25” on the first search component and selects “linksto” as the search methodology for the first search component. Two more search components as input by the user are included in the depicted example. 
+ A user Provides data terms 8701, methodologies 8702, weights 8703, and, if weights are used for subcomponents 8704, sets weights for at least one subcomponent 8705. If ideals/standards are used 8706, the user also provides an ideal value 8707. If tolerances are used 8708, the user provides a tolerance 8709. 
+ 
+ back to  Science | Technology  main page 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Humane Party 
+ November 2020 Update - Happy World Vegan Month! 
+ Search 
+ Search for: 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

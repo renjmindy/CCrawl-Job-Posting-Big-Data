@@ -1,0 +1,127 @@
+WORK WITH INDIES beta 
+ Browse Jobs 
+ Art & Animation 
+ Audio 
+ Business & Operations 
+ Design 
+ Marketing & Community 
+ Production 
+ Programming 
+ QA & CS 
+ Writing 
+ Post a Job 
+ Back to all jobs See allProgrammingjobs 
+ Unity Developer 
+ Megagon Industries Apply for this Job 
+ Posted 
+ December 15, 2020 
+ Full Time 
+ Anywhere 
+ Remote 
+ We’re looking for a Unity Developer (d/f/m) with a broad set of skills to work on Lonely Mountains: Downhill and another unannounced project in a similar genre. Your task might include gameplay logic, UI implementation, audio implementation, editor tools, and console development. 
+ ‍ 
+ Responsibilities 
+ 
+ Develop and debug game logic as well as extend and maintain existing code. 
+ Work with artists & designers to discuss feasibility and workflows as well as implementing the ideas. 
+ Implement UI (logic, graphics & animations) based on design guidelines & wireframes. 
+ Work together with other team members to identify bottlenecks and potential issues. 
+ Write editor tools to reduce bottlenecks and repetitive work for you and the team. 
+ Keep the multiplatform aspect in mind and make sure the project fits the target platform’s requirements. 
+ Work closely with the audio team to provide them with all required parameters & tools. 
+ 
+ ‍ 
+ Requirements 
+ 
+ Solid experience with Unity (Editor & Code). 
+ Good knowledge of C#. 
+ High proficiency in writing efficient, organized, and highly performant code. 
+ Ability to work with and extend an existing codebase. 
+ Ability to debug, profile, and optimize all aspects of a Unity project. 
+ You love and play games and have a good understanding of what makes a game fun. 
+ Good verbal and written communication skills in English. 
+ You’re good at self-managing your tasks and responsibilities. 
+ 
+ ‍ 
+ Experience 
+ 
+ Junior:  At least one finished university/self-taught/commercial project where you were greatly responsible for programming the game. 
+ Regular:  At least one (nearly) shipped commercial game, 2+ years experience as a programmer. 
+ Senior:  Shipped multiple commercial games (or a really big one), 4+ years experience as a programmer. 
+ 
+ ‍ 
+ Bonus Points 
+ 
+ Experience with tool development for Unity. 
+ Experience with the Unity integration of FMOD. 
+ Basic knowledge of 3D workflows. 
+ Knowledge of 3D render concepts & pipelines. 
+ Experience with console development and APIs 
+ Working knowledge of version control software (GIT). 
+ 
+ ‍ 
+ Employment Details 
+ 
+ Full-time 
+ Able to work in CEST office hours (Mandatory Daily Standup 10am) 
+ Remote or on-site 
+ Start: February 2021 
+ 
+ ‍ 
+ Benefits 
+ 
+ Work on a critical-acclaimed game with 90%+ positive reviews. 
+ Work in a small, experienced team with complete creative autonomy. 
+ Work on games with a non-toxic and loving community. 
+ Flexible working hours. 
+ Public transportation ticket. 
+ Be part of  Saftladen  – the biggest indie game dev collective in Germany.  ‍ 
+ 
+ ‍ 
+ Please send your CV and salary expectations to **** jobs@megagonindustries.com   . 
+ ‍ 
+ About Lonely Mountains 
+ The  Lonely Mountains  are waiting for you! Explore rocky mountain slopes with your bike, jump over sandy gorges or find your way through the foggy forests. Each  Lonely Mountain  awaits you with new challenges! Sprint, jump and slide to find your own way to the finish line. Explore the detailed mountain worlds or face the ticking clock - with every success you unlock new bikes, paintwork and outfits piece by piece. Train your skills day and night, improve your place on the leaderboards and ultimately compete with the best riders in the world in the risky Free Ride mode. 
+ ‍ 
+ Apply for this Job 
+ related jobs 
+ sunset visitor is hiring a Unity Developerto join their team into work fromCanadaUnity Developersunset visitor | CanadaLearn More 
+ BlitWorks is hiring a Junior Unity Engineerto join their team into work fromBarcelona, ESJunior Unity EngineerBlitWorks | Barcelona, ESLearn More 
+ Bluecurse Studios is hiring a Part-Time Programmerto join their team into work fromAnywherePart-Time ProgrammerBluecurse Studios | AnywhereLearn More 
+ Blackfield Entertainment is hiring a Lead Unity Engineerto join their team into work fromAnywhereLead Unity EngineerBlackfield Entertainment | AnywhereLearn More 
+ One Lonely Outpost is hiring a Mid-Senior Programmerto join their team into work fromAnywhereMid-Senior ProgrammerOne Lonely Outpost | AnywhereLearn More 
+ Funomena is hiring a Lead Programmerto join their team into work fromAnywhereLead ProgrammerFunomena | AnywhereLearn More 
+ Indie games are wonderful. So are the people that make them. 
+ Make wonderful games. Be wonderful people. Work With Indies. 
+ Thank you for joining the Work With Indies newsletter! The next issue will arrive on Sunday. 
+ Oops! Something went wrong. Please try again. 
+ *Sign up to receive a weekly digest of new indie career opportunities. 
+ WORK WITH INDIES 
+ We’ve been lucky to have some incredible jobs working at and partnering with some of the biggest brands in video games. 
+ But we’ve never had more fun and been more fulfilled than when we were working with indie game developers. 
+ Everyone in games should have that much fun. 
+ Our hope is that Work With Indies will connect job seekers with the most rewarding, most inspirational, and most fun jobs they've ever had. 
+ NAVIGATION 
+ 
+ Post a Job 
+ Terms 
+ Privacy 
+ RSS 
+ Communities 
+ Nick's Cat 
+ 
+ CONTACT US 
+ 
+ 
+ nathan@workwithindies.com 
+ twitter.com/workwithindies 
+ facebook.com/workwithindies 
+ 
+ ^ 
+ Made by 
+ @natethenate 
+ and 
+ @nsuttner 
+ for people who 
+ indie games. 
+ © 2021  A Lot of Happy LLC 

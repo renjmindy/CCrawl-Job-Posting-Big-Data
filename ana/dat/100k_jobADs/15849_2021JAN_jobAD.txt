@@ -1,0 +1,246 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Engineering Manager 
+ at Gousto 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ About Gousto 
+ Founded in 2012 by Timo Boldt, Gousto is on a mission to change the way that people cook. We believe home cooking is important, so we’ve made it simple. We take the hassle out of planning, shopping and cooking, by delivering weekly meals with precisely measured ingredients and easy-to-follow recipes, so there’s no more ‘what’s for dinner' panic. 
+ As one of the most dynamic and fast-growing start-ups in the UK, Gousto currently leads the category offering more choice, more delivery options and lower lead times than any of its competitors. This is really only the beginning though, we have big plans to transform our proposition in 2020 and beyond. 
+ The Role 
+ To support and help shape this growth from an engineering team of ~60 to the ~130 we aim to be in 2022 we need to continue to invest in our Engineering Manager layer. This role will be critical to the business, not just by shaping significant growth but by 
+ delivering on increased expectations and ambition. 
+ The role will be accountable for the performance of 2-3 Engineering teams of between 5 and 9 people in size. Success in the role will mean leading your team in: 
+ 1. Ensuring Product Teams deliver on ambitious and stretching OKRs 
+ 2. Shaping our people and platform to support the growth ambitions of Gousto 
+ 3. Creating an environment and developing processes that promote both autonomy and accountability. 
+ Beyond the accountability for the performance of their direct team, a standout candidate will be expected to contribute across the whole Engineering team in both the day to day and in the Technology strategy. This will require working closely and collaboratively with peers, the Gousto Tech Management Team and across the whole business. 
+ A successful candidate for the role will need to have a strong intellectual curiosity, be able to drive change into a growing and maturing engineering team, and challenge their teams to always be improving. Constantly driving and searching for continuous 
+ improvement/best practice in a lean, asynchronous and distributed environment. Our ideal candidate will have experience in high growth technology lead organisation. 
+ Key Responsibilities 
+ Building world class product engineering teams – We are just at the beginning of our journey and will be looking to significantly invest in engineering talent going forwards. Helping to build a truly great team of engineers will be a big part of what you do. 
+ Continuing to evolve our Agile & Lean development process – Our teams have a lot of flexibility in the methodologies they use to deliver. We’re strong believers in creating space and autonomy for team, however we will always be looking to drive key messages and best practices from Agile & Lean and will look to our Engineering Managers to drive the accountability to create value for our customers into their teams. 
+ Obsessing over quality & performance – As a leader of engineers you should obsess over the quality of what the team delivers. Whether that be the quality and maintainability of our code, the quality and impact of our features, or making sure we identify and squash every bug out there. 
+ Promoting Gousto Technology in the wider industry – Gousto has a strong technology heart, with the department being a key stakeholder rather than execution engine. We need to do more to promote this across the industry abd become known as a go to technology destination. 
+ Requirements 
+ About the (ideal) candidate 
+ 
+ Strong software engineering background in scalable distributed applications. 
+ Experience leading high performing, autonomous product engineering teams in complex environments 
+ A delivery mindset - We have a lot to do in a short space of time. 
+ A fundamental understanding of the principles of Agile and Lean development. 
+ Experience in architecting distributed systems on a public cloud platform. Ideally, you’ll have experience designing a Microservices platform on AWS (even better if you did it without servers!). 
+ Worked within a DevOps organisation. At Gousto our developers are responsible for the operational health of the services they develop. We believe this fosters a great culture and are looking for someone who knows how to get the best from this. 
+ Worked within a DevOps organisation. At Gousto our developers are responsible for the operational health of the services they develop. We believe this fosters a great culture and are looking for someone who knows how to get the best from this. 
+ Excellent communication and presentation skills, whether to the engineering team, to business stakeholders or to our leadership team. 
+ Experience working in a fast-paced, high growth, technology focussed organisation. 
+ Proven experience of creating a forward-thinking technology culture. 
+ 
+ What’s it really like to work here? 
+ 
+ We are customer-centric, data driven and outcome focused, using lean principles to work iteratively, experiment and learn fast. 
+ We work in cross-functional squads which we are increasingly include business partners. This allows us to work more closely with our colleagues in food, operations and marketing, enabling greater alignment, collaboration and innovation. 
+ Our squads have a high level of autonomy to decide both what outcomes they should pursue and how they will achieve them. 
+ We believe in being agile rather than committing to a single framework. We have a set of lean and agile principles which we follow, but beyond that squads are empowered and encouraged to tailor their working processes. 
+ We discourage pigeon-holing which means our engineers are responsible for designing, writing, testing, deploying and maintaining their code in production. 
+ We don’t have QAs, and our architect works closely with squads to consult and collaborate. 
+ A devops culture is central to our way of working and our squads are responsible for running their solutions in production. 
+ Pairing and TDD are practices we champion and want to keep improving. 
+ 10% of our time is dedicated to tech innovation and we hold regular brown bags. 
+ We are committed to being involved in the wider tech community, hosting meetups,speaking at events and sharing learnings via our blog. 
+ 
+ Benefits 
+ At Gousto we are constantly looking to evolve our benefits for our people. Employees at Gousto are the key ingredient to our success and growth. 
+ We are currently remote working due to COVID-19. Our Environment Team has been busy reviewing how we could fully reopen our offices, when lockdown measures begin to ease and what additional safety measures we would need to implement to keep our people safe. 
+ Our offices are ergonomically tested for comfort, noise levels and ensuring we have different spaces to collaborate in. Not to mention daily coffee, tea, fruit and ice creams (vegan options too). We have weekly Friday socials ranging from team updates, birthday celebrations, meetups and more. Soft drinks, beer, wine and more snacks included (well, we do love food). 
+ Ping pong, gaming events, running clubs to pub clubs, wellbeing days and quarterly people events are just a few of the initiatives currently in place, with more to be announced. 
+ All Gousto employees are offered a benefits package of: 
+ 
+ 25 days holiday (plus bank holidays) and you can buy up to 5 days extra holiday 
+ A holiday day added each year (up to 30 days) 
+ 40% Gousto discount 
+ Your first Gousto box FREE 
+ 25% Gousto discount for friends and family 
+ Gousto Academy training courses 
+ Free food and recipes from the test kitchen 
+ Gousto stash – hoodie, notepad, mug 
+ 
+ For the full Gousto list of benefits just get in touch and we can share all the details. 
+ Equal opportunities 
+ One of our core values at Gousto is Care, and it applies to every aspect of life at Gousto. From fair wages, working hours and freedom of association, to equal opportunities for growth and development within the company, we are committed to ensuring our people are consistently treated in a fair and equal manner. 
+ Just as we see variety as central to our menu, we see diversity and inclusion as central to our organisation. We work together as one team, combining our strengths and our differences to achieve our dreams. We are an equal opportunity employer that does not tolerate discrimination in the workplace – at Gousto, everyone’s welcome. 
+ Published at 13 Jan 2021 - Expires on 21 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Gousto 
+ fulltime  Lead Engineer (Supply)  at Gousto in London 
+ __21-10-2020 
+ fulltime  Senior Backend Software Engineer (Menu)  at Gousto in London 
+ __21-10-2020 
+ fulltime  Multi-Skilled Maintenance Engineer  at Gousto in London 
+ __31-10-2020 
+ fulltime  Senior Product Analyst (Menu)  at Gousto in London 
+ __05-11-2020 
+ fulltime  Senior Data Engineer  at Gousto in London 
+ __05-11-2020 
+ fulltime  Data Engineer  at Gousto in London 
+ __05-11-2020 
+ fulltime  Product Manager - Supply  at Gousto in London 
+ __06-11-2020 
+ fulltime  Engineering Projects Manager  at Gousto in London 
+ __08-11-2020 
+ fulltime  Senior Data Scientist (Forecasting)  at Gousto in London 
+ __08-11-2020 
+ fulltime  Principal Data Scientist  at Gousto in London 
+ __08-11-2020 
+ fulltime  Senior Data Scientist (Menu)  at Gousto in London 
+ __08-11-2020 
+ fulltime  Solutions Architect (Supply Chain)  at Gousto in London 
+ __24-11-2020 
+ fulltime  Product Manager - Retention  at Gousto in London 
+ __02-12-2020 
+ fulltime  Warehouse Operations Manager  at Gousto in London 
+ __03-12-2020 
+ fulltime  Technical Operator  at Gousto in London 
+ __09-12-2020 
+ fulltime  Data Analyst  at Gousto in London 
+ __10-12-2020 
+ fulltime  Security Analyst  at Gousto in London 
+ __12-12-2020 
+ fulltime  Infrastructure Engineer  at Gousto in London 
+ __12-12-2020 
+ fulltime  People Services & Reward Manager  at Gousto in London 
+ __15-12-2020 
+ fulltime  Supply Chain Planning Manager  at Gousto in London 
+ __24-12-2020 
+ fulltime  Head of People (Fulfilment)  at Gousto in London 
+ __29-12-2020 
+ fulltime  Production Planning Manager  at Gousto in London 
+ __30-12-2020 
+ fulltime  Warehouse Operations Manager  at Gousto in London 
+ __05-01-2021 
+ fulltime  Junior Technical Coordinator  at Gousto in London 
+ __07-01-2021 
+ fulltime  Production Manager  at Gousto in London 
+ __09-01-2021 
+ fulltime  Health and Safety Manager  at Gousto in London 
+ __09-01-2021 
+ fulltime  Operations Manager  at Gousto in London 
+ __09-01-2021 
+ fulltime  HR Business Partner  at Gousto in London 
+ __09-01-2021 
+ fulltime  Production Supervisor Nights  at Gousto in London 
+ __09-01-2021 
+ fulltime  Junior Recipe Developer  at Gousto in London 
+ __09-01-2021 
+ fulltime  Lead Data Analyst (Menu)  at Gousto in London 
+ __09-01-2021 
+ fulltime  Product Analyst  at Gousto in London 
+ __09-01-2021 
+ fulltime  Recipe Developer  at Gousto in London 
+ __09-01-2021 
+ fulltime  Materials Planner  at Gousto in London 
+ __13-01-2021 
+ fulltime  Nights Transport Coordinator  at Gousto in London 
+ __14-01-2021 
+ fulltime  Forklift truck drivers  at Gousto in London 
+ __15-01-2021 
+ fulltime  Learning Advisor  at Gousto in London 
+ __17-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

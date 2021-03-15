@@ -1,0 +1,192 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Full Stack Software Engineer 
+ [ 
+ Urbest 
+ ](/companies/urbest) 
+ 
+ Remote 
+ 17 August, 2020 
+ Apply 
+ More jobs from Urbest About Urbest 
+ Salary 
+ €20K - 30K 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Clojure 
+ ClojureScript 
+ Docker 
+ Git 
+ KUBERNETES 
+ React Native 
+ Sentry 
+ Circleci 
+ Postgress 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Daily stand up 
+ Conference tickets 
+ Unlimited vacation 
+ Product impact 
+ Great tech stack 
+ Responsibility 
+ 
+ We look for humble, self-starter engineers with a strong eye for detail. 
+ Role overview 
+ We have a varied stack and our core application is built in Clojure. We are building microservices on top of this and we work with the latest technologies such as Postgres, Docker and AWS to name a few. Our tech team organises itself in an organic and efficient way to work, whilst each member takes a lot of responsibility for the end to end delivery of a core service/feature. 
+ Responsibilities   : 
+ 
+ Building a low latency, high availability and scalable global platform 
+ Creation of new Microservices/Event Driven Architecture across the business 
+ Globally scalable systems for capturing and tracking in all things related to property management. 
+ Proactively engaging in code review, pair programming sessions and continuously contribute to well documented and styled code.. 
+ 
+ Requirements   : 
+ 
+ You have at least 1 year production experience building products in Clojure and any two of Ruby, Python, JavaScript, Java, Scala, Go, C/C++ or C# 
+ You thrive in a TDD/BDD agile culture 
+ You love an environment focused on good Engineering practice, code reviews and regular pairing 
+ You are always happy to collaborate with others, guiding and mentoring where needed 
+ You have worked on full cycle product development and you are not afraid of deployment 
+ You are an avid problem solver and have experience in systems design and architecture 
+ You are well experienced in communicating efficiently and effectively as part of full remote teams. 
+ 
+ Conditions  : 
+ 
+ Flexible working hours, but minimum of 35 per week. 
+ Evolving role with growth 
+ Perks and bonuses and potential to try new technologies 
+ Tickets to conferences 
+ 
+ 
+ [ 
+ Urbest 
+ ](/companies/urbest) 
+ 
+ 10-49 
+ 
+ Our product category fits well under - collaborative job tracking. In other words, we are focused on simplifying building management. The goal of Urbest is to provide the best product to every user in order to interact with his/her building in a seamless way. At Urbest, we believe that everyone can contribute to improving their environment through small actions that, when put together, make significant improvements for a whole community. To achieve this, we are building a product in which everyone can interact with others through their preferred means of communication. We love problems and we can't stress enough about our obsession with intuitive and simple workflows. To achieve our goals we focus on iterating fast and learning from our customers. 
+ Real Estate Private AWS Github GraphQL KUBERNETES Daily Stand Up Conference Tickets 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Urbest About Urbest 
+ Salary 
+ €20K - 30K 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Clojure 
+ ClojureScript 
+ Docker 
+ Git 
+ KUBERNETES 
+ React Native 
+ Sentry 
+ Circleci 
+ Postgress 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Daily stand up 
+ Conference tickets 
+ Unlimited vacation 
+ Product impact 
+ Great tech stack 
+ Responsibility 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Clojure EngineerCompetitiveWeFarmUnited Kingdom 
+ Enables farmers to share and access information using Clojure! 
+ Remote 
+ aws clojure clojurescript docker kubernetes 
+ More Info Apply 
+ Tech Lead, ClojureCompetitiveWeFarmUnited Kingdom 
+ Enables farmers to share and access information using Clojure! 
+ Remote 
+ aws clojure docker kubernetes 
+ More Info Apply 
+ Senior/Principal Software EngineerCompetitiveBarracudaUnited States of America 
+ Solve interesting problems facing a data retention and search SaaS product operating at a large scale. 
+ Remote 
+ aws clojure docker elasticsearch javascript kubernetes kafka react 
+ More Info Apply 
+ Full Stack Software Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

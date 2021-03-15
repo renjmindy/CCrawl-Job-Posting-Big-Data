@@ -1,0 +1,212 @@
+Rortybomb 
+ Skip to content 
+ 
+ About 
+ Portfolio 
+ 
+ <- EPI on Lagging Wages, Rising Productivity. 
+ The Bizarre Smear Campaign on Elizabeth Warren Continues -> 
+ The Federal Reserve, Unions, Wage Stagnation and Risk-Shifted Jobs. 
+ Posted on  March 18, 2011  by  Mike 
+ Chairman Greenspan: “You realize that the labor unions would say that was awful: you say it’s wonderful.” 
+ Mr. Syron: “That’s right, but we are not in an AFL-CIO meeting. And they have a little different view than we do on what is considered wage inflation.” 
+ 
+ From the Federal Open Market Committee Transcript, February 1990 
+ 
+ Matt Yglesias writes about  progressives needing to engage the Federal Reserve  in the latest issue of Democracy Journal. I agree with the article completely; now is the time for new thinking about this topic. 
+ Here's a question I've been trying to find research on lately - how much is the post-Volcker era of monetary policy responsible for stagnating wages and high-end inequality? I'm pretty familiar with the stories and arguments surrounding these two topics, and the Federal Reserve never shows up. It's almost like taking an American phone charger overseas; there's no place for monetary policy to "plug-in" the current research and arguments, from technology to superstars to policy to everything else, on wages/inequality. Which is weird, since when you read transcripts of their FOMC meetings, released years after the time when they were recorded, the board members are obsessed with wages. We have a sense of the Greenspan Put for the financial sector, but what's the Greenspan option-metaphor for workers? 
+ A friend just sent me this paper,  Not Yet Dead at the Fed: Unions, Worker Bargaining, and Economy-Wide Wage Determination  (2005) by business economists Daniel J.B. Mitchell and Christopher L. Erickson. They go through and read twenty years of the FOMC transcripts. 
+ For some people there is no "After the Cold War." Even though the Cold War had ended, its mindset must continue. One way to phrase Mitchell and Erickson's argument is that from 1980 through the end of the 1999s is no "After the Professional Air Traffic Controllers Strike Strike." Even though unions were declining since 1980, even though unions weren't striking anymore, the Federal Reserve described the labor market as if it was dominated by unions. Every wage increase in the private, non-union sector was hawkishly monitored for the potential of wage-push inflation. Their abstract: 
+ Transcripts of the Federal Open Market Committee of the Federal Reserve and related documents provide new insights into how macro policy makers characterized the labor market. Over the period of the 1980s and the 1990s, the Federal Reserve seemingly overemphasized the significance of union settlements, characterizing them in wage-push terms out of proportion to declining union density. Fed policy makers expressed surprise that the NAIRU dropped during this period and offered various ad hoc explanations to explain the drop. The underlying common element of these explanations is that they were based on a rhetorical bargaining framework, explicit or implicit: that workers bargain as active agents for wages. Along with ongoing direct discussion of union settlements, this tendency suggests a view of worker bargaining power that seems at variance with union decline and the reality of an increasingly nonunion labor market. While worker bargaining models can be reconciled in a formal sense with various theories of nonunion wage determination, the ability of such models realistically to explain the macro outcomes that puzzled and challenged policy makers can be questioned. 
+ They were so primed to go against wage increases for unions that they watched wage increases for everyone lest they lead to runaway inflation. The article is really interesting, and it pulls many quotes from the transcripts. I went to double check some of the quotes they used, and I'll re-print them here. 
+ Chairman Greenspan  March, 1993. 
+ I think everything we can see is exceptionally well behaved in the crucial area of labor costs, which on a consolidated basis obviously comprise the great chunk of our underlying cost structure. There is no ambiguity here; wage rates are clearly under control. And we are not yet seeing, despite our saying that we might, any signs of a significant pickup in contract wage pressures on the union side, which incidentally is now a very small part of the economy-and it's an even smaller part if you take out the government workers that have unions. The major area of wages in our system is basically outside the union area; and compensation, which is far more important these days than the underlying wages, is [not] under very significant pressures. One of the reasons we have seen such a huge increase in temporary versus non-temporary employment over the last several years is that the underlying cost structure is enforcing pressures to restructure, [inducing firms] to go to temporary workers to try to alleviate all sorts of costs. And basically that is succeeding. That is, unit labor costs clearly are under very significant restraint. Productivity is picking up in a fairly substantial way, and I suspect it is basically real. 
+ Wage rates and labor costs were "under control….under very significant restraint." One reason why? Because work was becoming more contingent, transfering from temporary to non-temporary employment. Besides lower wages, it also gives employees less bargaining power (he develops this theory elsewhere), which will keep wage-push inflation in check. I bring it up as an example because three things people try and find casual arguments for - the decline of unions, wage stagnation, the increasingly "risk-shifted" nature of work - are all things discussed under the price stability mandate of the Greenspan Federal Reserve here. 
+ Chairman Greenspan, [December 1994,](notes that wage rates and labor costs were ) my favorite: 
+ I think the interesting question is why wages are not responding to what is a very rapidly tightening labor market. After speaking to some labor leaders and others who talk to their members and have a sense of this, I get the impression that long-term job insecurities are quite pervasive especially with respect to the portability of health insurance and pensions that make workers more cautious about changing jobs. The layoff rates are very low; the turnover rates are really quite low by American standards; and there is a tendency among workers just to stick with what they have. The effect of this, I suspect, is a major factor in holding wage increases to a very sluggish pace considering all the evidence we have been getting in recent months of labor market tightness. This is crucial because so long as that is the case and productivity is positive, unit costs are very well contained. 
+ Sometimes health care wonks will write about how the lack of portability of health insurance creates "job lock", and how "job lock" reduces an employees bargaining power to get raises since they can't credibly threaten to leave their job. Alan Greenspan agrees, and though he doesn't say its awesome, he does note that it is keeping unit costs well contained. Unit costs being your paycheck, that is. 
+ Hey look, its Janet Yellen,  January 1996,  explaining how she is worried about zero inflation, since a little bit of inflation greases the wheels of the economy: 
+ MS. YELLEN …But as we get to lower rates of inflation, we need to think much more carefully about the costs and benefits of moving to still lower rates. There are benefits, but during my time on the Committee, we never really have talked about what the benefits are or attempted to evaluate them concretely. I believe there also are costs of moving to very low inflation rates. I am persuaded that there is at least a significant one-time output loss. There also may be a further permanent loss that occurs because a little inflation, particularly in an economy with slow productivity growth, greases the wheels and makes relative wage adjustments easier and may facilitate intersectoral allocations of labor. This is a subtle point, but I think we never have evaluated or tried to measure it. 
+ Is this what we should be going for when choosing  strong liberal Federal Reserve members?  President Obama took forever in getting Janet Yellen onto the Federal Reserve, waiting until April 28, 2010 to nominate her, getting her sworn in on October 4, 2010. 
+ Last but not least,  August 1997,  when the Fed is pissed about the UPS strike that was finishing up: 
+ MR. MCTEER Now that the UPS strike is apparently over, there is nothing obvious on the horizon to spoil the party, although I suspect we will find that the strike has done a good deal of damage in the past couple of weeks. The settlement may go a long way toward undermining the wage flexibility that we started to get in labor markets with the air traffic controllers' strike back in the early 1980s. Even before this strike, it appeared that the secular decline in real wages was over, although productivity gains appeared to be sufficient to keep unit labor costs under good control. 
+ GREENSPAN It may well be that the real significance of the UPS strike is that we are beginning to see a reversal of what had been a dramatic development: The air traffic controllers' confrontation with President Reagan set in motion a fundamental change in policy for this country more than 15 years ago. It is conceivable that we will look back at the UPS strike and say that it too signaled a significant change. 
+ "A good deal of damage." I would not say, even at the time, that the UPS strike signaled a change towards stronger unions. But even the possibility of it sent the Federal Reserve board up the wall, as if unions were one more strike away from dominating the labor economy, and they were checking out what bazookas they could get on the table. 
+ Read the transcripts, if wages were increasing significantly over this time period some of the most powerful people in the country would feel as if they failed in their job. So my question is legitimate: Who is studying if this had an impact on stagnating wages? How would they go about studying? What are the falsifiable hypotheses? What are the mechanisms - can the Fed create an expectation for employers of stagnant wages? 
+ Share this: 
+ 
+ Tweet 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- EPI on Lagging Wages, Rising Productivity. 
+ The Bizarre Smear Campaign on Elizabeth Warren Continues -> 
+ 19 Responses to  The Federal Reserve, Unions, Wage Stagnation and Risk-Shifted  Jobs. 
+ 
+ Arpit Gupta says: 
+ 
+  March 18, 2011 at 12:05 pm 
+ Does it matter what they say? Weren't the late 90s a period of fairly high wage appreciation? Where's the evidence that there are any mechanisms at all? 
+ All the Fed does is buy and sell Treasury bonds. Given a fixed inflation target, I don't see how there's anything they can do that will lower or raise employee wages. 
+ Reply 
+ 
+ Mike  says: 
+ 
+  March 18, 2011 at 12:15 pm 
+ The Fed does a lot more than buying and selling bonds. 
+ Reply 
+ 
+ John Stein says: 
+ 
+  March 18, 2011 at 12:34 pm 
+ The mindset that's revealed is very clear: the workers exist to serve the economy. There's no sense that the economy exists to serve the people. 
+ What a perverted way to think about it. 
+ Reply 
+ * Bob says:
+ 
+  March 19, 2011 at 11:04 am 
+ I think you're headed in the right direction but I'd change your comment slightly. 
+ Workers exist to to serve companies/employers. The economy exists to serve companies/employers. Companies exist to serve management/owner-managers. I don't even classify shareholders as true owners anymore as corporate management has found many ways to keep the gravy flowing in their direction regardless of corporate profits. 
+ Reply 
+ 
+ sraffa says: 
+ 
+  March 18, 2011 at 1:36 pm 
+ I think this line of thinking will largely be a dead-end, which is why you don't see more search on it. 
+ In general, as the poor hold more of their money as cash and less in assets at least partially linked to inflation, they suffer the burden of inflation more. 
+ Also, these kind of wage theories, basically cost-push inflation, are largely Keynesian or New Keynesian theories. Monetarists generally see inflation as resulting from monetary changes, not from structural factors like union bargaining power, so you're going to get odd intellectual allies and enemies, just fyi. 
+ Also, the timing doesn't work out. Unionization as a fraction of the workforce peaks in 1953, not long after the passage of Taft Hartley. Since then, unionization has been pretty steadily falling. Volcker-Greenspan style monetary policy doesn't show up until at least 1978. 
+ 
+ There's no reason why an inflation targeting or otherwise inflation "hawk" central bank can't coexist with a strong(er than the US) union movement and strong wage growth- it's called Canada 
+ 
+ I just don't see it. 
+ Reply 
+ * John Emerson says:
+ 
+  March 20, 2011 at 5:59 am 
+ In general, as the poor hold more of their money as cash and less in assets at least partially linked to inflation, they suffer the burden of inflation more. 
+ I don't get this one. The poor don't hold money, they spend it. The bottom quartile of the population has no net worth or negative net worth, living from paycheck to paycheck and often in debt. This principle would seem to be true only of a few groups: those whose wages rise slower than inflation, those who have collected a small nest egg and hold it in cash, and those on fixed dollar-denominated pensions. Those aren't tiny groups, but they don't equal "the poor". 
+ The general rule is that inflation hurts creditors and helps debtors, and to the extent that it stimulates the economy, keeps old money from controlling new money. 
+ Reply 
+ 
+ Tim says: 
+ 
+  March 18, 2011 at 1:39 pm 
+ "Wage rates and labor costs were “under control….under very significant restraint.” One reason why? Because work was becoming more contingent, transfering from temporary to non-temporary employment." 
+ Did you mean transferring from non-temporary to temporary employment? The statement seems reversed to me. 
+ Reply 
+ * [Mike](https://rortybomb.wordpress.com) says:
+ 
+  March 18, 2011 at 1:41 pm 
+ I meant transitioning. In the paper Greenspan has a theory that as workers have less stability they'll have less bargaining power. They believe he means bargaining like unions bargain (sharing rents), not like bargaining models over unobservable productivity of the worker. 
+ Reply 
+ 
+ anon says: 
+ 
+  March 18, 2011 at 4:09 pm 
+ The only problem I can see here is rhetoric and framing. The Fed's stance might be uncharitably stated as: "wage pressures are contained, so we can ease policy and not worry much about inflation", where they might as well be saying "wages are low and unemployment might rise: we need to ease in order to get the economy back on track". And conversely for tightening. In either case, the Fed will run the same policy, i.e. use nominal wages as a policy target. This is actually a very sensible policy, because nominal wages are a good proxy for output. (In fact, Scott Sumner supports it in preference to NGDP targeting, even as he worries abut its political feasibility.) Needless to say, this policy alone cannot be a cause of wage stagnation, because it is entirely symmetrical and does not alter the "bargaining power" of workers or empoyers in the long run. 
+ Reply 
+ 
+ dictateursanguinaire  says: 
+ 
+  March 19, 2011 at 11:47 am 
+ This post nails what's wrong with so much of economics. Not that it's not precise or "logically rigorous" but just that its focus is so completely out of whack. If people who have a huge amount of control over the country's economic well being are describing the benefits of low wages using crypto-speak, we have a problem 
+ Reply 
+ 
+ 
+ Pingback:  The Stigmatization of the Unemployed « naked capitalism 
+ 
+ 
+ John Emerson says: 
+ 
+ 
+  March 20, 2011 at 6:19 am 
+ From 1880 until the present there has always been some political group agitating about currency questions. Once the Federal Reserve was founded this agitation focussed on the Fed. Since about 1940 or so most of these agitators have been right wingers and gold bugs, but before 1940 they were often progressive, populist, or radical greenbackers. 
+ After WWII technocrats increasingly took over the Democratic Party, and criticizing the Fed came to be thought of as a mark of the crank, and this label was attached to critics of the banks and the Fed all the way back -- wrongly so in the case of the Greenbackers and the greenbackers among the Populists, whose ideas on currency were quite reasonable. 
+ The Fed was invented to take control of currency and credit out of the hands of the elected government and put it into the hands of technocratic experts, accountable to no one but the big banks, who were theoretically politically neutral. How an Ayn Rand follower can be called politically neutral is beyond me; Greenspan never explicitly renounced Rand and spoke well of her to the end. 
+ The teapartiers, oddly enough, are divided between gold bugs (Ron and Rand Paul) and Greenbackers (see the book "Web of Debt.") If they were actually a coherent political movement, or trying to be one, they would have a schism. 
+ Many liberals don't want to look at the Fed for fear of seeming like cranks. Liberals can be the timidest and most conventional people in the world. 
+ Reply 
+ * [Phil Perspective](http://www.politicususa.com/) says:
+ 
+  December 13, 2011 at 11:04 am 
+ Many liberals don’t want to look at the Fed for fear of seeming like cranks. Liberals can be the timidest and most conventional people in the world. 
+ Maybe the Blue Dog/DLC/New Democrat types, since they are basically trojan horses inside the party. Most progressives, who know anything about economics, have a healthy skepticism of the Fed. 
+ Reply 
+ 
+ 
+ Pingback:  Comment on The Stigmatization of the Unemployed by Your Daddy — Clearing and Settlement 
+ 
+ 
+ Pingback:  David Leonhardt on Fed Policy. Also, Is Fed Policy Influenced by the AFL-CIO? Yes. « Rortybomb 
+ 
+ 
+ Pingback:  Thomas Hoenig Looks Out, Sees the 1970s in Our Current Recession. | Rortybomb 
+ 
+ 
+ Don Tomaskovic-Devey says: 
+ 
+ 
+  October 28, 2011 at 11:41 am 
+ Monetary policy followed the stagflation scare of the 1970s and was adopted under the contestable theory that union led cost-push inflation was central to the inflation of the period. It should be no surprise at all that inflation fighting was both central and always linked to an increasingly false theory of wage push. This was never really about economic theory, but about working hypotheses of a set of actors reacting to their formative crises. The new book by Greta Krippner, Capitalizing on Crisis: The Political Origins of the Rise of Finance ( http://www.amazon.com/Greta-R.-Krippner/e/B0046CC30I ) lays out the evidence, including interviews with major actors in the fed. 
+ Reply 
+ 
+ 
+ Pingback:  Juxtaposition and Critical Thinking | writinginthewild.com 
+ 
+ 
+ Pingback:  Sturm und Draghi « thecurrentmoment 
+ 
+ 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ About 
+ 
+ 
+ About Mike Konczal 
+ Email Address 
+ Follow on Twitter 
+ Next New Deal Blog 
+ Roosevelt Institute 
+     
+ 
+ 
+ Search for: 
+ 
+ 
+ Archives 
+ 
+ 
+ Archives Select Month April 2012  March 2012  February 2012  January 2012  December 2011  November 2011  October 2011  September 2011  August 2011  July 2011  June 2011  May 2011  April 2011  March 2011  February 2011  January 2011  December 2010  November 2010  October 2010  September 2010  August 2010  July 2010  June 2010  May 2010  April 2010  March 2010  February 2010  January 2010  December 2009  November 2009  October 2009  September 2009  August 2009  July 2009  June 2009  May 2009  April 2009  March 2009  February 2009  January 2009  December 2008  November 2008  October 2008  September 2008  August 2008  July 2008  June 2008  May 2008  April 2008  March 2008  February 2008  January 2008  December 2007  November 2007  October 2007  September 2007 
+  Rortybomb  
+ Blog at WordPress.com. 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ %d bloggers like this: 

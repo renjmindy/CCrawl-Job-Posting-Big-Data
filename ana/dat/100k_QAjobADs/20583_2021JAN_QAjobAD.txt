@@ -1,0 +1,6 @@
+ Skills and Qualifications: 
+ 2+ years experience building and architecting large-scale, production quality backend systems in applied machine learning or data pipeline/warehousing 
+ Understanding of database schema design, caching and scalability 
+ Expertise with relational databases, such as PostgreSQL 
+ Experience with distributed, service-oriented systems communicating with RESTful API interfaces 
+ Experience with event sourcing, CQRS and asynchronous communication using queues is a plus 

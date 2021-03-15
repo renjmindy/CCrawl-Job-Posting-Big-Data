@@ -1,0 +1,1263 @@
+Blog Log in 
+ Translate WordPress.com 
+ 
+ Projects 
+ WordPress.com 
+ Calypso Extensions 
+ WP Job Manager 
+ 
+ Translations of Original 237788 in WP Job Manager 
+ 
+ Status of original:  +active 
+ Translations:  37x current 
+ No Context 
+ No Comment 
+ Priority: normal 
+ Added:  2018-01-26 14:33:41 
+ 
+ 
+ 
+ 
+ Prio 
+ Locale 
+ Original string 
+ Translation 
+ -- 
+ 
+ 
+ 
+ 
+ 
+ ar 
+ 
+ Settings saved! 
+ تم حفظ الإعدادات! 
+ Details 
+ 
+ 
+ 
+ 
+ Arabic (ar) 
+ Settings saved! 
+ Settings saved! 
+ 
+ تم حفظ الإعدادات! 
+ 
+ تم حفظ الإعدادات! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ar) 
+ Show all deliverables with this original (overview) 
+ 
+ ca|  |  Settings saved!  |  S'ha desat la configuració!  |  Details 
+ Catalan (ca) 
+ Settings saved! 
+ Settings saved! 
+ 
+ S'ha desat la configuració! 
+ 
+ S'ha desat la configuració! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ cubells 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ca) 
+ Show all deliverables with this original (overview) 
+ 
+ cs|  |  Settings saved!  |  Nastavení uloženo!  |  Details 
+ Czech (cs) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Nastavení uloženo! 
+ 
+ Nastavení uloženo! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ Pavel Vondra (digrizak) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (cs) 
+ Show all deliverables with this original (overview) 
+ 
+ cv|  |  Settings saved!  |  Настройкăсем упранчĕç!  |  Details 
+ Chuvash (cv) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Настройкăсем упранчĕç! 
+ 
+ Настройкăсем упранчĕç! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-03-09 05:03:39 GMT 
+ Translated by:
+ Armuti (armuti) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (cv) 
+ Show all deliverables with this original (overview) 
+ 
+ de|  |  Settings saved!  |  Die Einstellungen wurden gespeichert!  |  Details 
+ German (de) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Die Einstellungen wurden gespeichert! 
+ 
+ Die Einstellungen wurden gespeichert! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (de) 
+ Show all deliverables with this original (overview) 
+ 
+ el-po|  |  Settings saved!  |  Οἱ ρυθμίσεις ἀποθηκεύθηκαν!  |  Details 
+ Polytonic Greek (el-po) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Οἱ ρυθμίσεις ἀποθηκεύθηκαν! 
+ 
+ Οἱ ρυθμίσεις ἀποθηκεύθηκαν! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ The Polytonic Project (keymangreek) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (el-po) 
+ Show all deliverables with this original (overview) 
+ 
+ es|  |  Settings saved!  |  Se han guardado los ajustes.  |  Details 
+ Spanish (es) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Se han guardado los ajustes. 
+ 
+ Se han guardado los ajustes. 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (es) 
+ Show all deliverables with this original (overview) 
+ 
+ fa|  |  Settings saved!  |  تنظیمات ذخیره شد!  |  Details 
+ Persian (fa) 
+ Settings saved! 
+ Settings saved! 
+ 
+ تنظیمات ذخیره شد! 
+ 
+ تنظیمات ذخیره شد! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ Al (irdb) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (fa) 
+ Show all deliverables with this original (overview) 
+ 
+ fi|  |  Settings saved!  |  Asetukset tallennettu!  |  Details 
+ Finnish (fi) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Asetukset tallennettu! 
+ 
+ Asetukset tallennettu! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ mikkowirtanen 
+ Approved by:
+ os (oceansoul) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (fi) 
+ Show all deliverables with this original (overview) 
+ 
+ fr|  |  Settings saved!  |  Paramètres enregistrés  |  Details 
+ French (fr) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Paramètres enregistrés 
+ 
+ Paramètres enregistrés 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (fr) 
+ Show all deliverables with this original (overview) 
+ 
+ gl|  |  Settings saved!  |  Configuración gardada  |  Details 
+ Galician (gl) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Configuración gardada 
+ 
+ Configuración gardada 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ ludusnaturae 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (gl) 
+ Show all deliverables with this original (overview) 
+ 
+ he|  |  Settings saved!  |  ההגדרות נשמרו!  |  Details 
+ Hebrew (he) 
+ Settings saved! 
+ Settings saved! 
+ 
+ ההגדרות נשמרו! 
+ 
+ ההגדרות נשמרו! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (he) 
+ Show all deliverables with this original (overview) 
+ 
+ hr|  |  Settings saved!  |  Postavke spremljene!  |  Details 
+ Croatian (hr) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Postavke spremljene! 
+ 
+ Postavke spremljene! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ Marko Banušić (mbanusic) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (hr) 
+ Show all deliverables with this original (overview) 
+ 
+ hu|  |  Settings saved!  |  Beállítások elmentve!  |  Details 
+ Hungarian (hu) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Beállítások elmentve! 
+ 
+ Beállítások elmentve! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ szemcse 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (hu) 
+ Show all deliverables with this original (overview) 
+ 
+ id|  |  Settings saved!  |  Pengaturan disimpan!  |  Details 
+ Indonesian (id) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Pengaturan disimpan! 
+ 
+ Pengaturan disimpan! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (id) 
+ Show all deliverables with this original (overview) 
+ 
+ is|  |  Settings saved!  |  Stillingar vistaðar!  |  Details 
+ Icelandic (is) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Stillingar vistaðar! 
+ 
+ Stillingar vistaðar! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ Egill (egille) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (is) 
+ Show all deliverables with this original (overview) 
+ 
+ it|  |  Settings saved!  |  Impostazioni salvate  |  Details 
+ Italian (it) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Impostazioni salvate 
+ 
+ Impostazioni salvate 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (it) 
+ Show all deliverables with this original (overview) 
+ 
+ ja|  |  Settings saved!  |  設定を保存しました  |  Details 
+ Japanese (ja) 
+ Settings saved! 
+ Settings saved! 
+ 
+ 設定を保存しました 
+ 
+ 設定を保存しました 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ja) 
+ Show all deliverables with this original (overview) 
+ 
+ ko|  |  Settings saved!  |  설정이 저장되었습니다!  |  Details 
+ Korean (ko) 
+ Settings saved! 
+ Settings saved! 
+ 
+ 설정이 저장되었습니다! 
+ 
+ 설정이 저장되었습니다! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ko) 
+ Show all deliverables with this original (overview) 
+ 
+ lv|  |  Settings saved!  |  Uzstādījumi saglabāti!  |  Details 
+ Latvian (lv) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Uzstādījumi saglabāti! 
+ 
+ Uzstādījumi saglabāti! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ F.r. (kase1) 
+ Approved by:
+ Mariozo (marioozo) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (lv) 
+ Show all deliverables with this original (overview) 
+ 
+ mn|  |  Settings saved!  |  Тохиргоонууд хадгалагдсан!  |  Details 
+ Mongolian (mn) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Тохиргоонууд хадгалагдсан! 
+ 
+ Тохиргоонууд хадгалагдсан! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-03-16 12:44:30 GMT 
+ Translated by:
+ ganjargal 
+ Approved by:
+ Zolbayar (zolbayarq) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (mn) 
+ Show all deliverables with this original (overview) 
+ 
+ nl|  |  Settings saved!  |  Instellingen opgeslagen!  |  Details 
+ Dutch (nl) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Instellingen opgeslagen! 
+ 
+ Instellingen opgeslagen! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (nl) 
+ Show all deliverables with this original (overview) 
+ 
+ no|  |  Settings saved!  |  Innstillingene er lagret!  |  Details 
+ Norwegian (bokmål) (no) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Innstillingene er lagret! 
+ 
+ Innstillingene er lagret! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ Dandelion Sprout (dandelionsprout) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (no) 
+ Show all deliverables with this original (overview) 
+ 
+ pa|  |  Settings saved!  |  ਸੈਟਿੰਗਾਂ ਸਾਂਭੀਆ ਗਈਆਂ!  |  Details 
+ Punjabi (pa) 
+ Settings saved! 
+ Settings saved! 
+ 
+ ਸੈਟਿੰਗਾਂ ਸਾਂਭੀਆ ਗਈਆਂ! 
+ 
+ ਸੈਟਿੰਗਾਂ ਸਾਂਭੀਆ ਗਈਆਂ! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ Satnam S Virdi (satnamsvirdi) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (pa) 
+ Show all deliverables with this original (overview) 
+ 
+ pl|  |  Settings saved!  |  Ustawienia zostały zapisane!  |  Details 
+ Polish (pl) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Ustawienia zostały zapisane! 
+ 
+ Ustawienia zostały zapisane! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ Mike Siemion (msllog) 
+ Approved by:
+ mateusz (mpiotrowskimp) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (pl) 
+ Show all deliverables with this original (overview) 
+ 
+ pt|  |  Settings saved!  |  Configurações guardadas!  |  Details 
+ Portuguese (pt) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Configurações guardadas! 
+ 
+ Configurações guardadas! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ Manuela Silva (manuelarsilva) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (pt) 
+ Show all deliverables with this original (overview) 
+ 
+ pt-br|  |  Settings saved!  |  Configurações salvas!  |  Details 
+ Brazilian Portuguese (pt-br) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Configurações salvas! 
+ 
+ Configurações salvas! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (pt-br) 
+ Show all deliverables with this original (overview) 
+ 
+ ro|  |  Settings saved!  |  Setări salvate!  |  Details 
+ Romanian (ro) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Setări salvate! 
+ 
+ Setări salvate! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ Dan Caragea (dancarageact62) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ro) 
+ Show all deliverables with this original (overview) 
+ 
+ ru|  |  Settings saved!  |  Настройки сохранены.  |  Details 
+ Russian (ru) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Настройки сохранены. 
+ 
+ Настройки сохранены. 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ru) 
+ Show all deliverables with this original (overview) 
+ 
+ sq|  |  Settings saved!  |  Rregullimet u ruajtën!  |  Details 
+ Albanian (sq) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Rregullimet u ruajtën! 
+ 
+ Rregullimet u ruajtën! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ bujku 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (sq) 
+ Show all deliverables with this original (overview) 
+ 
+ sv|  |  Settings saved!  |  Inställningar sparade!  |  Details 
+ Swedish (sv) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Inställningar sparade! 
+ 
+ Inställningar sparade! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (sv) 
+ Show all deliverables with this original (overview) 
+ 
+ te|  |  Settings saved!  |  అమరికలు భద్రపరచబడినవి!  |  Details 
+ Telugu (te) 
+ Settings saved! 
+ Settings saved! 
+ 
+ అమరికలు భద్రపరచబడినవి! 
+ 
+ అమరికలు భద్రపరచబడినవి! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ రవి చంద్ర (ravichandrae) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (te) 
+ Show all deliverables with this original (overview) 
+ 
+ tr|  |  Settings saved!  |  Ayarlar kaydedildi!  |  Details 
+ Turkish (tr) 
+ Settings saved! 
+ Settings saved! 
+ 
+ Ayarlar kaydedildi! 
+ 
+ Ayarlar kaydedildi! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (tr) 
+ Show all deliverables with this original (overview) 
+ 
+ ur|  |  Settings saved!  |  ترتیبات کو محفوط کر لیا گیا!  |  Details 
+ Urdu (ur) 
+ Settings saved! 
+ Settings saved! 
+ 
+ ترتیبات کو محفوط کر لیا گیا! 
+ 
+ ترتیبات کو محفوط کر لیا گیا! 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ Amreen (amreendanish) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (ur) 
+ Show all deliverables with this original (overview) 
+ 
+ zh-cn|  |  Settings saved!  |  设置已保存！  |  Details 
+ Chinese (China) (zh-cn) 
+ Settings saved! 
+ Settings saved! 
+ 
+ 设置已保存！ 
+ 
+ 设置已保存！ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (zh-cn) 
+ Show all deliverables with this original (overview) 
+ 
+ zh-hk|  |  Settings saved!  |  設定已儲存！  |  Details 
+ Chinese (Hong Kong) (zh-hk) 
+ Settings saved! 
+ Settings saved! 
+ 
+ 設定已儲存！ 
+ 
+ 設定已儲存！ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ Translated by:
+ Ken Ken (ckykenken) 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (zh-hk) 
+ Show all deliverables with this original (overview) 
+ 
+ zh-tw|  |  Settings saved!  |  設定已儲存！  |  Details 
+ Chinese (Taiwan) (zh-tw) 
+ Settings saved! 
+ Settings saved! 
+ 
+ 設定已儲存！ 
+ 
+ 設定已儲存！ 
+ You  have to log in  to edit this translation. 
+ or Cancel 
+ Meta 
+ Status:
+current 
+ Date added:
+2018-01-26 14:33:41 GMT 
+ References: 
+ 
+ client/extensions/wp-job-manager/state/data-layer/settings/index.js:72 
+ client/extensions/wp-job-manager/state/data-layer/settings/test/index.js:199 
+ 
+ Priority:
+normal 
+ More links: 
+ 
+ Permalink to this translation 
+ All translations of this original 
+ Show all translations across locales 
+ Show original across locales 
+ Show all deliverables with this original (zh-tw) 
+ Show all deliverables with this original (overview) 
+ 
+ Legend: 
+ Current 
+ Waiting 
+ Fuzzy 
+ Old 
+ with warnings 
+ Get Started 
+ 
+ Getting Started 
+ Community Translator Tool 
+ FAQ 
+ What is GlotPress? 
+ 
+ Learn 
+ 
+ Translation Resources 
+ Translation Style Guide 
+ Locale Glossaries and Style Guides 
+ How Theme Translations Work 
+ 
+ Collaborate 
+ 
+ Community Resources 
+ Working with Other Translators 
+ Build a Locale Glossary & Style Guide 
+ 
+ In your language 
+ Translate  WordPress.com .  Proudly powered by  GlotPress . 

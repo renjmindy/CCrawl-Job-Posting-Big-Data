@@ -1,0 +1,84 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Web Developer LOCALPERMANENT 
+ Job Description 
+ If you’re a self-motivated web developer with front-end expertise and a comfort level on the back-end, then we look forward to hearing from you. In this position, you can help influence the technology track for Envision’s Digital Innovation & Design division. 
+ About this Position 
+ 
+ Your projects will range from building CMS websites, general client support, web apps, platform integrations, and internal tooling 
+ Develop clean and secure production-ready code for front-end and, at times, back-end components of websites and applications 
+ Build intuitive content management systems and administration tools 
+ Collaborate effectively in a small team-environment consisting of developers, designers, and project managers 
+ Provide client support and consultation; communicate your ideas and solutions to clients in a way a non-technical person can understand 
+ Passion to learn, contribute, and help shape our division’s technical future 
+ This is a full time, in-house position in Pawtucket, RI. We are not looking for any remote team members or agency partnerships at this time. 
+ 
+ About You 
+ 
+ Preferably 3-5 years of web development experience; agency experience is preferred, but not required 
+ In-depth knowledge of one or more CMS technologies such as CraftCMS, DNN, Contentful, Wordpress, or even your own custom CMS 
+ Proven expertise of front-end technologies including JavaScript, HTML, CSS/SCSS, etc. 
+ Experience with reactive JS frameworks, such as Vue, Angular, or React 
+ Experience optimizing websites for maximum speed and performance 
+ Keen eye for design with the ability to translate integrity of UI/UX prototypes to reusable clean code 
+ Familiarity of back-end programming languages and system administration 
+ MySQL or SQL Server experience, with ability to write SQL queries 
+ Experience with data migration, transformation, and scripting 
+ Efficiency using the command line, as well as CLI tools and utilities 
+ Demonstrated understanding of task runners such as NPM, Yarn, Webpack, etc. 
+ Strong knowledge of git; GitLab expertise is a bonus 
+ Confident developer and team leader, excited by learning and absorbing new technologies! 
+ 
+ How to Apply 
+ Visit our career center to apply for this position. 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Envision Technology Advisors 
+ 
+ __ 
+ 
+ Location:  Pawtucket, RI 
+ 
+ __ 
+ 
+ Phone Number:   401-272-6688 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   www.envisionsuccess.net 
+ __  Posted July 8, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

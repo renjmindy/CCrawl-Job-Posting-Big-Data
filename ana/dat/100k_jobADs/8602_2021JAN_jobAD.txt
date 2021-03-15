@@ -1,0 +1,436 @@
+Trent's World (the Blog) 
+ Random Ramblings and Reviews from Trent P. McDonald 
+ Menu Skip to content 
+ 
+ Home 
+ Books 
+ 
+ Embers - Short Stories 
+ Seasons of Imagination 
+ The Fireborn 
+ The Halley Branch 
+ Towards the Light and The Mad Quest 
+ 
+ 
+ Weekly Smile 
+ Writing 
+ 
+ Fiction 
+ 
+ A New Life - AKA "Frank" 
+ Fiction (No Discription) 
+ Of Wind and Wings 
+ The 750 Word Challenge 
+ 
+ 
+ Poetry 
+ Seasons of Imagination 
+ The Fireborn 
+ 
+ 
+ Music 
+ 
+ Music - The Hamlet Symphony 
+ Videos 
+ 
+ 
+ About 
+ 
+ About the Blog 
+ About Trent 
+ Award Policy 
+ 
+ 
+ 
+ 
+ My Day Job - It's What I Do ;) 
+ 53 Replies 
+ 
+ The other day Robbie Cheadle put up  a post about her career . After reading it, I thought, “Hey, maybe I should do something like that…” It will be a little different than what Robbie posted, though I think I will follow her lead by going over my job history as much as my current job itself. Hopefully knowing a little bit about my day job will help you to get to know me better :) 
+ As a kid and young adult, I had all of the typical jobs that kids have. I picked fruit and vegetables, flipped burgers at a fast food restaurant, bussed tables in a high-end restaurant, bagged groceries, did temp work (from washing windows to light assembly work to grunt labor), spent a couple of summers as a camp counselor, did “fluid device” reclamation/repair in a large chemical plant, wrote assembly-level language code for network analysis, spent a summer on a nuclear submarine. You know, the typical stuff kids do ;) OK, I was in Navy ROTC for a couple of years, so that is where the nuclear sub comes in. I was certified as a helmsman/planesman and on SONAR. The plant where my dad worked had a summer program for college kids. A lot of the kids worked in production, but I was lucky and had a much more interesting job. I have a cousin who owned a computer company (they did hardware (proprietary network devices) and software) and I worked for them for a few months. This was in Texas, though I did part time work in Ohio and South Carolina as well. 
+ As I was job hunting after college (I got a Mathematics degree), I decided to take a test for Air Traffic Control. My sister had started her career that way, so why not? 
+ After a summer in Oklahoma (all ATC start in OKC), I was sent to New Hampshire to work at the Boston Air Traffic Control Center. I know, Boston and New Hampshire, but… So I was a Controller for five and a half years and in ATC for just under seven years. One highlight was their familiarization program, which allowed me to travel in the cockpit of a large jetliner on several occasions. So, yes, I sat in the cockpit of a jet airliner while underway, and in the drivers set of a nuclear submarine while under weigh. Also, in my life, I worked with RADAR and SONAR. 
+ I am not an Air Traffic Controller and never can nor should be one. That topic deserves its own post. One hint – I am an ultra-Introvert. Second hint – in college I used to answer the hard questions by taking a walk, something I still do, but something that is difficult to do while actively controlling air traffic ;) 
+ Wait, let’s backup for one minute – after being exposed to computers in Texas, I started a software company, Micro Magic Multimedia, as a sideline to ATC. It brought together my drawing, photography, music, writing and programming skills (my programing skills back then were, uhm, awful…). I made a lot of demos and did some consulting work, but never really got it off the ground as envisioned. 
+ So, transitioning out of ATC, I applied for a computer programmer’s job. Since I had experience, I moved into IT. And the rest is history… 
+ OK, not so much. 
+ So I moved into programming and took a lot of classes, where I discovered how awful my previous attempts were. But I got better. Much better. After a year I took over all of the IT duties, not just programing. So I had 100 PCs to keep up and running, at one time eight servers, a lot of switches and hubs, dozens of printers, miles of cable, etc. And later I helped with the Wide Area Network stuff, like CSU/DSU, routers, telco, etc. Network admin, deskside support, server admin, email admin (for a while), web admin, programmer, (limited) DB admin, etc. Yeah, for a while I did it all. 
+ Over time my responsibilities grew less and less until I was super frustrated. 
+ And then there was a reorg. 
+ Not much changed, except that I met some nationally influential people. 
+ And then another reorg. 
+ This time things happened. 
+ Because of my connections and programming experience (including some very high visibility programs I had built), I got a job as a Software Developer. 
+ And I did next to nothing. 
+ I kept asking for more and more work to try to keep busy, and so it happened after about a year as a Developer: I was moved into my present position. 
+ OK, this is what this post is supposed to be about, right? 
+ So I have two hats. The big one is that I am a Program Manager (my words) for a large web hosting environment. Technically I am an Operations Manager, but I can’t use either of those two words because they have different meanings in my organization, though one name for my team is “Web Ops”, i.e., Web Operations, so, almost there. Although I am a PM with a team, I can't call myself "Manager". 
+ I have technical people on my team that do all of the work, but I direct it (I don’t even trust myself with rights to the servers ;) ). I work with teams that provide the servers (VMs), the OS, the networking and other infrastructure, though we are now doing all of that on our own as we move to the cloud. With that, I do some work with cloud team and Dev Ops team. There is firewall people, backup people, search team (I used to have search), monitoring group, security (a lot!), and other support groups. I also work with the customers at different levels (site owners, site admins, developers and coders, other PMs, etc.). And, of course, purchasing people, contract people, managers, etc. Most of my job is prioritizing, directing, coordinating, researching, requesting, reporting, etc. I do have to know the technical end, but not at the level as my experts - I would never dare touch an actual server! 
+ My other hat is being our organizations liaison for a very large service contract. I work with people all over my organization in this role, as well as with the vendor. I can’t say too much, but this is working with the Internet at large. Not with what you might think of as an Internet provider, but more back-scenes, a company you most likely have never heard of. 
+ So that is it. Pretty much I am a person who has to know who needs to know what and how to get it to them. It is all communication and such, though with a knowledge of the entire system from transistors to large scale Internet infrastructure. OK, a very slight exaggeration. Very slight ;) 
+ Truthfully, in many ways I am just a small cog in the IT wheel. My position is important, but not the most important around – hard to get across that balance :). Others in my organization do similar work, and, as I said, this work depends on many people on all sides. 
+ I have been in my present position for five years, which, in some ways, is the longest I have stayed in one position. I must be doing something right ;) (Truthfully, I am slightly ADHD and get bored doing the same thing for too long, so even when my earlier position stayed the same earlier in my career, I made sure I did very different things). 
+ So that is where I have been and what I do. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ LinkedIn 
+ Pinterest 
+ Pocket 
+ Tumblr 
+ Reddit 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  General Thoughts  and tagged  career ,  job ,  jobs ,  personal  on  August 14, 2020  by  trentpmcd . 
+ Post navigation 
+ <- Clouded #writephoto   If We Were Having Coffee on the 15th of August, 2020 -> 
+ 53 thoughts on "My Day Job - It's What I Do ;)" 
+ 
+ FineTest   September 15, 2020 at 10:39 am 
+ 
+ Very cool. Subs, jets, Internet, and flipping burgers ;) 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[September 15, 2020 at 10:40 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-52899)
+ 
+ A bit of everything in there. Not an astronaut though. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+   1. **[FineTest](http://afinetest.wordpress.com)** [September 15, 2020 at 10:40 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-52900)
+ 
+ Not -yet- an astronaut… Someday, someday ;) 
+ Like Liked by 1 person 
+ Reply  ↓ 
+     1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[September 15, 2020 at 10:41 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-52901)
+ 
+ lol, I won't hold my breath… 
+ Like Liked by 1 person 
+ Reply  ↓ 
+       1. **[FineTest](http://afinetest.wordpress.com)** [September 15, 2020 at 10:41 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-52902)
+ 
+ Yeah, holding your breath wouldn't make sense in a spacesuit… 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ Writing Sparkle   August 16, 2020 at 10:53 am 
+ 
+ Great post. You have had some very interesting jobs on your track to where you are. I always find it interesting to see where people have come from to get where they are. Thanks for sharing. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 16, 2020 at 1:11 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-51030)
+ 
+ sometimes the twist path is more interesting than the actual job… Thanks :) 
+ Like Like 
+ Reply  ↓ 
+ 
+ Suzanne@PictureRetirement   August 16, 2020 at 8:26 am 
+ 
+ Trent, when I worked in HR part of my job was to write job descriptions for every position in every department. Guess which department was my least favorite? Yep, IT. It was often hard to determine a chain of command and degrees of responsibility among jobs, but eventually, I got pretty good at it. Tech speak is a wondrous thing. ATC is certainly not for everyone, good you recognized that and got out before it got you. I had a cousin who cracked up on the job. Not good. I think we all knew you were an IT guy, math nerd, etc. but you also have writing/communication skills, which set you apart from the stereotype. Funny, how one path leads to another, and what we set out to do is rarely where we end up. Maybe some people just see the open door better than others. Thanks for sharing your professional history with us. Nice photo of yourself also. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 16, 2020 at 1:10 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-51029)
+ 
+ It is odd how we can start off in one direction and end up someplace totally different. I fell into a lot of the jobs, so my path wasn't really anything I chose. I mean, when I graduated, there was no such thing as web hosting ;) I think I have mention being a computer nerd a few times, so not surprised a lot of people knew that part already. The photo was a couple of weeks ago, the "after" shot from when I had 6-months worth of Covid-induced long hair cut ;) Thanks :) 
+ Like Like 
+ Reply  ↓ 
+ 
+ Nancy   August 15, 2020 at 7:13 pm 
+ 
+ I always find it interesting to see the path people took to get to where they are. Some roads have a lot of curves and some are a pretty straight shot. Yours definitely takes some turns but I do see a common theme. My road would not be nearly as interesting, no Nuclear subs but I did sling Tacos for a while! ;) 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 15, 2020 at 7:35 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-51002)
+ 
+ I know people who have pretty much stuck to their career path from start to finish, but I think with a lot of us there is no way we could have ever guessed where we would be in just a few years at any given time. And I know I know I have a few twists and turns in there… 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ cordeliasmom2012   August 15, 2020 at 4:54 pm 
+ 
+ I'm impressed, Trent. I didn't even understand much of the work descriptions in your post - when my computer got a glitch this morning where the monitor died and then the tower wouldn't let me power it down, I finally just unplugged it and then plugged it back in again. Now it's fine. That's the extent of my computer knowledge. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 15, 2020 at 6:49 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-51000)
+ 
+ The good thing about hosting web sites now being out of desk-side support for the good part of a decade is that I can now pleas total ignorance when someone needs help with their computer ;) It usually doesn't work, but… Thanks :) 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ dprastka   August 15, 2020 at 11:05 am 
+ 
+ I Love this post! So great to get to know you better. I didn't know you were a ATC! (Did you ever see the movie Pushing Tin? Wonder if they portrayed ATC very accurately haha, I know it's a movie but it was fun to see what goes into that job!) I loved following all that you've done, all your computer experience, you have been right in the thick of it all as it has grown! Very COOL! Like you, my life seems rather boring but I think we all have had some cool experience's. Maybe I'll write a blog post about my life, especially since I'm turning 60 this year. Thanks for sharing! 😀♥️ 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 15, 2020 at 2:24 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50988)
+ 
+ Thanks! I did not see Pushing Tin, but I was still working ATC when it was out. I think there were a few parts that were slightly realistic, but a lot not (no, you can't go out on an active runway ;) Not that it would be possible at a control center were I was anyway - this was a huge building with 500 ATCs controlling most of the airspace over the Northeast US.) I set up my first Linux web server in 1996, so, yeah, pretty much an early adapter of a lot of it :) Looking forward to seeing you doing a post like this :) 
+ Like Like 
+ Reply  ↓ 
+   1. **[dprastka](https://wordpress.com/view/myhorsestories.blog)** [August 15, 2020 at 2:38 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50990)
+ 
+ Thanks for your encouragement! And amazing there was over 500 controllers all in one building! Is it still like that today? So interesting! 🙂 And you were doing web server stuff way back before I even heard of the web!! So COOL! 
+ Like Liked by 1 person 
+ Reply  ↓ 
+     1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 15, 2020 at 3:02 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50991)
+ 
+ Hmm, I might have exaggerated a little - 5 areas with 7 crews (rotate for 24x7x365 coverage) and perhaps 10 or 12 per crew (including supervisors, who have to still be able to control traffic) so more like 350 to 400 controllers and around 500 people in the building, though not all at once! Yep, it's like that today. And this is one of the smallest control centers. Very, very few controllers work at airports. Today, even those people who work the approaches and departures of the larger airports work in combined facilities. The people at the towers pretty much control pretty much from just before touch down, everything on the ground, to just after wheels up (There is an altitude, maybe 500 feet above ground, but I'm not 100% sure since I never worked a tower or approach control). 
+ Like Like 
+ Reply  ↓ 
+       1. **[dprastka](https://wordpress.com/view/myhorsestories.blog)** [August 15, 2020 at 3:10 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50993)
+ 
+ Okay, that makes sense. Thanks for explaining! 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ 
+ Pingback:  If We Were Having Coffee on the 15th of August, 2020 | Trent's World (the Blog) 
+ 
+ 
+ R.M. Carlson   August 14, 2020 at 8:15 pm 
+ 
+ 
+ Introvert here, too, Trent. I really liked getting to know you better! 
+ Like Liked by 2 people 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 15, 2020 at 9:48 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50978)
+ 
+ Thanks, Rosemary! 
+ Like Like 
+ Reply  ↓ 
+ 
+ RuthScribbles   August 14, 2020 at 5:29 pm 
+ 
+ Wow! 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 7:43 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50963)
+ 
+ Thanks! Yeah, I know, not everybody admits to having worked at McDonalds as a kid ;) 
+ Like Liked by 1 person 
+ Reply  ↓ 
+   1. **[RuthScribbles](http://rhscribbles.wordpress.com)** [August 14, 2020 at 7:46 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50964)
+ 
+ Ha ha ha. I worked at Carol’s Burgers in 1971 or 72 when I was 19 or 20 in Rutland VT. Before McDonald’s I think. Ha. And you know we called it Carol’s boogers! 😃🤪😳 
+ Like Liked by 1 person 
+ Reply  ↓ 
+     1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 7:49 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50965)
+ 
+ lol, I'm sure you did call it that. It is funny, growing up outside of Cleveland, I think there were always McDonald's… 
+ Like Liked by 1 person 
+ Reply  ↓ 
+       1. **[RuthScribbles](http://rhscribbles.wordpress.com)** [August 14, 2020 at 8:15 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50968)
+ 
+ There may have been one, but growing up in Manhattan NY and we didn’t eat out and no McDonald’s nearby. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+         1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 8:30 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50969)
+ 
+ We didn't eat out often, when I was a very little kid it might have been two or three times a year. Later,more when we traveled, and traveling was almost always McDonald's. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ msjadeli   August 14, 2020 at 5:20 pm 
+ 
+ First off, you cut your hair from the time of your profile pic! Both are nice photos, just sayin…. For a super-introvert (I think that was your term) to be at an information hub where you are interacting with everyone, maybe you aren't as introverted as you think you are? You've had a varied career that sounds like it has kept you moving around the country and challenged your brain. I appreciate your sharing your work history. You aren't behind this new WP editing changeover are you ;) 
+ Like Liked by 2 people 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 7:36 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50961)
+ 
+ Nope, I am a classic Introvert. The only change I made to my life this year is going to the grocery store once a week instead of twice. I can sit in my home office and read and write emails all day, do on-line meetings without a problem, but a lunch with three other people? Nope, unless it is business. If I have to be social for more than an hour, I want to chew my leg off to escape. I live 97.5% of my life in my head. 
+I did move around a bit after I graduated, but have enjoyed New England since I moved here many years ago. And, yep, I do need to keep my brain challenged. And, no, I am not responsible for anything WP related beyond my blog ;) 
+ Like Liked by 1 person 
+ Reply  ↓ 
+   1. **[msjadeli](http://taotalkcom.wordpress.com)** [August 14, 2020 at 11:15 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50971)
+ 
+ I am getting that song "getting to know you" stuck in my head right now :) 
+ Like Liked by 2 people 
+ Reply  ↓ 
+     1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 15, 2020 at 9:52 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50979)
+ 
+ lol, I doubt if I have heard that song since I was about 8… Maybe with my recent "political series" posts I need to do a "biographical series" as well… 
+ Like Liked by 1 person 
+ Reply  ↓ 
+       1. **[msjadeli](http://taotalkcom.wordpress.com)** [August 18, 2020 at 11:47 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-51119)
+ 
+ :) 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 2. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 7:53 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50966)
+ 
+ Forgot the hair - the profile picture was when I started the blog and the picture here actually was an "after" picture for when I had my hair cut a few weeks ago - it was much longer even than my profile photo… 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ Heart to Heart   August 14, 2020 at 4:15 pm 
+ 
+ Wow! That’s pretty interesting! Congrats on your achievements n wishing you many more… 🤗 
+ Like Liked by 2 people 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 7:42 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50962)
+ 
+ Thanks! 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ Colline   August 14, 2020 at 1:28 pm 
+ 
+ Interesting Trent to see that all your jobs and experience brought you to where you are right now. It seems that you are flexible as well because of your experience. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 4:15 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50954)
+ 
+ I don't think there was ever a time where I could anticipate where I would be next, which I guess is good :) I have always been open, if not the type that charges out to find something new, so it goes both ways - my flexibility helped form my experience and my experience ensured that I was flexible. 
+ Like Like 
+ Reply  ↓ 
+ 
+ robertawrites235681907   August 14, 2020 at 1:01 pm 
+ 
+ Ahhh! I new you were super bright, Trent, and suspected you did exactly what you do. I didn't guess at ATC, I, somehow, thought you had something to do with space travel in your earlier career, rather than air travel. I dated a controller for many years. I have been in the control centre and watched the controllers. A tense job some of the time. The chap I dated moved on to become a pilot. His ATC experience stood him to good stead. Thanks for joining in and sharing about your life. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 4:12 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50951)
+ 
+ Thanks, Robbie. I have a nephew who is space travel, or at least satellites. Lucky guy ;) There is a very close relationship between pilots and controllers and many of the controllers I worked with were pilots, and a few were ex-military pilots. It could be very tense. Over all, it just was not the job for me… 
+ Like Liked by 1 person 
+ Reply  ↓ 
+   1. **[robertawrites235681907](http://robertawrites235681907.wordpress.com)** [August 15, 2020 at 5:42 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50975)
+ 
+ Yes, you are right, there is a close relationship. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ marina kanavaki   August 14, 2020 at 11:50 am 
+ 
+ Oh, my goodness…. that is one long and very interesting resume!!!! Thank you for sharing! 🙂🙏 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 12:56 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50941)
+ 
+ Thanks, Marina :) As I live my life it all seems so boring, but looking back, I have done a few things that the average person hasn't experienced… I just need to find a way to fly on a spaceship to make my travel experiences complete ;) 
+ Like Like 
+ Reply  ↓ 
+   1. **[marina kanavaki](http://marinakanavaki.wordpress.com)** [August 15, 2020 at 4:19 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50973)
+ 
+ The Enterprise would be perfect. Spacious, with great crew and all the space you need to stroll about! 😉 
+ Like Liked by 1 person 
+ Reply  ↓ 
+     1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 15, 2020 at 9:54 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50980)
+ 
+ Sure would be a lot more comfortable than a Dragon capsule, but I think, even though my chances of riding a SpaceX Dragon are about 0.00001%, I'm sure the chances are a few trillion times better than riding in the Enterprise ;) 
+ Like Like 
+ Reply  ↓ 
+       1. **[marina kanavaki](http://marinakanavaki.wordpress.com)** [August 16, 2020 at 4:46 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-51013)
+ 
+ You think?!!!!! 😉 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ Inside the Mind of Isadora   August 14, 2020 at 10:51 am 
+ 
+ PHEW … I'm exhausted from just reading about your work career. 
+You have done quite a few interesting things throughout your work history. 
+I'm super impressed that you got to be in the cockpit of a plane; although, 
+I would have been frightened to the extreme. I'm not a good flyer person. 
+Kudos for sharing. It does give more insight into the people we follow on WP. 
+Have a wonderful weekend … Be Safe 
+Isadora 😎 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 12:50 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50940)
+ 
+ The funny thing is that it is much easier to fly in the cockpit than in the back of a jet. I don't know why. I hate flying, but never felt nervous when up font. (I only did it a handful of times, and it was pre-9-11). 
+Thanks, Isadora. Most of my life has seemed boring as I live it, but I know that looking back I have done quite a few things most people never will. 
+Have a good, and safe, weekend :) 
+ Like Liked by 1 person 
+ Reply  ↓ 
+   1. **[Inside the Mind of Isadora](http://insidethemindofisadora.com/)** [August 14, 2020 at 1:14 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50943)
+ 
+ Oh, I think you've lived an exciting life, so far. You've also been to many, many states. There are people who never venture out of their comfort zone. For being an extreme introvert, I think you've traveled outside of your comfort zone a lot. 
+My problem with flying is the air pressure and the thought of being so high up without a net. LOL Be well …. Safety first … 
+Isadora 😎 
+ Like Liked by 1 person 
+ Reply  ↓ 
+     1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 1:27 pm](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50947)
+ 
+ The extreme Introvert part is more that I enjoy being in the woods by myself than at a party with dozens of people, even of they are all nice :) I do try to push outside of my comfort zone, but often that is doing things like putting up some of my recent political posts. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 
+ bettylouise31   August 14, 2020 at 10:37 am 
+ 
+ Thanks for sharing 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ 1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 11:05 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50932)
+ 
+ Thanks for reading :) Now on my coffee posts when I say I was busy, people will know why ;) 
+ Like Liked by 1 person 
+ Reply  ↓ 
+   1. **[bettylouise31](http://idahobluebird50.wordpress.com)** [August 14, 2020 at 11:08 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50933)
+ 
+ I have been thinking for long time about a post on my life. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+     1. **[trentpmcd](https://trentsworldblog.wordpress.com)** Post author[August 14, 2020 at 11:11 am](https://trentsworldblog.wordpress.com/2020/08/14/my-day-job-its-what-i-do/#comment-50934)
+ 
+ It is a good way to get to know people who you'll only meet on line, or, I should say, have people get to know you. 
+ Like Liked by 1 person 
+ Reply  ↓ 
+ Express Yourself  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Search Site 
+ Search for: 
+ Categories 
+ Categories Select Category 1st Monday Image 3rd Monday Music Blogging Book Reviews compassion Creative Inspiration Creative Nonfiction Drawing/Painting Fiction General Thoughts Haiku Tuesday health and wellness Media Monday Music Music Review Outdoor Sports Photo/Images Poem Poetry in Prose political rant Product Reviews Reviews Smile Throwback Thursday Uncategorized Video Writers Resources 
+ Get the Two Novellas! 
+ 
+ Get Embers! 
+ 
+ Get The Halley Branch! 
+ 
+ Get The Fireborn! 
+ 
+ Get Seasons of Imagination! 
+ 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 3,323 other followers 
+ Email Address: 
+ Follow 
+ Recent Posts 
+ 
+ Empty Stage 
+ The Weekly Smile for the 11th of January, 2021 #weeklysmile 
+ The Weekly Smile Recap for 1/4 - 1/10/2021 
+ If We Were Having Coffee on the 9th of January, 2021 
+ It's Cold Outside 
+ Honor #writephoto (rerun) 
+ The Post-lockdown Blues 
+ The Weekly Smile for the 4th of January, 2021 #weeklysmile 
+ The Weekly Smile Recap for 12/28/2020 - 1/3/2021 #weeklysmile 
+ 
+ (C)  All music, words and images copyright Trent P. McDonald unless otherwise noted. 
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

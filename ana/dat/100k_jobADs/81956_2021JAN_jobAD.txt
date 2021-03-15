@@ -1,0 +1,155 @@
+Rortybomb 
+ Skip to content 
+ 
+ About 
+ Portfolio 
+ 
+ <- Towards a Theory of Corporate and Financial Sector Solidarity 
+ Time Magazine's Top 25 Financial Blogs -> 
+ Some Thoughts On The Expanding Service Industry: Nickel and Dimed, Decent Jobs, Pity-Charity Liberalism. 
+ Posted on  March 7, 2011  by  Mike 
+ Lots of responses to  Paul Krugman's column  on the future of the labor force with computerization, especially the hollowing-out of mid-skill jobs: 
+ 
+ But there are things education can’t do. In particular, the notion that putting more kids through college can restore the middle-class society we used to have is wishful thinking. It’s no longer true that having a college degree guarantees that you’ll get a good job, and it’s becoming less true with each passing decade. 
+ So if we want a society of broadly shared prosperity, education isn’t the answer — we’ll have to go about building that society directly. We need to restore the bargaining power that labor has lost over the last 30 years, so that ordinary workers as well as superstars have the power to bargain for good wages. We need to guarantee the essentials, above all health care, to every citizen. 
+ What we can’t do is get where we need to go just by giving workers college degrees, which may be no more than tickets to jobs that don’t exist or don’t pay middle-class wages. 
+ 
+ There's a lot of blogging responses to the piece ( Delong ,  Kevin Drum  and  Ezra Klein ). This invokes David Autor's excellent work on  job polarization  ("Rising demand for highly educated workers, combined with lagging supply, is contributing to higher levels of earnings inequality. Demand for middle-skill jobs is declining, and consequently, workers that do not obtain postsecondary education face a contracting set of job opportunities"). 
+ I'm surprised nobody brought up one of the more important recent pieces of work in making sense of the low-skill service economy, Barbara Ehrenreich's  Nickel and Dimed: On (Not) Getting By in America. 
+ 
+ Ehrenreich's book is important for many reasons, but two jump out. First is that it challenges the economic (but also political) notion of what constitutes skills. The second one I want to focus on is that service industry work is difficult not just because of the low pay - though that is important - but because it is a degrading experience. The things people value about their work - the sense of autonomy, dignity, security and responsibility, the ability to participate in production with the  virtues of a craftsman  - is what is explicitly missing in the current low-wage service industry. As Loic Wacquant’s wrote in  Scrutinizing The Street , his amazing critique of academic policy liberalism of the 1990s, when he looks at the idea that low-wage service industry work will provide dignity and opportunities for workers he finds (my bold): 
+ 
+ Fast-food work is widely reviled not only because it is precarious, dull, soiling, and pays a pittance, but also because those who hold such jobs must display subservience to management and servility toward customers even when the latter are rude, scornful, and aggressive… 
+ [the jobs] are irregular, episodic, and insecure; social relations on the kitchen ﬂoor are riven with distrust and brutality; and the pay they provide is so meager as to make it impossible to attain minimal ﬁnancial stability, garner savings, and project oneself beyond tomorrow… 
+ Newman writes approvingly that American “culture confers honor on those who hold down jobs of any kind over those who are outside of the labor force. Independence, self-sufficiency—these are the virtues that have no equal in this society”  (NSMG, p. 119). But therein lies the rub for fast-food employees and the fourth ﬂaw in Newman’s model: by complying with the holy commandment of work in that deregulated service sector, they bind themselves to capricious employers for famine wages and thereby desecrate the value of independence; by submitting to degrading mistreatment at the hands of managers and customers (company policy strictly forbids responding to their insults),  they daily violate the ideals of autonomy and dignity that are also core American values. And thus they are disparaged and devalued in the very movement whereby they “seek salvation” through work  … 
+ But these prescriptions are at loggerheads with the central findings of  No Shame in My Game  , which conclusively shows that  low-wage work in the United States, far from being a cure, is a root   cause  of material destitution and life insecurity in the urban core….  inclusion  into precarious wage labor (casualization) that maintains employees in a state of deprivation, dependency, and dishonor that is only marginally preferable to joblessness and “welfare dependency” and breeds many of the same secondary problems….  The struggle for  decent  jobs, not just  any  job, has always been at the center of the life of American labor, black and white. 
+ 
+ The situation is devalued to the point where,  as Arin Dube and others have found,  minimum wage laws can increase efficiency because it gives low-wage service employers less of an incentive to churn through employees. 
+ This goes double for our most dangerous forms of labor. There's jobs where you want to be able to take a vacation, and then there's jobs where you don't want your arm ripped off. Unions and workplace democracy are really important for that second kind of job. Meatpacking used to be one of the strongest union jobs - a decent, good job -and over 30 years it has disappeared into an informal, in-the-shadows industry. Union busting and corporate consolidation broke this, and now workers face huge dangers for significantly less pay.  Graph from PBS: 
+ 
+ And the stories are tragic. Here's  Eric Schlosser for Mother Jones, 2001: 
+ 
+ Kenny Dobbins' was hired by the Monfort Beef Company in 1979….Over the next two decades he suffered injuries working for Monfort that would have crippled or killed lesser men. He was struck by a falling 90-pound box of meat and pinned against the steel lip of a conveyor belt. He blew out a disc and had back surgery. He inhaled too much chlorine while cleaning some blood tanks and spent a month in the hospital, his lungs burned, his body covered in blisters. He damaged the rotator cuff in his left shoulder when a 10,000-pound hammer-mill cover dropped too quickly and pulled his arm straight backward. He broke a leg after stepping into a hole in the slaughterhouse's concrete floor. He got hit by a slow-moving train behind the plant, got bloodied and knocked right out of his boots, spent two weeks in the hospital, then returned to work. He shattered an ankle and had it mended with four steel pins. He got more bruises and cuts, muscle pulls and strains than he could remember….While awaiting compensation for his injuries, he was fired. The company later agreed to pay him a settlement of $35,000. 
+ Today Kenny Dobbins is disabled, with a bad heart and scarred lungs. He lives entirely off Social Security payments. He has no pension and no health insurance. His recent shoulder surgery—stemming from an old injury at the plant and costing more than $10,000—was paid by Medicare. He now feels angry beyond words at ConAgra, misused, betrayed. He's embarrassed to be receiving public assistance. "I've never had to ask for help before in my life," Dobbins says. "I've always worked. I've worked since I was 14 years old." In addition to the physical pain, the financial uncertainty, and the stress of finding enough money just to pay the rent each month, he feels humiliated. 
+ What happened to Kenny Dobbins is now being repeated, in various forms, at slaughterhouses throughout the United States. According to the Bureau of Labor Statistics, meatpacking is the nation's most dangerous occupation. In 1999, more than one-quarter of America's nearly 150,000 meatpacking workers suffered a job-related injury or illness. 
+ 
+ I mentioned a while ago the idea of  pity-charity liberalism , where the goal of the liberal project is to give some sort of ex post compensation for brute bad luck instead of giving workers agency or power. I worry Kenny Dobbins' story is a major success story for pity-charity liberalism. A job that was once strong and union now pays Mr. Dobbins little and chews up and spits out his mutilated body. Liberalism can be there for him with some health care and retirement benefits. He can even get compensated through a court settlement. Perfect compensatory insurance against bad brute luck. 
+ Perfect except that he's left humiliated and broken. 
+ Share this: 
+ 
+ Tweet 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- Towards a Theory of Corporate and Financial Sector Solidarity 
+ Time Magazine's Top 25 Financial Blogs -> 
+ 9 Responses to  Some Thoughts On The Expanding Service Industry: Nickel and Dimed, Decent Jobs, Pity-Charity  Liberalism. 
+ 
+ lark says: 
+ 
+  March 8, 2011 at 12:00 am 
+ The trick the Republicans have successfully played is to get white working Americans to kiss and slobber on rich white butt and like it. 'What's good for the rich white butt is good for me, because I might be a rich white butt someday.' Think of it as a fantasy of racial solidarity: the white worker actually thinks the butts are going to want to play golf and hang out. We slavishly wait for the country club doors to open, even as we sink into debt, watch our children's schools decay and our jobs stream overseas. That is the true meaning of a 'service economy' with 'service jobs'. 
+ Reply 
+ 
+ Guillaume  says: 
+ 
+  March 8, 2011 at 8:04 am 
+ I think that computerization is a factor, but we have been living with it for the better part of the past 40 years. Outsourcing, on the other hand, is probably a bigger factor right now. There are literally armies of formerly well-paid jobs that are being outsourced to India. It's not just call centers, it's accounting departments, jobs involving procedural data manipulation, IT support, etc. Basically all the jobs that young people got out of college or after a specialized 2 year degree, jobs where you need to use your brain, but not that much. 
+ At least this is what's happening in finance, where back offices went from Manhattan to New Jersey and now to Bangalore. 
+ Reply 
+ 
+ Tim says: 
+ 
+  March 8, 2011 at 10:49 am 
+ I seem to remember something about capitalists selling ropes to those who would hang them. 
+ Fitting. 
+ Reply 
+ 
+ chris says: 
+ 
+  March 8, 2011 at 1:46 pm 
+ As far as your last paragraph is concerned, it was also liberals who created OSHA, but it wasn't liberals who obstructed and undermined OSHA enforcement to the point that it's cheaper not to comply with workplace safety standards than to comply with them. Or to pay a lobbyist to have the standards watered down or the enforcement division defunded. 
+ Better ex ante regulation of safe tools and practices might have prevented some of Dobbins's injuries in a way that even a union might not be able to (although they might also argue for the same safety measures in collective bargaining). 
+ Everyone should have a right to a job that doesn't treat them as a disposable part, but that's never going to come from the free market. 
+ Reply 
+ 
+ K. Williams says: 
+ 
+  March 8, 2011 at 6:14 pm 
+ "As far as your last paragraph is concerned, it was also liberals who created OSHA, but it wasn’t liberals who obstructed and undermined OSHA enforcement to the point that it’s cheaper not to comply with workplace safety standards than to comply with them. Or to pay a lobbyist to have the standards watered down or the enforcement division defunded." 
+ There's actually no evidence that this has actually happened, at least not in the meatpacking industry. On the contrary, while meatpacking remains quite dangerous (as it was during the union era), injuries have fallen 70% since 1990 and are the lowest they've been since OSHA started counting them in the 1970s. 
+ Reply 
+ 
+ scared of divorce says: 
+ 
+  March 8, 2011 at 9:32 pm 
+ Shut down Wall St. May 2nd, Monday. Their lifestyle exists at the mass's pleasure. Remind them. 
+ Reply 
+ 
+ 
+ Pingback:  ginandtacos.com » Blog Archive » EVERYONE LOVES SALAD 
+ 
+ 
+ Pingback:  Links 3/12/11 [Mike the Mad Biologist] | iPhone 2 die 4 
+ 
+ 
+ Steve Roth  says: 
+ 
+ 
+  March 13, 2011 at 10:56 am 
+ Four words: Earned Income Tax Credit. Turn it UP. 
+ Reply 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ About 
+ 
+ 
+ About Mike Konczal 
+ Email Address 
+ Follow on Twitter 
+ Next New Deal Blog 
+ Roosevelt Institute 
+     
+ 
+ 
+ Search for: 
+ 
+ 
+ Archives 
+ 
+ 
+ Archives Select Month April 2012  March 2012  February 2012  January 2012  December 2011  November 2011  October 2011  September 2011  August 2011  July 2011  June 2011  May 2011  April 2011  March 2011  February 2011  January 2011  December 2010  November 2010  October 2010  September 2010  August 2010  July 2010  June 2010  May 2010  April 2010  March 2010  February 2010  January 2010  December 2009  November 2009  October 2009  September 2009  August 2009  July 2009  June 2009  May 2009  April 2009  March 2009  February 2009  January 2009  December 2008  November 2008  October 2008  September 2008  August 2008  July 2008  June 2008  May 2008  April 2008  March 2008  February 2008  January 2008  December 2007  November 2007  October 2007  September 2007 
+  Rortybomb  
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ %d bloggers like this: 

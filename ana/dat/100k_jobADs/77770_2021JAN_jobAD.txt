@@ -1,0 +1,271 @@
+Skip navigation 
+ 
+ 
+ Tools 
+ 
+ 
+ Downloads 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cookie Setup 
+ We use the services of Google and Webtrekk for our web analysis and implement cookies for this purpose. We ask you for your consent to do so. Of course, you can also use our website without consent for web analysis. Further information can be found in our data privacy policy. There you can also revoke your consent at any time. 
+ In this overview you can select and deselect individual cookies of a category or entire categories. You will also receive further information about the available cookies. 
+ 
+ 
+ 
+ group 
+ essential 
+ 
+ 
+ 
+ 
+ name 
+ Netzhirsch 
+ 
+ 
+ technical name 
+ _netzhirsch_cookie_opt_in 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Used to determine which cookie was accepted or rejected. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ group 
+ essential 
+ 
+ 
+ name 
+ Contao CSRF Token 
+ 
+ 
+ technical name 
+ csrf_contao_csrf_token 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Serves to protect the website from cross-site request forgery attacks. After closing the browser, the cookie is deleted again. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ group 
+ essential 
+ 
+ 
+ name 
+ PHP SESSION ID 
+ 
+ 
+ technical name 
+ PHPSESSID 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Cookie from PHP (programming language), PHP data identifier. Contains only a reference to the current session. No information is stored in the user's browser and this cookie can only be used by the current website. This cookie is mainly used in forms to improve the user experience. Data entered in forms is stored for a short time, for example, if there is an input error by the user and the user receives an error message. Otherwise all data would have to be re-entered. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ group 
+ analysis 
+ 
+ 
+ name 
+ Google Analytics 
+ 
+ 
+ technical name 
+ ga-wieland-roessler 
+ 
+ 
+ provider 
+ 
+ 
+ 
+ expire in days 
+ 400 
+ 
+ 
+ privacy policy 
+   
+ 
+ 
+ use 
+ Anonymous evaluation of user behaviour with subsequent improvement of the website. 
+ 
+ 
+ allowed 
+ __ 
+ 
+ 
+ 
+ __essential 
+ __analysis 
+ accept all 
+ save 
+ info hide  info 
+  Imprint   |    Privacy Policy  
+   
+ Search 
+ Skip navigation 
+ 
+ Company 
+ 
+ About us 
+ Wieland Group 
+ Quality 
+ Career 
+ 
+ 
+ Stock program 
+ Services 
+ 
+ Downloads 
+ Terms and conditions 
+ Metal information 
+ Weight per length calculator 
+ Coil calculator 
+ 
+ 
+ Contact 
+ 
+ Contact persons 
+ Contact and opening hours 
+ 
+ 
+ wieland.com 
+ 
+ Career 
+ Career at Wieland Roessler 
+ Reliable, precise, high-quality - that's how our products are, that's how our service is, that's how we are. 
+ We offer a working environment in which you can feel comfortable. Nice colleagues, fairness, respect for each other, short decision-making processes and secure jobs are things that make this working environment attractive. 
+ The fascinating material copper, being part of the Wieland Group and dealing with business partners from different industries (including the electrical and electronic as well as the jewellery and metalware industries) are other aspects in favour of a career with Wieland Roessler. 
+ Our activities focus on the reliable and fast supply of copper and copper alloy strip to our customer base. For this we need people who keep our customers and us on the road to success through outstanding quality and service. 
+ Is this you? 
+ Then you will find challenging tasks here at our company, in a working environment where you can get things done. 
+   
+ Career 
+ Start your career with us 
+  Apply now  
+ 
+ DE 
+ EN 
+ 
+ Skip navigation 
+ 
+ 
+ Company 
+ 
+ About us 
+ Wieland Group 
+ Quality 
+ Career 
+ 
+ 
+ 
+ Stock program 
+ 
+ 
+ Services 
+ 
+ Downloads 
+ Terms and conditions 
+ Metal information 
+ Weight per length calculator 
+ Coil calculator 
+ 
+ 
+ 
+ Contact 
+ 
+ Contact persons 
+ Contact and opening hours 
+ 
+ 
+ 
+ wieland.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Imprint 
+ 
+ 
+ Sitemap 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

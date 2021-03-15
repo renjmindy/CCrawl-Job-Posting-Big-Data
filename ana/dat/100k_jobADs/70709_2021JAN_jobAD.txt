@@ -1,0 +1,245 @@
+  
+ 
+ Job Offers 
+ Why Austria 
+ Living & working in Austria 
+ About Work in Austria 
+ News 
+ For Companies 
+ 
+ DE 
+ 
+ 
+ Overview 
+ 
+ 
+ Quality of living 
+ 
+ 
+ Innovative business location 
+ 
+ 
+ Best working conditions 
+ 
+ 
+ High salary level 
+ 
+ 
+ Central location of Austria 
+ 
+ 
+ Social welfare & health system 
+ 
+ 
+ Overview 
+ 
+ 
+ How to find jobs 
+ 
+ 
+ Visa and working permission 
+ 
+ 
+ Multicultural life | peculiarities 
+ 
+ 
+ Move to Austria 
+ 
+ 
+ Living in Austria | Apartment search 
+ 
+ 
+ Recognition of qualifications 
+ 
+ 
+ About Work in Austria 
+ 
+ 
+ Services & support for skilled workers 
+ 
+ 
+ Our Team 
+ 
+ 
+ Blog 
+ 
+ 
+ Events 
+ 
+ 
+ Newsletter 
+ 
+ 
+ Services for Companies 
+ 
+ 
+ Job Offers 
+ 
+ 
+ Why Austria 
+ 
+ Overview 
+ Quality of living 
+ Innovative business location 
+ Best working conditions 
+ High salary level 
+ Central location of Austria 
+ Social welfare & health system 
+ 
+ 
+ 
+ Living & working in Austria 
+ 
+ Overview 
+ How to find jobs 
+ Visa and working permission 
+ Multicultural life | peculiarities 
+ Move to Austria 
+ Living in Austria | Apartment search 
+ Recognition of qualifications 
+ 
+ 
+ 
+ About Work in Austria 
+ 
+ About Work in Austria 
+ Services & support for skilled workers 
+ Our Team 
+ 
+ 
+ 
+ News 
+ 
+ Blog 
+ Events 
+ Newsletter 
+ 
+ 
+ 
+ For Employers 
+ 
+ Services for Companies 
+ 
+ 
+ 
+ Master Thesis „Detection and orientation estimation for pedestrians & cyclists via end-to-end learned representations" 
+ 
+ Home EN 
+ Job Offers 
+ Master Thesis „Detection and orientation estimation for pedestrians & cyclists via end-to-end learned representations" 
+ 
+ Back to results 
+ Print 
+ AIT Austrian Institute of Technology GmbH 
+ 04.01.2021 
+ IT Other 
+ 
+ Job description 
+ University 
+ 
+ Job description  Recruiter 
+ The University of Applied Sciences (UAS) Technikum Wien in Vienna offers its own job portal as a means of facilitating the matching process between skilled employees and companies. This job was created by the job portal of our cooperation partner UAS Technikum Wien. 
+  Apply now  
+ We are Austria's largest research and technology organisation and an international player in applied research for innovative infrastructure solutions. This makes us a powerful development partner for industry and a top employer in the scientific community. Our Center for Vision, Automation & Control in Vienna invites applications for a: 
+ Master Thesis „Detection and orientation estimation for pedestrians & cyclists via end-to-end learned representations" 
+ Assistive & Autonomous Systems 
+ IMAGINE 
+ 
+ Our  team's  expertise is sensor and algorithm development for assistance systems of vehicles that recognize the environment in 3D. 
+ Assistance systems including artificial intelligence can help protect vulnerable road users such as pedestrians and cyclists. 
+ We cooperate with national and international research organizations and companies. 
+ 
+ ENGAGE 
+ 
+ One task of this project is to elaborate various pose estimation concepts (orientation parameters from regression, near-infrared marker detection, skeleton-based fitting) using a key-point based multi-task learning framework. 
+ Moreover, you will investigate existing datasets to accumulate relevant training data. 
+ You will learn how to evaluate possible estimation techniques yielding 2D or 3D pose parameters. 
+ You will support our team in building a prototypic demonstrator system. 
+ 
+ ACHIEVE 
+ 
+ You will build multiple scenario-dependent training datasets for deep learning. 
+ You will develop a PyTorch-based algorithmic framework executing multiple detection & orientation/pose estimation schemes. 
+ You will develop an adapted python-based tracking scheme building on top of the functionalities of the algorithmic framework. 
+ You will evaluate and document test runs in pre-defined scenarios. 
+ 
+ Your qualifications as an Ingenious Partner: 
+ 
+ Ongoing master's studies in the field of computer science, software engineering, information and computer engineering, mathematics, robotics or similar 
+ Knowledge of fundamental Computer Vision and/or Machine Learning concepts 
+ Knowledge of Python, preferably also PyTorch 
+ Interest in turning exciting ideas into real Machine Learning based image analysis solutions in a challenging context 
+ Good knowledge of verbal and written English 
+ 
+ What to expect: 
+ EUR 803,- gross per month for 20 hours/week based on the collective agreement. There will be additional company benefits. You will be part of our international Young AIT network. As a research institution, we are familiar with the supervision and execution of master theses and we are looking forward to supporting you accordingly. 
+ At AIT, the promotion of women is important to us - that's why we are especially looking forward to applications from female students! 
+ TOMORROW TODAY - WITH YOU? 
+ Please submit your application documents including your CV, motivational letter and certificates online:  https://jobs.ait.ac.at/Job/140724 
+  Apply now  
+ University of Applied Sciences Technikum Wien 
+ The University of Applied Sciences Technikum Wien is the only purely technical university of applied sciences in Austria. Its diverse range of degree programs includes 12 bachelor’s and 18 master’s programs, which are offered as full-time, part-time and/or distance study programs. 
+ UAS Technikum Wien currently boasts 4,400 students and has already taught more than 12,000 graduates. Its courses and study programs are based on a solid scientific foundation combined with a clearly practical orientation. Aside from providing a high-quality technical education, UAS Technikum Wien also attributes great importance to subjects with a focus on business and personal development. Close ties and partnerships with business and industry enable both students and graduates to benefit from excellent career opportunities. 
+ UAS Technikum Wien Job Portal 
+ The primary objective of UAS Technikum Wien is the training of highly skilled and qualified professionals for business and industry. As UAS Technikum Wien strives to facilitate the successful matching of professionals and companies, it operates a separate job portal that interested enterprises may use in the context of various cooperation opportunities to directly get in touch with students and graduates of UAS Technikum Wien. 
+ Find us 
+ Höchstädtplatz 6, 1200 Wien 
+ Share this 
+ 
+ []( "Copy to clipboard") 
+ 
+ 
+ 
+ More jobs from this company 
+ new  Data Analytics Consultant (w/m/d) 
+ University of Applied Sciences Technikum Wien 
+ 15.01.2021 
+ Sie haben Spaß an der Arbeit mit Daten, Interesse an Human Capital Themen und möchten Ihren nächsten Karriereschritt in der Beratung machen? Dann… 
+ new  Systemtester*in 
+ University of Applied Sciences Technikum Wien 
+ 15.01.2021 
+ Systemtester*in Python, C Dienstort: Bezirk Baden Ihre Aufgaben … 
+ new  Requirement Engineer (m/w/d) 
+ University of Applied Sciences Technikum Wien 
+ 15.01.2021 
+ Requirement Engineer (m/w/d) mit Interesse am öffentlichen Bereich Dienstort: Wien … 
+   
+ Austrian Business Agency 
+Work in Austria 
+ Opernring 3 
+1010 Vienna, Austria 
+ 
+ 
+ Job Offers 
+ 
+ 
+ Why Austria 
+ 
+ 
+ Living & working in Austria 
+ 
+ 
+ About Work in Austria 
+ 
+ 
+ News 
+ 
+ 
+ For Companies 
+ 
+ 
+ Contact 
+ 
+ 
+ Newsletter 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Imprint 
+ 
+ 
+ (C) 2021 by ABA - Work in Austria 
+ We are using cookies to improve your experience as a user. You can find more information in our  privacy policy . 
+ close 

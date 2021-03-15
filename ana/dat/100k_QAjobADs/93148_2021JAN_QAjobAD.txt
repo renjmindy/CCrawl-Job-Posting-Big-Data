@@ -1,0 +1,156 @@
+You can only quote on jobs when 'Job Seeker Type', 'Working Status' and 'Qualifications & Certifications' have been confirmed. 
+ To go to the Job Seeker Tab, please click on the Okay button below. 
+ Cancel 
+ Okay 
+ close 
+ Subscribe to Gold 
+ Publish Qualifications 
+ As a WorkLocally member you can upload and publish details of any relevant courses or qualifications that you have completed. 
+ Adding these details will not only enhance your public profile but may also be instrumental in helping you to win more jobs. 
+ close 
+ Membership Details 
+ Publish Skills 
+ Delete Qualification 
+ Delete Qualification 
+ Please select radio button to delete. 
+ ok 
+ close 
+ Delete Information 
+ Delete Qualification 
+ Please select radio button to delete. 
+ ok 
+ close 
+ Delete Information 
+ Delete Information 
+ Qualifications & Certifications 
+ When I Quote on Jobs 
+ Please note: 
+ this selection is a one-time action and is not reversible. 
+ Confirming that you hold the necessary qualifications and / or certifications to complete the Job Posts that you quote on is important, in order for Job Posters to understand that you have the necessary skills to carry out work as an Individual (Independent), Sole Trader or a Company. 
+ If you hold the necessary qualifications please select "Yes" to confirm. 
+ Qualifications & Certifications 
+ When I Quote on Jobs 
+ Please note: 
+ this selection is a one-time action and is not reversible. 
+ Confirming that you hold the necessary qualifications and / or certifications to complete the Job Posts that you quote on is important, in order for Job Posters to understand that you have the necessary skills to carry out work as an Individual (Independent), Sole Trader or a Company. 
+ If you hold the necessary qualifications please select "Yes" to confirm. 
+ Publish Qualifications 
+ As a WorkLocally member you can upload and publish details of any relevant courses or qualifications that you have completed. 
+ Adding these details will not only enhance your public profile but may also be instrumental in helping you to win more jobs. 
+ Publish Skills 
+ As a WorkLocally member you can provide details of up to 5 skills that you specialise in. 
+ This will not only help other WorkLocally members to understand your strengths but can also be used in tailoring your job searches. 
+ Necessary Qualifications:  | 
+ Yes 
+ Please confirm this by clicking on the button below. 
+ Thank you, 
+ The WorkLocally team 
+ Cancel 
+ Qualifications & Cert. 
+ [](javascript:alert('WorkLocally will not accept any liability or responsibility for any inaccuracies or misrepresentations made regarding an individual\'s, sole trader or a company\'s Qualifications or Certifications.');) 
+ When I Quote on Jobs 
+ Please note:  this selection is a one-time action and is not reversible. 
+ Confirming that you hold the necessary qualifications and / or certifications to complete the Job Posts that you quote on is important, in order for Job Posters to understand that you have the necessary skills to carry out work as an Individual (Independent), Sole Trader or a Company. 
+ If you hold the necessary qualifications, please ensure that you have selected "Yes". If you select "No" you will be confirming that you will ONLY place quotes on those Job Posts which do not require specialist qualifications/certifications. 
+ [](javascript:alert('WorkLocally will not accept any liability or responsibility for any inaccuracies or misrepresentations made regarding an individual\'s, sole trader or a company\'s Qualifications or Certifications.');) 
+ When I Quote on Jobs 
+ Please note:  this selection is a one-time action and is not reversible. 
+ Confirming that you hold the necessary qualifications and / or certifications to complete the Job Posts that you quote on is important, in order for Job Posters to understand that you have the necessary skills to carry out work as an Individual (Independent), Sole Trader or a Company. 
+ If you hold the necessary qualifications, please ensure that you have selected "Yes". If you select "No" you will be confirming that you will ONLY place quotes on those Job Posts which do not require specialist qualifications/certifications. 
+ To return to the previous screen and confirm your selection please click "Close" below. 
+ Skills, Qualifications and TrustMark Registrations 
+ The Job Seekers Public Profile contains details of the type of skills they describe themselves as having as well as any skills that they have registered with TrustMark. TrustMark is an independent scheme operated to promote and improve standards in the repair, maintenance and improvement sectors. Being TrustMark registered means that the tradesman has been assessed as reputable and trustworthy by the scheme operators. 
+ The Job Seekers Public Profile will also provide details of any qualifications or certifications that they hold, and, possessing such qualifications may be instrumental in your decision making process. However, as WorkLocally does not verify any certifications / qualifications, please ensure that you check the Jobs Seekers certifications and qualifications where appropriate. 
+ Feedback 
+ When a Job has been undertaken by a Job Seeker, both the Job Seeker and Job Poster have the opportunity to leave Feedback about the job. Job Seekers and Job Posters can leave Positive, Neutral or Negative Feedback which, over time, is used to build the Public Profile of the WorkLocally member. 
+ Although a more in-depth view of all Feedback left is available for review, the Positive Feedback Percentage, based on a Feedback score calculation, provides an overview of the feedback that the WorkLocally member has received over a 12 month period. 
+ Qualifications & Cert. 
+ [](javascript:alert('WorkLocally will not accept any liability or responsibility for any inaccuracies or misrepresentations made regarding an individual\'s, sole trader or a company\'s Qualifications or Certifications.');) 
+ Important 
+ Please note: 
+ In order to register to WorkLocally as a Job Seeker, and quote on Job Posts, you must hold the necessary qualifications and/or certifications required to undertake that Job. 
+ If you hold the necessary qualifications please check the box to confirm. 
+ [](javascript:alert('WorkLocally will not accept any liability or responsibility for any inaccuracies or misrepresentations made regarding an individual\'s, sole trader or a company\'s Qualifications or Certifications.');) 
+ Important 
+ Please note: 
+ In order to register to WorkLocally as a Job Seeker, and quote on Job Posts, you must hold the necessary qualifications and/or certifications required to undertake that Job. 
+ If you hold the necessary qualifications please check the box to confirm. 
+ If you  do not  hold the necessary qualifications and/or certifications please either cancel your registration or, return to the previous screen, and Select "No". By selecting "No" you will be confirming that you will ONLY place quotes on those Job Posts which do not require specialist qualifications/certifications. 
+ Qualifications & Certifications 
+ Quoting on Gas, Electricity or Plumbing 
+ Please note:  this selection is a one-time action and is not reversible. 
+ Selecting that you are qualified / certified is important, in order for Job Posters to understand that you have the necessary and up-to-date qualifications to carry out work as an Individual (Independent), Sole Trader or a Company. 
+ You have confirmed that you are the following: 
+ Yes 
+ Qualifications & Certifications 
+ Quoting on Gas, Electricity or Plumbing 
+ Please note:  this selection is a one-time action and is not reversible. 
+ Selecting that you are qualified / certified is important, in order for Job Posters to understand that you have the necessary and up-to-date qualifications to carry out work as an Individual (Independent), Sole Trader or a Company. 
+ You have confirmed that you are the following: 
+ No 
+ Certifications and Qualifications 
+ Acceptable Methods of Payment 
+ In order to quote on Jobs you will need to become a member. 
+ Join as a Bronze member and quote on jobs up to £150.00 
+ Join as a Silver member and quote on jobs up to £500.00 
+ Join as a Gold member and be able to apply quotes without any limits. 
+ Certifications and Qualifications 
+ Acceptable Methods of Payment 
+ In order to quote on Jobs you will need to become a member. 
+ Join as a Bronze member and quote on jobs up to £150.00 
+ Join as a Silver member and quote on jobs up to £500.00 
+ Join as a Gold member and be able to apply quotes without any limits. 
+ Certifications and Qualifications 
+ Acceptable Methods of Payment 
+ In order to quote on Jobs you will need to become a member. 
+ Join as a Bronze member and quote on jobs up to £150.00 
+ Join as a Silver member and quote on jobs up to £500.00 
+ Join as a Gold member and be able to apply quotes without any limits. 
+ Qualifications & Certifications 
+ Important 
+ Please note: 
+In order to register to WorkLocally as a Job Seeker, and quote on Job Posts, you must hold the neccessary qualifications and/or certifications required to undertake that Job. 
+ If you hold the necessary qualifications please check the box to confirm. 
+ If you  do not  hold the necessary qualifications and/or certifications please either cancel your registration or, return to the previous screen, and Select "No". By selecting "No" you will be confirming that you will ONLY place quotes on those Job Posts which do not require specialist qualifications/certifications. 
+ Qualifications & Certifications 
+ Important 
+ Please note: 
+In order to register to WorkLocally as a Job Seeker, and quote on Job Posts, you must hold the neccessary qualifications and/or certifications required to undertake that Job. 
+ If you hold the necessary qualifications please check the box to confirm. 
+ If you  do not  hold the necessary qualifications and/or certifications please either cancel your registration or, return to the previous screen, and Select "No". By selecting "No" you will be confirming that you will ONLY place quotes on those Job Posts which do not require specialist qualifications/certifications. 
+ Qualifications 
+ Adding Qualifications and Certifications 
+ Adding the details of any relevant qualifications and certifications you hold can help build your public profile. 
+ Qualifications 
+ If you have obtained any relevant qualifications you can add the details of up to 5 qualifications to your profile. 
+ Adding details of any relevant courses or qualifications that you have completed will, not only enhance your public profile, but may also be instrumental in helping you to win more jobs. 
+ Adding Qualifications and Certifications 
+ Adding the details of any relevant qualifications and certifications you hold can help build your public profile. 
+ Qualifications 
+ If you have obtained any relevant qualifications you can add the details of up to 5 qualifications to your profile. 
+ Adding details of any relevant courses or qualifications that you have completed will, not only enhance your public profile, but may also be instrumental in helping you to win more jobs. 
+ Professional Qualifications 
+ Qualifications 
+ If you have obtained any relevant qualifications you can add the details of up to 5 qualifications to your profile. 
+ Adding details of any relevant courses or qualifications that you have completed will, not only enhance your public profile, but may also be instrumental in helping you to win more jobs. 
+ Professional Qualifications 
+ If you have obtained any relevant professional qualifications you can add the details of up to 5 to your profile. 
+ Adding details of any relevant professional qualifications or certifications that you have completed will, not only enhance your public profile, but may also be instrumental in helping you to win more jobs. 
+ Professional Qualifications 
+ If you have obtained any relevant professional qualifications you can add the details of up to 5 to your profile. 
+ Adding details of any relevant professional qualifications or certifications that you have completed will, not only enhance your public profile, but may also be instrumental in helping you to win more jobs. 
+ Okay 
+ close 
+ WorkLocally Verification 
+ Publish Qualifications 
+ As a WorkLocally member you can upload and publish details of any relevant courses or qualifications that you have completed. 
+ Adding these details will not only enhance your public profile but may also be instrumental in helping you to win more jobs. 
+ Publish Skills 
+ As a WorkLocally member you can provide details of up to 5 skills that you specialise in. 
+ This will not only help other WorkLocally members to understand your strengths but can also be used in tailoring your job searches. 
+ Publish Qualifications 
+ As a WorkLocally member you can upload and publish details of any relevant courses or qualifications that you have completed. 
+ Adding these details will not only enhance your public profile but may also be instrumental in helping you to win more jobs. 
+ Publish Skills 
+ As a WorkLocally member you can provide details of up to 5 skills that you specialise in. 
+ This will not only help other WorkLocally members to understand your strengths but can also be used in tailoring your job searches. 

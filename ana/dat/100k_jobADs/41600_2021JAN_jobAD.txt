@@ -1,0 +1,69 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Roboflow (S20) 
+ 🖼️ Build a computer vision model without machine learning expertise. 
+ Wildcard 
+ 
+ Location 
+ Distributed, USA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Roboflow 
+ We're on a mission to remove barriers that prevent developers from building their own computer vision applications. Roboflow streamlines the process of labeling, training, and deploying a computer vision model. 
+ Why 
+ Computer vision is going to transform every industry. We’re already seeing this play out in fields like transportation (self driving cars), agriculture (drone spraying), and medicine (early stage cancer detection). But these superpowers shouldn’t be locked up in the handful of giant technology companies that can afford to hire teams of machine learning PhDs. 
+ What 
+ Roboflow enables any developer to use computer vision without being a machine learning expert. Our first product, Roboflow Organize, is the key missing infrastructure that allows developers to get raw images into any model framework -- replacing a sprawling list of one-off utils everyone has to reinvent and enabling our users to have working models in hours, not weeks. 
+ For example, Sarah Hinkley from Barn Owl Drones uses vision to identify weeds from crops in drone images so her customers can use fewer herbicides and grow more. She’s one of our over 20,000 users working on problems we couldn’t even imagine when we got started! 
+ Who 
+ Today, Roboflow has five full-time members: Amanda, Brad, Jacob, Matt, and Joseph. We also have a high school intern, Jim, who recently finished Calc 3 at the local university. Nikki also recently started part-time - she’s researching our new signups and learning more about how we can best solve their problems. Kelo, Amanda’s dog, is the best at frisbee among us. 
+ We’re united in our common goals to create high quality products and place our users first. Since we're a small upstart, that often means building things really quickly and fixing bugs right away. 
+ Various team members enjoy cycling, lake water sports, chess, the outdoors, running, and a smorgasbord of other activities… but we all enjoy learning (especially from one another). 
+ Growth 
+ Roboflow went from zero to over 20,000 users in 2020 and our customers are requesting features and product enhancements faster than we can provide them. 
+ We’re starting to build out our engineering, marketing, and sales teams. As an integral part of our core team, all roles will inevitably involve wearing a lot of hats; we're specifically looking for people excited about learning new things and filling gaps where needed. And most importantly, we're looking for people who ship. 
+ About the role 
+ What we're looking for 
+ Roboflow is growing rapidly and we will be hiring for many new roles in the coming months. We don't want to miss out on the perfect candidate just because the timing is a little off. If you're super excited about joining our team but we don't have an open role that fits we're open to creating one! 
+ What we need from you 
+ Let us know. 
+ Who you might be 
+ We love hiring past and future founders. If someday people are talking about the "Roboflow Mafia" in the same way they talk about the "PayPal Mafia" we'll know we've done something right. 
+ Technology 
+ Our goal is to build the world's best computer vision infrastructure so our users don't have to. This means we handle a lot of challenging complexities like seamlessly ingesting dozens of data formats, processing millions of images per day, and deploying auto-scaling machine learning infrastructure that can handle our customers' most demanding training and deployment needs. 
+ Our core app sits atop Firebase with assistance from auto-scaling groups of Docker containers (for jobs like archiving datasets and training models). We also heavily lean on serverless infrastructure so we can gracefully deal with bursty traffic involved in manipulating datasets that can range anywhere from one hundred to one million images. 
+ We also maintain  a library of Colab notebooks  our customers can use to train common computer vision models, a  directory of public datasets , and a  web of format specifications . We see building and supporting mini-projects like these that are helpful to the community at large as part of our role in democratizing computer vision. 
+ Other jobs at Roboflow 
+ Marketing Generalist 
+ fulltime 
+ Distributed, USA / Remote 
+ Any (new grads ok) 
+ Full Stack Engineer 
+ fulltime 
+ Distributed, USA / Remote 
+ Full Stack 
+ 3+ years 
+ Growth Analyst 
+ fulltime 
+ Distributed, USA / Remote 
+ Any (new grads ok) 
+ Wildcard 
+ fulltime 
+ Distributed, USA / Remote 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

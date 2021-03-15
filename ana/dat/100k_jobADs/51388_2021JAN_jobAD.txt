@@ -1,0 +1,162 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Java Engineer - Enterprise Metering (Consultant) 
+ Bloomberg 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Java Engineer - Enterprise Metering (Consultant) 
+ Bloomberg 
+ [](mailto:?subject=Senior%20Java%20Engineer%20%2D%20Enterprise%20Metering%20%28Consultant%29&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14275736/senior-java-engineer-enterprise-metering-consultant/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 7, 2021 
+ Location: 
+ New York, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Our challenge is complexity at scale. As Bloomberg's Enterprise Data business has grown year over year, we see a massive explosion of financial data that our clients use. We need to build systems that support high volume data ingestion, large-scale data storage and distributed data processing. Our data captures the who, what, when, where and how of our clients' use of various Bloomberg Enterprise products. Our mission is to use this data to power operational use cases like invoicing as well as to feed our business intelligence systems. We are very sensitive to our customers' data privacy needs, and our goal is to ensure appropriate controls and audit-ability of our systems. 
+ As engineers, we're the ones who build the applications our clients rely on to not just stay informed, but stay ahead of the market. We connect supply and demand across all asset classes on worldwide exchanges. The applications and infrastructure we build embody the speed, agility and financial data that makes Bloomberg the go-to for financial professionals across the globe. 
+ We interact very closely with our business and sales teams using agile and iterative development. We have many opportunities to design and develop innovative solutions to accomplish ever-growing customer requirements. We're continuing to grow rapidly, and have opportunities on the following team: 
+ Enterprise Metering Team 
+Our clients make hundreds of thousands of requests for data on a daily basis, which translates to billions of data points that flow through our system. Each of these requests may have different parameters asking for different data types, how and when it should be fetched, and various transformations to be performed. Additionally, we generate thousands of data sets that nearly span the full range of the financial industry on an ongoing basis. 
+ The metering team works primarily to calculate the billing charges for each client at the end of the month and controls entitlement of content. Metering entails running the entire dataset that every client has accessed through complex billing algorithms. This has to be done in a timely and accurate manner. To enable this we use big data technologies and frameworks. 
+ The metering team is in the process of migrating a lot of legacy infrastructure into a modern big data framework leveraging big data technologies. 
+ What 's in it for you: 
+As a senior software engineering consultant enabling this migration: 
+ 
+ You'll have the opportunity to develop and maintain the components that enable Metering. This will include modifying or developing new metering algorithms and implementing them using Java and frameworks of the Hadoop ecosystems. 
+ You will also be involved in coordinating, planning, rolling out and testing regular planned updates to the production system. 
+ You will have the opportunity to learn the challenges in design and maintenance of high availability high volume enterprise systems. 
+ 
+ We 'll trust you to: 
+ 
+ Complete projects that required significant problem solving, communication skills and the ability to work with a team 
+ Collaboratively design and develop components consistent with industry standards, project specific design principles and frameworks 
+ Work with engineering and product teams across Bloomberg and understand their application requirements and data access patterns 
+ Be willing to tackle new challenges, learn new technologies quickly 
+ 
+ You 'll need to have: 
+ 
+ 3+ years of experience in Java 
+ Strong problem solving skills and knowledge of commonly used data structures 
+ Experience working in fast paced Continuous Delivery project 
+ Ability to effectively communicate within the team and with stakeholders outside the team 
+ 
+ We 'd love to see: 
+ 
+ Experience with Python development 
+ Experience with some other compiled languages such as C, C++ 
+ Relational database experience (SQL and table design) 
+ Experience with low-latency, high-volume, and highly-availability distributed systems 
+ Experience with the Hadoop ecosystem 
+ 
+ We are extremely proud of our diverse and open culture, and value diversity of thought and perspective in every form. We're looking for engineers with a real passion for writing reusable, efficient solutions to complex problems, who can adapt to an ever-changing market landscape, and who can collaborate and work effectively on small teams to develop software that impacts thousands of power users around the world. If this sounds like you, please apply below! 
+ To find out more about Engineering at Bloomberg, check out www.bloomberg.com/careers/technology/engineering/. 
+ Bloomberg is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+ 
+ Internal Number: 8641688 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Bloomberg 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

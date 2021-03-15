@@ -1,0 +1,93 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ BuildZoom (W13) 
+ BuildZoom is a better way to remodel. We connect homeowners to the most reliable general contractors in their area and make remodeling simpler, cheaper and more predictable. 
+ Project Engineer 
+ 
+ Location 
+ Scottsdale, AZ, USA 
+ Job Type 
+ Full-time 
+ Experience 
+ 1+ years 
+ About BuildZoom 
+ We're leveraging data, ML, and web-based workflow tools to dramatically improve the construction and remodeling experience for homeowners, architects, and contractors. 
+ About the role 
+ BuildZoom is a managed marketplace for construction work. We help people build and remodel homes and commercial projects. We guide clients through the pre-construction process, and connect them with highly qualified construction professionals in our network. Our platform ensures accountability and transparency, enabling us to deliver great outcomes in a challenging industry. We managed $150 million contracts in 2019 and will manage $300 million in 2020. 
+ The construction engineer plays a vital role at BuildZoom. You will help spec and clarify the initial RFP, helping the property owner clarify their spec. to contract execution, you’ll represent the client’s interests and lay the groundwork for a successful project. You’ll also collaborate closely with our sales, product, and engineering teams as we continually improve and scale our service offerings. 
+ Our managed service is explained in more detail  here . 
+ Key Responsibilities 
+ 
+ First and foremost, work as an advocate for your clients; navigate them through design, implementation, and budgetary challenges. 
+ Analyze drawings, plans, and requirements to develop a full understanding of the project. 
+ Build a strong relationship with the client and communicate consistently through the process. 
+ Customize and send construction and architectural RFPs to vendors, and work with them through the bidding process. 
+ Represent the client through negotiation and value engineering. 
+ Provide consistently great service while managing multiple projects. 
+ Overcome hurdles to keep projects moving forward in an efficient manner. 
+ Collaborate with operations and engineering to continually improve BuildZoom’s managed services. 
+ Look for opportunities to expand BuildZoom managed services and provide additional value to our clients. 
+ 
+ Qualifications 
+ 
+ 2+ years of construction experience in onsite operations/project management, estimating, and purchasing. 
+ Degree or comparable training in construction management, engineering, or other relevant areas. 
+ High level of attention to detail, and understanding of building science principles. 
+ First-rate communication and customer-relations skills. 
+ Ability to manage a multitude of projects while maintaining high standards. 
+ 
+ Technology 
+ ReactJS, GraphQL, Ruby on Rails, Python, Redis, Aurora, MySQL, Postgres, Snowflake, Elasticsearch, AWS. 
+ Other jobs at BuildZoom 
+ Full Stack Engineer (Staff / Principal) 
+ fulltime 
+ Union Square, San Francisco, CA 94108, USA / Remote 
+ Full Stack 
+ 6+ years 
+ Project Engineer  
+ fulltime 
+ Scottsdale, AZ, USA 
+ 1+ years 
+  Data Product Manager 
+ fulltime 
+ Scottsdale, AZ, USA or San Francisco, CA, USA 
+ 1+ years 
+ Business Operations Manager 
+ fulltime 
+ Scottsdale, AZ, USA 
+ 3+ years 
+ Growth Operations Manager 
+ fulltime 
+ United States / Remote 
+ 3+ years 
+ Growth Operations Specialist 
+ fulltime 
+ United States / Remote 
+ 1+ years 
+ Business Intelligence Analyst 
+ fulltime 
+ Scottsdale, AZ, USA 
+ 1+ years 
+ Operations Coordinator 
+ fulltime 
+ Scottsdale, AZ, USA 
+ 1+ years 
+ Technology Operations Associate  
+ fulltime 
+ Scottsdale, Arizona 
+ $60k 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

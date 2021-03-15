@@ -1,0 +1,130 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ DeansList (IK12) 
+ Enterprise SaaS software helping schools manage administrative and non-academic data, and improve parent engagement. 
+ Senior Mobile Developer (React Native) 
+ 
+ Location 
+ New York / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About DeansList 
+ DeansList is the daily driver app that runs great K12 schools all over the U.S. We make it easy for schools to keep track of the data that matters,, distribute it across the school to all stakeholders, and communicate more frequently and more effectively with families. 
+ We focus specifically on the needs of students and families in underserved communities. Our feature set is designed to improve opportunities for students most affected by the achievement gap, areas like chronic absenteeism, family engagement, and social emotional skills. 
+ Our clients are innovative schools, mission-driven to closing the Achievement Gap, and DeansList is a key tool enabling them help students succeed. 
+ About the role 
+ DeansList is hiring its first-ever, dedicated mobile developer. Interested? Read on! 
+ Who is DeansList? 
+ 
+ We’re a bootstrapped ed-tech company that creates software that helps schools run better. 
+ Our SaaS platform is used in hundreds of innovative K-12 schools across the country. 
+ We’re proud to partner with many traditionally underserved communities. 
+ We tailor our software to the unique needs of each school. 
+ We’re continually solving hard (aka interesting) problems. 
+ We have the footprint and culture of a startup with the stability and resilience of a large company. 
+ We’re used to working remotely; we’ve been doing it for almost five years. 
+ We love delighting our customers with software and service that go beyond expectations. 
+ We believe in work-life balance--an exhausted dev is not a creative dev. 
+ 
+ Still reading? Here’s what to expect if you were to jump into this role: 
+ 
+ You will become the proud new owner of our two mobile apps: DeansList for Educators and DeansList for Families. 
+ Oh great, legacy code, right? Nope! We’re giving you the opportunity to rebuild them both from the ground up. 
+ What’s the catch? No catch! React and React Native have evolved a lot of the last four years, and we want to push the reset button so that we can build with the latest and greatest. 
+ We also want to leverage different screen sizes and orientations, which is something we don’t do well right now. Both the current apps are fixed in portrait mode. 
+ Once the mobile apps are rebuilt, we want to start adding lots of awesome new features to make the DeansList experience even better. 
+ 
+ This job is for you if: 
+ 
+ You want to be part of helping deliver a top-notch education to hundreds of thousands of students. 
+ You’re an ambitious, hard-working person who enjoys tackling big problems. 
+ You’re as passionate about design as you are about writing code. 
+ You're motivated by the challenge of creating user experiences that are elegant, intuitive, and extremely well-coded. 
+ You thrive on constructive feedback from users and co-workers. 
+ You feel comfortable designing for large and small screens alike. 
+ You can work independently but know when to reach out for help. 
+ You love learning and want to be on the cutting edge. 
+ You think JavaScript is the bees knees and React/React Native is the best thing since sliced bread. 
+ 
+ Requirements: 
+ Here’s the profile of who we think would thrive in this role. This isn’t an exact science, so if you don’t quite fit this feel free to try to convince us--we’re open to hearing your pitch. 
+ 4+ years of professional development experience with: 
+ 
+ JavaScript 
+ HTML/CSS 
+ UX/UI design 
+ REST and/or GraphQL API access (even those w/limited documentation) 
+ Asynchronous code 
+ 
+ 2+ years of professional development experience with: 
+ 
+ React and React Native 
+ React state management (Redux/MobX) 
+ Deploying and supporting iOS and Android apps 
+ You’ve created at least one incredible app--or played a major role in its development--and can show it off to us 
+ You have experience in education or ed-tech 
+ Bonus: you have an innate ability to read between the lines when it comes to specs/user requests 
+ Bonus: experience reading back-end code (mostly PHP) 
+ Bonus: experience with relational and key-value store databases 
+ 
+ Benefits: 
+ 
+ Flexible time off with no cap 
+ 10+ paid holidays 
+ Medical/vision/dental 
+ Stock options plan 
+ Fully vested 401k with up to 4% match, 
+ Minimum 4 weeks paid parental leave 
+ Work from home with a DeansList-provided MacBook Pro 
+ Flexible hours 
+ Paid trips to HQ in NYC 
+ 
+ Technology 
+ Architecture 
+ Our architecture is a mix of tried/tested technologies like PHP and more modern tools like GraphQL and React. Our core platform is a monolith that we're gradually breaking out into individual services. Some of our newer services run on Laravel/Lumen. We have REST and GraphQL APIs for both internal and client-facing use. 
+ Challenges We're Solving 
+ 
+ Our Analysis Tools suite is a world class business intelligence tool tuned specifically for education 
+ Our Messaging Center enables schools to communicate with families across voice, SMS and email - meeting parents at the medium that works for them 
+ Our integration layer makes it easy for us to connect to any third-party data provider via API or flat file 
+ Our internal report IDE lets schools build rich data-filled reports from scratch leveraging GraphQL, HTML and JavaScript 
+ 
+ Additional Technologies 
+ Ansible, ECS, Handlebars, Laravel/Lumen, GraphQL, MySQL, Node.JS, Puppeteer, React, React Native, Redis 
+ Other jobs at DeansList 
+ Senior Full Stack Engineer - Client Facing 
+ fulltime 
+ New York/Remote / Remote 
+ Full Stack 
+ $115k - $140k 
+ 0.10% - 0.30% 
+ 3+ years 
+ Director of School Success 
+ fulltime 
+ New York / Remote 
+ 3+ years 
+ Senior Mobile Developer (React Native) 
+ fulltime 
+ New York / Remote 
+ Frontend 
+ 3+ years 
+ Reporting and Data Associate 
+ fulltime 
+ New York / Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,109 @@
+Open Sourcery 
+ Technology, Open Source and Identity 
+ Search 
+ 
+ Home 
+ About the Author 
+ 
+ Bookmark the  permalink . 
+ Cool Stuff I Learned on the Job 
+  Oct  28    by  John Calcote 
+ During the last week, I had the opportunity (after 5 years of Java) to return to writing some C code - yep, you read that right - not even C++, but straight C. I'm sure glad we have C99 and C11 now because I don't know what I'd do if I couldn't even declare variables within a  for  statement. 
+ During this time, I realized that there are some really cool things I learned while working my first engineering job years ago at Novell. I was part of the Novell Directory Services team (later renamed eDirectory). I made a lot of friends in that job and a few of them taught me some really great techniques. 
+ For example, I needed to use a singly linked list and (C being what it is, and all) there just aren't any library routines for it, so you have to write it yourself. Yes, yes, there are myriad libraries out there at places like github that supply all the code you could want - I'm talking about STANDARD library routines. The most complex function in the C standard library is qsort. After working in the Java world for the last 7 years, I find it hard to go back to a language where you have to write your own data structures. 
+ I needed a way to traverse the list and remove an element matching some search criteria. Now, this is an  old  problem - people have solved it already, right? So I headed over to my favorite best-solution site, StackOverflow. If you need to know how the majority of folks do stuff, that's where you go. I found… nothing… well, nothing elegant anyway. There were any number of solutions involving multiple if statements checking various boundary conditions to handle everything perfectly. Then I remembered what my old mentor Dale Olds taught me about this topic - or, rather, I remembered MOST of it. It took me the better part of an hour to remember in enough detail to actually reimplement it. 
+ This blog post will be a running post, updated as I remember little techniques like this. Hopefully, by the time I'm done in a few years, I'll have a nice library to rely on. 
+ Remove an Element from a Singly Linked List 
+ Let's consider what we have in a singly linked list. Well, we have a  head  pointer and nodes with a  next  pointer. Perhaps a  tail  pointer, but only if you're using it like a FIFO queue or something, where you can append to the tail and remove from the head. Let's just stick to the basics - a  head  pointer and a  next  pointer in each node. To traverse from the head to a node matching some search criteria and remove that node, you must keep track of your current node, and the previous node. Or do you? The actual fact is, you only need to keep track of the current node and the _previous node 's next pointer _and herein lies the elegance. Here's how we did it back in the day: 
+ static struct node_t *head;
+...
+struct node_t **pprev, *cur;
+for (pprev = &head, cur = *pprev; cur; pprev = &cur->next, cur = *pprev)
+    if (is_match(cur) {
+        *pprev = cur->next; /* unlink cur */
+        break;
+    }
+return cur;
+ 
+ The really elegant thing about this technique is that  head  pointer maintenance is automatic. No need to do something special if the matching node is the one pointed to by  head . Because you're only dealing with the address of the previous node's  next  pointer, and  head  looks just like one of those when you're dealing with its address and not its value. You can treat it just like you would any other  next  pointer. Cool, huh? 
+ Heads or Tails 
+ This technique loses a bit of its elegance when you decide to maintain a tail pointer. Now you really do need to keep track of the address of the previous node; if the node you decide to remove is the current tail then you need to repoint the tail at the previous node. In short, the address of the previous node's next pointer is no longer sufficient. Here's a possible implementation: 
+ static struct node_t *head, *tail;
+...
+struct node_t **pprev, *prev, *cur;
+for (pprev = &head, prev = NULL, cur = *pprev; cur; 
+        pprev = &cur->next, prev = cur, cur = *pprev)
+    if (is_match(cur) {
+        if (cur == tail)
+            tail = prev;
+        *pprev = cur->next; /* unlink cur */
+        break;
+    }
+return cur;
+ 
+ In this case, we're tracking all the same information, plus the address of the previous node (which is NULL in case we're removing the first node). 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  C ,  development  and tagged  C ,  programming ,  techniques . 
+ Post navigation 
+ <- Why Won't my mp4 Play on Windows?! 
+ Information 
+ 
+ About the Author 
+ 
+ Administrivia 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Recent Posts 
+ 
+ Cool Stuff I Learned on the Job 
+ Why Won't my mp4 Play on Windows?! 
+ Maven code generation - ftw! 
+ The vSphere Web Client and Legacy "Script" Plugins 
+ Armikrog and The Neverhood 
+ 
+ Archives 
+ 
+ October 2017  (1) 
+ June 2017  (1) 
+ May 2017  (1) 
+ September 2013  (1) 
+ June 2013  (1) 
+ June 2011  (1) 
+ June 2010  (1) 
+ November 2009  (1) 
+ August 2009  (2) 
+ June 2009  (3) 
+ November 2008  (2) 
+ October 2008  (1) 
+ September 2008  (4) 
+ July 2008  (1) 
+ April 2008  (2) 
+ March 2008  (1) 
+ February 2008  (3) 
+ January 2008  (1) 
+ November 2007  (1) 
+ October 2007  (1) 
+ August 2007  (1) 
+ December 2006  (1) 
+ May 2006  (1) 
+ March 2006  (3) 
+ 
+ 
+ 360   3945   AnyDVD   ATI   Autoconf   Autotools   blu-ray   bluetooth   bluez   certificate   client   codec   compiz   D830   Dell   development   divx   driver   dvd   employment   fair use   fingerprint   firegl   freesoftwaremagazine.com   fsm   htpc   HTTP   https   internet   Java   keepass   keepassx   keystore   laptops   LDS Church   lenovo   Linux   logitech   m4   make   media center   mouse   msi   nagios   network   network printing   nlite   passwords   programming   reader   REST   SATA   security   sed   server   shell   ssl   sslcontext   streaming   T60p   thinkfinger   tls   truststore   video   western digital   wi-fi   Windows   wireless   wlan   wmc   wmv   xbox   XP   xvid   zipzoomfly 
+ Create a free website or blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

@@ -1,0 +1,71 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Software Development Manager - PC Express Media 
+ Loblaw Digital 
+ __Toronto, ON 
+ Apply Now 
+ At Loblaw Digital, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we’re up for the challenge. Either working remotely or in-person at our office in Downtown Toronto, we’ve created leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, and apparel spaces, and we’re only just getting started. 
+ The team you will be joining creates the software powering the PC Express online shopping platform for groceries and household goods. Every day we live and breathe our core value of placing the "Customer at the Centre". A successful day for us is one where we can go home knowing we made a positive difference in the lives of Canadians, because we genuinely care about the people that use our platform. Building software is great, but building software that impacts lives is that much more rewarding. 
+ To be part of our group is to always be looking for the best way to do something for our customers. As a digital business, we diligently adhere to the Build, Measure, Learn feedback loop. We build things to see how they perform in the real world, measure that performance, and use the results to test our assumptions and hypothesis. Sometimes that may mean a great idea or piece of code has to go away, but that is a small price to pay to ensure we are building the right things and solving the needs of our users. 
+ What You'll Do 
+As the Software Development Manager for the developers working on our PC Express media initiative, you will use your technical knowledge and strong interpersonal skills to help your developers grow their careers and develop strong relationships with the partners in Product Development and Design teams. 
+Time management, multitasking and strong communication are key requirements of the job. You will be a champion of our Loblaw Digital values, leading by example and giving your team a guide to follow. You will be vigilant about finding and removing any barriers to your team’s success in delivering quality software. 
+In this role you will work directly with our partners at Loblaw Media. Together, we are building one of Canada’s most exciting media companies. Loblaw Media offers a unique set of assets and capabilities for planning and delivering advertising that helps consumer brands more effectively reach customers who will love their products. We use transaction-based insights from our online and bricks and mortar stores to target audiences and measure campaign effectiveness. We activate across our owned channels as well as 3rd party media. 
+Mentor and develop all the developers on your team as their direct lead 
+Collaborate with other teams and business partners to find the best solutions available, and if not, design and build them 
+Balance code quality with business requirements and customer needs 
+Deliver cutting edge software that enhances our customer experience 
+Keep things running smoothly by removing barriers and toil from your development teams 
+ Does this sound like you? 
+A deep understanding of web software development with a minimum of 5 years of programming expertise in that field. While you may not code every day, understanding the context of your team’s work is paramount 
+Communication and interpersonal skills are paramount. 
+Documenting once is not enough; being able to explain something in different ways to different stakeholders is key 
+A track record of successfully mentoring and growing other software developers in your previous roles as a direct manager 
+Proven experience in JavaScript (ES 2018/2019), React, Redux 
+Keen awareness and understanding of performance, security, and other software development best practices 
+Demonstrated aptitude in system design 
+The ability to pick up technology quickly. We don't say "I'm not familiar with that technology," without adding, "but let me read up on it, and I'll get back to you on it." 
+Well versed in agile software development processes 
+You enjoy taking ownership of your work in an environment where leadership is a shared responsibility. 
+Experience with Gitflow workflow, CI/CD pipelines, and cloud native platforms (GCP, AWS, etc.) 
+Previous experience integrating with content management solutions and advertising technology and management solutions would be a plus 
+You meet most of this criteria and think this is the role for you - reach out and tell us why! 
+How you’ll succeed 
+ At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. 
+ You will get to work with some of the best digital minds and will have the support of world class technologies to craft products our customers will love! 
+ Loblaw Digital recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. 
+ In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

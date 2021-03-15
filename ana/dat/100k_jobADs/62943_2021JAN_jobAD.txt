@@ -1,0 +1,61 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Manage Account 
+ Integrations 
+ Job boards 
+ 
+ Integrating with Indeed for sponsored posts 
+ Nick DeSimone 
+ 
+ July 09, 2020 03:16 
+ Updated 
+ 
+ Follow 
+ Super Admins 
+ All plans 
+ Workable includes integrations with  hundreds of job boards  for easy advertising. Post to Indeed for free simply by creating a job in Workable and clicking the Publish button. 
+ You can also purchase sponsored job posts on Indeed (and many other job boards). A sponsored post is helpful for increasing the visibility on your post and attracting more candidates. 
+ To purchase Indeed sponsored posts you’ll need to perform a one-time setup process to connect Indeed and Workable. 
+ 
+ Click your profile icon in the upper right, click on 'Settings' and navigate to  Integrations 
+ Locate  Indeed  in the list of  Job board  integrations and click on it 
+ Enter your “advertiser email” from Indeed, which is the one associated with your Indeed account (you need to already have or create one for your company) 
+ Enter your contact phone number if needed, as this will be used to contact you if there is an issue with your sponsored post 
+ Click  Update Settings 
+ 
+ After the setup process is complete you can purchase Indeed sponsored posts for any of your jobs. 
+ 
+ 
+ Click on the  Find Candidates  button on the jobs dashboard 
+ 
+ 
+ Click on  Premium Job Boards 
+ 
+ 
+ Locate Indeed, choose a ‘ pay per click ’ promotional option and follow the steps that appear 
+ 
+ 
+ Facebook 
+ 
+ 
+ Twitter 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Was this helpful? 
+ 10 out of 12 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ What is an Indeed Pay Per Click (PPC) budget? 
+ Posting on Indeed FAQs 
+ Which job boards can I post to through Workable? 
+ Jobs dashboard overview 
+ How To: Optimise Job Posts 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 

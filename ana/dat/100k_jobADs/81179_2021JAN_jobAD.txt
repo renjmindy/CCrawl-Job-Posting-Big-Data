@@ -1,0 +1,112 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ AssemblyAI (S17) 
+ #1 Speech-to-Text API for Developers 
+ Deep Learning Engineer - NLP 
+ $150k - $200k • 0.10% - 0.25% 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About AssemblyAI 
+ At AssemblyAI, we use State-of-the-Art Deep Learning to build the #1 most accurate Speech-to-Text API for developers. We're backed by leading investors in Silicon Valley like Y Combinator, John and Patrick Collison (Stripe), Nat Friedman (GitHub), and Daniel Gross. 
+ Customers use our API to transcribe phone calls, meetings, videos, podcasts, and other types of media. Our accurate transcripts are used to power features like visual voicemail, call analytics, closed captioning, meeting summaries, and a slew of other features. 
+ We deploy our Deep Learning models into production to process millions of API requests per day. 
+ About the role 
+ Skills:  Python, TensorFlow, Deep Learning 
+ How to Apply 
+ If you're interested in applying to this role, please fill out the application form here:  https://forms.gle/1vMycsNfUdAtmwaaA 
+ About AssemblyAI 
+ At AssemblyAI, we use State-of-the-Art Deep Learning to build the #1 most accurate Speech-to-Text API for developers. We're backed by leading investors in Silicon Valley like Y Combinator, John and Patrick Collison (Stripe), Nat Friedman (GitHub), and Daniel Gross. 
+ Customers use our API to transcribe phone calls, meetings, videos, podcasts, and other types of media. Our accurate transcripts are used to power features like visual voicemail, call analytics, closed captioning, meeting summaries, and a slew of other features. 
+ We deploy our Deep Learning models into production to process millions of API requests per day. 
+ About the Role 
+ We are growing rapidly and looking for an experienced Deep Learning Engineer to join our Deep Learning Team, with a focus on NLP. You'll be leading the efforts on things like: 
+ 
+ Improving Deep Learning Models for automatically punctuating and casing text 
+ Researching and building Deep Learning models for various NLP tasks, such as NER, Summarization, Sentiment Analysis, and various types of text classification tasks 
+ Coordinating and preparing datasets for training new models 
+ 
+ We're a small, creative, and democratic team interested in pushing the state of the art forward. 
+ Qualifications 
+ 
+ 3-5+ years of experience with Python 
+ 3+ years of experience training various NLP and NLU models with modern model architectures 
+ 2+ years of experience with Deep Learning frameworks like PyTorch and TensorFlow 
+ 2+ years of experience training distributed deep learning models on GPUs 
+ 
+ Technology 
+ All of our Deep Learning models are trained in PyTorch, on extremely large in-house datasets, across dozens of v100s in our dedicated training clusters. 
+ For our production stack, we deploy everything into a modern Python micro-service architecture in AWS (Flask, Tornado, Docker, etc). 
+ Other jobs at AssemblyAI 
+ Senior Backend Engineer (Python) 
+ fulltime 
+ Remote 
+ Backend 
+ $125k - $165k 
+ 0.10% - 0.50% 
+ 3+ years 
+ Deep Learning Engineer - NLP 
+ fulltime 
+ Remote 
+ Machine Learning 
+ $150k - $200k 
+ 0.10% - 0.25% 
+ 3+ years 
+ Deep Learning Researcher - Speech Recognition 
+ fulltime 
+ Remote 
+ Machine Learning 
+ $150k - $200k 
+ 0.10% - 0.25% 
+ 3+ years 
+ Deep Learning Researcher - Language Modeling (Speech Recognition) 
+ fulltime 
+ Remote 
+ Machine Learning 
+ $150k - $200k 
+ 0.10% - 0.25% 
+ 3+ years 
+ Lead Developer Evangelist 
+ fulltime 
+ Remote 
+ Full Stack 
+ $125k - $150k 
+ 0.10% - 0.25% 
+ 1+ years 
+  Deep Learning Engineer  
+ fulltime 
+ Remote 
+ Machine Learning 
+ $150k - $200k 
+ 0.10% - 0.25% 
+ 3+ years 
+  Deep Learning Researcher - Speaker Diarization  
+ fulltime 
+ Remote 
+ Machine Learning 
+ $150k - $200k 
+ 0.10% - 0.25% 
+ 3+ years 
+ Technical Account Executive 
+ fulltime 
+ Remote 
+ $100k - $125k 
+ 0.10% - 0.50% 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

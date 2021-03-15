@@ -1,0 +1,175 @@
+SELECT LANGUAGE 
+ ENGLISH 
+ 中文 
+ ESPAÑOL 
+ 한국어 
+ فارسی 
+ FRANÇAIS 
+ NEDERLANDS 
+ עברית‎ 
+ عربى 
+ DEUTSCHE 
+ 
+ [HOME 
+ 
+ ](https://www.worldallianceofdramatherapy.com) 
+ 
+ [MISSION 
+ 
+ ](https://www.worldallianceofdramatherapy.com/mission) 
+ 
+ [COLLABORATING MEMBERS 
+ 
+ ](https://www.worldallianceofdramatherapy.com/collaborating-members) 
+ 
+ [EVENTS 
+ 
+ ](https://www.worldallianceofdramatherapy.com/events) 
+ 
+ [RESEARCH 
+ 
+ ](https://www.worldallianceofdramatherapy.com/research) 
+ 
+ [NEWS 
+ 
+ ](https://www.worldallianceofdramatherapy.com/news) 
+ 
+ More 
+ 
+ World Alliance 
+ of 
+ Dramatherapy 
+ English 
+ Arabic 
+ German 
+ Hebrew 
+ Spanish 
+ Korean 
+ French 
+ Chinese 
+ Dutch 
+ Persian 
+ Japanese 
+ Swahili 
+ Tagalog 
+ NEWS 
+ [ 
+ A Career Option for the Theatre Major: Drama Therapy 
+ "As my son George graduates this spring from the University of Tampa as a musical theatre major, he dreams about earning a living perform...](https://www.worldallianceofdramatherapy.com/single-post/2020/05/16/a-career-option-for-the-theatre-major-drama-therapy) 
+ {"items":["5f80c7ce9b74f700172db3ea"],"styles":{"galleryType":"Columns","groupSize":1,"showArrows":true,"cubeImages":true,"cubeType":"max","cubeRatio":1.7777777777777777,"isVertical":true,"gallerySize":30,"collageAmount":0,"collageDensity":0,"groupTypes":"1","oneRow":false,"imageMargin":37,"galleryMargin":0,"scatter":0,"chooseBestGroup":true,"smartCrop":false,"hasThumbnails":false,"enableScroll":true,"isGrid":true,"isSlider":false,"isColumns":false,"isSlideshow":false,"cropOnlyFill":false,"fixedColumns":0,"enableInfiniteScroll":true,"isRTL":false,"minItemSize":50,"rotatingGroupTypes":"","rotatingCropRatios":"","columnWidths":"","gallerySliderImageRatio":1.7777777777777777,"numberOfImagesPerRow":3,"numberOfImagesPerCol":1,"groupsPerStrip":0,"borderRadius":0,"boxShadow":0,"gridStyle":0,"mobilePanorama":false,"placeGroupsLtr":false,"viewMode":"preview","thumbnailSpacings":4,"galleryThumbnailsAlignment":"bottom","isMasonry":false,"isAutoSlideshow":false,"slideshowLoop":false,"autoSlideshowInterval":4,"bottomInfoHeight":0,"titlePlacement":"SHOW_BELOW","galleryTextAlign":"center","scrollSnap":false,"itemClick":"nothing","fullscreen":true,"videoPlay":"hover","scrollAnimation":"NO_EFFECT","slideAnimation":"SCROLL","scrollDirection":0,"scrollDuration":400,"overlayAnimation":"FADE_IN","arrowsPosition":0,"arrowsSize":23,"watermarkOpacity":40,"watermarkSize":40,"useWatermark":true,"watermarkDock":{"top":"auto","left":"auto","right":0,"bottom":0,"transform":"translate3d(0,0,0)"},"loadMoreAmount":"all","defaultShowInfoExpand":1,"allowLinkExpand":true,"expandInfoPosition":0,"allowFullscreenExpand":true,"fullscreenLoop":false,"galleryAlignExpand":"left","addToCartBorderWidth":1,"addToCartButtonText":"","slideshowInfoSize":200,"playButtonForAutoSlideShow":false,"allowSlideshowCounter":false,"hoveringBehaviour":"NEVER_SHOW","thumbnailSize":120,"magicLayoutSeed":1,"imageHoverAnimation":"NO_EFFECT","imagePlacementAnimation":"NO_EFFECT","calculateTextBoxWidthMode":"PERCENT","textBoxHeight":205,"textBoxWidth":200,"textBoxWidthPercent":50,"textImageSpace":10,"textBoxBorderRadius":0,"textBoxBorderWidth":0,"loadMoreButtonText":"","loadMoreButtonBorderWidth":1,"loadMoreButtonBorderRadius":0,"imageInfoType":"ATTACHED_BACKGROUND","itemBorderWidth":1,"itemBorderRadius":0,"itemEnableShadow":false,"itemShadowBlur":20,"itemShadowDirection":135,"itemShadowSize":10,"imageLoadingMode":"BLUR","expandAnimation":"NO_EFFECT","imageQuality":90,"usmToggle":false,"usm_a":0,"usm_r":0,"usm_t":0,"videoSound":false,"videoSpeed":"1","videoLoop":true,"gallerySizeType":"px","gallerySizePx":342,"allowTitle":true,"allowContextMenu":true,"textsHorizontalPadding":-30,"itemBorderColor":{"themeName":"color_15","value":"rgba(47,46,46,1)"},"showVideoPlayButton":true,"galleryLayout":2,"calculateTextBoxHeightMode":"MANUAL","textsVerticalPadding":-15,"targetItemSize":342,"selectedLayout":"2|bottom|1|max|true|0|true","layoutsVersion":2,"selectedLayoutV2":2,"isSlideshowFont":true,"externalInfoHeight":205,"externalInfoWidth":0},"container":{"width":684,"galleryWidth":721,"galleryHeight":0,"scrollBase":0,"height":null}} 
+ Archive 
+ 
+ January 2021 (1) 
+ December 2020 (2) 
+ September 2020 (3) 
+ August 2020 (1) 
+ July 2020 (7) 
+ June 2020 (3) 
+ May 2020 (2) 
+ April 2020 (4) 
+ February 2020 (3) 
+ January 2020 (3) 
+ December 2019 (2) 
+ November 2019 (5) 
+ October 2019 (2) 
+ September 2019 (2) 
+ August 2019 (1) 
+ July 2019 (3) 
+ May 2019 (2) 
+ April 2019 (2) 
+ March 2019 (1) 
+ February 2019 (1) 
+ January 2019 (3) 
+ November 2018 (2) 
+ October 2018 (6) 
+ September 2018 (4) 
+ August 2018 (1) 
+ July 2018 (1) 
+ June 2018 (2) 
+ May 2018 (4) 
+ April 2018 (3) 
+ March 2018 (7) 
+ February 2018 (3) 
+ January 2018 (7) 
+ December 2017 (1) 
+ November 2017 (1) 
+ 
+ Search By Tags 
+ 
+ 2019  
+ 2020  
+ academia  
+ addiction  
+ adolescents  
+ advocacy  
+ Africa  
+ Alzheimer's  
+ ANZACATA  
+ aphasia  
+ Argentina  
+ Arts and Health  
+ Asia  
+ Asia-Pacific  
+ assessment  
+ Australia  
+ autism  
+ award  
+ Ayurveda  
+ BADth  
+ Black Lives Matter  
+ cancer  
+ career  
+ catharsis  
+ children  
+ Chile  
+ clients  
+ collaboration  
+ CollideOscope Repertory Theatre Company  
+ communication  
+ community  
+ Confere  
+ conference  
+ COVID-19  
+ crime  
+ depression  
+ digital drama therapy  
+ documentary  
+ domestic violence  
+ Dr Clive Holmwood  
+ drama therapist  
+ drama therapy  
+ drama therapy online  
+ drama therapy review  
+ dramatherapist  
+ dramatherapy  
+ Dramatherapy week  
+ dtweek2019  
+ DvT  
+ Edge Hill University  
+ education  
+ Egypt  
+ elderly  
+ emotional expression  
+ enacting  
+ ethnodramatherapy  
+ Europe  
+ festival  
+ film  
+ first global forum  
+ france  
+ gender  
+ Greece  
+ hearing voices  
+ history  
+ HIV  
+ holocaust survivors  
+ Hong Kong  
+ Idris Goodwin  
+ India  
+ interactive performence  
+ interview  
+ Iran  
+ Iraq  
+ ireland  
+ 
+ © 2019 WADth 

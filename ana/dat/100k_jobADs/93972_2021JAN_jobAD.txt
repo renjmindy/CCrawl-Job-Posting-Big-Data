@@ -1,0 +1,169 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Clojure Engineer 
+ [ 
+ StatsBomb 
+ ](/companies/statsbomb) 
+ 
+ Remote 
+ 05 October, 2020 
+ Apply 
+ More jobs from StatsBomb About StatsBomb 
+ Salary 
+ £25K - 60K + Equity 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Clojure 
+ ClojureScript 
+ Kafka 
+ PostgreSQL 
+ React 
+ re-frame 
+ kafka streams 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Equity 
+ Happy hours 
+ Football 
+ 
+ Clojure developers of all levels to support back end data processing pipelines and ClojureScript web apps. 
+ Role overview 
+ We're hiring Clojure developers of all levels of experience to support our back end data processing pipelines, as well as ClojureScript web apps. Our current tech stack includes: 
+ 
+ Integrant-based server side apps in Clojure 
+ Parsing and validation of API outputs with Spec 
+ Jackdaw for stream processing on Kafka 
+ ClojureScript front-ends with re-frame 
+ Postgres databases with hundreds of millions of interesting events 
+ 
+ We're looking for people to join teams working on any or all aspects of this stack, as well as more senior engineers who are able to: 
+ 
+ Mentor junior team members 
+ Demonstrate and evangelise best practices in Clojure and beyond 
+ Cross-train programmers with JavaScript & React experience 
+ Keep an eye on new ideas and libraries in the Clojure ecosystem 
+ 
+ Our teams also work in JavaScript and Node.js, Python for machine learning, and SQL and R for ad-hoc analysis, so knowledge or at least tolerance of those technologies would be a plus. 
+ 
+ [ 
+ StatsBomb 
+ ](/companies/statsbomb) 
+ 
+ 50-249 
+ 
+ We're a football analytics startup (both the soccer and American varieties!) We sell data products as well as analysis tools to sports organisations, with a tech stack that includes computer vision, machine learning, stream processing, and web-based dataviz. We're hiring devops engineers, and front-end, back-end or full-stack software engineers to build out product teams across our fast growing business. We count many of the biggest names in football as customers, and your work will have a direct impact on our ability to deliver insights to those customers, driving success on the field. 
+ Sport Private AWS Analytics Computer Vision Data Science Equity Happy Hours 
+ View 1 job 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from StatsBomb About StatsBomb 
+ Salary 
+ £25K - 60K + Equity 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Clojure 
+ ClojureScript 
+ Kafka 
+ PostgreSQL 
+ React 
+ re-frame 
+ kafka streams 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Equity 
+ Happy hours 
+ Football 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Clojure(Script) Developer£35K - 60KElcomUnited Kingdom 
+ Help us develop our innovative range of next generation spend management solutions 
+ Remote 
+ css clojure clojurescript html react reagent 
+ More Info Apply 
+ Senior Clojure Engineer£45K - 75KSwirrlUnited Kingdom 
+ Improving data insights using Clojure in the Public Sector! 📈 
+ Remote 
+ aws clojure clojurescript gcp graphql javascript react 
+ More Info Apply 
+ Clojure Engineer£45K - 75KSwirrlUnited Kingdom 
+ Improving data insights using Clojure in the Public Sector! 📈 
+ Remote 
+ aws clojure clojurescript gcp graphql javascript react 
+ More Info Apply 
+ Clojure Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

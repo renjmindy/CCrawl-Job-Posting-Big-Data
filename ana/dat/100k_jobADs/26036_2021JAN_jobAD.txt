@@ -1,0 +1,92 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Cloud Security and Operations Manager 
+ AstraNorth 
+ __Ottawa, ON 
+ Apply Now 
+ Job Description 
+ Work Location:   Remote during COVID19. But candidate will have to relocate to Ottawa after restrictions are over 
+ Accountable for design, development, implementation of IT Security Operations and Compliance management for cloud based solutions. 
+Serve as the primary contact for information security incidents investigation, coordinate incident response and reporting 
+Responsible for internal/external audit and information security assessments by client 
+Lead SIEM solution implementations and SOC setup for on-premise and cloud based solutions. 
+Develop policies, standards, processes and procedures guidelines and other related documentation for Security Monitoring. 
+Provide guidance and expertise regarding the security architecture for new initiatives. 
+Acts as a subject matter expert on relevant regulations and policies and relevant frameworks/standards such as ISO27001, NIST, ITSG-33. 
+Monitor and manage security dashboards in Azure Sentinel/Azure Security Center/ Office 365, customize dashboards and reports, produce metrics per client needs. 
+Monitor health of Security solutions such as Firewall, Intrusion prevention Systems, Identity management, Endpoint Security, etc. for cloud based and on-premise systems. 
+Work with Business and IT Tier2/Tier3 Support engineers and/or vendor’s/partner technology teams to resolve issues 
+The ability and flexibility to work in shifts when necessary, Prepare Shift turnover and Shift Report to ensure continuous smooth 
+Guide junior Security operations teams in incident response and SOC functions 
+ Required years of experience, training, technical skills, and other requirements for job performance: 
+Has minimum of 8 years of experience working with Information Security management roles. 
+Has a minimum of 5 years of professional experience managing Security Incident Response and Operations management. 
+Subject matter level expert knowledge of common information security management frameworks, such as NIST/ISO/COBIT 
+Good Understanding of networking protocols such as IPVPN, TCP/IP, UDP, IPSec, DNS, NTP, Firewalls, ACLs 
+Moderate knowledge of networking fundamentals (TCP/IP, Network Layers, etc.) 
+Knowledge of malware operation and indicators 
+Knowledge of threat landscape (threat actors, APT, cyber-crime, etc.) 
+Experience in the producing threat & risk assessment reports. 
+Experience in the delivery of IT Security awareness and training 
+Protocol analysis experience using tools such as Wireshark, Gigastor, Netwitness, etc. 
+Experience with SIEM tools and platforms such as: ArcSight, Splunk, Azure Sentinel, Security Center. 
+Experience utilizing SIEM, Firewalls, IPS, DLP, Check Point, Antivirus/Anti-malware in an enterprise environment. 
+Strong understanding of ITSG-33 requirements and Government of Canada Security Assessment process 
+Experience with security assessments and authorization (SA&A) activities for IT systems 
+Excellent written and verbal communication skills 
+Proven interpersonal and collaborative skills, with the ability to communicate information security and risk-related concepts to technical and nontechnical audiences at various hierarchical levels 
+Good understanding of computer forensic techniques and methodologies. 
+ Education Qualification: 
+Bachelor's/Master’s degree in Computer Science, Engineering, Information Technology, Cybersecurity, or related field. 
+Minimum of 7 years’ professional experience in network or UNIX/Linux system administration, software engineering, software development, 
+Must have at least one of the following certifications: 
+SANS: GCIH, GCFA 
+Certified Ethical Hacker (CEH) from EC council 
+Certified Information Systems Security Professional(CISSP) 
+Certified Information Systems Auditor (CISA) 
+ Security Clearance: 
+Security Clearance (Enhanced Reliability Status) from the Government of Canada, or the candidate should be a resident of Canada for 5 continuous years. 
+ Job Types: Full-time, Permanent 
+ Pay: $70,000.00-$130,000.00 per year 
+ Schedule: 
+ 
+ Monday to Friday 
+ 
+ Work remotely: 
+ 
+ Temporarily due to COVID-19 
+ 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,119 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ UpKeep (W17) 
+ Beautiful, easy-to-use mobile software for maintenance teams. 
+ IT Manager (LA Office) 
+ 
+ Location 
+ Westwood, Los Angeles, CA 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About UpKeep 
+ We're taking the work out of work orders! Founded in 2014, our mission was to empower technicians, maintenance teams, and facility managers to be more productive through the adoption of new technology. 
+ Today, we have developed a mobile-first, cloud-based solution that is simplifying maintenance requests and asset management across dozens of industries around the world. We're focused on remaining the leading Computerized Maintenance Management System (CMMS) on the market by constantly improving our software as a service (SaaS) and always putting our customers first! UpKeep currently employs 70 amazing people that work together to ensure over 200,000 global users achieve their goals! We've been named the #1 Facility Management Software by Gartner & GetApp, #1 for Usability by Software Advice, and Easiest to Use CMMS by G2 Crowd. We've also been recognized as a "Best Place to Work" by Built in LA! 
+ After graduating from Y Combinator, we’ve raised $50M in capital funding (Series A & B) from some of the top VC’s in the world including Emergence Capital, Insight Partners, Battery Ventures, and Bain Capital. Only 1% of venture capital is funneled towards the deskless workforce, yet 80% of the global workforce is not sitting at a desk. We are actively investing in the future of maintenance and the underserved deskless worker. 
+ We are a Y Combinator-backed company (YC W17) 
+ Visit our website to learn more and view our current job openings!  https://www.onupkeep.com/ 
+ About the role 
+ UpKeep is revolutionizing the way businesses maintain, manage, and repair their facilities and equipment. We’re a Series B SaaS startup with 100 remote team members around the world. We’ve raised $50M in venture capital funding and recently surpassed 10,000 customers! UpKeep quickly became the #1 cloud-based maintenance and asset management software application by constantly innovating and always putting our customers first. 
+ We celebrate our inclusive culture and strive to create a diverse and equitable workplace where everyone is treated with kindness and respect. 
+ What you'll do: 
+ The Senior IT Manager will manage all day-to-day IT operations, and will work to establish and maintain strategies that ensure scalability and security as UpKeep continues to grow. You have a proven background in maturing and running IT systems and security policies in support of company growth. You will own and implement all general IT and company security policies and procedures working alongside various department leads. Our ideal candidate will be able to assist in creating the company’s IT strategy, own and drive initiatives, and support staff on solving technical issues quickly and efficiently. 
+ IT Operations 
+ 
+ Manages day-to-day IT Operations for a hybrid workforce, supporting remote and in-office teams 
+ Provides hands-on support to employees on a wide variety of day-to-day issues 
+ Manages Support & Automation Applications in a macOS, including but not limited to Munki, JAMF (or other MDM), Anti-Virus, and Backup Configurations 
+ Purchases & manages IT inventory and fixed asset tracking 
+ Provisions and maintains local and SaaS-based user accounts including but not limited to Google G Suite, Slack, Zoom and Adobe Creative Cloud 
+ Collaborates with the Operations Manager to onboard and offboard employees and contractors from various software accounts during the onboarding and offboarding processes 
+ Collaborates with the Operations Manager to distribute and receive company laptops during onboarding and offboarding processes 
+ Troubleshoots network, VPN, and connectivity issues 
+ Leads IT projects, including the design and deployment of new IT systems and services 
+ Project manages office IT infrastructure build-outs and consolidation strategy 
+ Assists in Conference Room A/V setup, architecture, and support 
+ Maintains system documentation and configuration data for operating, regulatory, and audit purposes 
+ 
+ Security & Compliance 
+ 
+ Provides technical and quality oversight regarding IT risks, controls and technologies, including ongoing risk assessments, risk decisions, control implementation, evaluation of segregation of duties, and process improvement opportunities 
+ Collaborates with Tech Ops on IT Risk Management, IT Vendor Risk management, and the ongoing evaluation and updating of IT Policies, procedures, SOPs, flowcharts, data flow diagrams, and narratives 
+ Facilitates the review of third-party SOC and GDPR reports and partners with our Product & Engineering and People + Finance teams to ensure relevant third party service providers are aligned with data security requirements 
+ Coordinates and manage the execution of internal and external data security and compliance audits, including planning and coordinating walkthroughs, and testing of IT general controls, application controls, and key system generated reports 
+ Evaluates and ensures remediation of identified IT related control deficiencies in a timely manner 
+ Reviews system implementations to assess risks and potential impact on the key data security and compliance policies 
+ Participates in recurring Data Security and Compliance Committee meetings 
+ 
+ Qualifications 
+ 
+ 3+ years of experience working in IT operations with demonstrated experience leading a hands on IT function at a rapidly growing company 
+ Bachelor's degree in Information Technology, Computer Science, Information Systems, or a related field, or equivalent experience 
+ Strong understanding of Apple Mac troubleshooting principles is necessary 
+ Strong understanding of Apple Mobile Device Management (MDM) software tools 
+ Understanding of IT security principles including "least privileged" access, data governance, etc. 
+ Highly detail-oriented and organized approach 
+ A customer service orientation with the ability to be flexible in a fast-paced environment 
+ Familiarity with requirements for SOC 2 and GDPR 
+ Must be a self-starter with experience managing IT projects and delivering results 
+ Ability to seek proactive solutions to difficult situations 
+ Experience with Compliance, Security Audits, Vulnerability and Penetration Testing 
+ 
+ Employee Benefits: 
+ In this full-time position, you'll receive top-notch benefits such as equity/stock options, paid holidays, 12-week parental leave, unlimited vacation/sick time, 401k, and affordable medical, dental, vision and mental health insurance options. We value a work/life balance and believe that family and mental health should always come first. 
+ The Company: 
+ UpKeep was founded by our CEO, Ryan Chan, from an idea he had while working as a process engineer in a manufacturing plant. He believed a cloud-based, mobile-first software solution could drastically improve the workflow and productivity of maintenance teams, technicians, and facility managers. He was determined to build on this vision— so he learned how to code and created the first version of UpKeep in 2014. 
+ Today, we’re simplifying and modernizing work orders for half a million people in over 50 countries. Our 80+ team members are focused on ensuring UpKeep is the smartest and easiest-to-use Computerized Maintenance Management System (CMMS) and Enterprise Asset Management (EAM) software available. We have customers in industries like manufacturing, food production, education, healthcare, property management, hospitality, energy, and transportation. In addition to providing data-driven insights and reporting, UpKeep gives users the ability to manage tasks and teams on-the-go. 
+ Top VC’s including Insight Partners, Emergence Capital, and Mucker have confidently backed us since we graduated from Y Combinator in 2017. Here’s an interesting fact: Only 1% of all software venture capital is invested in the deskless workforce, yet 80% of the global workforce is not sitting at a desk. That’s over 100 million people in the U.S. alone! We’re committed to empowering those underserved deskless workers. 
+ Company culture and employee appreciation are very important to us, which is why we've been named a "Best Place to Work" by Inc. Magazine and Built in LA. 
+ Interested in learning more? 
+ 
+ $36M Series B:  https://www.onupkeep.com/blog/upkeep-series-b-funding-announcement/ 
+ Demo Video:  https://www.youtube.com/watch?v=oX7Lak7o0qI 
+ Customer Reviews:  https://www.capterra.com/p/145635/UpKeep/ 
+ UpKeep Slack Community:  https://upkeep.org/communityslack/ 
+ Website:  www.onupkeep.com 
+ 
+ UpKeep Technologies Inc. is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to, and will not be discriminated against based on age, race, gender, color, religion, creed, marital status, pregnancy, disability, national origin, sexual orientation, gender identity, veteran status, or any other protected category. Please let us know if you need any accommodation due to a disability. We celebrate our inclusive work environment and will always strive to create a diverse and equitable workplace by hiring people from all racial, ethnic, and socioeconomic backgrounds. 
+ Technology 
+ Native iOS (Objective-C & Swift) Native Android (Java) Frontend (Angular 1 and React) Backend (Node, MongoDB and Postgres) Hosted on AWS managed by mLab 
+ Other jobs at UpKeep 
+ Sales Development Representative (Remote) 
+ fulltime 
+ Remote / Remote 
+ $55k - $60k 
+ Any (new grads ok) 
+ Sr. Full Stack Engineer, Node.js (Remote) 
+ fulltime 
+ Remote / Remote 
+ Full Stack 
+ 3+ years 
+ Product Designer  
+ fulltime 
+ / Remote 
+ UI / UX 
+ $110k - $120k 
+ 1+ years 
+ Product Manager (Remote)  
+ fulltime 
+ / Remote 
+ 1+ years 
+ IT Manager (LA Office) 
+ fulltime 
+ Westwood, Los Angeles, CA 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,12 @@
+ ‍  Qualifications 
+ At least 5+ years of experience in a leadership role for game audio, involved with full development cycles of multiple shipped titles preferred. 
+ Comprehensive understanding and practical experience in every facet of game audio production, including experience with  Wwise  across multiple full development cycles. 
+ Expert understanding of Foley, recording, mixing, sound design, implementation, scripting voice over, and localization techniques and best practices. 
+ Proven experience working and coordinating with game developers from different disciplines. 
+ Familiarity with the different kinds of production and implementation of music in a game engine, from looping tracks to linear pieces and stingers. 
+ Bonus Qualifications 
+ A Bachelor's degree or higher in an audio related field. 
+ Experience working on narrative-driven games with emergent audio features and systems, including branching conditionalized sequences (e.g. dialogue branches). 
+ Experience using Unreal Engine and Blueprints on at least one full development cycle. 
+ Music composition experience for a visual medium (portfolio/samples preferred). 
+ Relevant television/film experience. 

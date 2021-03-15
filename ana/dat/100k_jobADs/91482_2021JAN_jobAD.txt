@@ -1,0 +1,263 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Manager DataTechnologies Information Management 
+ Fairview Health Services 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Manager DataTechnologies Information Management 
+ __ Fairview Health Services 
+ [](mailto:?subject=Manager%20DataTechnologies%20%20Information%20Management&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14267334/manager-datatechnologies-information-management/ "Email")  
+ Application 
+   
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 5, 2021 
+ Location: 
+ Saint Paul, Minnesota 
+ __ Show Map 
+ Salary: 
+ Open 
+ Overview 
+ The Manager of DataTechnologies Information Managementis an important part of a team responsible for delivery, maintenance and support of datatechnologysolutions that enable Fairview Health Services ability to deliver outstanding patient care, great patient experiences and efficient business processes. This leader will establish and maintain a formal discipline for theinformation management and data services domains, reportingto the Director ofData Technologies.This role is responsible for providing input into and delivering on solutions in partnership with thedata analytics,database administration, enterprise architecture,data governance,business and clinical applications, technical operations, business operations, and clinical practice areas. 
+ Responsibilities/Job Description 
+ The Manager of Data Technologies will provide leadership and advocate for all the information management delivery capabilities including data warehousing, ETL, and Epic Clarity/Caboodle administration competences across the M Health Fairview enterprise. 
+ _ Data and Analytics Leadership  _ 
+ 
+ The Manager of Information Management serves as a key leader within the Data and Analytics Department to provide thought leadership and oversight on the data asset portfolio and ongoing information management development processes, including enhancement and project request intake, review and approval, resourcing, scheduling, and financial charge backs. 
+ Effectively balance and prioritize workloads among project work development, support maintenance / operations (including on-call rotation) and innovation and creativity. 
+ Research, understand, educate, evangelize, and deploy leading healthcare industry technology practices and solutions while driving continuous improvements build for the future while improving existing capabilities. 
+ Provide the vision and guidance needed to continuously improve the skills, processes, competencies, capabilities, and knowledge of the information management team and their associated service models. 
+ Ability to lead a global, technical staff of internal resources and strategic partners. Previous experience working closely with external vendors to internalize capabilities and build competency of internal staff in data technologies. 
+ Ability to manage multiple projects simultaneously with varying methodologies (Agile, Kanban, Waterfall) including project plans, resource plan, risk/issue management, and business value realization. 
+ Deliver cost competitive service excellence with published KPIs/SLAs that are tied to business value. 
+ Design, review, and build an environment of continuous improvement that enables self-service analytics capabilities. 
+ 
+ _ Data Warehouse Technical Leadership  _ 
+ 
+ The Manager of Information Management will need to proactively drive the vision for data warehousing and define and execute on a plan to achieve that vision. 
+ The Information Management Manager will lead the implementation of data strategies by analyzing and translating business needs into long-term solution data models that reduce data redundancy, streamline data movements, and improve enterprise information management. 
+ Lead the planning, design, creation and deployment of a modern data warehouse system. The Manager of Information Management oversees the data design and the creation of the database architecture and data repositories. 
+ Introduce and advocate for industry best practices of a modern data warehouse such as customer-centric, adaptable, automated, elastic, governed, secure, etc. 
+ Consult with internal and external partners to model enterprise-wide complex data structures including master data management 
+ Possess an advanced understanding of the healthcare industry and technologies, including the electronic health record (Epic) and other various on-premise and cloud-oriented data platforms. 
+ 
+ _ ETL Technical Leadership  _ 
+ 
+ The Manager of Information Management will lead a team that responds to hundreds of enhancement requests and dozens of major projects each year building new integrations and data stores / marts solutions and making minor to moderate sized enhancements to existing assets. 
+ The Information Management Manager will lead a development practice supporting the ongoing enhancement and maintenance of thousands of DataStage and SSIS integrations 
+ Consolidate and streamline data solutions across the company, as well as identify new prospects and leading practices that will give the organization a competitive advantage. 
+ Responsible for sourcing data to the data warehouse using a variety of tools and technologies as required for each source 
+ 
+ _ Epic Clarity and Caboodle Administration Leadership  _ 
+ 
+ The Manager of Information Management will oversee the design, testing, tuning and maintenance of the Epic Clarity and Caboodle database, environment, and custom data stores and marts. This team is also responsible for the performing modifications, full upgrades, patches, and SU's on all Epic Clarity and Caboodle environments 
+ Build a culture of troubleshooting, performing root cause analysis, solutioning production support incidents, and applying permanent improvements to minimize user outages and incidents 
+ Provides excellent partnership, collaboration, and consulting with other IT members and business customers. assigned projects associated to expand the Caboodle data models, build custom Caboodle data models and ETL processes, and fulfill requests to acquire additional data in Clarity and Caboodle. 
+ 
+ Additional Responsibilities: 
+ 
+ 
+ Responsible for leading a team through overall planning, organizing, and execution of all Information System functions related to data and technology. This includes meeting organizational requirements, support of existing applications, as well creating new and innovative solutions; 
+ 
+ 
+ Develop excellent understanding of data technologies and how data spans or interrelates with the specific orchestration requirements for individual areas of the business. Solutions should be developed to maximize the whole, while allowing for necessary variation; 
+ 
+ 
+ Evaluate and monitor the flow of information across all levels of the organization to improve and re-tool existing systems or develop new data pipelines to meet programmatic needs, and troubleshoot any system-wide difficulties or problems with information systems; 
+ 
+ 
+ Collaborate and make organizational recommendations as to the best possible data and software-based technology solutions to implement while maintaining high levels of data security; 
+ 
+ 
+ Assess and cultivate long-term strategic goals for area of responsibility in conjunction with Director, department managers, customers, and other key stakeholders; 
+ 
+ 
+ Work directly with Enterprise Architecture, Data Governance, and Information Security team(s) to develop and manage all data quality, data profiling, and transformation standards and information flow; 
+ 
+ 
+ Develop and maintain an organization of high performing data technology analysts and developers through effective hiring, coaching and performance/talent management processes. Influence and implement a resource strategy based on business need, scope of work, cost, and skill requirements. Foster a collaborative, success-oriented team environment where resources are empowered and accountable. 
+ 
+ 
+ Participate in the annual budget and financial planning process for assigned organization, technical assets and related projects. Participate in and bring subject matter expertise to the prioritization and planning of technology product solutions to meet and maximize the annual investment budget. Collaborate with involved teams across the business and with vendor partners to effectively and accurately estimate amount of work and resulting cost associated with project deliverables. 
+ 
+ 
+ Ensure compliance with organizational standards, practices and methodologies. Participate in the continuous improvement of methodologies, practices and standards as required. Hold teams accountable for following and implementing Software Development Life Cycle (SDLC) methodology, ITIL, Lean IT and quality management framework for projects. Write and/or revise system design documentation and operations documentation to include providing required input into operation support manuals and user guides. 
+ 
+ Ensure work adheres to standards and specifications (including peer reviews). Write and/or revise system design documentation and operations documentation to include providing required input into operation support manuals and user guides. Create and properly archive all project related documentation. 
+ Ensure all changes are effectively unit tested prior to being released to the quality assurance team. Resolve all unit test issues in a timely manner. Assist the quality assurance team in identifying test cases and in creating/mining test data to enable a thorough test of all deliverables. 
+ Evaluate, troubleshoot and lead root-cause analysis for production issues and system failures; determine corrective action and improvements to prevent recurrence. Provide implementation/production support as required. 
+ 
+ 
+ 
+ Responsible for managing the interactions with suppliers of hardware, software, and service including identifying potential solutions, problem management, as well as helping with negotiations and contracts. 
+ 
+ 
+ Monitor developments and emerging technology in the IT, data analysis, data integration and data management fields; recommend new data and technology solutions to meet changing needs; propose appropriate technology solutions and manage their implementation to meet current and prospective organizational needs. 
+ 
+ 
+ Qualifications 
+ ** Required  ** 
+ 
+ Education 
+ 
+ Undergraduate degree - Bachelors in Computer Science, Industrial Engineering, Software Engineering, Information Systems or combination of education and related work experience. 
+ 
+ Experience 
+ 
+ 5+ years Healthcare IT leadership, preferably in information management, data integration, data technologies, data analytics, or DevOps. 
+ 3+ years of experience managing enterprise software development teams. 
+ 7+ years of technical solutions experience. 
+ 3+ years of experience with MS SQL Server and/or Oracle. 
+ 2+ years of experience supporting healthcare stakeholders and solutions for hospital operations, clinical, revenue cycle, or other relevant areas. 
+ 2+ year experience with MS SharePoint Platform. 
+ 5+years prior experience with ETL Tools and/or Databases, preferably DataStage and SSIS 
+ 5+years prior working knowledge of modern data warehousing and business intelligence best practices and standards. 
+ 3+years prior experience with EPIC (Clarity / Caboodle) 
+ 3+ years prior experience with Cloud Infrastructure (Azure and AWS preferred) 
+ Experience with OMOP common data models and standardization is preferred 
+ Experience with Unified Medical Language System (UMLS) is preferred 
+ Understand the fundamental concepts of database design and the need for database architectural strategies to fit business or industry requirements. 
+ Knowledge of conceptual, logical, and physical data modeling. 
+ Understand common software architectures, including layered and distributed architecture models 
+ Understanding of quality assurance principles 
+ Database development/Management and coding SQL, Oracle, SSIS, SSRS, Informatica Power Center, KB SQL 
+ Effectively communicate verbally and in writing as appropriate for the needs of the audience. 
+ Think innovatively and strategically, keeping in mind organizational goals and objectives. 
+ Possess strong analytical thinking skills, ability to deconstruct complex problems and define and implement solutions. 
+ Experience mentoring and/or managing by individual development planning and SMART goal setting. 
+ Has in-depth functional expertise and broad knowledge of data domain and data types used within Healthcare landscape. 
+ Experience developing and supporting a team through data integration solutions in a healthcare environment utilizing EDI protocols and standards to integrate multiple systems. 
+ Prior experience implementing data programs, specifically data governance and stewardship. 
+ Excellent communication skills. Able to communicate effectively with a range of stakeholders from senior leaders to engineers, and present to both technical and non-technical audiences. 
+ Results-oriented with strong coaching, decision making, influencing, mentoring, negotiation, problem-solving and situational analysis skillss 
+ 
+ ** Preferred  ** 
+ 
+ Education 
+ 
+ Graduate degree Masters in Computer Science, Industrial Engineering, Software Engineering, Information Systems, Business Administration or combination of education and related work experience. 
+ 
+ Experience 
+ 
+ 7+ years Healthcare IT leadership, preferably in information management, data integration, data technologies, data analytics, or DevOps. 
+ 5+ years of experience managing enterprise software development teams. 
+ 10+ years of technical solutions experience. 
+ 7+ years of experience with MS SQL Server and/or Oracle 
+ Strong communication and interpersonal skills to relate well to all levels of users 
+ Thrives in a fast-paced, collaborative environment, efficiently works under pressures, within deadlines or other time essential constraints. 
+ Excellent communication skills, both written and verbal, to clearly and concisely communicate to all levels of the organization. 
+ Strong work ethic and an ability to excel within a rapidly changing and growing organization. 
+ 
+ License/Certification/Registration 
+ 
+ ITIL Foundation Certification 
+ Lean IT Management Certification 
+ Agile & Scrum Certification 
+ 
+ We can recommend jobs specifically for you!  Click here to get started. 
+ 
+ 
+ Internal Number: 2020-63350 
+  __  Create a Job Alert for Similar Jobs  
+ About  Fairview Health Services 
+ Together with the University of Minnesota and University of Minnesota Physicians we have created M Health Fairview. M Health Fairview is the newly expanded collaboration among the University of Minnesota, University of Minnesota Physicians, and Fairview Health Services. The healthcare system combines the best of academic and community medicine — expanding access to world-class, breakthrough care through our 10 hospitals and 60 clinics.Fairview Health Services (fairview.org) is an award-winning, nonprofit health system providing exceptional care across the full spectrum of health care services. Fairview is one of the most comprehensive and geographically accessible systems in the state, with 10 hospitals—including an academic medical center and long-term care hospital—serving the greater Twin Cities metro area.Its broad continuum also includes 60 primary care clinics, specialty clinics, senior living communities, retail and specialty pharmacies, pharmacy benefit management services, rehabilitation centers, counseling and home health care services, medical transportation, an integrated provider network and health insurer PreferredOne. In partnership with the University of Minnesota, ...Fairview’s 32,000 employees and 2,400 affiliated providers embrace innovation to drive a healthier future through healing, discovery and education. 
+ Show more 
+ Show less 
+ Connections working at  Fairview Health Services 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

@@ -1,0 +1,6 @@
+ Now, I say move on. Get certified and then move on. I don't mean to belittle the usefulness of Salesforce Certifications. They are the college degree of the Salesforce world. A degree is a gatekeeper and so are Salesforce Certifications. If you aren't certified, you have to go the extra mile to prove your abilities. So, get your certifications and move on. 
+ Now, here's my simple tips for passing the exams: 
+ Join a study group -  https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001pLJ 
+ Study, Study, Study - There are so many guides out there now that there's really no need to link a bunch here. Google it and you will be good to go. 
+ Do the  Trails ! 
+ Focus your learning - Each exam gives a percentage breakdown of what category the questions will be on. Focus your learning on the groups with the largest percentages. 

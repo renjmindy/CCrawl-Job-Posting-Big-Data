@@ -1,0 +1,290 @@
+Skip to content 
+ Remote work, technology, and engagement are hot topics in the New World of Work.  Read our in-depth report 
+   
+ 
+ 
+ * #### Search form
+ 
+ 
+ About Workable
+ 
+ Home page 
+ Product tour 
+ Pricing 
+ About us 
+ 
+ 
+ HR Toolkit
+ 
+ 
+   *         * #### HR toolkit overview
+ 
+ 
+ 
+ 
+ 
+ [ 
+ HR toolkit overview 
+ Ready-to-go resources to support you through every stage of the HR lifecycle, from recruiting to retention. 
+ ](//resources.workable.com/hr-toolkit) 
+ *       *         * #### HR templates
+ 
+ [ 
+ HR templates 
+ Banish the blank page for good with our 1000+ HR templates. Add a few personal touches and you’re good to go. 
+ ](//resources.workable.com/hr-templates) 
+   *         * #### Tutorials
+ 
+ [ 
+ Tutorials 
+ Struggling with a task or project? Get clear, concise, up-to-date advice with our practical, step-by-step guides. 
+ ](//resources.workable.com/tutorial) 
+   *         * #### HR Terms
+ 
+ [ 
+ HR terms 
+ Don’t let jargon stand between you and your to-do list. Get clear explanations of the most common HR terms. 
+ ](//resources.workable.com/hr-terms) 
+ *       *         * #### Search form
+ 
+ 
+ Inside HR
+ 
+ 
+   *         * #### Inside HR overview
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Inside HR overview 
+ Industry insights, new tech and tools, step outside the day-to-day demands of HR and keep pace with a changing world. 
+ ](//resources.workable.com/inside-hr) 
+ *       *         * #### Stories & insights
+ 
+ [ 
+ Stories & insights 
+ Read the minds of our team of HR writers. What’s in, what’s out, and what’s around the corner—they’ve got the HR world covered. 
+ ](//resources.workable.com/stories-and-insights) 
+   *         * #### Hiring with Workable
+ 
+ [ 
+ Hiring with Workable 
+ For every hiring challenge, Workable has a solution. Learn more about the features available and how they make each recruiting task easier. 
+ ](//resources.workable.com/hiring-with-workable) 
+   *         * #### Webinars & events
+ 
+ [ 
+ Webinars & events 
+ Connect with our team of Workable experts and other industry professionals. Ask questions, find answers, get tips, and dig deeper into our product. 
+ ](//resources.workable.com/webinars-and-events) 
+ *       *         * #### Search form
+ 
+ 
+ Backstage at Workable 
+ Get a demo 
+ Try for free 
+ 
+ HR Toolkit  |  Tutorials  | 
+ How to post jobs on Craigslist: A step-by-step guide for employers 
+ Taylor Cotter 
+ 
+ Craigslist  is a classified ads website, operating in over 70 countries. Starting life as an events email list in 1995, the site now has over 20 billion page views, and 80 million new advertisements each month. While it covers everything from properties to rent and gigs to attend, Craigslist is also a great  place for employers to post a job for free . This tutorial will give step-by-step guidance on how to post jobs on Craigslist. 
+ Posting a job to Craigslist is free for  most  employers; selected areas charge a fee between $7-75. With a  paid posting account  you also get the benefit of: 
+ 
+ Tools for managing your post 
+ Multi-user access for a single account 
+ Pre-purchased Craigslist job postings 
+ Invoicing and online payment 
+ 
+ Get in touch with Craigslist  to find out if you’ll need to pay to post a job ad in your area. 
+ _ Looking to get your job advertisement in front of the right candidates? Start a free trial  with Workable to post to the top job boards and manage the full hiring process.  _ 
+ How to post free or paid job listings on Craigslist: 
+ Setting up an account with Craigslist 
+ If you’re posting a free job on Craigslist, you can jump right in; there’s no need to set up an account. If you’d like the option to save your drafts, edit, delete or re-advertise a free job post, then an account will be useful.  Setting up your free account  is easy, simply enter your email address and a password, and verify your email address. 
+ Read why savvy recruiters use free job posting sites . 
+ To apply for a paid posting account with Craigslist, you’ll need a basic free account first. Complete the  online application form  and once your account has been approved, a member of the Craigslist accounting staff will take payment for paid postings within 1-7 business days. You can pay for posts with a credit card, by post or with a check. 
+ How to post a job on Craigslist for free: 
+ 1. Choose the right location 
+ Craigslist is a global network. Before you begin, make sure your location is correct; you’ll find it at the top right of the page. To change it, choose a new location from the  directory of Craigslist sites . 
+ Once your location is correct, select ‘  post to classifieds  ’ in the top left corner of the home page. 
+ 
+ 2. Select the job’s category 
+ On the following screen, pick ‘job offered’. Then choose the job’s category from the list e.g. ‘accounting/finance’. 
+ 3. Start building your job ad 
+ Next, enter the job title, specific location and job description. Need some help with the descriptions? Try the  job description library  for a comprehensive list of job description templates. 
+ 
+ 
+ Related  :  How to write the best job description ever 
+ 4. Add contact details for applicants 
+ Next—assuming you’re not using recruiting software to track applicants (see below)—enter your email address. You’ll see the option to show your real address, or to use the Craigslist  mail relay . Mail relay will protect your email address from spam by creating an intermediate email address based on random numbers and letters. Any candidate responses are then delivered to that address and forwarded on to your own email account. It’s recommended to protect your email address on heavily trafficked sites such as this, and so mail relay is an easy, safe option. 
+ 5. Complete your ad with useful information 
+ Tick any relevant details regarding telecommuting or contract type and select ‘continue’ at the bottom of the screen.  Add any images  you need to your Craigslist job posting and select ‘done with images’ or move straight on to review and publish your job listing on Craigslist. 
+ Note:  your ad may take approximately half an hour to appear on Craigslist. 
+ Managing applications from Craigslist 
+ When you post a job for free on Craigslist, you’ll usually receive applications via email, potentially using the Craigslist  mail relay  to protect your account from spam. This means that you’ll need to keep on top of your inbox over the following weeks. Your email will be used to manage day to day communications along with reviewing and replying to candidates, forwarding applications to members of your team and keeping tracking of feedback… And that’s before you’ve started to schedule calls or interviews. 
+ An Applicant Tracking System like  Workable  will help. Workable is recruiting software, used by teams to help streamline their recruiting; instead of individual applications arriving from Craigslist by email, Workable automatically gathers applications into a searchable candidate database. Every candidate can be screened via a  candidate profile  and other members of your team can  add comments   . 
+ Recruiting software will help to centralize your hiring activity. In brief, it’s used to: 
+ 
+ Get increased exposure for every job by  posting to multiple free and premium sites  with one submission 
+ Gather candidates into a searchable, trackable  candidate browser 
+ Collect and share team feedback as candidates move through  the pipeline 
+ Schedule interviews and  evaluate candidates 
+ Gain greater insight into your hiring activity with  reports  that assemble and analyze your data 
+ 
+ Using Workable with Craigslist 
+ If you’re using Workable to gather your candidates from Craigslist, you can still store your candidates in your  Workable pipeline  for review. Once you’ve used Workable to post the job to your chosen  free job sites  or bought any additional premium posts, you’ll see the  job mailbox  on the  Your Network  step: 
+ Screenshot via Workable 
+ The job mailbox is an email address created specifically for the position. Candidates can email resumes to the job mailbox in following formats: .pdf, .rtf, .odt, .doc & .docx. 
+ Simply copy and paste the job mailbox address into your job description on Craigslist. Workable’s ATS will extract the information from the resumes to create profiles that will be added to the “applied” stage of your pipeline. 
+ Related  :  What’s the best day to post jobs? 
+ More resources for posting jobs: 
+ 
+ How to post jobs on Facebook 
+ How to post jobs on Glassdoor 
+ How to post jobs on Google for Jobs 
+ How to post jobs on Indeed 
+ How to post jobs on Jobserve 
+ How to post jobs on LinkedIn 
+ How to post jobs on Monster 
+ How to post jobs on Prospects.ac.uk 
+ How to post jobs on Seek 
+ How to post jobs on Snagajob 
+ How to post jobs on Stack Overflow 
+ How to post jobs on Dribbble 
+ 
+ Related topics 
+ 
+ HR Toolkit  |  Tutorials  | 
+ [ 
+ Designing a successful job offer strategy: a definitive guide 
+ ](https://resources.workable.com/tutorial/successful-job-offer-strategy-guide) 
+ 
+ HR Toolkit  |  Tutorials  | 
+ [ 
+ The Startup Hiring Guide: Hiring for rapid growth from 5 to 50 
+ ](https://resources.workable.com/tutorial/the-startup-hiring-guide-your-playbook-for-rapid-growth) 
+ 
+ HR Toolkit  |  Tutorials  | 
+ [ 
+ How to master recruitment in media 
+ ](https://resources.workable.com/tutorial/recruitment-in-media-industry) 
+ 
+ HR Toolkit  |  Tutorials  | 
+ [ 
+ The Ultimate Guide To Job Posting 
+ ](https://resources.workable.com/tutorial/job-posting-guide) 
+ [ 
+ What’s coming up after COVID-19? 
+ Remote work, digital transformation, and engagement are hot topics according to our new survey on the New World of Work. But that’s not all – there’s much, much more. 
+ Gain full access to our in-depth report ](https://get.workable.com/new-world-of-work-registration?&llsd=new-world-of-work-2020&llc=organic&llm=footer&llo=registration) 
+ Popular topics 
+ 
+ COVID-19 
+ CCPA 
+ Brexit 
+ Coronavirus 
+ Compliance 
+ Recruiter 
+ Employer branding 
+ Future of work 
+ Candidate experience 
+ 
+ × 
+ Stay in the loop! 
+ Sign up for jargon-free hiring resources. 
+ Let's grow together 
+ Start hiring now with a 15-day free trial. Or talk to us about your hiring plans and 
+discover how Workable can help you find and hire great people. 
+ 
+ Try for free 
+ Get a demo 
+ 
+ Stay in the loop! 
+ Sign up for jargon-free hiring resources. 
+ 
+ 
+ Product 
+ 
+ Find 
+ Evaluate 
+ Automate 
+ Language options 
+ Careers pages 
+ Video Interviews 
+ Referrals 
+ Hiring Plan 
+ Texting 
+ All features 
+ 
+ 
+ 
+ Platform 
+ 
+ Why Workable 
+ Support & Security 
+ Customers 
+ Partners & Integrations 
+ Pricing 
+ Developer API 
+ Get a demo 
+ 
+ 
+ 
+ Resources 
+ 
+ Recruiting Resources 
+ Stories & Insights 
+ HR Tutorials 
+ Job Descriptions 
+ Interview Questions 
+ Hiring with Workable 
+ Help Center 
+ 
+ 
+ 
+ Company 
+ 
+ Contact 
+ News 
+ Backstage 
+ Careers 
+ Press 
+ About 
+ 
+ 
+ 
+   
+ Log in 
+ Americas: +1 857 990 9675 
+Europe & Rest of World: +44 203 826 8149  Americas:   +1 857 990 9675 
+Europe & Rest of World: [+44 203 826 8149](tel:0044 203 826 8149) 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ © Workable Technology Limited 2012-2021 
+ 
+ Terms & Conditions 
+ Privacy Policy 
+ Accessibility 
+ Do not sell my personal information 
+ Workable Status 
+ 

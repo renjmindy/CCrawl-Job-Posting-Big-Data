@@ -1,0 +1,6 @@
+ Key Qualifications 
+ 5+ years experience 
+ Systems programming experience (Go, Rust, or C/C++) 
+ Experience with profiling and performance optimizations 
+ Comfortable debugging production systems (instrumentation, monitoring, etc) 
+ Experience working on large projects at scale 

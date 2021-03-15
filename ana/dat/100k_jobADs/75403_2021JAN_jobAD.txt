@@ -1,0 +1,828 @@
+
+ Muddy Boots 
+ photography, computing, scientific research, and other ramblings by Johann A. Briffa 
+ Menu Skip to content 
+ 
+ 
+ Blog 
+ 
+ Photography 
+ Video 
+ Climbing 
+ Walks 
+ Computers 
+ Research 
+ Quotes 
+ Highlights
+ 
+ 2019: A Photographic Retrospective 
+ New Routes in Wied Anġlu 
+ Correcting the Lee Big Stopper Colour Cast 
+ Scripts for Reading and Writing Canon RAW files 
+ Full Frame vs Crop Sensors Revisited 
+ Visiting Malta: a few suggestions 
+ 
+ 
+ 
+ 
+ 
+ Publications 
+ 
+ Copyright Notice 
+ Journal 
+ Conference 
+ Dissertation 
+ Data Sets 
+ 
+ 
+ 
+ Research 
+ 
+ Project Topic Areas 
+ Presentations 
+ Books every Computer Scientist should have 
+ Indispensable Tools 
+ 
+ 
+ 
+ Other 
+ 
+ Keys & Certificates 
+ Maltese Keyboard 
+ StirMark Attack 
+ HUGO Source Code 
+ 
+ 
+ 
+ About / Contact 
+ 
+ 
+ Twitter  
+ 
+ 
+ YouTube  
+ 
+ 
+ RSS Feed  
+ 
+ 
+ Feb 11, 2015Apr 15, 2019   Johann A. Briffa 
+ Installing Torque/PBS job scheduler on Ubuntu 14.04 LTS / 16.04 LTS 
+ [Update Nov 2016: I have since confirmed that this method works without change on 16.04 LTS as well, and have updated the post to note this. I have also added a few instructions for installation on a machine which has no official FQDN, since this was a common stumbling block for a lot of people.] 
+ [Update Mar 2015: A related post has been added, where I explain how to set up additional boxes as submission hosts .] 
+ Last week I found myself needing to do something I really hate: solving a problem I know I solved before. What made this not a fun experience was that I couldn't find any notes from what I did the last time, which is rather unusual. You see, every time I encounter a problem with a non-obvious solution I like to write a blog post about it. That way, not only do I have a single place to look for notes, but it may also prove useful to others. In fact, the most-visited posts on this blog tend to be just those. 
+ Anyway, the problem at hand was the installation of the Torque/PBS job scheduler on a Ubuntu 14.04 LTS box [  Note: this has been confirmed to work without change on 16.04 LTS  ]. The plan was to initially install the scheduler on a single box, acting as server, scheduler, compute node, and submission host. Eventually, job submission would be extended to other machines, adding them also as compute nodes on additional queues. 
+ To help myself if I ever need to do this again, and to help anyone else in the same situation, I'll detail below what I did. Most importantly, I will highlight where I ran into problems, what the problems were, and how I resolved them. I hope this will be useful to others. 
+ All the following needs to be done as root on the box that will act as single-node cluster. First, of course, one needs to install the necessary packages. This can be done easily, with the caveat that you get Torque v2.4.16, which at this point is at end of life. I do not want to bother with non-packaged installs, as that would make my life harder later, so here goes. 
+ apt-get install torque-server torque-client torque-mom torque-pam
+ 
+ Installing the packages also sets up torque with a default setup that is in no way helpful. So next you'll need to stop all torque services and recreate a clean setup. 
+ /etc/init.d/torque-mom stop
+/etc/init.d/torque-scheduler stop
+/etc/init.d/torque-server stop
+pbs_server -t create
+ 
+ You'll need to answer 'yes' here to overwrite the existing database. Next, kill the just-started server instance so we can set a few things manually. 
+ killall pbs_server
+ 
+ If you don't kill the server, many things you do below will be overwritten the next time the server stops. Next, let's set up the server process; in the following, replace 'SERVER.DOMAIN' with your box's fully-qualified domain name [  Note: see just below if your machine doesn 't have an official FQDN ]. I prefer to use FQDN's so that it's easier later to add other compute nodes, job submission nodes, etc. The following also sets up the server process to allow user 'root' to change configurations in the database. This bit seemed missing from the default install, and it took me a while to figure it out (again). 
+ echo SERVER.DOMAIN > /etc/torque/server_name
+echo SERVER.DOMAIN > /var/spool/torque/server_priv/acl_svr/acl_hosts
+echo root@SERVER.DOMAIN > /var/spool/torque/server_priv/acl_svr/operators
+echo root@SERVER.DOMAIN > /var/spool/torque/server_priv/acl_svr/managers
+ 
+ If the machine you're installing Torque on doesn't have an official FQDN, a simple work-around is to invent one and assign it to the machine's network IP. For example, if eth0 is assigned to 192.168.1.1, we can add the following line to /etc/hosts. 
+ 192.168.1.1 SERVER.DOMAIN
+ 
+ The FQDN itself can be anything you want, but ideally choose something that cannot exist in reality, so something with a non-existent top-level domain. 
+ A cluster is nothing without some compute nodes, so next we tell the server process that the box itself is a compute node (with 4 cores, below - change this to suit your requirements). 
+ echo "SERVER.DOMAIN np=4" > /var/spool/torque/server_priv/nodes
+ 
+ We also need to tell the MOM process (i.e. the compute node handler) which server to contact for work. 
+ echo SERVER.DOMAIN > /var/spool/torque/mom_priv/config
+ 
+ Once this is done, we can restart all processes again. 
+ /etc/init.d/torque-server start
+/etc/init.d/torque-scheduler start
+/etc/init.d/torque-mom start
+ 
+ If you get any errors at this point, I'd suggest stopping any running processes, and restart them one by one in this order. Check the logs (under /var/spool/torque) for whatever is failing. Otherwise, the next step is to start the scheduler. 
+ # set scheduling properties
+qmgr -c 'set server scheduling = true'
+qmgr -c 'set server keep_completed = 300'
+qmgr -c 'set server mom_job_sync = true'
+ 
+ At this point, if you get the dreaded Unauthorized Request error, it's critical to figure out why this is happening. Usually it is because the commands look like they're coming from an unauthorized user/machine, that is anything different from the string 'root@SERVER.DOMAIN'. You can check this with the following command. 
+ grep Unauthorized /var/spool/torque/server_logs/*
+ 
+ We also need to create a default queue (here called 'batch' - you can change this to whatever you want). We'll set this up with default 1-hour time limit and single-node requirement, but you don't have to. 
+ # create default queue
+ qmgr -c 'create queue batch'
+ qmgr -c 'set queue batch queue_type = execution'
+ qmgr -c 'set queue batch started = true'
+ qmgr -c 'set queue batch enabled = true'
+ qmgr -c 'set queue batch resources_default.walltime = 1:00:00'
+ qmgr -c 'set queue batch resources_default.nodes = 1'
+ qmgr -c 'set server default_queue = batch'
+ 
+ Finally, we need to configure the server to allow submissions from itself. This one stumped me for a while. Note that the submit_hosts lists cannot be made up to FQDNs! This will not work if you do that, as the comparison is done  after truncating the name of the submitting host! 
+ # configure submission pool
+ qmgr -c 'set server submit_hosts = SERVER'
+ qmgr -c 'set server allow_node_submit = true'
+ 
+ For example, if above you use SERVER.DOMAIN instead of just SERVER, you'll get an error like the following the next time you try to submit: 
+ qsub: Bad UID for job execution MSG=ruserok failed validating USER/USER from SERVER.DOMAIN
+ 
+ where 'USER' will be the uid of whichever (non-root) user you try to submit the job as. The solution is simply to list the submission hosts as unqualified names. To test the system you need to try to submit a job (here an interactive one) as a non-root user from the same box. 
+ qsub -I
+ 
+ If this works, you'll get into a shell on the same box (as if you ssh'ed into itself). Note that you'll need authorised SSH keys set up for this user to allow password-less ssh. 
+ Eventually I'll need to set up additional boxes as submission hosts. I'll write about that process once it's done.  [Note: you can now find this here .]  Meanwhile, if you have any questions about the above, or if there's anything that could do with some clarification, feel free to let me know in the comments. 
+ 
+ Email 
+ More 
+ 
+ 
+ 
+ Facebook 
+ LinkedIn 
+ 
+ 
+ Reddit 
+ 
+ 
+ Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ 
+ 
+ Computers 
+ 
+ 
+ 14.04 LTS 
+ 
+ 
+ 16.04 LTS 
+ 
+ 
+ job scheduler 
+ 
+ 
+ PBS 
+ 
+ 
+ Torque 
+ 
+ 
+ Trusty Tahr 
+ 
+ 
+ Ubuntu 
+ 
+ 
+ Xenial Xerus 
+ 
+ 
+ Post navigation 
+ Previous Boulders 
+ Next Żurrieq Cliffs at Sunset 
+ 85 comments 
+ 
+ Stephen G. Hipperson  says: 
+ 
+ Feb 11, 2015 at 17:07 
+ I like the idea of making post if you solve a problem. 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ Feb 11, 2015 at 17:37 
+ Thanks Stephen! Yes I've found it to be helpful, and not just to myself 🙂 
+ Reply 
+ 
+ jasper  says: 
+ 
+ Feb 12, 2015 at 19:11 
+ Very nice tutorial! Worked like a charm, had some problems before but then I realised that I was running 12.04. Now lets see how to continue with Galaxy 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ Feb 12, 2015 at 19:35 
+ Thank you jasper, glad this was useful! Don't think there was much difference in 12.04 - what was your experience? And good luck with galaxy 🙂 
+ Reply 
+ 
+ jasper  says: 
+ 
+ Feb 13, 2015 at 06:31 
+ I could not get past qmgr part no matter what I did I got: 
+qmgr obj= svr=default: Unauthorized Request 
+Upgraded and then everything worked. Maybe there is a version difference in the packaging of ubuntu 12/14 for torque/pbs as I read 10.04 should be installed from source. 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ Feb 13, 2015 at 09:17 
+ That's odd. The version of torque distributed with Ubuntu has not really changed since 12.04 (see the  list of torque-server package in different releases of Ubuntu ). Pity you already upgraded, as it would be interesting to take a look at the logs to see what went wrong. After all, 12.04 will be supported until Aug 2017, so still has plenty of life left. 
+ Reply 
+   * **jasper** says:
+ 
+ Feb 13, 2015 at 12:16 
+ Yeah in that way a pity indeed… but I am glad it is working now, also submitting jobs to a second server is working now playing around with all the options and security as eventually I want to scale this to a dozen computers. 
+   * **Johann Briffa** says:
+ 
+ Feb 13, 2015 at 12:47 
+ Yes, glad it's working for you, and good luck with the scale up! 
+ * **Chris** says:
+ 
+ Mar 19, 2015 at 14:37 
+ I had the same issue with 12.04 
+I had to change the name in /etc/torque/server_name to just the name of the server without domain. The qmgr commands work then. 
+Im now stuck at configuring the clients 😀 
+ Reply 
+   * **Johann Briffa** says:
+ 
+ Mar 19, 2015 at 14:43 
+ Setting up the clients proved rather simple. I need to find some time to write about what it involved. Good luck with your clients! 
+ 
+ Adding client nodes to a Torque/PBS system on Ubuntu 14.04 LTS | Johann A. Briffa  says: 
+ 
+ Mar 25, 2015 at 16:49 
+ […] few weeks ago I wrote a blog post on installing a single-node Torque/PBS job scheduler on an Ubuntu 14.04 LTS system. The node served as scheduler, queue manager, compute node, and submission node. For my […] 
+ Reply 
+ 
+ Fran Dios  says: 
+ 
+ Apr 27, 2015 at 09:08 
+ Thanks for the post! 
+For those with "Unauthorized Request" problem, this worked for me: open '/etc/hosts' and check the IP of your . If it is '127.0.1.1', write '127.0.0.1'. Hope it helps! 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ Apr 27, 2015 at 10:38 
+ Thanks Fran! Re: the Unauthorized Request problem, that should not appear due to the lines adding the necessary permissions to acl_hosts, operators, and managers. If it still does, odds are that the host cannot reverse-lookup its own FQDN. This can easily be solved with an entry in /etc/hosts, but  without  changing the IP number. Your suggested change goes against Debian (and therefore Ubuntu) convention; I'm not sure what it could break, so I'd advise against it. (c.f.  https://www.debian.org/doc/manuals/debian-reference/ch05.en.html#_the_hostname_resolution ) 
+ Reply 
+   * **Don Morton** says:
+ 
+ Jun 17, 2015 at 03:45 
+ These were great instructions. Thank you for taking the time to do this. I also had issues with domain name, and had to make a similar (but not identical) change in /etc/hosts. First, here's a reference where someone else found that their hostname in /etc/hosts had to correspond to their eth0 address --  https://cmayes.wordpress.com/2012/12/15/single-host-torque-pbs/  -- According to the link that you provided above, that 127.0.1.1 IP is used in /etc/hosts for systems that may not have a permanent IP address. In my case, the installation of Ubuntu had defaulted to that 127.0.1.1 for my host, but I needed to replace it with my IP. Once I did that, it all worked perfectly. 
+   * **Johann Briffa** says:
+ 
+ Jun 17, 2015 at 09:20 
+ Thanks for stopping by, Dan! Replacing 127.0.1.1 with the eth0 address will work, but it's still the wrong approach IMHO. There is an alternative simple fix (using FQDN in Torque and writing  that  in /etc/hosts with the eth0 address), so there is no reason to break a Debian convention. 
+ 
+ CHIAN-DE Li  says: 
+ 
+ May 16, 2015 at 09:11 
+ Thanks for your post! 
+It helped me a lot. 🙂 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ May 16, 2015 at 14:12 
+ Thank you! Glad you found it useful 🙂 
+ Reply 
+ 
+ Jeremy Jao  says: 
+ 
+ May 27, 2015 at 22:01 
+ I'm using Ubuntu 14.04 also. Mine seems to be almost working but get this in the server_logs… I've been rotating between server.domain, server (without the domain from the hostname command), and the normal 
+ 05/27/2015 15:55:43;0040;PBS_Server;Svr;<SERVER.DOMAIN>;Scheduler was sent the command scheduler_first 
+05/27/2015 15:55:48;0040;PBS_Server;Req;ping_nodes;ping attempting to contact 1 nodes 
+05/27/2015 15:55:48;0040;PBS_Server;Req;ping_nodes;successful ping to node (stream 1) 
+05/27/2015 15:55:48;0002;PBS_Server;Svr;PBS_Server;Torque Server Version = 2.4.16, loglevel = 0 
+05/27/2015 15:55:52;0001;PBS_Server;Svr;PBS_Server;LOG_ERROR::stream_eof, connection to is bad, remote service may be down, message may be corrupt, or connection may have been dropped remotely (Premature end of message). setting node state to down 
+ I'm thinking it's because in my /etc/hosts, my second line is 127.0.1.1 for the hostname and hostname -f name. What do you think? Apparently it should just work but not for me… 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ May 28, 2015 at 09:51 
+ From the log it looks like the compute node is having problems contacting the server; seems to me that's where you need to debug. Does the compute node know how to resolve SERVER.DOMAIN? In any case, if you use SERVER.DOMAIN on the server config (as on my post), the second line in your /etc/hosts on the server is irrelevant. I would not touch that as that's the current Debian recommended setup. 
+ Reply 
+   * **[Jeremy Jao](https://plus.google.com/101344662716266495423)** says:
+ 
+ May 29, 2015 at 16:23 
+ I tried it with the SERVER.DOMAIN, but I get the same problem….. I changed the /etc/hosts (I know it's not recommended) to my eth0 address, and now it works……………….. (why always me…) 
+ Now the problem is that even with the qmgr setup, I can't in the life of me ever get qsub to run my batch scripts since it keeps it on state Q forever (all fixes say to run qmgr -c 'set server scheduling = true' but obviously this didn't work). I'm kinda stumped… 
+ I'll see what I can do again to get SERVER.DOMAIN working with 127.0.1.1 though 
+   * **Johann Briffa** says:
+ 
+ May 29, 2015 at 17:00 
+ The two problems could be related; if jobs are staying queued, what is the reason? you can check this with 'qstat -f jobid' where jobid is the actual job id. 
+ 
+ kamikague  says: 
+ 
+ Dec 13, 2015 at 01:16 
+ I followed your post and every thing work weel excepts that I don't have torque-scheduler has a service. The file /etc/init.d/torque-scheduler does not exists. Is it mandatory to have torque-scheduler running for any job submission ? How can I fix this issue ? Thank you Johann for this port. 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ Dec 14, 2015 at 17:23 
+ The file /etc/init.d/torque-scheduler is installed as part of the torque-scheduler package. Did you install that? The scheduler service needs to be installed on the scheduler node, in the example I gave this is the same as the compute node (i.e. the one with torque-mom and the same one which runs the jobs). I hope this helps. 
+ Reply 
+ 
+ Burak  says: 
+ 
+ Dec 20, 2015 at 02:20 
+ Hey Johann, 
+ I followed the tutorial but I am receiving the following error once I start torque-mom. I am using Ubuntu14.04 on amazon's web services aka AWS. It's a free tier so I have only one CPU. 
+ Starting Torque Mom torque-mom 
+pbs_mom: LOG_ERROR::Permission denied (13) in chk_file_sec, Security violation with "/var/spool/torque" - /var/spool/torque is world writable and not sticky 
+ Do you think you could help me? 
+ Thank you for your time! Great work! 
+Burak 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ Dec 20, 2015 at 08:08 
+ Hi Burak, what have you done that is different from the tutorial? 
+ Reply 
+   * **Burak** says:
+ 
+ Dec 20, 2015 at 23:17 
+ Hi Johann, I re-followed your tutorial from the beginning; it works. I must have skipped a step. Thanks for your time, such a nice tutorial. Happy Holidays. 
+   * **Johann Briffa** says:
+ 
+ Dec 20, 2015 at 23:27 
+ Happy to know it worked for you! 
+ 
+ Atreyu  says: 
+ 
+ May 30, 2016 at 21:29 
+ Hi Johann, 
+ I'm very new to Ubuntu, and have been wanting to set up a single-machine multicore queue system (i.e. single node) with TORQUE. I was wondering whether I needed an FQDN (the idea seems to scare me), or is there another way to set up TORQUE without this? 
+ Thank you for your time, 
+ Atreyu 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ May 31, 2016 at 21:47 
+ Hi Atreyu! You definitely don't need an FQDN - as long as the various components know how to find each other that's enough. If it's all on a single machine, just the name of the machine should be sufficient, as there's a translation to its IP number in 'hosts'. Hope this helps! Johann 
+ Reply 
+ 
+ C Balaji  says: 
+ 
+ Jun 3, 2016 at 07:15 
+ Hi Johann Briffa, 
+ This tutorial worked out-of-box for us. 
+Thanks a lot. 
+ C. Balaji 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ Jun 3, 2016 at 07:19 
+ Thank you! 
+ Reply 
+ 
+ unknown  says: 
+ 
+ Jun 3, 2016 at 10:47 
+ I got several ssh errors when error files have been written (host key verification failed, permission denied publickey, …). The thing that worked in the end was telling torque to use cp instead of scp. 
+You need to add the following line in  /var/spool/torque/mom_priv/config : 
+ $usercp *:/home /home 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ Jun 3, 2016 at 12:50 
+ Thanks for pointing this out; whether this is necessary depends on many other factors. Could you give a few more details about your setup? E.g. is it a single-node system, and if not how do you share home directories and user details? Also, do you have ssh set up network-wide (e.g. with certs signed by a CA that all nodes trust). 
+ Reply 
+ 
+ imitrichev  says: 
+ 
+ Jun 23, 2016 at 03:16 
+ Really good tutorial! Thank you! 
+ Reply 
+ * **Johann Briffa** says:
+ 
+ Jun 23, 2016 at 07:21 
+ Thank you! 
+ Reply 
+ 
+ cdslashetc  says: 
+ 
+ Jul 24, 2016 at 21:40 
+ Awesome tutorial, this worked like a charm on my 5-node pine64 picocluster with ubuntu xenial arm64 and packages from standard repo. I needed to modify /etc/hosts to use real IP rather than 127.0.1.1 then qmgr worked. 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Jul 25, 2016 at 08:53 
+ Thanks, and glad it's also working on Xenial - will make upgrades this summer that much easier 🙂 
+ On a separate note, as I mentioned in an earlier comment, replacing 127.0.1.1 with the 'real' IP address will work, but it’s still the wrong approach IMHO. There is an alternative simple fix (using FQDN in Torque and writing that in /etc/hosts with the eth0 address), so there is no reason to break a Debian convention. 
+ Reply 
+   * **Ashton** says:
+ 
+ Sep 2, 2016 at 06:50 
+ Hi Johann! I followed your write up and it worked perfectly for the version on APT, but unfortunately I needed something that supports slot limits. This is for a single node/sever configuration. I installed torque 6.X, but run into a similar DNS error, whenever qmgr is called; 
+ Unable to communicate with localhost(127.0.0.1) 
+Cannot connect to specified server host 'localhost' 
+ I can manually create the serverdb file (pbs_server -t create), then create a server_name file with the entry "localhost". But when I go to run a qmgr command same issue. Similarly when I run pbs_server or /etc/init.d/pbs_server start, it says [ok], but there is no pbs sever running (checked with ps and netstat). 
+ Any idea? 
+ my /etc/hosts file looks like; 
+lanikai# cat /etc/hosts 
+127.0.0.1 localhost 
+127.0.1.1 lanikai 
+ Putting in my actual FQDN is not an option (unless its just the localhost.localdomain). 
+ Keep up the good work! 
+   * **Johann A. Briffa** says:
+ 
+ Sep 5, 2016 at 09:47 
+ Hi Ashton, thanks for your comments! What you describe sounds odd. I'd start by checking the logs of the server process, to find out where it's bombing out. I'd also question the use of localhost as the connection point - especially if you may want to connect to it from another machine on the network. 
+ 
+ Steph  says: 
+ 
+ Aug 18, 2016 at 12:04 
+ Hello, 
+ I'd like to use with torque openmp. 
+ Openmpi 1.10.3 works perfectly, but when running a scrript with PBS I test.e33 mistakes in the file 
+ 7: /var/spool/torque/mom_priv/jobs/33.server.SC: module: not found 
+6: /var/spool/torque/mom_priv/jobs/33.server.SC: mpirun: not found 
+ or find the modules: 
+ module purge 
+module add torque 
+module add openmpi/gcc 
+ Thanks in advance for your help. 
+ Steph FRANCE 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Aug 18, 2016 at 12:17 
+ Hi Steph, thanks for stopping by. I have not tested Torque with OpenMPI myself, though it should work. From the errors above, it seems that you're using Torque on an existing cluster with modular software components. If you're a user of an existing installation, you'll really need to ask the administrator. I hope this helps. 
+ Reply 
+ 
+ ali  says: 
+ 
+ Sep 2, 2016 at 17:00 
+ Dear Can you are installing torque package on my computer by giving you my teamviewer or ssh .. I'm weak in the Linux operating system .. 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Sep 5, 2016 at 09:49 
+ Dear Ali, it seems to me you want to find a consultant to set up a system to your specifications. This generally comes at a (possibly substantial) cost. 
+ Reply 
+ 
+ Lukasz  says: 
+ 
+ Sep 9, 2016 at 01:30 
+ Hi Johann 
+ Unfortunately I stuck on setting the domain name. Since I want to use only one node I tried to put "localhost", however it does not work - should I add port or something to this ? (I getting message that "Address already in use") what should I do ? 
+ Thanks in advance ! 
+ Lukasz 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Sep 11, 2016 at 06:08 
+ Where do you mean? 
+ Reply 
+ 
+ Josh Boley  says: 
+ 
+ Nov 12, 2016 at 22:29 
+ Great blog! This saved me a ton of time and frustration, as this is my first go-round configuring a scheduler for a compute grid (or setting up a grid for that matter). Your solution still works for Ubuntu 16.04 LTS. 
+ In case any other newbies out there like me are curious to know, this works just as well on a virtual node as a physical node (including Xen/XenServer PV guests). 
+ So, on to configuring more compute nodes and a proper login node… 
+ Btw, I did run into the dreaded (qmgr) Unauthorized Request problem. Unfortunately, the only viable workaround I found was to change the fqdn ip to 127.0.0.1, as others have already mentioned. Interestingly, I ran across this:  https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=629596 . I've seen spurious bug reports before, but it does beg the question if the root problem might not lie with the Debian/Ubuntu packages. 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Nov 15, 2016 at 15:25 
+ Thanks for the details Josh; it's good to see more confirmations that the same method works for 16.04. Re: the Unauthorized Request problem, the workaround you used works (obviously) but I still think it's not the best approach. Assuming the machine is connected to a network, the ideal approach is to use its actual FQDN, or if this is not possible, to add a line in /etc/hosts with the eth0 IP and an invented FQDN. I'll update the post to say something about this, as it's a common problem. 
+ Reply 
+ 
+ sebastian  says: 
+ 
+ Nov 13, 2016 at 01:38 
+ Hi Johann, Thanks for your tutorial. I followed all these steps until the scheduling properties settings, but I get the same error described above ( qmgr obj= svr=default: Unauthorized Request). 
+ I have readed the comments, but this message still appear, I tried changing /etc/hosts (127.0.1.1 to 127.0.0.1) because I did not undesrtand your previous answer (wich are the necessary step to do it?): 
+ "the Unauthorized Request problem, that should not appear due to the lines adding the necessary permissions to acl_hosts, operators, and managers. If it still does, odds are that the host cannot reverse-lookup its own FQDN. This can easily be solved with an entry in /etc/hosts, but without changing the IP number" 
+ This IP changing does not solve anything, but then I have changed it to my IP 192.168.  .  and it works. With this configuration I have tried to launch the torque job but it remain queued forever, I have used pbsnodes -a command to see node status and its appear as "down" 
+ can you help me please with this problem please 
+ best wiches 
+ Sebastian 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Nov 15, 2016 at 15:28 
+ Thanks for the comments, Sebastian. Re: the Unauthorized Request problem, I'll add a few lines in the post to explain what can be done in greater detail, as it's a common problem. For the node appearing as 'down' problem, best thing is to check the mom logs, to find out what the problem is. Most probably it's a failure of the MOM process connecting to the server process, or the other way around. This can be due to the addresses used, which is one reason why localhost is not ideally used. 
+ Reply 
+ 
+ Jonathan  says: 
+ 
+ Nov 21, 2016 at 14:18 
+ Great tutorial! Thank you Johann 🙂 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Nov 21, 2016 at 14:32 
+ Thank you, Jonathan, much appreciated! 
+ Reply 
+ 
+ Xianzhong Xu  says: 
+ 
+ Jan 13, 2017 at 23:54 
+ On Ubuntu 16.04LTS, I ran into problem following your route: 
+ The following packages have unmet dependencies: 
+libroot-graf2d-graf5.34 : Depends: libroot-core5.34 (>= 5.34.00) but it is not going to be installed 
+Depends: libroot-hist5.34 (>= 5.34.00) but it is not going to be installed 
+Depends: libroot-io5.34 (>= 5.34.00) but it is not going to be installed 
+Depends: libroot-math-mathcore5.34 (>= 5.34.00) but it is not going to be installed 
+torque-client : Depends: libtorque2 (>= 2.4.16+dfsg) but it is not going to be installed 
+Depends: libcurses-perl but it is not going to be installed 
+Depends: gawk 
+Depends: torque-common but it is not going to be installed 
+torque-mom : Depends: libtorque2 (>= 2.4.16+dfsg) but it is not going to be installed 
+Depends: torque-common but it is not going to be installed 
+E: Unmet dependencies. Try 'apt-get -f install' with no packages (or specify a solution). 
+ Then I tried to install these but without success. Any idea how to fix this. Thanks. 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Jan 14, 2017 at 20:44 
+ Hi, I have no idea how those libroot dependencies got pulled in, they do not seem to have anything to do with torque. I suspect your system had a broken package dependency before you started trying to install torque. I suggest you fix that first, and then proceed with torque. 
+ Reply 
+ 
+ Gonzalo  says: 
+ 
+ Feb 7, 2017 at 09:21 
+ Hi Johann, 
+thanks for this excellent post, it is quite practical. I have null experience with job schedulers. I have a single linux box with 2 processors/20 cores in total, and an applycation that uses pbs for parallelization. Do you know if it could work by installing pbs in my box and using the multiple cores in this single box, instead of running on several boxes? 
+Thanks a lot in advance 
+Gonzalo 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Feb 7, 2017 at 17:15 
+ Hi Gonzalo, thanks for stopping by and for your kind words! Sure, you can set this up on a single machine if you want, to facilitate use of multiple cores. Only difference is that the same machine acts as all the roles. 
+ Reply 
+ 
+ sandip Khan  says: 
+ 
+ Jun 25, 2017 at 10:26 
+ Hi Johann, 
+      Thanks for posting such a great blog. I have successfully installed the server and able to submit my jobs. Can you please suggest me how to add more compute node in the server. Suppose I have 5 box and I want to make them as 5 node cluster. 
+ 
+ Thanks, 
+sandip 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Jun 29, 2017 at 14:00 
+ Dear Sandip, 
+to add more compute nodes it's just a matter of a) setting up those nodes with torque-mom, and b) adding their details in /var/spool/torque/server_priv/nodes on the scheduler. You can find instructions for a) in  https://jabriffa.wordpress.com/2015/03/25/adding-client-nodes-to-a-torquepbs-system-on-ubuntu-14-04-lts/ , while to add each compute node to the server you'll need to do an echo "COMPUTENODE.DOMAIN np=4" > /var/spool/torque/server_priv/nodes on the server (change np=4 depending on the number of cores on that compute node). Hope this helps! 
+Johann 
+ Reply 
+ 
+ Will L  says: 
+ 
+ Oct 29, 2017 at 00:32 
+ Echoing everyone else, this was super helpful!  qsub -I  ran without a hitch. I wish there was a similar guid for SLURM. 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Oct 29, 2017 at 06:58 
+ Thank you, and glad you found it useful! 
+ Reply 
+ 
+ john  says: 
+ 
+ Oct 30, 2017 at 14:57 
+ Make sure the COMPUTER NAME has no symbol. It took me 1 day to realized that the cause of the problem was a dash - symbol in my computer name. 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Oct 30, 2017 at 16:41 
+ Hi John, thanks for pointing this out! 
+ Reply 
+ 
+ mattkasemer  says: 
+ 
+ Nov 5, 2017 at 15:08 
+ Recently upgraded to 17.10 – any plans to update this for the new distro? 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Nov 5, 2017 at 15:53 
+ Not any time soon. Only plan to upgrade when the next LTS is released, and since it's an upgrade, only after the first point release. So 18.04.1 LTS, around August 2018. 
+ Reply 
+   * **Ernesto Aparicio** says:
+ 
+ Jan 31, 2019 at 23:50 
+ Thank you for this post, I found it to be pretty useful. Could you share a solution for 18.04 if you have one? 
+ Thanks again 
+   * **Johann A. Briffa** says:
+ 
+ Feb 1, 2019 at 07:45 
+ Unfortunately for 18.04 things are a bit more complicated. Torque was dropped from 18.04, so the best option is to use another job scheduler. For myself I'm planning to use SGE. Unfortunately, due to other duties, I haven't had the time to set it up yet. Should have this ready in a few weeks. I plan to write another post about setting that up, when I'm done. Will also link to it at the top of this post. 
+ 
+ Rémi  says: 
+ 
+ Nov 15, 2017 at 17:16 
+ Dear Johann, 
+Thank you very much for your post! Very helpful and easy to follow. 
+I have noticed something strange in my case. I have followed your procedure entirely through the end without any error message but when I try qsub -I the interactive job don't seems to start and I have a waiting message. However if use my queue with a submission script it seems to work perfectly fine at the moment. 
+Do you think there might be something odd though? 
+All the best, 
+Rémi 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Nov 16, 2017 at 13:01 
+ I have had reports of this happening, you're not the first. I'd suggest you check the full status (qstat -f) of the pending interactive job to find out why it remains pending. 
+ Reply 
+ 
+ Bo-Yuan Ning  says: 
+ 
+ Dec 15, 2017 at 13:52 
+ Dear Johann, 
+ Great tutorial! Very detail and helpful. I finally installed Torque on my PC with Ubuntu 16.04 LTS successfully. I exactly followed your guide except for that I changed the /etc/hosts file as following, 
+          
+127.0.0.1     tianqiao204  localhost  # Here tianqiao204 is my SERVICE.DOMAIN as you mentioned.
+#127.0.1.1     tianqiao204
+ 
+ I do not know whether such a change funtions as what you say in the tutorial. Still, very nice guide for Torque installation. 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Dec 21, 2017 at 16:40 
+ This would work, but is not recommended as it goes against Debian (and therefore Ubuntu) convention; I’m not sure what it could break, so I’d advise against it. (c.f.  https://www.debian.org/doc/manuals/debian-reference/ch05.en.html#_the_hostname_resolution ) 
+ Reply 
+   * **Bo-Yuan Ning** says:
+ 
+ Dec 29, 2017 at 06:03 
+ Hi Johann, 
+ Thank you very much for the reply. 
+ So far I met one problem and one question towards the installed PBS system. 
+ The problem is about paralell job submission with mpirun command in the pbs script. I installed OpenMPI before Torque was installed. Now when I use 'mpirun -np 4 ./a.out' command directly in the terminal, everything works fine. However, when I try to run pbs script with mpirun command, such as 'qsub XXX.pbs -l nodes=tianqiao204:ppn=4 -N nby', error shows up as 
+ mpirun was unable to launch the specified application as it could not find an executable 
+ I do not know whether it is the OpenMPI installation or Torque setup that leads to the error? Have you ever encoutered the same problem? 
+ I have installed a Nvidia GTX 1060 GPU in my PC and want to run some CUDA calculations. Is there gonna be some additional setups of Torque? 
+ I sincerely hope you could spare some time to help me. Anyway, thanks for your help in advance. 
+ Bo-Yuan 
+   * **Johann A. Briffa** says:
+ 
+ Jan 1, 2018 at 08:52 
+ Hi Bo-Yuan! I'm afraid I have never run MPI executables through torque, so I cannot provide first-hand experience. I suspect your problem has to do with PATH setup, so I suggest you start there. 
+ For GPU use, there is nothing more to do, except making sure that your compute nodes have the required libraries installed and driver running. On recent Ubuntu the easiest way to do this is to install the official CUDA packages. I've been using this myself for a long time now. Note that in general compute nodes will have 'x' CPU cores and 'y' GPU devices, where x!=y. This means you'll need to figure out some way to manage jobs to avoid sharing a GPU device on a compute node (unless you're happy sharing the device, of course). More recent Torque have specific support for GPUs, but unfortunately the version in current LTS Ubuntu is too old. This is one feature I hope won't take long to arrive. 
+ 
+ Bo-Yuan Ning  says: 
+ 
+ Dec 15, 2017 at 13:55 
+ There is a typoo in my comment. "#" at the begining of the second line is missing. It should be like #127.0.1.1 tianqiao204. 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Dec 21, 2017 at 16:39 
+ Hi, I have fixed your earlier comment accordingly. 
+ Reply 
+ 
+ compoundevents  says: 
+ 
+ Dec 22, 2017 at 15:11 
+ Dear Johann, 
+Thanks for the very useful blog. I've managed to setup the Torque on my Ubuntu 16.04 LTS server and run some test jobs. I noticed that the jobs are executed using the root environmental variables. Is it possible to execute a job using the commit user environmental variables. For instance to use the user default python installation rather than the root default? 
+Thanks! 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Dec 22, 2017 at 18:14 
+ Thank you, and glad you found it useful! I believe there is an option in qsub that allows you to 'push' your current environment (ie. whatever it is when you run the qsub command) to the job itself. Take a look at the -v and -V options in the documentation. I don't think I've ever used it myself on Torque, so can't comment on how effective it is. 
+ Reply 
+ 
+ Ali  says: 
+ 
+ Jan 17, 2018 at 18:04 
+ Hi Johann, 
+ Thanks for the informative blog. 
+ I have followed the instruction up to starting the scheduler. However, for some reason, I face a problem connecting to the server that I specified. I get the following message 
+ Cannot connect to specified server host ‘myHostName.dlan.example.com’. 
+qmgr: cannot connect to server myHostName.dlan.example.com (errno=111) Connection refused 
+ Could you please have a comment on this? 
+ Reply 
+ 
+ sukesh  says: 
+ 
+ Jan 24, 2018 at 10:17 
+ Can i use this above tutorial for installing and configuring torque on single node ubuntu 14.04 worsstation? 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Jan 24, 2018 at 11:04 
+ Yes it should work well for that purpose. 
+ Reply 
+ 
+ Himanshu  says: 
+ 
+ Feb 18, 2018 at 06:27 
+ Hello Johann, 
+ Thanks for the installation guide. It is indeed very well explained. I had a couple of queries: 
+ I am seeing the dreaded “Unauthorized Access…” error. I am working with Ubuntu 16.04. I tried the hacks suggested in the comments but none seemed to work. What else should I try? 
+I have 4 NVIDIA GPU resources. Did you have any success with using GPU resources on your build? 
+My lab has a small scale operation, with two machines with 8 GPUs in total. It is intended to be used by about 10 people with a heavy emphasis on Deep Learning Applications. Would you suggest investing in Moab or any other scheduler, other than the one in torque-scheduler? 
+ Thanks 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Feb 18, 2018 at 15:33 
+ Hi there. About the unauthorised access, did you deviate from the guide in any way? I ask because the problem shouldn't happen if it's followed exactly. Of course, this is not always possible, but those deviations can point to the problem. 
+ Re: GPU sharing it's a bit complicated. I have used torque on machines with multiple Nvidia GPU devices, but set it up to have only one process running through the scheduler. So this gets access to everything. If you want to allocate devices to processes, the standard torque from the Ubuntu repository cannot do that. I believe that newer versions can, but I don't have any experience with them. 
+ Reply 
+ 
+ Gary  says: 
+ 
+ Mar 7, 2019 at 05:13 
+ Hi Johann, 
+ Thanks for your very comprehensive guide on how to set this up. I have successfully set up pbs on my 32-core workstation. 
+ However, while I am testing the functionality, I noticed that the #PBS -l ncpus does not take effect. In one instance, I set #PBS -l ncpus=1, but I can run mpirun -np 28 . 
+ Output from htop shows that, even though ncpus=1, 28 cores are used for the computation! 
+ Have you got any insights into this? 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ Mar 7, 2019 at 09:51 
+ Hi Gary, thanks for stopping by and for your kind words. I don't have much experience with MPI. Last time I really used it was over a decade ago. But from what I recall on torque, the scheduler cannot actually constrain the number of cores used, but simply allocates the usage (and tracks that), limiting only the number of active jobs. So it requires the faithful cooperation of the jobs in not using more resources than they request. Same applies for threaded jobs etc, it's not just an MPI thing. I stand to be corrected on this one, as it's not a feature I use myself, but I thought this will help. 
+ Reply 
+ 
+ W Y  says: 
+ 
+ May 26, 2019 at 00:48 
+ Just want to say thanks to the guide. Incidentally, your blog has been cited by many users in China. 
+ I have followed the steps and succeeded in installing torque on ubuntu server 18.04.2 LTS (bionic beaver). As you noted, torque is not compiled for 18 bionic. I find out that adding 16 xenial repos would work. 
+ add-apt-repository "deb  http://archive.ubuntu.com/ubuntu  xenial main universe" 
+ apt-get update 
+ Then follow your steps and they all go through. 
+ I am a beginner so I have been wondering how the head can execute jobs on a (separate computer) compute node. Nothing appears to have been done during the installation to login or firewall on either the head or compute nodes. If you could shed some light, that would be appreciated. 
+ I have seen online discussions that password-less SSH and certain rights must be allowed between the head (which runs server and scheduler) and compute nodes, so that output files (created with #PBS -o in submission scripts) can be written back to the head. But without this, I can still submit jobs on the head and see the results on a separate compute node. 
+ Again thanks! 
+ Reply 
+ * **Johann A. Briffa** says:
+ 
+ May 26, 2019 at 17:33 
+ Thanks for stopping by, and for the information about 18.04. Indeed, I still need to upgrade the torque server at work to 18.04, and have been putting this off until I had time to resolve the scheduler upgrade. My plan was to move to SGE instead, until I found that the SGE packages in 18.04 have a problem, which requires use of other repositories (e.g. debian) anyway. So your solution may actually change things. 
+ In any case, for the problem you mention, I suggest you go through my other post (on adding clients -  https://jabriffa.wordpress.com/2015/03/25/adding-client-nodes-to-a-torquepbs-system-on-ubuntu-14-04-lts/ ). This installs the necessary packages and sets things up on the additional machine to allow it to submit jobs. If you also want it to run compute jobs, all you need to do is to add the corresponding line to /var/spool/torque/server_priv/nodes on the server/scheduler. 
+ Reply 
+ 
+ Installing (Son of) Grid Engine on Ubuntu 18.04 LTS- Muddy Boots  says: 
+ 
+ Jun 27, 2019 at 14:01 
+ […] used the Torque/PBS job scheduler on machines that I administer or am otherwise responsible for. My blog post on setting up Torque on Ubuntu topped this site’s most-visited pages by a wide margin. I’m also a creature of habit, […] 
+ Reply 
+ Leave a Reply to Lukasz  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new posts via email. 
+ This site uses Akismet to reduce spam.  Learn how your comment data is processed . 
+ Search for: 
+ Copyright 
+ Except where otherwise noted, content on this site is Copyright 2007-2021 Johann A. Briffa. All rights reserved. Should you wish to license any material, or if you’re interested in prints, please feel free to get in touch. 
+ Recent Posts 
+ 
+ San Filippu u San Ġakbu  Jan 18, 2021 
+ Regular GnuPG Key Maintenance  Jan 15, 2021 
+ Christina Climbing at Garbage Wall  Jan 11, 2021 
+ Lija 5k Run Hyperlapse  Jan 5, 2021 
+ Jupiter-Saturn Conjunction Over Lija Church  Dec 23, 2020 
+ 
+ Top Posts 
+ 
+ San Filippu u San Ġakbu 
+ Installing (Son of) Grid Engine on Ubuntu 18.04 LTS 
+ Fixing Bluetooth Headset Playback Profile on Ubuntu 18.04 LTS 
+ Using a Microsoft Bluetooth Mouse on Ubuntu 16.04 LTS 
+ Installing Torque/PBS job scheduler on Ubuntu 14.04 LTS / 16.04 LTS 
+ 
+ Tags 
+ afternoon   architecture   autumn   Chapel   cliffs   clouds   Cumbria   daylight   evening   flowers   landscape   macro   Malta   Mediterranean   morning   Mosta   National Trust   nature   outdoors   sea   spring   summer   Surrey   trees   winter 
+ Archives 
+ Archives Select Month Jan 2021  (4) Dec 2020  (3) Nov 2020  (5) Oct 2020  (5) Sep 2020  (4) Aug 2020  (7) Jul 2020  (10) Jun 2020  (13) May 2020  (17) Apr 2020  (17) Mar 2020  (11) Feb 2020  (8) Jan 2020  (12) Dec 2019  (12) Nov 2019  (8) Oct 2019  (12) Sep 2019  (13) Aug 2019  (15) Jul 2019  (14) Jun 2019  (11) May 2019  (10) Apr 2019  (14) Mar 2019  (12) Feb 2019  (10) Jan 2019  (16) Dec 2018  (14) Nov 2018  (12) Oct 2018  (11) Sep 2018  (11) Aug 2018  (9) Jul 2018  (11) Jun 2018  (13) May 2018  (9) Apr 2018  (10) Mar 2018  (9) Feb 2018  (9) Jan 2018  (11) Dec 2017  (11) Nov 2017  (11) Oct 2017  (9) Sep 2017  (9) Aug 2017  (6) Jul 2017  (4) Jun 2017  (9) May 2017  (9) Apr 2017  (8) Mar 2017  (6) Feb 2017  (8) Jan 2017  (10) Dec 2016  (9) Nov 2016  (7) Oct 2016  (9) Sep 2016  (10) Aug 2016  (10) Jul 2016  (8) Jun 2016  (10) May 2016  (7) Apr 2016  (7) Mar 2016  (9) Feb 2016  (9) Jan 2016  (8) Dec 2015  (4) Nov 2015  (7) Oct 2015  (10) Sep 2015  (10) Aug 2015  (10) Jul 2015  (9) Jun 2015  (10) May 2015  (13) Apr 2015  (8) Mar 2015  (10) Feb 2015  (7) Jan 2015  (7) Dec 2014  (12) Nov 2014  (12) Oct 2014  (7) Sep 2014  (6) Aug 2014  (5) Jul 2014  (5) Jun 2014  (11) May 2014  (8) Apr 2014  (8) Mar 2014  (9) Feb 2014  (7) Jan 2014  (4) Dec 2013  (6) Nov 2013  (7) Oct 2013  (7) Sep 2013  (6) Aug 2013  (9) Jul 2013  (6) Jun 2013  (5) May 2013  (10) Apr 2013  (9) Mar 2013  (5) Feb 2013  (4) Jan 2013  (4) Dec 2012  (4) Nov 2012  (1) Oct 2012  (6) Sep 2012  (4) Aug 2012  (1) Jul 2012  (3) Jun 2012  (4) May 2012  (1) Mar 2012  (4) Dec 2011  (2) Oct 2011  (1) Sep 2011  (1) Aug 2011  (1) May 2011  (1) Apr 2011  (1) Jan 2011  (2) Dec 2010  (2) May 2010  (1) Apr 2010  (1) Dec 2009  (1) Aug 2009  (1) May 2009  (1) Feb 2009  (4) Dec 2008  (1) Nov 2008  (2) Sep 2008  (2) Aug 2008  (2) Jul 2008  (2) May 2008  (1) Apr 2008  (4) Mar 2008  (1) Feb 2008  (2) Jan 2008  (1) Dec 2007  (2) Oct 2007  (1) Aug 2007  (2) Jul 2007  (3) Jun 2007  (3) Oct 2003  (1) Jul 2002  (1) Feb 2002  (1) Jun 2000  (1) Nov 1999  (1) Oct 1999  (1) Aug 1998  (1) Jun 1997  (1) 
+ Blogroll 
+ 
+  Chorizo & Thyme  My wife’s blog, mostly on food & cooking, and some non-foodie photography 
+ Nova et Vetera  My brother’s blog, mostly on his research in archaeology (in English), and on prayer (in Italian) 
+ 
+ Subscribe via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Email Address: 
+ Subscribe 
+  Create a website or blog at WordPress.com  
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Our Cookie Policy  
+ %d bloggers like this: 

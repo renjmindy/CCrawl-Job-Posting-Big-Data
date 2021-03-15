@@ -1,0 +1,48 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Manage Account 
+ Careers Page 
+ 
+ How to add a job tab to your Facebook page 
+ Nick DeSimone 
+ 
+ January 14, 2021 11:56 
+ Updated 
+ 
+ Follow 
+ Super Admins 
+ All plans 
+ Overview 
+ Add a free Jobs Tab to your Facebook company page, and advertise your roles to your most engaged audience. Workable automatically updates the tab every time you create a new position—saving you time and getting the word out faster. 
+ The Facebook Jobs Tab will appear in the navigation on your company Facebook page. Clicking it will reveal your list of open positions—and when a candidate applies, their information will be added straight to the ‘applied’ stage for the role in your Workable account, ready for review. 
+ Note:   Custom Facebook tabs - like the Jobs tab - can only be enabled if your company page has accrued at least 2,000 likes. 
+ You may also want to  enable job posts with Facebook Free Listings , which can be done regardless of page likes. 
+ 
+ Setting it up is easy 
+ First, you’ll need to be the admin of your company Facebook page to connect it to Workable. 
+ When you’ve logged in to Workable, visit your  Integrations  page by clicking your user icon at the top right of your dashboard. 
+ Within the  Embed Jobs  section, click on the Facebook page option to expand that section, and connect to your Facebook account. 
+ Complete the steps that appear, signing in to your Facebook account and selecting the page that you'd like to link with Workable. 
+ Once you’ve connected, you’ll be taken back to the Workable Integrations section. Confirm the selection of your page in the dropdown menu and click   Add Careers Tab. 
+ Choose to group job openings by department or location, and decide whether to display the full job description or just the title. You can also see a live preview as you make your choices. 
+ Important:  Facebook has a built-in version that shows jobs published to their job board. This can be toggled on and off in  Page settings . 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ 
+ Was this helpful? 
+ 33 out of 64 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ Integrating with Facebook Free Listings 
+ Connecting your LinkedIn Company Page to Workable 
+ Hiring Manager: Getting Started  
+ Advanced Careers Page FAQ 
+ Adding an applicant conversion tracking pixel 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 

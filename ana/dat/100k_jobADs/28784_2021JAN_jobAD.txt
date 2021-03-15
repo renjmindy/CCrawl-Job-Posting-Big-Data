@@ -1,0 +1,80 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Software Developer - Growth 
+ Checkfront 
+ __Victoria, BC 
+ Apply Now 
+ About us 
+ Checkfront is one of Canada’s top SaaS startups! We have a dedicated and diverse customer base that operates the most interesting businesses in some of the most amazing places around the world. 
+ We are looking for a Developer to join our Growth Team where you will focus on optimizing the key metrics of our customer lifecycle and have an opportunity to have a huge impact on the company’s primary metrics. 
+ We’re a small team:  you’ll work closely with our Sr Director of Growth, Web and Optimization Manager, and Web Designer. 
+ You are 
+ An experienced Software Developer with knowledge and experience with WordPress, React.js and web best practices. You’re passionate about using data to inform decisions and working on projects that have a direct impact on customers and helping our online business grow. 
+ You’ll be working on 
+ Implementing changes and A/B tests in order to improve: 
+Website landing pages and acquisition funnels. 
+New customer trial sign up flow. 
+Customer first experience (activation/onboarding) and upgrade flow in our Booking Manager product. 
+Collaborate with the team to create a scalable design library for our website. 
+Working with our copywriter and strategist to improve SEO on our website. 
+Adding multi-language support to our website. 
+Maintaining and optimizing the speed and performance of our website; desktop and mobile. 
+ Collaborate with and work in cross-functional teams to ensure the desired experience is delivered. 
+And more things that we don’t even know yet! Bring your ideas. 
+ Ideally, you should have 
+ Knowledge of WordPress and web best practices. 
+ Experience with most of the following technologies:  PHP, Javascript, React, HTML, CSS, Sass, and MySQL. 
+Fantastic communication and collaboration skills. 
+ Experience with UI and UX best practices. 
+Passion for influencing business metrics and watching them improve over time. 
+ An understanding of WordPress theme and plugin development best practices. 
+ An understanding of web (and WordPress) performance optimizations. 
+Experience teaching others a plus. 
+Experience refactoring and improving legacy code a plus. 
+Experience using Gutenberg blocks a plus. 
+Experience with AB testing tools such as Google Optimize or Optimizely a plus. 
+An understanding of Google Analytics and Google Tag Manager a plus. 
+ You get 
+ A workplace that values a work-life balance. 
+A constructive environment with room to learn, excel and impact. 
+Extended health benefits. 
+3 weeks vacation, 3 personal days, and 10 health days. 
+A newly renovated office space (May 2020) in downtown Victoria (unless you’re remote). 
+ We think it is awesome if you live somewhere outside of Canada, but please note the preference for this role is located in our beautiful head office in Victoria, BC or remotely from anywhere in Canada. 
+ Checkfront acknowledges and respects that we work, learn, and innovate on the unceded Coast Salish Territory of the Lekwungen & WSÁNEĆ nations. 
+ As a company, we are committed to upholding the values of diversity, inclusion, and equity. In pursuit of this, we actively seek new members who will work respectfully and constructively with our team, and challenge the status quo, propelling our company and the community forward. 
+ If you don’t meet all of our requirements exactly or have some gaps in your resume know that we would still love to hear from you! Use your cover letter to tell us about your unique experience - we understand that talent comes from many places and that skills are transferable. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

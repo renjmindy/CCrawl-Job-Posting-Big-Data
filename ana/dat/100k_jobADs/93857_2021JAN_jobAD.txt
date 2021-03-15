@@ -1,0 +1,269 @@
+The Recruiting Unblog (#Tru): Posts on Recruiting,H.R,Social Recruiting, Social Media and Technology. Base Camp For #Tru Events and @BillBoorman 
+ 
+ Norton Folgate: The Recruiting Unblog 
+ 
+ 
+ Home 
+ 
+ 
+ #Tru Diary, #Tru Places and #Tru Tickets 
+ 
+ 
+ About The RecruitingUnblog#Tru 
+ 
+ 
+ What is an Unconference? 
+ 
+ 
+ Who Is @BillBoorman? 
+ 
+ 
+ Work with @BillBoorman 
+ 
+ 
+ Browsing: » 
+ 
+ 
+  Home  
+ 
+ 
+ » Case Study »Who are jobrapido? A conversation with Vito Lomele 
+ 
+ 
+ 3 Comments 
+ Who are jobrapido? A conversation with Vito Lomele 
+ Posted  by   @BillBoorman  on   June 11, 2012  in  Case Study ,  Tools and Applications 
+ If you follow this blog, then you might remember that I had the opportunity to announce that  Evenbase made their first acquisiti on, Jobrapido, on April 16'th. I got to speak with Evenbase Chairman Keith Potts at the time, who explained the reasoning behind the deal. Potts sees the future of digital recruiting being having a strong presence and brands in 5 key areas: 
+ 
+ > Jobboards 
+** >Job Posting** 
+** >Social Media** 
+** >Mobile** 
+** >Job aggregation ** 
+ 
+ Jobrapido filled the aggregator spot, having built themselves up as the second biggest brand in the world in just 7 short years. I was impressed by their story and what I have seen and heard about the service. Aggregators are a relatively new area for me on this scale, and I was keen to find out more. 
+Last week I got to catch up with enigmatic Jobrapido founder Vito Lomele, to find out a little bit more about the business, and just how they had managed to achieve this level of success. 
+ The key numbers: 
+ 
+ > 32Mn - The number of unique visitors to the site in May 
+ **** > 660Mn - The total number of visitors to the site annually in 2011 
+ ** > 160Mn - The number of searches conducted on the site in May.** 
+ ** > 3 - The average number of searches per unique visitor.** 
+ ** > 70 - The number of Jobrapido employees.** 
+ > 7 years - The age of Jobrapido 
+ > 15 - The number of languages Jobrapido are fluent in. 
+ > Eu 30Mn - The investment Evenbase made in acquiring the business. 
+ 
+ Lomele talks passionately about the business, why he feels they have achieved so much, and where the business was going now after the Evenbase investment. Lomele describes Jobrapido as a vertical search engine. The business has expanded quickly across the globe country by country, and are now ranked in the top 5 career sites in 50 countries, usually ranked number 1 or 2. In terms of traffic, there are only really 2 job aggregators who dominate the market, Indeed and Jobrapido. The gap in traffic numbers between 2 and 3 is huge. Most notably, Jobrapidolaunched in the U.S. in June 2012, and in 12 short months have risen to the number 2 spot. 
+ Vito Lomelle 
+ I asked Lomele about his strategy for growth in new markets. He explained that the model is quite simple. First they partner with all the job boards in a country to ensure a comprehensive listing of jobs, (whilst avoiding duplicates), then they acquire traffic through social channels, PPC and ad words. They start small-scale, split testing everything to see what works, then build from there based on user behaviors. I was curious about why Lomele favored this route over SEO. His answer was enlightening. 
+ "  We don 't want to get tied to the whims of the search engines. Just when you think you are on top of it, they move the goal posts and you have to start again. You have much more control over acquired traffic. The real challenge is not in getting the traffic, but making sure that visitors are happy with the experience when they get there and want to return." 
+ I was really interested in this last point. Lomele sees the real competition being not between the destinations or methods available to job seekers, but for their time. What their data shows them (and they track everything), is that the average job speaker spends 30 minutes a on-line searching for an opportunity, and take between 3 and 6 months to get a job. JobRapido are battling for their share of that time, and by becoming trusted for hosting all the relevant jobs across all the boards in the country, then they get the biggest share of that time. Job seekers divide the time invested in search evenly between networking and applying and content consumption. That means 15 minutes a day spent finding opportunities and completing applications. 
+ What Lomele has to say about what retains traffic and time holds a big message for any recruiter or technology company. Their approach is to make sure that the user interface is very simple, and that the complicated bits live under the hood. For Jobrapido this means only asking for 3 bits of information, what, where and distance. The challenge is making sure that the results that come back are very relevant. People will only come back if the interface is simple, quick (both in terms of returning results and completion), and the results relevant to the query. In the job search business, immediacy and accuracy are everything. Job seekers want simple navigation, limited clicks and are unforgiving when things don't work out. They have no time for error. 
+ When you arrive at Jobrapido either via a PPC ad, search or Facebook there's a simple screen with 3 options: 
+ 
+ What - with prompts for job title, skill, company etc, and a drop down list of popular job titles. 
+ 
+ 
+ Where - with a drop down list of countries,city, county and postcode. There is a drop down menu of popular cities. Clicking on country diverts to the domestic site. 
+ 
+ 
+ Within - with a drop down menu offering 10 - 40 miles. 
+ 
+ Clicking on the find jobs tab triggers a pop up that offers updates of new jobs by e-mail by simply entering the address. Search results are instant, and applying on the original job board is only 3 clicks away. 
+ I asked Lomele what he could tell me about what goes on "under the hood", or at least as much as he was willing to share. It is, after all, the engine and the algorithms that give them competitive advantage and deliver accurate results quickly. The big challenge is keeping up with synonyms and understanding what job titles mean and match. The technology is intuitive, which means it learns about users by searches and results, in order to return better and better results. Whatever is hidden, it's clear from the results that it is working. Acquiring traffic is relatively easy, retaining it is considerably harder, and they seem to be very good at the retention part. 
+ Lomele spoke about the trends he is seeing from job seekers. He sees the demand switching from jobs by e-mail to jobs by mobile and Facebook messaging. At the moment, 20% of traffic comes via mobile, although this is rising each month, with a higher % coming direct from Facebook. I asked Lamele if this meant that a mobile app was next on the cards for Jobrapido, or developing the existing Facebook app. His response was enlightening: ** __** 
+ " Why build separate apps? Why not build one that does both?". 
+ The current Facebook app is a divert to the home page and takes the user out of Facebook. It is hard to see how much traffic this drives as diverts out of the channel do not record users via app data. It is in the blue print to create an app that keeps the user within Facebook or mobile according to how they arrive, without impacting on experience. My concern would be the experience the job seeker has when it comes to applying at the final destination if the job board is not mobile compatible. one solution might be to incorporate mobile jobs and application in a similar way to  Maddle.Com  as an extra service to customers that retains the candidate experience. Maddle is a plug and play mobile solution. Lomele also spoke about the impact he thinks Google+ could have, with particular reference to Google rankings. The vision is to develop the app to work and live cross-channel, and to offer the same experience in each, giving job seekers the choice to search in the channel they are most comfortable with. I will be following how this one develops with interest. 
+ I wanted to know a little more about what was behind Jobrapido, and where the vision originally came from. As with many companies of this type, the idea and vision was born out of Lomelles personal frustration with job search. Before founding the company, he spent 8 years working in different city's around the world including London. Lomele worked with on-line media and products, websites and mobile communications. On returning to Italy and looking for work, he realised how fractured and complicated on-line job search was and created the first version of Jobrapido in 2006. In 2008 he opened the first Jobrapido office and began hiring. What is impressive is that the growth up to the acquisition, which included hiring 70 staff was self-funded. The business generates revenue by selling enhanced listings and traffic, while providing all job seeker services free. It is a model that works. 
+ I was interested in why a self-funded business that was evidently successful felt the need to join a bigger group. Had Lomele moved on, it would have been a question of financial gain, but he has remained as the head of the business post acquisition. He felt the business needed to bring in expertise to help capitalise on the global growth, in particular in the U.S. Whilst there were other offers, Lomele felt Evenbase offered the best fit, especially with regards retaining and supporting entrepreneurial individuals and retaining the business identity, as well as the opportunity to collaborate with the other brands in the group. 
+ The early years of Jobrapido have been a real success story so far, but with Evenbase backing and support, the potential for global growth is phenomenal.Good luck to all involved. Vito, it was a pleasure talking, and thanks for sharing. Here's to #truMilan in the near future. 
+ Bill 
+ Jobrapido 
+ Vito Lomele 
+ Evenbase 
+ Tell Your Friends 
+ 
+ LinkedIn 
+ Twitter 
+ Facebook 
+ Pinterest 
+ Tumblr 
+ More 
+ 
+ 
+ 
+ Print 
+ Reddit 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Tags:  evenbase companiesgation ,  the future of job aggre ,  Who are Jobrapido ,  who is Vito Lomelle   Permalink 
+ Post navigation 
+ <- Sunday Shoutout: Steve Browne (@SBrowneHR) 
+ The church of the holy tweeters featuring @RevRichardColes -> 
+ 3 comments on "Who are jobrapido? A conversation with Vito Lomele" 
+ 
+ Clara    July 11, 2012 at 12:46 am    Reply 
+ 
+ I want to deleate my job advertise 
+ 
+ Gordon Bostock   August 2, 2012 at 3:11 pm    Reply 
+ 
+ Please take me off your mailing list, no longer have the need for a job vacancy. 
+ 
+ sober living    July 30, 2014 at 4:47 pm    Reply 
+ 
+ Fantastic beat ! I wish to apprentice while you amend your website, how could i subscribe 
+for a blog web site? The account helped me a acceptable deal. 
+I had been tiny bit acquainted of this your broadcast 
+offered bright clear idea 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Really Simple Sign Up for #Tru 
+ 
+ RSS - Posts 
+ RSS - Comments 
+ 
+ 
+ #TruLondon6 - October 22'nd - 23'rd - £99EB 
+ #TruSanFrancisco - 15th - 18th August 
+ 
+ $20 a ticket! 
+ #TruHelsinki – 4&5th of September 2012 
+ 
+ #TruMoscow - Sept 26th - 27th 
+ 
+ #TruDubai – 1st of November 2012 
+ 
+ #TruSingapore – 29th of November 2012 
+ 
+ #TruHongKong – 3rd of December 2012 
+ 
+ The @BillBoorman Page. 
+ 
+ The @BillBoorman Page. 
+ 
+ #Tru Search 
+ Latest #Tru Posts 
+ 
+ My Last Post 
+ You must read this post on influence 
+ A 100 Years Of Recruiting Tech @TalentBinHiring (Infographic) #TruSanFran 
+ The History Of Technical Recruiting According To @TalentBinHiring (Infographic) #TruSanFran 
+ The History Of Technical Recruiting According To @TalentBinHiring (Infographic) #TruSanFran 
+ 
+ #Tru Categories 
+ #Tru Categories Select Category #ATCSM  (5) #Blog Uncarnival  (3) #ConnectingHR  (1) #GEC12  (3) #HRCarnival  (10) #LASHRM  (4) #lumesse blogathon  (1) #MBuzz  (1) #SHRM12  (4) #truAmsterdam  (6) #truDublin  (11) #trugrads  (5) #truleeds  (6) #truLondon 2011  (42) #trulondon5  (14) #truRomania  (1) #truSA  (2) #truSanFran  (4) #truStockholm  (4) #truvlog (video interviews)  (4) 1  (36) 2beFrank  (2) Blogging  (18) Blogs I Read  (2) Candidate Experience  (1) Case Study  (9) CaseStudy  (9) Duncan Cunningham  (1) Employer Branding  (11) Facebook  (18) From Me  (10) Funny  (3) GenZ  (1) Good people to connect with  (4) Great Connectors  (2) Great HR Pros to Follow  (3) Hire These People  (1) HR Jobs  (1) HR Net  (1) Interns  (1) Jobseeker Tips  (1) Linked In  (30) mobile  (7) News  (5) Ohio HR Practitioners  (2) Oracle  (2) Rants  (22) Recomended Connections  (4) Recruiting  (59) Sarah Fullers Gen Y view  (2) Social media  (57) SocialRecruiting  (5) Sourcing  (1) Steve Browne  (1) Sunday Shout Out  (19) The Recruiting Unconference London  (15) The unblog dialogue  (48) Tools and Applications  (67) Twitter  (11) video  (5) Wordless Wednesday  (2) 
+ Now 4th: Most influential On-Line Recruiters 
+ 
+ #Tru Archives 
+ 
+ 
+ 
+ June 2012 M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 
+ 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 
+ 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 
+ 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 
+ 
+ 
+ 
+ « May   Jul » 
+ Follow Me 
+ 
+ Connect With me 
+ 
+ Friend Me 
+ 
+ Watch Me 
+ 
+ Contact Me 
+ E-Mail: bill@billboorman.co.uk 
+Skype: BillBoorman 
+Mobile/Cell: 0044-(0)7914-876173 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Blog at WordPress.com. 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ %d bloggers like this: 

@@ -1,0 +1,81 @@
+Skip to content 
+ Search for: Search Close a search form 
+ Close 
+ 
+ Lingonberry Talent Acquisition 
+ 
+ Home 
+ Contact 
+ Job openings 
+ FAQ 
+ 
+ Open a search form in a modal window Menu 
+ DevOps Engineer for job in Sweden 
+ Written by  Elena Zakharian Posted on January 29, 2018August 26, 2018 Leave a comment 
+ Are you a skilled coder with a big passion for test automation, CI/CD frameworks, deployment pipelines and/or configuration management? Are you looking for adventure? On behalf of our client in Gothenburg, Lingonberry Talent Acquisition is looking for talented developers with experience in test automation who want to relocate to Sweden and be part of a world-class international team of developers. Our client is in the automotive sector and develops mobile applications and Infotainment apps based on Android. 
+ Located on the Swedish west coast, Gothenburg is the second largest city in Sweden. The population in the metropolitan area is around one million. Besides being a center for the tech industry, Gothenburg offers a rich cultural life and a booming entertainment sector, with plenty of bars, restaurants, microbreweries and craft shops, sports events, concerts and much more. Our clients pay competitive salaries on the Swedish market and will help you acquire a working visa and accommodation in Gothenburg. Check out this video showing a few of the highlights from life in Gothenburg:  https://www.youtube.com/watch?v=QkCgd9YfZ34 
+ Your mission objectives, should you choose to accept: 
+ 
+ You will develop, improve and maintain the build and test automation framework, and enable our client to get better and better at continuous integration and continuous delivery 
+ You will work in a team together with other skilled developers and achieve success together 
+ 
+ Required Skills (we think you have some/most of these from each bullet) 
+ 
+ Python 
+ Linux environment 
+ Shell script 
+ Gradle 
+ Git 
+ Bitbucket or Stash 
+ Artifactory 
+ Jira 
+ Eclipse 
+ 
+ Delicious Extra Skills (ice cream with the lingonberries) 
+ 
+ Jenkins 
+ Gerrit 
+ Chef or Puppet 
+ Android Sim Toolkit Application (STK) 
+ Java and/or C++ 
+ Cyber security knowledge 
+ 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Post navigation 
+ Previous Entry Software Developer Skilled in Qt for Job in Sweden 
+ Next Entry Python DevOps Engineer for Job in Sweden 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 2021  Lingonberry Talent Acquisition 
+ 
+ Home 
+ Contact 
+ Job openings 
+ FAQ 
+ 
+  Create a website or blog at WordPress.com  
+ 
+ LinkedIn 
+ 
+ %d bloggers like this: 

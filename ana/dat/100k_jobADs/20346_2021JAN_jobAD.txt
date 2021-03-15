@@ -1,0 +1,333 @@
+The Recruiting Unblog (#Tru): Posts on Recruiting,H.R,Social Recruiting, Social Media and Technology. Base Camp For #Tru Events and @BillBoorman 
+ 
+ Norton Folgate: The Recruiting Unblog 
+ 
+ 
+ Home 
+ 
+ 
+ #Tru Diary, #Tru Places and #Tru Tickets 
+ 
+ 
+ About The RecruitingUnblog#Tru 
+ 
+ 
+ What is an Unconference? 
+ 
+ 
+ Who Is @BillBoorman? 
+ 
+ 
+ Work with @BillBoorman 
+ 
+ 
+ Browsing: » 
+ 
+ 
+  Home  
+ 
+ 
+ » »New interactive career site from Barclays 
+ 
+ 
+ 10 Comments 
+ New interactive career site from Barclays 
+ Posted  by   @BillBoorman  on   April 18, 2012  in Uncategorized 
+ My friend Andy Hyatt of Bernard Hodes sent me over a link today to a new career site from Barclays that he has been working on with his team. After #truLondon I  blogged about the Barclays future leaders  career site and social hub, and the results were achieving since integrating social features and channels in to their career site. The big take away from that post was that since switching on the social features in the social hub the number of applications received were significantly down, but the conversion rates of applications were significantly up. As a reminder, this is the important data: 
+ > The visitors that interact with The Hub, have also proven to be more engaged with the site – proving that social content can attract and retain visitors over paid advertising: they are more likely to stay after viewing the first page (15.9% bounce rate vs. 25.8%), stay for longer on the site (9’ vs. 3’51”), and view, on average, twice as many pages per visit (10.05 vs. 5.01). 
+ > Visits to the site have increased by 51%, applications have decreased by 40% over last year. At first this might seem worrying if not for the fact that the conversion rate between assessment and hire increased by 55%. Ultimate proof that targeted and relevant content can deliver better quality candidates who are also more likely to get hired. 
+ It's interesting to draw parallels between the results Barclays have achieved here, and the work of Michael Long at Rackspace in the States. Rackspace has gone as far as separating out their career site and a culture site featuring staff bloggers, video, pictures, a cartoonist and plenty of other great culture content, and it's all very social.  I posted about this  after seeing Long speak at #TalentNetLive in Austin. The results Long has been achieving: 
+ > The Rackertalent site attracted 37% of the traffic to the career site and ATS, but an incredible 60% of total hires 
+ Looking at the results from these 2 examples, it's easy to see how taking a social approach to the career site, focussing on culture content told by real employees is not about delivering volumes of applications, (the opposite is in fact the case), but great improvements in the quality of applications and recruiter efficiency. Given the results of the Barclays Future Leaders social hub, it's no surprise that Barclays have chosen to take this approach to all their recruiting effort visible in the career site launched last week. 
+ Not surprisingly, the site is fully optimised for mobile through a browser sniffer that identifies what device all visitors are using and delivers content in a compatible format. This shouldn't really be exceptional, all sites should be built this way, though for the moment it is in the minority. If your planning a new site, this is where you should start in your tech plan. The other notable features is that the site is very easy to navigate with unambiguous tabs, and that all sections are interactive. The visitors can engage with each section as little or as much as they want to. 
+ The home page has a welcome message and image. the top tabs are Home, Our Business Areas, Meet Our People, Our Locations and More About Joining. At the bottom of the page is 4 larger widgets. Start job search with the options to choose job sector with a pull down menu, Role and Location, which links direct to job search results. The results are returned with job title, opening paragraph of the job spec and location, with the option to view the job. Jobs are displayed on a single page with displayed by: 
+ 
+ Job Title 
+ 
+ 
+ Business Area 
+ 
+ 
+ Hours 
+ 
+ 
+ Shift Type 
+ 
+ 
+ Posting Date 
+ 
+ 
+ Expiry Date 
+ 
+ 
+ Reference 
+ 
+ 
+ Introduction 
+ 
+ 
+ "What you'll give our customers" related to the role 
+ 
+ 
+ "What you'll get in return." 
+ 
+ 
+ "What you'll need." 
+ 
+ The bottom of the page has 3 tabs with the option to: Apply now, Send this job to a friend and Send this job to yourself. i couldn't quite work out how to get the last 2 tabs to work, although they appear to be e-mail functions. I'm sure this is a glitch that will be fixed quickly. I like the way the jobs are broken down and presented for the visitor. It's worth a look for good content. 
+ The second button and icon is "Take an interactive tour." I love the way this feature works. you get the choice to take a tour around a branch or a contact centre. Taking the Branch tour, you get a video greeting from the Branch Manager who walks you through the branch and introduces you to some of the staff. The interactive bit is very neat. Each person featured has a "hot spot" (a blue dot) you can click on to get more information about what they do. As you'd expect, the video is professionally produced, but the people are clearly real and not scripted, and it's spontaneous enough to be believable. each featured tells a bit about their story, background, what they do and what they like about their job, and the beauty of it is that the visitor chooses what they want to see. 
+ The third icon and button is headed "Explore our business areas." The opening page has scrolling images for each of the 12 business areas to link to, a brief description and associated image. The bottom of the page has links to search the jobs in that area, with clear images of real people. The icons featured link to pages on apprenticeships, location map, the interactive tour, and another great feature on culture fit. I really like the way the links to the different sections of the site are featured by scrolling icon on every page, without being intrusive. The changing images stay solid long enough not to be distracting and to be readable, but not too long to be fixed or boring. they also don't dominate the page, but are big enough to read.When you click on a link, the page opens in a separate single screen with a close option at the top of the page that takes you back to where you linked from. Your not likely to get lost on this site. 
+ I mentioned the culture fit as being a great feature because this links to a screen featuring an ATM that has a welcolme screen talking about values in a simple statement. Entering the ATM, first up is 100% energy. The "game" involves reading scenarios, and choosing answers of what you'd do from 4 options, each denoted by an ATM button. 
+ The first scenario: 
+ " It's nearly the end of your shift and a new customer calls to open a bank account. They explain they are starting a new job tomorrow and need an account to receive their salary." 
+ I deliberately clicked on the wrong answer to see what came back, and the response was; 
+ " Whilst this is a good answer, we pride ourselves on our colleagues working flexibly to meet our customers needs." 
+ The right answer brought the response: 
+ " Excellent. We are looking for people like you, who are willing to work flexibly to meet our customers needs." 
+ This is a simple example, they take a bit more thinking the further you go. Again, I like the interactivity of this feature which will appeal to those who enjoy gaming features. It's a lot more interesting and interactive than just listing values brochure style. 
+ The last icon and button is "Meet our people." which links to an intro page with 24 pin images of people. Hover your mouse over each one and you get their name and title. each image has a different type of content from video, static (written text), and a day in the life. The statics are a picture, intro, and personal content using "I" rather than we, talking about what they do and personal impressions about Barclays like " I didn't realise how passionate Barclays are about training and development", which goes on to show what this means in their experience. it reads in a personal way that will appeal to those who like text. The day in a life video names the employee, who then talks through their usual day and images and dialogue about how they see their job. The videos are about a minute in length to keep attention, with links to read more about the role, read the transcript from the film and use the job search widget to find the job and see whats available. If I'm being ultra critical, I'd like to be able to see and apply for the job featured without having to search for it myself, although it's not a great hardship, an direct link though would certainly work better with mobile visitors in mind. A feature that compensates for this however is additional links to find people by business area, role or media. Using the different types of media is giving the visitor choice over the style of content they view. I really like that. 
+ The "About Us" tab follows the same theme with an intro and image, the 4 icons I've already discussed, history in 5 paragraphs (no waffle), and similar tabs for culture, benefits (which includes their double your donation charity support), and development. 
+ The "Our business areas" tab gives a more detailed menu of each of the business areas broken down in to more specific functions. Not heavy content, but great for visitors who want to get inside the content a bit more. Finally, the "more about joining" tab gives step by step detail about the application process. Step one is a few tips about the application process with instructions, details about the assessment process like how long each step usually takes, as well as format and tips. Step three details the interview process and what Barclays are looking for. Step four outlines the outcomes like the need for credit checks, reference process etc. i think this is a great feature for supporting the candidate through the whole of the process. Application is through Taleo, so you can apply on-line or add to a job basket for later reference. The application process in Taleo is a bit cumbersome without a social sign in or apply with LinkedIn feature. This might be an area Barclays want to give some consideration to in order to give some continuity between the site and the application process, particularly by mobile. I'm sure at this stage most candidates will plough on so the impact will be minimal, but it would help improve the candidate experience further. 
+ When I compare the new site to the future leaders site, it feels and looks a bit more corporate. I understand that Barclays are moving to putting all their sites, not just careers in to one format, look and feel. Given that this site is for all candidates from apprentices and school leavers through to senior managers, i can see the need for this. There are less social features like Facebook content widgets, but this is compensated by links to the live Facebook, Twitter, YouTube and LinkedIn accounts. These are active accounts with a focus on engagement, so the social aspects are not far away. The videos are a little more consistent and polished in style, but the content and presentation is personal. Overall, I think they've done a great job particularly in integrating mobile, simple navigation and interactive features. You can feel the culture and values throughout the site. Hats off to Bernard Hodes and Barclays on a great job. 
+ Bill 
+ Links 
+ Jobs.Barclays.Co.UK 
+ Andy Hyatt 
+ Tell Your Friends 
+ 
+ LinkedIn 
+ Twitter 
+ Facebook 
+ Pinterest 
+ Tumblr 
+ More 
+ 
+ 
+ 
+ Print 
+ Reddit 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Tags:  apply for jobs at Barclays ,  Barclays career site ,  good example of career site ,  interactive career site ,  latest career site ,  mobile career site   Permalink 
+ Post navigation 
+ <- It's official: TruDublin will kick off again on May 16-17 
+ A recruiting manifesto #truEurope -> 
+ 10 comments on "New interactive career site from Barclays" 
+ 
+ Carl Brickman    April 18, 2012 at 6:15 am    Reply 
+ 
+ My company received a US patent on a better derivative of this last year after a successful 7 year test market in US hospitals. CB 
+ 
+ Matt Alder    April 18, 2012 at 11:30 am    Reply 
+ 
+ I'm sorry Bill but with no disrespect intended to Barclays, Hodes or yourself I have vehemently disagree with your comments about this site being fully optimised and integrated for mobile. For a starters the home page doesn't fully load on an iPhone and it was only when I looked at it on an Android that I realised the big white space was supposed to be an image! 
+ I think there is a huge misconception about what mobile optimisation means in our industry. Making sure your site is viewable on mobile devices is not optimisation. Mobile users mainly navigate with their thumbs and therefore to be "fully optimised" your mobile sites needs to have a system of navigation that recognises that rather than just replicating what you find on the main website as is the case here. You also need to prioritise the type of content people want when they are using the mobile web. I've just spent several frustrating minutes on the train trying to get to the great content on this site via my mobile and it is very very difficult to do. 
+ You make a big thing of video in your review and rightly so. At ERE a couple of weeks ago both UPS and Sodexo spoke about video being the most viewed content on their mobile sites. The video on this site is hidden and to reach it via a mobile device you need time and determination that I would suggest most visitors won't have and that is a big missed opportunity. I also couldn't get the interactive tours to work either on iPhone or on Android 
+ Again I'm not slagging Barclays off here, this is obviously a major project and there are some great things about it they are right to be proud of. What I'm highlighting is just how far behind the audience the thinking about mobile in the recruitment space is and we need to fix this. I'm going to write a longer blog post on this topic very soon 
+ Matt 
+ * [@BillBoorman](https://recruitingunblog.wordpress.com) [ April 18, 2012 at 12:16 pm ](https://recruitingunblog.wordpress.com/2012/04/18/new-interactive-career-site-from-barclays/#comment-3259) [Reply](https://recruitingunblog.wordpress.com/2012/04/18/new-interactive-career-site-from-barclays/?replytocom=3259#respond)
+ 
+ Thanks for commenting Matt, 
+You are quite right in what your saying, I've been looking at what is coming rather than what is currently available, and that was incorrect. I think Andy is posting you a more detailed response. In terms of video, I was amazed with Richard Cho from Facebooks data on views from mobile detailed in this post from December, after the #ATC social media event.  https://recruitingunblog.wordpress.com/2011/12/01/facebook-mobile-with-chorichard/  In particular Richard was talking video, and whilst i don't remember the actual number, it was significant enough to think video for mobile. I will let Andy update you on the detail of what is coming and when. 
+Bill 
+ 
+ edmusesupon   April 18, 2012 at 12:09 pm    Reply 
+ 
+ Bill, I can't speak to mobile interaction but I think the huge news is in the numbers: reduction in total applications with a concurrent rise in conversion. That's gotta have the Barclays team overjoyed! 
+ 
+ Andy Hyatt    April 18, 2012 at 12:27 pm    Reply 
+ 
+ Firstly Bill, many thanks for your comments and feedback. It is always helpful to have an expert opinion with some constructive criticism and you have raised some good points, which we will look into. 
+ For the purposes of the debate that is going on within Twitter and on this site, I would like to clarify one of the points raised in this blog. At this point in time, the mobile optimisation element of this site is not yet live. Mobile optimising the site and its components has always been part of the brief but due to time constraints we had to launch the first phase of this site which not optimised. 
+ Matt, you are absolutely right about the misconceptions around mobile optimisation. And I'm glad you (and Mark) have raised the issue. Too often, this sort of open discussion/commentary is leads to a defensive response. Our view is that free and open optinion and ideas are what will drive the industry forward. The process for developing a site should always incorporate thinking about how the content will be accessed, in what form and developing a creative and technical approach that accomodates this. 
+ In this case, the mobile optimised elements are taking longer to achieve sign off. Partly because some aspects (like the tours) are quite complex; partly because we are working with new corporate design templates which require a greater depth of client and sign off. Such is often the way with big web builds. 
+ It is our view at Hodes that mobile enabling sites is no longer enough. If the figures are to be believed mobile access of career sites and job boards already stands at around 20%, with some sites already receiving over 5% of applications from mobile devices. Over the past year we have adjusted our design process to include mobile design from the onset, rather than bolting it on as an additional cost. However, we focus on the most commonly used devices (iPhones, Android phones and tablets), rather than attempting to optimise for every single device. 
+ Our approach is borne out of pragmatism. Given the range of operating systems (7, for the uninitiated) as well as mobile devices, attempting to optimise for every single device would be a prohibitively costly exercise. And most HR clients simply do not have the budgets to cater for a truly fully optimised site. I would also be curious as to the payoff - optimising for a consumer site might have very tangible benefits. I'm not sure that, at this point in time, the cost/benefit analysis would support the business case. 
+ I'll talk to the client about whether we can produce a more formal coase study - it would be nice to share some of the architecture, designs and results. In the meantime, however, I hope this helps clarify things. 
+ 
+ mobile_dave   April 18, 2012 at 12:46 pm    Reply 
+ 
+ Hi all, can not wait to join in this discussion but should take a look at the site first - but how! 
+ Where is the link? I went to jobs.barclays.co.uk on my iPhone and was just shown the desktop site? 
+ I saw some chatter around video, FYI 20% of all youtube views are on mobile (source:Google). When discussion mSite optimisation we must also ensure we have delivered a product that people on the move can enjoy, while not peanalising those that are indoors on WiFi. 
+ FYI according to recent research is 60% of smart data consumption is indoors, I bet a lot of that is video! 
+ I will take a look at this tonight if someone can tweet me the link @mobile_dave, after I have finished an ERE webinar - maximizing mobile which readers of this should watch 2pm ET,  http://www.ere.net/webinars/maximizing-mobile/ 
+ Laters, 
+ MobileDave 
+ 
+ Carl Brickman    April 18, 2012 at 1:13 pm    Reply 
+ 
+ Mobile Dave: Go to  http://www.helenkellerhealth.com  and if you are on the latest Droid or iPhone the browser sniffer will offer you the mobile site. We understand the technology, but also have a decade of understanding what jobseekers expect and how they engage web content, the challenges of mobile, etc. Our first mobile site was produced in 2006. I have never seen anything remotely close to our work except for 2-3 hospitals who copied us whom we are suing for patent infringement. 
+ 
+ Carl Brickman    April 18, 2012 at 1:16 pm    Reply 
+ 
+ http://www.helenkellerhealth.com  - full site 
+ http://www.hkhmobile.com 
+ 
+ Jon Exley    April 18, 2012 at 5:09 pm    Reply 
+ 
+ Completely agree with Matt. I checked it on my 4s and it's disappointing that it doesn't resize. Responsive design using @media queries is very easy to implement and saves production time from duplicated content. 
+ Check out our new site for Bank of America Merrill Lynch - it doesn't have the scale of content of Barclays, there's still a few tech tweaks and there's little we can do about the iGrasp UI unfortunately… but it's getting there -  http://chestercareers.baml.com 
+ 
+ Matt Alder    April 18, 2012 at 5:17 pm    Reply 
+ 
+ @Carl What exactly is your patent for, I'm intrigued…… 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Really Simple Sign Up for #Tru 
+ 
+ RSS - Posts 
+ RSS - Comments 
+ 
+ 
+ #TruLondon6 - October 22'nd - 23'rd - £99EB 
+ #TruSanFrancisco - 15th - 18th August 
+ 
+ $20 a ticket! 
+ #TruHelsinki – 4&5th of September 2012 
+ 
+ #TruMoscow - Sept 26th - 27th 
+ 
+ #TruDubai – 1st of November 2012 
+ 
+ #TruSingapore – 29th of November 2012 
+ 
+ #TruHongKong – 3rd of December 2012 
+ 
+ The @BillBoorman Page. 
+ 
+ The @BillBoorman Page. 
+ 
+ #Tru Search 
+ Latest #Tru Posts 
+ 
+ My Last Post 
+ You must read this post on influence 
+ A 100 Years Of Recruiting Tech @TalentBinHiring (Infographic) #TruSanFran 
+ The History Of Technical Recruiting According To @TalentBinHiring (Infographic) #TruSanFran 
+ The History Of Technical Recruiting According To @TalentBinHiring (Infographic) #TruSanFran 
+ 
+ #Tru Categories 
+ #Tru Categories Select Category #ATCSM  (5) #Blog Uncarnival  (3) #ConnectingHR  (1) #GEC12  (3) #HRCarnival  (10) #LASHRM  (4) #lumesse blogathon  (1) #MBuzz  (1) #SHRM12  (4) #truAmsterdam  (6) #truDublin  (11) #trugrads  (5) #truleeds  (6) #truLondon 2011  (42) #trulondon5  (14) #truRomania  (1) #truSA  (2) #truSanFran  (4) #truStockholm  (4) #truvlog (video interviews)  (4) 1  (36) 2beFrank  (2) Blogging  (18) Blogs I Read  (2) Candidate Experience  (1) Case Study  (9) CaseStudy  (9) Duncan Cunningham  (1) Employer Branding  (11) Facebook  (18) From Me  (10) Funny  (3) GenZ  (1) Good people to connect with  (4) Great Connectors  (2) Great HR Pros to Follow  (3) Hire These People  (1) HR Jobs  (1) HR Net  (1) Interns  (1) Jobseeker Tips  (1) Linked In  (30) mobile  (7) News  (5) Ohio HR Practitioners  (2) Oracle  (2) Rants  (22) Recomended Connections  (4) Recruiting  (59) Sarah Fullers Gen Y view  (2) Social media  (57) SocialRecruiting  (5) Sourcing  (1) Steve Browne  (1) Sunday Shout Out  (19) The Recruiting Unconference London  (15) The unblog dialogue  (48) Tools and Applications  (67) Twitter  (11) video  (5) Wordless Wednesday  (2) 
+ Now 4th: Most influential On-Line Recruiters 
+ 
+ #Tru Archives 
+ 
+ 
+ 
+ April 2012 M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 
+ 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 
+ 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 
+ 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ « Mar   May » 
+ Follow Me 
+ 
+ Connect With me 
+ 
+ Friend Me 
+ 
+ Watch Me 
+ 
+ Contact Me 
+ E-Mail: bill@billboorman.co.uk 
+Skype: BillBoorman 
+Mobile/Cell: 0044-(0)7914-876173 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Blog at WordPress.com. 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ %d bloggers like this: 

@@ -1,0 +1,164 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Data Science Engineer (x3 positions) 
+ Lloyds Banking Group 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Data Science Engineer (x3 positions) 
+ Lloyds Banking Group 
+ [](mailto:?subject=Senior%20Data%20Science%20Engineer%20%28x3%20positions%29&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14292114/senior-data-science-engineer-x3-positions/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 9, 2021 
+ Location: 
+ London, United Kingdom 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Senior Data Science Engineer (x3 positions) 
+ Lloyds Banking Group 
+ Bristol or London 
+ **Salary & Benefits: **£54,342 to £70,600 base salary, plus annual personal bonus, 15% employer pension contribution (when you put in 6%), 4% flexible cash pot, private medical insurance, 30 days holiday plus bank holidays. We also offer flexible working hours, agile working practices and regular home working. Working for Lloyds is great! 
+ Who are Lloyds Banking Group? 
+ Lloyds Banking Group is the UK's leading bank with over 30m customers and its biggest digital bank, with over 13 million active online customers. We've placed an ambitious transformation programme and a multi-channel approach to banking at the heart of our strategy to be the best bank for customers, backed by significant investment in our platforms and people. 
+ Why join the Chief Data Office Data Science Team? 
+ You'll work on a wide range of interesting projects with no shortage of work! We take ideas from the concept stage and work with our customers to understand how data science and machine learning can be applied. 
+ You'll play a pivotal role in realising our digital and data potential and creating the Bank of the Future. 
+ You'll help rapidly transform our capabilities and be a key player in our further digitisation using latest emerging technologies and services. 
+ What will I do as a Data Science Engineer within the Chief Data Office? 
+ You will develop Machine Learning systems in Python alongside our Data Engineers (who build the data pipelines and ensure quality) and in close collaboration with the end users and business SMEs. 
+ Our models span the full reach of LBG - from predicting savings balances to identifying which of our customers may fall into financial difficulty and need a helping hand. 
+ Your models will have a material impact on the lives of up to 30m+ customers across the whole of the UK - and together we'll make it possible ... 
+ Are you who we 're looking for? 
+ We're keen to speak to Data Scientists, Machine Learning Engineers and Software Engineers that have good commercial experience delivering Data Science in Python for large scale industry applications. You will need the industry experience on top of any educational experience. 
+ A strong understanding of Python and software engineering is essential including how to write modular Pythonic code, fluency with pandas, Functional Programming, code refactoring, Continuous Delivery, SQL and Docker. 
+ Similarly, experience in implementing and supporting Machine Learning systems including the automation of data validation, model training, model validation and model monitoring is also essential. 
+ A good theoretical and applied knowledge of Statistical Modelling and/or Machine Learning techniques is beneficial such as: regression, clustering, decision trees and significance testing. 
+ The ability to present results in a clear, visual manner to support senior stakeholder decision making is key to the success of our projects. 
+ This would be a great role if: 
+ 
+ 
+ You have a track record for delivering industry-level Data Science solutions. 
+ 
+ 
+ You have an automation mind-set. 
+ 
+ 
+ You are customer focused and want to continuously improve our systems. 
+ 
+ 
+ How will we challenge you? 
+ You'll have the opportunity to partner across our various businesses to understand and work their complex problems through to solutions. We are really lucky to have a continuous and interesting supply of work and lots of different data sets to work with. 
+ You'll get exposure to a host of wider technologies and career moves by broadening your horizons and giving you opportunities to stretch yourself. 
+ You'll work with some of the best Data Scientists in the bank as we look to build a thriving data science community, whether through opportunities to share knowledge through self-starting guilds or coach other junior data scientists to support their career development. 
+ **What you 'd get in return: ** 
+Offering you both funding and profile - we'll provide you with a diverse, energising and informal environment that focuses on equal opportunity and real career progression. 
+ We'll take your personal and professional development very seriously and enable you to make a difference to millions throughout your career with us. 
+ **Together we 'll make it possible... ** 
+ Interested but have a questions before you apply? Not sure if the role or culture at Lloyds is right for you? Feel free to reach out to me via Linked In using this link: http://bit.ly/JBarratt or via internal e-mail, with any questions and I'll be happy to help. 
+ 
+ 
+ Internal Number: 9726764 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at Lloyds Banking Group 
+ More Jobs from This Employer 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

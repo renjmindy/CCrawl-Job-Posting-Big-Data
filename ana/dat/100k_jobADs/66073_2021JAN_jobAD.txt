@@ -1,0 +1,127 @@
+  
+ What:  job title, keywords or skills 
+ Where:  country, city or area 
+ 
+  HOME  
+ REGISTER 
+ SEARCH 
+ LOGIN 
+ BROWSE 
+ DIRECTORY 
+ INFO 
+ CONTACT 
+ 
+ Job Highlights 
+ 
+ Location:  Uxbridge, England 
+ Rate:  £75000 - £83000 per annum + £6.7K Car Allowance + 15% bonus 
+ Type:  Permanent 
+ 
+ This job has been posted for more than 30 working days and has expired. 
+ Tech Lead 
+ Tech Lead, Uxbridge, £75-83K + £6.7K Car Allowance + 15% Bonus (£102K+ package) + bens. 
+ You must have a background as a Tech Lead and be happy spending 50% of your time coding. 
+ Our Tech Stack 
+On the Client-Side: Vanilla JavaScript / ECMAScript (ES5+), AngularJS / Angular, React / React Native, Flow or TypeScript. 
+ CSS3 with LESS/SASS & HTML5 
+On the Server-Side: Java 8 with AspectJ & Maven, Spring Framework including AOP, Boot, Cloud, JDBC, MVC, Security. 
+ Relational databases such as PostgreSQL, Oracle & Amazon RDS. 
+ Message brokers including ActiveMQ, RabbitMQ or Amazon SNS/SQS. 
+ PHP with Zend. 
+Continuous Integration with Jenkins, Test-Driven Development with Chai, JUnit, Karma, Mocha, & Sinon, Behaviour-Driven Development with Cucumber / Protractor, Agile Software Development and practical experience of Extreme Programming, Kanban & Scrum 
+Candidates with any of the following skills will be strongly preferred: Amazon Web Services, Docker, Kubernetes, Hazelcast, Hystrix, OpenShift, Redis, Zuul 
+ Key Skills & Experience 
+Ideally you'll possess a computer science degree or comparable real-world experience and have previously been employed in a technical leadership role with line management responsibilities. 
+ This is very much a hands-on role and you should anticipate spending at least half of your time in the trenches cutting code alongside your product team and technical lead peers in addition to the following duties: 
+ Line Management of Software Development Engineers 
+Admin 
+Approving Holidays 
+Approving Timesheets 
+Extending Contracts 
+Tracking Absence 
+People 
+1:1s 
+Escalation of Pay & HR Issues 
+Identifying Skills Gaps 
+Personal Development Plans 
+Setting & Tracking Objectives 
+Recruitment 
+Create Job Specifications 
+Interviewing 
+Onboarding 
+ Technical Leadership both Internally & Externally 
+Aligning Business Strategy with Technology Strategy 
+Behavioural Change 
+Allowing Failure 
+Encouraging Ownership 
+Facilitating Collaboration 
+Shaping The Team 
+Coaching & Mentoring 
+Managing On-Call Rota 
+Providing Architectural Guidance 
+Representing the Team at Scrum of Scrums 
+Synchronising with Peers 
+Tracking Technical Debt 
+ Coding, Coding, Coding 
+Automation 
+Best Practices 
+Continuous Improvement 
+Extreme Programming 
+Product Delivery 
+Security 
+Testing 
+Quality 
+ This Tech lead position is based in Uxbridge and pays c£75-83K + £6.7K Car Allowance + 15% Bonus (£102K+ package) + Bens, depending on relevant experience. 
+ 
+ 
+ Start:  ASAP 
+ 
+ 
+ Rate:  £75000 - £83000 per annum + £6.7K Car Allowance + 15% bonus 
+ 
+ 
+ Location:  Uxbridge, England 
+ 
+ 
+ Type:  Permanent 
+ 
+ 
+ Industry:  IT 
+ 
+ 
+ Recruiter:  Definitive 
+ 
+ 
+ Tel:  01895 457 455 
+ 
+ 
+ Email:  to view click here 
+ 
+ 
+ Posted:  2020-11-29 18:53:12 - 
+ 
+ 
+ View all Jobs from Definitive  
+ 
+ 
+ 
+ More Jobs from Definitive 
+ 
+ DevOps Engineer 
+ Site Reliability Engineer - SRE 
+ Senior Java Software Engineer  
+ Tech Lead 
+ Data Engineering Tech Lead 
+ Data Engineering Tech Lead 
+ DevOps Engineer 
+ Java Software Engineer 
+ Junior Data Engineer 
+ Data Engineering Tech Lead 
+ Data Engineer 
+ Data Engineer Team Lead 
+ Data Scientist 
+ Senior Java Developer 
+ Principal Software Engineer 
+ 
+ Terms of Use  |  Login  |  Register  |  RSS Feed 
+ Copyright (C) 2001-2021 Forgroup Internet Limited. All Rights Reserved. 

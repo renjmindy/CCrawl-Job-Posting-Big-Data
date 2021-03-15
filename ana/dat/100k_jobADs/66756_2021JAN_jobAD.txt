@@ -1,0 +1,101 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Engineering Specialist, Aircraft Loads 
+ Bombardier 
+ __Dorval, QC 
+ Apply Now 
+ Engineering Specialist, Aircraft Loads-MON17407 
+ Description 
+ BOMBARDIER 
+ At Bombardier, our employees work together to evolve mobility worldwide - one good idea at a time. If you have a good idea, we’ll provide the environment where it will thrive and grow into a great product or customer experience. Your ideas are our fuel. 
+ In your role, you will: 
+- 
+Perform aeroelastic and aeroservoelastic simulations in support of new aircraft design studies and continued airworthiness of in-service aircraft 
+ - 
+Develop dynamic FEM models to compute airframe design loads and component design loads (high lift and control surface) 
+ - 
+Use engineering judgment on selecting the appropriate methods, techniques and tools in resolving complex issues 
+ - 
+Perform dynamic aeroelastic response analyses for tuned discrete gust and continuous turbulence with and without the effects from fly-by-wire 
+ - 
+Support and interact with other engineering disciplines such as Flight Characteristics, Structures, Mass Properties, Systems, Fly-By-Wire, Landing Gear and Flight Test 
+ - 
+Define restrictions and special instructions for flight test procedures based on loads analyses 
+ - 
+Improve and document loads analyses methods 
+ - 
+Provide Loads support for both flight test and in-service AOGs 
+ - 
+Document analyses and findings in engineering certification reports 
+ Qualifications 
+ As our ideal candidate, 
+ 
+ You have a Bachelor's or Master’s degree in Aerospace or Mechanical Engineering. A higher education would be an asset 
+ 
+ - 
+You have at least 10 years of experience in external loads analyses in the aerospace industry 
+ - 
+You have a good understanding of the FAR 25 certification requirements 
+ - 
+You have a strong background in static and dynamic aeroelastic loads analyses 
+ - 
+You can develop FEM models, compute airframe design loads and component design loads (high lift and control surface) 
+ - 
+You have previous experience using MSC Nastran for Dynamic/Aeroelastic analysis; DMAP is an asset 
+ - 
+You have a good understanding of FEM, unsteady aerodynamics, and frequency-based data analysis 
+ - 
+You are familiar with concepts of linearizing controls laws to be used for TDG and PSD gust analyses 
+ - 
+You have a good knowledge of engine fan blade out and windmilling dynamic loads analyses 
+ 
+ You have experience in working in flight test environment, collecting flight test data and comparing flight test data with analyses data 
+ You have a good understanding of the instrumentation (strain gauge, accelerometers, pressure sensors) needed for flight test measurements 
+ You have advanced programming knowledge in Matlab, Python, Fortran, C/C++, and Linux/Windows scripting 
+ You have good organizational skills in planning work activities and complete tasks within budget and on schedule 
+ You have good analytical thinking, problem solving, and communication skills (both written and verbal) and ability to work under pressure 
+ 
+ Bombardier is an equal opportunity employer and encourages women, Aboriginal people, persons with disabilities and members of visible minorities to apply. 
+ Whether your candidacy is moving on to the next step of the hiring process or not, we will keep you informed by email or by phone. Join us at careers.bombardier.com 
+ Your ideas move people. 
+ Job:  Loads and Dynamics 
+ Primary Location:  CA-QC-Montreal Dorval 
+ Organization:  Aerospace 
+ Schedule:  Full-time 
+ Employee Status:  Regular 
+ Job Posting:  07.10.2020, 12:34:37 PM 
+ Unposting Date:  Ongoing 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

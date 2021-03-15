@@ -1,0 +1,153 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Speech Applied Research Scientist (Award-winning AI Startup!) 
+ at Emotech Ltd 
+ go back to Data and Product Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ Emotech is based in London, UK, and found in 2014. We are dedicated to exploring a multimodality system that blends various machine learning algorithms, allowing for bespoke solutions to AI needs for software and hardware. Emotech was selected by TechCrunch as one of the Top 14 European Startups and then Top 30 Business Cases in China by Financial Times. In 2019, Emotech introduced the first multimodality AI English teaching assistant solution launched in Huawei HDC and awarded the first London Business Award. Emotech has been in collaboration with renowned universities since 2015 starting from UCL, Imperial College, the University of Edinburgh to the University of Cambridge, University of Oxford, CMU. 
+ Overview 
+ We are seeking a passionate and knowledgeable Speech Applied Research Scientist who can help us to improve our cutting edge speech technology. As a Speech Applied Research Scientist, you will be collaborating with scientists and engineers to bring research into production. This includes refactoring, measuring and improving the performance of the existing frameworks and pipelines. Also you will be collaborating with scientists to create and improve various Speech Technology and Machine Learning models and track their performance over time. 
+ Responsibilities: 
+ 
+ Work with other Speech/ML researchers to prototype speech and machine learning algorithms. 
+ Adapt existing algorithms to maximise their performance for run-time deployments 
+ Publish at top-tier speech conferences (ICASSP, Interspeech, ASRU, ...) 
+ Design and develop state-of-the-art machine learning models 
+ Advise the engineering team with development of tools for profiling, analysing and debugging 
+ Advise the data engineers with efficient data collection and labelling tasks so data is useful for training of the new acoustic and language models 
+ 
+ Required Qualifications: 
+ 
+ At least 5 years of experience in the industry 
+ Strong grasp of fundamentals: linear algebra, finite state machines, discrete and continuous optimization, supervised and unsupervised methods, generative and discriminative methods. 
+ Masters Degree in Computer Science or other relevant areas. PhD preferred. 
+ Expertise in one or more focus areas or their subfields: acoustic modelling, language modelling, audio-visual ASR, deep learning, graphical models, search, model compression, multi-task learning, etc, 
+ Extensive experience with deep learning frameworks Tensorflow, Caffe, PyTorch, Theano, etc (any of them) 
+ Excellent software engineering skills with working experience in Python, C++ or Rust (at least two). 
+ Proven track record of experience in relevant areas (significant industry experience and/or strong publication record at top venues like ICASSP, Interspeech, ICML, NeurlIPS, …) 
+ Extensive experience and understanding of speech frameworks (not the ability to run the recipes): Kaldi (both user and developer perspectives) 
+ Ability to quickly prototype state-of-the-art algorithms following recent literature developments. 
+ Ability to write high quality code 
+ 
+ Advantageous: 
+ 
+ Ability to work with large noisy datasets 
+ Speech related development experience in industry 
+ Proficient knowledge of Tensorflow, PyTorch or similar DL frameworks 
+ Strong grasp of data structures, algorithms and communication protocols. 
+ 
+ Published at 5 Jan 2021 - Expires on 5 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Emotech Ltd 
+ fulltime  Team Assistant (Award-winning AI Startup!)  at Emotech Ltd in London 
+ __16-12-2020 
+ fulltime  Team Assistant (Award-winning AI Startup!)  at Emotech Ltd in London 
+ __16-12-2020 
+ fulltime  Team Assistant (Award-winning AI Startup!)  at Emotech Ltd in London 
+ __16-12-2020 
+ fulltime  Software Engineer (Award-winning AI Startup!)  at Emotech Ltd in London 
+ __05-01-2021 
+ fulltime  Speech Applied Research Scientist (Award-winning AI Startup!)  at Emotech Ltd in London 
+ __05-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

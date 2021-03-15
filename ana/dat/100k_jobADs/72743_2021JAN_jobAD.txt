@@ -1,0 +1,61 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Squire Technologies (S16) 
+ Platform to grow your barbershop and maximize profitability. 
+ Backend Engineer 
+ 
+ Location 
+ New York City / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Squire Technologies 
+ About the role 
+ Skills:  Node.js 
+ We're looking for exceptional (several) backend engineers to join our highly coveted platform team. This is an opportunity for you to work on exciting and brand new initiatives, supporting exciting new consumer facing and b2b web, iOS, and Android apps. 
+ If you fit the bill of the above and the description below, please reach out to me for next steps. 
+ Requirements: 
+Expert in JavaScript and the JavaScript object model 
+Familiarity with newer specifications of EcmaScript 
+Strong knowledge of Node.js and Express framework 
+Strong knowledge of Javascript design patterns 
+Strong knowledge of SQL and PostgreSQL specific features 
+User authentication and authorization between multiple systems, servers, and environments 
+Expert in working with RESTful APIs 
+Knowledge about background task processing, queues 
+Proficient understanding of code versioning tools, such as Git 
+Experience writing concise and well structured OOP code. 
+FinTech experience a plus 
+A can-do attitude that can hit deadlines without cutting corners or sacrificing structural integrity. 
+ Looking forward to hearing from you all! 
+ Technology 
+ Other jobs at Squire Technologies 
+ Vice President of Marketing 
+ fulltime 
+ / Remote 
+ 6+ years 
+ Web Engineer 
+ fulltime 
+ New York City / Remote 
+ Frontend 
+ 6+ years 
+ Backend Engineer 
+ fulltime 
+ New York City / Remote 
+ Backend 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

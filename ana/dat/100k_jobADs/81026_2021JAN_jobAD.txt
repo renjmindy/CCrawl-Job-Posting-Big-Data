@@ -1,0 +1,348 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Software Testing 
+ 
+ Software Testing Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Software Testing Specialist ? 
+ ](https://www.workana.com/hire/software-testing) 
+ 3 weeks ago 
+ Looking for a Qa/Software Tester (with past experience) for a Websi... 
+ Published: 3 weeks ago  Bids: 4 
+ We're developing a confidential website application for computer and mobile. The theme of the website is centered around Traveling and Social Media. The objective is to achieve a bug free and UX friendly website. 
+We need someone with the experience of testing given scenarios on computer, and is also capable of creating their own scenarios from a user's perspective. You should be able to document your work in a report and submit the issues according to the format required by us. You should also be familiar with task management apps such as Trello or Jira. 
+ You should have the basic knowledge of the commonly used social media applications and should be able to communicate and write in English fluently. You will need to dedicate 8 hours a day, 6 days a week. 
+ Once you pass the interview, we'll have you sign an NDA document and then train you on the website. We won't be paying for the hours trained. If training output is favorable, we will then form a contract with you in the coming month. 
+ If you have any other questions, you could ask them in your proposal or during the interview. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Large 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  Z. I. Saudi Arabia 
+ USD 250 - 500 
+ 2 months ago 
+ Easy beta-testing for game-apps 
+ Published: 2 months ago  Bids: 1 
+ I want you to conduct quick-1 minute beta-testing of game apps which I will provide to you. 
+This time the budget is 10USD for 20 apps as total（1 minute testing for each so total 20 minutes）. 
+ You need 
+1. Windows PC 
+2. Google Play account（United States account or Japanese account. 
+Please manage it by yourself.） 
+3. Internet connection 
+ You will test games 1 minute and check if it works without problem and take screenshot as proof. 
+ This task is so easy and exciting if you love games. 
+After completing 20 games and you want to continue, then I will provide you more games to test. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Published by:  T. Japan 
+ Less than USD 50 
+ 2 months ago 
+ Elearning app pending work need finish within 24hr 
+ Published: 2 months ago  Deadline: 1 Bids: 2 
+ Hello 
+our app build in native android need complete android team for it which can done remaining point within 24hr please bid you can able to start now. It is a simple task of debugging and we will provide the areas to be debugged. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android 
+ I need to  : Modify an existing app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Back-end is required  : Yes 
+ Published by:  A. A. Kenya 
+ USD 500 - 1,000 
+ 3 months ago 
+ Qa - Software Testing - for local freelancer in Vietnam and Thailand 
+ Published: 3 months ago  Bids: 5 
+ They will test our Production (Web Browser | PC Download | Mobile Download | Mobile HTML5) every Monday to Friday at 11AM-5PM and Adhoc Testing Request. 
+ The budget is just random, details will be discussed later. 
+ - We will provide Production checklist and they will test it according to the form. 
+ - Other testing (Adhoc Request) related to Payment Gateway, Product Tests (Games) and domains, etc. - We will advice them once we received any related request from other team, that need to test. 
+ Requirements: 
+ - Ensure the test process, complete the test tasks in a timely and accurate manner, and feedback the problems of the test process. 
+ - Preferably who speaks English to easily coordinate with 
+ Device required : PC | Mobile (Android | IOS) 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Medium 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Published by:  S. W. Last reply: 3 months ago  Philippines 
+ USD 1,000 - 3,000 
+ 5 months ago 
+ Sr Software Engineer 
+ Published: 5 months ago  Project duration: 3 - 4 months Bids: 4 
+ Are you an avid programmer ????? 
+ GT is seeking a dev NET core + NodeJS + angular + SQL Server with 4+ years experience 
+ Requirements: 
+ Advanced-level English (Fluent/Native) 
+Experience working with Azure environments (DevOps, App Service, Storage accounts) 
+Experience in NodeJS and derived frameworks (4+ years) 
+Experience in Angular with TypeScript (4+ years) 
+SQL Server experience (Management of Stored Procedures, views) 
+NET Core and Entity Framework Core experience (3+years) 
+ Full time & 100% work from home opportunity!! 
+Job Type: Freelance 
+ ---------------------------------------------------- 
+ ¿Amante de la programación ????? 
+ Global Task Busca un dev NET core + NodeJS + angular + SQL Server ( 4+ anos de experiencia) 
+ Excluyente: 
+ Nivel avanzado de inglés (Fluent/Native) 
+Experiencia trabajando con ambientes Azure (DevOps, App Service, Storage accounts) 
+Experiencia en NodeJS & derived frameworks (4+ años) 
+Experiencia en Angular con TypeScript (4+ años) 
+Experiencia en SQL Server (Management of Stored Procedures, views) 
+Experiencia en NET Core & Entity Framework Core (3+ años) 
+ Full time & 100% oportunidad de trabajo remoto!! 
+Modalidad de empleo: Freelance 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Full time 
+ Roles needed  : Developer 
+ Published by:  E. Last reply: 4 months ago  Argentina 
+ USD 20 - 30 / hour 
+ 6 months ago 
+ Mobile development to compact Covid 19 
+ Published: 6 months ago  Bids: 7 
+ So we will be just working and looking at the COVID 19 virus features and trying to incorporate them into machinery not just an app but also a camera system we need mechanical engineers and systems developers and software developers but if you propose I am waiting for a confirmation from my investment crew. WE NEED PEOPLE MAJORING IN AUGMENTED REALITY AND ARTIFICIAL INTELLIGENCE ALSO FORMALLY KNOWN AS MACHINE LEARNING 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone, iPad 
+ Published by:  M. Z. Last reply: 6 months ago  South Africa 
+ USD 1,000 - 3,000 
+ 6 months ago 
+ Erp for small business 
+ Published: 6 months ago  Bids: 17 
+ I need an ERP for a small business. Modules include POS, inventory management, purchases (quotations, purchase orders, receiving, payment), sales (quotation requests, invoicing, delivery schedules, account statements, payment collection), human resource (payroll). 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Other 
+ I need to  : Create an app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Similar apps  : Other 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  G. S. Philippines 
+ USD 500 - 1,000 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

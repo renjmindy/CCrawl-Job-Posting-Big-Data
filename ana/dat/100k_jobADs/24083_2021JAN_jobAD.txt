@@ -1,0 +1,192 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Frontend Web Developer 
+ at Deepfinity 
+ go back to Developer Jobs 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ $14000 - $20000 per year 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ 
+ 
+ __Remote 
+ 
+ 
+ __fulltime 
+ 
+ 
+ __ $14000 - $20000 per year 
+ 
+ 
+ apply now 
+ 
+ Web Dev Lead 
+ Please submit your CV with 2-3 (max) sentences on your background in front-end web development and what excites you about our company. Please also include your portfolio. 
+ **Role:  **Full Time 
+ Location:   Remote 
+ Start Date:  As soon as possible, must be before the 1st of Feb. 
+ **Salary:  ** 
+ Year 1: $14-20K + equity 
+ Year 2: $25-35K + equity 
+ 
+ Context: 
+ We're looking for a killer front-end web developer to help improve our flagship product's web platform. We're a small yet hard-hitting team, so you'll be working directly with the 2 technical co-founders. 
+ We have a great mobile application for iOS and Android, and the web platform needs to catchup, that's why we need you to help. 
+ About us: 
+ Deepfinity was founded by 3 computer science students when they noticed how much time was spent at their student accommodation managing packages. Upon further investigating, Luca, Arthur and Alan, that in addition to student housing, parcels plagued co-working, residential, and office spaces. 
+ Consequently, they build Parcel Tracker: an internal parcel management software. They have since grown the business to serve 35,000+ residents across 70+ buildings worldwide. (More on product: www.parceltracker.com) 
+ We exist because: 
+ 
+ Online shopping and deliveries are taking over the world (20% YoY growth) 
+ Buildings, businesses and physical spaces are overrun by deliveries. 
+ There are huge untapped opportunities in the world of Parcels that are waiting to be uncovered. 
+ 
+ We have been working hard to develop our product over the last 4 years and have recently closed our first round of funding. We are ready to expand our customer base and business! 
+ Your Responsibilities: 
+ You'll be responsible for the web platform development. This is the first point of interaction clients have with our system; hence, it plays a critical role on whether they'll become active users and buy the product. 
+ Over the first few months, your role will consist of improving our web platform by adding new features and streamlining the UX. Some of the tasks will include: 
+ 
+ Payments and invoices generation portal 
+ Improve self-service and onboarding process 
+ UI & UX improvements 
+ Custom email template editor with preview 
+ Architectural improvements 
+ 
+ We're looking for someone can execute both on a given plan and a creative mind who understands what needs to be done to build a platform our customers will love. 
+ Once the core platform is operational, you'll start work on our subsequent products and building out your team (if you are interested in this type of work). 
+ Benefits: 
+ ☑️ Working with a high calibre, fast-growing and highly motivated team 
+ ☑️ No bullshit, no politics, get-it-done environment 
+ ☑️ Great job progression to managing your team, product management and more. 
+ ☑️ Ownership of the work you do 
+ ☑️ Opportunity to shape the current and future product 
+ ☑️ Your work will be used by 10,000s of people from day 1 
+ ☑️ Share option scheme 
+ ☑️ Fully remote 
+ Required - Technical: 
+ ☑️ ReactJS 
+ ☑️ Typescript 
+ ☑️ Bootstrap 
+ ☑️ Redux Saga with typed actions & payload 
+ ☑️ Internationalization (i18next) 
+ ☑️ Babel 
+ ☑️ Webpack 
+ Good to have - Technical: 
+ ☑️ Styled-components & styled-system alongside EUI (elastic UI framework) 
+ Non-Technical Competencies: 
+ ☑️ A Reliable professional and personality 
+ ☑️ Ability to work autonomously and not too proud to ask for help 
+ ☑️ Ability to design the application given strict business requirements 
+ ☑️ Fluency in English 
+ ☑️ Good UI/UX skills 
+ ☑️ Ability to understand the user base and tailor-fit the UX to their needs 
+ ☑️ Ownership of own work 
+ ☑️ At least 5h overlap with UK working hours (9am-6pm UTC) 
+ The person we are looking for: 
+ ☑️ Is fun to work with; we'll be spending lots of time working together (be it remotely), so we might as well enjoy it! 
+ ☑️ Enjoys learning and improving their skills 
+ ☑️ Wants to work in a start-up 
+ ☑️ Can bring expertise and critical thinking to solve problems 
+ ☑️ Self motivated 
+ ☑️ Listens and asks questions 
+ Interview process: 
+ 
+ Apply by sending CV and portfolio 
+ Provide a link to Github profile or code sample is highly encouraged 
+ Once pre-selected: 1h technical challenge 
+ Final stages: 30m interview covering both technical and soft skills. You will also be asked to review the current platform UX/UI and what you suggest we should improve. 
+ 
+ Lack of confidence can sometimes hold us back from applying for a job. But we'll let you in on a secret: there's no such thing as a 'perfect' candidate. Deepfinity is a place where everyone can grow. So, don't hesitate to apply if this is a role that would make you excited to "come" into work every day. 
+ Published at 4 Jan 2021 - Expires on 4 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Deepfinity 
+ fulltime  Sales Lead (first sales hire)  at Deepfinity in London 
+ __04-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

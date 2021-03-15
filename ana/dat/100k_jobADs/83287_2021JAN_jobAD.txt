@@ -1,0 +1,268 @@
+The SQL Pro 
+ (Ayman El-Ghazali - www.thesqlpro.com) 
+ 
+ Home 
+ 
+ Database Administration 
+ Database Development 
+ SQL Server BI 
+ 
+ 
+ Presentations 
+ 
+ Code &Slides for Presentations 
+ 
+ 
+ Videos 
+ 
+ SQL Server 2016: A Comprehensive Introduction – Arabic 
+ SQL Snacks! 
+ Arabic SQL Server Videos – تعليم باللغة العربية 
+ Arabic SQL Server BI Videos – تعليم باللغة العربية 
+ 
+ 
+ SQL Snacks! 
+ SQL Server FCI Virtual Lab 
+ 
+ SQL Server Virtual Lab Section 1 
+ SQL Server Virtual Lab Section 2 
+ SQL Server Virtual Lab Section 3 
+ 
+ 
+ SQL Server Installation Guide 
+ About 
+ 
+ RSS 
+ <- Open Heart Surgery Lessons Learned for IT Part 3 - Monitoring Health and Disaster Recovery 
+ Deploying a SQL Server 2012 Multi-Subnet Cluster -> 
+ Open Heart Surgery Lessons Learned for IT Part 4 - Learning Beyond the Job Title 
+ 19 Jul 
+ Finally we have come full circle to the final post on this lessons learned segment. In case you have not been reading the news lately, the healthcare market is booming especially with those that are lucky enough to be in the IT field. It is a big industry here in the U.S. and will continue to grow. 
+ As IT workers we need to step up to the challenge and not stop where our job title does. Being a developer, programmer, DBA, QA Tester, or whatever you may be is not an invitation to ignore the business side of things. Rather, as IT practitioners we should strive to understand and seek purpose in what we are doing. We also need to be innovative and find new solutions to existing problems as well as increase our skills sets and learn new technologies when possible. A career is a life long learning process, it's not just about getting the job you want and sitting at your desk doing the same thing over and over and claiming it as gained experience. One of my good colleagues told me the other day "doing something for twenty years doesn't mean you have twenty years experience, maybe you did the same thing 200 times!" 
+ As you can see, the entire experience for me was a learning experience beyond the job title yet it helps me perform better at my work because I understand more about the data that I am working with. 
+ Observation  : The innovation in Cardiology today is amazing; and in medicine in general. My speculation for the reason why innovation happens in general is because of the drive and passion people have. Fifty years ago, many people would not be able to get the same treatments that we get today. Many doctors, nurses, physician assistants, technicians, and other medical staff have gone beyond the job title to try to bring out their best to help the rest of us. 
+ Two big things that I observed during this procedure are: the nurse that helped us was extremely knowledgeable of all the parts of the procedure and a semi-retired Cardiologist was helping operate on the patient. We were lucky to get such a great nurse "tour guide" for the entire process; we also had a colleague help us who is a nurse and on the weekends works with Cardiologists at the hospital we were visiting. Our guides were extremely knowledgeable and took time out of their regular jobs to be with us, to help us understand the field we are in, to help us understand how our work impacts other people on a daily basis. As for the second observation, the semi-retired physician stepped up to the task like it was nothing at all. He took over for a nurse that was pulling out a vein from the patient's leg and then stepped up to the patient's chest and started helping the lead physician. It was refreshing and inspirational to see such passion from the semi-retired Cardiologist. 
+ Take Back  : I will never forget my first job. I took it under the impression that it was a non-technical position doing Business and Competitive Intelligence Reporting. I'm so glad that my Bachelor's program at Drexel University included a mandatory minor in Business and enough Psychology classes to almost get you a second minor! It was a good program and it helped me understand the other side of the IT world, our customers and clients! 
+ I've never felt comfortable working in a place where I do not understand how the business works, or what the data means. Luckily, I've always found people willing to take the time out of their day to help explain things to me. At my previous job with Johnson Matthey in the Philadelphia Suburbs, we used to take regular trips to the floor of our manufacturing facility to understand how our data collection and reporting affects the work being done. We would also learn about what the engineers were doing; coating parts, programming robots to flip parts, using certain chemicals on parts, and even putting parts in the oven. It was like a kitchen that produced catalytic converters! It was a great experience, especially since I love cars. I learned so much by just exploring outside of my realm. By the time I started working there, I had already written many papers in college predicting the fall of the Auto Industry, more specifically the US car manufacturer; most of the reasoning involved the fact that they did not innovate and just produced junky gas guzzlers. However, I also saw another key element to the failure of some of these companies. This company would ask for part to be dosed with extra unneeded metals that were cheaper so that they would make the cut basically. It was wasteful and the lack of concern with quality was appalling. The company took a government bailout and later filed for bankruptcy. 
+ On the flip side one client we dealt with wanted part to be labeled at the top and to be cleaned off on the outside, which has no affect on the performance or function is it just for aesthetics. They would visit the factory regularly and make sure things were running smoothly. This was one of our Japanese clients, in fact one of the most successful Automobile manufacturers in the world. 
+ This experience taught me a lot about why the reports I was sending out for that particular client were so precise and why other clients that didn't care as much were allowing less precise doses to go on their part. They still passed all the legal inspections necessary, but they were willing to waste a little money on a cheaper metal to just get the job done. This experience also answered my questions to why certain data was requested in detail by some clients and ignored by others. At the end of the day, I added valuable knowledge to how we do things by stepping outside of my cube (literally for this one) and exploring an area where I had no previous knowledge. 
+ As an IT practitioner technologies change a lot and there are so many integrated components one has to step out of the comfort zone they have set for themselves and explore a little. Innovation comes from this exploration process. I remember I used to be so scared of building OLAP cubes with SSAS. I picked up some training material, and soon enough I was playing around with cubes at home before bedtime. A few months later, I presented my R&D project to the CIO and senior management; they were highly impressed. I couldn't have done it without going outside of my comfort zone, learning a new technology, oh and of course spending hours understanding the business and understanding what metrics are important for our users to see. 
+ So reach out to your users and understand your business and don't let the job title be a fence around you. There was no such thing as an astronaut until someone decided that they would love to explore space! And one final thing, please take care of your heart and be healthy!! 
+ Share this: 
+ 
+ LinkedIn 
+ Twitter 
+ Reddit 
+ WhatsApp 
+ Facebook 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Leave a comment 
+ Posted by  Ayman El-Ghazali  on July 19, 2012 in  Other 
+ <- Open Heart Surgery Lessons Learned for IT Part 3 - Monitoring Health and Disaster Recovery 
+ Deploying a SQL Server 2012 Multi-Subnet Cluster -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ 
+ 
+ 
+ Search Site 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ Subscribe 
+ 
+ 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 1,453 other followers 
+ Email Address: 
+ Follow 
+ 
+ 
+ 
+ 
+ 
+ Follow @thesqlpro 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recent Posts 
+ 
+ Azure Security Group Automation [Guest Post] 
+ The Power of DevOps and Deploying Power BI reports to different Environments [Guest Post] 
+ A COVID19 Story with Azure Databricks 
+ Introduction to Azure Databricks Presentation - Video Recording 
+ Introduction to Azure Databricks 
+ 
+ 
+ 
+ Favorites 
+ 
+ Brent Ozar 
+ Gethyn Ellis 
+ Katie & Emil (Video Training) 
+ Microsoft Virtual Academy 
+ SQL Authority 
+ SQL Server MCM Videos 
+ 
+ 
+ 
+ Categories 
+ 
+ Database Administration 
+ 
+ Backup & Recovery 
+ Disaster Recovery 
+ High Availability 
+ Security 
+ SQL Server Performance 
+ 
+ 
+ Database Development 
+ Other 
+ Other Administration 
+ power bi 
+ Presentations 
+ SQL Server 2012 
+ SQL Server 2016 
+ SQL Server BI 
+ 
+ Analysis Services (SSAS) 
+ Integration Services (SSIS) 
+ Reporting Services (SSRS) 
+ 
+ 
+ Uncategorized 
+ Videos 
+ 
+ SQL Snacks! 
+ 
+ 
+ Virtualization 
+ 
+ Hyper-V 
+ 
+ 
+ 
+ 
+ 
+ Archive 
+ 
+ 
+ 
+ 
+ 
+ July 2012 M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 
+ 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 
+ 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 
+ 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 
+ 
+ 30 
+ 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ « Jun   Aug » 
+ 
+ 
+ 
+ 
+ Ayman El-Ghazali 
+   Islam El-Ghazali 
+ 
+ 
+ 
+ Blog at WordPress.com. 
+ Entries (RSS)  and  Comments (RSS) 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

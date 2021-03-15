@@ -1,0 +1,83 @@
+Skip to content 
+ Primary Menu 
+ 
+ Home 
+ About 
+ 
+ Search 
+ Search for: 
+ 
+ crm backlog 
+ joshimandarblog.wordpress.com 
+ scheduled maintenance jobs 
+ Migrating data to a live on-premises CRM system? 
+ November 22, 2015November 22, 2015 Mandar Joshi 2 Comments 
+ While working on one of the project, we were required to move data from legacy system into a live production system with limited amount of black out window. One can calculate the time required based on number of records, server configuration, etc. and can even have a buffer. But you never know when Murphy will play his role. 
+ Below are few points that, if considered can help Murphy stick to its seat and don't show up. (Just some pre-checks that helps the processJ) 
+ 
+ Confirm  disk space  on SQL, web and application server. Have some buffer space as logs will grow. 
+ As your target system is a live production system, surly there will be some  scheduled maintenance jobs  running to maintain server health as part of disaster management. These jobs are life savers but problem with them is that these are scheduled in down time as they consume high resources. And unfortunately this is the only time when we can perform our import. Thus you may have to consider pausing the maintenance jobs. But do remember to turn them on once done with the import. Some of the resource consuming jobs are: consistency check, database backup, async-operation cleanup, POA, etc. Pausing this job helps the import utilize maximum available server resources. 
+ Check the  database log  size and clear. The log will grow with the import and if it reaches the maximum available threshold the import processes throws timeout errors. Also check the shrink process, preferred if simple. 
+ Check for  CPU and Memory usage  on SQL, web and application server. 
+ Check for any blockage on SQL server, if any script is  blocking or slow running queries . 
+ Clear AsyncOperationBase table. 
+ You may run into scenario where it is required to  restart the SQL service . Make sure that this do not affect any other process. Also in case of NLB, upon restarting the SQL service switches the active node. Thus you will also have to consider that node for performance check. 
+ You may have to  disable the user logging and turn off the workflows and plugins . 
+ 
+ And last but not the least is FULL database backup before start of the process. Also you make to do this in several passes due to amount of data and limited amount of down time. Identity the steps that can be performed outside black out that do not affect live system. This provides some extra time for completing the critical steps. 
+ I would recommend to do the import in multiple small passes which helps in keeping the buffer and reduces the chances of breaking things or running on edges. After all "Rome was not built in a day". 
+ These are some of the steps that helped me. As always, these may not match exactly to your requirement but some of them will surly. And  I don 't guaranty  of anything from the steps as risk will be yours as it's your production system. 
+ If you have anything to add, please write in comment and I will update the content. Thanks! 
+ Microsoft Dynamics CRM CPU and Memory usage ,  CRM 2013 ,  CRM 2015 ,  CRM2011 ,  Data import in Dynamics CRM ,  Data Migration ,  database log ,  disable the user logging ,  Microsoft ,  Microsoft Dynamics ,  MICROSOFT DYNAMICS CRM ,  Microsoft Dynamics CRM 2011 ,  Microsoft Dynamics CRM 2015 ,  Migrating data to live CRM system ,  Migrating history information while data import in Dynamics CRM ,  Performance Best Practices ,  Performance Best Practices for Dynamics CRM ,  restart the SQL service ,  scheduled maintenance jobs 
+ 
+   
+ Top 10 in March 2015 
+   
+ Top 10 in February 2015 
+   
+ 100 WordPress Posts 
+ 
+ Follow me on Twitter 
+ My Tweets 
+ Top Posts & Pages 
+ 
+ Dynamics 365 Attribute Name lengths 
+ Resolving Duplicate Lookup References in Import Process 
+ Unable to access the MSCRM_CONFIG database. SQL Server does not exist or access denied. 
+ CRM 2015: Applying custom FetchXml to a subgrid using JavaScript 
+ System Administrator VS System Customizer 
+ CRM 2015: Plug-in execution failed because no Sandbox Worker processes are currently available 
+ CRM Access Team Mover 
+ Use Upsert to insert or update a record 
+ Why Plug-ins/workflows aren’t intended for long running processes? 
+ Exception: “There is no active transaction. This error is usually caused by custom plug-ins that ignore errors from service calls and continue processing” 
+ 
+ Categories 
+ 
+ Did you know? 
+ 
+ What's new? 
+ 
+ 
+ Microsoft Dynamics CRM 
+ 
+ Reblog 
+ 
+ 
+ Microsoft Dynamics Marketing 
+ Microsoft Power BI 
+ Scribe 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ Entries feed 
+ Comments feed 
+ WordPress.com 
+ 
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

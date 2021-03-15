@@ -1,0 +1,6 @@
+ Preferred Qualifications 
+ Experience with distributed systems 
+ Experience building highly-concurrent systems, particularly those employing the "communicating sequential processes" (CSP) model 
+ Professional experience with Golang, TypeScript, Solidity, Rust, Docker, Postgres 
+ Concrete experience interacting with Ethereum and other blockchains 
+ Ability to optimize and refactor for scaling and/or testability 

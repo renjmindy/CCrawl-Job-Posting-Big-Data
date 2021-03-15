@@ -1,0 +1,101 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Together Software (S19) 
+ Modern enterprise software to manage and measure mentoring between employees. 
+ Software Engineer 
+ 
+ Location 
+ Toronto, Canada / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Together Software 
+ Who we are 
+ Together creates software for enterprises to run internal employee mentoring programs. Our top use cases include launching an onboarding buddy program, first-time manager mentoring, or high potential talent and diversity programs. For example, the United Nations uses Together to connect employees globally (e.g. Colombia with Italy) over guided sessions to discuss future assignments, rotations, navigating the massive UN system, etc. 
+ We are a Y Combinator Summer 2019 company with ~10 employees, and our customers include Disney, United Nations, Reddit and more. 
+ Mission 
+ To make employees and their companies more capable. 
+ About the role 
+ Skills:  Node.js, Python, React 
+ Software Engineer 
+ Who we are 
+ Together creates software for enterprises to run internal employee mentoring programs. Our top use cases include launching an onboarding buddy program, first-time manager mentoring, or high potential talent and diversity programs. For example, the United Nations uses Together to connect employees globally (e.g. Colombia with Italy) over guided sessions to discuss future assignments, rotations, navigating the massive UN system, etc. 
+ We are a Y Combinator Summer 2019 company with ~10 employees, and our customers include Disney, United Nations, Reddit and more. 
+ Recent Testimonials 
+ Mission 
+ To make employees and their companies more capable. 
+ What you will be working on 
+ As we move into the enterprise market, our customers expect smooth, painless experiences and measurable business value. Some examples of projects you will own include: 
+ 
+ Onboarding flow overhauls 
+ New product lines, such as new mentorship program formats 
+ New Integrations and infrastructure management (Identity, Human Resource Info Systems and Task queues) 
+ End to end reliability engineering 
+ Reporting and reporting data pipelines 
+ Managing Interns and junior engineers 
+ 
+ Who we look for 
+ Our customers’ experience trumps everything else. We find the fast ways of delivering functionality to customers. We debate heavily about whether something is good enough to be released. 
+ For this particular role, we are strongly preferring someone who has been on mature software development teams, including: 
+ 
+ Good testing practices 
+ Good systems for error reporting, logging, etc 
+ Productivity practices, e.g. infrastructure or CI/CD improvements that improve developer productivity 
+ Seen architectures that support reliability, e.g. job queues 
+ 
+ This role is great for you if you are okay with the following: 
+ 
+ Moving quickly 
+ Being comfortable building experiments that don’t work out 
+ Supporting a big customer by being flexible with your schedule 
+ Having a lot of opinions on how to make things better 
+ Thinking one step ahead of your manager on how the customer experience can improve 
+ Being comfortable with debate 
+ You put the team’s interest in front of your own 
+ You want to work with talented colleagues 
+ Sense for Product, UX and Design 
+ 
+ Please be ready for a high ownership, high expectation role. We are looking for candidates who are truly compatible with startup culture, including speed and ownership. 
+ Qualifications 
+ You have experience with single page web applications (React) You can build web back-ends with Node.js or Python You have experience with CI/CD (Kubernetes config, Docker build) You have previously worked with NoSQL databases Your colleagues would highly recommend you You’ve worked on an early stage product 
+ Compensation 
+ Salary + Equity and annual stock bonus plan. 
+ Location 
+ Our office in Downtown Toronto. We are remote until public health officials allow return to office. 
+ Technology 
+ Who we look for 
+ Our customers’ experience trumps everything else. We find the fast ways of delivering functionality to customers. We debate heavily about whether something is good enough to be released. 
+ This role is great for you if you are okay with the following: 
+ 
+ Moving quickly 
+ Being comfortable building experiments that don’t work out 
+ Supporting a big customer by being flexible with your schedule 
+ Having a lot of opinions on how to make things better 
+ Thinking one step ahead of your manager on how the customer experience can improve 
+ Being comfortable with debate 
+ You put the team’s interest in front of your own 
+ You want to work with talented colleagues 
+ Sense for Product, UX and Design 
+ 
+ Please be ready for a high ownership, high expectation role. We are looking for candidates who are truly compatible with startup culture, including speed and ownership. 
+ Other jobs at Together Software 
+ Software Engineer 
+ fulltime 
+ Toronto, Canada / Remote 
+ Full Stack 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

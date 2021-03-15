@@ -1,0 +1,216 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Engineering Manager 
+ [ 
+ O(1) Labs 
+ ](/companies/o-1-labs) 
+ 
+ Remote 
+ 14 January, 2021 
+ Apply 
+ More jobs from O(1) Labs About O(1) Labs 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Blockchain 
+ Cryptography 
+ Functional Programming 
+ OCaml 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Unlimited vacation policy 
+ Full healthcare coverage 
+ 401(k) matching 
+ L&d budget 
+ Parental leave 
+ Token equity 
+ 401k 
+ Committed to a diverse team 
+ Lunch & learn 
+ Office library 
+ Healthy snacks 
+ Bike friendly 
+ Equity 
+ Health care 
+ Unlimited pto 
+ Pto 
+ Start-up 
+ Equipment budget 
+ Platinum health coverage 
+ Tokens 
+ 
+ Manage the Engineering Team at Coda Protocol 
+ Role overview 
+ We’re developing Coda Protocol, a cryptocurrency that compresses the blockchain from hundreds of gigabytes down to the size of a few tweets. It can scale to thousands of transactions per second and millions of users while remaining so decentralized even old cellphones can act as fully verifying nodes. We’re seeking a technical engineering manager who can prioritize and collaborate across diverse engineering disciplines, while remaining an empathetic and caring mentor to engineers with diverse perspectives. 
+ Engineering managers will: 
+ 
+ Provide empathetic leadership and impactful mentoring 
+ Contribute to the project technically (as an estimated percent of time, perhaps 30% engineering and 70% management) 
+ 
+ This is a chance to join and guide a small, collaborative team and have a ton of independence while working on fascinating cross-disciplinary problems that span cryptography, programming languages, functional programming, networking, and traditional product engineering. We also offer competitive compensation both in salary and equity as well as top-of-the-market benefits. 
+ Ideal candidates will be interested in: 
+ 
+ Technical leadership 
+ Mentorship 
+ Cryptography 
+ Distributed systems 
+ Functional programming 
+ 
+ There are no hard requirements and we’re more interested in learning about your individual background. 
+ 
+ [ 
+ O(1) Labs 
+ ](/companies/o-1-labs) 
+ 
+ 
+ 10-49 
+ 
+ 
+ San Francisco, CA, US 
+ 
+ 
+ O(1) Labs is a small, well-funded startup aiming to develop the first cryptocurrency protocol that can deliver on the promise of supporting real-world applications and widespread use. Our team is based in San Francisco, and we are funded by top investors (including Polychain, Metastable, Max Levchin, and Naval Ravikant). O(1) Labs recently released Coda Protocol, the first cryptocurrency with a constant sized Blockchain. O(1) Labs is committed to building a diverse, inclusive company. People of color, LGBTQ individuals, women, and people with disabilities are strongly encouraged to apply. 
+ OCaml Elm Blockchain Early Stage Venture PureScript ReasonML Unlimited Vacation Policy Full Healthcare Coverage 
+ View 3 jobs 
+ Interested in seeing how O(1) Labs work? Contribute to their Open Source. 
+ Refactor duplicated code idiom to single function on Public_key 
+ Level: Intermediate 
+ 
+ OCaml 
+ 
+ View All Issues 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from O(1) Labs About O(1) Labs 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Blockchain 
+ Cryptography 
+ Functional Programming 
+ OCaml 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Unlimited vacation policy 
+ Full healthcare coverage 
+ 401(k) matching 
+ L&d budget 
+ Parental leave 
+ Token equity 
+ 401k 
+ Committed to a diverse team 
+ Lunch & learn 
+ Office library 
+ Healthy snacks 
+ Bike friendly 
+ Equity 
+ Health care 
+ Unlimited pto 
+ Pto 
+ Start-up 
+ Equipment budget 
+ Platinum health coverage 
+ Tokens 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Interested in seeing how O(1) Labs work? Contribute to their Open Source. 
+ Refactor duplicated code idiom to single function on Public_key 
+ Level: Intermediate 
+ 
+ OCaml 
+ 
+ View All Issues 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Protocol Engineer$140K - 160K + EquityO(1) LabsUnited States of America 
+ Build a protocol that brings formal verification to the blockchain 
+ Remote 
+ blockchain cryptography cryptocurrency functional programming haskell ocaml smart contracts 
+ More Info Apply 
+ Head of Developer RelationsCompetitiveChainlink LabsUnited States of America 
+ Revolutionise how all agreements work with Chainlink, enabling next-generation Smart Contracts - 
+ RemoteSponsorship 
+ blockchain 
+ More Info Apply 
+ Blockchain Engineer (Rust) for a cryptocurrency startup$75K - 110K + EquityChorus OneSwitzerland 
+ Build infrastructure for the Internet of Blockchain 
+ Remote 
+ blockchain rust 
+ More Info Apply 
+ Engineering Manager 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

@@ -1,0 +1,68 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Senior IOS Developer - PC Optimum 
+ Loblaw Digital 
+ __Toronto, ON 
+ Apply Now 
+ At Loblaw Digital, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we’re up for the challenge. From our office in Downtown Toronto, we’ve created leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, and apparel spaces, and we’re only just getting started. 
+What you'll do 
+Design, build and maintain native mobile applications for iOS 
+Participate in code reviews and architecture reviews 
+Ensure the performance, quality, and responsiveness of applications 
+Collaborate with a team to define, design, and ship new features 
+Taking ownership, writing UnitTest and UITest as part of development norm 
+Mentor Junior iOS developers 
+Does this Sound like you? 
+You know how to write readable, idiomatic and maintainable Swift code 
+You are experienced with a variety of iOS frameworks. 
+You have a deep understanding of Cocoa design patterns and API design. 
+You care about quality and you know what it means to ship high-quality code. 
+You love to think in a functional way and you want to learn what functional programming means (RxSwift) 
+Experience with offline storage (Realm and or Core Data), threading, and performance tuning 
+Familiarity with RESTful APIs to connect iOS applications to back-end services 
+Familiarity with CI/CD and Fastlane 
+You have released at least one App under your supervision where you did: core architecture, code and wrote UnitTest and possibly some UITest 
+ Good to have: 
+RxSwift 
+Realm 
+Fastlane 
+ How You’ll Succeed: 
+At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. 
+ We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. 
+ If you have big ideas, undeniable enthusiasm, and thrive in a collaborative, creative, and diverse group, we’ll get along just fine. 
+ Looking for a challenge? Good. Love an innovative work environment? Even better. 
+Apply today. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

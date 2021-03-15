@@ -1,0 +1,397 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Freelance Jobs from Singapore 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelancers from  Singapore 
+ ](https://www.workana.com/en/freelancers/singapore) 
+ 4 months ago 
+ Api Programme 
+ Published: 4 months ago  Deadline: 30 Bids: 12 
+ To write program for attach files criteria apeicification stated name. AIS Application Programming Interface (API) Service Specifications. Files data from text file or csv files to link to api sandbox. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Other 
+ Other roles needed  : API PROGRAMMER 
+ Published by:  H. Last reply: 4 months ago  Singapore Payment method:  __Verified 
+ USD 250 - 500 
+ 4 months ago 
+ Senior Backend Developer website - Singaporean Citizen or Pr 
+ Published: 4 months ago  Project duration: 3 - 4 months Bids: 9 
+ We are looking for a Senior Backend Developer with a desire to work/collaborate in an International Apps directory that creates a platform to suggest and recommend Apps in multi-language platform. 
+ You will be a core member of a dynamic team and have a huge impact on the Company. Also being able to work collaboratively with the team members. 
+ If you love creating great software, enjoy challenges and want to be a part of an international project, this role is for you. 
+ Responsibilities 
+Develop and improve the current web application. 
+Develop with the latest technologies and improvements from the backend´s  point of view 
+Upgraded symfony version 
+Upgraded Solr version 
+Improve queries performance of the current site 
+Implement ddd & tdd in current platform 
+ requirements 
+ 5 years experience in web development. 
+Excellent back-end development knowledge (Web architecture / PHP 7 / 
+Symfony / MySQL / AMP / Solr Memcache / Redis / mvc frameworks / rest api 
+/ .. 
+ .) 
+Good front-end development knowledge (CSS3 / HTML5 / JavaScript / CSS b 
+bootstrap / Responsive design)* Good Linux/Unix knowledge. 
+Ability to work both autonomously & within a team. 
+Fluency in English or Spanish will be a plus. 
+ We expect proactivity to find and solve problems in our product and solve. 
+Scrapping experience PHP will be plus 
+What We Offer 
+Work from home, with flexible working schedules 
+Project Location: Remote or WFH 
+Start date: As soon as possible 
+Language requirements: English, Spanish will be a plus 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Part time 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  J. C. Singapore 
+ Over USD 40 / hour 
+ 5 months ago 
+ Menu Board Graphic Designer Wanted! - Singapore 
+ Published: 5 months ago  Bids: 11 
+ Our brand needs to do up a new menu board in store - Will be displayed as lightbox / TV menu. Text content and graphics will be provided by us. We have a current menu already, but we wish to refresh the look of it together with some new items launch. 
+ Category  : Design & Multimedia 
+ Subcategory  : Infographics 
+ What do you need?  : Create an infographic from scratch 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  L. T. Singapore 
+ USD 100 - 250 
+ 5 months ago 
+ Online Sales 
+ Published: 5 months ago  Deadline: 38 Bids: 3 
+ To do the sales online via simple Mobile Apps Aplication with Dual language English and Chinese, flexibility to add on the features for expanding. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : e-Shop 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  G. &. J. C. Singapore 
+ USD 250 - 500 
+ 5 months ago 
+ Need Php Coders To Add Payment Module For Website 
+ Published: 5 months ago  Bids: 14 
+ We are looking for someone who is good at PHP coding and familiar with Yii Frameworks. Would need to add Stripe, PayPal and PayNow module for our current website. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Roles needed  : Developer, Designer 
+ Published by:  H. Last reply: 5 months ago  Singapore 
+ USD 100 - 250 
+ 5 months ago 
+ Senior Backend Developer website 
+ Published: 5 months ago  Project duration: 1 - 2 months Bids: 20 
+ We are looking for a Senior Backend Developer with a desire to work/collaborate in an International Apps directory that creates a platform to suggest and recommend Apps in multi-language platform. 
+ You will be a core member of a dynamic team and have a huge impact on the Company. Also being able to work collaboratively with the team members. 
+ If you love creating great software, enjoy challenges and want to be a part of an international project, this role is for you. 
+ Responsibilities 
+Develop and improve the current web application. 
+Develop with the latest technologies and improvements from the backend´s  point of view 
+Upgraded symfony version 
+Upgraded Solr version 
+Improve queries performance of the current site 
+Implement ddd & tdd in current platform 
+ requirements 
+ 5 years experience in web development. 
+Excellent back-end development knowledge (Web architecture / PHP 7 / 
+Symfony / MySQL / AMP / Solr Memcache / Redis / mvc frameworks / rest api 
+/ .. 
+.) 
+Good front-end development knowledge (CSS3 / HTML5 / JavaScript / CSS b 
+bootstrap / Responsive design)* Good Linux/Unix knowledge. 
+Ability to work both autonomously & within a team. 
+Fluency in English or Spanish will be a plus. 
+ We expect proactivity to find and solve problems in our product and solve. 
+Scrapping experience PHP will be plus 
+What We Offer 
+Work from home, with flexible working schedules 
+Project Location: Remote 
+Start date: As soon as possible 
+Language requirements: English, Spanish will be a plus 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Part time 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer 
+ Published by:  J. C. Singapore 
+ USD 20 - 30 / hour 
+ 5 months ago 
+ Experienced Frontend Javascript Developer for migrating a website 
+ Published: 5 months ago  Bids: 15 
+ Role Description 
+ We are looking for a Senior Web Developer with Java and React ( next.js)  expertise to work for a challenging project 
+We want to rebuild or redesign the whole entire website from scratch using React and  Next.js  to Server-Side-Render our pages and components. 
+We are looking for a Front End that will motivate you to combine the art of design with the art of programming. 
+Must be really proficient with NextJs ecosystem, packages, repos to understand their latest processes, best practices for both server-side rendering. 
+ The frontend applications should be fast and scalable, keeping special attention to performance and caching base on Web Core Vitals. 
+ Why  Next.js  ? 
+ We need a framework capable of ssr our frontend for the reason that seo is a key point for our website. 
+ Next.js  provides a great ecosystem for building React SSR applications. Is used by the world’s leading companies. 
+ Responsibilities 
+Highly proficient in all aspects of the creative process: including sketches, mood boards, wireframes and strategized web pages that drive results. 
+Building reusable components and front-end libraries for future use 
+Optimizing components for maximum performance across a vast array of web-capable devices and browsers 
+Translating designs and wireframes into high-quality code 
+Building reusable components and front-end libraries for future use 
+Building reusable components and front-end libraries for future use 
+Designing a modern highly responsive web-based user interface. 
+ Requirements 
+Solid knowledge  with front-end web technologies, such as css, html, js,  webpack 
+experience with design tools such as illustrator, figma, sketch. 
+Solid demonstration of ui and ux sensibilities and strong attention to detail. 
+5+ years of professional experience in an engineering role 
+Expertise in web development using React ( Next.js) , 
+SSR (NextJS) and SEO Ready 
+Solid understanding of object-oriented programming; familiarity with various design and architectural patterns 
+ What We Offer 
+Work from home, with flexible working schedules 
+Project Location: Remote 
+Start date: As soon as possible 
+Language requirements: English, Spanish will be a plus 
+ answer the following questions when submitting a proposal: 
+ What are the new features of  next.js? 
+Do you have suggestions to make this project run successfully? 
+Have you built a library of reusable react components? how many are you able to reuse from the past project which is reusable 
+Please provide the repository of your code from  next.js  to showcase your experience. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Designer, Developer 
+ Published by:  J. C. Last reply: 4 months ago  Singapore 
+ USD 1,000 - 3,000 
+ Previous 
+ Next 
+ 
+ Home 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

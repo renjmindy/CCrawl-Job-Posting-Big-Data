@@ -1,0 +1,247 @@
+Loading.... 
+ LOGIN     SIGN UP 
+ 
+ 
+ Hire Experts 
+ Find Work 
+ How it Works 
+ About Us 
+ Blog 
+ 
+ 
+ SIGN UP! 
+ Before you proceed to sign up, 
+Please select one of the following! 
+ I want to Hire 
+ 
+ --OR-- 
+ I want to Work as an 
+ 
+ 
+ 
+ Home 
+ » 
+ Freelance Jobs 
+ » 
+ Database 
+ 
+ Project Results 
+ By Job Category 
+ 
+ All  (548) 
+ IT & Programming  (205) 
+ Graphic Design & Multimedia  (73) 
+ Writing, Content & Translation  (136) 
+ Data Entry & Admin  (45) 
+ Sales & Marketing  (44) 
+ Customer Service  (6) 
+ Finance & Accounting  (15) 
+ Others  (24) 
+ 
+ By Budget (INR) 
+ 
+ All  (548) 
+ Less than 5000 Rs.   (170) 
+ Between 5,000 - 20,000 Rs.   (145) 
+ Between 20,000 - 50,000 Rs.   (65) 
+ Between 50,000 - 100,000 Rs.   (33) 
+ Greater than 100,000 Rs.   (30) 
+ Not Sure  (105) 
+ 
+ By Project Type 
+ 
+ All  (548) 
+ Featured  (31) 
+ Full Time  (5) 
+ 
+ By Time Left 
+ 
+ Any 
+ Less than 24 hours left 
+ Less than 3 days left 
+ Less than 7 days left 
+ 
+ By Posted Date 
+ 
+ Any 
+ Posted within 24 hours 
+ Posted within 3 days 
+ Posted within 7days 
+ Posted within 14 days 
+ Posted within 30 days 
+ 
+ By Status 
+ 
+ Any 
+ Hiring Open 
+ 
+ Search Job 
+ Database Jobs 
+ ( showing 1 - 7 of 7 results ) 
+ Database 
+ Clear 
+ Get Project Updates 
+ PAGE 1 OF 1 
+ SORT BY Sort by Job Name Budget(High) Budget(Low) Time Left(High) Time Left(Low) 
+ Looking for freelance entrepreneurs 
+ FIXED PRICE : Greater than 100,000 Rs.   Mobile Applications  Posted: 3 days ago Ends: 01st Mar 2021  3 Proposals 
+ Hello All, We've launched our cricket fantasy application and we are looking for some Individuals or team of entrepreneurs who can work with us on revenue basis. We are looking for mean stack developer, designer,... 
+ Hello All, We've launched our cricket fantasy application and we are looking for some Individuals or team of entrepreneurs who can work with us on revenue basis. We are looking for mean stack developer, designer, Android or IOS Developer who can Work individually and take ownership and help to grow the application aggressively. Looking forward to hear from you guys and start building our futures. 
+ Skills:  Python ,  Database ,  CodeIgniter ,  API ,  Android 
+ Client:  chandan.prasad  ,  India 
+ To build up LMS WEBSITE/APPLICATION 
+ FIXED PRICE : 20,000 - 50,000 Rs.   Software Project Management  Posted: 10th Jan 2021 Ends: 24th Feb 2021  26 Proposals 
+ 1. 3 dashboard A. students b. Teachers c. Administration 2. Login with OTP & password as well. 3. Students registration (online), teacher registration ( offline & online), freeze button, profile hide mode,... 
+ 1. 3 dashboard A. students b. Teachers c. Administration 2. Login with OTP & password as well. 3. Students registration (online), teacher registration ( offline & online), freeze button, profile hide mode, content approval button 4.coupon code, sponsored id management, 5. Total Subscription management, Lesson management, 6. Teacher n student both are mapped with department according to semester or year wise academic programs. **DEPARTMENT---> XXXX----> SEMESTER / YEAR----->SUBJECT-----> UNIT NAME / CHAPTER NAME. 7. Group discussions :: only for subscription taken students 8. Talk to the Educator 9. Content cannot be downloaded externally, screen shot taken from webapp. 10. Once contents are download to the dashboard, in order to view the contents authorization required through OTP. 11. ONLINE EXAMINATION FACILITIES ACCORDING TO NATIONAL LEVEL AGENCY MODULE. 12. 
+ Skills:  Embedded System ,  Python ,  Database ,  CRM ,  API 
+ Client:  saikat59 
+ Dashboard with API dev 
+ FIXED PRICE : 5,000 - 20,000 Rs.   Application Interface Design  Posted: 04th Jan 2021 Ends: 18th Feb 2021  9 Proposals 
+ Please only make a bid if you have done this before. Prefer to have MEAN skills but LAMP is fine. There will be limited users within an org and there will be a predefined menu to chose objectives and goals. API will pull... 
+ Please only make a bid if you have done this before. Prefer to have MEAN skills but LAMP is fine. There will be limited users within an org and there will be a predefined menu to chose objectives and goals. API will pull data from existing systems to map against these goals. The dashboard must be secure, modular (stackable with features), Data/security is important besides just SSL as it will handle sensitive data. 
+ Skills:  JavaScript ,  Data Modeling ,  Database ,  PHP ,  C++ 
+ Client:  bwcommerce  ,  India 
+ Web Design  
+ FIXED PRICE : 50,000 - 100,000 Rs.   Website Design  Posted: 31st Dec 2020 Ends: 14th Feb 2021  26 Proposals 
+ Responsibilities: Develop both print and electronic collateral materials, including general marketing and industry specific brochures, as well as reference materials produced in conjunction with other departments Execu... 
+ Responsibilities: Develop both print and electronic collateral materials, including general marketing and industry specific brochures, as well as reference materials produced in conjunction with other departments Execute routine graphic design projects, such as briefing documents, internal communications and newsletter, event invitations, rankings, and one-pagers Assist in the process of taking staff photos in-house Utilize technical skills to edit and prepare internal photography, as needed, across both print and online platform 
+ Skills:  JavaScript ,  HTML ,  Database ,  CSS ,  Cisco 
+ Client:  momav 
+ Shipping web application development - SpringBoot, Java, Bootstrap HTML/CSS 
+ FIXED PRICE : Less than 5000 Rs.   Website Programming  Posted: 13th Dec 2020 Ends: 27th Jan 2021  14 Proposals 
+ Hi, I need to develop a simple Java SpringBoot based web application that can have the below features:- 1. Admin dashboard: use to create shipment packages and enter package details. Once the package is created, a ... 
+ Hi, I need to develop a simple Java SpringBoot based web application that can have the below features:- 1. Admin dashboard: use to create shipment packages and enter package details. Once the package is created, a unique 6 digits package ID should be generated. In this admin dashboard, there should also be an option to add scans for the package by selecting the package ID. 2. Homescreen/welcome page: here we can see the company details, a login for the admin dashboard, an option to track the package by entering the package id. The welcome page should look professional. I have the icon that will be used and would be similar to bluedart.in but fewer details and links. I already have started the application dev and have created a skeleton using maven. I need someone to complete the application. I was someone who has good UI design knowledge too. The budget is fixed at 5k. 
+ Skills:  Database ,  J2EE ,  Java ,  JavaScript ,  jQuery 
+ Client:  sourabh2812  ,  India 
+ IT JOBS 
+ FIXED PRICE : 50,000 - 100,000 Rs.   Website Programming  Posted: 10th Dec 2020 Ends: 24th Jan 2021  7 Proposals 
+ May be responsible for the purchase and installation of hardware/software Coordinates resources to solve problems. Learning and applying basic knowledge in one skill area Develops solutions to routine technical pro... 
+ May be responsible for the purchase and installation of hardware/software Coordinates resources to solve problems. Learning and applying basic knowledge in one skill area Develops solutions to routine technical problems of limited scope. * Work is closely supervised. * Follows specific, detailed instructions May be assigned to small projects or to phase(s) of larger projects. * Contributes to the completion of routine technical tasks Qualifications include: Education High School/College/Vocational Training in Information Technology Specialized knowledge Fluent in Sage X3, or similar ERP platforms Fluent in EDI MS Access, ODBC, queries, report writing Understanding of electronic inventory processing 
+ Skills:  Content Management System (CMS) ,  Database ,  HTML ,  MySQL ,  AJAX 
+ Client:  fohic 
+ Need Full Stack Web Developer & Programmer cum Project Manager 
+ FIXED PRICE : Less than 5000 Rs.   Website Project Management  Posted: 14th May 2020 Ends: 31st Mar 2021  26 Proposals 
+ I Need Full Stack Web Developer & Programmer for an upcoming project. The project is still in discovery phase so need someone highly knowledgeable to drive the entire process from scratch and build a team of competen... 
+ I Need Full Stack Web Developer & Programmer for an upcoming project. The project is still in discovery phase so need someone highly knowledgeable to drive the entire process from scratch and build a team of competent people with right skillset as might be needed. The ideal candidate will be more of an all rounder with knowledge and working experience in web development, programming, latest web technologies and managing web development projects. Further details will be provided to the shortlisted applicants. 
+ Skills:  CakePHP ,  CodeIgniter ,  ColdFusion ,  Database ,  JavaScript 
+ Client:  ajittomar  ,  India 
+ Next 
+ NAVIGATE 
+ How it Works 
+ Fees & Pricing 
+Register 
+ Blog 
+ Help 
+ Contact Us 
+ FIND FREELANCERS BY EXPERTISE 
+ 
+ 
+ 
+ Developers & Programmers 
+ 
+ PHP Developers 
+ 
+ 
+ 
+ 
+  Graphic Designers 
+ 
+ Photoshop Experts 
+ 
+ 
+ Article Writers 
+ 
+ Creative Writing 
+ 
+ 
+ Data Entry & Admin 
+ 
+ MS Excel Consultants 
+ 
+ 
+ Sales & Marketing 
+ 
+ Internet Marketing 
+ 
+ 
+ Accountants & Legal 
+ 
+ Finance Consultant 
+ 
+ 
+ 
+ FIND FREELANCERS BY LOCATION 
+ 
+ 
+ 
+ Freelancers In India 
+ 
+ Freelancers In New Delhi 
+ 
+ 
+ 
+ 
+ Freelancers in Noida 
+ 
+ Freelancers in Hyderabad 
+ 
+ 
+ Freelancers in Mumbai 
+ 
+ Freelancers in Jaipur 
+ 
+ 
+  Freelancers in Kolkata 
+ 
+  Freelancers in Bhopal 
+ 
+ 
+ Freelancers in Bangalore 
+ 
+ Freelancers in Punjab 
+ 
+ 
+ Freelancers In Ahmedabad 
+ 
+ Freelancers In Chennai 
+ 
+ 
+ 
+ LOOKING FOR FREELANCING JOBS? 
+ 
+ 
+ 
+ Fresher Jobs 
+ Part Time Jobs 
+ IT Jobs 
+ Work from Home Jobs 
+ Online Jobs 
+ 
+ 
+ 
+ 
+ Web Design Jobs 
+ Technical Writing Jobs 
+ Freelance Writing Jobs 
+ Accounting Jobs 
+ Legal Jobs 
+ 
+ 
+ Mobile Development Jobs 
+ Data Entry Jobs 
+ Game Development Jobs 
+ Photography Jobs 
+ Medical Writing Jobs 
+ 
+ 
+ AutoCAD and 3D Jobs 
+ HR Jobs 
+ SEO & Marketing Jobs 
+ Corporate Trainer Jobs 
+ Web Development Jobs 
+ 
+ 
+ 
+       
+ Copyright (C) 2012-2020   WorknHire Technologies Pvt. Ltd. . All Rights Reserved. 
+ To Top 

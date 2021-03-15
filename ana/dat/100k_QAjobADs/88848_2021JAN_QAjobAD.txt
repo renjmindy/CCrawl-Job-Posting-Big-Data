@@ -1,0 +1,6 @@
+ Qualifications 
+ 5+ years of relevant experience 
+ Proficient in Scala 
+ Experience in API integrations 
+ Experience with Docker and managing AWS cloud infrastructure deployments 
+ Experience setting up network and troubleshooting network issues, and strong knowledge of VPN, AWS VPC, DNS, network interfaces 

@@ -1,0 +1,103 @@
+  
+ What:  job title, keywords or skills 
+ Where:  country, city or area 
+ 
+  HOME  
+ REGISTER 
+ SEARCH 
+ LOGIN 
+ BROWSE 
+ DIRECTORY 
+ INFO 
+ CONTACT 
+ 
+ Job Highlights 
+ 
+ Location:  Uxbridge, England 
+ Rate:  £75000 - £85000 per annum + + £6.7K Car Allowance, 15% bonu 
+ Type:  Permanent 
+ 
+ This job has been posted for more than 30 working days and has expired. 
+ Data Engineer Team Lead 
+ The role involves technical leadership and accountability for the delivery of technical solutions to implement the company's data strategy, including new data services to process data at scale, both in batch and real-time pipelines, to support a wide range of data-driven projects and support our transformation into an AI-ready organisation. 
+ , Technical Leadership 
+o Align the business strategy with the technical strategy for your product team 
+o Be accountable for the architecture of data platform, data services and products and ensure that it is aligned with the broader technology strategy 
+o To coach & mentor your data engineers, encouraging best practices, standards and continuous improvement of practices & processes 
+ , Line Management 
+o Support, coach and develop high performing engineers through regular 1:1s, setting & tracking objectives, managing performance and supporting the development of individual team members 
+o Be responsible for the overall engagement of your data engineers, ensuring that each individual is aware of the strategy and goals 
+o Ensure that your team is resourced appropriately and be accountable for recruitment of engineers within your team, preparing job descriptions, conducting telephone & face to face interviews and onboarding new hires 
+ , Data Engineering 
+o Leverage your experience and skills to assist your team in establishing the best architecture for our Snowflake-based, from ingestion of new feeds, to the transformation and delivery of data products to business stakeholders, as well as the delivery of data processing pipelines and services for other products to consume in our real-time data platform. 
+o Liaise with tech leads from all product teams to standardise our data engineering tech stack, establishing best practices and developing generic software components that can be adopted in multiple projects 
+o Liaise with Data Science and Business Intelligence leads to identify requirements and develop the necessary data solutions to deliver against those requirements 
+o Extreme programming practices - notably pair programming and test-driven development 
+o Build, support and maintain automated, fault-tolerant, scalable products and solutions that are continuously delivered into our production environment 
+o Be technically curious, tackling problems without giving up, and producing solutions that less-experienced engineers can use, maintain, and learn from 
+o Have a sense of being part of a larger whole with a desire to establish best practices & standards and to continuously improve the discipline of product engineering 
+ , Essential Skills: 
+o Comfortable with using a variety of frameworks, languages & tools and able to pick up new skills when the need arises 
+o Strong experience in Java 8+ with Maven & Spring, JUnit 
+o Experience with Python and familiarity with machine learning 
+o Relational databases such as SQL Server, PostgreSQL, Amazon RDS. 
+ Experience with Snowflake a plus. 
+o Experience batch processing frameworks, preferably familiarity with DBT, Apache Airflow/Spring DataFlow, Metaflow, or similar 
+o Experience with message brokers and stream processing technologies (Kinesis, Kafka, Flink) 
+o AWS, Jenkins, Docker & Kubernetes, ElasticSearch & Kibana, Grafana & Prometheus 
+o Reading & Writing Code, Debugging & Troubleshooting, IDE & OS Basics, Test Driven Development, Pair Programming, Clean Code & Refactoring, Version Control, CI / CD, Algorithms & Data Structures, DI/ IoC, Mocks & Stubs, Alerting & Monitoring, Functional & Non-Functional Testing, SOLID Principles, Containerisation & Networking Basics, Solution Architecture 
+ You will have line management responsibilities of 5-8 data engineers and will influence how the data engineering technology budget is spent. 
+ This Data Engineer Team Lead role is based in Uxbridge (remote working) and pays c£75-85K base + £6.7K Car Allowance, 15% bonus + bens. 
+ 
+ 
+ Start:  ASAP 
+ 
+ 
+ Rate:  £75000 - £85000 per annum + + £6.7K Car Allowance, 15% bonu 
+ 
+ 
+ Location:  Uxbridge, England 
+ 
+ 
+ Type:  Permanent 
+ 
+ 
+ Industry:  IT 
+ 
+ 
+ Recruiter:  Definitive 
+ 
+ 
+ Tel:  01895 457 455 
+ 
+ 
+ Email:  to view click here 
+ 
+ 
+ Posted:  2020-11-14 10:06:59 - 
+ 
+ 
+ View all Jobs from Definitive  
+ 
+ 
+ 
+ More Jobs from Definitive 
+ 
+ DevOps Engineer 
+ Site Reliability Engineer - SRE 
+ Senior Java Software Engineer  
+ Tech Lead 
+ Data Engineering Tech Lead 
+ Data Engineering Tech Lead 
+ DevOps Engineer 
+ Java Software Engineer 
+ Junior Data Engineer 
+ Tech Lead 
+ Data Engineering Tech Lead 
+ Data Engineer 
+ Data Scientist 
+ Senior Java Developer 
+ Principal Software Engineer 
+ 
+ Terms of Use  |  Login  |  Register  |  RSS Feed 
+ Copyright (C) 2001-2021 Forgroup Internet Limited. All Rights Reserved. 

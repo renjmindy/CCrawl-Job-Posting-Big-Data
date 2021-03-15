@@ -1,0 +1,58 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Manage Account 
+ Integrations 
+ Sourcing 
+ 
+ Integrating with hackajob 
+ Anastasia 
+ 
+ July 10, 2020 01:27 
+ Updated 
+ 
+ Follow 
+ Super Admins 
+ All plans 
+ Hackajob  is a sourcing platform that was created to revolutionize tech recruitment. It allows companies to publish tech jobs and attract candidates with the specified skill set. Candidates can create their profile in hackajob in minutes, highlighting their expertise and expectations. 
+ When you integrate Workable and hackajob, candidates from hackajob can be imported to a relevant job in Workable. 
+ 
+ Setting up the integration 
+ In your Workable account: 
+ 
+ Click your profile icon in the upper right, click on Settings and navigate to  Integrations 
+ Locate hackajob in the list of **sourcing  **integrations and click on it 
+ Click  Generate Token  and  copy   to clipboard  the long string of numbers and letters 
+ 
+ In your hackajob account: 
+ 
+ Navigate to your   hackajob settings page 
+ Paste the partner token in the API Key field in the  Workable integration settings 
+ Click  Connect 
+ 
+ 
+ Configure jobs & stages in hackajob: 
+ After enabling the integration, a green "Connected" status will be indicated and the "Configure The Integration" button will appear: 
+ Click this button in order to match each of your hackajob roles with Workable jobs, along with the pipeline stages between hackajob and Workable. 
+ 
+ Using the integration 
+ To export a candidate to Workable, start by clicking  Export profile  option on the candidate profile. Then schedule an interview with the candidate via hackajob. When both these actions have been completed, the candidate will be exported to Workable, to a stage that corresponds to hackajob's  'Phone Interview - 1st Round' stage according to your settings. 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ 
+ Was this helpful? 
+ 1 out of 2 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ Integrating with Devskiller 
+ Integrating with Snap.hr 
+ Integrating with HireSweet 
+ Integrating with AngelList  
+ Integrating with Totaljobs 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 

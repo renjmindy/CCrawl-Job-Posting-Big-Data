@@ -1,0 +1,93 @@
+ WORKLOAD AUTOMATION COMMUNITY  
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 
+ What's new in the Workload Automation portfolio. 
+ We're always working on building new features and improving existing ones. 
+Here's where you can learn about all of our changes. 
+ Automatic evaluation of critical jobs at risk 
+ 12/18/2020 
+ 9.5.0.3 
+ DWC 
+ Engine 
+ 
+ You can now set the riskConfidence optman key to obtain an automatic evaluation of the risk level for a critical job. 
+If the probability of completing the critical job before the deadline is below the level you set for the riskConfidence key, the critical job is considered at high risk. The calculation is performed by comparing the confidence factor of completing before deadline and the percentage specified in this parameter. 
+For more information, see the  Global options - detailed description  section in the Administration Guide. 
+ 
+ Comments are closed. 
+ | 
+ Categories 
+ All 
+ 9.5.0 
+ 9.5.0.1 
+ 9.5.0.2 
+ 9.5.0.3 
+ Dwc 
+ Engine 
+ Mainframe 
+ On-cloud 
+ On-cloud 
+ On-premise 
+ On-premise 
+ ---|--- 
+ www.hcltechsw.com 
+ | 
+ **About HCL Software  ** 
+HCL Software is a division of HCL Technologies (HCL) that operates its primary software business. It develops, markets, sells, and supports over 20 product families in the areas of DevSecOps, Automation, Digital Solutions, Data Management, Marketing and Commerce, and Mainframes. HCL Software has offices and labs around the world to serve thousands of customers. Its mission is to drive ultimate customer success with their IT investments through relentless innovation of its products. For more information, To know more  please visit  www.hcltechsw.com .  Copyright (C) 2019 HCL Technologies Limited 
+ ---|--- 
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 

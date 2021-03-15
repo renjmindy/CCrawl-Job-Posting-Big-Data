@@ -1,0 +1,49 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ CodeStream (W18) 
+ CodeStream is a Developer Collaboration Platform designed to radically improve Communication, Integration and Transparency 
+ Full Stack Engineer 
+ 
+ Location 
+ New york, NY / Remote 
+ Job Type 
+ Internship 
+ Experience 
+ About CodeStream 
+ CodeStream's IDE plugins take the pain out of code reviews. With one command, request feedback on a snapshot of your repo, including uncommitted & unpushed code, allowing you to verify that your work-in-progress is on the right track. (You can also do it the old-fashioned way by committing & pushing at the end of your dev sprint, of course) 
+ About the role 
+ Skills:  CSS, HTML, React, TypeScript 
+ Looking for developers to build developer collaboration into popular IDEs using React/Redux, Node, Mongo and AWS. As with most startups the role requires enthusiastic, bright, motivated individuals who can take projects from conception to completion. Our team has NYC roots, with half the employees working from an office there, and half working remotely, so you may come into the NY office if that's convenient, otherwise work from home. 
+ Technology 
+ React/Redux PubNub Mongo AWS Node 
+ Other jobs at CodeStream 
+ Full Stack Engineer 
+ intern 
+ New york, NY / Remote 
+ Full Stack 
+ Sophomore and above 
+ Full-stack Engineer 
+ fulltime 
+ 119 W 24th St, 4th Fl NYC, NY 10011 / Remote 
+ Full Stack 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 3+ years 
+ Social Media Producer (Part-Time) 
+ contract 
+ Remote 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

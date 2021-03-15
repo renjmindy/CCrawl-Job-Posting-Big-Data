@@ -1,0 +1,6 @@
+ Job Description & Qualifications 
+ 3-5 years of experience with Craft 2 and 3 
+ Proficiency with HTML/CSS using Bootstrap 
+ Experience with Javascript and JQuery framework 
+ Previous experience with maintenance of existing Craft 2 and 3 sites 
+ Familiarity with PHP/MySQL will be helpful 

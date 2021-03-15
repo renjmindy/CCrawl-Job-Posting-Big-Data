@@ -1,0 +1,186 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ UI Standards Developer - Senior Software Engineer 
+ FACTSET 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ UI Standards Developer - Senior Software Engineer 
+ FACTSET 
+ [](mailto:?subject=UI%20Standards%20Developer%20%2D%20Senior%20Software%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14258233/ui-standards-developer-senior-software-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 3, 2021 
+ Location: 
+ London, United Kingdom 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ UI Standards Developer - Senior Software Engineer 
+ The Research Solutions SBU is focused on innovating the foundation of FactSet's product offering. By marrying robust content, intuitive applications, and innovative technology, we defend and grow our footprint across several key user classes including investment banking, sell-side research, buy-side research, private equity, portfolio managers, traders, capital markets, investor relations, and media. This SBU contains Core Applications (Universal Screening, Company & Security Analytics, Industry and Markets, Filings, Ownership, Research, News, Charting) and our industry leading RMS suite. The SBU closely partners with the Content and Platform Horizontals on strategy for FactSet Web, Mobile, and much of FactSet's content offering. 
+ UI Standards is a shared infrastructure team focused on providing developers the tools to create modern and consistent user interfaces for their applications. FactSet is looking for a talented software engineer to join Research Solutions and participate as a contributing member to the UI standards team. This team member will play a critical role in accelerating time-to-market on key SBU strategies by partnering with our application development teams to understand and assist with their needs. 
+ Projects worked on by the UI Standards team: 
+ 
+ Influence and contribute to FactSet's current and next generation of UI standards 
+ Implement interfaces in Angular.js and Vue.js 
+ Contribute to components, grids (tables), and charting technology 
+ 
+ In this role you will: 
+ 
+ Lead the engineering design, development, and release of key UI components 
+ Influence FactSet's UI standards and design 
+ Keep up to date and act as a leader on Typescript, Vue.js, Angular.js, and their related ecosystems 
+ Strategically explore open-source opportunities to improve our workflows 
+ Foster awareness of the UI Standards team processes, tools, and roadmap within Research 
+ Collaborate with Research stakeholders to understand and prioritize their needs 
+ 
+ Over time, you will find opportunities to impact the larger FactSet engineering community. For example, by working with the Web Guidance Group or other cross-team working groups, you will have visibility into how FactSet's teams make decisions and the ability to present your perspective. 
+ Required Skills: 
+ 
+ Bachelor's degree in Computer Science, a related technical field or equivalent experience 
+ 3 year of experience working professionally as a Software Developer building web applications 
+ A passion to provide value by enabling other developers 
+ Experience using JavaScript, TypeScript and a modern web framework such as Vue or React 
+ 
+ Highly Desired Skills: 
+ 
+ Experience with TypeScript, Vue.js, Angular.js, AWS and creating UI components 
+ Experience with Scrum, Kanban or Agile software development in general 
+ Experience working with or contributing to open source 
+ 
+ 
+ 
+ Internal Number: 9660929 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at FACTSET 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Java Technical Lead 
+ __  Glasgow, United Kingdom 
+ 
+ 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ Appl. Arch & Develop VP - 
+ __  Raleigh, North Carolina 
+ 
+ 
+ Credit Suisse 
+ __1 Week Ago 
+ 
+ 
+ Appl. Arch & Develop AVP - 
+ __  Raleigh, North Carolina 
+ 
+ 
+ Credit Suisse 
+ __1 Week Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

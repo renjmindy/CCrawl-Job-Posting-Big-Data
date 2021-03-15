@@ -1,0 +1,388 @@
+Azimuth 
+ 
+ Home 
+ About 
+ 
+ Postdocs in Categories and Chemistry 
+ 24 February, 2020 
+ 
+ The University of Southern Denmark wants to hire several postdocs who will use category theory to design enzymes. This sounds like a wonderful job for people who like programming, chemistry and categories--and especially  double pushout rewriting . The application deadline is 20 March 2020. The project is described  here  and the official job announcement is  here . 
+ I've seen Christoph Flamm, Daniel Merkle, Peter Sadler give  talks on this project in Luxembourg , and it's really fascinating. They're using double pushout rewriting (as shown in the picture above) and other categorical techniques to design sequences of chemical reactions that accomplish desired tasks. 
+ Let me quote a bit from the job announcement: 
+ 
+ Several two-year postdoc positions starting 1 July 2020 are available at the University of Southern Denmark (SDU) for research on an exciting project in algorithmic cheminformatics supported by the Novo Nordisk Foundation:  “From Category Theory to Enzyme Design - Unleashing the Potential of Computational Systems Chemistry” . We are seeking highly motivated individuals with a PhD in computer science, computational chemistry/biochemistry, or related areas. The ideal candidate has familiarity with several of the following areas: concurrency theory, graph transformation, algorithmics, algorithm engineering, systems chemistry, systems biology, metabolic engineering, or enzyme design. Solid competences in programming and ease with formal thinking are prerequisites. 
+ The project is based on the novel application of formalisms, algorithms, and computational methods from computer science to questions in systems biology and systems chemistry. We aim to expand these methods and their formal foundations, create efficient algorithms and implementations of them, and use these implementations for research in understanding the catalytic chemistry of enzymes. 
+ The Algorithmic Cheminformatics group at the Department of Mathematics and Computer Science at SDU offers a dynamic research environment, comprising two full professors, an assistant professor, and several students. The project includes partnerships with Harvard Medical School (Department of Systems Biology) and the University of Vienna (Institute for Theoretical Chemistry), who will host the postdoctoral researcher for extended visits. 
+ The research group is located at the main campus of SDU, which is located in Odense, the third largest town in Denmark, 1:20 hours by train west of Copenhagen. Denmark is known for its high standards of living, free health care, and competitive salaries. Applicants from outside Denmark are eligible for substantial tax reductions. 
+ For further information contact Professor Daniel Merkle (e-mail: daniel@imada.sdu.dk, phone: +45 6550 2322). 
+ 
+ Here's a bit from the project description. (There's much more  here .) 
+ 
+ The proposed project builds on a new and powerful methodology that strikes a balance between chemical detail and computational efficiency. The approach lies at the intersection of classical chemistry, present-day systems chemistry and biology, computer science, and category theory. It adapts techniques from the analysis of actual (mechanistic) causality in concurrency theory to the chemical and biological setting. Because of this blend of intellectual and technical influences, we name the approach computational systems chemistry (CSC). The term “computational” emphasizes both the deployment of computational tools in the service of practical applications and of theoretical concepts at the foundation of computation in support of reasoning and understanding. The goal of this exploratory project is to provide a proof-of-concept toward the long-term goal of tackling many significant questions in large and combinatorially complex CRNs that could not be addressed by other means. In particular, CSC shows promise for generating new technological ideas through theoretical rigor. This exploratory project is to be considered as initial steps towards establishing this highly promising area through the following specific objectives: 
+ • Integrate and unify algorithmic ideas and best practices from two existing platforms. One platform was conceived, designed, and implemented for organic chemistry by the lead PI and his group in Denmark as well as the chemistry partner from University of Vienna. The other platform draws on the theory of concurrency and was designed and implemented for protein- protein interaction networks supporting cellular signaling and decision-making processes by the partner from Harvard Medical School and his collaborators. The combination is ripe with potential synergies as both platforms are formally rooted in category theory. 
+ • Demonstrate a proof-of-concept (PoC) using a biochemical driving project. The goal of this exploratory project is the analysis and design of enzymes whose catalytic site is viewed as a small (catalytic) reaction network in its own right. Such enzymes can then be used in the design of reaction networks. 
+ • Train the next generation of scientists for CSC: This will enable the transition towards a large-scale implementation of our approaches to tackle key societal challenges, such as the development of personalized medicine, the monitoring of pollution, and the achievement of a more environmentally friendly and sustainable network of industrial synthesis. 
+ We argue that CSC is in a position today similar to where bioinformatics and computational biology were a few decades ago and that it has similarly huge potential. The long-term vision is to unleash that potential. 
+ 
+ Leave a Comment »  |   chemistry ,  jobs ,  mathematics  |   Permalink 
+Posted by John Baez 
+ 
+ Postdoc in Applied Category Theory 
+ 8 September, 2017 
+ guest post by  Spencer Breiner 
+ One Year Postdoc Position at Carnegie Mellon/NIST 
+ We are seeking an early-career researcher with a background in category theory, functional programming and/or electrical engineering for a one-year post-doctoral position supported by an Early-concept Grant (EAGER) from the NSF's Systems Science program. The position will be managed through Carnegie Mellon University (PI: Eswaran Subrahmanian), but the position itself will be located at the US National Institute for Standards and Technology (NIST), located in Gaithersburg, Maryland outside of Washington, DC. 
+ The project aims to develop a compositional semantics for electrical networks which is suitable for system prediction, analysis and control. This work will extend existing methods for linear circuits (featured on this blog!) to include (i) probabilistic estimates of future consumption and (ii) top-down incentives for load management. We will model a multi-layered system of such "distributed energy resources" including loads and generators (e.g., solar array vs. power plant), different types of resource aggregation (e.g., apartment to apartment building), and across several time scales. We hope to demonstrate that such a system can balance local load and generation in order to minimize expected instability at higher levels of the electrical grid. 
+ This post is available full-time (40 hours/5 days per week) for 12 months, and can begin as early as October 1st. 
+ For more information on this position, please contact Dr. Eswaran Subrahmanian (sub@cmu.edu) or Dr. Spencer Breiner (spencer.breiner@nist.gov). 
+ Leave a Comment »  |   computer science ,  energy ,  engineering ,  jobs ,  mathematics  |   Permalink 
+Posted by John Baez 
+ 
+ Jobs at U.C. Riverside 
+ 30 March, 2017 
+ The Mathematics Department of the University of California at Riverside is trying to hire some visiting assistant professors. We plan to make decisions quite soon! 
+ The positions are open to applicants who have PhD or will have a PhD by the beginning of the term from all research areas in mathematics. The teaching load is six courses per year (i.e. 2 per quarter). In addition to teaching, the applicants will be responsible for attending advanced seminars and working on research projects. 
+ This is initially a one-year appointment, and with successful annual teaching review, it is renewable for up to a third year term. 
+ For more details, including how to apply, go here: 
+ https://www.mathjobs.org/jobs/jobs/10162 
+ Leave a Comment »  |   jobs  |   Permalink 
+Posted by John Baez 
+ 
+ Tipping Points in Climate Systems 
+ 4 March, 2013 
+ If you've just recently gotten a PhD, you can get paid to spend a week this summer studying tipping points in climate systems! 
+ They're having a program on this at  ICERM : the Institute for Computational and Experimental Research in Mathematics, in Providence, Rhode Island. It's happening from July 15th to 19th, 2013. But you have to apply soon, by the 15th of March! 
+ For details, see below. But first, a word about tipping points… in case you haven't thought about them much. 
+ Tipping Points 
+ A  tipping point  occurs when adjusting some parameter of a system causes it to transition abruptly to a new state. The term refers to a well-known example: as you push more and more on a glass of water, it gradually leans over further until you reach the point where it suddenly falls over. Another familiar example is pushing on a light switch until it ‘flips’ and the light turns on. 
+ In the Earth’s climate, a number of tipping points could cause abrupt climate change: 
+ [ 
+ ](http://www.pnas.org/content/105/6/1786.long) 
+ (Click to enlarge.) They include: 
+ • Loss of Arctic sea ice. 
+• Melting of the Greenland ice sheet. 
+• Melting of the West Antarctic ice sheet. 
+• Permafrost and tundra loss, leading to the release of methane. 
+• Boreal forest dieback. 
+• Amazon rainforest dieback 
+• West African monsoon shift. 
+• Indian monsoon chaotic multistability. 
+• Change in El Niño amplitude or frequency. 
+• Change in formation of Atlantic deep water. 
+• Change in the formation of Antarctic bottom water. 
+ You can read about them here: 
+ • T. M. Lenton, H. Held, E. Kriegler, J. W. Hall, W. Lucht, S. Rahmstorf, and H. J. Schellnhuber,  Tipping elements in the Earth's climate system ,  Proceedings of the National Academy of Sciences   105  (2008), 1786-1793. 
+ Mathematicians are getting interested in how to predict when we'll hit a tipping point: 
+ • Peter Ashwin, Sebastian Wieczorek and Renato Vitolo,  Tipping points in open systems: bifurcation, noise-induced and rate-dependent examples in the climate system ,  Phil. Trans. Roy. Soc. A   370  (2012), 1166-1184. 
+ 
+ Abstract:  Tipping points associated with bifurcations (B-tipping) or induced by noise (N-tipping) are recognized mechanisms that may potentially lead to sudden climate change. We focus here a novel class of tipping points, where a sufficiently rapid change to an input or parameter of a system may cause the system to "tip" or move away from a branch of attractors. Such rate-dependent tipping, or R-tipping, need not be associated with either bifurcations or noise. We present an example of all three types of tipping in a simple global energy balance model of the climate system, illustrating the possibility of dangerous rates of change even in the absence of noise and of bifurcations in the underlying quasi-static system. 
+ 
+ We can test out these theories using actual data: 
+ • J. Thompson and J. Sieber,  Predicting climate tipping points as a noisy bifurcation: a review ,  International Journal of Chaos and Bifurcation   21  (2011), 399-423. 
+ 
+ Abstract:  There is currently much interest in examining climatic tipping points, to see if it is feasible to predict them in advance. Using techniques from bifurcation theory, recent work looks for a slowing down of the intrinsic transient responses, which is predicted to occur before an instability is encountered. This is done, for example, by determining the short-term auto-correlation coefﬁcient ARC in a sliding window of the time series: this stability coefﬁcient should increase to unity at tipping. Such studies have been made both on climatic computer models and on real paleoclimate data preceding ancient tipping events. The latter employ re-constituted time-series provided by ice cores, sediments, etc, and seek to establish whether the actual tipping could have been accurately predicted in advance. One such example is the end of the Younger Dryas event, about 11,500 years ago, when the Arctic warmed by 7 C in 50 years. A second gives an excellent prediction for the end of ’greenhouse’ Earth about 34 million years ago when the climate tipped from a tropical state into an icehouse state, using data from tropical Paciﬁc sediment cores. This prediction science is very young, but some encouraging results are already being obtained. Future analyses will clearly need to embrace both real data from improved monitoring instruments, and simulation data generated from increasingly sophisticated predictive models. 
+ 
+ The next paper is interesting because it studies tipping points  experimentally  by manipulating a lake. Doing this lets us study another important question:  when can you push a system back to its original state after it 's already tipped? 
+ • S. R. Carpenter, J. J. Cole, M. L. Pace, R. Batt, W. A. Brock, T. Cline, J. Coloso, J. R. Hodgson, J. F. Kitchell, D. A. Seekell, L. Smith, and B. Weidel,  Early warnings of regime shifts: a whole-ecosystem experiment ,  Nature   332  (2011), 1079-1082. 
+ 
+ Abstract:  Catastrophic ecological regime shifts may be announced in advance by statistical early-warning signals such as slowing return rates from perturbation and rising variance. The theoretical background for these indicators is rich but real-world tests are rare, especially for whole ecosystems. We tested the hypothesis that these statistics would be early-warning signals for an experimentally induced regime shift in an aquatic food web. We gradually added top predators to a lake over three years to destabilize its food web. An adjacent lake was monitored simultaneously as a reference ecosystem. Warning signals of a regime shift were evident in the manipulated lake during reorganization of the food web more than a year before the food web transition was complete, corroborating theory for leading indicators of ecological regime shifts. 
+ 
+ IdeaLab program 
+ If you're seriously interested in this stuff, and you recently got a PhD, you should apply to  IdeaLab 2013 , which is a program happening at ICERM from the 15th to the 19th of July, 2013. Here's the deal: 
+ 
+ The Idea-Lab invites 20 early career researchers (postdoctoral candidates and assistant professors) to ICERM for a week during the summer. The program will start with brief participant presentations on their research interests in order to build a common understanding of the breadth and depth of expertise. Throughout the week, organizers or visiting researchers will give comprehensive overviews of their research topics. Organizers will create smaller teams of participants who will discuss, in depth, these research questions, obstacles, and possible solutions. At the end of the week, the teams will prepare presentations on the problems at hand and ideas for solutions. These will be shared with a broad audience including invited program officers from funding agencies. 
+ Two Research Project Topics: 
+ • Tipping Points in Climate Systems ( MPE2013  program) 
+ • Towards Efficient Homomorphic Encryption 
+ IdeaLab Funding Includes: 
+ • Travel support 
+ • Six nights accommodations 
+ • Meal allowance 
+ The Application Process: 
+ IdeaLab applicants should be at an early stage of their post-PhD career. Applications for the 2013 IdeaLab are being accepted through  MathPrograms.org . 
+ Application materials will be reviewed beginning March 15, 2013. 
+ 
+ 17 Comments  |   climate ,  jobs  |   Permalink 
+Posted by John Baez 
+ 
+ I'm Looking For Good Math Grad Students 
+ 11 December, 2012 
+ I am looking for hardworking math grad students who: 
+ 
+ 
+ know some category theory and ideally a bit of 2-category theory, 
+ 
+ 
+ know some mathematical physics, stochastic processes and/or Bayesian network theory, and 
+ 
+ 
+ want to apply these ideas to subjects like chemistry, biology, ecology and climate science. 
+ 
+ 
+ If this is you, please email me and/or apply to the math Ph.D. program at U.C. Riverside. To apply,  follow the directions here . For more information,  go here .  The deadline is January 5th . 
+ We have very little money for foreign students, so this advertisement is mainly for students from the US and especially California. If you want to work with me, mention my name in your application. 
+ I can't promise to work with you, of course, until you're accepted and I get to know you and decide we can work well together! Luckily there are  other good professors  in the department doing other interesting things. 
+ I urge would-be students to come to my seminar, which meets once a week, and also my special sessions where we work on projects, which currently also occur once a week. I'll pick students from among people who do these things. Right now there are 6 candidates. I can't take this many new students every year, so I'll pick the ones who show the most initiative and promise. 
+ I'm working on  network theory  and  information theory , and I'm also getting started on  climate physics , especially glacial cycles. You can decide if these topics interest you by clicking on the links. I'm not taking students who want to do thesis work on my old interests (quantum gravity and n-categories). 
+ The U.C.R. math building looks 2-dimensional in this shot, but I promise you'll get a well-rounded education if you work with me. 
+ 1 Comment  |   azimuth ,  jobs ,  mathematics  |   Permalink 
+Posted by John Baez 
+ 
+ Graduate Program in Biostatistics 
+ 7 November, 2012 
+ Are you an undergrad who likes math and biology and wants a good grad program? This one sounds really interesting. The ad I bumped into is focused on minority applicants, maybe because U.C. Riverside is packed with students whose skin ain't pale. But I'd say  biostatistics  is a good career even if you have the misfortune of needing high-SPF sunscreen: 
+ 
+ The Department of Biostatistics, which administers PhD training at the Harvard School of Public Health, seeks outstanding minority applicants for its graduate programs in Biostatistics. 
+ Biostatistics is an excellent career choice for students interested in mathematics applied to real world problems. The current data explosion is contributing to the rising stature of, and demand for biostatisticians, as noted in the  New York Times  : 
+ 
+ I keep saying that the sexy job in the next 10 years will be statisticians … and I’m not kidding. 
+ 
+ To date, Biostatistics has not been successful in attracting qualified minority students, particularly African Americans. Students best suited for careers in Biostatistics are those with strong mathematical abilities, combined with interests in health and biology. Unfortunately, statistics is not widely taught at the undergraduate level, and many potentially excellent candidates simply do not learn about the possibility of a valuable and fulfilling career in Biostatistics. Many minority students who could thrive in a Biostatistics program choose instead to enter medical school. Public health in general, and Biostatistics in particular, are not even considered as options. We would like your help in identifying qualified students before they make their choices regarding graduate school or other career paths. 
+ All doctoral students accepted in our department are guaranteed full tuition and stipend support throughout their program, as long as they are making satisfactory progress towards the PhD degree. Every effort is made to meet the individual needs of each student, and to insure the successful completion of graduate work. 
+ The web site for prospective students is  here . 
+ Please note the deadline for submitting applications to the MA and PhD programs for entry in the fall of 2013 is December 15, 2012. 
+ We look forward to answering any questions you may have. Questions about our graduate programs can be directed to Jelena Follweiller, at jtillots@hsph.harvard.edu. 
+ 
+ Leave a Comment »  |   biology ,  jobs  |   Permalink 
+Posted by John Baez 
+ 
+ Bioremediation and Ecological Restoration Job 
+ 23 October, 2011 
+ The University of Texas - Pan American (UTPA) Department of Biology is trying to fill an Assistant Professor Faculty position in Bioremediation and Ecological Restoration, which will start in Fall 2012 pending budget approval. They're looking for someone whose area of research is bioremediation and/or ecological restoration, and they're especially interested in candidates whose research focuses on environmental issues relevant to the Lower Rio Grande Valley. 
+ For more details, go  here . 
+ 
+ 
+ Leave a Comment »  |   biodiversity ,  jobs  |   Permalink 
+Posted by John Baez 
+ 
+ NSF Funding for Research in Asia 
+ 15 September, 2011 
+ The National Science Foundation has a program called EAPSI, which stands for East Asia and Pacific Summer Institutes. This is a program where US grad students are supported to participate in 8-week research experiences at laboratories in Australia, China, Korea, New Zealand, Singapore, Taiwan and Japan (where you actually get 10 weeks). It runs from June to August. The program provides a $5,000 summer stipend, round-trip airfare to the host location, living expenses abroad, and an introduction to the society, culture, language, and research environment of the host location. 
+ Sounds cool, huh? 
+ The application for the summer of 2012 is now open. It will close at 5:00 pm proposer’s local time on November 9, 2011. Application instructions are available online  here . For further information concerning benefits, eligibility, and tips on applying, go  here  or  here . 
+ Since there's a good chance I'll be here at the  Centre for Quantum Technologies  in Singapore for the summer of 2012, I'd love it if you could apply to this program and get a fellowship to work with me. However, I have  no idea  if this is actually possible! I just learned about this program five minutes ago, and I've told you everything I know about it. 
+ Anyway, it sounds like a good thing. I believe the 21st century is the century of Asia. If you're a grad student in any sort of science, you want to get in on that. 
+ Leave a Comment »  |   jobs  |   Permalink 
+Posted by John Baez 
+ 
+ Environment and Sustainability Institute 
+ 30 March, 2011 
+ My friend John Barrett pointed out that the  Environmental and Sustainability Institute  at Exeter has jobs for mathematicians and statisticians who "combine research expertise in areas such as computational statistics, data modelling, system dynamics, control, optimization and/or computation with vision and innovation so as to transform research across the environment and sustainability agenda". 
+ I got his email today; the deadline has already passed, but maybe you can slip under the wire: 
+ 
+ Professor in Applied Mathematics/Statistics 
+ Ref: R10168 
+ Deadline: 21/03/2011 
+ Location: Environment and Sustainability Institute, College of Engineering, Mathematics and Physical Sciences, University of Exeter, Tremough Campus (Cornwall). 
+ Salary: by negotiation, generous holiday allowances, flexible working, pension scheme, car lease scheme and relocation package. 
+ We are taking a unique opportunity to create a world-leading, interdisciplinary centre investigating the consequences of environmental change and the mitigation and management of its effects. Building on the existing academic strengths of the University of Exeter, the 30 million pound Environment and Sustainability Institute (ESI) will focus on undertaking significant cutting-edge research in finding solutions to problems of environmental change, and the application of an ecosystem services approach. There will be three major themes: Clean technologies, Natural environment, and Social science. The initiative is funded with a 22.9 million pound investment from the European Regional Development Fund and 6.6 million pounds from the South West of England Regional Development Agency. 
+ We are looking for research leaders in Applied Mathematics and/or Statistics who will combine research expertise in areas such as computational statistics, data modelling, system dynamics, control, optimization and/or computation with vision and innovation so as to transform research across the environment and sustainability agenda. Applicants will have a strong track record of research funding and international quality publications, together with proven ability in teaching and curriculum development. 
+ Applicants are encouraged to contact the Dean of the College, Prof Ken Evans to discuss the posts further. Informal enquiries can be made to Prof Peter Ashwin You may also wish to consult  our web site  for further details of the College. 
+ The full range of necessary skills and experience can be found in the  Job Description and Person Specification document . 
+ Your full academic CV should be accompanied by a short letter of application explaining why you are interested in the post. 
+ For further information about the Environment and Sustainability Institute visit  our website . 
+ The University of Exeter is an equal opportunity employer which is 'Positive About Disabled People'. Whilst all applicants will be judged on merit alone, we particularly welcome applications from groups currently under-represented in the workforce. 
+ 
+ 19 Comments  |   jobs  |   Permalink 
+Posted by John Baez 
+ 
+ Summer Program on Climate Software 
+ 3 March, 2011 
+ Here's a great opportunity if you're a student looking for something to do this summer. The  Climate Code Foundation  is working on open-source versions of important climate software. If you're lucky, you could get paid to help! 
+ • Climate Code Foundation,  Google Summer of Code . 
+ It seems the window for student applications is  March 28-April 8 . 
+ They write: 
+ 
+ Google have announced  their Summer of Code , and we intend to be a mentoring organisation. If you're a student, this is an opportunity to work on our open source code and earn a bit of money doing so (Google give a stipend of USD 5000 qualifying students, and an honorarium of USD 500 to the mentoring organisation). 
+ We have an  ideas page , most of which revolves around our  ccc-gistemp  project. Ideas range from improving ccc-gistemp in various ways, through novel reconstructions, to clear implementations of other climate codes. If you have ideas of your own, we'd like to hear about those too. 
+ If you are interested in participating as a student, then  please get in touch . 
+ We have not been a Summer of Code mentor before, but we bring many years (decades even!) of experience to the table: experience in computer science, software engineering, project management, and so on. We hope to help students make a success of their projects! 
+ 
+ In case you're wondering,  ccc-gistemp  is a version of GISTEMP written in Python. 
+ Isn't it annoying how explaining one mysterious word can require two more? In case you're  still  wondering:  Python  is a really groovy modern programming language, in comparison to older ones like FORTRAN--and  GISTEMP  is an important computer program, mostly written in FORTRAN, which NASA uses to analyze the historical temperature record. GISTEMP is what gives us graphs like this: 
+ [ 
+ ](http://data.giss.nasa.gov/gistemp/graphs/) 
+ So, it's very important to update this program and search the existing program for bugs--and that's what the Climate Code Foundation is doing: 
+ 
+ The “all Python” milestone was achieved with ccc-gistemp release 0.2.0 on 2010-01-11. Naturally we have found (minor) bugs while doing this, but nothing else. Since 0.2.0 we have made major simplifications, chiefly by removing dependencies, and generally processing data internally (by avoiding writing it to intermediate files, which was only necessary on computers that would be considered extremely memory constrained by today’s standards). 
+ Work continue on further simplification, clarification, generalisation, and extension. 
+ 
+ Hone your programming skills while helping save the planet! 
+ 2 Comments  |   climate ,  jobs  |   Permalink 
+Posted by John Baez 
+ 
+ « Previous Entries 
+ 
+ 
+ You are currently browsing the archives for the jobs category. 
+ 
+ 
+ latest posts: 
+ 
+ Open Systems: A Double Categorical Perspective (Part 3) 
+ US Environmental Policy (Part 3) 
+ Categories of Nets (Part 2) 
+ Categories of Nets (Part 1) 
+ This Week's Finds (1-50) 
+ CP Violation 
+ Applied Category Theory 2021 -- Adjoint School 
+ Cosmic Censorship 
+ Solar Neutrinos 
+ Neutrino Puzzles (Part 2) 
+ 
+ 
+ 
+ latest comments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Toby Bartels  on  Open Systems: A Double Categor… 
+ 
+ 
+ 
+ 
+ 
+ John Baez  on  Open Systems: A Double Categor… 
+ 
+ 
+ 
+ Toby Bartels  on  Open Systems: A Double Categor… 
+ 
+ 
+ 
+ John Baez  on  The SPARC Fusion Reactor 
+ 
+ 
+ Keith Harbaugh on  The SPARC Fusion Reactor 
+ 
+ 
+ 
+ Maarten Havinga on  US Environmental Policy (Part… 
+ 
+ 
+ 
+ 
+ [Science Advisor 
+ Gö…](https://rjlipton.wordpress.com/2021/01/21/science-advisor/) on  Categories of Nets (Part … 
+ 
+ 
+ 
+ [Science Advisor 
+ Gö…](https://rjlipton.wordpress.com/2021/01/21/science-advisor/) on  US Environmental Policy (Part… 
+ 
+ 
+ 
+ Wyrd Smythe  on  US Environmental Policy (Part… 
+ 
+ 
+ 
+ Glen Alleman  on  US Environmental Policy (Part… 
+ 
+ 
+ 
+ 
+ 
+ How To Write Math Here: 
+ 
+ 
+ You can  include math in your comments using LaTeX , but you need to do it this way: 
+ $latex E = mc^2$ 
+ You need the word 'latex' right after the first dollar sign, and it needs a space after it. Double dollar signs don't work, and other limitations apply, some described  here . You can't preview comments here, but I'm happy to fix errors. 
+ 
+ 
+ Read Posts On: 
+ 
+ art  (3) 
+ astronomy  (27) 
+ azimuth  (60) 
+ biodiversity  (37) 
+ biology  (103) 
+ carbon emissions  (73) 
+ chemistry  (70) 
+ climate  (153) 
+ computer science  (43) 
+ conferences  (75) 
+ culture  (4) 
+ economics  (29) 
+ energy  (46) 
+ engineering  (7) 
+ game theory  (29) 
+ geography  (3) 
+ health  (4) 
+ history  (2) 
+ information and entropy  (85) 
+ jobs  (11) 
+ journals  (4) 
+ mathematics  (454) 
+ networks  (180) 
+ oceans  (13) 
+ physics  (177) 
+ probability  (86) 
+ psychology  (6) 
+ publishing  (19) 
+ puzzles  (13) 
+ quantum technologies  (28) 
+ questions  (3) 
+ risks  (46) 
+ seminars  (20) 
+ software  (19) 
+ strategies  (34) 
+ sustainability  (65) 
+ the practice of science  (27) 
+ this week's finds  (18) 
+ 
+ 
+ 
+ also visit these: 
+ 
+ Azimuth Blog Overview 
+ Azimuth Project 
+ Bit Tooth Energy 
+ Brave New Climate 
+ Do the Math 
+ Dot Earth 
+ Environment 360 
+ Planet3.0 
+ RealClimate 
+ Serendipity 
+ The Science of Doom 
+ Yale Environment 360 
+ 
+ 
+ 
+ RSS feeds: 
+ 
+ 
+   RSS - Posts 
+   RSS - Comments 
+ 
+ 
+ Email Subscription: 
+ 
+ 
+ Enter your email address to subscribe to this blog and receive notifications of new posts by email. 
+ Join 5,077 other followers 
+ Email Address: 
+ Sign me up! 
+ 
+ 
+ SEARCH: 
+ 
+ 
+ Search 
+ 
+ 
+ Blog Stats: 
+ 
+ 3,878,209 hits 
+ 
+ 
+ 
+ Blog at WordPress.com. 
+  Azimuth  
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 

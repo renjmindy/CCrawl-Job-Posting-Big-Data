@@ -1,0 +1,228 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Tech Lead, Clojure 
+ [ 
+ WeFarm 
+ ](/companies/wefarm) 
+ 
+ Remote 
+ 06 January, 2021 
+ Apply More jobs from WeFarm About WeFarm 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ Clojure 
+ Docker 
+ KUBERNETES 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Team lunches 
+ Daily stand up 
+ Stock options 
+ Casual dress 
+ Stocked kitchen 
+ Training 
+ Diversity dedicated staff 
+ Parental leave 
+ 25 days holiday 
+ Bike friendly 
+ Laptop 
+ 
+ Enables farmers to share and access information using Clojure! 
+ Role overview 
+ About Us 
+ Wefarm is the world’s largest platform  connecting the small-scale farming community  🌾Millions of farmers, retailers, and brands come together on Wefarm to grow their businesses 🚜 
+ Small-scale farming is one of the largest and most important industries in the world, with over one billion people globally involved in it 🌍We’re working towards connecting this community  so small-scale farmers can gain a better position in global agricultural supply chains.  Some of the world’s leading VCs are backing us on this mission, including True Ventures in Silicon Valley. 
+ Since our launch in 2015,  we’ve grown to serve over two million farmers  across Kenya, Uganda, and Tanzania. Our platform has facilitated the (free) exchange of over 18 million messages to share knowledge, generated over $5 million in marketplace sales, and sold nearly half a million products. 
+ So far, we’ve partnered with 100+ brands to give our members fair prices on the quality products they are looking for. 
+ Our next milestone is to have  100 million farmers  benefiting from Wefarm 📈Join us and be part of our mission to build an ecosystem for global agriculture, with the farmer at the centre.. 
+ The Role 
+ Operating at the cross-section between technical feasibility, business viability and user value,  the Tech Lead is a pivotal role for Wefarm's product development workflow . You operate within a cross-functional squad and work very closely with a Product Manager and Designer to make sure we're solving challenges that will bring the greatest value to our members. You help design tests that give us the data we need to bring learnings into our scalable solutions and are held accountable for the success of the technology and the quality of the engineering behind the products being developed. You propose innovative solutions, help steer the squad to the most impactful solutions and work with the other Engineers to drive their implementation, maintenance and support. 
+ You will be held accountable for the success of the technology  and the quality of the engineering behind the products being developed and focuses on the following outcomes 
+ Outcome 1: Sound technical direction within the squad 
+ 
+ Helps steer the squad to the most impactful technical solutions ☸️ 
+ Ensures engineers are aligning behind our culture and principles 
+ Makes sure the technical design is simple and scalable 📈 
+ Works with the other Engineers to drive rapid delivery 
+ Clearly communicate needs and ideas 🗣️ 
+ 
+ Outcome 2: Squad goals are achieved through: 
+ 
+ Ensuring everyone in the squad understands the priorities 
+ Setting clear goals on a daily basis 
+ Empowering the team to work efficiently, reducing friction and blockers 
+ Optimising the skills of the squad to bring the most impact 
+ Helps design tests that give the data we need to bring learnings into our scalable solutions 
+ 
+ Job requirements 
+ You should apply if you 
+ 
+ Are driven to create the most innovative, impactful products and get them into the hands of our members 
+ Have extensive experience in a leadership role within a cross-functional team in an Agile environment 
+ Coach and mentor engineers, helping them realise and achieve their goals 
+ Understand how to use data to inform key product and technical decisions 
+ Have a bias towards delivery 
+ Are comfortable working in an environment of rapid growth, constant change, and uncertainty 
+ Bring a positive energy to your team and a passion for tech-for-good, and improving other people’s lives 
+ Are proficient in Clojure, Kafka, relational databases and developing web applications 
+ Design simple, effective and scalable solutions 
+ Communicate and articulate yourself effectively 
+ Can accurately assess the effort involved in a task and/or know how to break it down into smaller more measurable steps 
+ Coordinate with technical leadership outside of the squad to ensure a sound holistic approach to the efficiency and scalability of the entire Wefarm platform 
+ Assess and control risks in your project 
+ Are a problem solver 
+ Believe Lego should be shared 
+ 
+ This isn't for you if 
+ 
+ You can't operate without top-down direction. You'll be expected to determine the highest impact areas to work on, collaborating with your product squad and manager to ensure there's alignment. 
+ You bring an oversized ego. Our decisions focus on what is right, not who is right. 
+ Or if you're not comfortable with ambiguity, don't have speed as a habit or are uncomfortable with changing org structures and squads every 6 months (at least) 
+ You aren't able to align behind Wefarm's culture and values 
+ 
+ Equal Opportunity Statement 
+ At Wefarm, we’re building a place where everyone belongs and can add value, regardless of their background - and our team is no different. We’re working hard to create a diverse and inclusive culture where we take inspiration from different experiences, backgrounds and ways of thinking. If you share our values and enthusiasm for connecting the world’s small-scale farmers, you may be a great fit for Wefarm. 
+ 
+ [ 
+ WeFarm 
+ ](/companies/wefarm) 
+ 
+ 
+ 10-49 
+ 
+ 
+ London, United Kingdom 
+ 
+ 
+ Over 1 billion smallholder farmers produce 80% of the world's food, and four of the five most traded commodities on earth, yet the vast majority lack access to the internet and even basic information to help them solve problems or share ideas. No one has built a platform for these farmers. Until Wefarm. Wefarm is already the world’s largest farmer-to-farmer digital network, with more than 1 million farmers using our ecosystem in Kenya and Uganda alone. Our farmers share more than 40,000 questions and answers every day. Farmers connect with one another to solve problems, share ideas, and spread innovation, for free, and without needing an internet connection (Wefarm works even through SMS). Utilising the latest machine learning technology, Wefarm’s service gets bespoke, crowd- sourced information to help farmers increase yields, gain insight into pricing, tackle the effects of climate change, source the best quality seeds, fertiliser, and loans and diversify their agricultural interests. With the smallholder global agricultural market valued at over 400 billion USD, our vision is to create a digital online/ offline ecosystem for global smallholder agriculture. WeFarm has won Google’s prestigious Impact Challenge Award, the MEFFYS Award for Innovation in Technology, the Messaging and SMS World Awards’ Best SMS Solution, Business Rocks’ Global Startup Pitch Battle, Chivas Regal’s The Venture Competition’s UK prize, and 2nd place in their Global final and the European Union Commission’s Ideas from Europe Prize. 
+ Technology Seed AWS Code Quality Code Reviews KUBERNETES Team Lunches Daily Stand Up 
+ View 2 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from WeFarm About WeFarm 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ Clojure 
+ Docker 
+ KUBERNETES 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Team lunches 
+ Daily stand up 
+ Stock options 
+ Casual dress 
+ Stocked kitchen 
+ Training 
+ Diversity dedicated staff 
+ Parental leave 
+ 25 days holiday 
+ Bike friendly 
+ Laptop 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Clojure EngineerCompetitiveWeFarmUnited Kingdom 
+ Enables farmers to share and access information using Clojure! 
+ Remote 
+ aws clojure clojurescript docker kubernetes 
+ More Info Apply 
+ System's EngineerCompetitiveAndalusUnited Arab Emirates 
+ Design, build, and maintain the core data computation infrastructure used by data scientists 
+ Remote 
+ aws ansible docker kubernetes spark 
+ More Info Apply 
+ Senior/Principal Software EngineerCompetitiveBarracudaUnited States of America 
+ Solve interesting problems facing a data retention and search SaaS product operating at a large scale. 
+ Remote 
+ aws clojure docker elasticsearch javascript kubernetes kafka react 
+ More Info Apply 
+ Tech Lead, Clojure 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

@@ -1,0 +1,179 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ React Front End Developer 
+ Peerceptiv 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ React Front End Developer 
+ Peerceptiv 
+ [](mailto:?subject=React%20Front%20End%20Developer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14247936/react-front-end-developer/ "Email")  
+ Application 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 27, 2020 
+ Location: 
+ Pittsburgh, Pennsylvania 
+ __ Show Map 
+ Type: 
+ Full Time - Experienced 
+ Preferred Education: 
+ 4 Year Degree 
+ Peerceptiv, a leader in collaborative learning technologies, is looking for a Pittsburgh-based Front  **** End Developer who wants to have a real impact in the lives of instructors and students. 
+ Peerceptiv is moving from a legacy application to a modern web app, and is seeking an experienced React programmer to be the main developer of the front end. Responsibilities will include needs analysis, prototyping & design, coding, QA/QC, and web deployment. 
+ The ideal candidate is one who wants real influence in the development of the technology and its strategic direction. Developers aren’t siloed in repetitive activities at Peerceptiv, and have exceptional authority and autonomy over their work. You’ll not only see the direct impact your contributions have in the finished work product, but also be a key player in a fast-growing, early stage company. 
+ We anticipate responsibilities growing to match the strengths of the successful candidate, ideally having the position transition over time from a Front End concentration to more of a Full Stack development role. 
+ The Peerceptiv team collaborates using tools like Zoom, Slack and Jira, with the work taking place both at Peerceptiv’s office in the East Liberty section of Pittsburgh and remotely. 
+ You must be legally authorized to work in the United States without the need for employer sponsorship. 
+ Please reply with resume and cover letter to  info@peerceptiv.com , and preferably a link to your Github repository. 
+ 
+ Required background includes: 
+ 
+ A minimum 2 years experience working with React.js, including Redux, React Hooks and Context API 
+ CSS 
+ HTML 
+ Java 
+ General JavaScript and jQuery 
+ Experience with responsive design 
+ Experience designing for RESTful services 
+ 
+ These skills would be an added benefit: 
+ 
+ Spring 
+ AWS 
+ Agile/Scrum 
+ Jest/other JS unit testing 
+ 
+ 
+ NOTES: 
+ Additional Salary Information: Compensation is competitive and includes stock option equity participation, with excellent health benefits. 
+  __  Create a Job Alert for Similar Jobs  
+ About Peerceptiv 
+ Peerceptiv is a leader in collaborative learning technologies, improving learning outcomes in a wide range of K-12 and post-secondary applications. Peerceptiv helps engage students and scale learning more effectively, improving writing and critical thinking skills across the curriculum. 
+ Connections working at Peerceptiv 
+ More Jobs Like This 
+ 
+ 
+ 
+ Software Engineering - Java 
+ __  Glasgow, United Kingdom 
+ 
+ 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ Senior Software Engineer - Workplace Ops & Productivity 
+ __  New York, New York 
+ 
+ 
+ Bloomberg 
+ __Today 
+ 
+ 
+ UBS-SUPER IT Frontend Developer (React JavaScript) (12 month Contract) 
+ __  Singapore, Singapore 
+ 
+ 
+ UBS 
+ __Yesterday 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

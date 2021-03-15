@@ -1,0 +1,6 @@
+ Qualifications 
+ Post-Secondary Degree in Computing Science or related discipline 
+ Minimum 3 years experience as Java or C# programmer 
+ Minimum 2 years experience with relational databases and SQL 
+ Minimum 2 years experience with Javascript, Node.js, React, Vue, Angular or similar framework; 
+ Optional/Preferences 

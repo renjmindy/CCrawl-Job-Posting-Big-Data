@@ -1,0 +1,70 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Prelim (S17) 
+ Prelim is simplifying the go-to-market digital originations process for banks, helping banks help people. 
+ Product/UX Designer 
+ 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Prelim 
+ Prelim is simplifying the go-to-market digital originations process for banks, helping banks help people. 
+ Banks spend billions of dollars on one-size fits all solutions to originate their products. When banks want to do something as simple as change copy, or add a new set of questions, banks are forced to either pay per hour, seek out a new vendor, or build it themselves. 
+ This makes banks inflexible to respond to changing market needs, sometimes forcing banks to post a pdf on their website just to get something live. This occurred at some of the largest banks in the United States when trying to roll out the Paycheck Protection Program. 
+ Our templates, drag and drop integrations, and no-code form builder allow banks to quickly deploy in days, not years, with significantly lower costs and higher quality. 
+ About the role 
+ We're hiring our first few employees! You'll be part of our very small team, having an outsized impact on the product. 
+ You will: 
+ 
+ Craft every detail of new product features, from idea to UX to pixel-perfect execution. 
+ Partner closely with our sales team to understand what users need, want, and love about Prelim. Use this data to plan and scope our product roadmap. 
+ Create design systems that are simple to understand but help us to move faster as we scale. 
+ If you can: polish each feature in code. (We love to hire designers who can code so there's no back-and-forth handoff with engineering — this helps us move fast!) 
+ 
+ You may be a fit for this role if you: 
+ 
+ Can create pixel-perfect visual designs (UI) 
+ Can untangle hard conceptual problems and have sharp intuition for how people use (or wish they could use) products (UX) 
+ Care about the business needs, implications, and possibilities of your designs. You don't get stuck on pretty UI, and can balance between craft, speed and the bottom line. 
+ Hold yourself and others to a high bar and sweat the small UX stuff 
+ Are self-­aware, have a positive attitude, a sense of humor, and are empathetic. 
+ 
+ Technology 
+ We primarily use React, Node.js, and Postgres. 
+ Other jobs at Prelim 
+ Product/UX Designer 
+ fulltime 
+ Remote 
+ UI / UX 
+ Any (new grads ok) 
+ Backend Engineer 
+ fulltime 
+ Remote 
+ Backend 
+ Any (new grads ok) 
+ Frontend Engineer 
+ fulltime 
+ Remote 
+ Frontend 
+ Any (new grads ok) 
+ Account Executive 
+ fulltime 
+ Remote 
+ Any (new grads ok) 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

@@ -1,0 +1,58 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Gem (S17) 
+ The platform for modern recruiting. 
+ Software Engineer 
+ 
+ Location 
+ San Francisco, CA 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Gem 
+ Gem is building the platform for modern recruiting. Our software empowers recruiters to source and engage with candidates at scale, and gives talent leaders analytics and end-to-end visibility into the recruiting funnel. Our customers are savvy recruiting teams from industry-leading companies — like Slack, Pinterest, and Bridgewater — who understand that getting the best talent in the market is key to maintaining their competitive advantage. 
+ Backed by Accel and Y Combinator, Gem has gotten enormous traction since we began going to market in 2018. We’ve doubled our team and tripled our ARR from $1 million to $3 million just in the first nine months this year. 
+ About the role 
+ Skills:  Python 
+ Gem’s mission is to enable companies to build relationships with top talent. Gone are the days when recruiting teams relied on inbound applications. The best companies are proactively engaging with talent months or even years before they’re ready to interview. Gem powers this new wave of recruiting by helping everyone involved in recruiting coordinate and work better together. 
+ Our engineering team is focused on our customers and prioritizes velocity. We would rather iterate on a new feature in collaboration with a trusted customer than develop functionality in isolation from end users. Although changing priorities can be thrashy, we attribute our current success to our responsiveness to the needs of our customers. 
+ Our technology stack is configured with velocity in mind. GraphQL, AWS, and Python are just a few of the technologies we use to enable velocity. Reliability and consistency are also very important to us. We sync millions of emails, resumes, and applications and rely on that information to inform our customers (has anyone on the team reached out to this person?) and services (should we send a follow-up email?). 
+ Read more about our company values:  https://blog.gem.com/what-its-like-to-work-at-gem  Responsibilities Build features that make recruiting teams feel super-powered 
+Collaborate with teammates to identify solutions with the right trade-offs Participate in code and design reviews Work closely with sales to understand customer pain points and opportunities for features and improvements Build infrastructure to handle metadata for millions of candidates 
+ Technology 
+ Our technology stack is configured with velocity in mind. GraphQL, AWS, and Python are just a few of the technologies we use to enable velocity. Reliability and consistency are also very important to us. 
+ Other jobs at Gem 
+ Software Engineer - Summer 2021 Internship 
+ fulltime 
+ San Francisco, CA, USA 
+ Full Stack 
+ Any (new grads ok) 
+ People Operations Manager 
+ fulltime 
+ San Francisco, CA, USA 
+ 6+ years 
+ Software Engineer - UI 
+ fulltime 
+ San Francisco, CA, USA 
+ Frontend 
+ 3+ years 
+ Software Engineer 
+ fulltime 
+ San Francisco, CA 
+ Full Stack 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

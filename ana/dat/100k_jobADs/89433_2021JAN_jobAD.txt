@@ -1,0 +1,337 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Game Programming 
+ 
+ Game Programming Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Game programmer ? 
+ ](https://www.workana.com/hire/game-programming) 
+ 4 months ago 
+ Game Programming 
+ Published: 4 months ago  Bids: 0 
+ I will need a Programmer and help me to make a successful and one big big game and I do want to be a Game dev but I don't know how to code all I know is to 3D model 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Large 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Published by:  I. C. Philippines 
+ Less than USD 50 
+ 4 months ago 
+ Candell's game palace 
+ Published: 4 months ago  Bids: 1 
+ Español:necesito un programador que me ayude con un juego que hemos estado programando 
+Requisitos: 
+-que programe bien en game maker recomendablemente el 1 
+ English: I need a programmer to help me with a game that we have been programming Requirements: -that program well in game maker recommended on 1 
+ Category  : IT & Programming 
+ Subcategory  : Desktop apps 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.) 
+ Required platforms  : Windows 
+ Published by:  B. L. Chile 
+ USD 50 - 100 
+ 5 months ago 
+ Develop a 3d visualisation (C# (Unity software) 
+ Published: 5 months ago  Deadline: 10 Bids: 2 
+ Design and implement in software and in the 3D package a simulation of a physical system. The 3D package provides prefabs for a cannon, a cannonball, stones blocks, and a target  reticule.set  up the cannon to fire the cannonball at a stone wall to knock it down. The distance between the wall and the cannon and the force of the shot must be such that we can see the trajectory and a definite arc in the trajectory. 
+Before firing the ball, the target reticule must be placed where the ball will land. To do this a ballistic calculation must be done to determine the place the ball will land. All motion must be created using the physics engine. 
+Direct manipulation of the GameObject’s transform is forbidden except for setup. The demonstration of this must be presented in a manner that clearly shows what the simulation/visualization can do and that it is your work. 
+Add a few more features as below Some possibilities are: 
+• Creating a rough terrain for the cannon and stone wall to sit on. 
+ • Making it a 2 player game, knocking over each other’s wall. 
+• Creating other environmental conditions such as wind that affect the ball's trajectory. 
+• Performing analysis of the visualization, such as the accuracy of the ballistics prediction. 
+ • Create a scoring system. 
+• Allow the player to make a ballistic prediction before the computer’s prediction is made. 
+• Etc… 
+ I will Provide a  skeleton client application within which you will write your own code that implements this visualization. 
+ You must implement this solution in C# and Unity. You will be provided with all source, header, and resource files needed to compile the provided skeleton application. To this, you will add your own source code and 3D objects and the environment. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  M. T. I. Last reply: 5 months ago  Australia 
+ USD 50 - 100 
+ 5 months ago 
+ Android games development for Financial Literacy + Rpg app 
+ Published: 5 months ago  Deadline: 19 Bids: 2 
+ We are looking for an Android developer with previous experience in developing a quiz game with a mix of role playing games and card elements. 
+ "Imagine Duo-lingo with a mix of Monopoly elements." 
+ In your proposal, please share a brief summary of your experience and tell us about a recent Android project, ideally one currently available in the market. We can share the Game Design Document if you are shortlisted. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Game 
+ Similar apps  : Other 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  A. R. B. M. A. Malaysia 
+ USD 1,000 - 3,000 
+ 6 months ago 
+ World of Warcraft legion private server 
+ Published: 6 months ago  Bids: 0 
+ It's a world of warcraft emulation project based on the legion expansion. I'm looking for developers that are really good in c++ and mysql and that are familiar with trinitycore that can fix bugs and improve the server to be more blizzlike. I also need help to make the map extractors work correctly. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Large 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Published by:  C. W. Sweden 
+ USD 500 - 1,000 
+ 6 months ago 
+ Buildbox version 2 Reskinning Project 
+ Published: 6 months ago  Deadline: 10 Bids: 1 
+ I want someone who can reskin an entire game made in BuildBox 2. There is no specific design that you need to follow, you have to come up with an interesting design yourself. There are 25 levels and around 200 png images/ assets that need to be redesigned but not all of them. 
+Your BuildBox 2 should not be the cracked version. Actual bbdoc file will be shared when the project will be personally allocated. I have attached mindmap, a demo video, and the images showing the graphics in the project. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : Android 
+ I need to  : Modify an existing app 
+ App type  : Game 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  S. K. Last reply: 6 months ago  United Kingdom 
+ USD 50 - 100 
+ 7 months ago 
+ Buildbox version 2 Reskinning project 
+ Published: 7 months ago  Deadline: 7 Bids: 1 
+ I have a game made in BuildBox version 2 and I want someone who can reskin the entire project. I have shared the mind map and a demo video showing how the project is setup. There is no specific design that you have to follow you have to come up with an interesting design yourself. 
+ Most importantly, your BuildBox version 2 should not be the cracked version. Actual bbdoc file will be shared when the project is personally allocated. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : Android, Other 
+ I need to  : Modify an existing app 
+ App type  : Game 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  S. K. Last reply: 6 months ago  United Kingdom 
+ Less than USD 50 
+ Next 
+ 
+ 1 
+ 2 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

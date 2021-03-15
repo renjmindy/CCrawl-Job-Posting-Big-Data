@@ -1,0 +1,153 @@
+ WORKLOAD AUTOMATION COMMUNITY  
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 
+ GUI or CLI? Get the best of both in your Job Scheduling console 
+ 5/29/2017 
+  0 Comments  
+ If you are someone that uses job scheduling software, you'll probably appreciate the importance of "keeping things under control." 
+ IBM Workload Scheduler  (aka TWS) - offered as both SaaS and on-premises solutions - provides a revolutionary method to monitor your scheduling environment in the quickest way! 
+ 
+ Do you love command line interfaces because you can write complex commands in a short time? 
+ Or do you hate command line interfaces because you keep forgetting the million commands and parameters you can use? 
+ Do you hate GUIs because you need to click a lot to do something? 
+ Or do you love GUIs because they're simple to use? 
+ 
+ ​If you have replied yes to one or more of these questions, the functionality that we are going to explore will be amazing for you. 
+ The "Monitor Workload" is a hybrid user interface that combines a command line interface (CLI) with a graphical user interface (GUI) to monitor IBM Workload Automation objects from IBM Dynamic Workload Console, the web interface component of IBM Workload Scheduler. 
+ Wait, wait. a hybrid-what? What are you talking about?A hybrid CLI-GUI interface! 
+ If you are an experienced user of IBM     Workload Scheduler on-premises offering, you'll probably know what  **  conman **  is: a CLI to monitor Workload Scheduler objects. Conman offers a lot of filters and parameters to look into your scheduling environment and, if you are an experienced user, conman could be a very powerful tool for you! 
+ Now you have this capability,  empowered  with other tools, offered also from the web console. 
+ So, do I need to learn this new syntax before using it..Absolutely not! Using it is simpler than writing this post! 
+You can type your own queries or create them using a graphical user interface that shows you all the parameters you can use. 
+ CLI and GUI are   always synchronized . Do you want to monitor all jobs that completed successfully? Just click on a check box and the parameter will be reported in real time in the query string. Do you want to add a new parameter in the query to monitor all jobs that start with the letter B? This is also easy! You will see the GUI filled in automatically. 
+ If you dent know anything about CLI syntax, dent worry! By using the GUI, a correct query is automatically generated, so even novice users can learn the syntax - without even realizing it - and discover some tricky ways to speed up the day-by-day work. 
+ If you are not interested in the text query, just ignore it and continue using the GUI, but bear in mind that you can do really cool stuff with it, for example copy and paste the text query and send it to a colleague via email or chat: he will be able to see your same results! 
+ Give it a try and let me know what you think about it. Share your thoughts below! 
+​ 
+ | 
+ | 
+ Francesco Brillante 
+Software Engineer 
+Workload Automation 
+Connect with me on Twitter  @brillanteNA 
+Follow the  Transparent Development Community ! 
+ ---|--- 
+ 
+ Francesco is a Software Engineer and Scrum Master experienced in full-stack web development and design. He has worked in the Workload Automation area since 2013 and is currently based in the HCL Products and Platforms Rome software development laboratory. He comes from southern Italy and is a pizza expert, rock music lover, JavaScript geek and SSC Napoli supporter! 
+ 
+  0 Comments  
+ Your comment will be posted after it is approved. 
+ Leave a Reply. 
+ Archives 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ Categories 
+ All 
+ Analytics 
+ Business Applications 
+ Cloud 
+ DevOps 
+ Monitoring & Reporting 
+  RSS Feed  
+ www.hcltechsw.com 
+ | 
+ **About HCL Software  ** 
+HCL Software is a division of HCL Technologies (HCL) that operates its primary software business. It develops, markets, sells, and supports over 20 product families in the areas of DevSecOps, Automation, Digital Solutions, Data Management, Marketing and Commerce, and Mainframes. HCL Software has offices and labs around the world to serve thousands of customers. Its mission is to drive ultimate customer success with their IT investments through relentless innovation of its products. For more information, To know more  please visit  www.hcltechsw.com .  Copyright (C) 2019 HCL Technologies Limited 
+ ---|--- 
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 

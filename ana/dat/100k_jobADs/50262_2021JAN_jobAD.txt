@@ -1,0 +1,71 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Macromoltek (W18) 
+ Computational antibody design 
+ Machine Learning Engineer 
+ 
+ Location 
+ Austin, TX / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Macromoltek 
+ Macromoltek designs antibodies against difficult targets that are intractable for conventional discovery technologies. We have built proprietary algorithms that combine structural biology and machine learning, as well as a system to quickly validate these designs experimentally. 
+ About the role 
+ Skills:  Python, TensorFlow, Deep Learning 
+ As a Machine Learning Engineer, you will be a part of an interdisciplinary software engineer team dedicated to the continuous growth, development, and improvement of our ML & AI capabilities towards antibody design. You will be directly contributing to creating and implementing new intuitive ML models to biological macromolecules, bringing the latest tools & theory, creating frameworks, running experiments, performing data analysis, and integrating new architectural designs into our design pipeline. This position reports to and is supervised by our Chief Technology Officer. 
+ Responsibilities and Duties: 
+ 
+ Develop AI/ML/DL models and algorithms to apply to biological macromolecule problems 
+ Expand and improve existing machine learning frameworks and tools 
+ Data analysis and anomaly detection 
+ Integration of ML tools into design pipeline 
+ Research novel Machine learning techniques and theory 
+ Provide subject matter expertise and guidance to the company 
+ Work collaboratively with biology experts to identify and drive innovative solutions 
+ Communicate results and techniques to management 
+ Draft, edit and review publication quality documents for scientific journals and grant submissions 
+ 
+ Qualifications and Skills: 
+ 
+ Demonstrated problem solving and critical thinking ability 
+ Confirmed ability to handle multiple projects with strict deadlines 
+ Able to work well with diverse roles such as biologists and biochemists 
+ In-depth knowledge of machine learning algorithms and their applications 
+ Practical experience with and theoretical understanding of algorithms for classification, regression, clustering, and anomaly detection 
+ Ability to implement data science pipelines and applications 
+ Ability to comprehend and debug complex systems integrations spanning toolchains and teams 
+ Creativity to engineer novel features and signals, and to push beyond current tools and approaches 
+ Skills not required but preferred: Familiarity with Linux, experience with multiprocessing/large computer clusters. 
+ 
+ We would love to hear from you if: 
+ 
+ You thrive in a collaborative environment. 
+ You are a creative problem solver that believes in teamwork to tackle challenging scientific problems. 
+ You take pride in being a self-motivated person and fast learner in order to meet goals under tight project timelines. 
+ You think critically, are curious, and are motivated to explore and develop new technologies. 
+ You are excited to apply your ML experience to drive therapeutic antibody development. 
+ 
+ Technology 
+ We have built out our structural biology and ML platforms in-house and use a combination of python and C-based tech stack. 
+ Other jobs at Macromoltek 
+ Machine Learning Engineer 
+ fulltime 
+ Austin, TX / Remote 
+ Machine Learning 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

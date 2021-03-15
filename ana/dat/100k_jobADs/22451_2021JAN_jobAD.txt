@@ -1,0 +1,172 @@
+
+ 
+ 
+ Follow 
+ 
+ 
+ Follow 
+ 
+ 
+ Follow 
+ 
+ 
+ QSEC 
+ 
+ ISMS-Software 
+ GRC-Software 
+ Product variants 
+ Module 
+ Norms and standards 
+ Implementation and services 
+ Services 
+ Reasons for an ISMS 
+ IMS – advantages and benefits 
+ References & case studies 
+ Web-Demo & Test Access 
+ Video 
+ Download 
+ FAQ 
+ Become a sales partner 
+ 
+ 
+ 
+ Information Management 
+ 
+ Anti-Bribery Management – ISO 37001 
+ Occupational Health and Safety Assessment System – OHSAS 18001 / ISO 45001 
+ Audit Management 
+ BSI standard (IT-Grundschutz) 
+ Business Continuity Management – ISO 22301 
+ Data Protection Management according to GDPR – ISO 27701 
+ Document Management System (DMS) 
+ Energy Management – ISO 50001 
+ Governance Risk Compliance (GRC) 
+ Information Security Medium-sized Businesses – ISIS12 
+ Information Security Management (ISMS) – ISO 27001 
+ Integrated Management System (IMS) 
+ Internal Control System (ICS) 
+ IT-Risk Management – ISO 27005 
+ Critical infrastructures (KRITIS) 
+ PCI-DSS Compliance 
+ Quality Management – ISO 9001 
+ Security Awareness 
+ Environmental Management – ISO 14001 
+ 
+ 
+ 
+ Industries 
+ 
+ Automotive – VDA Tisax 
+ Banks- BAIT 
+ Energy – B3S 
+ Nourishing – B3S 
+ Health – B3S 
+ Trade & Consumer Goods 
+ Industrial Production 
+ IT and TC – B3S 
+ Media and culture 
+ Pharma – B3S 
+ State and administration 
+ Transport and traffic – B3S 
+ Insurance – VAIT 
+ Water / waste water – B3S 
+ 
+ 
+ 
+ Events 
+ 
+ 
+ Company 
+ 
+ WMC 
+ Management 
+ Code of Ethics 
+ Engagement 
+ Partners and memberships 
+ Career 
+ Press 
+ 
+ 
+ 
+ Contact 
+ 
+ 
+ English 
+ 
+ Deutsch 
+ 
+ 
+ 
+ Software developer .NET (m/f/d) 
+ ****With the ISMS and data protection software "QSEC", WMC GmbH is a leading producer of information security management systems. The company is specialized in the areas of Governance Risk Compliance (GRC) and holistic information security management for organizations and companies in all industries. 
+In addition to our software services, we support our customers globally in the analysis, conception and implementation of ISMS, data protection and GRC projects. 
+ To further expand our team we are looking for a qualified 
+ Software developer .NET (m/f/d) 
+ Your challenges and tasks include: 
+ 
+ Collaborative application development in all phases from requirements analysis to design, programming, testing and rollout to documentation and later support 
+ Design of user-friendly workflows and intuitive GUI 
+ Development of interfaces for data exchange with systems like SAP, DMS etc. 
+ Design of maintenance, servicing and customizing tools 
+ Creation of meaningful reports based on SQL Server 2008/2012 
+ 
+ We are expecting from you: 
+ 
+ A good university degree in an appropriate area of study, alternatively several years of professional and programming experience 
+ Proven experience in design and implementation of complex software projects and object-oriented engineering 
+ Good knowledge of .NET (V.4.5, C#, Windows Forms, ASP.NET) and HTML, JavaScript, AJAX, CSS and good SQL and database knowledge (MS SQL 2012/2016, Reporting and Integration Services) 
+ Mastery of the relevant tools, such as MS Visual Studio 2015, SQL Server Data Tools 
+ Knowledge of security aspects in SW development 
+ Analytical and structured approach, methodical and independent work 
+ Very good written and spoken German skills are essential 
+ Good written and spoken English skills 
+ A high degree of commitment, conscientiousness, care and ability to work under pressure 
+ 
+ We offer you: 
+ 
+ Performance-based salary and further training opportunities 
+ A pleasant working environment in a highly motivated team, in an attractive location in Hamburg 
+ Long-term employment perspective with varied tasks for complex Key Account Projects 
+ Personal responsibility and flat hierarchies 
+ 
+ If you want to take advantage of challenges and opportunities in a growing company with interesting perspectives, please send your detailed application, preferably by email, to: 
+ E-Mail  ellen.wuepper@wmc-direkt.de 
+ WMC Wüpper Management Consulting GmbH 
+Ellen Wüpper 
+Zimmerstr. 1 
+22085 Hamburg 
+Fon:  +49 (40) 650336-20 
+   
+ 
+ We look forward to receiving your application! 
+ 7 
+ WMC 
+ About us 
+ 7 
+ Further information 
+ GRC software 
+  IMS advantages and benefits 
+ QSEC Video 
+ 7 
+ References & case studies 
+ Overview 
+ Contact us! 
+ Contact form:  here 
+ +49 (40) 650336-0 
+ info@wmc-direkt.de 
+ Address 
+ WMC GmbH 
+Zimmerstr. 1 
+22085 Hamburg 
+ Learn more! 
+ GRC software 
+ QSEC Video 
+ Follow us! 
+ 
+ Follow 
+ Follow 
+ Follow 
+ 
+ 
+ 
+ © 2021 WMC GmbH - all rights reserved - WMC, WMC and QSEC logo are registered trademarks of WMC Wüpper Management Consulting GmbH |  Imprint  |  Privacy Policy 

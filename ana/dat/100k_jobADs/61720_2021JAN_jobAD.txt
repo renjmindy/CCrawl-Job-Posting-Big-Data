@@ -1,0 +1,152 @@
+ WORKLOAD AUTOMATION COMMUNITY  
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 
+ Getting the job done at Workload Automation with Workload Automation 
+ 4/19/2018 
+  0 Comments  
+ When I joined the Workload Automation team, I began as a tester but soon after I also became the owner of the build automation process. How do you think we automate the thousands of builds required to produce every release of Workload Automation?  With Workload Automation, of course! 
+ The entire Workload Automation process is based on DevOps practices: Continuous & Collaborative Development is based on Automated builds and Continuous integration; then the Continuous Testing helps us ensure that the newly developed code works correctly, enabling us to achieve an accelerated frequency of releases, reduce errors and increase transparency towards our customers in the Continuous Release & Deployment perspective. 
+ Having said that, I was not yet on the team when we started building Workload Automation using Workload Automation itself but, for me, it was a great experience to became a client of our own product: it was so exciting to find out how even the smallest feature in the dev and test perspective can result in a huge improvement in the daily life of those who work with Workload Automation. So, I decided that I would tell you a bit more about my work and how it changed with the continuous adoption of the latest releases. 
+ Every Workload Automation release requires thousands of daily and nightly builds to allow our developers and testers to provide you the best Workload Automation ever. 
+Just a few numbers: 
+ 
+ 
+ We currently support 9 different platforms for the agents, 7 platforms for the servers, and 4 platforms for the Dynamic Workload Console. 
+ 
+ 
+ We perform daily builds of the entire product, up to 4 or 5 builds for each of its components, for every development release. 
+ 
+ 
+ Every build is made up of tens or even hundreds of jobs with many dependencies. 
+ 
+ 
+ During the lasts months, we also started working in parallel on 2 different development releases: the almost ready to be released 9.4.0.3 and the completely new 9.5. The entire workload has doubled! In addition, also the builds required for the maintenance versions are scheduled on request for every need. 
+ It's an enormous amount of work, but thanks to Workload Automation we are always able to manage all the planned and unplanned events and to maintain continuous delivery of the product to our team. 
+ As an example, a few months ago, we started using pools instead of single agents: this allowed us to dynamically add and remove workstations into the plan and to face different occurrences of workstation unavailability without any changes in our plans. Any maintenance intervention on our build machines is a worry no more! 
+ Also the  rerun with successors feature introduced with 9.4 FP1   had a great impact on my daily job: it might sometimes happen that a piece of code can break the build on one or more platforms. Before the introduction this feature, to fix every build break, I needed to rerun the job that was directly impacted by the break and all the jobs that depended on it. It was a huge effort for me, especially at the beginning, to remember which jobs depended on which or to follow all the dependencies to find out. Now, with a single click, I can check all the internal and external jobs impacted and directly rerun them all together. 
+ However, my favourite feature is the     customizable and persistent layout introduced with the new graphical views .  I've finally been able to arrange the jobs according to a specific layout that is meaningful to me: the common build jobs are arranged in the central column. On the right side, I have arranged the jobs in a column for each platform in a row for each component; all the optional jobs are placed on the left side. This helps me daily to find out what's going on at a glance! 
+ I've loved the new graphical views from the very beginning, and now they've become my favourite "workplace" for every monitoring, troubleshooting and recovery action. However, they are not the only features that changed my way of working… and more great improvements are yet to come with the 9.4.0.3. I've just tried some of them in advance and I'm so excited... looking forward to tell you more about them in the near future! 
+ | 
+ | 
+ Enrica Pesare 
+Software Engineer 
+Connect with me on  LinkedIn 
+ Enrica is a Software Engineer. She has an academic background in Computer Science, in particular in technology enhanced learning and user experience. During her PhD at the University of Bari, Enrica wrote several publications in academic journals and presented at different international conferences. She also loves teaching and disseminating knowledge: she has been volunteering for several Computer Science and coding projects. Enrica is currently based in the HCL Products and Platforms Rome software development laboratory, as a member of the Quality Assurance team of Workload Automation and as the owner of the Workload Automation production environment. 
+ ---|--- 
+ 
+  0 Comments  
+ Your comment will be posted after it is approved. 
+ Leave a Reply. 
+ Archives 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ Categories 
+ All 
+ Analytics 
+ Business Applications 
+ Cloud 
+ DevOps 
+ Monitoring & Reporting 
+  RSS Feed  
+ www.hcltechsw.com 
+ | 
+ **About HCL Software  ** 
+HCL Software is a division of HCL Technologies (HCL) that operates its primary software business. It develops, markets, sells, and supports over 20 product families in the areas of DevSecOps, Automation, Digital Solutions, Data Management, Marketing and Commerce, and Mainframes. HCL Software has offices and labs around the world to serve thousands of customers. Its mission is to drive ultimate customer success with their IT investments through relentless innovation of its products. For more information, To know more  please visit  www.hcltechsw.com .  Copyright (C) 2019 HCL Technologies Limited 
+ ---|--- 
+ 
+ 
+  Home  
+ 
+ 
+  Blogs  
+ 
+ 
+  Forum  
+ 
+ 
+  Resources  
+ 
+ 
+  Events  
+ 
+  IWA 9.5 Roadshows   
+ 
+ 
+ 
+  About  
+ 
+ 
+  Contact  
+ 
+ 
+  What's new  
+ 
+ 

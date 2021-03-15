@@ -1,0 +1,51 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Job & Workflow Setup 
+ Creating a Job 
+ 
+ Can I edit my job after it is published? 
+ Nick DeSimone 
+ 
+ January 13, 2021 15:42 
+ Updated 
+ 
+ Follow 
+ All users   except Reviewers & External Recruiters 
+ All plans 
+ Yes, you can edit a job at any point in the recruiting process, even if the job has been published. Go to the dashboard, find the appropriate job, click on the three dots at the top right of the pipeline and select ‘Edit job’ from the dropdown menu: 
+ This will bring you to the job editor page, seen when you first created the position. In the job editor, you can adjust the job description, application form, advertising locations, and more. 
+ Make the changes you need and when you’re ready, click the ‘Update’ button – you’ll see one at the top and the bottom of the page. 
+ After saving the changes, any listings you have on free and paid job boards will be updated automatically. Your Workable careers page will also be updated, along with any pages powered by the widget or API. 
+ **Note:  ** 
+ 
+ 
+ It can take between 6-24 hours for the changes to be visible across all job boards. 
+ 
+ 
+ Changes to the job title will not update on your Facebook page automatically. Contact us for assistance. 
+ 
+ 
+ Facebook 
+ 
+ 
+ Twitter 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Was this helpful? 
+ 4 out of 5 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ Recruiting for remote or work from home jobs 
+ Integrating with HackerRank 
+ What happens when a candidate applies? 
+ What is job scraping? 
+ Creating a Workable Video Interview 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 

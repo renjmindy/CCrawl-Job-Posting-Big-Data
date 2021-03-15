@@ -1,0 +1,73 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ C#/.Net Application Consultant 
+ CIBC 
+ __Toronto, ON 
+ Apply Now 
+ We’re building a relationship-oriented bank for the modern world. We need talented, passionate professionals who are dedicated to doing what’s right for our clients. 
+ At CIBC, we embrace your strengths and your ambitions so you feel empowered at work. Our team members have what they need to make a meaningful impact and feel truly valued for who they are and what they contribute. 
+ To learn more about CIBC, please visit CIBC.com 
+ Job Description 
+ What You’ll Be Doing 
+ You’ll contribute to CIBC’s Digital transformation by successfully delivering complex, enterprise-scale projects involving multiple back-end systems. As an Application Consultant within the Capital Markets Global Derivatives Technology group you’ll build, implement and maintain easy, flexible, and personalized solutions that enhance the client experience. As you lead the agile planning and strategy for the technical design, development, and integration of these applications, you’ll help build the future of banking. This role is comprised of approximately 60% coding, 20% support, 10% design and 10% release management. 
+ How You’ll Succeed 
+ Design & Develop:  Perform and coordinate complex application programming activities: Design application's technical infrastructure and leading the design and development: specific databases, programming languages, utilities, and testing approaches. Contribute to agile team goals by collaborating with other functions in the team, and expanding the technical capabilities of the team through continuous learning and sharing of skills and knowledge. 
+ Technology Roadmap:  Develop 1-3 year technology roadmaps to align with overall vision & strategy. Perform and coordinate complex application programming activities within the scrum team: develop specifications, code, test, debug, document, and adjust in order to ensure successful implementation and maintenance of programs. Design application's technical infrastructure: specific databases, programming languages, utilities, and Test Driven Development (TDD). 
+ Strong Leadership:  Act as the agile development team lead and interface with the project team including leading code-review sessions to ensure overall code quality aligns with business and project requirements. Support and mentor intermediate and senior developers through knowledge sharing, collaboration and effective problem solving. 
+ Who You Are 
+ You can demonstrate experience with:  5+ years of hands-on SW Design using SOLID Design principles. Deep understanding of testing practices such as TDD. Having a pulse on innovative technology, we’re looking for a seasoned back-end Consultant with: C#, .Net, .Net Core and SQL Server development experience and the ability to coach and help develop other team members. Ideally you have extensive experience with relational databases, design, queries, stored procedures and performance tuning. Knowledge of front-end WPF and experience with REST API design & implementation is beneficial for this position. It’s an Asset if: you have previously supported a Capital Markets client group and understand patterns of designing application for cloud; You have experience with dependency injection (Ninject framework) and have worked in an Agile environment. 
+You have a degree/diploma in Computer Science, SW Engineering/or related programming degree/diploma. 
+You're digitally savvy. You seek out innovative solutions and embrace evolving technologies. You can easily adapt to new tools and trends. 
+Your influence makes an impact. You know that relationships and networks are essential to success. You inspire outcomes by making yourself heard. 
+You're driven by collective success. You know that collaboration can transform a good idea into a great one. You understand the power of a team that enjoys working together to create a shared vision. You are passionate about client service - You want the work you do each day to result in a positive client experience. 
+Values matter to you. You bring your real self to work and you live our values - trust, teamwork, and accountability. 
+ Note:  As part of this recruitment process there will be an onsite Technical Test. 
+ What CIBC Offers 
+ At CIBC, our people are our greatest asset. You’ll become part of a diverse community that acknowledges everyone’s unique talents, and empowers teams to do what’s right for the client, and to do it well. As part of our team, you will: 
+ Thrive :  Benefit from an open and approachable culture that provides the flexibility and support you need to integrate your life at work and at home 
+ Connect :  Work in a place where the right technology and infrastructure fosters innovation, collaboration and creativity 
+ Develop :  Grow your skills and career through our best-in-class onboarding experience, ongoing learning opportunities, and individual development planning. 
+ Prosper :  Share in our collective success with a competitive salary, incentive pay, banking benefits, health benefits program, and employee share purchase plan 
+ What You Need to Know 
+ CIBC is committed to creating an inclusive environment where all team members and clients feel like they belong. We seek applicants with a wide range of abilities and we provide an accessible candidate experience. If you need accommodation during the application or interview process, please contact Mailbox.careers-carrieres@cibc.com 
+You need to be legally eligible to work at the location(s) specified above and, where applicable, must have a valid work or study permit 
+ Job Location 
+ 161 Bay Street, 39th Floor 
+ Employment Type 
+ Regular 
+ Weekly Hours 
+ 37.5 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

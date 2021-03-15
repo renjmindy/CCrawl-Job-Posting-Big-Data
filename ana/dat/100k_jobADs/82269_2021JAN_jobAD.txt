@@ -1,0 +1,242 @@
+Skip to content 
+ Remote work, technology, and engagement are hot topics in the New World of Work.  Read our in-depth report 
+   
+ 
+ 
+ * #### Search form
+ 
+ 
+ About Workable
+ 
+ Home page 
+ Product tour 
+ Pricing 
+ About us 
+ 
+ 
+ HR Toolkit
+ 
+ 
+   *         * #### HR toolkit overview
+ 
+ 
+ 
+ 
+ 
+ [ 
+ HR toolkit overview 
+ Ready-to-go resources to support you through every stage of the HR lifecycle, from recruiting to retention. 
+ ](//resources.workable.com/hr-toolkit) 
+ *       *         * #### HR templates
+ 
+ [ 
+ HR templates 
+ Banish the blank page for good with our 1000+ HR templates. Add a few personal touches and you’re good to go. 
+ ](//resources.workable.com/hr-templates) 
+   *         * #### Tutorials
+ 
+ [ 
+ Tutorials 
+ Struggling with a task or project? Get clear, concise, up-to-date advice with our practical, step-by-step guides. 
+ ](//resources.workable.com/tutorial) 
+   *         * #### HR Terms
+ 
+ [ 
+ HR terms 
+ Don’t let jargon stand between you and your to-do list. Get clear explanations of the most common HR terms. 
+ ](//resources.workable.com/hr-terms) 
+ *       *         * #### Search form
+ 
+ 
+ Inside HR
+ 
+ 
+   *         * #### Inside HR overview
+ 
+ 
+ 
+ 
+ 
+ [ 
+ Inside HR overview 
+ Industry insights, new tech and tools, step outside the day-to-day demands of HR and keep pace with a changing world. 
+ ](//resources.workable.com/inside-hr) 
+ *       *         * #### Stories & insights
+ 
+ [ 
+ Stories & insights 
+ Read the minds of our team of HR writers. What’s in, what’s out, and what’s around the corner—they’ve got the HR world covered. 
+ ](//resources.workable.com/stories-and-insights) 
+   *         * #### Hiring with Workable
+ 
+ [ 
+ Hiring with Workable 
+ For every hiring challenge, Workable has a solution. Learn more about the features available and how they make each recruiting task easier. 
+ ](//resources.workable.com/hiring-with-workable) 
+   *         * #### Webinars & events
+ 
+ [ 
+ Webinars & events 
+ Connect with our team of Workable experts and other industry professionals. Ask questions, find answers, get tips, and dig deeper into our product. 
+ ](//resources.workable.com/webinars-and-events) 
+ *       *         * #### Search form
+ 
+ 
+ Backstage at Workable 
+ Get a demo 
+ Try for free 
+ 
+ Backstage at Workable  |  News and Updates  | 
+ Introducing Advanced Careers Pages: Showcase your brand 
+ Workable’s senior product manager, Konstantions Vasileiou explains how Workable’s new advanced careers page builder helps customers boost their brand, without breaking the bank. 
+ Konstantinos Vasileiou 
+ Senior Product Manager 
+ 
+ In 2019, we released a new version of the Workable-hosted careers pages and application flow. Our goal was to improve the candidate experience with a new, more accessible careers page design and a seamless, easy application process optimized for mobile users. 
+ The response from candidates and customers alike was overwhelmingly positive but we also heard from customers who wanted more customizable careers pages and options, like: 
+ 
+ More branding:  Branding options were still limited in the 2019 release. Having only one branding color was challenging for organizations that featured two or three colors in their brand; moreover, typography configuration was a common request, to make the marketing and careers sites more consistent. 
+ More content:  The available content options were limited: you could add text, images, and videos. Hiring teams found it difficult to compete with custom careers sites’ content-rich sections with testimonials, maps, benefits, and more. 
+ Tracking performance:  Τo improve your careers site, you must be able to track how it performs – ideally with your existing web analytics tools. Customers with dedicated recruitment marketing teams were missing a way to measure, analyze, and improve their careers site. 
+ Customized URL hosting:  For many customers, hosting the careers site under their own custom domain, like jobs.acme.com, instead of the generic apply.workable.com, was a common request to ensure a more consistent candidate experience. 
+ 
+ These challenges led some customers to look for other options to build the careers pages they envisioned. This meant either outsourcing the project to agencies – a long and expensive process – or requesting help from their own engineering and design resources, teams who usually have other high-priority projects to deliver. 
+ Advanced careers pages 
+ Understanding these needs, we designed the next version of our  careers pages , enabling recruiting teams to build, update, and improve their careers site without breaking the bank. While maintaining a seamless candidate experience, we shifted our focus to the recruitment marketing team – enabling them to build advanced careers pages within Workable. 
+ Through an intuitive user interface the user can set up the branding (colors and typography) of the careers site, add content components, such as testimonials, office locations on a map, and benefits, and publish with a single click; it is essentially a full-blown website builder tailored to fit a recruitment marketer’s needs. 
+ In terms of product research at Workable, we’re lucky to be able to use our own product as a customer – thus, customer feedback is readily available. Our creative and recruiting teams user tested the product while building  our own careers site . This way we had solid qualitative evidence to identify and prioritize the features and the usability improvements, instead of relying on our biases and assumptions. We then continued in short cycles of feedback and development with an open beta program: a group of engaged customers tried our new site builder and elaborated on their experience. Each piece of feedback was evaluated to guide our product development efforts in the way that is most meaningful to our customers. 
+ As of December 10, 2020, advanced careers pages are available on Workable’s Core, Growth and Premier  annual plans  and the first customers’ careers sites are already live. According to our early product metrics, hiring teams now need less than a week to design, build and publish their careers site for the first time! And, on average, they create a first draft to iterate on in less than an hour. These times are just a fraction of what a custom careers site project (outsourced or internal) usually takes, and a positive sign of what’s to come. We’re excited to see what our customers accomplish with these enhanced employer branding tools. If you’d like to use our advanced careers page builder to efficiently – and cost effectively – reach more and better candidates, get in touch. 
+ Related topics 
+ 
+ Backstage at Workable  |  News and Updates  | 
+ [ 
+ 11 efficiency-boosting releases from Workable 
+ ](https://resources.workable.com/backstage/11-efficiency-boosting-releases-from-workable) 
+ 
+ Backstage at Workable  |  News and Updates  | 
+ [ 
+ Introducing anonymized screening: Encourage inclusivity 
+ ](https://resources.workable.com/backstage/workable-anonymized-screening) 
+ 
+ Backstage at Workable  |  News and Updates  | 
+ [ 
+ Introducing Texting: Make the right hires, faster 
+ ](https://resources.workable.com/backstage/workable-texting) 
+ 
+ Backstage at Workable  |  News and Updates  | 
+ [ 
+ Announcing Bridge: Connecting laid-off workers with new employers 
+ ](https://resources.workable.com/backstage/announcing-bridge-connecting-laid-off-workers-with-new-employers) 
+ [ 
+ What’s coming up after COVID-19? 
+ Remote work, digital transformation, and engagement are hot topics according to our new survey on the New World of Work. But that’s not all – there’s much, much more. 
+ Gain full access to our in-depth report ](https://get.workable.com/new-world-of-work-registration?&llsd=new-world-of-work-2020&llc=organic&llm=footer&llo=registration) 
+ Popular topics 
+ 
+ COVID-19 
+ CCPA 
+ Brexit 
+ Coronavirus 
+ Compliance 
+ Recruiter 
+ Employer branding 
+ Future of work 
+ Candidate experience 
+ 
+ × 
+ Stay in the loop! 
+ Sign up for jargon-free hiring resources. 
+ Let's grow together 
+ Start hiring now with a 15-day free trial. Or talk to us about your hiring plans and 
+discover how Workable can help you find and hire great people. 
+ 
+ Try for free 
+ Get a demo 
+ 
+ Stay in the loop! 
+ Sign up for jargon-free hiring resources. 
+ 
+ 
+ Product 
+ 
+ Find 
+ Evaluate 
+ Automate 
+ Language options 
+ Careers pages 
+ Video Interviews 
+ Referrals 
+ Hiring Plan 
+ Texting 
+ All features 
+ 
+ 
+ 
+ Platform 
+ 
+ Why Workable 
+ Support & Security 
+ Customers 
+ Partners & Integrations 
+ Pricing 
+ Developer API 
+ Get a demo 
+ 
+ 
+ 
+ Resources 
+ 
+ Recruiting Resources 
+ Stories & Insights 
+ HR Tutorials 
+ Job Descriptions 
+ Interview Questions 
+ Hiring with Workable 
+ Help Center 
+ 
+ 
+ 
+ Company 
+ 
+ Contact 
+ News 
+ Backstage 
+ Careers 
+ Press 
+ About 
+ 
+ 
+ 
+   
+ Log in 
+ Americas: +1 857 990 9675 
+Europe & Rest of World: +44 203 826 8149  Americas:   +1 857 990 9675 
+Europe & Rest of World: [+44 203 826 8149](tel:0044 203 826 8149) 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ © Workable Technology Limited 2012-2021 
+ 
+ Terms & Conditions 
+ Privacy Policy 
+ Accessibility 
+ Do not sell my personal information 
+ Workable Status 
+ 

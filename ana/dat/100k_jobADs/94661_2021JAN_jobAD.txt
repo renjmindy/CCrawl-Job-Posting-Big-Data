@@ -1,0 +1,181 @@
+Rails Mama 
+ Mother of Two Juggles Family While Learning to Code 
+ Menu 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ Category Archives: First Job 
+   
+ Standard 
+ Posted by 
+ Julie Torres 
+ Posted on 
+ June 18, 2016 
+ Posted under 
+ Coding Bootcamp ,  First Job ,  Job Search ,  Learning to Code 
+ Comments 
+ 3 Comments 
+ Looking for your first Developer Job? 
+ It's been a while since I've posted on Rails Mama, and I want to let my readers know about my new site,  Dev Ready . 
+ The new site is all about the path to becoming a professional web developer. I'll be sharing tips on interviewing, job search, surviving coding bootcamp, and finding the best online resources for learning. 
+ Check out my first posts (all related to the Junior Developer job search): 
+ I would love to hear your feedback on the site. Good, bad, or neutral, all feedback is appreciated! 
+ Join me at  Dev Ready ! 
+ Standard 
+ Posted by 
+ Julie Torres 
+ Posted on 
+ January 31, 2015 
+ Posted under 
+ First Job 
+ Comments 
+ 2 Comments 
+ The Trouble with Writing about Work 
+ I've received many requests to write about what it's like working as a Junior Developer. 
+ The point of my blog is to share information that can help others who are trying to break into the field, so I've tried to find an angle from which I can approach that subject. 
+ Writing about work, however, is a dangerous endeavor. 
+ I've had only one developer job, so if I write about work, there's no question as to which work I'm writing about. 
+ If I write about the people, I'm invading their privacy. If I write about the company, I'm potentially revealing information they don't want exposed to their competitors-the tools they use, their processes, etc. It's hard to write about work without revealing too much about the people or the company. 
+ For those reasons, I can't write much about my job. 
+ I am, however, completely open to answering any questions you have in a direct message. Send me a message on Twitter,  @JulieTorero , and I'll try to answer as best I can. 
+ Once I've put together a good list of questions, I'll also try to interview a few other Junior Developers and post the cumulative results. Leave a comment if you have anything specific you'd like me to ask, or if you're a Junior Dev and would be willing to be interviewed. 
+ Standard 
+ Posted by 
+ Julie Torres 
+ Posted on 
+ January 24, 2015 
+ Posted under 
+ First Job 
+ Comments 
+ 2 Comments 
+ New Developer (dis)Orientation 
+ I find that I'm slightly less disoriented every day. 
+ My first month at my new job was a complete blur. Then the holidays passed and I was able to spend more time pairing. 
+ One day I realized I had started to understand the majority of the conversations around me. Meaningless acronyms started to make sense, and I began to understand the cards on the wall (each of which represents a small development task) without having someone explain them. 
+ A few days later I was "driving" (being the one on the keyboard) with Vim and Tmux-both tools I'd never used before I started this job. 
+ A few days after that, my pair started challenging me with questions like, "What should you do next?" At first I thought, "I don't know, and I'm not sure I'll ever know. I don't even think I understand the problem." 
+ It was only a couple of weeks ago that my pair was having to tell me explicitly what to type. Over the past week I've been able to make progress on issues even when my pair steps away or leaves early. 
+ The last two days were especially eye-opening. 
+ One of the Senior Developers spent a couple of hours walking me through the notification system, which is one of the most complex parts of the code. Somebody got really meta-programming-happy in that big pile of code spaghetti. 
+ Yesterday was also a great learning experience. I paired with another developer who was hired around the same time as I was. He has a good bit of experience in other languages, as well as a deep understanding of Linux operating systems, but this is the first time he's worked in Ruby on Rails or used Git. 
+ In other words, we have exactly opposite skill sets. 
+ We spent the day going back and forth, with him teaching me advanced Bash commands, and me teaching him Rails. Then we picked up a card and worked through it together. With our complimentary skills, we were able to complete it without help from the Senior Developers. 
+ I can finally visualize what it will be like to be an asset to the team, rather than a liability. 
+ Standard 
+ Posted by 
+ Julie Torres 
+ Posted on 
+ January 18, 2015 
+ Posted under 
+ First Job ,  Uncategorized 
+ Comments 
+ 6 Comments 
+ Working Conditions 
+ My workplace has a very unique setup for the developer room. 
+ Most developers work in small, silent rooms. This makes a lot of sense, because deep thought is easier in a silent environment. 
+ At my company, we have a completely different setup: no less than 30 people in a big, open room. We have 12 backend developers plus business analysts, an Iteration manager, a Product Owner, and Quality Assurance people. Basically, we have every person who touches our app crammed into one giant, open room. 
+ It's an environment full of distractions, but pairing makes things easier. When you're paired with another person, your focus narrows, and you can concentrate on just that person, blocking out the chatter of the rest. 
+ On the plus side: 
+ 
+ Getting help is a non-issue. I can't count the times that someone has overheard my pair and I talking and chimed in with, "Oh, I had that problem yesterday. This is how I got past it." 
+ It pushes the developers to cultivate advanced social skills, by forcing them to deal with issues like negotiating music selection and volume. Conflicts come to a head quickly and are remedied just as quickly, allowing for a more cooperative environment. 
+ We get to know our teammates very, very well. Team-building is automatic. 
+ 
+ The downside: 
+ 
+ Introverts have a limited capacity for social interaction. I lean only slightly toward introversion, and I leave work every day with my well of socialization depleted. I crave silence and there's nowhere to find it, at work or at home. 
+ Working through something alone is impossible. When my pair steps away, I try to think through the problem alone, but if I'm not talking out loud about the problem, I can't hear myself think. 
+ 
+ Some of the other developers like the setup, and others hate it. As a new developer, the ability to get help is especially valuable, so the benefits currently outweigh the costs. We'll see if that stays true as I gain more experience. 
+ On a side note, it seems that the cure for Writer's Block is to write about it. 
+ Standard 
+ Posted by 
+ Julie Torres 
+ Posted on 
+ January 6, 2015 
+ Posted under 
+ First Job ,  Uncategorized 
+ Comments 
+ 6 Comments 
+ Tower of Babel 
+ I'm a month into my first job as a developer, and I'm beginning to learn the language-not the programming language, but the company language. 
+ In my first weeks, there were so many new terms being thrown around that I felt like a Martian at a UN meeting. There are at least 50 languages spoken here, and it's very difficult to tell which language a word belongs to, when everyone keeps mixing them together. 
+ First, there are the programming languages: a steam pot full of Ruby, Java, HTML, CSS, and Javascript. 
+ Then, there's the company-specific language: application names that have nicknames for their nicknames, department names that sound like people names, computer names that sound like band names, people names that sound like computer names, and acronyms for BLOODY EVERYTHING. 
+ There are a Lori and a Dori, neither of which are human. There are a Toddy and a Will, both of which are human, neither of which uses the name reflected by his email address. 
+ There are 3,000 Johns and so far all of them are human. I am, however, working from a very small sample size. It's quite possible that non-human Johns will be discovered with further analysis. 
+ There are a Puppet and a Jenkins, which could have been humans or computers or bands or departments, but are in fact, tools that Google could have explained to me. 
+ I would try to document these things for the next new dev, but even as I speak, Loris and Johns are being replaced by newer, more abstract acronyms. 
+ I guess it's every MAN for herself. (MAN's a department, right?) 
+ Standard 
+ Posted by 
+ Julie Torres 
+ Posted on 
+ December 30, 2014 
+ Posted under 
+ First Job ,  Uncategorized 
+ Comments 
+ Leave a comment 
+ Zero Capacity 
+ I'm three weeks into my new job, and I still can't get used to the feeling of being "Zero Capacity". 
+ I have been told that even a highly experienced developer is expected to take a minimum of 6 months to get up to speed enough to "add capacity" or, in other words, to be able to do any actual work. In the meantime, my job is "just to learn". 
+ I am, in essence, a professional student. 
+ Perhaps this doesn't feel weird to people who have only worked in the tech field…my Dad, who has been in the field for about 25 years, didn't seem to understand my surprise. 
+ Every other job I've had went something like this: 
+ Week 1: Stupid HR videos  that are meant not to educate, but to cover the large, sun-sensitive asses of the company executives. 
+ Weeks 2-3: Job-Specific Training:  Out-of-date computer simulations complete with screenshots from the customer-management system that was retired in the early 1980's and actresses that say, "Thank you so much for educating me about your product! I am happy to sit in your office for an hour while we sign documents, because this rosy-cheeked baby I'm holding is a very patient creature who won't mind having her meal delayed!" 
+ Week 4:  One day of watching an experienced person using the current customer-management system, which is nothing like the one you trained on, while dealing with actual customers, who have red-faced, screaming babies, low blood sugar, and a personal vendetta against the company you just got hired to defend. 
+ Week 4, Day 2:  Into the fire! Get out there and help some angry customers! 
+ This job has been completely different. There's no instruction manual, no training videos, no list of things to learn, no measures of competency. 
+ About once a day, someone takes a moment to explain something to me. Sometimes I get 10 minutes of their time, other times it's an hour. Every once in a while, I get a full day of pairing with an experienced programmer. 
+ It's both relaxing and unsettling. If I really am being allowed to just absorb information at my own pace, this is wonderful! I get the time to explore the areas where I need more development, instead of following an outdated one-size-fits-none training program. 
+ On the other hand, I can't help being suspicious that I'm being prepped for the witch's pot. One day I'm going to walk in, and they're going to say, "Alright, you've had enough time to train, right? Don't be shy. Go ahead-jump in the boiling water. Wait, wait! Take some garlic and carrots with you. Wouldn't want you to go in unprepared." 
+ Until someone tells me otherwise, I'm spending my time reading the code, googling the terms I hear that I don't understand, and leaving my pores open in the hopes of absorbing information through osmosis. 
+ I'm also staying clear of large black pots and heads of garlic. 
+ Standard 
+ Posted by 
+ Julie Torres 
+ Posted on 
+ December 22, 2014 
+ Posted under 
+ First Job ,  Uncategorized 
+ Comments 
+ Leave a comment 
+ New Developer Snipe Hunt 
+ Today is day 4 of the New Developer Snipe Hunt. It is theoretically possible to set up the development environment for my company's massive, monolithic, fire-breathing, underpants-staining legacy-code-laden Rails app on a Vagrant box, and that is exactly what I and the other new Junior Developer are tasked with doing. 
+ I swear to God, that app is running on black magic. 
+ There is no other logical explanation for the fact that so many cobbled-together support applications should find the spiritual harmony to work together and produce a viable application that does not take customers hostage and boil them into a thick, boney stew. 
+ (muffled screams) 
+ Oh, Lord, it ate another developer. If I'm not back in 10 minutes, tell my husband I love him. 
+ Categories 
+ 
+ Coding Bootcamp 
+ First Job 
+ Guide to Object Oriented Programming 
+ Job Search 
+ Learning to Code 
+ Life in General 
+ Life of a Junior Developer 
+ Parenting 
+ Rails Magic 
+ Ruby: Human Readable Documentation 
+ Silly 
+ Uncategorized 
+ Women in Tech 
+ 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 643 other followers 
+ Email Address: 
+ Follow 
+ Top Posts & Pages 
+ 
+ What Every Junior Rails Developer Should Know 
+ 
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

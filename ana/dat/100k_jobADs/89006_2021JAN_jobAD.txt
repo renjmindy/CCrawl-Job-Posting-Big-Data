@@ -1,0 +1,70 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ EasyPost (S13) 
+ The shipping infrastructure of the internet. 
+ Senior Software Engineer, Data Infrastructure 
+ 
+ Location 
+ / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About EasyPost 
+ EasyPost is not only helping e-commerce companies with accurate tracking and logistics, we are delivering hope and spreading smiles to homes all across the country. We push boundaries and change the status quo through our restful API, allowing companies greater control over their shipping. We continue to disrupt the shipping industry, and this is the best time to get on board. We are out to do things differently, to consistently change, grow, and progress. Join us in building the shipping infrastructure. 
+ About the role 
+ Skills:  Data Warehousing 
+ EasyPost is not only helping e-commerce companies with accurate tracking and logistics, we are delivering hope and spreading smiles to homes all across the country. We push boundaries and change the status quo through our restful API, allowing companies greater control over their shipping. We continue to disrupt the shipping industry, and this is the best time to get on board. We are out to do things differently, to consistently change, grow, and progress. Join us in building the shipping infrastructure. 
+ You will contribute to the vision of what data infrastructure means to EasyPost. Your deep technical skills and passion for building a strong data foundation for EasyPost will have a significant impact on revenue and customer experience. 
+ What You’ll Do: Use data to understand the availability, reliability, and sustainability of our infrastructure Establish standard methodologies for creating systems and datasets for the entire company's use Work closely with other teams from across the organization Identify and document feature gaps, and design as well as implement solutions Propose, research, prototype, and test new ideas Build and maintain the automation that manages data storage technologies Mentor fellow teammates on algorithms, data structures, design patterns, and best practices Evolve the pub-sub systems to provide service developers an easy-to-use, reliable and robust data ingestion and processing infrastructure Build and maintain scalable and reliable data warehouse to serve both offline pipeline and business analytics Find new ways to improve data pipelines and workflow orchestration Work with data scientist to create highly scalable API services that's based on ML and statistic models Enhance internal batch computation frameworks and workflow management to assist other teams in building out their data pipelines 
+ About You: Involvement in building and deploying large, complex distributed systems with an eye toward reliability Comfortable in a Polyglot environment Experience diagnosing and resolving complex multi-system performance problems. 3+ years exposure to utilizing an open-source stream-processing software platform Work with scalable API services based on ML and statistic models Strong desire to work in a fast-paced, start-up environment with multiple releases a day A passion for working as part of a team, both communicating and collaborating with others 
+ What We Can Offer You: Competitive salary and equity Comprehensive medical, dental, and vision and commuter benefits Flexible work schedule and paid time off Collaborative culture with a supportive team The opportunity to make massive technical contributions at a fast-growing start-up A great place to work with unlimited growth opportunities 
+ Data Privacy Notice for Job Applicants: For information on personal data processing, please see our Privacy Policy:  https://www.easypost.com/privacy 
+ Technology 
+ We’re searching for passionate talented software engineers who are interested in bringing smiles to the lives of millions of people, amazing personal and professional growth, and having a real impact on our products and users. The empowerment EasyPost provides will remind you why you love to code, want to build APIs, and work on unique challenges within a collaborative team of developers to build meaningful products. 
+ What You’ll Do: 
+ 
+ Responsible for designing scalable products for the business payment network. 
+ Building and extending evolving continuous delivery technology platforms with the goal of moving changes to production faster and safer. 
+ Contribute to system architecture design. 
+ Building out robust API's and third party payment processing integrations 
+ 
+ Other jobs at EasyPost 
+ Manager, Software Engineering, Go 
+ fulltime 
+ San Francisco, CA, USA 
+ Engineering Manager 
+ 6+ years 
+ Senior Front End Engineer 
+ fulltime 
+ San Francisco, CA, USA / Remote 
+ Full Stack 
+ 6+ years 
+ Full Stack Senior Software Engineer 
+ fulltime 
+ San Francisco, CA / Remote 
+ Full Stack 
+ 6+ years 
+ Senior Software Engineer, Data Infrastructure 
+ fulltime 
+ / Remote 
+ Data Science 
+ 6+ years 
+ Senior Technical Recruiter 
+ fulltime 
+ / Remote 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

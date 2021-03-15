@@ -1,0 +1,88 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ System Administrator / Storage Specialist 
+ SherWeb 
+ __Greater Montreal Area, QC 
+ Apply Now 
+ Position:  Full-time, permanent (40 hours a week). 
+ Start date:  As soon as possible. 
+ Here's what we do and why we do it. 
+ Simply put, we will work together to simplify businesses ’ IT with cloud technology so they can focus on what really matters, making people’s lives better. Discover how we do that here: www.sherweb.com/about/ 
+ Here's how you will contribute to the success of the company. 
+ Our team goal is to provide reliable foundations for SherWeb’s entire offering so clients can enjoy our products worry-free. You will contribute to this goal by being responsible for the storage systems and the implementation of performance tests. Succeeding in this role involves ensuring at all times the performance and integrity of the storage systems by running updates and making the necessary improvements. To do this you will collaborate with the entire IT Infrastructure team. 
+ Here 's what your day-to-day will look like in this role: 
+Perform tasks necessary to fulfill service level agreements regarding all aspects of our storage platform. 
+Promote data storage retention policies through system procedures. 
+Follow change control, incident response and testing processes for modifications to storage appliances and software. 
+Anticipate, mitigate, identify, respond to and resolve issues with storage devices, storage access, and data retrieval. 
+Monitor, analyze, and predict trends for storage equipment performance, space allocation and data growth to recommend enhancements to the IT storage team. 
+Develop, document and maintain operational processes and tasks . 
+Actively stay informed on storage laws, trends, emerging technologies and best practices to advise management teams. 
+Install and configure storage devices and software . 
+Implement redundant systems, policies, and procedures for disaster recovery and for archiving to ensure effectively the protection and integrity of storage appliances and data assets. 
+Analyze and define the requirement s and needs of new service s . 
+Work on preventive maintenance. 
+Participate in rotation calls . 
+ Here's what you need to master and know to get the job. 
+ If you have at least half, you have a great chance to receive a call from us. 
+ 5 to 7 years of experience in the administration of various storage platforms . 
+Strong technical background in storage . 
+Bilingualism (English /French). 
+DEC in Computer Science or a combination of similar training and experience. 
+ Knowledge of one or more of these technologies is an asset: 
+Dell Compellent, Powervault, DR Appliance 
+EqualLogic, NetApp, 3PAR, EMC 
+Brocade FC Switches 
+Powershell 
+Transact-SQL 
+Virtualization technology ( Vmware / Hyper-V) 
+ Backup software:  Veeam, Microsoft DPM, Acronis 
+Microsoft System Center 
+Fiber Channel, 10Gbe and iSCSI infrastructures 
+SaaS services 
+ If you have these skills, you will fit right in with us: 
+Communication skills – Why? Because you will be expected to explain and vulgarize concepts by adapting the style and content of your messages to your audience ( whether it’s internal client, external clients or your teammates). 
+ Organization and resourcefulness – Why? Because we don’t believe in micromanagement. You will need to figure out solutions on your own by using your skills, your knowledge and any relevant information you can get your hands. 
+ Problem-solving skills – Why? Because when you will face a problem, you will first analyze the information before i dentifying the possible causes. You will then explore and implement the most efficient and logical solutions. 
+ Adaptability – Why? Because our industry evolves constantly. You will have to adjust your thinking and methods to better suit new or unplanned situations (whether it’s for your daily tasks or your w ork environment). 
+ Here’s what you can expect from us. 
+ We believe professional success is based on one's ability to build genuine relationships, to showcase her/his talent at every opportunity and to be a lifelong learner. If you share this vision, you will be pleased to find among us highly experienced professionals who will be happy to mentor or coach you. We will invest in your development. We will also provide you with the compensation and the opportunities that will help you make your aspirations a reality. So , if you have a head full of ideas and a soul full of hopes, here the floor is yours. 
+ This is our team philosophy. 
+ Technology is a promise of a better future and we want to build its foundation together. What unites our team is the sense of purpose we get from turning technological problems into practical and useful systems . That's who we are, not just what we do. If you share this philosophy, you might just be one of us. Send us your resume to tell us your story. 
+ #SWPR 
+ Back Share 
+Apply Now 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Golang Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ GolangWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior/Principal Software Engineer 
+ [ 
+ Barracuda 
+ ](/companies/barracuda) 
+ 
+ Remote 
+ 13 November, 2020 
+ Apply 
+ More jobs from Barracuda About Barracuda 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ Clojure 
+ Docker 
+ ElasticSearch 
+ JavaScript 
+ KUBERNETES 
+ Kafka 
+ React 
+ 
+ Benefits & perks 
+ 
+ Health insurance 
+ 
+ Solve interesting problems facing a data retention and search SaaS product operating at a large scale. 
+ Role overview 
+ REMOTE | US-ONLY | SENIOR | CLOJURE or equivalent 
+ Looking for a senior/principal engineer to join our distributed team working on an enterprise-class SaaS application for data archiving and search running in multiple public clouds for thousands of customers. 
+ You’ll be working in Clojure on our backend, but branching out into other areas of the stack is possible if you’re interested. 
+ Tech Stack: 
+ Frontend: React/Redux/Javascript/ES6/SCSS 
+ Backend: Clojure/Elasticsearch/Postges/RabbitMQ/Kafka/ZooKeeper 
+ Modern CI/CD: Kubernetes, Docker, Chef, Sensu configured and deployed programmatically to multiple public clouds 
+ • Solve important scaling problems around processing of huge volumes of data in near real-time and features atop petabytes of data under management. • Introduce security features. • Adapt data ingestion to incorporate new types of unstructured content, like from Slack. • Drive design, implementation, and review of major areas of the codebase, new features and next generation architecture. • Contribute to a team that values code quality, innovative thinking, good communication, occasional pair programming, sound testing practices, and opportunities for mentoring. 
+ Developed at Sonian and acquired by Barracuda in 2017. We’ve been working well in remote teams for almost 10 years. In 2019 Barracuda is doing some interesting things in the security space, and we’d love for you to join us. 
+ I'm happy to answer questions about the product, its target market and business goals - as well as any questions about the position, our engineering culture and dev processes, or how you'd be spending your days. I'm the hiring manager and look forward to speaking with you. 
+ 
+ [ 
+ Barracuda 
+ ](/companies/barracuda) 
+ 
+ 250+ 
+ 
+ Barracuda Networks, Inc. is a company providing security, networking and storage products based on network appliances and cloud services. 
+ JavaScript Health Insurance React Docker Technology Private AWS 
+ View 1 job 
+ Engineers who find a new job through Golang Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Barracuda About Barracuda 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ Clojure 
+ Docker 
+ ElasticSearch 
+ JavaScript 
+ KUBERNETES 
+ Kafka 
+ React 
+ 
+ Benefits & perks 
+ 
+ Health insurance 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Golang Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Tech Lead, ClojureCompetitiveWeFarmUnited Kingdom 
+ Enables farmers to share and access information using Clojure! 
+ Remote 
+ aws clojure docker kubernetes 
+ More Info Apply 
+ Senior Clojure EngineerCompetitiveWeFarmUnited Kingdom 
+ Enables farmers to share and access information using Clojure! 
+ Remote 
+ aws clojure clojurescript docker kubernetes 
+ More Info Apply 
+ Senior Clojure Engineer£45K - 75KSwirrlUnited Kingdom 
+ Improving data insights using Clojure in the Public Sector! 📈 
+ Remote 
+ aws clojure clojurescript gcp graphql javascript react 
+ More Info Apply 
+ Senior/Principal Software Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Go jobs Golang jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Golang articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

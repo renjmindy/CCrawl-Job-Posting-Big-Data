@@ -1,0 +1,75 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Fam (S17) 
+ Video calling social network to talk with friends and make new friends 
+ Founding Android Engineer for top social app - Fam 
+ 
+ Location 
+ New York, NY / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Fam 
+ Fam is the best way to socialize on your phone in a way that's most similar to interacting in real life. We’re a social network that helps you connect with friends and new people through live video chat. We believe that the way people socially interact on their phones is fundamentally broken, and causing widespread anxiety, insecurity, and loneliness - and we have the foundation to solve that for an entire generation. 
+ We went from zero to 500,000+ users in just over 30 days with 50+ video calls per user per day being performed in the app. We're hiring a Founding Backend Engineer as we look to build more immersive live video experiences beyond the first 1,000,000 users. 
+ We’re building a distributed team with hubs in New York City and Los Angeles. As founders, we’ve led Product, Engineering, and Design teams at Instagram and Facebook. We’ve raised more than $3.5 million in funding from leading investors including Pear, Greylock, Y Combinator, and the early investors in Facebook. 
+ About the role 
+ Skills:  Java, Firebase 
+ We’re looking for a design oriented Android engineer to join our team as a Founding Engineer. You’ll be implementing new product experiences that will ship to hundreds of thousands of users multiple times per week. You’ll be fully integrated into the product/design process, and own features from conception to roll out. 
+ You’ll collaborate closely with our founders and will report to the CEO. This is a unique opportunity for someone who wants to be at the ground floor of a generational Social Network. We’re a creative and fast-moving team that’s passionate about unlocking the full potential of technology to help people connect. If you are a human centric product thinker, and driven by impact at scale, we’d love to work with you! 
+ 🎉What you'll do 🎉 
+ 
+ Own features from design, to launch, and beyond for our Android app 
+ Evaluate trade-offs to iterate quickly while not compromising on stability and quality 
+ Continually improve app performance while also maintaining excellent code quality 
+ Build a team and become the leader of the Mobile Org 
+ 
+ 🎉What we're looking for 🎉 
+ 
+ A highly motivated and structured product thinker who’s an Android expert 
+ CS background and 3+ years experience developing Android apps 
+ Strong Swift skills 
+ Bonus: Experience with scaling live video, Firebase, Node.js 
+ 
+ 🎉Perks of working with us 🎉 
+ 
+ Employee equity plan 
+ Comprehensive health, dental, and vision plans 
+ Work from anywhere 
+ We care more about your ability to learn and execute than what degree you hold or what college you attended 
+ We're biased toward action and ship product very fast and very often 
+ 
+ 🌈 We strongly encourage women, men, non-binary, trans, parents, non-parents, and people of all ages, ethnicities and sexual orientations to apply. 
+ Technology 
+ iOS, Swift, Node.js, Firebase, Computer Vision 
+ Other jobs at Fam 
+ Founding Backend Engineer for top social app - Fam 
+ fulltime 
+ New York City / Remote 
+ Backend 
+ 3+ years 
+ Founding iOS Engineer for top social app - Fam 
+ fulltime 
+ New York, NY / Remote 
+ iOS 
+ 3+ years 
+ Founding Android Engineer for top social app - Fam 
+ fulltime 
+ New York, NY / Remote 
+ Android 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

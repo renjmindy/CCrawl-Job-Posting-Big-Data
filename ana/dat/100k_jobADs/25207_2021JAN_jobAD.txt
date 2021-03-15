@@ -1,0 +1,216 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Python Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ PythonWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ React Native Mobile Developer 
+ [ 
+ Tailwind 
+ ](/companies/tailwind) 
+ New York, NY, US 
+ 13 November, 2020 
+ Apply 
+ More jobs from Tailwind About Tailwind 
+ Salary 
+ $91K - 139K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ MOBILE 
+ React Native 
+ mobile apps 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Unlimited vacation policy 
+ Unlimited vacation 
+ Equity 
+ Health, vision and dental 
+ 
+ You will be leading the charge on building a greenfield project as a core pillar of our growth strategy 
+ Role overview 
+ Tailwind  is a 50-person tech company growing quickly — roughly doubling in size year over year. Our visual marketing software is loved by nearly 400,000 small businesses, brands, solopreneurs, and influencers who use it to take their efforts to new heights on Instagram and Pinterest. 
+ We have a big mission too:  Make world-class marketing easy for everyone.  And we’re looking for a senior mobile engineer to help us achieve it faster.  You’ll be creating brand new features on a newly released application in a React Native environment; your experience in releasing successful apps is going to be invaluable as we level up our mobile development. 
+ What you’ll love about this role: 
+ 
+ You will be leading the charge on building a greenfield project that exists as a core pillar of our growth strategy for 2020. 
+ You’ll be building products small business owners use daily, helping them to pursue their dreams and thrive financially using our platform. This is an opportunity to have a major impact on the trajectory of our company, as well as millions of small businesses around the world who will come to benefit from our products. 
+ You will have the opportunity to mentor and work alongside a growing team of mobile engineers on new applications from the very beginning. 
+ You’ll be architecting a mobile tool that small business owners use daily, helping them to pursue their dreams and thrive financially using our platform. 
+ You’ll play an active role in the entire development process  —  from planning, designing, architecting, coding to implementation and documentation! 
+ You’ll have the freedom and support to challenge yourself with difficult problems without being afraid of failing, with opportunities to learn from mistakes. 
+ Our engineering team is a collaborative group of programmers who want to learn from you and help you learn! We are looking for someone who can level up our mobile development by bringing new ideas to the table and sharing your knowledge with our current team. 
+ You’ll dive into our modern tech stack and toolkit, and start shipping code on day one; immediately influencing the direction of the product, the team, and the company in a big way. 
+ We’re nimble and fast-moving, without corporate red tape, approval layers, or politics. 
+ You’ll get ownership shares, company-paid insurance premiums and extremely competitive benefits package, salary refreshes twice a year with annual bonuses and an unlimited vacation policy. 
+ 
+ About you: 
+ 
+ You’re able to work in our Oklahoma City or New York City office once the offices reopen. 
+ App creation experience:  You have experience building best-in-class Android/iOS apps and you have deployed them to the Google Play/App Store - the value you can contribute to the team is much more important to us than years of experience or titles. 
+ Full-cycle know-how:  You are familiar with architecting new applications through maintaining them long-term. Your knowledge of this process will help guide our decision-making as we are creating our new applications. 
+ Mobile know-how:  As an engineer fully dedicated to Mobile - you have the experience to operate autonomously while also sharing knowledge with our current team. 
+ Agility and Iteration:  You are comfortable working in an agile development environment, where requirements and goals might rapidly evolve as we listen to and learn from our users. 
+ Ownership:  You are eager to take the reins of our mobile development process and work with our product team to create a cohesive mobile Tailwind experience. Your experience with mobile development will be able to guide and influence product decisions. 
+ Team-wide communication:  You are eager to work with the product team, marketing and customer success to understand our members, the problems we are solving and sharing the solutions. 
+ Problem-solving: You are comfortable working on ambiguous problems and designing/creating solutions for unique and challenging problems. 
+ 
+ Our technology stack: 
+ You’ll need to have production experience with at least some of our technologies, frameworks, and languages. Or at a minimum -- similar ones that will help you learn and start contributing quickly. 
+ 
+ Mobile: React Native 
+ Front-end: Javascript (React), Sass, Bootstrap, Foundation 
+ Back-end: PHP 7, Laravel, Beanstalk, Memcached 
+ Testing: XCode Test, JUnit, Espresso, UI Automator, Tape, Enzyme 
+ Database: MariaDB, TokuDB 
+ Version Control: GitHub 
+ CICD: CircleCI 
+ DevOps: ELK (ElasticSearch, LogStash, Kibana), New Relic, Indicative Analytics 
+ Dev Tools: Docker local environment, Rust CLI productivity tools 
+ IDEs: VSCode, PHPStorm 
+ Hosting: Rackspace (dedicated + virtual servers + CDN), AWS (cloud instances + CDN) 
+ Agile Communication: Clubhouse, Slack, and Github 
+ 
+ Bonus points for experience with: 
+ 
+ Handling large volumes (Terabytes) of data 
+ Creating and scaling web APIs (RESTful, MVC) 
+ Product Design / UX experience 
+ Active Open Source contributions 
+ Languages: Rust, Kotlin, Go 
+ No-SQL databases (Cassandra, MongoDB, RedShift, etc.) 
+ Strong Dev-Ops tools (logging, monitoring, cloud provisioning) chops 
+ Big Data stack (Hadoop, MapReduce, Hive, HBase, Pig) 
+ Data Science, Machine Learning: scikit-learn, Pandas, TensorFlow, Keras, etc 
+ 
+ This position must be based in our Oklahoma City office or our New York City office once it is safe to return to work. 
+ NOTE:  Please don’t talk yourself out of applying if you don’t “check all the boxes.” We support each other’s growth and celebrate our differences at Tailwind. If you’re passionate about growing successful teams and hiring, feel free to apply. We’d love to hear from you. 
+ More about us: 
+ 
+ We are all owners (literally): We take responsibility, don’t pass blame, and don’t rest until the problem is solved 
+ We're growing quickly – roughly doubling year on year – and we're  profitable 
+ We set audacious goals and tackle challenges daily, which leaves no room for ego or a sense of entitlement 
+ We’re multi-office: Most of our team members work in our headquarters in Oklahoma City, while many of us call our New York City office home, and a few of us work remotely 
+ We’re radically transparent: Sharing new ideas and plans, giving feedback, and making everyone feel welcome in every conversation 
+ Our growing team blends deep early stage DNA (team + alumni have started 17 companies, and helped build 18 other startups) with industry expertise born out of leading names in tech and marketing such as Google, YouTube, AOL, AWeber, a la mode, BigWing Interactive, Paycom, Apple, Yodle and PCI 
+ We believe our industry’s lack of diversity hurts us all and work hard to foster a company culture that’s inclusive and appreciative of everyone’s talent, authenticity, and ideas — regardless of our differences 
+ 
+ Learn more about life at Tailwind:   https://www.tailwindapp.com/careers 
+ Glassdoor reviews:  https://www.glassdoor.com/Reviews/Tailwind-Reviews-E771559.htm 
+ ---------------------- 
+ Please note: 
+ We have implemented a uniquely transparent compensation model based on our culture and values. You can learn more about our Tailwind Open Compensation System here:  www.tailwindapp.com/about/open-compensation . 
+ While applying, we'll ask you for your target compensation level; we use this question strictly to screen out candidates who are not feasible hires based on our compensation system. It will not / does not impact what we offer any candidate. 
+ 
+ [ 
+ Tailwind 
+ ](/companies/tailwind) 
+ 
+ 50-249 
+ 
+ Tailwind is a 60+ person, fast-growing, marketing tech company with offices in New York City and Oklahoma City. Our visual marketing software is loved by 100,000s of small businesses, helping them grow through effective digital marketing. Today, we’re best known for helping members succeed on Instagram and Pinterest, but that’s just the beginning. Our mission is big: Make world-class marketing easy for everyone. 
+ Technology Private PHP React Native TYPESCRIPT ReactNative Unlimited Vacation Policy Unlimited Vacation 
+ View 1 job 
+ Engineers who find a new job through JavaScript Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Tailwind About Tailwind 
+ Salary 
+ $91K - 139K + Equity 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ MOBILE 
+ React Native 
+ mobile apps 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Unlimited vacation policy 
+ Unlimited vacation 
+ Equity 
+ Health, vision and dental 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through JavaScript Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through JavaScript Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Sr Mobile Engineer, React Native/Android¥7.5M - 10MPaidyTokyo, Japan 
+ Change how payments are made in Japan with a real time distributed platform, handling millions of users - 
+ Sponsorship 
+ android java kotlin mobile react native 
+ More Info Apply 
+ Full Stack EngineerCompetitiveSableBerlin, Germany 
+ The bank that welcomes internationals to the US! 
+ node.js react react native typescript 
+ More Info Apply 
+ Mobile SDET£40K - 80KDepopLondon, United Kingdom 
+ Support us on our path towards achieving more frequent releases 
+ android ios mobile tests 
+ More Info Apply 
+ React Native Mobile Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Python jobs Django jobs Ansible jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Python articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

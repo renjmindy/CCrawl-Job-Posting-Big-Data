@@ -1,0 +1,66 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Job & Workflow Setup 
+ Job Dashboard 
+ 
+ Managing job statuses: draft, published, internal, confidential, archived 
+ Nick DeSimone 
+ 
+ December 16, 2020 19:50 
+ Updated 
+ 
+ Follow 
+ All users   except Reviewers & External Recruiters 
+ All plans 
+ Change the status of a job as your hiring progresses. Any job starts as a draft that you can save and return to edit before publishing. 
+ 
+ Draft 
+ A Draft job is a job that is saved but not yet published. When creating a job, a draft job is made as soon as you ‘save draft’—and before you make the decision to ‘publish’ internally or externally. 
+ Drafts can be accessed via the dashboard: Click the link at the top right of the page to reveal them. All account admins can see all draft jobs on the account. Regular members on the account will only see drafts that they themselves have saved. 
+ 
+ Published 
+ A published job can be visible for candidates on: 
+ 
+ your careers page 
+ Facebook Jobs Tab 
+ free job boards 
+ paid job boards 
+ 
+ Only administrators can publish jobs. Candidates will be able to find your published job and submit applications. 
+ You can unpublish and republish jobs at any time. To do so, click the job status, located on the right side of the main job dashboard: 
+ 
+ Internal 
+ When a job is set for internal use only, members of the hiring team can still fully interact with candidates. Internal jobs are not published anywhere externally, so you will not receive any external applicants for these positions. 
+ You can upload candidates manually or add them with   People Search . And with the Advanced Referrals portal you can receive referrals and internal applications. 
+ Account members who are not on the hiring team will still see internal jobs in your account. 
+ Set a job to be used internally when you no longer want new applicants for the position. 
+ 
+ Confidential 
+ Confidential jobs are only visible to members of the hiring team for the job. All Super Admins can see confidential jobs. Confidential jobs are not published anywhere. You can upload candidates to confidential jobs and fully interact with them, just like with published or internal jobs. 
+ Set a job to be confidential when it must be kept hidden from certain account members. 
+ 
+ Archived 
+ Archived jobs appear at the very bottom of the main dashboard. These are jobs for which you no longer need to interact with candidates. Archived jobs enter a 'read-only' mode. Candidates remain in your account and can be copied to other jobs, but you are not able to send them emails or leave internal comments on their profiles. 
+ When you  archive a job , members of the hiring team can still view that job. 
+ Hover over an archived job to view options. Unarchiving the job will return it to your list of active jobs. You can republish the job if necessary. 
+ Cloning the job will create a copy of the job. You'll be able to post the job with a fresh posting date. Candidates in the original job will not carry over to the cloned job. 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ 
+ Was this helpful? 
+ 8 out of 14 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ Organizing and filtering the job dashboard 
+ Using the Hiring Plan dashboard  
+ Connecting your LinkedIn Company Page to Workable 
+ Copying/moving candidates to other jobs 
+ Purchasing and managing a Pay As You Go plan 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 

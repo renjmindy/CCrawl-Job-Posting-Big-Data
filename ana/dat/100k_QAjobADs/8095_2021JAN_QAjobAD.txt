@@ -1,0 +1,12 @@
+ Minimum Qualifications  : 
+ At least 8 years of experience in application security 
+ Expertise with common security testing methodologies 
+ Experience with automated or otherwise highly scalable application security solutions 
+ Experience with building and customizing tools 
+ Ability to accurately weigh security risks against business operations and goals 
+ Preferred Qualifications  : 
+ Experience with Scala, Python, or C++ 
+ Experience with smart contracts 
+ Published or presented security research 
+ Experience securing mobile applications and infrastructure 
+ It Pays to Work Here 

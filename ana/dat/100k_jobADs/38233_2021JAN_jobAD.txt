@@ -1,0 +1,65 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Senior Data Scientist 
+ Loblaw Digital 
+ __Toronto, ON 
+ Apply Now 
+ At Loblaw Digital, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we’re up for the challenge. From our office in Downtown Toronto, we’ve created leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, and apparel spaces, and we’re only just getting started. 
+ The impact you’ll make 
+As a Senior Data Scientist, you will join top tier talent at a thriving data organization and help us reach the next level in our growth and maturity. You’ll build and deploy to production meaningful solutions that solve problems for our customers and drive meaningful business value. 
+ You’ll help us improve our cost-efficiency, reach, and understanding of our customers by adding ML modeling and predictive analytics to the toolset. We’re looking to turn our enviable wealth of data into actionable insights and meaningful recommendations that drive growth and improved engagement across all of our lines of business. 
+What you'll do 
+Build robust, scalable, high performance Prediction, Search, Personalization and Recommendation ML solutions based on massive structured and unstructured data from various sources 
+Work with Engineering and Data Platform teams to bring ML models all the way to production 
+ Work cross-functionally with business teams:  Product, Trading, Marketing, Supply Chain, Web Analytics etc. to gather data and requirement and define success 
+Provide mentorship to more junior members of the team 
+Play a role in defining the standards and best practices of the team 
+Provide technical leadership on the projects you work on 
+Does this Sound like you? 
+Post-graduate degree in math, engineering, computer science, or a related technical field 
+2 years’ work experience in Machine Learning, Artificial Intelligence, or Data Science 
+Creative problem solver, resourceful in getting things done, and productive working independently or collaboratively 
+You enjoy the data-centric parts of solving problems 
+Strong knowledge of at least the statistical foundations of Machine Learning 
+Fluent with SQL 
+Have experience with BigData tools such as Spark, Hadoop, Kafka 
+Proficient in python. We aim to build production-ready solutions, and while we don’t expect data scientists to be systems engineers, we do expect you to be able to deliver readable, testable, maintainable code. 
+Experience with at least 1 other programming language a plus, as it shows breadth. 
+Experience with dataviz tools such as Tableau, Looker, etc. a bonus 
+How you’ll succeed 
+At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. You will get to work with some of the best digital minds and will have the support of world class technologies to craft products our customers will love! 
+ Loblaw Digital recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

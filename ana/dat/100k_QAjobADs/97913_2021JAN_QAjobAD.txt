@@ -1,0 +1,12 @@
+ Qualifications 
+• 3-5 Years of experience data engineering and building Cloud Data Lake, Azure Big Data Analytics technologies and architecture, Enterprise Analytics Solutions, and optimizing 'big data' data pipelines, architectures and data sets. 
+• Advanced hands-on SQL, Spark, Python, Scala, pySpark (2+ of these) knowledge and experience working with relational databases for data querying and retrieval. 
+• Experience with Design and Architecture of Azure big data frameworks/tools: Azure Data Lake, Azure Data Factory, Azure Data Bricks, Azure ML, SQL Data Warehouse, Azure Data Bricks 
+• Experience with Design and Architecture of Apache Hadoop big data frameworks/tools: Hadoop, Kafka, Spark, etc. 
+• Experience with Design and Architecture of relational SQL and NoSQL databases, including MS SQL Server, Cosmos DB 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 

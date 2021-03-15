@@ -1,0 +1,168 @@
+Skip to content 
+ 
+ Guha's DEVFORCE ! 
+ Jump-in, Dive & Learn Salesforce Hacks! 
+ Menu 
+ 
+ Salesforce Features 
+ Salesforce Certifications 
+ Salesforce Release - Previews 
+ Salesforce Development 
+ Salesforce Community 
+ My Salesforce Journey 
+ 
+ Home Are you kick starting your career in Salesforce? Here are the Alpha and Beta! 
+ Are you kick starting your career in Salesforce? Here are the Alpha and Beta! 
+ January 29, 2019January 29, 2019   Guha Arumugam (9X)   Salesforce Career ,  Uncategorized career ,  job ,  newbie ,  progression ,  salesforce ,  strategy ,  Trailblazer 
+ If you're planning to start a career in Salesforce and wondering how to set a clear progressive strategy, then proceed further reading my very vague and high-level perspective of how one can start their learning path to become an expert. [This not only applies in Salesforce but for any learning path to become an expert…] 
+ Research: 
+ 
+ **  Research your passion – ** Try to find what interests you so much about this particular platform or technology. Scan the possibilities and identify the one area that captivated your interest the MOST. 
+ **  Research if you have enough resources to support your passion –  **Before beginning your research, it pays well to check if you have the right resources. If you are working on a Salesforce problem and if you want to research about it, make sure you have the right forums handy. You may even bookmark it in the interest of time. 
+ **  Research about the community –  **Always try to connect with the community locally or virtually. This will help you in many ways, such as getting an expert opinion and help to solve any problems. You can even face time the person to explore your options. You can contribute back collaborating/volunteering with any of the community leaders so that you gain some real time exposure. 
+ **  Research about the viable market for your passion –  **Once you have spotted your passion and would like to deep dive into the topic, make sure it is worth your time and energy. There is no point in exploring something that is eroding out of the market. For instance – If you’re new to Salesforce and you are passionate about development, then you would want to invest more time on learning Lightning Components than on the Visualforce pages (of course it is essential to learn how VF pages work but it’s not worth deep diving into it as the platform is revamping to Lightning Experience) 
+ 
+ Prioritize Action Items: 
+ 
+ **  Start with the basics –  **Stronger the foundation, easier it is for you to adapt to any changing landscape in  Salesforce Ecosystem . 
+ **  Jot down a list of items that you want to achieve about your passion –  **By now, we are aware how most plans hang in the air rather translated into action. So always write it down or put it down on your phone notes so that we don’t forget it before we move on to our next priority of the day. Make a wish list of items you want to explore. It is not necessary to materialize everything on the list. However, if you have a list to track, you don’t have to rethink about something that you might have discarded once. 
+ **  Prioritize your list –  **Always prioritize your list before you start on any of the action items. You may have 100 items on the list and prioritizing them helps you focus on what is your immediate need than spending time on spinning wheels that may require pre-requisite knowledge. 
+ Base your priorities on actions that will help you move towards the next goal. It is easier said than done! Give that push towards that first, hard step which will eventually put in the right life-changing career path. 
+ 
+ Understand the Market: 
+ 
+ So now you have done some research and learned the facts from various sources, What’s NEXT? – Analyze it. Yes, before you jump into conclusions it is very important to spend some time to do your part of the analysis to understand why those facts are facts. This helps you to get some insight on why certain things are done certain way in the  Salesforce world . 
+ Understand what is needed in the market – Always try to understand the market and current trends in the  Salesforce Platform . This is very important to stay abreast of the platform. 
+ Approach customers need humanely and not as an entity. This helps you to establish a strong bond with the customer and pave your way into their thought process with ease. 
+ You will get to know what is important for them rather than what you want to present to them. 
+ 
+ Start Practicing: 
+ 
+ You can never be an expert overnight. If you did by any sheer luck then probably don’t expect it to last forever. Expertise always comes from experience and there is no other way around in the practical world. 
+ Hone your skills consistently. Continuous learning is your tool to succeed in the game of technologies. The moment you think you have learned enough, you’re likely to get stagnant/outdated. 
+ Don’t work hard, instead work smart. Do not re-invent the wheel; instead, use the path to steer ahead. Many of us are apprehensive as it may be frowned upon as copying. Our focus to augment on the existing platform. Today’s technology is all about collaboration. Which means you have got to collaborate with many to create one product. 
+ Never be afraid to fail. It might sound cliché to say, “  Failure is the stepping stone of success  ”. Let me quote you this statement with an example from your own life – Have you ever got hurt trying to ride a bicycle for the first time? We all know that 99% of us would say ‘YES’. Did you ever stop after getting hurt? Again most of you would say – ‘NO’. So let me ask you this – WHY? Why didn’t you stop trying that bicycle when you got hurt? Because you wanted to perfect your skill of riding your bicycle with ease one day and you know you will have to digest that pain. And you would have probably done it finally after a few hours/days. So why think differently about learning a new software skill? Why become hesitant of facing that failure now! 
+ Practice helps to learn the nitty gritties in addition to bringing to close to perfection. So don’t push too hard to become an expert like I said earlier. Keep trying and at the same time keep your focus on moving further beyond what you are practicing. 
+ Always try something new from what others did. As you know what others tried, why don’t you try it differently and record your findings to share it later to the community? Remember to share it back so that someone can learn following your footsteps. 
+ 
+ Excel in One Or Keep exploring: 
+ 
+ After exploring and practicing for years, and you might be wondering what’s next. And it’s a great question for any tech enthusiast. WHAT’S NEXT? 
+ So you know you have 2 options to go down the road. 
+ 1 – Go deep down the rabbit hole to see what’s in the core that makes this technology be the market leader for any business. Eventually, you will be traveling in one vertical and become a subject matter expert of the technology that you were experimenting and learning these days. This paves you the road to becoming an Architect in the Platform/Enterprise/ Infrastructure 
+ 2 – you can choose to wander on the surface of more than one  Salesforce   Cloud offerings  , to explore more possibilities and capabilities that the platform has to offer. This path will make you Jack-of-all-trades. And it’s good to have knowledge of all  Salesforce offerings  so that you can become the best advisor/advocate of the solutions in your team/project/company. 
+ Remember these 2 paths are mutually inclusive as they are the 2 important pillars for the success of an implementation/project/ company. With either one alone, there are high chances that the leadership is going to be having a weak foundation for their offering in the market. 
+ One might wonder – Ok I got some expertise in a particular platform what’s NEXT? With Salesforce releasing updates thrice a year, your learning never stops. Do you think you can ever say I know 100% of the platform and offerings? [Unless Salesforce decides to stop updating, which is unlikely to happen]. ALWAYS KEEP LEARNING, though you are an expert 🙂 
+ You can also choose to move towards the business side of your organization/project becoming a business leader and start focusing on the business engagements and offerings. But this process of staying up-to-date as an expert has no end to it. 
+ 
+ Giving back to the Community: 
+ OH WAIT. There is 6th step now? Well, kind of 😛 This step is an integral part of each of the above-mentioned steps. Yes! Unless someone gives back to the community, you would not be able to start with any of these stages at all. You can start to give back right from when you start to research. Giving back can be in any form (  Trailhead by   Salesforce  ,  Developer Community  ,  Trailblazers Community  ,  Answers Community  ,  StackExchange Community  ,  Blogs  ,  Chatter  , etc.). As a matter of fact, you wouldn’t be exploring these steps to become a  Salesforce Professional  if I had stopped giving back to the community through this blog. So the more you give back, the more you become an expert in your topic of interest and you get to enlighten someone with the facts & findings you have researched. Never hesitate to lend a helping hand. Let us spread the  #SalesforceOhana  learning with pride and a smile of course 🙂 
+ Rate this: 
+ Share this: 
+ 
+ Email 
+ Print 
+ Facebook 
+ LinkedIn 
+ Twitter 
+ Pinterest 
+ Pocket 
+ WhatsApp 
+ Skype 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Post navigation 
+ <- Joining the #TrailblazerCommunity Groups around your location 
+ Build Highly Flexible Lightning Components using Custom Metadata Types -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ This site uses Akismet to reduce spam.  Learn how your comment data is processed . 
+ Search: 
+ Search for: 
+ Blog Stats 
+ 
+ 60,148 hits 
+ 
+ Author 
+ Guha Arumugam (9X) 
+ 9X Salesforce Certified | Dreamforce Speaker | Group Leader – McLeanVA Salesforce Dev Grp | 3X Dreamin Speaker | AWS Certified. 
+ Personal Links 
+ 
+  Linkedin Profile  
+  Facebook Profile  
+  Facebook Page  
+  Follow me on Twitter - @SF_Guha  
+  Guha's DEVFORCE !  
+ 
+  View Full Profile ->  
+ Follow Guha's DEVFORCE ! on WordPress.com 
+ Follow Me on: 
+ 
+  Twitter  
+  LinkedIn  
+  Facebook  
+  Instagram  
+ 
+ Follow on Facebook! 
+ 
+ Follow on Facebook! 
+ 
+ Follow on Twitter! 
+ My Tweets 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 2,463 other followers 
+ Email Address: 
+ Follow 
+ Archives 
+ 
+ August 2020  (1) 
+ January 2019  (2) 
+ December 2018  (1) 
+ February 2018  (2) 
+ January 2018  (3) 
+ November 2017  (1) 
+ October 2017  (1) 
+ September 2017  (4) 
+ August 2017  (1) 
+ April 2017  (1) 
+ June 2016  (1) 
+ May 2016  (2) 
+ 
+ Recent Posts 
+ 
+ Build Highly Flexible Lightning Components using Custom Metadata Types 
+ Are you kick starting your career in Salesforce? Here are the Alpha and Beta! 
+ Joining the #TrailblazerCommunity Groups around your location 
+ Lightning Web Components aka #LWC 
+ Why Salesforce certification matters?!!! 
+ 
+ Contact Me: 
+ Virginia USA 
+ guhaanandhnec08@gmail.com 
+ Website Powered by WordPress.com . 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

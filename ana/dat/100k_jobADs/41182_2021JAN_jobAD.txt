@@ -1,0 +1,51 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Commerce plugin development REMOTECONTRACT 
+ Job Description 
+ I'm looking for a freelancers who could develop a Craft Plugin for me. In particular it would need to extend Craft Commerce with what my client is calling 'Ambassadors'. The following functionality is required: 
+ An Ambassador is a user with an account. 
+Each ambassador can have multiple affiliate codes / links which are generated and supplied by the client. 
+These affiliate codes / links should provide customers a %age discount off their first order. 
+Ambassadors should be able to login and see how much money has been spent using their affiliate code(s) 
+Administrators can disable affiliate links at any time 
+ How to Apply 
+ Ping me an email, with any questions and / or an estimate on how long you think this will take. 
+ Contact Info 
+ 
+ __ 
+ 
+ Location:  UK 
+ 
+ __ 
+ 
+ Email Address: 
+ __  Posted June 14, 2018 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

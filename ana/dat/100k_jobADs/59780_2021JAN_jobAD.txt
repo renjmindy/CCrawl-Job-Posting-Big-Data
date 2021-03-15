@@ -1,0 +1,79 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Full Stack Web Developer LOCALPERMANENT 
+ Job Description 
+ As a Full Stack Web Developer you will have an opportunity to develop interactive web pages, assist in the build out of Toast’s new Blog, work on an e-commerce platform, manage and optimize our dev stack and production pipelines, build SPA’s, and develop Craft CMS plugins. The idea candidate will have experience building interactive web pages, have experience developing websites on a PHP-based CMS, have experience in AWS and managing a dev ops stack, and have experience working with other teams within marketing to deliver on cross-team marketing goals. 
+ While it is critically important to understand the “how” as a front-end developer on the marketing web team, it is equally important to understand the “why” behind the projects you will be working on. You’re a perfect fit for this role if you are a detail-oriented problem solver, who can work and contribute to the marketing team not only as a developer, but as a resource to help provide feedback and insights into how we can help deliver on company wide goals. 
+ What you will do: 
+ 
+ Back end coding (Twig and PHP) to build integrations between Craft CMS (primarily) and other business systems. 
+ Manage our dev ops stack, optimize content delivery, and manage site performance. 
+ Responsive front-end coding in HTML 5, CSS 3, Javascript, Vue.js, React.js 
+ Communicating with other web developers to collaborate effectively 
+ Collaborating with marketing team members to clarify requirements and obtain feedback 
+ 
+ Do you have the right ingredients? 
+ 
+ PHP – Ability to produce clean, object-oriented code, include files, grab get/post variables and manipulate form data. 
+ CMS Experience – having integrated website designs with a CMS on at least 5 previous projects 
+ HTML5 & CSS3 – Some experience coding designs and layouts to a high standard, using media queries, and building robust layouts that work across devices and all major browsers 
+ Javascript – the ability to write custom Javascript functions, event handlers, and AJAX requests 
+ Ability to communicate clearly and professionally 
+ Understanding of AWS infrastructure and managing high availability server deployments. 
+ Strong understanding of web application security principles and best practices 
+ Strong knowledge of git, and an understanding of code repository best practices 
+ Ability to accurately estimate the time required for a project and keep to timelines 
+ 
+ How to Apply 
+ Apply on our careers page  here  ! 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Toast 
+ 
+ __ 
+ 
+ Location:  Boston, MA 
+ 
+ __ 
+ 
+ Phone Number:   9788863785 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   https://pos.toasttab.com 
+ __  Posted October 9, 2019 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

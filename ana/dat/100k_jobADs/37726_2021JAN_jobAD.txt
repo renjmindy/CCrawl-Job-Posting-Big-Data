@@ -1,0 +1,183 @@
+Main menu 
+ Skip to content 
+ 
+ @Interview Puzzle Corner 
+ About Rekha Govindaraj 
+ An Inspiring Story: Must read 
+ Ideas & Innovation 
+ 
+ DreamzZzZz…Z..z… 
+ meant to be achieved…..Convictions……. 
+   
+ RSS 
+ Tag Archives: VLSI profile job 
+ VLSI Technical Interview questions 
+ Posted by  Rekha Govindaraj  on  December 4, 2011 
+ 1. What is Mux? explain.. 
+ I started explaining from a block diagram very patiently. 
+ 2. What is adder? I stated from truth table and derived Sum , carry equations arrived at gate level realization. 
+ 3. Adder using Mux.I was bit confused .. I just wrote using 4:1 mux because I didn't want to scramble with such simple question I just did as if I understood question as using 4:1 (I knew he is expecting using 2:1.. it was trick) 
+ Then he asked me you do it using 2:1,but by then I had got some time fr myself..happens in interviews sometimes we get to struggle with simple questions.Then I did it using 2:1 Mux. 
+ 4. AND gate using Mux , OR gate using Mux. 
+ 5. What is latch and flip flop. Difference. 
+ then he gave me clock and data timing diagram ,told me to draw output for FF and latch. I assumed some delay for FF and completed. I explained while drawing and kept interview interactive as much as possible.(it's a trick any interviewers likes to hear more from you. .speak and speak it also builds confidence within you).. 
+ 6. draw counter : I selected to draw very simple 2-bit up counter and started drawing FF, I got doubt I asked him if Synch/Asynch counter. He told 'Anything.. OK.. draw.. Synch counter. I tried using DFF not getting..(??) then immediately changed to TFF counter.. Then he asked me to draw using DFF. I said 'Yes Sir I can'(speak positive though you don't know immediately and take time to answer..) 
+ Then I was trying with some mind calculation to get Q1Q0 as 00,01,10,11…I kept saying him whatever I was thinking in my mind.Then he interrupted and said me 'Rekha, do you know a systematic approach for this ,if so try that.. '.. he was about to say States…But I got it by then and started explaining myself and completed counter design as a sequential machine. 
+ 7. Mod-2 counter the same way.. I did everything again sequential design.. 
+ 8. What is set-up and hold time?What happens if not satisfied(Ans: Metastability word should come here) 
+ 9. Given a Flip Flop circuit how to determine maximum operable frequency.. 
+ I told (1/(Setup time+Flop delay)).. he expected it to be max(hold time, Flop delay). He asked me again and again what if delay is 0 and then immediately told my previous answer is based on the assumption (hold time)< (Flop delay). 
+ and we have to take max(hold time, Flop delay) in case of no assumption. 
+ 10. It's a tricky and a new question to me: You have a digital system designed which has got set up time and hold time violations , you are allowed to fix only one problem(setup or hold) which one you choose and why? 
+ I thought for sometime and drew some clock edges and marked set up and hold times.Tried to explain whatever I know.Interviewer was happy for the attempt and the explanation. 
+ Updated Ans  : generally setup time and hold time violations are very very serious concerns in the design.so if there are any setup/hold violations they are identified during the timing analysis (99.99999 % coverage is done for timing)… during the timing analysis if there is any setup violation, it can be avoided by adding clock buffers in the clock path or removing data buffers in the data path or some changes can be made to the design itself… similarly if there is a hold violation, clock buffers are removed or data buffers are added or design can be modified…… 
+ if by any chance once the chip is fabricated with: 
+ 
+ 
+ setuptime violation: the way to function it properly is to reduce the frequency (basically by reducing the frequency of the clock u r increasing the time period and trying to avoid the setup violation). 
+ 
+ 
+ hold violation: u cannot make any tweaks to function it properly, basically the chip goes in to trash… 
+ 
+ 
+ so out of the two violations, hold violation is more dangerous. 
+ Now my Tech questions over. he asked me two puzzles: 
+ 1. Balance puzzle 
+ I just wrote down the puzzle on paper in detail with a figure of balance also..( to make him think you analyze things systematically and ant tech person will like that approach ). Here my interview skill won than my analysis/approach..So be tactful while answering questions both easy and tough..!!!!!!!Try to be more descriptive and interact no matter whether you land up with answer or not..But you find answers most of times when you solve problems interactively.. 
+ 2. 125 small cubes given, make a big cube using those and all 6 faces of new cube panted red ,then how many faces of small cubes are painted??(This is new to me) 
+ Then again I wrote down the problem.. started actually analyzing it.. thought of 5^3 =125 also.. wrote in a corner.. and thought again if I can say him immediately answer. No I ws not confident of my answer so just took more time..still thinking then he said do you know integration and imagine in 3D the cubes and try.. " I said "Yes Sir I used to love integration in maths.. but don't remember it exactly or a systematic way. .." 
+ He said "that's fine Rekha we will wind up here I like to meet you in second round , you give me your answer then.. don't ask friends.. think o your own..Nice to meet you .. pls come after lunch".. 
+ Done with first round of Technical.. Second round . 
+ 23 Comments  Posted in  Life @ IIT Kharagpur ,  Miscelaneous ,  Personal  Tagged  holdtime ,  Qualcomm Technical Interview ,  set up time ,  VLSI profile job 
+ Search for: 
+ Author 
+ 
+   Rekha Govindaraj 
+ 
+ Email Subscription 
+ Enter your email address to subscribe to this blog and receive notifications of new posts by email. 
+ Join 193 other followers 
+ Email Address: 
+ Sign me up! 
+ Recent Posts 
+ 
+ Foldable and Reusable Cup 
+ Find command in your perl script 
+ Rajeev Motwani: There wasn’t a startup he didn’t love 
+ Forcing on all the FOUR 
+ A thought: Can motivational books inspire one?? 
+ 
+ Categories 
+ Electronics Technical   IIT Kharagpur , a tour..   Life @ IIT Kharagpur   Miscelaneous   Personal   Puzzle Corner 
+ Top Posts & Pages 
+ 
+ @Interview Puzzle Corner 
+ Placements at IIT Kharagpur.. 
+ A Dream came True: The day I got placed with Qualcomm...:):) 
+ Placement preparation VLSI profile jobs 
+ 
+ Blog Tags 
+ 5V power supply   8V and 12V power supplies   32-bit /64-bit OS   Albert Einstien   Application note   AVR family   Azim Premji in the 'Shaping Young Minds Program' (SYMP)   Be positive   Bi-Endian   Big-Endian   CEDT   complete circuit   course details   data sheets   digital circuit   DTL   E-books   Earth and Natural resources   electronic hobby   Electronics Technical   Endian-architecture   Endianness   Endianness of processor   Engineer   Enjoy and Love life   guide for beginners   holdtime   Honking   ideas and dreams   IISc   IITB   IITKgp   IIT kharagpur campus placement   IIT kharagpur placemnt   Introduction to LabVIEW   juniors to IIT kharagpur   Labview   LabVIEW 8.6 in 6 Hours   Little-Endian   M.S. and Ph.D interview   Non Eco-friendly materials   paper wastage   Personal   Placement preparation   Planet   Platform and Endian   polythene   preparation   Qualcomm   Qualcomm Technical Interview   Rectifier   Regulator   reuse   Self confidence   set up time   shyness   simple C program for Endianness   software interviews   Solder   Steganography   Storyteller Abhay Shukla   Strengths   Success   Swami Vivekananda   Text message   TTL and CMOS   Ubuntu   VIPES at IIT kharagpur   VIPES Brochure   VLSI profile job   water is precious   Windows7   windowsXp   www.iitstories.com   zip/rar file 
+ Categories 
+ 
+ Electronics Technical  (5) 
+ Miscelaneous  (41)
+ 
+ Life @ IIT Kharagpur  (5) 
+ Puzzle Corner  (1) 
+ 
+ 
+ Personal  (11)
+ 
+ IIT Kharagpur , a tour..  (3) 
+ 
+ 
+ 
+ Archives 
+ Archives Select Month August 2014  September 2013  February 2013  October 2012  September 2012  August 2012  July 2012  May 2012  April 2012  February 2012  January 2012  December 2011  November 2011  October 2011  September 2011  August 2011  July 2011  June 2011  May 2011 
+ Follow on FB 
+ 
+ Follow on FB 
+ 
+ Top Clicks 
+ 
+ placements.scholarsavenue… 
+ mobileelectron.files.word… 
+ 
+ Blog Stats 
+ 
+ 127,837 hits 
+ 
+ Blogroll 
+ 
+ Abhishek's…………. 
+ Bhavadeep's……………………. 
+ Jacob's………………. 
+ Omkar's…… 
+ Sanyam's world………. 
+ Shilpa's for Kannadigas 
+ 
+ 
+ 
+ 
+ January 2021 M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 
+ 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 
+ 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 
+ 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 
+ 
+ 
+ « Aug 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

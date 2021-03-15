@@ -1,0 +1,192 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Python Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ PythonWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Site Reliability Engineer, Platform Team 
+ [ 
+ Truecaller 
+ ](/companies/truecaller) 
+ Stockholm, Sweden 
+ 08 December, 2020 
+ Apply 
+ More jobs from Truecaller About Truecaller 
+ Salary 
+ 540K - 650K SEK 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ Go 
+ DevOps 
+ Distributed Systems 
+ Google Cloud 
+ KUBERNETES 
+ Linux 
+ SRE 
+ TERRAFORM 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Pension 
+ Sponsorship available 
+ 
+ Changing the way hundreds of millions of people interact with each other every day 🤝 
+ Role overview 
+ We at Platform team  provides the services, tools, and knowhow to make the Business units operationally independent. The domains we cover are Android/iOS core development and CI/CD, Data Platform providing analytics as a service, and back end core development and Infrastructure  . 
+ As an SRE  , you'll be part of Platform-Infrastructure team which provides support on application development, designing, managing and maintaining infrastructure services over the course of their life cycle, contributing operations and development knowledge to solve problems dealing with complex infrastructure to improve performance, visibility, stability, availability and reliability using codified, scripted, or automated solutions. 
+ What we expect from you: 
+ 
+ Extensive programming experience in at least one modern programming language-Go (Java/Scala is a plus). 
+ 5+ years of programming and system administration on Linux environments, preferably working on high throughput and low latency systems. 
+ Extensive experience with Public Cloud platforms (preferably GCP). 
+ Extensive experience with Kubernetes, Ansible and/or Terraform. 
+ Excellent understanding of distributed system design across process and site boundaries 
+ Hands-on experience with service orchestration and management, deployment activities, configuration management, and all necessary automation 
+ Good understanding of process isolation, virtualization and containerization concepts and being able to apply them when necessary 
+ Good understanding of software development lifecycle, versioning, building, testing, staging and deployment processes with a strong continuous delivery mindset 
+ Having a research-oriented mindset 
+ Strong tendency to keep things simple and maintainable (stick to KISS + YAGNI) 
+ 
+ What will you work on? 
+ 
+ Building tooling to ease the provisioning and scaling of infrastructure resources. 
+ Continuously improve and extend infrastructure components to handle growth. 
+ Optimize overall systems performance and investigate production issues for future improvements. 
+ Ensure systems availability, reachability, maintainability, and testability. 
+ A modern microservice architecture based on Java/Scala. We use a wide stack of technologies, of which, some of the most important are: Kubernetes, Docker, Ansible, Apache Cassandra, Scyladb, MySQL, Kafka, Elasticsearch, Redis, Memcache, Prometheus, Grafana, Debian Linux. 
+ Building the necessary instrumentation, tooling, and alarming systems in order to escalate abnormalities. 
+ 
+ **  It would be great if you also have: ** 
+ 
+ Cooperated with engineering teams to automate & optimize service availability, scalability, performance, monitoring, and alerting. 
+ Coached & empowered software engineers to think operationally when designing services and to operate what they build. 
+ 
+ We offer: 
+ 
+ International team - 30+ nationalities working together! 
+ Competitive salary 
+ Medical insurance 
+ Learning & sharing environment 
+ Flexible working hours 
+ Exciting company parties & team activities – Running team, Geek lunch! 
+ Start the day with fresh fruit and cereals 
+ Stay refreshed: get juice, tea, coffee, and soft drinks 
+ 
+ 
+ [ 
+ Truecaller 
+ ](/companies/truecaller) 
+ 
+ 50-249 
+ 
+ Truecaller was born in 2009, Stockholm, Sweden, with the mission to provide more safe and efficient communication to everyone’s daily life. Today, Truecaller is loved by 200 million daily active users around the world, popular in South Asia, Middle East, Africa! We are the go-to app for Caller ID, spam blocking and payments. Truecaller is a Swedish company founded in 2009 in Stockholm, Sweden by Nami Zarringhalam and Alan Mamedi. The app began when our co-founders were just students who wanted to create a service that would easily identify incoming calls from unknown numbers. We have our strongest presence in South Asia, Middle East, Africa, and HQ in Sweden. We are backed by some of the most prominent investors in the world such as Sequoia Capital, Atomico, and Kleiner Perkins Caufield & Byers. 
+ Technology Late Stage Venture Big Data CI/CD Distributed Systems Golang Pension  sponsorship available 
+ View 6 jobs 
+ Engineers who find a new job through Python Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Truecaller About Truecaller 
+ Salary 
+ 540K - 650K SEK 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ Go 
+ DevOps 
+ Distributed Systems 
+ Google Cloud 
+ KUBERNETES 
+ Linux 
+ SRE 
+ TERRAFORM 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Pension 
+ Sponsorship available 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Site Reliability Engineer, ML Ops551K - 725K SEKTruecallerStockholm, Sweden 
+ Changing the way hundreds of millions of people interact with each other every day 🤝 
+ Sponsorship 
+ go cloud distributed systems kubernetes linux machine learning sre 
+ More Info Apply 
+ Distributed Systems Developer (Product)500K - 700K SEKPensionera Förmedling i Sverige ABStockholm, Sweden 
+ Build investment broker software to invest billions of SEK yearly on behalf of our customers - 
+ go aws docker distributed systems kubernetes mongodb 
+ More Info Apply 
+ Distributed Systems Developer (Infrastructure & Tools)525K - 700K SEKPensionera Förmedling i Sverige ABStockholm, Sweden 
+ Build investment broker software to invest billions of SEK yearly on behalf of our customers - 
+ go aws ci/cd docker distributed systems infrastructure kubernetes 
+ More Info Apply 
+ Site Reliability Engineer, Platform Team 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Python jobs Django jobs Ansible jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Python articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

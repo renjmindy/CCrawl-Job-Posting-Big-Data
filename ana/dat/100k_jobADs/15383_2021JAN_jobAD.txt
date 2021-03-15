@@ -1,0 +1,167 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Culture Biosciences (W18) 
+ We grow cells for biotech companies. 
+ Senior Cell Culture Engineer 
+ 
+ Location 
+ South San Francisco 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Culture Biosciences 
+ Culture Biosciences grows organisms for biotech companies. We've built the first cloud bioreactor facility. Here’s how it works: 
+ 
+ Our customers are experts in DNA design -- they send us their genetically engineered organisms for testing. 
+ We grow their cells in our bioreactors to examine the efficacy of different protocols and their effect on yield and productivity. 
+ Our customers monitor the state of things live via our website. At the end we send them some samples for storage or more custom analysis. 
+ 
+ Our customers genetically modify organisms to produce new therapeutics, materials, fuels and foods. We help them quickly run experiments and develop manufacturing processes so they can get their products to market faster. We've built proprietary software and automation systems to make operating our bioreactors more efficient than existing systems. We also provide customers with new software tools that help them analyze and contextualize their data. We are currently serving a number of biotech customers and scaling out our infrastructure. 
+ We are a Bay Area company backed by leading venture funds including YCombinator and Verily Life Sciences. We are made up of mechanical, software, biomedical and chemical engineers who worked previously at Google X, Facebook, MIT, CalTech, Bristol Myers Squibb, and Lawrence Berkeley National Labs. Our team is passionate about enabling high-throughput, reproducible science. We value curiosity, clear communication, kindness, and collaboration. We're also committed to building a diverse team. 
+ About the role 
+ Culture Biosciences grows organisms for biotech companies. We've built the first cloud bioreactor facility. Here’s how it works: 
+ 
+ 
+ Our customers, biotechnology companies, design organisms (bacteria, yeast, mammalian cells) to produce products (materials, therapeutics, food). 
+ 
+ 
+ We grow their cells in our bioreactors to optimize the yield of their products. Ultimately, we help our customers get their products to market faster. 
+ 
+ 
+ Our customers receive their experimental results live on our website. 
+ 
+ 
+ Our cloud bioreactor facility is made possible by custom software and automation technology that our team develops. The automated infrastructure is also more efficient to operate than traditional equipment. Our software also provides quick and simple data analysis, enabling customers to analyze reams of data quickly. 
+ The Role 
+ Culture Biosciences is looking for a Senior Cell Culture Engineer who is excited to help us develop and launch our mammalian cell culture offering. 
+ Our customers develop transformative bioproducts and we develop technology that helps them accelerate the manufacturing and scale-up of those products. Our first product offering is a cloud bioreactor facility that allows biotechnology companies to run high-throughput upstream process development experiments in 250mL bioreactors. We developed the facility for microbial fermentation and we’re now extending it to mammalian cell culture. Your job will be to lead the development of our new mammalian cell culture offering and onboard customers to using it. It’s an entrepreneurial opportunity to spearhead an important initiative and collaborate with teams across the company. 
+ What you'll do: 
+ 
+ 
+ Spearhead the launch of our mammalian cell culture offering. 
+ 
+ 
+ Collaborate with our hardware team to expand our reactor infrastructure for mammalian cell culture, including the buildout of new analytical tools for product analysis. 
+ 
+ 
+ Develop mammalian cell culture operating procedures for seed trains, bioreactor processes, sampling, and sample processing and train our staff. 
+ 
+ 
+ Plan and execute internal projects to gather data on scalability and reproducibility and then partner with marketing to write white papers and blog posts. 
+ 
+ 
+ Onboard new mammalian cell culture customers and lead tech-transfers projects with customers. 
+ 
+ 
+ Manage customers’ mammalian cell culture projects 
+ 
+ 
+ Define and implement improvements to our operating procedures and writing new protocols when necessary 
+ 
+ 
+ About you: 
+ 
+ 
+ You have 6+ years experience working in upstream process development at a biopharmaceutical company or CDMO 
+ 
+ 
+ You’re excited to be at the forefront of developing new automation, hardware, and software technologies for upstream process development. 
+ 
+ 
+ You have experience working with mammalian cell lines to express protein therapeutics 
+ 
+ 
+ You’ve scaled-up an upstream mammalian cell culture process from benchtop to pilot or production-scale manufacturing. 
+ 
+ 
+ You have experience with project management and feel comfortable leading projects from start to finish. 
+ 
+ 
+ You consider yourself detail oriented, organized, proactive. 
+ 
+ 
+ Ideally, you’re also interested in software development and data science and would be excited to contribute towards these efforts. 
+ 
+ 
+ Ideally, you have some experience with perfusion processes. 
+ 
+ 
+ You have a Bachelor’s or Master’s degree in biology, chemical engineering or a related field. A PhD is preferred but not required for the role. 
+ 
+ 
+ About Culture 
+ 
+ 
+ Competitive salary and equity compensation. 
+ 
+ 
+ Health insurance (PPO), Dental, Vision, and Life. 
+ 
+ 
+ PTO: 3 weeks and 10 days of company holidays. 
+ 
+ 
+ Parental leave policy: 12 weeks. Full salary paid. 
+ 
+ 
+ We offer free, onsite breakfast, lunch, snacks, coffee as well as a gym with showers and classes. 
+ 
+ 
+ We seek to build a company that promotes inclusion and improves the diversity of our industry as a whole. We look forward to working with scientists and engineers from all walks of life. Culture Biosciences provides equal employment opportunities to all employees and applicants. 
+ Technology 
+ Our tech stack: 
+ 
+ Typescript / React / GraphQL 
+ Python backend services, control systems, state estimation, statistical analyses 
+ C++ embedded systems 
+ AWS, Docker, Github 
+ Fusion360, Altium 
+ 
+ Interesting problems we're tackling: 
+ 
+ Flexible and interactive protocol development 
+ High fidelity, accelerated simulation of biological systems 
+ Robotic execution of wetlab assays 
+ 
+ Other jobs at Culture Biosciences 
+ Software Engineer 
+ fulltime 
+ 269 E. Grand Ave, South San Francisco, CA 94080 
+ Full Stack 
+ $0 - $0 
+ 0.00% - 0.00% 
+ 3+ years 
+ Mechanical Engineer 
+ fulltime 
+ South San Francisco 
+ Robotics 
+ 6+ years 
+ Senior Cell Culture Engineer 
+ fulltime 
+ South San Francisco 
+ 6+ years 
+ Frontend Engineer 
+ fulltime 
+ South San Francisco, CA, USA / Remote 
+ Frontend 
+ 6+ years 
+ Summer Software Engineer Intern 
+ intern 
+ South San Francisco / Remote 
+ Full Stack 
+ Junior and above 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

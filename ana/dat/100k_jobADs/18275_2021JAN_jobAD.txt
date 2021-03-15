@@ -1,0 +1,45 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Manage Account 
+ Careers Page 
+ 
+ Setting your careers page brand color 
+ Andy 
+ 
+ January 06, 2021 15:05 
+ Updated 
+ 
+ Follow 
+ Super Admins 
+ All plans 
+ Your brand color is used to emphasize actions and highlighted information (buttons and links) on candidate-facing pages, like your Basic Careers Page. 
+ Ensuring accessibility 
+ To ensure your page is easy to use for everyone, you should make sure the color meets accessibility guidelines for contrast - at least a 4.5 ratio with white. Check your color by entering the hex color code below (ask your marketing team if needed) or select your desired color from the color picker: 
+ Click to test a brand color:
+The Readability Score is 
+ 
+ Changing the color in Workable 
+ 
+ Navigate to the  Careers Page  section in your account   (Super Admin access required). 
+ Click  Brand Color  to open the color picker. 
+ Use the options to select a color that matches or complements your brand. If you want to use an exact hex color code (like  from above), find the area to paste your code and click Enter. 
+ 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ 
+ Was this helpful? 
+ 16 out of 17 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ How to create a Basic Careers Page 
+ Adding an applicant conversion tracking pixel 
+ Anonymized resume screening 
+ Customizing the social media sharing image 
+ Can I change the styling options for the embedded job widget? 
+ 

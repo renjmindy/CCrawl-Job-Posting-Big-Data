@@ -1,0 +1,90 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Web Engineer REMOTEPERMANENT 
+ Job Description 
+ About the Position and Imarc 
+ Imarc is looking for a Web Engineer with Craft CMS experience. We are a digital agency headquartered in Amesbury, MA. For 20+ years, we've been steadily growing and creating high quality, award winning web sites, applications, branding, and marketing solutions for companies across all industries.  We are a Craft Enterprise partner and have launched over 50 Craft sites.  This position is open to Remote candidates able to work within an hour of our East Coast working hours (9-6pm). 
+ As a Web Engineer, you'll be working on a production team of about 8, including project managers, creatives, UX professionals, front-end engineerins, and back-end engineers. In this position, you will make an impact on multiple active projects and constantly collaborate with others on the team.  The immediate need for this role is working with the team to build and maintain websites built with the Craft CMS. 
+ We're looking for someone who loves dabbling in new technologies, building out back-end services, and collaborating on integration challenges. 
+ You'll be part of a team that works with great clients and loves providing stellar customer service. We pride ourselves in delivering quality work, stable solutions, and maintaining a sustainable work environment. 
+ See more about our team culture at  https://www.imarc.com/careers 
+ What We Value 
+ We're looking for someone who shares our values: 
+ 
+ Collaboration and Constant Refinement – While we pride ourselves on having a solid process, tools, and plans, there's no substitute for a great collaborator. As you were building out your last project, if you're able to respond to a change in plan and collaborate with the creative or UX team to find an even better solution, you'll fit in well here. 
+ Innovators (not really Inventors) – Nothing should start with a blank slate. We try to build upon past success, use the best community resources, and think in terms of reusable solutions that can be drawn up in the future. There are so many full-stack resources and tools available today. We're looking for someone equally pragmatic and creative. 
+ Autonomy – Everyone on the team you'll be working on is completely empowered. We want to share, motivate, and hold each other accountable. 
+ Supportive – If you're used to jumping across a couple projects and willing to help out where you're needed most, you'll find other kindred spirits at Imarc. 
+ 
+ Skills We're Looking For 
+ As a Web Engineer, there's a chance to work across a very broad cross section of technology. Maybe you don't have years of experience in all of these skills or tools, but the desire to learn them is just as important. 
+ 
+ Very comfortable with Git, SSH, Composer and NPM 
+ Modern PHP 7 and Craft CMS 
+ Good understanding of Databases and SQL 
+ QA and Unit/Integration Testing (PHPStan, PHPUnit) and Browser Testing 
+ Experience with JavaScript and familiarity with VueJS 
+ Experience writing semantic HTML5, SASS 
+ Some familiarity with other PHP-based frameworks such as Laravel 
+ 
+ What Imarc Offers 
+ This is a great opportunity to work with other engineers, UX professionals, and designers in a highly collaborative and quality-focused environment. You’ll be able to learn and grow through working on challenging problems across a varied set of project. 
+ We're a stable agency that's been around for over 20 years. We've grown slowly and steadily with very low employee turnover. We've been voted one of Inc. Magazine's best workplaces a couple times. 
+ We also offer lots of tangible benefits that you're probably interested in: 
+ 
+ Paid vacation and personal time 
+ Attractive benefits package including health and dental coverage 
+ Pre-tax Flexible Spending Account (FSA) planning 
+ Company-sponsored retirement plan 
+ Nice work environment with your favorite Mac, PC, or Linux laptop; standing desks; friendly co-workers; (and for those who really like geeking out, your favorite mechanical keyboard, if that's your thing) 
+ 
+ How to Apply 
+ Hopefully you're actually reading this – we sometimes publish our job listings on other sites. But we REALLY want people to apply on our BambooHR portal. If you're on another site reading this, click the link to apply:  https://imarc.bamboohr.com/jobs/view.php?id=50 
+ This listing is pretty personal. We like that. Feel free to reciprocate with a cover letter as well. 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Imarc 
+ 
+ __ 
+ 
+ Location:  Amesbury, MA 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   http://www.imarc.com 
+ __  Posted January 4, 2021 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

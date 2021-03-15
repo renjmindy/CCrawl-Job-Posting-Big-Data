@@ -1,0 +1,647 @@
+Skip to content 
+ 
+ Welcome to Ray Kim's 'blog 
+ Thoughts about professional development, technical communication, technology, and living life 
+ Primary Menu 
+ 
+ Home 
+ About 
+ My presentations 
+ The Write Stuff 
+ Troy -- A Major-League City 
+ 
+ When Troy Was A Major League City -- Acknowledgements and Bibliography 
+ 
+ 
+ Contact 
+ 
+   
+ Category: Job Interview 
+ What's your (tag)line? 
+   
+ Let's say you're an ad exec making a commercial. You've been tasked with coming up with a great tagline (and maybe a slogan) for a product. What would it be? 
+ Or, to get to the point of this article --  I mentioned earlier about marketing yourself . What would  your  tagline be? 
+ For me, personally, it's taken many years, but I think I've finally figured mine out: "My job is to make other people's jobs easier." 
+ Let's back up a bit. How did we get here? 
+ There have been many great taglines in the history of advertising. Whenever you hear one of these, a specific product immediately comes to mind. 
+ 
+ Think Different 
+ Just Do It 
+ Got Milk? 
+ America Runs On Dunkin' 
+ 
+ Each of these taglines immediately invokes the product they represent:  Apple ,  Nike ,  California Milk Processor Board  (and eventually, the entire dairy industry), and  Dunkin' Donuts . 
+ Through my past several months of job hunting, it occurred to me that my career could best be summed up by what I did at one of my previous jobs. When I worked for a server infrastructure department, my job was to provide information to the server team in order for them to efficiently do their jobs. The department was a support team. My job was to support the support team. 
+ It occurred to me that that was a good summary of my career, and a description of what I do best. I'm passionate about supplying my coworkers with whatever accurate information they need to do what they need to do, usually through documentation (although I use other means as well -- it's good to have database experience). This has created a mindset, as well as a degree of assertiveness, whenever I go into interviews. 
+ So, my tagline is, "My job is to make other people's jobs easier." 
+ What's yours? 
+ Posted on  December 10, 2020  by  pianorayk Posted in  Branding ,  Career ,  Documentation ,  Job Interview ,  Job search ,  Professional Development ,  Technical Communication ,  Technical Writing Tagged  Branding .  Leave a comment 
+ Reminder: I'm speaking at #SQLSaturday this weekend #SQLSat1017 
+   
+ This is a reminder that I will be speaking at  virtual SQL Saturday #1017  (Minnesota) this Saturday, December 12. 
+ A vast number of people, myself included, are looking for work. I will do my presentation titled " I lost my job! Now what?!? " this Saturday. I will discuss topics that include, among other things, dealing with the emotional impact, resumes, interviewing, and things you can do to hold yourself over during this period of uncertainty. 
+ Hope to see you virtually this Saturday! 
+ Posted on  December 7, 2020  by  pianorayk Posted in  Being better ,  Career ,  Job Interview ,  Job search ,  Networking ,  Professional Development ,  Public Speaking ,  Resumes ,  SQL Saturday Leave a comment 
+ Talking about salary #JobHunt 
+   
+ It's probably one of the most (if not the most) difficult and awkward subjects to broach during a job interview. And yet it will inevitably come up at some point in every hiring process. 
+ How much do you want to get paid? 
+ For me, this is always a sticky subject during the interview process. I even said during a recent interview, "that's always a loaded question" (I'll confess that I use this line often during interviews when the subject of salary comes up). To her credit, the interviewer laughed at that. It ended up making a nice ice-breaker, because she then proceeded to tell me the salary range. I never even had to tell her what I was looking for. It was way above what I was going to ask. If I'm offered this position, I would have absolutely no problem with the salary offer! 
+ When it comes to the topic of salary during a job interview, I'm old school: never,  ever  , bring up salary unless the prospective employer brings it up first (after which it's okay to discuss it). That is one ironclad rule of interviewing that I always follow:  always  let the interviewer be the first one to bring up the subject of salary.  I've written before  that I think selling what you have to offer is the better way for you to conduct an interview. 
+ Here's why I think salary discussion is difficult: when doing your homework for a prospective employer, you can learn as much as you can about their culture, history, products, customers, environment, and so on. But unless it's listed somewhere in the job listing, it's often difficult to get a read on how much a job is willing to offer. If the amount you give them is too high, you might disqualify yourself as a candidate. If it's too low, they might not think highly of your skill set. Also, especially during these days during the pandemic, if you're interviewing for a remote or work-at-home job, it's difficult to get an idea of what to ask based on where you live. Salary tends to be a moving target, and it's one that's tough to hit, at least for me. 
+ So how do you approach the topic of salary? I don't know whether or not this is the ideal way to do it, but this is what I do, and it seems to work for me. 
+ I'll usually start by discussing what I was making at my last job. In my mind, it establishes a starting point and gives me an idea of where to go from there. In all likelihood, I'll need to make adjustments. 
+ I also have a minimum that I would consider. (Make sure you have both hourly and annual salary numbers.) If my low number is potentially high for the prospective employer, I make sure to emphasize that I am negotiable. I am not an aggressive person by nature, so I, personally, have difficulty with making a highball offer, even though some people advise that I should do so. I do think you need to have an idea of your minimum. I've seen many job listings that I've outright rejected because the salaries they listed were well below my minimum (I do say I'm negotiable, but the jobs I reject are ones that go well below my negotiable limits). I've also been rejected as a candidate because my asking price (even my minimum) was too high. (To this latter point, if the employer is not willing to make that investment in you, is that place the best fit for you, anyway?) 
+ The prospective employer also factors into my salary negotiation. I would love to work in, say, academia, but those jobs tend to pay less. Some private sector and contractor jobs will go higher. Where I'm applying often factors into my own expectation when it comes to salary. 
+ So this is how I, personally, approach the subject of salary. Is it the best way? I have no idea. Is there a better way? Maybe. 
+ If you have a better way, please feel free to comment below. 
+ Posted on  December 3, 2020  by  pianorayk Posted in  Career ,  Job Interview ,  Job search ,  Professional Development Tagged  Salary .  Leave a comment 
+ You didn't ask questions at your interview? You just blew the interview #JobHunt 
+   
+ This afternoon, I saw a tweet from James Phillips, who posted this: 
+ 
+ Posted this in a few platforms. Curious to see which I get the best answers on.  #interview   #failures   pic.twitter.com/xbnDeHReQI 
+ -- James Phillips (@JPhillips_Data)  October 27, 2020 
+ 
+ It reminded me of what I think is an important point when you're interviewing for a position. I responded with this: 
+ 
+ Say "I have absolutely no questions whatsoever." 
+ Serious answer. In my "I lost my job!" SQL Saturday presentation, I preach that if you do not ask any questions, consider your interview blown. 
+ -- Ray Kim 김레몬 (@PianoRayK)  October 28, 2020 
+ 
+ This is a point that I emphasize in  my job hunt presentation ; in fact, I made mention of this in  an earlier article , and I think it's important enough that it's worth emphasizing again. When you're preparing for a job interview, make sure you have at least two or three questions prepared for the interviewer (I'd even prepare more that that; note that you don't have to ask all of them). I've also mentioned this during  Thomas Grohser's interview presentation . I've sat in on his presentation a number of times (sometimes at his request), and I make sure that I bring this up as a talking point. 
+ If you're interviewing for a job, one of the worst things you can do is NOT ask any questions at an interview. I've heard several stories of people who blew their interview because they did not ask any questions -- and for good reason. 
+ When you're interviewing for a position, keep in mind that you're interviewing the company just as much as they're interviewing you. You want to ensure that the position is the right fit for you -- that it's something that interests you, something you think you can fulfill, and the company culture is the right fit. 
+ Asking questions is also a signal to the interviewer. It demonstrates that you are interested in the job and the organization. Not asking questions not only shows that you're not interested, it also shows that you aren't taking the interview seriously. This could prove fatal to your job interview. 
+ That being said, it's also important to ask the  right  questions ( I actually wrote about this  a while back). The best questions are those that demonstrate that you're willing to be a team player for your prospective employer. For example, one question that I always bring with me to every interview is, "what is your biggest issue, and what can I do to help?" It demonstrates that I'm interested in the company, and that I'm willing to help resolve any issues that arise. Try to avoid questions that are self-centered (e.g. "what's in it for me," "what's the salary range," etc.). (That said, you're going to want to know about the company, so try to phrase your questions in such a way that it doesn't sound like, "what's in it for me?") 
+ Whenever I prepare for an interview, I'll research the company, and I always prepare appropriate questions in advance, such as "how can I help you solve your problems" (shows that I'm a team player), "what challenges does your organization face" (shows I'm interested in the company), or "what does your team do for fun" (shows I'm interested in team dynamics). 
+ A resource I'd suggest is a book or website about good interview questions. There are a number of them out there ( here's a link to a few books on Amazon ). Go to your local library, buy your own copy, or  search Google . All of these provide good suggestions for appropriate questions to bring to a job interview. 
+ Asking good questions won't necessarily guarantee that you'll land the job, but  not  asking questions nearly guarantees that you  won 't  get the job. Prepare questions in advance, and be prepared to ask questions as things come up during your interview. Don't blow your interview by not asking any questions. 
+ Posted on  October 28, 2020October 28, 2020  by  pianorayk Posted in  Being better ,  Career ,  Feedback ,  Job Interview ,  Job search ,  Networking Tagged  Job hunt ,  Job Interview ,  Questions .  Leave a comment 
+ I'm speaking this upcoming Saturday, October 3 #SQLSaturday #SQLSat1003 #SQLSatMemphis 
+   
+ This upcoming Saturday, October 3, I will be speaking at  SQL Saturday #1003, Memphis . Of course, because of pandemic restrictions, I will not actually be traveling to Memphis; SQL Saturday #1003 is virtual, and I will be presenting from my home office in Troy, NY. 
+ (In a way, it's too bad I won't be in Memphis. I've heard good things about Memphis barbecue!) 
+ A lot of people (myself included) have lost their jobs during the pandemic, so it's especially apropos that I will be presenting my session titled, " I lost my job! Now what?!? " 
+ If you want to check out my (and other great) sessions this Saturday, use the  SQL Saturday #1003  link to register. 
+ Hope to see you virtually this Saturday! 
+ Posted on  September 28, 2020  by  pianorayk Posted in  Career ,  Change ,  Dealing with change ,  Job Interview ,  Job search ,  Networking ,  Professional Development ,  Public Speaking ,  Resumes ,  Self-employment ,  SQL Saturday ,  Stress ,  Technical Communication 1 Comment 
+ Upcoming speaking engagements (as of 9/10/2020) #SQLSaturday #PASSSummit 
+   
+ This morning, I got the official word that I will be speaking at  SQL Saturday #1003, Memphis on October 3 . Since it's being held virtually, I don't have to make travel plans to Tennessee. (That's too bad, since I understand that Memphis is a cool city to visit, with its music history and barbecue!) 
+ I am now confirmed to speak at two (virtual) events, so I figured that this was a good a time as any to update my speaking schedule. 
+ 
+ 
+ October 3:  SQL Saturday #1003, Memphis : I will do my presentation about surviving unemployment and job hunting, entitled " I lost my job! Now what?!? " (And, ironically, I'm still in that situation myself, so I'll be speaking from experience.) 
+ 
+ 
+ November 10-13 (exact date TBD):  PASS Summit 2020 : For the second year in a row, I will be speaking at PASS Summit! I will do my presentation about getting started with 'blogging, titled " Blogging For Success: Advancing Your Career By Blogging ." 
+ 
+ 
+ I continue to apply to speaking events that I am able to attend (since many are held virtually right now, it makes it easier). As my speaking schedule is updated, I'll keep you posted. 
+ Posted on  September 10, 2020  by  pianorayk Posted in  Career ,  Job Interview ,  Job search ,  Networking ,  PASS Summit ,  Professional Development ,  Public Speaking ,  SQL Saturday Leave a comment 
+ My #JobHunt presentation is online #PASSProfDev @PASS_ProfDev @CASSUG_Albany #SQLFamily #ProfessionalDevelopment 
+   
+ If you missed my job hunt presentation, it is now available on YouTube.  Click here to view my presentation ! 
+ Additionally, my presentation slides  can be downloaded from here ! 
+ Posted on  May 28, 2020  by  pianorayk Posted in  Being better ,  Career ,  Change ,  Dealing with change ,  Job Interview ,  Job search ,  LinkedIn ,  Networking ,  Professional Development ,  Public Speaking ,  Recruiters ,  Recruiting Spam ,  Resumes ,  Self-employment ,  User Groups Leave a comment 
+ Join me for my #JobHunt #ProfessionalDevelopment presentation -- next Thursday, 5/28/2020 #PASSProfDev @PASS_ProfDev @CASSUG_Albany #SQLFamily 
+   
+ 
+ Reminder: my presentation is tomorrow at noon (EDT). Come join me and  Paresh Motiwala  for my presentation and our discussion! 
+ 
+ Welcome to Ray Kim's 'blog 
+ This is a reminder that next week, Thursday, May 28 at noon EDT (click  this link  for your local time), I will do my presentation for the  PASS Professional Development Virtual Group  about unemployment and the job hunt, titled “I lost my job! Now what?!?” 
+ To register for the event use this link . 
+ I’ll touch on these topics during the presentation: 
+ 
+ Dealing with your emotions 
+ Taking stock in yourself 
+ Resumes and interviewing 
+ Resources you can tap 
+ Networking 
+ Weathering the storm 
+ 
+ In addition to my presentation, we will also have an open discussion with  Paresh Motiwala  (PASS ProfDev moderator and host) and myself. You are welcome and encouraged to take part! 
+ I’ve done this presentation for  SQL Saturday ; now, you get to see it online. See you next week! 
+ View original post 
+ Posted on  May 27, 2020May 27, 2020  by  pianorayk Posted in  Being better ,  Career ,  Change ,  Dealing with change ,  Job Interview ,  Job search ,  Networking ,  Professional Development ,  Resumes ,  Self-employment ,  Stress ,  Support systems Leave a comment 
+ Join me for my #JobHunt #ProfessionalDevelopment presentation -- next Thursday, 5/28/2020 #PASSProfDev @PASS_ProfDev @CASSUG_Albany #SQLFamily 
+   
+ This is a reminder that next week, Thursday, May 28 at noon EDT (click  this link  for your local time), I will do my presentation for the  PASS Professional Development Virtual Group  about unemployment and the job hunt, titled "I lost my job! Now what?!?" 
+ To register for the event use this link . 
+ I'll touch on these topics during the presentation: 
+ 
+ Dealing with your emotions 
+ Taking stock in yourself 
+ Resumes and interviewing 
+ Resources you can tap 
+ Networking 
+ Weathering the storm 
+ 
+ In addition to my presentation, we will also have an open discussion with  Paresh Motiwala  (PASS ProfDev moderator and host) and myself. You are welcome and encouraged to take part! 
+ I've done this presentation for  SQL Saturday ; now, you get to see it online. See you next week! 
+ Posted on  May 21, 2020  by  pianorayk Posted in  Being better ,  Career ,  Change ,  Dealing with change ,  Job Interview ,  Job search ,  Living life ,  Networking ,  Professional Development ,  Public Speaking ,  Recruiters ,  Resumes ,  Self-employment ,  Stress ,  Support systems 1 Comment 
+ The video job interview 
+   
+ I had an interesting situation come up today regarding  my job search . I received an email requesting an interview. 
+ Ordinarily, this wouldn't be an unusual situation, but there are some things that make this unique. I won't say too much about the potential job -- the interviewing and job search process is still going on, so I shouldn't talk too much about it -- but I do need to mention a few things to put this into context. 
+ 
+ This is the second interview for a firm with which I had an over-the-phone interview last week. 
+ The interview will be held via a video conference, which will be a first for me. I've done phone and in-person interviews, but I have never before done an interview via a video chat. 
+ The job in question is completely remote -- and that's even without the COVID-19 crisis. I would be working from home (or wherever I'd like -- heck, I could probably work with a laptop on a beach if I knew I could be productive). In all likelihood, I would never see the inside of an office. 
+ 
+ Given the above circumstances, I had a question: how do I dress for a video job interview? I've never had this situation before; in fact, I even posted the question to both  Twitter  and Facebook. I had a number of answers come back. Some people said I should dress like I would for a normal interview (suit and tie), while others said I shouldn't. Nearly everyone agreed that I should do more than casually dress, and that I should at least trim my beard (the COVID-19 beard that I've grown over the past several weeks), if not outright shave, and neaten myself up. In other words, don't look like a slob. 
+ (I should also note, by the way, that I could use a haircut. However, since all barbershops and beauty salons are shut down for COVID-19, and I don't own a set of clippers, that isn't an option right now. I'll have to settle for washing my hair and grooming it as best I can.) 
+ Right now, I intend to follow the advice from my friend, Thomas Grohser. I've attended his interviewing session at  SQL Saturday  several times;  you can see his video presentation from the PASS Professional Development virtual group here . The relevant statement to my situation appears  at 56:21  in the video: dress according to what the company does. When in Rome, do as the Romans do. Since I'm interviewing for a work-at-home job, I don't seriously think that they'd expect me to wear a tie at home. (By the way, in his presentation, Thomas suggests looking at the company's website -- which I did -- and look for employee photos -- which they have.) At the same time, I still need to make a decent impression. 
+ So right now, my game plan is to go with a collared button-down shirt without a tie and make sure I'm well-groomed. I think that should make for a good video interview impression. 
+ Now to tackle the next question: should I bother wearing pants…? 
+ Posted on  May 6, 2020  by  pianorayk Posted in  Career ,  Change ,  Dealing with change ,  Job Interview ,  Job search ,  Professional Development 1 Comment 
+ Posts navigation 
+ Older posts 
+ Search for: 
+ Just an average guy and my opinions . . . 
+ Follow me on Twitter 
+ My Tweets 
+ Follow Blog via Email 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 453 other followers 
+ Email Address: 
+ Follow 
+ Follow Welcome to Ray Kim's 'blog on WordPress.com 
+ 
+ 
+ View PianoRayK's profile on LinkedIn 
+ 
+ 
+ Home 
+ 
+ 
+ About 
+ 
+ 
+ My presentations 
+ 
+ 
+ The Write Stuff 
+ 
+ 
+ Troy -- A Major-League City 
+ 
+ When Troy Was A Major League City -- Acknowledgements and Bibliography 
+ 
+ 
+ 
+ Contact 
+ 
+ 
+ Recent Posts 
+ 
+ Setting up my #Sessionize profile, and speaking opportunities -- #DataSaturday  January 25, 2021 
+ #DataSaturday  January 23, 2021 
+ Archiving my talks, part 3: PASS Summit -- #PASS  January 7, 2021 
+ Goals for 2021  January 1, 2021 
+ January CASSUG Monthly Meeting  December 29, 2020 
+ 
+ 
+ 
+ 
+ January 2021 S 
+ M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 
+ 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 
+ 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 
+ 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ « Dec 
+ Archives 
+ 
+ January 2021  (4) 
+ December 2020  (10) 
+ November 2020  (9) 
+ October 2020  (8) 
+ September 2020  (11) 
+ August 2020  (7) 
+ July 2020  (13) 
+ June 2020  (8) 
+ May 2020  (16) 
+ April 2020  (18) 
+ March 2020  (9) 
+ February 2020  (10) 
+ January 2020  (12) 
+ December 2019  (9) 
+ November 2019  (9) 
+ October 2019  (15) 
+ September 2019  (15) 
+ August 2019  (21) 
+ July 2019  (19) 
+ June 2019  (12) 
+ May 2019  (14) 
+ April 2019  (15) 
+ March 2019  (8) 
+ February 2019  (12) 
+ January 2019  (9) 
+ December 2018  (10) 
+ November 2018  (6) 
+ October 2018  (4) 
+ September 2018  (5) 
+ August 2018  (11) 
+ July 2018  (9) 
+ June 2018  (8) 
+ May 2018  (7) 
+ April 2018  (8) 
+ March 2018  (10) 
+ February 2018  (5) 
+ January 2018  (5) 
+ December 2017  (5) 
+ November 2017  (2) 
+ October 2017  (2) 
+ September 2017  (2) 
+ August 2017  (1) 
+ July 2017  (3) 
+ June 2017  (4) 
+ May 2017  (7) 
+ April 2017  (1) 
+ March 2017  (6) 
+ February 2017  (1) 
+ January 2017  (1) 
+ October 2016  (1) 
+ September 2016  (2) 
+ August 2016  (4) 
+ July 2016  (8) 
+ June 2016  (7) 
+ May 2016  (8) 
+ 
+ Categories 
+ 
+ 9/11  (4) 
+ Being better  (142)
+ 
+ Mistakes  (8) 
+ 
+ 
+ Books  (8)
+ 
+ Albom, Mitch  (1)
+ 
+ Tuesdays with Morrie  (1) 
+ 
+ 
+ Brooks, Terry  (1)
+ 
+ The Sword of Shannara  (1) 
+ 
+ 
+ Carnegie, Dale  (2)
+ 
+ How To Stop Worrying and Start Living  (1) 
+ How to Win Friends and Influence People  (1) 
+ 
+ 
+ Gawande, Atul  (3)
+ 
+ The Checklist Manifesto  (3) 
+ 
+ 
+ Norman, Don  (1)
+ 
+ The Design of Everyday Things  (1) 
+ 
+ 
+ 
+ 
+ Branding  (23) 
+ Business Intelligence  (14)
+ 
+ #BI101  (5) 
+ Data warehousing  (2) 
+ 
+ 
+ Career  (376)
+ 
+ #SQLCareer  (1) 
+ Job search  (77)
+ 
+ Job Interview  (15) 
+ Recruiters  (14) 
+ Recruiting Spam  (8) 
+ Resumes  (12) 
+ 
+ 
+ Networking  (202) 
+ Professional Development  (363)
+ 
+ Code Camp  (2) 
+ Data Saturday  (2) 
+ Decision making  (11) 
+ Disaster Recovery  (13) 
+ Feedback  (19) 
+ Mentoring  (3) 
+ PASS Summit  (42)
+ 
+ #PASSSummit2020  (6) 
+ 
+ 
+ Public Speaking  (141) 
+ Roles  (8) 
+ SQL Saturday  (131) 
+ Teamwork  (9) 
+ Technical Communication  (163)
+ 
+ Design  (24)
+ 
+ UX/UI  (15) 
+ 
+ 
+ Documentation  (102) 
+ Technical Writing  (79) 
+ 
+ 
+ User Groups  (61) 
+ 
+ 
+ Self-employment  (14) 
+ Work  (4) 
+ 
+ 
+ Change  (88)
+ 
+ Dealing with change  (73) 
+ 
+ 
+ Computers  (3)
+ 
+ Hardware  (2)
+ 
+ Storage  (1) 
+ 
+ 
+ Software  (2) 
+ 
+ 
+ Cultures  (47) 
+ Data processing  (25) 
+ Data security  (19) 
+ Database  (78)
+ 
+ #SQL101  (8) 
+ Oracle  (1) 
+ SQL Server  (72)
+ 
+ SSIS  (2) 
+ 
+ 
+ 
+ 
+ Living life  (167)
+ 
+ Extracurricular activities  (22)
+ 
+ Hobbies  (3) 
+ 
+ 
+ Food  (4) 
+ Holidays  (11)
+ 
+ Christmas  (1) 
+ Memorial Day  (3) 
+ New Year's Day  (1) 
+ 
+ 
+ Music  (17)
+ 
+ MIDI Sequencing  (2) 
+ Recording  (3) 
+ 
+ 
+ Relationships  (50) 
+ Travel  (27)
+ 
+ SQL Travels  (11) 
+ 
+ 
+ Wellness  (54)
+ 
+ Health  (53)
+ 
+ Coronavirus  (31)
+ 
+ #CoronavirusChronicles  (23) 
+ COVID-19  (30) 
+ 
+ 
+ Exercise  (14)
+ 
+ CrossFit  (10) 
+ Fitness  (11) 
+ Working Out  (9) 
+ 
+ 
+ Stress  (7) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maintenance  (39) 
+ Microsoft  (38)
+ 
+ Power BI  (3) 
+ PowerShell  (4) 
+ Windows  (1) 
+ 
+ 
+ Open Source  (2)
+ 
+ Docker  (2) 
+ 
+ 
+ Programming  (8)
+ 
+ REST  (1)
+ 
+ #REST101  (1) 
+ 
+ 
+ Script programming  (2) 
+ 
+ 
+ Reference  (6) 
+ Religion  (1) 
+ Social Media  (54)
+ 
+ Blog  (33)
+ 
+ Blog ground rules  (1) 
+ First blog post  (5) 
+ 
+ 
+ Facebook  (8) 
+ LinkedIn  (16) 
+ Podcast  (2) 
+ Twitter  (4) 
+ 
+ 
+ Sports  (24)
+ 
+ Baseball  (11) 
+ Basketball  (3)
+ 
+ College basketball  (3) 
+ 
+ 
+ Football  (3)
+ 
+ College football  (2) 
+ Fantasy football  (1) 
+ 
+ 
+ Hockey  (1)
+ 
+ College hockey  (1) 
+ 
+ 
+ Running  (3) 
+ 
+ 
+ Stuff  (67)
+ 
+ Email  (9)
+ 
+ Spam  (5) 
+ 
+ 
+ Getting started  (26) 
+ Ideas  (13) 
+ Just for fun  (13)
+ 
+ #TheBestOf  (3) 
+ 
+ 
+ Memorization  (2) 
+ Ownership  (1) 
+ Politics  (7) 
+ School spirit  (5) 
+ Video games  (1) 
+ Welcome  (1) 
+ 
+ 
+ Support systems  (25) 
+ Uncategorized  (6) 
+ Web Development  (9) 
+ 
+ Blogs I Follow 
+ 
+ HRTact 
+ creativegoddess.wordpress.com/ 
+ The Write Stuff Technical Documentation Services, LLC 
+ Deb the DBA 
+ FLX SQL with Andy Levy 
+ A Shot of SQLEspresso 
+ SQLKohai - always a student 
+ George Walters 
+ The Rest is Just Code 
+ Voice of the DBA 
+ Daniel Bowlin SQL Server BI Blog 
+ greenmountainsoftware 
+ James Serra's Blog 
+ Discover 
+ The Daily Post 
+ The WordPress.com Blog 
+ 
+ Blog at WordPress.com. 
+ HRTact 
+ Cultivate Your Workforce with Effective Human Strategies 
+ creativegoddess.wordpress.com/ 
+ The Write Stuff Technical Documentation Services, LLC 
+ "My job is to make other people's jobs easier" 
+ Deb the DBA 
+ Just me and the databases... 
+ FLX SQL with Andy Levy 
+ Hand-Crafted SQL and PowerShell from New York's Finger Lakes 
+ A Shot of SQLEspresso 
+ SQL Blogs by Monica Rathbun 
+ SQLKohai - always a student 
+ George Walters 
+ Microsoft Azure, Data Platform, SQL, Speaking, Community 
+ The Rest is Just Code 
+ Ideas are the hard part...the rest is just code 
+ Voice of the DBA 
+ Writings from Steve Jones, the Voice of the DBA 
+ Daniel Bowlin SQL Server BI Blog 
+ greenmountainsoftware 
+ Thoughts on SQL, Disasters and thinking 
+ James Serra's Blog 
+ Big Data and Data Warehousing 
+ Discover 
+ A daily selection of the best content published on WordPress, collected for you by humans who love to read. 
+ The Daily Post 
+ The Art and Craft of Blogging 
+ The WordPress.com Blog 
+ The latest news on WordPress.com and the WordPress community. 
+  Welcome to Ray Kim's 'blog  
+ Create a free website or blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ Add your thoughts here... (optional) Post to 
+ Cancel 

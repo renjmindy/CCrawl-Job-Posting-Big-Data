@@ -1,0 +1,81 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Android Developer 
+ Viamo 
+ __Saskatoon, SK 
+ Apply Now 
+ Viamo helps organizations harness the power of mobile communication for social impact. With offices in Canada, the US, and across Africa and Asia, our software platform and services reach across distance, language, and literacy barriers to help our clients overcome communication challenges at scale. 
+ Viamo aims to catalyze a mobile movement, connecting organizations to the people they serve using the mobile tools they already have in their pockets. With more than 96% of the world's population having access to mobile phones, it's now possible for non-profits, governments, and businesses to reach their stakeholders immediately in productive new ways. Viamo envisions a world where all people have access to the information they need to make decisions for healthy, prosperous lives. 
+ Some of the services we power help expectant mothers in rural areas to receive weekly health guidance, farmers to access growing tips and personalized weather forecasts, journalists to submit human rights reports, and development organizations to quickly survey the situation on the ground.Our technology platform and project design services are most often used to create: 
+ 1. Mobile data collection for organizations in the developing world 
+ 2. Free, on-demand information services reaching simple mobile phones and smartphones 
+ 3. Mobile research with key informants for project monitoring and beneficiary feedback 
+ One of the flagship services we enable is the 3-2-1 service -- a national toll-free public service information line available in many countries via voice calls, USSD, SMS messages, and soon via social networks. By calling 3-2-1, anyone with access to a mobile phone is able to access information on topics such as health, agriculture, financial literacy, news, weather, and more. Offered in partnership with content providers and a national telecom operator, 3-2-1 is serving millions of people monthly across Africa and Asia with quality life-improving information to support their families. 
+ Position: 
+Viamo’s global SaaS platform for mobile engagement enables thousands of organizations to share information and gather feedback from the citizens they serve in the most challenging environments. While the platform provides general tools for almost any kind of mobile communication, many partners in the field ask us for customized solutions that are tailored to their exact problem: sending reminder messages after patients visit health clinics, tracking and mapping successful service delivery, improving access to financial services, recording watchdog reports, etc. 
+ In this role, you will work closely with partners and end-users to design and build unique solutions for social impact. Working with the Lead Developer, you will be responsible for helping move our Android field data collection app forward through its beta development phase and subsequent release cycles to allow our users to collect data in offline and difficult to reach locations. 
+ Requirements: 
+Translate designs and user stories into high quality and user-friendly implementations utilizing Viamo's API and integrating with third party services 
+ Work closely with other Android developers to continue evolving a sustainable and developer-friendly codebase 
+ Work closely with our QA team to develop efficient test cases for features being developed 
+ Forward-thinking collaboration with team members and tech leads on features and feature sets to help ensure sprints and releases roll out smoothly 
+ Integrate with, co-evolve and contribute to our open-sourced project: FLOIP 
+ Contribute to team processes and learning so that the engineering team meets its goal every sprint of becoming a smarter, more productive, healthier team 
+ Responsibilities 
+ Ability to achieve consistency with a style guide, but also having an intuitive sense of beautiful and aesthetic interfaces 
+ Strong ability to empathize with user needs and think like a user 
+ Experience with the latest frontend technologies such as TypeScript, Sass, Vue-js (React experience is a helpful start) 
+ Experience building apps in the Android ecosystem 
+ Additional asset would be experience with hybrid frameworks such as Vue-native, React-native and their component ecosystem NativeBase 
+ Other information: 
+Purpose + Ambition 
+ We are solving one of the world’s toughest challenges:  connecting organizations to people in low-resource settings in a meaningful, respectful, and equitable way. And we’re doing it at a global scale: We aim to reach 100M unique individuals by 2021, creating a movement of more than 2,000 organizations who are using our products to engage with their end users. 
+ Autonomy + Responsibility 
+ Every person on our team plays a critical role in creating the organization they want to work at. Our people work with their managers to create their KPIs and are responsible for meeting their goals with little direct oversight. 
+ Global Community 
+ As a distributed team, we work extra hard to stay connected. We have meetings with participants across 15 time zones and use a combination of tools to collaborate across departments and countries. 
+ Benefits 
+ 
+ Continuous learning opportunities and support for professional development 
+ Culture that values trust, curiosity, positive human impact, and diversity 
+ Health benefits plan 
+ Flexible work schedule 
+ Generous vacation 
+ Office drinks and snacks 
+ Equipment to be productive 
+ Casual dress code 
+ 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

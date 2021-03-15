@@ -1,0 +1,89 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Raptor Maps (S16) 
+ Raptor Maps builds software to manage the solar PV lifecycle. 
+ Senior Frontend Software Engineer 
+ 
+ Location 
+ Boston, MA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Raptor Maps 
+ Raptor Maps makes it simple and affordable for solar companies to adopt drone technology as a tool to increase performance, reduce costs, and standardize & compare solar PV assets across a portfolio. Founded by MIT engineers, our software helps teams convert drone and asset data into accurate, high-value system analytics and reports. We work with portfolio owners, asset managers, O&M providers, EPC contractors, and independent engineers across six continents, to identify and localize anomalies that affect energy production. Our partnerships with industry leaders in drone hardware and aerial inspections make it easy for anyone to utilize drone technology and inspect their PV assets. 
+ About the role 
+ Skills:  JavaScript, React 
+ Solar power is the #1 source of new energy in the world. Raptor Maps is a fast-growing, MIT-born startup that builds software to manage the solar lifecycle. We are deployed across 35 countries and 31 million solar panels. Our software enables the solar industry to scale. 
+ About the Position 
+ We’re looking for an incredibly talented full-time frontend software engineer with strong React expertise. You would dive right into our fast-paced, multi-faceted engineering team and play a vital role in scaling our frontend architecture. 
+ Responsibilities 
+ 
+ Design, build, test, deploy, and maintain software 
+ Contribute to individual and team projects by managing priorities, deadlines, and deliverables 
+ Mentor other team members on frontend development techniques, process, and coding standards 
+ Prepare and participate in software design discussions and code reviews 
+ Communicate and problem solve with various stakeholders such as customer-facing teams, product management, and leadership. 
+ 
+ Qualifications: 
+ 
+ You are highly self-motivated, resourceful, and enjoy working alongside a motivated team 
+ You love learning new things fast and staying up on technology 
+ You iterate to improve software and deliver products 
+ You have experience architecting scalable frontend systems 
+ You have 4+ years of work experience in frontend software development 
+ You have experience with general purpose software programming languages (e.g. Python, Java, Javascript, etc.) You hold a Bachelor’s degree in Computer Science, similar technical field of study, or equivalent practical experience. 
+ 
+ Preferred Qualifications 
+ 
+ 2+ years developing with React 
+ Experience building complex frontend mapping interfaces using tools such as Mapbox, Google Maps, or ESRI. 
+ Experience creating products and tools for users to visualize technical data 
+ Have a sense of urgency. We are tackling a global problem, working in a fast-paced industry, and building a once in a lifetime company at Raptor Maps. 
+ 
+ Location: 
+ Work remote, work in a Boston-based office, or take a hybrid approach 
+ To Appy: 
+ Please go here:  https://raptor-maps.breezy.hr/p/a3f5aea63cc0-frontend-software-engineer 
+ Technology 
+ We have extensively used Python, Javascript (with React), Postgresql, AWS, and GCP for ML workloads, but as we grow we continue to build services and abstractions that leverage the right tool for the right job while maintaining readability and ease of use. We emphasize the core concepts, ideas, and data structures more than the particular technology/language. We do use tools like TensorFlow, OpenCV, and Numpy for image processing and our analytics engine. Many of our interfaces leverage maps or geolocation. Our mobile application uses React Native. We're approaching renewable energy digitization and software with a fresh look by blending deep engineering expertise with an eye towards the product and user experience. 
+ Other jobs at Raptor Maps 
+ Backend Software Engineer 
+ fulltime 
+ Boston, MA / Remote 
+ Backend 
+ 3+ years 
+ Frontend Software Engineer 
+ fulltime 
+ Boston, MA, USA / Remote 
+ Frontend 
+ 3+ years 
+ Full Stack Software Engineer 
+ fulltime 
+ Boston, MA, USA / Remote 
+ Full Stack 
+ 3+ years 
+ Senior Frontend Software Engineer 
+ fulltime 
+ Boston, MA / Remote 
+ Frontend 
+ 3+ years 
+ Senior Backend Software Engineer 
+ fulltime 
+ Boston, MA / Remote 
+ Backend 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

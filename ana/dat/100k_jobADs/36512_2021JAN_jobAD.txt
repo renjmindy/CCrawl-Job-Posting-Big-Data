@@ -1,0 +1,372 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+ Responsive Web Design 
+ 
+ Responsive Web Design Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance Responsive Web Design Developer ? 
+ ](https://www.workana.com/hire/responsive-web-design) 
+ Yesterday 
+ Property Website 
+ Published: Yesterday  Deadline: 62 Bids: 21 
+ We need a corporate website featuring our company's vision, team members, contact form and all of our listings. 
+For our listings, we would also like to have a filter function that allows our clients to search by area, property type,  no.of  bedrooms, price range etc. 
+Also, we would like on build on a CRM system that allows us to automatically update potential clients when we have new listings in the future 
+ If you have any previous projects/websites related to property, could you kindly send us the links so we can have a general idea of what it would be like? 
+ We would like to get started as soon as possible. Looking forward to hear from you! 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Setup software bundle 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.) 
+ Published by:  N. Last reply: 13 hours ago  Malaysia 
+ USD 1,000 - 3,000 
+ Yesterday 
+ Design Wordpress page and menus for online course 
+ Published: Yesterday  Bids: 4 
+ Hi. 
+ I need to design a web page for an online course. 
+ The web is in Wordpress and has the Enfold theme installed, which is very versatile. 
+ You only need to make a single template page. It is not required to do the whole web, only the template page. 
+ The design must be as similar as possible to the attached image: 
+ - Side menu that shows by default only the mother pages (pages), the children (subpages) will be seen only when clicking. 
+ - The side menu will be fixed, it will not scroll when scrolling on the screen. Only the content will scroll. If the menu options are too many to appear with the fixed menu, the menu will scroll, but independent of the content section. 
+As seen in the attached image. 
+ - Although it is not necessary for the design to be exactly like the image, it must be clear and clean. I have tried with Wordpress menu plugins and they are not clear and with good design. 
+ - It must be responsive, and the menu must work on tablets and mobiles 
+ Thank you. 
+ Category  : IT & Programming 
+ Subcategory  : Wordpress 
+ What is the scope of the project?  : Custom development 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Published by:  V. United States 
+ USD 50 - 100 
+ Yesterday 
+ App Flutter 
+ Published: Yesterday  Bids: 7 
+ Desenvolver MVP do app My Line Health em flutter. 
+ Protótipo:  https://framer.com/share/My-Line-Healthz--bceP5SPvliRPB8p7kWJP/YHF0Cu_VE?fullscreen=1#YHF0Cu_VE 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone 
+ I need to  : Create an app 
+ App type  : Other 
+ Back-end is required  : Yes 
+ Payment gateway  : No 
+ Published by:  D. O. Brazil Payment method:  __Verified 
+ USD 1,000 - 3,000 
+ Yesterday 
+ Flutter Alarm Clock (Android Only) 
+ Published: Yesterday  Bids: 3 
+ I don't need screens, just dart function to create a Android Alarm 
+ Alarm just need: 
+id: int 
+date: Date 
+Hour: int 
+Minutes: int 
+withVibration: bool 
+withSound: bool 
+ and when it is fired open a simple flutter screen (without beautiful ui) with stop button. 
+ Have to work with locked device. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : Android 
+ I need to  : Modify an existing app 
+ App type  : Other 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  G. M. L. Brazil 
+ USD 250 - 500 
+ Yesterday 
+ Mobil App for Android Pos 
+ Published: Yesterday  Bids: 4 
+ Descripción: 
+We need 1 APP for Android POS Version 7: 
+1. Standar ISO8583 Message 
+a) Purchage 
+b) Returm 
+c) Reverse 
+d)Log On 
+e) dukpt key 
+2. Read the different Cards, EMV, Magnetic Stripe, QR, etc 
+1) Card Number 
+2) Track ii 
+3) emv tag 
+4) introduce with the keyboard the id 
+3. 
+Connect to a Web Service or IP and Port in the server for send the message 
+4. Administrative Menu for configuring the IP, port, currency, merchant Name, Merchant ID, terminal ID and other 
+We will send you a document with all the specification 
+If you want to do the works, please send your experience and offer 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Create a new app 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ Required platforms  : Android 
+ I need to  : Create an app 
+ App type  : Other 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  J. C. R. Venezuela 
+ USD 1,000 - 3,000 
+ Yesterday 
+ Make mobile app cross platforms 
+ Published: Yesterday  Project duration: 1 - 4 weeks Bids: 7 
+ Seeking make mobile app for my business. European or American are prefer. 
+Also have knowledge about api. 
+ More detail can discuss at PM 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : Full time 
+ Required platforms  : iPhone, Android, iPad 
+ I need to  : Create an app 
+ App type  : Management - Management application (appointments, product stock, etc.) 
+ Back-end is required  : No 
+ Payment gateway  : Yes 
+ Published by:  J. C. Last reply: 22 hours ago  Brazil 
+ Over USD 40 / hour 
+ 2 days ago 
+ To publish Ios App 
+ Published: 2 days ago  Bids: 2 
+ I have my website in responsive format ready, ipa file ready, icon design and screenshots ready. 
+ The website address:  https://www.gymncare.com 
+ Basically I just need a registered iOS developer to publish the App for me. May I know how many hours it will take to complete the job and how much in total? 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Small change or bug 
+ Is this a project or a position?  : Project 
+ I currently have  : I have the design 
+ Required availability  : As needed 
+ Required platforms  : Android, iPhone, iPad, Other 
+ App type  : e-Shop 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  G. C. K. Last reply: Yesterday  Malaysia 
+ Less than USD 50 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

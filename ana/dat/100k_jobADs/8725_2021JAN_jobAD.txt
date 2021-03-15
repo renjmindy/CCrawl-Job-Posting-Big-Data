@@ -1,0 +1,103 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Technical Specialist 
+ University Health Network 
+ __Toronto, ON 
+ Apply Now 
+ University Health Network (UHN) is looking for an experienced professional to fill the key role of Technical Specialist in our Bioinformatics and HPC Core team for the CanDIG Project (https://www.distributedgenomics.ca). 
+ Transforming lives and communities through excellence in care, discovery and learning. 
+ In the current landscape of large-scale biological data, genomics has the ability to unravel the mysteries of various human disease. Access to this data remains a challenge. CanDIG’s initiative is to unlock genomic data and create a nationwide distributed network for easy access to researchers and clinicians while retaining privacy through each institute. 
+ To accomplish this, we need software developers with a background in large scale data warehousing, analysis and distributed computing. We will be the data providers for several Canadian projects including the Precision Oncology for Young People (https://www.tfri.ca/profyle) and the Manathon of Hope Cancer Centres Network (https://www.tfri.ca/our-research/marathon-of-hope). 
+ The University Health Network, where “above all else the needs of patients come first”, encompasses Toronto Rehabilitation Institute, Toronto General Hospital, Toronto Western Hospital, Princess Margaret Cancer Centre and the Michener Institute of Education at UHN. The breadth of research, the complexity of the cases treated, and the magnitude of its educational enterprise has made UHN a national and international resource for patient care, research and education. With a long tradition of groundbreaking firsts and a purpose of “Transforming lives and communities through excellence in care, discovery and learning”, the University Health Network (UHN), Canada’s largest research teaching hospital, brings together over 16,000 employees, more than 1,200 physicians, 8,000+ students, and many volunteers. UHN is a caring, creative place where amazing people are amazing the world. 
+ University Health Network (UHN) is a research hospital affiliated with the University of Toronto and a member of the Toronto Academic Health Science Network. The scope of research and complexity of cases at UHN have made it a national and international source for discovery, education and patient care. Research across UHN's five research institutes spans the full spectrum of diseases and disciplines, including cancer, cardiovascular sciences, transplantation, neural and sensory sciences, musculoskeletal health, rehabilitation sciences, and community and population health. Find out about our purpose, values and principles here. 
+ Qualifications: 
+ 
+ Extensive experience with Linux operating systems and automation (e.g. bash, scripting); 
+ Proficiency with HPC technologies including cluster schedulers such as Slurm; 
+ Experience with container technology such as docker and singularity; 
+ Experience deploying and operating software in a team environment, including understanding of modern development lifecycles; 
+ Practical experience with version control tools (such as git and GitHub); 
+ Familiarity with authorization of web applications; 
+ Experience with virtualization technologies; 
+ Excellent communication and teamwork skills; 
+ Demonstrated ability to work both independently and in a team 
+ Demonstrated ability to collaborate with external partners 
+ Experience in documenting and writing tests for infrastructure code, and using CI/CD pipelines with those tests 
+ Enough experience in Python to be able to read and understand infrastructure or glue code written idiomatically in that language 
+ Experience in delegation and project leadership 
+ Strong collaboration skills to work with internal team members and external collaborators. 
+ Ability to manage time between multiple priorities 
+ Demonstrated ability to build ad ship tools that others can build upon 
+ Willingness to learn what is needed for the task at hand 
+ Willingness to improve the team’s tools and processes 
+ 
+ Nice to have: 
+ 
+ Security monitoring of web applications 
+ Experience handling genomics or clinical data 
+ OpenID Connect knowledge 
+ HL7/FHIR data model for clinical/phenotypic data 
+ Experience with 12-factor app or microservice architectures 
+ Docker compose, Terraform, Ansible or similar for deployment 
+ Experience working in a distributed team 
+ Privacy-oriented mindset or experience 
+ Experience with bioinformatics or health data 
+ Demonstrated experience writing code relevant to backend services 
+ Experience with database modeling and designing 
+ 
+ Responsibilities: 
+ 
+ Design and implement solutions for deployment, monitoring, alerting, backups; 
+ Perform System administration (Linux) and operations; 
+ Perform Daily monitoring, administration, and troubleshooting of HPC systems; 
+ Support end users in a scientific research environment; 
+ Deploy and maintain bioinformatics tools on a distributed file system; 
+ Design and implement those solutions with minimal supervision, independently seeking input from relevant teammates or collaborators the constraints/requirements and proposing design decisions based on that input 
+ Own the health and operation of internal and production environment operation; 
+ Work with other sites across the country on designing and implementing best-practices for operations and monitoring; 
+ Contribute to technical documentation; 
+ Troubleshoot issues - correctness or performance - on any layer of the technology stack (db, application, software); 
+ Participate with development team and help automate test deployment and moving test deployments into production; 
+ Respectfully review other teammates’ infrastructure code, and incorporating respectful code reviews into your own work; 
+ Work with health research projects to help them ingest data; 
+ (Optional) eventually represent CanDIG at collaboration and standards-setting meetings 
+ 
+ If you are interested in making your contribution at UHN, please apply on-line. You will be asked to copy and paste as well as attach your resume and covering letter. You will also be required to complete some initial screening questions. 
+ POSTED DATE:  November 16, 2020 CLOSING DATE: Until filled 
+ For current UHN employees, only those who have successfully completed their probationary period, have a good employee record along with satisfactory attendance in accordance with UHN's attendance management program, and possess all the required experience and qualifications should apply. 
+ University Health Network thanks all applicants, however, only those selected for an interview will be contacted. 
+ UHN is a respectful, caring, and inclusive workplace. We are committed to championing accessibility, diversity and equal opportunity. Requests for accommodation can be made at any stage of the recruitment process providing the applicant has met the Bona-fide requirements for the open position. Applicants need to make their requirements known when contacted. 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

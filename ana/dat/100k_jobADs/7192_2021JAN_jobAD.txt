@@ -1,0 +1,234 @@
+  
+ 
+ Jobs 
+ Features 
+ Newsletter 
+ Login 
+ 
+ Talent  Startup 
+ I am a 
+ Jobseeker Talent 
+ or a 
+ Hiring Startup 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign up using linkedin   __ 
+ Hello 
+ Email 
+ Password 
+ Forgot your password? 
+ Sign up for a new account 
+ sign in using linkedin   __ 
+ Employers  __ 
+ Employers  __ 
+ __filters __search 
+ Filter by category 
+ All Jobs Developer Jobs Marketing Jobs Ops and Finance Jobs Manager Jobs Customer Support Jobs Sales Jobs Data and Product Jobs Internships Co-Founder Roles Designer Jobs People and Other Jobs 
+ Filter by type 
+ full-time part-time freelance 
+ Advanced Search 
+ search jobs __ 
+ Senior Perl Developer 
+ at Adzuna 
+ go back to Developer Jobs 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ 
+ apply 
+ 
+ 
+ 
+ 
+ 
+ 
+ __London 
+ 
+ 
+ __fulltime 
+ 
+ 
+ apply now 
+ 
+ 
+ 
+ Description 
+ Hiring UK, or Remote +/- 2 hours GMT 
+ About us: 
+ Adzuna is a job search engine that lists every job, everywhere. From launch in the UK in 2011, we now have more than 10 million visitors a month and are busy conquering the world from our office in West London, helping millions of people find better, more fulfilling jobs. 
+ The role: 
+ We're looking for a Perl developer to help us make job search better. This is a rare and exciting opportunity to be a part of the ongoing development and rapid growth of the Adzuna job search engine in one of the UK's most dynamic and fastest-growing startups. 
+ Our infrastructure is built around industry-standard open-source tools and runs on distributed clusters. You will be a key member of a small, experienced team that oversees all aspects of our operations, ranging from powering our international websites, aggregating jobs from thousands of external sources, to crunching job market data to power our statistics and applying machine learning algorithms to enhance job seekers' experience. 
+ At Adzuna you will work independently in a fast-moving, low-structure environment where you will have the opportunity to help shape our technical direction and processes as we grow. An appreciation of the 'DevOps' movement is essential as we manage and monitor the systems ourselves. You will also need to understand the importance of building structured code that is fast, scalable, testable, reliable and robust. 
+ The types of projects you will work on will include new search features, relevancy and matching algorithms, APIs and 'big data' analysis, reporting tools and features to enhance the job search experience on Adzuna and accommodate the requirements of a wide partner network. Our systems have been built to scale, and you will be able to demonstrate your experience in writing scalable code running in distributed environments. 
+ We offer a fun and supportive working environment, with an emphasis on team-working, mentoring and training. Adzuna is an exciting high-growth business where you can make a huge difference, with a market competitive package including stock options. 
+ We are open to someone either working from our great West London location where you can take advantage of our jam-packed social calendar or working remotely. 
+ In this role you will: 
+ 
+ Partner with other developers and data scientists to improve existing systems and develop new functionality and tools 
+ Analyse business and technical requirements and develop solutions, taking into account various aspects, such as performance, scalability, ease of maintenance and cost. 
+ Help refactor existing processes and workflows to improve efficiency 
+ Participate in R&D of new technology trends and tools 
+ 
+ Requirements 
+ Required skills: 
+ 
+ 
+ 5+ years with high-volume/high-traffic applications/sites 
+ 
+ 
+ Excellent Object-Oriented Perl, preferably including Moose 
+ 
+ 
+ Strong SQL (ideally MySQL) and DBIx::Class 
+ 
+ 
+ Experience with unit and functional testing (Test::More etc.) 
+ 
+ 
+ Good experience with Unix/Linux 
+ 
+ 
+ Git 
+ 
+ 
+ Solid understanding of application data flow and lifecycles 
+ 
+ 
+ Strong attention to detail 
+ 
+ 
+ Comfortable working within a distributed and remote team 
+ 
+ 
+ Useful extra skills / experience: 
+ 
+ 
+ Solr, Lucene, ElasticSearch or other search engine 
+ 
+ 
+ Templating frameworks (ideally Template Toolkit) 
+ 
+ 
+ Classified ads / vertical search websites 
+ 
+ 
+ Varnish, nginx, PSGI/Plack, Apache httpd, FastCGI 
+ 
+ 
+ Spidering technology 
+ 
+ 
+ Search technology and search engine optimisation 
+ 
+ 
+ Cloud infrastructure and tools (AWS preferred) 
+ 
+ 
+ Chef (pref), Puppet or an equivalent 
+ 
+ 
+ Gearman or other distributed queueing/messaging frameworks 
+ 
+ 
+ Unicode and internationalisation 
+ 
+ 
+ Machine learning / neural nets 
+ 
+ 
+ Python 
+ 
+ 
+ Node.js 
+ 
+ 
+ Benefits 
+ Reward We offer a competitive financial package which includes competitive salary, stock options, a contributory pension scheme and Perks at Work. 
+ 
+ Wellbeing: We take the wellbeing of our employees seriously and have taken every step possible to protect the health and wellbeing of our people during COVID-19. Amongst other things, we offer healthcare through Babylon Health, access to free counselling and a programme of wellbeing activities and events. We have a flexible working policy and during COVID-19, for the foreseeable, no one is expected back in the office unless they choose to attend. We also run regular wellbeing workshops, offer enhanced maternity and paternity leave because we welcome people with families, and 25 days paid holiday per year 
+ Training: Through our Adzuna Academy training programme, attending (virtual) conferences, team training budgets, individual development plans and coaching from experienced and supportive peers and managers. 
+ Fun stuff: An environment that is thoughtfully designed to allow for work and play including (when we're not restricted by COVID-19) a roof terrace, bar and table tennis. We have a packed social calendar, twice annual global team get-togethers and an enviable culture thanks to the amazing and smart people who make Adzuna a great place to work. Much of this is all done remotely at the moment of course - even during COVID-19 we are still managing to have a lot of fun 'together' thanks to our great Social Committee. 
+ 
+ A bit more about Adzuna 
+ Adzuna is a smarter, more transparent job search engine used by tens of millions of visitors per month. We love using the awesome power of technology to bring together every job in one place, help match people to better, more fulfilling jobs and keep Britain working. 
+ Adzuna.co.uk is a 100 person business operating across 16 territories and was founded in 2011 by Andrew Hunter and Doug Monro, formerly of eBay, Gumtree, Qype and Zoopla. 
+ We are backed by leading Venture Capital firms Passion Capital, LocalGlobe, Index Ventures and Smedvig Capital. 
+ We've spent a decade developing smarter, more transparent job search so jobseekers worldwide (we're in 16 countries) can zero in on the right role faster. 
+ We also supply real-time data to the Number 10 Dashboard and Office for National Statistics labour market indices. In 2018, Adzuna won the contract to run Find a job, one of the British government's most used online services. 
+ We treat jobseekers as people not as products. We do the same for our team, seeing the diverse range of strengths they bring to our business. Regardless of background, race, gender, sexuality or ability, we welcome everyone to our team. Our people are the most important asset we have. 
+ Please let us know if we need to accommodate a disability during the hiring process, so that we can give you the support you need. 
+ Proud member of the Disability Confident employer scheme 
+ Published at 22 Dec 2020 - Expires on 12 Mar 2021 
+ You need to be logged in to apply.   Login  or  create an account . 
+ Is this job ad fake? Report it! 
+ ×  Warning! 
+ __get the latest startup jobs emailed to you 
+ Developer Jobs Designer Jobs Internships Marketing Jobs Manager Jobs Sales Jobs Co-Founder Roles Data and Product Jobs People and Other Jobs Ops and Finance Jobs Customer Support Jobs 
+ By creating this alert, you agree to our 
+  T&Cs;  
+ and 
+  Privacy Policy  
+ and Cookie Use. 
+ New Jobs Alert created! 
+ By creating this alert, you agree to our 
+  T&Cs;   
+ and 
+  Privacy Policy   
+ and Cookie Use. 
+ other jobs at  Adzuna 
+ fulltime  Strategy Manager  at Adzuna in London 
+ __14-09-2020 
+ fulltime  Campaign Analyst  at Adzuna in London 
+ __01-10-2020 
+ fulltime  Global Partnerships Manager  at Adzuna in London 
+ __25-11-2020 
+ fulltime  B2B Marketing Manager  at Adzuna in London 
+ __01-12-2020 
+ fulltime  Agency Lead Germany  at Adzuna in London 
+ __22-12-2020 
+ fulltime  Development Manager  at Adzuna in London 
+ __22-12-2020 
+ fulltime  Customer Success Manager  at Adzuna in London 
+ __22-12-2020 
+ fulltime  Account Manager, France  at Adzuna in London 
+ __04-01-2021 
+ 
+ 
+ * [Terms of Service](https://workinstartups.com/job-board/terms)
+ 
+ 
+ Privacy 
+ Cookie Policy 
+ Acceptable Use Policy 
+ Still Hiring 
+ 
+ 
+ 
+ * [About Us](https://workinstartups.com/job-board/about)
+ 
+ 
+ FAQ 
+ Cities 
+ Contact 
+ 
+ 
+ 
+ * [__Facebook](https://www.facebook.com/workinstartups/)
+ 
+ 
+ __Twitter 
+ __Instagram 
+ Blog 
+ 
+ 
+ 
+ © Copyright Work In Startups 
+ This site uses cookies. By continuing to use this site you are agreeing to our use of cookies.  Read more  Close 

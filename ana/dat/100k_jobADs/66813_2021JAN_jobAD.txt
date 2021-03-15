@@ -1,0 +1,151 @@
+William Gill 
+ I make stuff. 
+ Menu 
+ Skip to content 
+ 
+ home 
+ about 
+ blog 
+ 
+ User Experience is everybody’s job 
+ Posted on  May 30, 2016  by  will 
+ I’ve met lots of product teams who will tell you: “User Experience is a design thing.” They hire ‘User Experience Designers’ to design the User Experience, and generally assume that they alone are responsible for the overall UX. 
+ I believe that simply assuming the User Experience is a ‘Design Thing’ is a very dangerous mindset, for three very important reasons. 
+ 
+ Within a product, the overall User Experience isn’t delivered only through design. 
+ Certainly a big part of the UX is the visual design, the interaction design, the brand design, and so on. But an equal part of UX is the implementation of that design through technology. The danger in assuming that UX is a ‘Design Thing’ is that it quickly leads to people from other disciplines disconnecting from worrying about the User Experience at all. Every technology decision has an impact on the User Experience, which makes every engineer who is making any technology decisions - (which is every engineer) - equally responsible for ensuring a great UX. 
+ Too often I see product tradeoffs being made where teams decide to sacrifice the user experience in favour of saving time, saving cost, avoiding that refactor or simplifying that internal process. These are all terrible reasons to sacrifice the User Experience. Additionally, sometimes the best User Experience improvements come exclusively through technology improvements. For example performance improvements, which can have a huge impact on UX, often come from deep and complicated engineering innovation. 
+ Engineers: The User Experience is your job, too! 
+ User Experience is also about solving the right problems for the user, and solving them with the right priority. 
+ The user will judge the user experience to the extent that it solves their problem. A perfectly executed product that doesn’t solve a problem for the user won’t lead to a great User Experience. 
+ This is where Product Managers should feel in command of the User Experience: in making sure the problems you’re solving are urgent and pervasive within your market segment, and that the solutions you are delivering are differentiated and defensible. Make no mistake: this has the biggest impact on your User Experience - and the resulting product success - than anything else, so it makes sense that you should focus here. 
+ Product Managers: The User Experience is your job, too! 
+ The overall User Experience goes beyond just the app/website/service/widget that you’re building. 
+ When we’re working as Product Managers on digital products, we’re all so concentrated on our app, website, widget or whatever, that it’s easy to lose sight of the fact that your app is just one piece of the whole User Experience. 
+ The overall UX starts the moment the user first hears about your product, and goes all the way to support, fulfilment, billing, etc. In other words, the User Experience spans the entire customer lifecycle. 
+ We hire people with titles like ‘User Experience Designer’, but then put them to work designing user flows within single apps or products. To me, there is a difference between Interaction Design and User Experience design. 
+ Interaction Design is concerned with the design of discreet experiences - interactions - within customer experiences. How does the user interact with this feature/product/widget? 
+User Experience Design takes a holistic view of the entire end-to-end user journey - from their first contact with the product via a marketing message, the app store or even a word-of-mouth recommendation, all the way to customer support, billing, delivery, etc. 
+ But it’s not only the job of the User Experience Designer to think end-to-end. Everybody working on the product should have the entire end-to-end flow in mind, to understand the unique context of each user, why they are there, what problems they have and what they are hoping to achieve. 
+ Marketeers, Support Engineers, PR folks, Delivery technicians, Logistics technicians, etc: The User Experience is your job, too! 
+ Why this matters 
+ Users have more ability to discover and switch to new services than ever before. Traditional lock-in effects like platform dependencies and data ownership are eroding thanks to open platforms and data portability, and there are great alternatives in every product vertical. The thing that keeps people using your product or service is the quality of the user experience, from end to end. 
+ Companies that become great and enjoy great customer loyalty do so by developing a culture of unwavering customer focus. Sure, many companies  say  they are customer focussed, but actually  being  customer focussed is more than just a mission statement - it’s a deeply embedded culture that everyone lives and breathes from the CEO down. 
+ A couple of examples: 
+ 
+ Facebook prioritises the customer experience over everything. Facebook understands that their business model depends on gaining more and more users who each spend more and more time using Facebook. Their business is cultivating user attention. Everything else in the business comes second to user engagement. 
+ Amazon is another company which was founded and grew on the fundamental premise of making the experience great for the customer. When Jeff Bezos launched Amazon.com in the mid 90s, he knew that the key to scaling massive consumer adoption extremely quickly was an unwavering focus on a great customer experience, and he considered the customer the most important thing in the business. He built this customer-first attitude into the company’s DNA from day one, and every innovation they have delivered - from 1-Click ordering, to personal recommendations, to the Kindle eReader to the voice-controlled Echo - has been about making a great customer experience and making it easier to shop and interact with your content. 
+ 
+ A few ways to make sure you’re thinking end-to-end about UX 
+ 
+ Do you share a common set of User Personas across all departments, including tech, QA, product, design, marketing, comms and support? Having a common set of personas ensures that everyone has the same user in mind when designing their solutions. 
+ Does your QA team test the entire acquisition and on-boarding funnel? It’s important, but insufficient, to focus your QA efforts on the app/website/etc. You need test coverage of the whole end-to-end experience. If you don’t QA your marketing or your support functions, you should consider doing so. For example, you can test your support team with the ‘secret shopper’ approach. 
+ Consider a ‘Stop the line’ policy for the User Experience. It’s a familiar concept to your engineers - certain situations within the build environment, such as test coverage dipping below a certain level, or open bugs exceeding a certain threshold, will trigger a ‘stop the line’ where no new check-ins can occur until the situation is resolved. What if you did the same for User Experience? What if you gave everybody in the product team - from Product Management and Design, to Engineering, QA, Marketing, Comms, Support, etc - the permission to Stop the line? To put a pause on building anything new until the UX issue is resolved? What impact would that have on your customer focus? 
+ 
+ Ultimately, the User Experience is the culmination of every touchpoint you have with your customers. This experience can, and should, be designed from end to end. But it’s not just the ‘job’ of Design to get it right. 
+ UX is everybody’s job. 
+ 
+ Click to share on Facebook (Opens in new window) 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on LinkedIn (Opens in new window) 
+ Click to share on Google+ (Opens in new window) 
+ Click to email this to a friend (Opens in new window) 
+ 
+ 
+ This entry was posted in  Design ,  Product Management  and tagged  Design ,  user experience . Bookmark the  permalink . 
+ Post navigation 
+ <- Ways to think about Android Instant Apps, and what it means for developers   Notes on using the iPad Pro for "real work" -> 
+ Leave a Reply  Cancel reply 
+ Your email address will not be published. Required fields are marked * 
+ Comment 
+ Name * 
+ Email * 
+ Website 
+ Search for: 
+ Archives 
+ 
+ October 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ August 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ July 2016 
+ May 2016 
+ March 2016 
+ February 2016 
+ December 2014 
+ July 2014 
+ April 2014 
+ February 2014 
+ January 2014 
+ November 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ January 2012 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ 
+ Meta 
+ 
+ Log in 
+ 
+ William Gill 
+ Sitemap 
+ 
+ 
+ Home 
+ About 
+ Blog 
+ 
+ Connect 
+ 
+ 
+ LinkedIn 
+ Facebook 
+ Twitter 
+ Instagram 
+ 
+ 
+ © Copyright 2018 William Gill. Site design and development by William Gill.  |   Powered by WordPress . 
+ Send to Email Address Your Name Your Email Address Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 

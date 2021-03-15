@@ -1,0 +1,115 @@
+WORK WITH INDIES beta 
+ Newsletter 
+ Browse Jobs 
+ Art & Animation 
+ Audio 
+ Business & Operations 
+ Design 
+ Marketing & Community 
+ Production 
+ Programming 
+ QA & CS 
+ Writing 
+ Post a Job 
+ Back to all jobs See allProgrammingjobs 
+ Lead Programmer 
+ Funomena Apply for this Job 
+ Posted 
+ January 11, 2021 
+ Full Time 
+ Anywhere 
+ Remote 
+ We are looking for someone passionate about growing team engineering skills and capable of shepherding technology on a project through completion. You will be responsible for leading a small team (2-3) of engineers to build a new (unannounced) game project. This position also requires significant hands-on coding. While our offices are located in San Francisco, the entire Funomena team is currently working remotely due to the pandemic.  ‍ 
+ ‍ 
+ **  Responsibilities: ** 
+ 
+ Work with the art, production, and design teams to develop a unified vision of the game and schedule targets 
+ Manage the technical scope of the project and distribution of work across the engineering team 
+ Mentor junior engineers and share best practices knowledge with the rest of the studio 
+ Design, implement, and maintain key parts of gameplay, engine, and tools systems 
+ Ensure game meets technical goals regarding stability, performance, and platform requirements 
+ Research new hardware platforms and APIs to determine their strengths and limitations, and decide on appropriate engine and middleware solutions 
+ Work with external hardware partners to report issues and plan for updates 
+ 
+ **  Requirements: ** 
+ 
+ Excellent knowledge of C++ or C# 
+ Shipped 2 commercial titles as an engineer 
+ Shipping experience with commercial engines (Unreal, Unity, etc) 
+ Good at breaking down abstract ideas into concrete tasks 
+ Understands how to balance rapid iteration with long-term robustness 
+ Excellent communication skills with different disciplines 
+ Experience using profiling and debugging tools 
+ Understanding of efficient memory management 
+ Experience with multithreading and concurrency 
+ Patience with experimental hardware and buggy APIs :)  ‍ 
+ 
+ ‍ 
+ **  Bonus: ** 
+ 
+ Experience with experimental / in-development hardware platforms 
+ Experience with VR or AR 
+ Experience in a lead role 
+ 
+ ‍ 
+ Our Games 
+   Luna  is a fable about a bird, an owl, and the moon. 
+ A Bird's peaceful summer slumber is disturbed by the majestic call of a mysterious Owl. Enticed to swallow the last piece of the waning Moon, Bird is blown far from its Golden Gate home. 
+ Unscramble celestial puzzles and create miniature musical worlds. Re-awaken shadowy forests and bring life back to sparkling lakes. Discover hidden creatures, help Bird reunite the fragmented Moon... and find its way home. 
+ Brought to you by Funomena’s uniquely diverse team of veteran developers (  Journey, Flower, Boom Blox, The Sims 2  ) Luna is an interactive fable about learning by the light of unexpected mistakes. 
+ ‍ 
+ ‍ 
+   Wattam  [ˈwät-ˈtäm] n. A combination of the Japanese word (wa) and the Tamil word (vattam) for circle. 
+ Mayor is alone in a dark world with no memories, too sad to realize his dear friends are still nearby. However, an unexpected reunion helps him remember the joy in simply grabbing a friend by the hand and running off to adventure together. 
+ Join Mayor as he reunites with new and old friends and discover the forgotten joy of their world. Take control of a cast of characters by yourself or with a friend, transform into fruits & poops, climb to new heights, laugh, cry, tumble, and soar beyond the differences of words and thoughts to bring everyone together. Learn to have fun again! 
+ ‍ 
+ ‍ 
+ About Funomena 
+ We’re an independent game studio in downtown San Francisco, CA, making experimental, playful and emotionally engaging experiences for a variety of platforms. The company was founded in January of 2013 by Robin Hunicke and Martin Middleton - two passionate game developers who believe that games can have a positive impact on the world. 
+ From our collaborative studio culture, to our vibrant, inclusive community, everything we do at Funomena is focused on one thing: connection. We understand that through meaningful and intentional play, we can all feel joy and deepen our relationships with partners, family members, friends, and most importantly with ourselves. We make games that evoke surprising emotions, leave enduring impressions, and help guide our players to new places in their journey! 
+ ‍ 
+ ‍ 
+ Funomena is committed to creating an inclusive and safe work environment that reflects the diversity of the world around us. We are an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to their race, ethnicity, religion, gender, sexual orientation, age or disability status. 
+ Funomena is an E-verified company that does visa sponsorship if required. 
+ Apply for this Job 
+ related jobs 
+ Spry Fox is hiring a Engineering Leadto join their team into work fromAnywhereEngineering LeadSpry Fox | AnywhereLearn More 
+ Jackbox Games is hiring a Senior Gameplay Engineerto join their team into work fromChicago, ILSenior Gameplay EngineerJackbox Games | Chicago, ILLearn More 
+ Jackbox Games is hiring a Fullstack Web Engineerto join their team into work fromChicago, ILFullstack Web EngineerJackbox Games | Chicago, ILLearn More 
+ Herobeat Studios is hiring a Programmerto join their team into work fromAnywhereProgrammerHerobeat Studios | AnywhereLearn More 
+ sunset visitor is hiring a Unity Developerto join their team into work fromCanadaUnity Developersunset visitor | CanadaLearn More 
+ BlitWorks is hiring a Junior Unity Engineerto join their team into work fromBarcelona, ESJunior Unity EngineerBlitWorks | Barcelona, ESLearn More 
+ Indie games are wonderful. So are the people that make them. 
+ Make wonderful games. Be wonderful people. Work With Indies. 
+ Thank you for joining the Work With Indies newsletter! The next issue will arrive on Sunday. 
+ Oops! Something went wrong. Please try again. 
+ *Sign up to receive a weekly digest of new indie career opportunities. 
+ WORK WITH INDIES 
+ We’ve been lucky to have some incredible jobs working at and partnering with some of the biggest brands in video games. 
+ But we’ve never had more fun and been more fulfilled than when we were working with indie game developers. 
+ Everyone in games should have that much fun. 
+ Our hope is that Work With Indies will connect job seekers with the most rewarding, most inspirational, and most fun jobs they've ever had. 
+ NAVIGATION 
+ 
+ Post a Job 
+ Terms 
+ Privacy 
+ RSS 
+ Communities 
+ Nick's Cat 
+ 
+ CONTACT US 
+ 
+ 
+ nathan@workwithindies.com 
+ twitter.com/workwithindies 
+ facebook.com/workwithindies 
+ 
+ ^ 
+ Made by 
+ @natethenate 
+ and 
+ @nsuttner 
+ for people who 
+ indie games. 
+ © 2021  A Lot of Happy LLC 

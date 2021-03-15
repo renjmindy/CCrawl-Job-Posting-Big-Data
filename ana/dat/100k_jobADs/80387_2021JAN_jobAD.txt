@@ -1,0 +1,46 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Job & Workflow Setup 
+ Creating a Job 
+ 
+ How do I create a job for internal use only? 
+ Nick DeSimone 
+ 
+ January 02, 2020 16:20 
+ Updated 
+ 
+ Follow 
+ All users   except Reviewers & External Recruiters 
+ All plans 
+ You can create a job that has the   Used Internally   status. The job can be published to your careers page and job boards at a later date or can be kept internal indefinitely. 
+ Internal jobs: 
+ 
+ Are not visible on job boards or careers pages 
+ Can be viewed by all members of your account 
+ Can have a hiring team and external recruiter 
+ Have all the applicant tracking features available (e.g. comments, emails, event schedules, moving candidates through the pipeline) 
+ Can accept candidates via manual upload or the job mailbox 
+ Count as one of the active job slots in your Workable subscription plan 
+ 
+ When you create a job through Workable, you’ll see the button to ‘Publish’ it at the top right of the page. If you’re an admin you’ll see that the button has an arrow. Click the arrow to reveal the options. Once you’ve made the choice, you can move on to the hiring team or external recruiter step. 
+ Only account admins are able to publish jobs. As a team member or manager, when your job is ready to go live, click ‘Publish’, and you’ll see the option to request an admin takes the final step in the process. 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ 
+ Was this helpful? 
+ 0 out of 1 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ Using confidential jobs 
+ If I have multiple openings for the same job title, should I create multiple jobs? 
+ GDPR compliance settings  
+ Integrating with Alva 
+ Customizing the social media sharing image 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 

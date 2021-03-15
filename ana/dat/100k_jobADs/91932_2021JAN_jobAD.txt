@@ -1,0 +1,117 @@
+Cameron Macintosh 
+ Journey of a Programmer 
+ Menu Skip to content 
+ 
+ Home 
+ About 
+ Publications 
+ Resources 
+ 
+ 
+ Tag Archives: career 
+ Looking forard - goals for 2012 
+ Leave a reply 
+ During the last 3 months of 2011, I was learning and enhancing my knowledge of Javascript, CSS, and HTLM(5). I have also been looking forward, thinking about what I want to accomplish this year. Up until now, a large percentage of my efforts have been put into gaining awareness. For me, 2012 is about taking the next step, branching out, and getting significant hands on experience in a bunch of new stuff. These are my personal-professional goals for 2012: 
+ 
+ Learn the following databases: MongoDB, Neo4j, Casandra 
+ branch into iOS development (iPhone and/or iPad). Create and publish at least 3 apps. 
+ build my own Django app and get it running on a home web server. (I have an idea for this, just needs implementing. It may be the subject of future posts.) 
+ Use HTML5/CSS3 as much as possible. 
+ Get better with Python and learn some new python packages: NumPy, SciPy. 
+ Go to one tech related conference. 
+ Get better at networking. (I've found this somewhat difficult here in Champaign, IL) 
+ Increase my monthly blog post rate to at least 3 blog posts per month. 
+ 
+ Here we go 2012! 
+ This entry was posted in  miscellaneous  and tagged  career ,  goals  on  January 15, 2012  by  Cameron M . 
+ Read this 
+ Leave a reply 
+ The other day, I stumbled across this blog post on twitter: " Don't Call Yourself a Programmer ". It starts with the following: 
+ 
+ If there was one course I could add to every engineering education, it wouldn’t involve compilers or gates or time complexity. It would be Realities Of Your Industry 101, because we don’t teach them and this results in lots of unnecessary pain and suffering. This post aspires to be README.txt for your career as a young engineer. 
+ 
+ then launches into a number of examples. I think the most notable pieces of advice were the following: "  Don’t call yourself a programmer  " (define yourself in terms of your accomplishments, not your tech skills), "  Networking: it isn’t just for TCP packets  " (awareness and good-will does one wonders), and "  Modesty is not a career-enhancing character trait  ". I found most of his points refreshingly articulating things I have come to over the past six years - but lately, I have found myself working on these three more than others. 
+ I highly recommend reading this article. 
+ This entry was posted in  Software development  and tagged  career ,  Industry  on  November 3, 2011  by  Cameron M . 
+ Search for: 
+ Archives 
+ Archives Select Month July 2017  March 2016  January 2016  November 2015  August 2015  May 2015  April 2015  March 2015  December 2014  May 2014  January 2014  July 2013  May 2013  April 2013  January 2013  December 2012  November 2012  October 2012  August 2012  July 2012  June 2012  May 2012  April 2012  March 2012  February 2012  January 2012  December 2011  November 2011  October 2011  September 2011  August 2011  July 2011  June 2011  May 2011  April 2011  February 2011  January 2011 
+ Categories 
+ 
+ CSS 
+ DevOps 
+ Django 
+ HTML 
+ iOS 
+ JavaScript 
+ Learning 
+ miscellaneous 
+ NoSQL 
+ PHP 
+ Productivity 
+ Python 
+ Software development 
+ Ubuntu 
+ Web 
+ WordPress 
+ 
+ Tags 
+ 
+ Accessability 
+ AngularJS 
+ Apache2 
+ career 
+ conference 
+ configuration 
+ content management 
+ dual operating systems 
+ git 
+ goals 
+ HTML5 
+ Industry 
+ iOS 
+ iPhone 
+ iTunes 
+ life lesson 
+ Links 
+ linux alternative 
+ Mac 
+ MIME 
+ MongoDB 
+ multisite 
+ open 
+ open communities 
+ open data 
+ podcasts 
+ pyohio 
+ reference 
+ security 
+ setup 
+ style guide 
+ testing 
+ tradeoffs 
+ version control 
+ Windows 
+ 
+ Blogs I follow 
+ 
+ assertTrue() 
+ Coder Who Says Py 
+ Lucas Ward 
+ Martin Fowler 
+ 
+ Resources 
+ 
+ Agile Manifesto 
+ Git Reference 
+ Guide for first time Python contributers 
+ Hitchhiker's guide to Python 
+ Semantic Versioning 
+ Web Best Practices – by 10up 
+ 
+ Follow me on Twitter 
+ My Tweets 
+ Goodreads 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

@@ -1,0 +1,121 @@
+  
+ Search __ __ 
+   
+ 
+ 
+ Blog 
+ 
+ Product Updates 
+ Best Practices 
+ How-Tos 
+ Videos 
+ 
+ 
+ 
+ Webinars 
+ 
+ Product Hour 
+ Unexpected Automations 
+ 
+ 
+ 
+ Changelog 
+ 
+ 
+ Docs 
+ 
+ 
+ Search for: 
+ 
+ 
+ __Search 
+ Updates 
+ Network Tracing for Test Jobs 
+ Raina Ahuja 
+ 
+   
+   
+   
+ 
+ Share  Share 
+ During recipe development, developers test recipes by going to the  Test Jobs  tab and clicking the  Test  button. This update shows the network tracing for test jobs giving detailed HTTP header, request and response information. 
+ How does this help? 
+ Users want increased developer productivity and robust recipes. Developers want bug-free recipes. 
+ With the network tracing for test jobs, developers can: 
+ 
+ Detect errors early on during recipe development to create more robust recipes 
+ Resolve errors faster by troubleshooting the HTTP call details like headers and request payload 
+ Easily cross-check recipe logic with the action input and output to network tracing HTTP request 
+ Test the recipe as usual - network tracing should automatically show up 
+ 
+ Network tracing is an ideal way to review HTTP calls during development without needing any extra effort from developer or ops. 
+ How does it work? 
+ Network tracing for test jobs serves as the network-borne early warning (NEW) like the AWACS (airborne warning and control system). Developers test the recipes as they always do by going to the recipe editing mode and clicking the  Test  button. The network tracing for the actions will be available in the  Debug  tab. 
+ Links 
+ 
+ 
+ Docs 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ __0 __236 
+   
+ 
+ 
+ © Workato 2020 
+ 
+ 
+ Privacy 
+ 
+ 
+ Terms 
+ 
+ 
+ __ 
+ 
+ 
+ __ 
+ 
+ 
+ __ 
+ 
+ 
+ __ 
+ 
+ 
+   
+ ✕ 
+ 
+ Blog
+ 
+ Product Updates 
+ Best Practices 
+ How-Tos 
+ Videos 
+ 
+ 
+ Webinars
+ 
+ Product Hour 
+ Unexpected Automations 
+ 
+ 
+ Changelog 
+ Docs 
+ Search for: 
+ 
+ __ 
+ __ 
+ Latest Posts 
+ Create multiple variables in a single step with Variables connector enhancements 
+ Increased connectivity with Redshift Database connector enhancements 
+ Compress files action enhancements for Files connector 
+ __ 

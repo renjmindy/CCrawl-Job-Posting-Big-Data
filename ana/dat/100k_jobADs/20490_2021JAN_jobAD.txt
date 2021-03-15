@@ -1,0 +1,378 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ JQuery Freelance Jobs 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Looking for a  Freelance jQuery Developer ? 
+ ](https://www.workana.com/en/hire/jquery) 
+ 2 weeks ago 
+ Programming expert 
+ Published: 2 weeks ago  Bids: 2 
+ Looking for a professional programming developer who create a cheat script for a game called "Growtopia". I require freelancers with the necessary skills and knowledge to do the task. 
+ Category  : IT & Programming 
+ Subcategory  : Apps programming. Android, iOS and others 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Required platforms  : Other 
+ I need to  : Modify an existing app 
+ App type  : Game 
+ Back-end is required  : No 
+ Payment gateway  : No 
+ Published by:  A. A. Last reply: 5 days ago  Kenya 
+ USD 100 - 250 
+ 3 weeks ago 
+ Ecommerce Project Development 
+ Published: 3 weeks ago  Bids: 29 
+ Requirements: 
+ We want to create a multi-platform eCommerce project written in PHP from scratch, with a marketplace similar to Wish, eBay, and/or Amazon. 
+ We don’t want you to use CMS like Prestashop, WordPress, Woocommerce, Dokan, Shopify, etc… It is a personalized code written from scratch using up-to-date technologies. 
+ Characteristics: 
+•    Responsive 
+•    Multilanguage 
+•    Marketplace 
+•    Develop the mobile (android and iPhone) and web applications 
+•    Mobile & Website features 
+o    Find your Vendor or Products 
+o    Users can see a list of products for specific vendors 
+o    Products details 
+o    Order tracking 
+o    Etc… 
+•    Etc … 
+ Skills: 
+•    PHP 
+•    MySQL 
+•    AJAX 
+•    Bootstrap 
+•    jQuery 
+ Category  : IT & Programming 
+ Subcategory  : E-commerce 
+ What is the scope of the project?  : Create a new store 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ API Integrations  : Payment Processor (Paypal, Stripe, etc.) 
+ Roles needed  : Developer, Designer 
+ Published by:  E. P. D. Last reply: 3 days ago  Dominican Republic 
+ Over USD 3,000 
+ Last month 
+ Ruby On Rails Engineer 
+ Published: Last month  Project duration: 3 - 4 months Bids: 8 
+ PartnerHero is a company that is transforming outsourcing. The BPO (Business Process Outsourcing) / call center sector has seen little innovation over the past 30 years and is perhaps better known for creating factory-like conditions that are unsustainable for employees and the businesses they serve. 
+ That’s where we come in. 
+ Our vision is to combine professional services (outsourcing), technology (software), and insights (data) to create value and drive success for our partners. We are quality and culture first, and we build highly customized remote teams for some of the world’s most exciting startups. Companies like Etsy, Udemy, Rachio, Duet, and BentoBox look to us when needing to build and scale their customer support, sales, software testing, design and general operations. 
+We are known for our focus and expertise in supporting fast-growing startups and addressing their unique needs. Read more about our Core Values and story here. 
+ About the Role 
+PartnerHero is looking for a smart, driven, enthusiastic Ruby On Rails Engineer to join our team. We are a collective focused on solving problems and facilitating solutions for a wealth of companies. This is a chance to be part of a growing organization that is dedicated to engineering best practices, as well as continually providing opportunities for professional growth. 
+We are results-driven, nimble, and we thrive in experimentation and rapid iteration. 
+ We are looking for candidates with deep SaaS and eCommerce experience, a strong sense of ownership, and who are proficient in scaling Ruby On Rails and managing a Product team. 
+ As a PartnerHero RoR Engineer, you will help stakeholders prioritize what needs to be improved on the platform, as well as manage the development of an existing Engineering team. Your responsibilities will range from ideation and architectural planning to hands-on implementation and testing. You must be able (and excited) to accept responsibility for scaling an enterprise-grade SaaS product. 
+ What You Bring to the Table 
+3+ years of experience with Ruby on Rails, along with other common libraries such as RSpec 
+Knowledge and experience in scaling RoR applications 
+Experience working with MySQL databases 
+Experience with DevOps is preferred 
+Demonstrable knowledge of front-end technologies such as Javascript, html, css, and jquery 
+2+ years of relevant, hands-on experience working on an engineering team 
+scrum or agile experience is a plus 
+ what you can expect 
+write clean, maintainable, and efficient code 
+work with the support team to improve the system based on the user's needs and feedback 
+contribute to building the best possible systems that will be used by hundreds of users 
+research & recommend new technologies, set best practices & coding standards 
+contribute to keeping high code quality through refactoring & automated testing 
+ what we provide you 
+competitive salary compensation based on experience 
+permanent contract 
+competitive salary compensation based on experience in usd 
+attractive benefits package such as medical, dental, and vision (determined by location) 
+training opportunities provided by partnerhero and outside entities 
+ability to own your career and determine your next move at partnerhero 
+equipment needed to be successful in your role 
+ why partnerhero? 
+we are people, not numbers. 
+ Join a people-focused company where you can make an impact. We strive on being a diverse community of exceptional people and can guarantee you will have the opportunity to learn and grow while working with us. 
+ PartnerHero is an equal opportunity employer and upholds a zero-tolerance policy for discrimination or harassment of any kind. We are not simply committed to diversity - we celebrate it and foster it within the core ethos of our community. We know that diversity makes us stronger for our people, our partners, and the customers we support by being representative and inclusive of a variety of backgrounds, skills and perspectives. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Full time 
+ Roles needed  : Developer 
+ Published by:  G. B. M. Last reply: Last month  Brazil 
+ USD 20 - 30 / hour 
+ Last month 
+ Evoting application web design for the election of the head of the ... 
+ Published: Last month  Bids: 8 
+ Admin creates a user for voters and candidates for neighborhood chairman, voters can vote by personal through the website and can only do one election in the election, candidates can provide their vision and mission through the candidate's access rights menu and can see the provisional results and final results of the election in chart form pie chart 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  A. P. Indonesia 
+ USD 100 - 250 
+ 2 months ago 
+ Classic Asp developer 
+ Published: 2 months ago  Bids: 2 
+ We are looking for Classic ASP developer with solid experience in that technology, with English conversational skills. 
+We are working with a company that provides industry-leading enterprise SaaS solutions to government transportation and environmental organizations in the US. 
+ Their products support a diverse range of critical workflows for agencies planning the US’s vast transportation infrastructure. They have built a software that transforms data into integrated real-time insights enabling the management of transportation improvement projects worth hundreds of billions of dollars. Their SaaS solutions are also extensively utilized in integrating workflow and data sets for the management of environmental projects. 
+ They have a nimble and entrepreneurial team of multi-talented individuals who care deeply about their commitments to customers and to each other. What they value the most is collaboration, humility, accountability, efficiency, and a relentless drive for excellence. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Other (Other APIs) 
+ Roles needed  : Developer, Other 
+ Other roles needed  : DB developer 
+ Published by:  D. R. Argentina 
+ USD 1,000 - 3,000 
+ 4 months ago 
+ Frontend Developer 
+ Published: 4 months ago  Project duration: 1 - 2 months Bids: 4 
+ Looking for a front end developer that can assist me delivering templates to use with different systems. 
+ The HTML part of projects might use twig, blade or php. 
+CSS3 and Javascript (most of the time with jQuery). 
+ Developer should have a work environment in either Mac or Linux due to the heavy usage of Docker and Docker Compose for the projects. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Create a new custom site 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : Part time 
+ Roles needed  : Developer 
+ Published by:  A. M. L. Last reply: 3 months ago  Costa Rica 
+ USD 20 - 30 / hour 
+ 4 months ago 
+ Frontend Developer - React/Angular - Javascript 
+ Published: 4 months ago  Bids: 11 
+ I need a software developer with expertise on: 
+- Javascript 
+- React and/or Angular 
+- TypeScript, Es6 
+- mvc patterns 
+- html, css 
+- intermediate level of english required. 
+ Salary in USD. Full-time position 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  D. C. Last reply: 3 months ago  Argentina Payment method:  __Verified 
+ USD 1,000 - 3,000 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 
