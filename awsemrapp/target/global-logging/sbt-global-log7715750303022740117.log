@@ -1,0 +1,49 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(;Test/compile; collectAnalyses, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Done"})[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(Test/compile, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskStart, {"taskId":{"id":"9","parents":[]},"eventTime":1615834577212,"message":"Compiling root","dataKind":"compile-task","data":{"target":{"uri":"file:/home/cjen/week10/awsemrapp/#root/Compile"}}})[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/cjen/week10/awsemrapp/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"compiling 1 Scala source to /home/cjen/week10/awsemrapp/target/scala-2.13/classes ..."})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala"},"buildTarget":{"uri":"file:/home/cjen/week10/awsemrapp/#root/Compile"},"diagnostics":[{"range":{"start":{"line":2,"character":7},"end":{"line":2,"character":17}},"severity":1,"source":"sbt","message":"object apache is not a member of package org"}],"reset":false})[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala:3:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"/home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala:3:12: object apache is not a member of package org"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"import org.apache.spark.sql.SparkSession"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"           ^"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala"},"buildTarget":{"uri":"file:/home/cjen/week10/awsemrapp/#root/Compile"},"diagnostics":[{"range":{"start":{"line":3,"character":7},"end":{"line":3,"character":17}},"severity":1,"source":"sbt","message":"object apache is not a member of package org"}],"reset":false})[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala:4:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"/home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala:4:12: object apache is not a member of package org"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"import org.apache.spark._"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"           ^"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala"},"buildTarget":{"uri":"file:/home/cjen/week10/awsemrapp/#root/Compile"},"diagnostics":[{"range":{"start":{"line":9,"character":20},"end":{"line":9,"character":32}},"severity":1,"source":"sbt","message":"not found: value SparkSession"}],"reset":false})[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala:10:21: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m        val spark = SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"/home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala:10:21: not found: value SparkSession"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"        val spark = SparkSession"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"                    ^"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala"},"buildTarget":{"uri":"file:/home/cjen/week10/awsemrapp/#root/Compile"},"diagnostics":[{"range":{"start":{"line":21,"character":29},"end":{"line":21,"character":41}},"severity":1,"source":"sbt","message":"not found: type SparkSession"}],"reset":false})[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala:22:30: not found: type SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    def helloSparkEMR(spark: SparkSession): Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"/home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala:22:30: not found: type SparkSession"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"    def helloSparkEMR(spark: SparkSession): Unit = {"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"                             ^"})[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"four errors found"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/cjen/week10/awsemrapp/src/main/scala/com/cjen/awsemrapp/Runner.scala"},"buildTarget":{"uri":"file:/home/cjen/week10/awsemrapp/#root/Compile"},"diagnostics":[{"range":{"start":{"line":2,"character":7},"end":{"line":2,"character":17}},"severity":1,"source":"sbt","message":"object apache is not a member of package org"},{"range":{"start":{"line":3,"character":7},"end":{"line":3,"character":17}},"severity":1,"source":"sbt","message":"object apache is not a member of package org"},{"range":{"start":{"line":9,"character":20},"end":{"line":9,"character":32}},"severity":1,"source":"sbt","message":"not found: value SparkSession"},{"range":{"start":{"line":21,"character":29},"end":{"line":21,"character":41}},"severity":1,"source":"sbt","message":"not found: type SparkSession"}],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskFinish, {"taskId":{"id":"9","parents":[]},"eventTime":1615834577410,"message":"Compiled root","status":2,"dataKind":"compile-report","data":{"target":{"uri":"file:/home/cjen/week10/awsemrapp/#root/Compile"},"errors":4,"warnings":0,"time":198}})[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"(Compile / \u001b[31mcompileIncremental\u001b[0m) Compilation failed"})[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed Mar 15, 2021 1:56:17 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Done"})[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled request received: shutdown: JsonRpcRequestMessage(2.0, ♨4, shutdown, null})[0m
