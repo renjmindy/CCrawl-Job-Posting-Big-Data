@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:3:12: object amazonaws is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.amazonaws.services.s3.AmazonS3Client[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:4:12: object amazonaws is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.amazonaws.auth.BasicAWSCredentials[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:5:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:9:17: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    val spark = SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

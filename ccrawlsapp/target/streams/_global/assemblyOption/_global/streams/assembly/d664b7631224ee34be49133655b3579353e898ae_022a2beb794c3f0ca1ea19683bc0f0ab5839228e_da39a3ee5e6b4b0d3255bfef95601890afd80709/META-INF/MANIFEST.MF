@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Bundle-Description: Jetty module for Jetty :: XML utilities
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0, http://www
+ .eclipse.org/org/documents/epl-v10.php
+Bundle-SymbolicName: org.eclipse.jetty.xml
+Implementation-Version: 9.3.19.v20170502
+Built-By: joakim
+Bnd-LastModified: 1493760951211
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Copyright: Copyright (c) 2008-2017 Mort Bay Consulting Pty. Ltd
+ .
+Bundle-DocURL: http://www.eclipse.org/jetty
+Bundle-Vendor: Eclipse Jetty Project
+Import-Package: org.eclipse.jetty.util;version="[9.3.19,9.3.20)",org.e
+ clipse.jetty.util.component;version="[9.3.19,9.3.20)",org.eclipse.jet
+ ty.util.log;version="[9.3.19,9.3.20)",org.eclipse.jetty.util.resource
+ ;version="[9.3.19,9.3.20)",javax.xml.parsers,org.xml.sax,org.xml.sax.
+ helpers
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+url: http://www.eclipse.org/jetty
+Tool: Bnd-3.0.0.201509101326
+Implementation-Vendor: Eclipse.org - Jetty
+Originally-Created-By: Apache Maven Bundle Plugin
+Export-Package: org.eclipse.jetty.xml;version="9.3.19";uses:="org.xml.
+ sax"
+Bundle-Name: Jetty :: XML utilities
+Bundle-Version: 9.3.19.v20170502
+Bundle-Classpath: .
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.8.0_111
+

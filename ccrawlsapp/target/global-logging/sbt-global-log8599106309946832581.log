@@ -1,0 +1,49 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(;Test/compile; collectAnalyses, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Done"})[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(Test/compile, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskStart, {"taskId":{"id":"37","parents":[]},"eventTime":1614272542816,"message":"Compiling root","dataKind":"compile-task","data":{"target":{"uri":"file:/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/#root/Compile"}}})[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/cjen/210104-usf-bigdata/week8/ccrawlsapp/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"compiling 1 Scala source to /home/cjen/210104-usf-bigdata/week8/ccrawlsapp/target/scala-2.13/classes ..."})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala"},"buildTarget":{"uri":"file:/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/#root/Compile"},"diagnostics":[{"range":{"start":{"line":2,"character":7},"end":{"line":2,"character":20}},"severity":1,"source":"sbt","message":"object amazonaws is not a member of package com"}],"reset":false})[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:3:12: object amazonaws is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.amazonaws.services.s3.AmazonS3Client[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:3:12: object amazonaws is not a member of package com"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"import com.amazonaws.services.s3.AmazonS3Client"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"           ^"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala"},"buildTarget":{"uri":"file:/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/#root/Compile"},"diagnostics":[{"range":{"start":{"line":3,"character":7},"end":{"line":3,"character":20}},"severity":1,"source":"sbt","message":"object amazonaws is not a member of package com"}],"reset":false})[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:4:12: object amazonaws is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.amazonaws.auth.BasicAWSCredentials[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:4:12: object amazonaws is not a member of package com"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"import com.amazonaws.auth.BasicAWSCredentials"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"           ^"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala"},"buildTarget":{"uri":"file:/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/#root/Compile"},"diagnostics":[{"range":{"start":{"line":4,"character":7},"end":{"line":4,"character":17}},"severity":1,"source":"sbt","message":"object apache is not a member of package org"}],"reset":false})[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:5:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:5:12: object apache is not a member of package org"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"import org.apache.spark.sql.SparkSession"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"           ^"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala"},"buildTarget":{"uri":"file:/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/#root/Compile"},"diagnostics":[{"range":{"start":{"line":8,"character":16},"end":{"line":8,"character":28}},"severity":1,"source":"sbt","message":"not found: value SparkSession"}],"reset":false})[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:9:17: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    val spark = SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala:9:17: not found: value SparkSession"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"    val spark = SparkSession"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"                ^"})[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"four errors found"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/cjen/210104-usf-bigdata/week8/ccrawlsapp/src/main/scala/com/revature/ccrawlsapp/Runner.scala"},"buildTarget":{"uri":"file:/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/#root/Compile"},"diagnostics":[{"range":{"start":{"line":2,"character":7},"end":{"line":2,"character":20}},"severity":1,"source":"sbt","message":"object amazonaws is not a member of package com"},{"range":{"start":{"line":3,"character":7},"end":{"line":3,"character":20}},"severity":1,"source":"sbt","message":"object amazonaws is not a member of package com"},{"range":{"start":{"line":4,"character":7},"end":{"line":4,"character":17}},"severity":1,"source":"sbt","message":"object apache is not a member of package org"},{"range":{"start":{"line":8,"character":16},"end":{"line":8,"character":28}},"severity":1,"source":"sbt","message":"not found: value SparkSession"}],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskFinish, {"taskId":{"id":"37","parents":[]},"eventTime":1614272542909,"message":"Compiled root","status":2,"dataKind":"compile-report","data":{"target":{"uri":"file:/home/cjen/210104-usf-bigdata/week8/ccrawlsapp/#root/Compile"},"errors":4,"warnings":0,"time":93}})[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"(Compile / \u001b[31mcompileIncremental\u001b[0m) Compilation failed"})[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed Feb 25, 2021 11:02:22 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Done"})[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled request received: shutdown: JsonRpcRequestMessage(2.0, ♨3, shutdown, null})[0m

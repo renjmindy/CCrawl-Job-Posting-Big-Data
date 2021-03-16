@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Bundle-Description: Jetty module for Jetty :: Webapp Application Suppo
+ rt
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0, http://www
+ .eclipse.org/org/documents/epl-v10.php
+Bundle-SymbolicName: org.eclipse.jetty.webapp
+Implementation-Version: 9.3.19.v20170502
+Built-By: joakim
+Bnd-LastModified: 1493761099090
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Copyright: Copyright (c) 2008-2017 Mort Bay Consulting Pty. Ltd
+ .
+Bundle-DocURL: http://www.eclipse.org/jetty
+Bundle-Vendor: Eclipse Jetty Project
+Import-Package: javax.servlet;version="[2.6.0,3.2)",javax.servlet.desc
+ riptor;version="[2.6.0,3.2)",javax.servlet.http;version="[2.6.0,3.2)"
+ ,org.eclipse.jetty.http;version="[9.3.19,9.3.20)",org.eclipse.jetty.h
+ ttp.pathmap;version="[9.3.19,9.3.20)",org.eclipse.jetty.security;vers
+ ion="[9.3.19,9.3.20)",org.eclipse.jetty.server;version="[9.3.19,9.3.2
+ 0)",org.eclipse.jetty.server.handler;version="[9.3.19,9.3.20)",org.ec
+ lipse.jetty.server.session;version="[9.3.19,9.3.20)",org.eclipse.jett
+ y.servlet;version="[9.3.19,9.3.20)",org.eclipse.jetty.util;version="[
+ 9.3.19,9.3.20)",org.eclipse.jetty.util.annotation;version="[9.3.19,9.
+ 3.20)",org.eclipse.jetty.util.component;version="[9.3.19,9.3.20)",org
+ .eclipse.jetty.util.log;version="[9.3.19,9.3.20)",org.eclipse.jetty.u
+ til.resource;version="[9.3.19,9.3.20)",org.eclipse.jetty.util.securit
+ y;version="[9.3.19,9.3.20)",org.eclipse.jetty.xml;version="[9.3.19,9.
+ 3.20)",org.xml.sax
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+url: http://www.eclipse.org/jetty
+Tool: Bnd-3.0.0.201509101326
+Implementation-Vendor: Eclipse.org - Jetty
+Originally-Created-By: Apache Maven Bundle Plugin
+Export-Package: org.eclipse.jetty.webapp;version="9.3.19";uses:="javax
+ .servlet,org.eclipse.jetty.security,org.eclipse.jetty.server,org.ecli
+ pse.jetty.server.handler,org.eclipse.jetty.server.session,org.eclipse
+ .jetty.servlet,org.eclipse.jetty.util,org.eclipse.jetty.util.annotati
+ on,org.eclipse.jetty.util.resource,org.eclipse.jetty.xml"
+Bundle-Name: Jetty :: Webapp Application Support
+Bundle-Version: 9.3.19.v20170502
+Bundle-Classpath: .
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.8.0_111
+
