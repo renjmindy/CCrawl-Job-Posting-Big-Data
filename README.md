@@ -23,6 +23,17 @@ My team worked on answering Q7: What are the top three qualifications or certifi
 - Hadoop
 - S3cmd
 - awscmd
+- python 3.8.3
+- pandas
+- numpy
+- matplotlib.pyplot
+- seaborn
+- jupyter notebook
+- PySpark (alternative)
+- Docker (alternative)
+- Scikit-learn 
+- Tensorflow or Pytorch (alternative)
+- Git + GitHub
 
 ### Machine & Deep Learning Models for NLP-related Analysis Tasks 
 
