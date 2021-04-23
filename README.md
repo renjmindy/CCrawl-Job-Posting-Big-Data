@@ -32,7 +32,7 @@ My team worked on answering Q7: What are the top three qualifications or certifi
 - PySpark (alternative)
 - Docker (alternative)
 - Scikit-learn 
-- Tensorflow or Pytorch (alternative)
+- TensorFlow or PyTorch (alternative)
 - Git + GitHub
 
 ### Machine & Deep Learning Models for NLP-related Analysis Tasks 
