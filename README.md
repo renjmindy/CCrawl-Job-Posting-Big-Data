@@ -9,7 +9,6 @@ Additionally, we utilized the [web interface](https://index.commoncrawl.org/) to
 ## Questions:
 
 ### 7/ Qualifications and Certifications
-The final project consists of an analysis of 'tech jobs' on the Common Crawl database. This set of data is a corpus of internet webpages created to make a history of internet pages. The data was collected using a combination of tools including Scala with Apache Spark, and AWS tools such as EMR, Athena, and S3. We explored the following questions using this data: 1) Where do we see fewer tech ads proportional to population? 2) What companies are posting the most tech jobs? 3) What percent of tech job posters post no more than 3 job ads a month? 4) Is there a significant spike in tech job postings at the end of business quarters? 5) Are there general trends in tech job postings over the past year? 6) What percentage of entry level jobs require experience? 7) What are the top three qualifications or certifications requested by employers?
 
 My team worked on answering Q7: What are the top three qualifications or certifications requested by employers?
 
